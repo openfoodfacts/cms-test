@@ -1,0 +1,8 @@
+---
+title: "Catalogue"
+listing:
+  contents: test/
+  type: grid
+  categories: true
+  filter-ui: true
+---

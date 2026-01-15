@@ -1,0 +1,29 @@
+---
+title: "Bibliothèque thématique"
+subtitle: "Catalogue de notices bibliographiques"
+---
+
+## Bienvenue
+
+Bienvenue dans la bibliothèque thématique, un catalogue de notices bibliographiques organisé par thèmes.
+
+### À propos de ce catalogue
+
+Cette bibliothèque propose une collection de références bibliographiques soigneusement organisées pour faciliter votre recherche documentaire.
+
+### Navigation
+
+- **[Catalogue](notices.qmd)** : Parcourez l'ensemble des notices bibliographiques
+- **[À propos](apropos.qmd)** : En savoir plus sur ce projet
+
+### Dernières mises à jour
+
+Ce catalogue est régulièrement mis à jour avec de nouvelles références.
+
+---
+
+::: {.callout-note}
+## Comment utiliser ce catalogue
+
+Utilisez la barre de navigation pour accéder aux différentes sections. Le catalogue complet est accessible depuis le menu "Catalogue".
+:::
