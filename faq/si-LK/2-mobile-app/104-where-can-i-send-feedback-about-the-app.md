@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
-order: 104
+title: "යෙදුම පිළිබඳ ප්‍රතිපෝෂණ මට යැවිය හැක්කේ කොතැනින්ද?"
+order: 104 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ජංගම-යෙදුම
+breadcrumbs: [ '/si-gb/', '/si-gb/2-ජංගම-යෙදුම/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+ඔබට mobile@openfoodfacts.org වෙත ප්‍රතිපෝෂණ යැවිය හැක.
