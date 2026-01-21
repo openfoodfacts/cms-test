@@ -1,9 +1,9 @@
 ---
-title: "Hvor kan jeg sende tilbakemelding om appen?"
+title: "Hvor kan jeg sende en tilbakemelding om appen?"
 order: 104
 lang: no-no
-category: 2-mobilapp
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobilapp/' ]
+category: 2-mobil-app
+breadcrumbs: [ '/radgiver/', '/no_NO/no' ]
 ---
 
-Du kan sende tilbakemeldinger til mobile@openfoodfacts.org
+Du kan sende tilbakemelding til mobile@openfoodfacts.org
