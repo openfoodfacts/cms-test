@@ -2,8 +2,12 @@
 title: "Як мені змінити своє ім'я користувача?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-мій-відкритий-акаунт-фактів-про-їжу
+breadcrumbs:
+  [
+    '/uk-gb/',
+    '/uk-gb/1-мій-відкритий-акаунт-фактів-про-їжу/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+На жаль, це неможливо. Якщо ви дійсно хочете змінитися, вам доведеться видалити свій обліковий запис і створити новий.
