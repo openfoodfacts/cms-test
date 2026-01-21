@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Quo de applicatione responsa mittere possum?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
+category: Applicatio mobilis 2
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Ad mobile@openfoodfacts.org responsa mittere potes.
