@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Ninawezaje kupata/kukusanya data kwa ajili ya miradi yangu?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: Miradi 26 ya shule
+parent_category: Watafiti 25-msomi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/sw-gb/',
+    '/en-gb/25-researchers-msomi/',
+    '/sw-gb/25-researchers-scholar/26-school-projects/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Kwenye ukurasa mkuu wa Open Food Facts, kwenye kona ya juu kushoto ya skrini, kuna menyu ya kusogeza. Chini yake, utapata chaguo la "utafutaji wa hali ya juu", ambalo unaweza kubofya. Kisha ni juu yako kuamua ni vigezo gani vinavyofaa zaidi kwa mradi wako. Ukishachagua, utaweza kupakua matokeo yaliyopatikana kwa kusogeza chini chini ya ukurasa na kubofya "Pakua matokeo".
