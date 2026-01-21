@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "ຂ້ອຍສາມາດເຂົ້າເຖິງຂໍ້ມູນປະຫວັດສາດໄດ້ແນວໃດ?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
+category: ການນຳໃຊ້ຂໍ້ມູນ 12-api ຄືນໃໝ່
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+ປະຈຸບັນ, ພວກເຮົາຍັງບໍ່ມີບໍລິການ dump ຂໍ້ມູນປະຫວັດສາດ (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ສຳລັບຜະລິດຕະພັນແຕ່ລະອັນ, ມັນສາມາດເຂົ້າເຖິງຂໍ້ມູນຜະລິດຕະພັນລຸ້ນກ່ອນໜ້ານີ້ໂດຍໃຊ້ API ຫຼື ໃນໜ້າຜະລິດຕະພັນໂດຍໃຊ້ການແກ້ໄຂ.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+ທຸກໆຄັ້ງທີ່ຜະລິດຕະພັນຖືກອັບເດດ, ການແກ້ໄຂໃໝ່ (ຕົວເລກເພີ່ມຂຶ້ນເລີ່ມຈາກ 1) ຈະຖືກສ້າງຂຶ້ນ.
 
-For example, to get the first revision (=first product version) of this product, use
+ຕົວຢ່າງ, ເພື່ອໃຫ້ໄດ້ການແກ້ໄຂຄັ້ງທຳອິດ (=ລຸ້ນຜະລິດຕະພັນທຳອິດ) ຂອງຜະລິດຕະພັນນີ້, ໃຫ້ໃຊ້
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+ເຊັ່ນດຽວກັນ, ພາລາມິເຕີ rev ສາມາດໃຊ້ກັບ API ໄດ້:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
