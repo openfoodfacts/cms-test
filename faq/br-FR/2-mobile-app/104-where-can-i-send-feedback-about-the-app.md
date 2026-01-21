@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Pelec'h e c'hellan kas evezhiadennoù diwar-benn an arload ?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-arload-hezoug
+breadcrumbs: [ '/br-gb/', '/br-gb/2-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Gallout a rit kas evezhiadennoù da mobile@openfoodfacts.org
