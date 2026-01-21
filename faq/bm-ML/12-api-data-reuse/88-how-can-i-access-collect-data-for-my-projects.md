@@ -1,15 +1,19 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "Ne bɛ se ka kunnafoniw sɔrɔ/ka kunnafoniw lajɛ cogo di n ka porozew kama?"
+order: 88. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-baarakɛcogo kura
+breadcrumbs:
+  [
+    '/bamanankan-gb/ .',
+    '/en-gb/12-api-data-segin-ka-baara/'
+  ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts ɲɛba kan, ekran sanfɛla kinin fɛ, menu dɔ bɛ yen min bɛ taa ɲɛ. A jukɔrɔ, i bɛna “ɲini kɔrɔlen” sugandi, i bɛ se ka min digi. O kɔfɛ, a bɛ i yɛrɛ de bolo k’a dɔn sariya minnu bɛ bɛn i ka poroze (poroze) ma kosɛbɛ. Ni i sugandira ka ban, i bɛ se ka jaabi sɔrɔlenw telesarse ni i ye i ɲɛsin duguma ɲɛ jukɔrɔ ani ka “Jaabiw telesarse” digi.
 
-You can also consult:
+Aw bɛ se ka lajɛ fana kɛ:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- An ka API sɛbɛnw: https://openfoodfacts.github.io/api-documentation/
+- Open Food Facts ka baarakɛcogo sariyaw: https://world.openfoodfacts.org/terms-of-use
+- An ka kunnafoniw kan: https://world.openfoodfacts.org/data
