@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
+title: "Aku pengin menehi saran kanggo perbaikan platform profesional, kepiye carane?"
 order: 79
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-babagan-fakta-panganan-sing-mbukak
+parent_category: 3-produser
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-produser/',
+    '/en-gb/3-produsen/17-babagan-fakta-panganan-sing-terbuka/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+Matur nuwun kanggo kekarepan sampeyan kanggo melu transparansi pangan!
 
-The best way to share feedback is by filling in this form.
+Cara paling apik kanggo nuduhake masukan yaiku kanthi ngisi formulir iki.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+Sampeyan uga bisa ngubungi kita kanggo menehi saran liwat forum utawa liwat Slack.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Gabung karo Slack kita lan mlebu saluran #producers kanggo ngubungi kita.
