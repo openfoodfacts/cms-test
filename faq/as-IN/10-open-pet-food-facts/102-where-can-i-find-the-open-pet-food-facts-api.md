@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "মুক্ত পোহনীয়া জন্তুৰ খাদ্যৰ তথ্য এপিআই ক'ত পাম ?"
+order: ১০২
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: ১০-মুকলি-পোহন জন্তুৰ খাদ্য-তথ্য
+breadcrumbs: [ '/as-gb/', '/as-gb/10-মুকলি-পোহন জন্তুৰ খাদ্য-তথ্য/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+মুক্ত পোহনীয়া জন্তুৰ খাদ্য তথ্য API 98% মুক্ত খাদ্য তথ্য API ৰ সৈতে একে গতিকে যদি আপুনি মুক্ত খাদ্য তথ্য API নথিপত্ৰ ব্যৱহাৰ কৰে তেন্তে আপুনি মুক্ত পোহনীয়া খাদ্যৰ তথ্য API ৰ এটা যথেষ্ট স্পষ্ট দৃশ্য থাকিব লাগে।
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+মন কৰিব যে জ্ঞান পেনেলসমূহ, ইকো-স্ক'ৰ, নিউট্ৰি-স্ক'ৰৰ দৰে বৈশিষ্ট্যসমূহ সমৰ্থিত নহয় (বিষয়ৰ বাবে, বা পুৰণি ক'ডবেছৰ বাবে)।
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://openfoodfacts.github.io/মুকলি খাদ্যৰ তথ্য-চাৰ্ভাৰ/api/ref-v2/
