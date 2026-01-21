@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Apa aku kudu nganyari kabeh file basa nalika ngganti string sumber?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-faq-teknis
+breadcrumbs: [ '/en-gb/', '/en-gb/16-faq-teknis/' ]
 ---
 
-No you don't. You just need to update the English one
+Ora, kowé ora. Sampeyan mung perlu nganyari sing basa Inggris
 
-- Create your PR
+- Gawe PR-mu
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Sawise digabung, kita bakal ngowahi basis crowdin-trigger kanthi manual lan sistem terjemahan Crowdin sing dipicu dening GitHub Actions bakal nindakake liyane kanggo basa liyane.
 
-GitHub bot then creates a new PR automatically that we then review.
+Bot GitHub banjur nggawe PR anyar kanthi otomatis sing banjur ditinjau.
