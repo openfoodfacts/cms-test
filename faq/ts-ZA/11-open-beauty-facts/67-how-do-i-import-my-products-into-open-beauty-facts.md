@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
-order: 67
+title: "Xana ndzi nga swi nghenisa njhani switirhisiwa swa mina eka Open Beauty Facts?"
+order: 67. 67
 lang: ts-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-timhaka-ti-vuxongi leti pfulekeke
+breadcrumbs: [ '/ts-gb/ .', '/ts-gb/11-vula-timhaka-yo saseka/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Tihlanganisi na producteurs@openfoodfacts.org kumbe u nghena hi ku kongoma eka
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org kutani u tihlanganisa na producteurs@openfoodfacts.org ku kuma ku rhumeriwa ko hlawuleka
