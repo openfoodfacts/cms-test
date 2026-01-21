@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Да ли постоје препоруке негде у документацији о томе која би била добра величина за отпремљене фотографије?"
 order: 40
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+То може зависити од земље, да ли је мрежа спора или скупа. Све што је веће од 5000 пиксела у тежини или висини вероватно није баш корисно. и ако некако можете да откријете да је мрежа спора, онда би чак и слика од 2000 пиксела била одлична (свакако боља него да немате слику!).
