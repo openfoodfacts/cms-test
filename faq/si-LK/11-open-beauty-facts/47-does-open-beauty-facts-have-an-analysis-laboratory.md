@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "Open Beauty Facts සතුව විශ්ලේෂණ රසායනාගාරයක් තිබේද?"
+order: 47 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: විවෘත රූපලාවන්‍ය කරුණු 11ක්
+breadcrumbs: [ '/si-gb/', '/si-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+අවාසනාවකට මෙන්, Open Beauty Facts සතුව විශ්ලේෂණ රසායනාගාරයක් නොමැත: අපි රූපලාවන්‍ය ද්‍රව්‍ය පිළිබඳ විකිපීඩියාව නිර්මාණය කිරීම අරමුණු කරගත් ස්වේච්ඡා සේවකයින්ගේ සංගමයකි.
 
-That said, if you would like to help us provide more transparency for
+කෙසේ වෙතත්, ඔබ අපට වැඩි විනිවිදභාවයක් ලබා දීමට උදව් කිරීමට කැමති නම්
 
-consumers, you can use our iPhone, Android and
+පාරිභෝගිකයින්, ඔබට අපගේ iPhone, Android සහ භාවිතා කළ හැකිය
 
-Windows Phone to add products:
+නිෂ්පාදන එකතු කිරීමට Windows Phone:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.openbeautyfacts.ස්කැනර්
 
-And to exchange and discuss the possible uses of the project, you
+ව්‍යාපෘතියේ විය හැකි භාවිතයන් හුවමාරු කර ගැනීමට සහ සාකච්ඡා කිරීමට, ඔබ
 
-can join the Facebook group of contributors:
+දායකයින්ගේ ෆේස්බුක් කණ්ඩායමට සම්බන්ධ විය හැකිය:
 
 https://www.facebook.com/groups/356858984359591/
