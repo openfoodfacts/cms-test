@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Hemm xi kundizzjonijiet biex tintuża l-API?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-use mill-ġdid
+breadcrumbs: [ '/mt-gb/', '/mt-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Id-dokumentazzjoni kollha dwar l-użu tal-API tista' tinstab fil-paġna tad-dokumentazzjoni tal-API, iżda hawn sommarju fil-qosor:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Id-database Open Food Facts hija disponibbli bħala dejta miftuħa taħt il-Liċenzja Open Database (ODbL), ara https://world.openfoodfacts.org/terms-of-use għad-dettalji legali. Iż-żewġ kundizzjonijiet huma attribuzzjoni u kondiviżjoni bl-istess mod. Jekk tgħaqqad dejta minn Open Food Facts ma' databases oħra, allura l-ODbL tirrikjedi li d-database li tirriżulta tiġi rilaxxata wkoll bħala dejta miftuħa. Ifisser ukoll li tista' tgħaqqad id-dejta biss ma' sorsi li jippermettu tali ridistribuzzjoni.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Dejjem trid tuża User-Agent apposta meta twettaq sejħiet tal-API biex tidentifika l-app tiegħek.
 
-- Rate-limits are enforced for each API endpoint.
+- Il-limiti tar-rata huma infurzati għal kull endpoint tal-API.
