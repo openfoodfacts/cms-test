@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kepiye carane ngimpor produkku menyang Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fakta-kecantikan-sing-mbukak
+breadcrumbs: [ '/en-gb/', '/en-gb/11-fakta-kecantikan-sing-mbukak/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Hubungi producteurs@openfoodfacts.org utawa langsung menyang
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org banjur hubungi producteurs@openfoodfacts.org kanggo ekspor khusus
