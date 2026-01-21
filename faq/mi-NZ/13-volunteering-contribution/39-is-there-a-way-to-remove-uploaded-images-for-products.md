@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "He ara hei tango i ngā whakaahua kua tukuna ake mō ngā hua?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-koha-tūao
+breadcrumbs: [ '/en-gb/', '/en-gb/13-tuku-tuku-tuku/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Ko ngā kaiwhakahaere anake ka taea te tango i ngā whakaahua, kia kore ai e tūkinotia.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Pātai atu ki a Slack, ki te īmēra rānei ki contact@openfoodfacts.org kia tangohia ō whakaahua tāruarua, ō whakaahua hē rānei (me ngana koe ki te tuku i te nama waehere pae, te URL rānei ki reira).
 
-We also have a new image report API if you're a programmer.
+He API pūrongo whakaahua hou tā mātou mēnā he kaihōtaka koe.
