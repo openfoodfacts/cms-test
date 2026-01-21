@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "ຂ້ອຍຈະໄດ້ຮູບພາບຂ່າວກ່ຽວກັບ Open Food Facts ໄດ້ແນວໃດ?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
+category: ການຮ້ອງຂໍສື່ມວນຊົນ 14 ຄົນ
 breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+ກະລຸນາຕິດຕໍ່: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
