@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Sò un designer. Cumu possu aiutà ?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-cuntribuzione-vuluntaria
+breadcrumbs: [ '/en-gb/', '/fr-gb/13-contribuzione-volontaria/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Coordinemu tutte l'attività relative à u disignu nant'à https://github.com/openfoodfacts/openfoodfacts-design è nant'à un canale di chat dedicatu. Facemu regularmente riunioni di squadra è brainjams nantu à sfide specifiche.
