@@ -1,15 +1,15 @@
 ---
-title: "Who is responsible for calculating the footprint and/or score?"
+title: "መን እዩ ናይ ምሕሳብ ኣሰርን/ወይ ነጥብን?"
 order: 3
 lang: en-gb
-category: 19-about-the-scores
-parent_category: 3-producers
+category: 19-ብዛዕባ-ነጥብታት
+parent_category: 3-ኣፍረይቲ
 breadcrumbs:
   [
     '/ትግርኛ-ግብ/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/19-about-the-scores/'
+    '/en-gb/3-ኣፍረይቲ/',
+    '/en-gb/3-producers/19-ብዛዕባ-ነጥብታት/'
   ]
 ---
 
-The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
+ኒውትሪ-ስኮር፣ ጉጅለ ኖቫን ኢኮ-ስኮርን ኣብ ክፉት ሓቅታት መግቢ ካብ ዘሎ መረዳእታ መሰረት ብምግባር እዩ ዝሕሰብ። ኣልጎሪዝማትና ወግዓዊ ኣገባባት ናይዞም ነጥብታት ብጥብቂ ይኽተሉ።
