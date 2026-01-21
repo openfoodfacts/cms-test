@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Wéi weess ech, wéi eng Versioun vun der App ech benotzen?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-Mobil-App
+breadcrumbs: [ '/lb-gb/', '/lb-gb/2-mobil-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Gitt op Profil,
+dann FAQ, dann Iwwer dës App.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Dir sollt
+eng Versiounsnummer wéi 3.4.5+662 gesinn. Vergiesst net eis d'Mark an de Modell
+vum Telefon ze soen, wann et Debugging gëtt.
