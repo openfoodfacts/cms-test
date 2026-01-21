@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "ຂ້ອຍຈະແປ FAQ ນີ້ເປັນພາສາຂອງຂ້ອຍໄດ້ແນວໃດ?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15 ຂໍ້ເທັດຈິງກ່ຽວກັບອາຫານທີ່ເປີດກວ້າງໃນປະເທດທີ່ໃຊ້ພາສາຂອງຂ້ອຍ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ການປັບປຸງ-ຂໍ້ເທັດຈິງກ່ຽວກັບອາຫານທີ່ເປີດກວ້າງໃນປະເທດທີ່ໃຊ້ພາສາຂອງຂ້ອຍ/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ກະລຸນາຖາມ contact@openfoodfacts.org ສຳລັບສິດໃນການແກ້ໄຂຖານຄວາມຮູ້.
