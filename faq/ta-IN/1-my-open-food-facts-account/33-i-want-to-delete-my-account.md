@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "எனது கணக்கை நீக்க விரும்புகிறேன்."
+order: 33 வது
 lang: ta-gb (ஆங்கிலம்)
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-எனது-திறந்த-உணவு-உண்மைகள்-கணக்கு
+breadcrumbs: [ '/ta-gb/', '/ta-gb/1-எனது-திறந்த-உணவு-உண்மைகள்-கணக்கு/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+கணக்கு நீக்கம் இப்போது உங்கள் விருப்பத்தேர்வுகளில் நேரடியாக நடக்கும்.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ இல் உள்நுழைந்த பிறகு, மேல் வலது மூலையில் உள்ள பயனர் பெயரைக் கிளிக் செய்து, கணக்கு அளவுருக்களைத் தேர்ந்தெடுக்கவும். இது உங்கள் விருப்பத்தேர்வுகள் பக்கத்தைத் திறக்கும். பக்கத்தின் கீழே சென்று "பயனரை நீக்கு" செயலைப் பயன்படுத்தவும்.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+உங்களால் உள்நுழைய முடியவில்லை என்றால் (அல்லது உங்கள் கடவுச்சொல்லை மீட்டமைக்க முடியவில்லை என்றால்), கணக்கைப் பதிவு செய்ய நீங்கள் பயன்படுத்தும் மின்னஞ்சல் முகவரியைப் பயன்படுத்தி dpo - at - openfoodfacts.org ஐத் தொடர்பு கொள்ளவும்.
