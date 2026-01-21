@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Katika baadhi ya matukio bidhaa hiyo hiyo inaweza kuwa na thamani tofauti za lishe kwa kila nchi, hili linashughulikiwaje katika Ukweli wa Chakula Huria?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-mchango wa kujitolea
+breadcrumbs: [ '/sw-gb/', '/en-gb/13-mchango-wa-kujitolea/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% ya muda, wazalishaji wataunda misimbopau tofauti kwa matoleo tofauti ya bidhaa zao. Mfano maarufu ni tofauti kati ya Nutella ya Kifaransa na Kijerumani kwa upande wa unene, kutokana na tofauti ya mkate katika nchi mbalimbali. Fomula 2 tofauti, misimbopau 2 tofauti.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Hata hivyo, mgongano wa msimbopau unaweza kutokea kwenye misimbo mifupi (EAN-8) ambayo kwa kawaida hutumiwa tena na baadhi ya maduka kote Ulaya na Marekani. Kwa sasa hatushughulikii migongano hiyo ya msimbopau, lakini inapaswa kuwa inawezekana kufanya hivyo kwa kupata eneo la jumla la mtumiaji (ni nadra zaidi kuwa na migongano ya msimbopau ndani ya nchi).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Kwa muda mrefu, tunawahimiza wazalishaji kuhamia EAN-13 ili kuepuka migongano hiyo ya msimbopau.
