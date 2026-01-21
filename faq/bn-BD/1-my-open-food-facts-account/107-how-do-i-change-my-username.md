@@ -2,8 +2,12 @@
 title: "আমি কিভাবে আমার ব্যবহারকারীর নাম পরিবর্তন করব?"
 order: ১০৭
 lang: en-gb সম্পর্কে
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ১-আমার-খোলা-খাবারের-তথ্য-অ্যাকাউন্ট
+breadcrumbs:
+  [
+    '/bn-জিবি/',
+    '/bn-gb/1-আমার-খোলা-খাবার-তথ্য-অ্যাকাউন্ট/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+দুর্ভাগ্যবশত, এটা সম্ভব নয়। আপনি যদি সত্যিই পরিবর্তন করতে চান, তাহলে আপনাকে আপনার অ্যাকাউন্ট মুছে ফেলতে হবে এবং একটি নতুন অ্যাকাউন্ট তৈরি করতে হবে।
