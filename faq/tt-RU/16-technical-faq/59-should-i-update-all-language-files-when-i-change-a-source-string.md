@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Чыганак юлын үзгәрткәндә барлык тел файлларын да яңартырга кирәкме?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-техник-еш бирелә торган сораулар
+breadcrumbs: [ '/en-gb/', '/en-gb/16-техник-еш-кайсы/' ]
 ---
 
-No you don't. You just need to update the English one
+Юк, сез алай эшләмисез. Сезгә инглизчәсен генә яңартырга кирәк
 
-- Create your PR
+- Үзегезнең PRыгызны булдырыгыз
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Берләштерелгәч, без crowdin-triggerны кул белән яңадан базалаштырачакбыз, ә GitHub Actions тарафыннан триггерланган Crowdin тәрҗемә системасы калганын башка телләр өчен эшләячәк.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub боты аннары без аны карап чыга торган яңа PR-ны автоматик рәвештә булдыра.
