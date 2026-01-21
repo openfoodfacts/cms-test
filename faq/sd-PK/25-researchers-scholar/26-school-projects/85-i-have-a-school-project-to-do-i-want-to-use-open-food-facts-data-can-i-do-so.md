@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "مون کي هڪ اسڪول جو منصوبو ڪرڻو آهي، مان اوپن فوڊ فيڪٽس جو ڊيٽا استعمال ڪرڻ چاهيان ٿو، ڇا مان اهو ڪري سگهان ٿو؟"
 order: 85
 lang: اين جي بي
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-اسڪول-منصوبا
+parent_category: 25-محقق-عالم
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-recerchers-scholar/',
+    '/en-gb/25-محقق-اسڪالر/26-اسڪول-منصوبا/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+اوپن فوڊ فيڪٽس، هڪ کليل ڊيٽابيس آهي، هڪ کليل منصوبو جيڪو ODbL لائسنس تحت ڪم ڪري رهيو آهي، تنهن ڪري جيستائين توهان ODbL لائسنس جي گهرجن سان متفق آهيو، توهان کي ڀليڪار آهي ته توهان پنهنجي منصوبن لاءِ اسان جي ڊيٽا کي ٻيهر استعمال ڪري سگهو ٿا :).
