@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Aku pengecer lan aku pengin menehi kontribusi rega. Kepiye carane aku bisa nindakake kuwi?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-rega-mbukak
+breadcrumbs: [ '/en-gb/', '/en-gb/29-rega-mbukak/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Sampeyan bisa nyumbang rega kanthi nggunakake API kita. Menawi panjenengan kepéngin nyumbang rega kanthi skala gedhé, mangga hubungi kita ing contact@openfoodfacts.org.
