@@ -1,15 +1,19 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Dapat ko bang i-update ang lahat ng mga file ng wika kapag binago ko ang isang source string?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-teknikal-na-mga-FAQ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/16-teknikal-na-mga-karaniwang-katanungan/'
+  ]
 ---
 
-No you don't. You just need to update the English one
+Hindi, hindi mo ginagawa. Kailangan mo lang i-update ang Ingles
 
-- Create your PR
+- Gumawa ng iyong PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Kapag na-merge na ito, manu-mano naming ire-rebase ang crowdin-trigger at ang Crowdin translation system na na-trigger ng GitHub Actions ang gagawa ng natitira para sa ibang mga wika.
 
-GitHub bot then creates a new PR automatically that we then review.
+Pagkatapos, awtomatikong lilikha ang GitHub bot ng bagong PR na aming susuriin.
