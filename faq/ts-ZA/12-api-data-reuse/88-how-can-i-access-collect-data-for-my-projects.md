@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Xana ndzi nga yi fikelela/ku hlengeleta njhani datha ya tiphurojeke ta mina?"
 order: 88
 lang: ts-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-ku tirhisiwa nakambe
+breadcrumbs: [ '/ts-gb/ .', '/ts-gb/12-ku tirhisiwa nakambe ka data/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Eka tluka lerikulu ra Open Food Facts, ekhonweni ya le henhla ya ximatsi ya xikirini, ku na menyu leyi rhendzelekaka. Ehansi ka yona, u ta kuma “advanced search,” leyi u nga yi tsindziyelaka. Kutani swi le ka wena ku kumisisa leswaku hi swihi swipimelo leswi faneleke ngopfu eka (ti)phurojeke ta wena. Loko se u hlawuriwile, u ta kota ku kopa mimbuyelo leyi kumiweke hi ku rhelela ehansi ehansi ka tluka ivi u tikhoma eka “Download results”.
 
-You can also consult:
+U nga ha tlhela u vulavurisana na:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Matsalwa ya hina ya API: https://openfoodfacts.github.io/api-documentation/
+- Mimpimanyeto ya Matirhiselo ya Tinhla ta Swakudya leti Pfulekeke: https://world.openfoodfacts.org/terms-of-use
+- Eka data ya hina: https://world.openfoodfacts.org/data
