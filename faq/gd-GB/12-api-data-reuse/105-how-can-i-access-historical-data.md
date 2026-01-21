@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Ciamar as urrainn dhomh faighinn gu dàta eachdraidheil?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ath-chleachdadh dàta-api-12
+breadcrumbs: [ '/en-gb/', '/gb-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+An-dràsta, chan eil sinn a’ tabhann dump dàta eachdraidheil (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Ach, airson thoraidhean fa leth, tha e comasach faighinn gu dreachan roimhe de dhàta an toraidh a’ cleachdadh an API no air duilleag an toraidh le bhith a’ cleachdadh ath-sgrùdaidhean.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+A h-uile uair a thèid toradh ùrachadh, thèid ath-sgrùdadh ùr (figear a’ dol am meud a’ tòiseachadh bho 1) a chruthachadh.
 
-For example, to get the first revision (=first product version) of this product, use
+Mar eisimpleir, gus a’ chiad ath-sgrùdadh (=a’ chiad dreach toraidh) den toradh seo fhaighinn, cleachd
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+San aon dòigh, faodar am paramadair rev a chleachdadh leis an API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
