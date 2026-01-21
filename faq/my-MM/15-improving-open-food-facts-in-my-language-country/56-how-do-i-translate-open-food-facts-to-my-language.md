@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "Open Food Facts ကို ကျွန်တော့်ဘာသာစကားကို ဘယ်လိုပြန်ဆိုရမလဲ။"
+order: ၅၆
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: ကျွန်တော့်ဘာသာစကားနဲ့ နိုင်ငံမှာ အစားအသောက်တွေကို ပွင့်လင်းစွာ စားသုံးနိုင်စေမယ့် အချက်အလက် ၁၅ ခု
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/၁၅-ကျွန်ုပ်၏ဘာသာစကားဖြင့် ဖွင့်လှစ်ထားသော အစားအစာဆိုင်ရာ အချက်အလက်များ တိုးတက်ကောင်းမွန်လာစေခြင်း/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support ကို သွားကြည့်ပါ။
