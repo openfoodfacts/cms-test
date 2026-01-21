@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "Ne bɛ se ka Open Beauty Facts kunnafoniw telesarse min?"
+order: 70. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-da wulilen-cɛɲa-tiɲɛw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/11-da wulilen-cɛɲi-ko/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data ɲɛ in tiɲɛna sisan. Aw bɛ se ka kunnafoniw telesarse https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
