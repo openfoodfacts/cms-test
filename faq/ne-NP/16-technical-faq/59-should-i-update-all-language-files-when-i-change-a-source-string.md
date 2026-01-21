@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "के मैले स्रोत स्ट्रिङ परिवर्तन गर्दा सबै भाषा फाइलहरू अद्यावधिक गर्नुपर्छ?"
+order: ५९
 lang: एनजीबी
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: "१६-प्राविधिक-प्राय: सोधिने प्रश्नहरू"
+breadcrumbs: [ '/ne-gb/', '/ne-gb/१६-प्राविधिक-प्रश्नोत्तर/' ]
 ---
 
-No you don't. You just need to update the English one
+होइन, तिमीलाई थाहा छैन। तपाईंले केवल अंग्रेजी अपडेट गर्न आवश्यक छ।
 
-- Create your PR
+- आफ्नो PR बनाउनुहोस्
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+एकपटक यो मर्ज भएपछि, हामी क्राउडिन-ट्रिगरलाई म्यानुअली रिबेस गर्नेछौं र GitHub Actions द्वारा ट्रिगर गरिएको क्राउडिन अनुवाद प्रणालीले अन्य भाषाहरूको लागि बाँकी काम गर्नेछ।
 
-GitHub bot then creates a new PR automatically that we then review.
+त्यसपछि GitHub बटले स्वचालित रूपमा नयाँ PR सिर्जना गर्छ जुन हामी समीक्षा गर्छौं।
