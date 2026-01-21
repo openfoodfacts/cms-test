@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "مان ايپ بابت راءِ ڪٿي موڪلي سگهان ٿو؟"
 order: 104
 lang: اين جي بي
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-موبائيل-ايپ
+breadcrumbs: [ '/en-gb/', '/sd-gb/2-موبائل-ايپ/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+توهان mobile@openfoodfacts.org تي راءِ موڪلي سگهو ٿا.
