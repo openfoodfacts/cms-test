@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Кадом намуди маълумотро бояд мубодила кард?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-фактҳо дар бораи хӯроки кушода
+parent_category: 3-продюсер
 breadcrumbs:
   [
     '/en-gb/',
     '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-producers/17-дар бораи-фактҳои-хӯроки-кушода-/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Ҳар гуна маълумоте, ки шумо доред, аз маълумоти ғизоӣ то маълумоти бастабандӣ, хуш омадед.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Ин имкон медиҳад, ки як файли пурра тартиб дода шавад, ҳамаи холҳо бо дақиқӣ ва умуман шаффофияте, ки аз ҷониби истеъмолкунандагон қадр карда мешавад, ҳисоб карда шаванд.
 
-However we do recommend you prioritize the following fields:
+Аммо, мо тавсия медиҳем, ки ба шумо афзалиятҳои зеринро диҳед:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Категорияи маҳсулот (масалан, нӯшокиҳо, панир, йогурт ва ғайра)
+- Номи маҳсулот
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- ва компонентҳо, ин майдон ҳатмӣ нест, аммо барои истифода ва муайян кардани холҳо тавсия дода мешавад.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Барои гирифтани маълумоти бештар, мо шуморо даъват менамоем, ки дастури корбарии моро зеркашӣ кунед ва/ё дарсҳои видеоии моро тамошо кунед :-)
