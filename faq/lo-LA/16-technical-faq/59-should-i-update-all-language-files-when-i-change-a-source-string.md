@@ -1,15 +1,19 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "ຂ້ອຍຄວນອັບເດດໄຟລ໌ພາສາທັງໝົດເມື່ອຂ້ອຍປ່ຽນສະຕຣິງແຫຼ່ງຂໍ້ມູນບໍ?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆທາງດ້ານເຕັກນິກ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/16-ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆທາງດ້ານເຕັກນິກ/'
+  ]
 ---
 
-No you don't. You just need to update the English one
+ບໍ່ເຈົ້າບໍ່ເຮັດ. ເຈົ້າພຽງແຕ່ຕ້ອງອັບເດດພາສາອັງກິດເທົ່ານັ້ນ
 
-- Create your PR
+- ສ້າງ PR ຂອງທ່ານ
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+ເມື່ອມັນຖືກລວມເຂົ້າກັນແລ້ວ, ພວກເຮົາຈະປ່ຽນ crowdin-trigger ດ້ວຍຕົນເອງ ແລະ ລະບົບການແປພາສາ Crowdin ທີ່ຖືກກະຕຸ້ນໂດຍ GitHub Actions ຈະເຮັດສ່ວນທີ່ເຫຼືອສຳລັບພາສາອື່ນໆ.
 
-GitHub bot then creates a new PR automatically that we then review.
+ຫຼັງຈາກນັ້ນ, bot GitHub ຈະສ້າງ PR ໃໝ່ໂດຍອັດຕະໂນມັດ ເຊິ່ງພວກເຮົາຈະກວດສອບຄືນໃໝ່.
