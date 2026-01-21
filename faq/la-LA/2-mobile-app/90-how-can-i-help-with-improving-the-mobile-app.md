@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "Quomodo adiuvare possum ad applicationem mobilem emendandam?"
+order: Nonaginta
 lang: en-gb
-category: 2-mobile-app
+category: Applicatio mobilis 2
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-How can I help with improving the mobile app ?
+Quomodo adiuvare possum ad applicationem mobilem emendandam?
 
-You can do so on the Mobile app repository
+Hoc facere potes in repositorio applicationum mobilium.
