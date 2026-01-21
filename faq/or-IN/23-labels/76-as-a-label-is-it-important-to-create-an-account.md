@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "ଏକ ଲେବଲ୍ ଭାବରେ, ଏକ ଆକାଉଣ୍ଟ୍ ତିଆରି କରିବା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ କି?"
+order: ୭୬
 lang: ଇଂ-ଜିବି
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: ୨୩-ଲେବଲ୍
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ଲେବଲ୍ସ/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ଏକ ଲେବଲ୍ ଭାବରେ, ଯେହେତୁ ଆପଣ ଉତ୍ପାଦଗୁଡ଼ିକର ସିଧାସଳଖ ଉତ୍ପାଦକ ନୁହଁନ୍ତି, ଆପଣଙ୍କୁ ଏକ ଉତ୍ପାଦକଙ୍କ ଆକାଉଣ୍ଟ ତିଆରି କରିବାକୁ ପଡିବ ନାହିଁ।
