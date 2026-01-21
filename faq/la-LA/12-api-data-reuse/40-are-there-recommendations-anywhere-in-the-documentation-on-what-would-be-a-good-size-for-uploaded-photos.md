@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "Suntne uspiam in documentis commendationes de magnitudine idonea imaginibus immissis?"
+order: quadraginta
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Id fortasse a terris pendet, utrum rete lentum an carum sit. Quidquid supra 5000 pixellorum pondere aut altitudine est probabiliter non admodum utile est. Et si aliquo modo deprehendere potes retem tardum esse, tum etiam imago duorum milium pixellorum optima esset (certe melior quam imaginem non habere!).
