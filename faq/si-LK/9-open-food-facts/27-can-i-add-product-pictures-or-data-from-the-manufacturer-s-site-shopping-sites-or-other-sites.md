@@ -1,0 +1,11 @@
+---
+title: "මට නිෂ්පාදකයාගේ අඩවියෙන්, සාප්පු සවාරි අඩවිවලින් හෝ වෙනත් අඩවිවලින් නිෂ්පාදන පින්තූර හෝ දත්ත එක් කළ හැකිද?"
+order: 27 දින
+lang: si-gb (ඉංග්‍රීසි බසින්)
+category: විවෘත ආහාර පිළිබඳ කරුණු 9ක්
+breadcrumbs: [ '/si-gb/', '/si-gb/9-open-food-facts/' ]
+---
+
+Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
+
+To avoid any legal problem, we therefore ask contributors to only add pictures that they took themselves, and only data that is coming from the product packaging and label.
