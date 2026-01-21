@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Оё шароит барои истифодаи API вуҷуд дорад?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: Истифодаи такрории маълумоти 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Ҳама ҳуҷҷатҳо дар бораи истифодаи API-ро дар саҳифаи ҳуҷҷатҳои API пайдо кардан мумкин аст, аммо дар ин ҷо хулосаи кӯтоҳ оварда шудааст:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Пойгоҳи додаҳои Open Food Facts ҳамчун маълумоти кушода тибқи Литсензияи Open Position Database (ODbL) дастрас аст, барои тафсилоти ҳуқуқӣ ба https://world.openfoodfacts.org/terms-of-use нигаред. Ин ду шарт мансубият ва тақсими якхела мебошанд. Агар шумо маълумотро аз Open Food Facts бо дигар пойгоҳҳои додаҳо якҷоя кунед, пас ODbL талаб мекунад, ки пойгоҳи додаҳои натиҷавӣ низ ҳамчун маълумоти кушода нашр карда шаванд. Ин инчунин маънои онро дорад, ки шумо метавонед маълумотро танҳо бо манбаъҳое муттаҳид кунед, ки чунин тақсимоти такрориро имконпазир мегардонанд.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Ҳангоми иҷрои зангҳои API барои муайян кардани барномаи худ, шумо бояд ҳамеша аз агенти корбарии корбар истифода баред.
 
-- Rate-limits are enforced for each API endpoint.
+- Маҳдудиятҳои суръат барои ҳар як нуқтаи ниҳоии API татбиқ карда мешаванд.
