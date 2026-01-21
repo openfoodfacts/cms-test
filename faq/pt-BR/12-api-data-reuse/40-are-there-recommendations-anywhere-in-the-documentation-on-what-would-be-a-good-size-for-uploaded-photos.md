@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Existe alguma recomendação na documentação sobre qual seria um bom tamanho para as fotos enviadas?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-reutilização de dados da API
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Isso pode depender do país, se a rede for lenta ou cara. Qualquer coisa acima de 5000 pixels em largura ou altura provavelmente não é muito útil. E se você conseguir detectar de alguma forma que a rede está lenta, então mesmo uma imagem de 2000 pixels seria ótima (certamente melhor do que não ter imagem nenhuma!).
