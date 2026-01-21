@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "ഈ പതിവ് ചോദ്യങ്ങൾ എന്റെ ഭാഷയിലേക്ക് എങ്ങനെ വിവർത്തനം ചെയ്യാം?"
+order: 57   അദ്ധ്യായം 57
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 15-improving-open-food-facts-in-my-language-country
+category: എന്റെ ഭാഷയിലുള്ള രാജ്യത്ത് 15 ഭക്ഷണസാധനങ്ങൾ മെച്ചപ്പെടുത്തുന്നു
 breadcrumbs:
   [
-    '/en-gb/',
+    '/എംഎൽ-ജിബി/',
     '/en-gb/15-improving-open-food-facts-in-my-language-country/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+നോളജ് ബേസിലേക്കുള്ള എഡിറ്റ് ആക്‌സസിനായി contact@openfoodfacts.org എന്ന വിലാസത്തിൽ ബന്ധപ്പെടുക.
