@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Ndingadhawunirodha kupi data reOpen Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-zvinhu-zvakavhurika-zverunako
+breadcrumbs: [ '/sn-gb/', '/sn-gb/11-ruzivo-rwakavhurika-runako/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Peji re /data raputsika parizvino. Unogona kudhawunirodha data iri pa https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
