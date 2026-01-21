@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "So metumi de API no ahwehwɛ ade din pɔtee bi?"
+order: 66. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-a wɔde di dwuma bio
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/12-api-data-san de di dwuma/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Awerɛhosɛm ne sɛ ennya ntumi nyɛ mmerɛw sɛ wobɛhwehwɛ wɔ ade din nkutoo so na wɔayɛ no pɛpɛɛpɛ denam API no so.
 
-Using a filter on category might help you make your search more precise though.
+Filter a wode bedi dwuma wɔ category so no betumi aboa wo ma wo hwehwɛ no ayɛ pɛpɛɛpɛ nanso.
