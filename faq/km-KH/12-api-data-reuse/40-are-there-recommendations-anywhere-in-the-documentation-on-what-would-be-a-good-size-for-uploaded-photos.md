@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "តើមានការណែនាំនៅកន្លែងណាមួយនៅក្នុងឯកសារអំពីទំហំដែលល្អសម្រាប់រូបថតដែលបានផ្ទុកឡើងដែរឬទេ?"
+order: ៤០
 lang: អង់គ្លេស-ជីកាបៃ
-category: 12-api-data-reuse
+category: ការប្រើប្រាស់ទិន្នន័យឡើងវិញ 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+នោះ​អាច​អាស្រ័យ​លើ​ប្រទេស​នានា ថាតើ​បណ្ដាញ​យឺត ឬ​ថ្លៃ​ឬ​អត់។ អ្វីដែលលើសពី 5000 ភីកសែល ទាំងទម្ងន់ ឬកម្ពស់ ប្រហែលជាមិនមានប្រយោជន៍ខ្លាំងទេ។ ហើយប្រសិនបើអ្នកអាចរកឃើញថាបណ្តាញយឺត នោះសូម្បីតែរូបភាព 2000 ភីកសែលក៏ល្អដែរ (ពិតជាប្រសើរជាងការមិនមានរូបភាព!)
