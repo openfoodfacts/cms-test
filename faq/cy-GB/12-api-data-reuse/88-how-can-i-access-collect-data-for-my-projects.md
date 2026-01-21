@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Sut alla i gael mynediad at/casglu data ar gyfer fy mhrosiectau?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ailddefnyddio-data-12-api
+breadcrumbs: [ '/cy-gb/', '/cy-gb/12-api-data-ailddefnyddio/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Ar brif dudalen Open Food Facts, yng nghornel chwith uchaf y sgrin, mae yna ddewislen sgrolio. Ar waelod y dudalen hon, fe welwch yr opsiwn “chwilio uwch”, y gallwch glicio arno. Yna chi sydd i benderfynu pa feini prawf sydd fwyaf perthnasol i'ch prosiect(au). Ar ôl i chi ddewis, byddwch chi’n gallu lawrlwytho’r canlyniadau a gafwyd drwy sgrolio i lawr ar waelod y dudalen a chlicio ar “Lawrlwytho canlyniadau”.
 
-You can also consult:
+Gallwch hefyd ymgynghori â:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Ein dogfennaeth API: https://openfoodfacts.github.io/api-documentation/
+- Telerau Defnyddio Ffeithiau Bwyd Agored: https://world.openfoodfacts.org/terms-of-use
+- Ar ein data: https://world.openfoodfacts.org/data
