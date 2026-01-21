@@ -2,8 +2,8 @@
 title: "İstifadəçi adımı necə dəyişdirim?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mənim-açıq-qida-faktları-hesabım
+breadcrumbs: [ '/en-gb/', '/az-gb/1-mənim-açıq-qida-faktları-hesabım/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Təəssüf ki, bu mümkün deyil. Həqiqətən də dəyişiklik etmək istəyirsinizsə, hesabınızı silib yenisini yaratmalısınız.
