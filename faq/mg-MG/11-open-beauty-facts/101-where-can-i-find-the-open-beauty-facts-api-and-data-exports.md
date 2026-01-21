@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Aiza no ahitako ny Open Beauty Facts API sy ny fanondranana angona?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-zava-misy-mihitsy-ny-hatsaran-tarehy
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/11-zava-misy-momba-ny-hatsaran-tarehy-misokatra/'
+  ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Mitovy 98% amin'ny Open Beauty Facts API ny Open Food Facts API, koa raha mampiasa antontan-taratasy Open Food Facts API ianao dia tokony ho mazava tsara ny mombamomba azy.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Mariho fa tsy tohana ireo endri-javatra toy ny Knowledge Panels, Eco-Score, ary Nutri-Score (na noho ny lohahevitra, na noho ny codebase taloha).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
