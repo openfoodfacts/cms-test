@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Кушымта турында фикерләрегезне кая җибәрергә мөмкин?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2 мобиль кушымта
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобиль кушымта/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Фикерләрегезне mobile@openfoodfacts.org адресына җибәрә аласыз
