@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "ရင်းမြစ်စာကြောင်းကို ပြောင်းလဲတဲ့အခါ ဘာသာစကားဖိုင်အားလုံးကို အပ်ဒိတ်လုပ်သင့်ပါသလား။"
+order: ၅၉
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: ၁၆-နည်းပညာ-အမေးများသောမေးခွန်းများ
+breadcrumbs: [ '/en-gb/', '/en-gb/၁၆-နည်းပညာဆိုင်ရာ-အမေးအဖြေများ/' ]
 ---
 
-No you don't. You just need to update the English one
+မဟုတ်ဘူး မင်းမလုပ်ဘူး။ အင်္ဂလိပ်လို အပ်ဒိတ်လုပ်ရုံပဲ လိုတော့တယ်
 
-- Create your PR
+- သင့်ရဲ့ PR ကို ဖန်တီးပါ
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+ပေါင်းစည်းပြီးသည်နှင့် crowdin-trigger ကို ကိုယ်တိုင်ပြန်လည်ပြုပြင်ပြီး GitHub Actions မှ trigger လုပ်ထားသော Crowdin ဘာသာပြန်စနစ်က အခြားဘာသာစကားများအတွက် ကျန်တာကို လုပ်ဆောင်ပေးပါမည်။
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub bot သည် PR အသစ်တစ်ခုကို အလိုအလျောက်ဖန်တီးပေးပြီး ၎င်းကို ကျွန်ုပ်တို့ ပြန်လည်သုံးသပ်ပါသည်။
