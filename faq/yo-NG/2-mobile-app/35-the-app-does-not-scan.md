@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Àpù náà kò ṣe àyẹ̀wò"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-àpù-àgbékalẹ̀ alágbéka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-àpù-mobile-app/' ]
 ---
 
-This may be due to
+Èyí lè jẹ́ nítorí
 
-- a network problem
+- iṣoro nẹtiwọọki kan
 
-- a permissions problem
+- iṣoro awọn igbanilaaye kan
 
-- a barcode problem
+- iṣoro koodu barcode kan
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Fi imeeli ranṣẹ si wa nipasẹ Profaili >> Pe Wa >> Fi imeeli ranṣẹ si wa.
 
-All relevant information should be attached to your request.
+Gbogbo alaye to ba yẹ ki o wa ninu ibeere re.
