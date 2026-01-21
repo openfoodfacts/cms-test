@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Nka fumana data ea nalane joang?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
+category: Tšebeliso-bocha ea data ea 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Hajoale, ha re fane ka mokhoa oa ho lahla data ea nalane (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Leha ho le jwalo, bakeng sa dihlahiswa ka bomong, ho a kgoneha ho fihlella diphetolelo tse fetileng tsa data ya sehlahiswa o sebedisa API kapa leqepheng la sehlahiswa o sebedisa diphetoho.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Nako le nako ha sehlahisoa se ntjhafatswa, ho etswa ntjhafatso e ntjha (dinomoro tse ntseng di eketseha ho tloha ho 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Mohlala, ho fumana phetolelo ya pele (=mofuta wa pele wa sehlahiswa) sa sehlahiswa sena, sebedisa
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Ka ho tšoanang, paramethara ea rev e ka sebelisoa le API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
