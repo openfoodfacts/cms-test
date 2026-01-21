@@ -2,8 +2,12 @@
 title: "Kā es varu mainīt savu lietotājvārdu?"
 order: 107
 lang: lv-lv
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mans-atvērtais-pārtikas-faktu-konts
+breadcrumbs:
+  [
+    '/lv-lv/',
+    '/lv-lv/1-mans-atvērtais-pārtikas-faktu-konts/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Diemžēl tas nav iespējams. Ja tiešām vēlaties kaut ko mainīt, jums ir jāizdzēš savs konts un jāizveido jauns.
