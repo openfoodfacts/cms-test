@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Ṣe mo le wa orukọ ọja ti o peye pẹlu API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-data-àtúnlò
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Ó ṣeni láàánú pé kò tíì ṣeé ṣe láti wá orúkọ ọjà náà nìkan àti nípasẹ̀ API ní tààràtà.
 
-Using a filter on category might help you make your search more precise though.
+Lílo àlẹ̀mọ́ lórí ẹ̀ka lè ràn ọ́ lọ́wọ́ láti jẹ́ kí ìwákiri rẹ ṣe kedere síi.
