@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Cossí traduire aquesta FAQ dins ma lenga ?"
 order: 57
 lang: es-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-melhorar-los-faches-de-alimentacion-dobèrta-dins-mon-país-de-lenga
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/es-gb/',
+    '/es-gb/15-amelhorar-los-faits-de-alimentacion-dubèrta-dins-mon-país-de-lenga/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Mercés de demandar a contact@openfoodfacts.org l'accès de modificacion a la basa de coneissença.
