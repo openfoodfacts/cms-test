@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Aku iki label, kepiye carane aku bisa melu proyek iki?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-label
+breadcrumbs: [ '/en-gb/', '/en-gb/23-label/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Minangka label, sing paling relevan sing kudu ditindakake yaiku ngubungi kita (producers@openfoodfacts.org) lan ngirim dhaptar produk sing label sampeyan ditampilake supaya kita bisa nambahake ing lembar produk sing gegandhengan.
