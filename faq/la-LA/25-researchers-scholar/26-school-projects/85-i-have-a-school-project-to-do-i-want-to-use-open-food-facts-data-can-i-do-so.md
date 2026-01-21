@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
-order: 85
+title: "Proiectum scholasticum mihi faciendum est, et notitias ab Open Food Facts uti volo, num id facere possum?"
+order: LXXXV
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: XXVI-proiecta-scholastica
+parent_category: XXV investigatores et eruditi
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-inquisitores-schola/',
+    '/en-gb/25-investigatores-eruditi/26-proiecta-scholastica/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+"Open Food Facts" est aperta database, proiectum apertum quod sub licentia ODbL operatur; ergo, dummodo requisitis licentiae ODbL consentias, libenter nostra data pro tuis proiectis iterum uti potes :).
