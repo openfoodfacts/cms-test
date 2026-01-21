@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Ja sam dizajner. Kako mogu pomoći?"
 order: 49
 lang: hr-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-volonterski-doprinos
+breadcrumbs: [ '/hr-gb/', '/en-gb/13-volonterski-doprinos/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Sve aktivnosti vezane uz dizajn koordiniramo na https://github.com/openfoodfacts/openfoodfacts-design i na posebnom chat kanalu. Redovito održavamo timske sastanke i razmišljamo o specifičnim izazovima.
