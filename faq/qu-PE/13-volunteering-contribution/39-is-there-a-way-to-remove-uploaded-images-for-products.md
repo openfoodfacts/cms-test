@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
-order: 39
+title: "¿Kanchu huk ñan rurukunapaq kargasqa siq'ikunata hurqunapaq?"
+order: 39. 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-voluntario-yanapakuy
+breadcrumbs: [ '/quchqa-gb/ .', '/quy-gb/13-voluntario-yanapakuy/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Moderadorkunallam fotokunata hurquyta atinku, mana imapas thuñisqa kananpaq.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Slack kaqpi utaq contact@openfoodfacts.org kaqpi tapuylla iskay kuti ruwasqaykikunata utaq ima mana allin fotokunatapas hurqunaykipaq (chayman código de barras yupayta utaq URL quyta kallpachakunayki tiyan).
 
-We also have a new image report API if you're a programmer.
+Hinallataq huk musuq siq'i willakuy APIyuq kayku sichus huk programaq kanki.
