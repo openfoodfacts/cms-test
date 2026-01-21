@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "திறந்த உணவு உண்மைகளை என் மொழியில் எப்படி மொழிபெயர்ப்பது?"
+order: 56 (ஆங்கிலம்)
 lang: ta-gb (ஆங்கிலம்)
-category: 15-improving-open-food-facts-in-my-language-country
+category: எனது மொழி நாட்டில் 15-மேம்படுத்தும்-திறந்த-உணவு-உண்மைகள்
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ta-gb/',
+    '/ta-gb/15-என் மொழி-நாட்டில் திறந்த உணவு உண்மைகளை மேம்படுத்துதல்/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support க்குச் செல்லவும்.
