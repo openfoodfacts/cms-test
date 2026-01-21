@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Kei hea ahau e tuku urupare ai mō te taupānga?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Taupānga-waea-2
+breadcrumbs: [ '/en-gb/', '/en-gb/2-taupānga-pūkoro/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Ka taea e koe te tuku urupare ki mobile@openfoodfacts.org
