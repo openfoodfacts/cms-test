@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Kas peaksin lähteteksti muutmisel kõiki keelefaile värskendama?"
 order: 59
 lang: et-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-tehniline-korduvküsimus
+breadcrumbs: [ '/et-ee/', '/et-ee/16-tehnilised-kkk/' ]
 ---
 
-No you don't. You just need to update the English one
+Ei, sa ei tee seda. Pead lihtsalt ingliskeelse versiooni uuendama.
 
-- Create your PR
+- Loo oma PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Kui see on ühendatud, muudame crowdin-triggeri baasi käsitsi ja GitHub Actionsi käivitatud Crowdini tõlkesüsteem teeb ülejäänu teiste keelte jaoks.
 
-GitHub bot then creates a new PR automatically that we then review.
+Seejärel loob GitHubi bot automaatselt uue PR-i, mille me seejärel üle vaatame.
