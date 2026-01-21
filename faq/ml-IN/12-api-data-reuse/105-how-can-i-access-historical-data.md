@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "ചരിത്രപരമായ ഡാറ്റ എനിക്ക് എങ്ങനെ ആക്‌സസ് ചെയ്യാൻ കഴിയും?"
 order: 105
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-എപിഐ-ഡാറ്റ പുനരുപയോഗം
+breadcrumbs: [ '/എംഎൽ-ജിബി/', '/en-gb/12-api-ഡാറ്റ-പുനരുപയോഗം/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+നിലവിൽ, ഞങ്ങൾ ചരിത്രപരമായ ഡാറ്റ ഡമ്പ് (JSONL, MongoDB, CSV) വാഗ്ദാനം ചെയ്യുന്നില്ല.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+എന്നിരുന്നാലും, വ്യക്തിഗത ഉൽപ്പന്നങ്ങൾക്ക്, API ഉപയോഗിച്ചോ ഉൽപ്പന്ന പേജിലോ പുനരവലോകനങ്ങൾ ഉപയോഗിച്ച് ഉൽപ്പന്ന ഡാറ്റയുടെ മുൻ പതിപ്പുകൾ ആക്‌സസ് ചെയ്യാൻ കഴിയും.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+ഒരു ഉൽപ്പന്നം അപ്‌ഡേറ്റ് ചെയ്യുമ്പോഴെല്ലാം, ഒരു പുതിയ പുനരവലോകനം (1 മുതൽ ആരംഭിക്കുന്ന വർദ്ധിച്ചുവരുന്ന അക്കം) സൃഷ്ടിക്കപ്പെടുന്നു.
 
-For example, to get the first revision (=first product version) of this product, use
+ഉദാഹരണത്തിന്, ഈ ഉൽപ്പന്നത്തിന്റെ ആദ്യ പതിപ്പ് (=ആദ്യ ഉൽപ്പന്ന പതിപ്പ്) ലഭിക്കാൻ, ഉപയോഗിക്കുക
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+അതുപോലെ, API-യിൽ rev പാരാമീറ്റർ ഉപയോഗിക്കാം:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
