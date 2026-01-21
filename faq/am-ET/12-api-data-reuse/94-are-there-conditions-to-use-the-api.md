@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "ኤፒአይን ለመጠቀም ሁኔታዎች አሉ?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+ስለ ኤፒአይ አጠቃቀም ሁሉም ሰነዶች በኤፒአይ ሰነድ ገጽ ላይ ይገኛሉ፣ ነገር ግን አጭር ማጠቃለያ እነሆ፡
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- የክፍት የምግብ እውነታዎች ዳታቤዝ በክፍት የውሂብ ጎታ ፈቃድ (ODbL) ስር እንደ ክፍት መረጃ ይገኛል፣ ለህጋዊ ዝርዝሮች https://world.openfoodfacts.org/terms-of-use ን ይመልከቱ። ሁለቱ ሁኔታዎች የባለቤትነት መብት እና የአክሲዮን ድርሻ ናቸው። ከ Open Food Facts የተገኘውን መረጃ ከሌሎች የውሂብ ጎታዎች ጋር ካዋሃዱት፣ ODbL የሚመነጨው የውሂብ ጎታ እንደ ክፍት መረጃ መለቀቅ እንዳለበት ይጠይቃል። እንዲሁም ውሂቡን እንዲህ ዓይነቱን ዳግም ስርጭት ከሚፈቅዱ ምንጮች ጋር ብቻ ማዋሃድ ይችላሉ ማለት ነው።
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- መተግበሪያዎን ለመለየት የኤፒአይ ጥሪዎችን ሲያደርጉ ሁልጊዜ ብጁ የተጠቃሚ ወኪል መጠቀም አለብዎት።
 
-- Rate-limits are enforced for each API endpoint.
+- ለእያንዳንዱ የኤፒአይ የመጨረሻ ነጥብ የተመን ገደቦች ተፈጻሚ ይሆናሉ።
