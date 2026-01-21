@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Paano ako makakapag-access/makakakolekta ng datos para sa aking mga proyekto?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-muling-paggamit-ng-datos
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-muling paggamit/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Sa pangunahing pahina ng Open Food Facts, sa kaliwang sulok sa itaas ng screen, mayroong isang scrolling menu. Sa ibaba nito, makikita mo ang opsyong “advanced search”, kung saan maaari mong i-click. Nasa iyo na ang desisyon kung aling pamantayan ang pinaka-nauugnay sa iyong proyekto/mga proyekto. Kapag napili na, maaari mo nang i-download ang mga nakuhang resulta sa pamamagitan ng pag-scroll pababa sa ibaba ng pahina at pag-click sa "I-download ang mga resulta".
 
-You can also consult:
+Maaari ka ring kumonsulta sa:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Ang aming dokumentasyon ng API: https://openfoodfacts.github.io/api-documentation/
+- Mga Tuntunin sa Paggamit ng Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Sa aming datos: https://world.openfoodfacts.org/data
