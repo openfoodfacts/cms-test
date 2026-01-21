@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Чи має Open Beauty Facts аналітичну лабораторію?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 відкритих фактів про красу
+breadcrumbs: [ '/uk-gb/', '/uk-gb/11-відкритих-фактів-про-красу/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+На жаль, Open Beauty Facts не має аналітичної лабораторії: ми є об'єднанням волонтерів, метою якого є створення Вікіпедії косметики.
 
-That said, if you would like to help us provide more transparency for
+Тим не менш, якщо ви хочете допомогти нам забезпечити більшу прозорість для
 
-consumers, you can use our iPhone, Android and
+споживачі, ви можете використовувати наші iPhone, Android та
 
-Windows Phone to add products:
+Додавання продуктів на Windows Phone:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+А також для обміну думками та обговорення можливих способів використання проекту, ви
 
-can join the Facebook group of contributors:
+можете приєднатися до групи авторів у Facebook:
 
 https://www.facebook.com/groups/356858984359591/
