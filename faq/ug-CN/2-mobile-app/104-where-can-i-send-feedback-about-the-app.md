@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "ئەپ ھەققىدە قەيەرگە پىكىر-تەكلىپ يوللىسام بولىدۇ؟"
 order: 104
 lang: en-gb
-category: 2-mobile-app
+category: 2-موبىل ئەپ
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+پىكىر-تەكلىپلىرىڭىزنى mobile@openfoodfacts.org غا ئەۋەتسىڭىز بولىدۇ.
