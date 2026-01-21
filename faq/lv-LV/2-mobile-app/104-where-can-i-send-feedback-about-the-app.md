@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Kur es varu nosūtīt atsauksmes par lietotni?"
 order: 104
 lang: lv-lv
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobilā-lietotne
+breadcrumbs: [ '/lv-lv/', '/lv-lv/2-mobilā-lietotne/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Atsauksmes varat sūtīt uz mobile@openfoodfacts.org
