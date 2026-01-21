@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Ni mai zane ne. Ta yaya zan iya taimakawa?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-gudummawar sa-kai
+breadcrumbs: [ '/en-gb/', '/en-gb/13-gudumar sa kai/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Muna daidaita duk ayyukan da suka shafi ƙira a https://github.com/openfoodfacts/openfoodfacts-design da kuma a kan wani tashar hira ta musamman. Muna yin tarurrukan ƙungiya akai-akai da kuma rikice-rikice kan takamaiman ƙalubale.
