@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Эпӗ — лейбл, проекта мӗнле хутшӑнма пулать?"
 order: 77
 lang: en-gb
-category: 23-labels
+category: 23-ярлык
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Этикетка енчен илсен, пирӗнпе (producers@openfoodfacts.org) ҫыхӑнмалла та сирӗн этикетка кӑтартнӑ продуктсен списокне ярса памалла, ҫапла вара эпир вӗсене ҫыхӑннӑ продукт лисчӗсем ҫине хушма пултаратпӑр.
