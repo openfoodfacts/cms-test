@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Num omnia documenta linguae renovare debeam cum seriem litterarum fontis muto?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
+category: 16-Quaestiones Frequentes Technicae
 breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
 ---
 
-No you don't. You just need to update the English one
+Non, non habes. Anglicam tantum renovare debes.
 
-- Create your PR
+- Crea tuam PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Postquam iunctum erit, `crowdin-trigger` manu rebasemus, et systema translationis `Crowdin`, quod a GitHub Actions incitatum est, reliqua pro aliis linguis curabit.
 
-GitHub bot then creates a new PR automatically that we then review.
+Deinde automatum GitHub novum PR automatice creat, quod nos deinde inspicimus.
