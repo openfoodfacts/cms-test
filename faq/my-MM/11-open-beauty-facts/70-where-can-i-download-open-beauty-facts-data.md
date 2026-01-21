@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "Open Beauty Facts ဒေတာကို ဘယ်မှာ ဒေါင်းလုဒ်လုပ်လို့ရလဲ။"
+order: ၇၀
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: ၁၁-ပွင့်လင်းသော-အလှအပ-အချက်အလက်များ
+breadcrumbs: [ '/en-gb/', '/en-gb/၁၁-အလှအပဆိုင်ရာ အချက်အလက်များ/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data စာမျက်နှာသည် လောလောဆယ်တွင် ပျက်စီးနေပါသည်။ ဒေတာကို https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv မှာ ဒေါင်းလုဒ်လုပ်နိုင်ပါတယ်။
