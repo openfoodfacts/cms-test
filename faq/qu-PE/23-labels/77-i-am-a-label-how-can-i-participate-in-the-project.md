@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
-order: 77
+title: "Ñuqaqa etiqueta kani, ¿imaynatataq proyectopi participayman?"
+order: 77. 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etiquetakuna
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/23-etiquetakuna/ .' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Etiqueta hina aswan tupaq ruwanapaq ñuqaykuwan rimanakuy (producers@openfoodfacts.org) chaymanta apachimuwayku lista rurukuna mayqinkunapichus etiquetayki rikuchisqa kachkan chaymanta chaywan tupaq ruru raphikunapi yapayta atiykuman.
