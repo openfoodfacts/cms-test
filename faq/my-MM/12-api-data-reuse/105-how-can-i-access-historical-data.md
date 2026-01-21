@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "သမိုင်းဝင်ဒေတာတွေကို ဘယ်လိုဝင်ရောက်ကြည့်ရှုနိုင်မလဲ။"
+order: ၁၀၅
 lang: en-gb
-category: 12-api-data-reuse
+category: ၁၂-api-ဒေတာ-ပြန်လည်အသုံးပြုခြင်း
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+လက်ရှိတွင်၊ ကျွန်ုပ်တို့သည် သမိုင်းဝင်ဒေတာ dump (JSONL၊ MongoDB၊ CSV) ကို မပေးဆောင်ပါ။
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+သို့သော်၊ တစ်ဦးချင်းထုတ်ကုန်များအတွက်၊ API ကို အသုံးပြု၍ သို့မဟုတ် ထုတ်ကုန်စာမျက်နှာတွင် ပြင်ဆင်မှုများကို အသုံးပြု၍ ထုတ်ကုန်ဒေတာ၏ ယခင်ဗားရှင်းများကို ဝင်ရောက်ကြည့်ရှုနိုင်ပါသည်။
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+ထုတ်ကုန်တစ်ခုကို အပ်ဒိတ်လုပ်တိုင်း၊ ပြင်ဆင်မှုအသစ် (၁ မှစတင်၍ ဂဏန်းများတိုးလာခြင်း) ကို ဖန်တီးပါသည်။
 
-For example, to get the first revision (=first product version) of this product, use
+ဥပမာအားဖြင့်၊ ဤထုတ်ကုန်၏ ပထမဆုံးပြင်ဆင်မှု (=ပထမဆုံးထုတ်ကုန်ဗားရှင်း) ကိုရယူရန်၊ အသုံးပြုပါ။
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1။
 
-Similarly, the rev parameter can be used with the API:
+အလားတူပင်၊ rev parameter ကို API နှင့်အတူအသုံးပြုနိုင်သည်။
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
