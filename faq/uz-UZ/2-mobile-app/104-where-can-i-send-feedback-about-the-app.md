@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Ilova haqida fikr-mulohazalarni qayerga yuborishim mumkin?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobil ilova
+breadcrumbs: [ '/en-gb/', '/en-gb/2-mobil-ilova/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Fikr-mulohazalaringizni mobile@openfoodfacts.org manziliga yuborishingiz mumkin.
