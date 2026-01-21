@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "Yala ne ka kan ka kanko filenw bɛɛ kuraya ni ne ye source string dɔ Changer wa?"
+order: 59. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-tɛkiniki-faq
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/16-tɛkiniki-ko/' ]
 ---
 
-No you don't. You just need to update the English one
+Ayi i t'o kɛ. I ka kan ka tubabukan ta dɔrɔn de update
 
-- Create your PR
+- Aw ye aw ka PR da
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Ni a farala ɲɔgɔn kan, an bɛna crowdin-trigger basigi kokura bolo la ani Crowdin bamanankan baarakɛcogo min bɛ daminɛ GitHub Actions fɛ, o bɛna tɔ kɛ kan wɛrɛw ye.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub bot bɛ sɔrɔ ka PR kura dɔ Dabɔ a yɛrɛma min bɛ sɔrɔ ka segin a kan.
