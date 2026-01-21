@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Tarixiy ma'lumotlarga qanday kirishim mumkin?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-ma'lumotlarini qayta ishlatish
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Hozirda biz tarixiy ma'lumotlarni (JSONL, MongoDB, CSV) saqlashni taklif qilmaymiz.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Biroq, individual mahsulotlar uchun mahsulot ma'lumotlarining oldingi versiyalariga API yordamida yoki mahsulot sahifasida tuzatishlar yordamida kirish mumkin.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Har safar mahsulot yangilanganda, yangi tahrir (1 dan boshlab ortib boruvchi raqam) yaratiladi.
 
-For example, to get the first revision (=first product version) of this product, use
+Masalan, ushbu mahsulotning birinchi versiyasini (=birinchi mahsulot versiyasini) olish uchun foydalaning
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Xuddi shunday, rev parametri API bilan ishlatilishi mumkin:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
