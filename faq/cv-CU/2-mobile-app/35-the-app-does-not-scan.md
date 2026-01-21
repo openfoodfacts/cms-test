@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Приложени сканерламасть"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобильлӗ-приложени
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобильлӗ-приложени/' ]
 ---
 
-This may be due to
+Ку ҫакӑнпа ҫыхӑннӑ пулма пултарать
 
-- a network problem
+- сеть ыйтӑвӗ
 
-- a permissions problem
+- ирӗк ыйтӑвӗ
 
-- a barcode problem
+- штрих-код ыйтӑвӗ
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Профиль урлӑ пире электронлӑ ҫыру ярӑр >> Пирӗнпе ҫыхӑнӑр >> Пирӗн пата электронлӑ ҫыру ярӑр.
 
-All relevant information should be attached to your request.
+Сирӗн ыйту ҫумне кирлӗ информацие пурне те ҫирӗплетмелле.
