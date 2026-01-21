@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Var kan jag ladda ner data från Open Beauty Facts?"
 order: 70
 lang: sv-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-öppna-skönhetsfakta
+breadcrumbs: [ '/sv-gb/', '/sv-gb/11-open-scowness-facts/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Sidan /data är för närvarande trasig. Du kan ladda ner informationen på https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
