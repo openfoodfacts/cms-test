@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "¿Imaraykutaq mana kanchu Nutri-Score uywakunapaq?"
+order: 38. 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-kichasqa-uywa-mikhuy-chiqakuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/10-kichasqa-uywa-mikhuy-chiqakuna/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Sapa uywaqa hukniraymi (mach'aqwayqa manan misi hinachu nitaq allqu hinachu mikhunata necesitan) .
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Allqukuna hina kikin laya uywa ukhupipas, mikhuy necesitasqankuqa hukniraymi tiyasqa kawsaypa kawsayninman hina, huk posible castración utaq onqoykunaman hina.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Chayraykum sasachakun uywakunapa mikuyninpaq huk puntuacion yupayqa mana chunka chunka investigadorkunata involucraspa, chunka chunka imaymana algoritmokunata ruwaspa, kunankamaqa manam ruwasqachu.
