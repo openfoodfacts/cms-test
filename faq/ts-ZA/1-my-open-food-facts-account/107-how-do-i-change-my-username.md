@@ -2,8 +2,12 @@
 title: "Xana ndzi nga ri cinca njhani vito ra mina ra mutirhisi?"
 order: 107. 107
 lang: ts-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-akhawunti-ya-ku-vula-swa-swakudya
+breadcrumbs:
+  [
+    '/ts-gb/ .',
+    '/ts-gb/1-akhawunti-ya-ku-vula-timhaka-ya-swakudya/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Khombo ra kona, a swi koteki. Loko u lava ku cinca hakunene, u fanele u susa akhawunti ya wena ivi u endla leyintshwa.
