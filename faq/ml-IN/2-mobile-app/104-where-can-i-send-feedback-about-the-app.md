@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
-order: 104
+title: "ആപ്പിനെക്കുറിച്ചുള്ള ഫീഡ്‌ബാക്ക് എനിക്ക് എവിടെ അയയ്ക്കാൻ കഴിയും?"
+order: 104 समानिका 104 समानी 104
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-മൊബൈൽ-ആപ്പ്
+breadcrumbs: [ '/എംഎൽ-ജിബി/', '/en-gb/2-മൊബൈൽ-ആപ്പ്/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+mobile@openfoodfacts.org എന്ന വിലാസത്തിൽ നിങ്ങൾക്ക് ഫീഡ്‌ബാക്ക് അയയ്ക്കാം.
