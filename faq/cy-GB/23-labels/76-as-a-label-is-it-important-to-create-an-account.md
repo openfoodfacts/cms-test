@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Fel label, ydy hi'n bwysig creu cyfrif?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-label
+breadcrumbs: [ '/cy-gb/', '/cy-gb/23-label/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Fel label, gan nad chi yw cynhyrchydd uniongyrchol y cynhyrchion, nid oes angen i chi greu cyfrif cynhyrchydd.
