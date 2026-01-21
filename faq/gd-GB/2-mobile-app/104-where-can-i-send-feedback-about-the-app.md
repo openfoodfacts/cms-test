@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Càite an urrainn dhomh fios-air-ais a chur mun aplacaid?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplacaid-làimhe
+breadcrumbs: [ '/en-gb/', '/en-gb/2-app-mobile/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Faodaidh tu fios-air-ais a chur gu mobile@openfoodfacts.org
