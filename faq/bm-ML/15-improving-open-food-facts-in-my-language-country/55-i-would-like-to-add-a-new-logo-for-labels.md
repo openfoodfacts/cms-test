@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "N b’a fɛ ka logo kura dɔ fara a kan ka ɲɛsin labeliw ma"
+order: 55. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-dumuni dafalen-tiɲɛw-ɲɛnabɔli-n-kan-jamana kɔnɔ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/bamanankan-gb/ .',
+    '/en-gb/15-ka-dumuni-da-la-ko-ɲɛnabɔli-n-kan-jamana-kɔnɔ/'
   ]
 ---
 
-Here is the process:
+A kɛcogo filɛ nin ye:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- labeli tɔgɔ kanon sɔrɔ labeliw ka taxonomi kɔnɔ (o ye fɛn fɔlɔ ye labeliw kɔrɔɲɔgɔnmaw lisɛli kɔnɔ, misali la en:100% nakɔfɛn)
+- logo sɔrɔ cogo ɲuman na : aw kana baara kɛ ni dɛmɛbaga ka foto ye minnu ma bɛn nin ko in ma ; labeli fanba bɛ ni websiste ofisiyaliw ye logo ɲumanw na, tuma dɔw la, u bɛ kɛ vektɔri cogo la (hali ka fisa an ma); ni an bɛ baara kɛ ni logo ye walasa ka kunnafoni di ni hakili ye ko
+  taamasiyɛn bɛ fɛn dɔ foroko kan, kun t’a la ka yamaruya ɲini.
+- tɔgɔ da dosiye in na nin cogo la : tɔgɔ-la-lajɛ.[width]x90.png yɔrɔ min na bonya ye logo bonya ye ni a janya ye pixel 90 ye. Dosiyɛri tɔgɔw ka kan ka kɛ ni fɔcogo tɛ, ni sɛbɛnni fitininw ye ani ka baara kɛ ni "-" ye yɔrɔw nɔ na.
+- o kɔfɛ, logo fara a kan ɲɛbilasɛbɛn kɔnɔ min bɛ bɛn a tɔgɔ kanon ma. Ni kanon tɔgɔ ye en:fɛn ye, o tuma na u ka kan ka kɛ /en/ kɔnɔ. Logow jusigiyɔrɔ ye https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang ye
