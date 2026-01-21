@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Како да знам коју верзију апликације користим?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобилна-апликација
+breadcrumbs: [ '/en-gb/', '/en-sb/2-mobilna-aplikacija/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Идите на Профил,
+затим на ЧПП, па на О овој апликацији.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Требало би да
+видите број верзије као што је 3.4.5+662. Не заборавите да нам кажете марку и модел
+телефона ако се отклањају грешке.
