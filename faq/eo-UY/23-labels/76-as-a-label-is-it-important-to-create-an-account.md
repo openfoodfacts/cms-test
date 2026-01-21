@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Kiel etikedo, ĉu gravas krei konton?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etikedoj
+breadcrumbs: [ '/en-gb/', '/eo-gb/23-etikedoj/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Kiel etikedo, ĉar vi ne estas la rekta produktanto de la produktoj, vi ne bezonas krei produktanto-konton.
