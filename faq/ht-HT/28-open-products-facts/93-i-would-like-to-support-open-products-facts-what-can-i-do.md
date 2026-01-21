@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "Mwen ta renmen sipòte Open Products Facts. Kisa m ka fè?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-ouvè-pwodwi-enfòmasyon
+breadcrumbs: [ '/en-gb/', '/en-gb/28-ouvè-pwodwi-enfòmasyon/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Tanpri li paj wiki nou an, nou gen yon lis fason pou patisipe: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Pou sipòte Open Products Facts, ou ka konsidere opsyon sa yo, chak adapte a diferan kalite kontribisyon:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Patwone Filantwopik/Eta pou Open Products Facts:
+  Kontribisyon filantwopik yo enpòtan anpil pou reyalize vizyon yon platfòm done sikilè konplè, yon sistèm pou evalye pwodwi yo, ak yon agregasyon solisyon sikilè, atravè plis pase 20000 kategori, yon objektif kle Open Products Facts. Anpil eleman esansyèl nan vizyon sa a poko finanse, epi sipò monetè ou ka gen yon enpak siyifikatif. Don ou yo ka ede finanse devlopman ak enfrastrikti enpòtan yo. Pou kontribye finansyèman, tanpri kontakte nou nan contact@openfoodfacts.org
+- Kontribitè Done k ap itilize aplikasyon Open Products Facts la:
+  Kontribisyon done yo enpòtan anpil pou mete Open Products Facts an aplikasyon. Lè w sèvi ak aplikasyon Android la pou ajoute nouvo enfòmasyon sou pwodwi, mete ajou antre ki deja egziste yo, oswa verifye done, ou ede elaji epi amelyore baz done a. Efò kolektif sa a kontribye nan bati yon resous solid ak fyab pou tout moun.
+- Kontribitè teknik nan Open Products Facts:
+  Si ou gen konpetans teknik nan domèn tankou pwogramasyon, analiz done, oswa konsepsyon eksperyans itilizatè, ekspètiz ou ka benefisye Open Products Facts anpil. Patisipe nan devlopman aplikasyon an, amelyore fonksyonalite li yo, oswa amelyore entèfas itilizatè yo se kontribisyon ki gen anpil valè. Pou patisipe, rantre nan chanèl Slack #openproductsfacts la, kote kominote Open Products Facts la ap kolabore. Ou ka jwenn yon lyen pou espas travay Slack sa a sou sitwèb Open Food Facts la.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Chak kalite kontribisyon enpòtan pou kwasans ak siksè Open Products Facts, pou ede kreye yon platfòm ki pi dirab e enfòmatif pou tout moun.
