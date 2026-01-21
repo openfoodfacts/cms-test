@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Зашто Open Food Facts ово ради (Open Prices)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-отворених-цена
+breadcrumbs: [ '/en-gb/', '/en-gb/29-otvorene-cene/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Информације о ценама су од највеће важности за разумевање прехрамбених система. То је кључни фактор у разумевању трошкова хране и промоцији здравије исхране. Подаци о почетним ценама су начин да се истраживачима, новинарима и грађанима олакша боље разумевање како се цене хране разликују географски и временски.
