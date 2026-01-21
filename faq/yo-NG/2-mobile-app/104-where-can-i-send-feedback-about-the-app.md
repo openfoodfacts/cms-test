@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Nibo ni mo ti le fi esi ranṣẹ si nipa ohun elo naa?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-àpù-àgbékalẹ̀ alágbéka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-àpù-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+O le fi esi ranṣẹ si mobile@openfoodfacts.org
