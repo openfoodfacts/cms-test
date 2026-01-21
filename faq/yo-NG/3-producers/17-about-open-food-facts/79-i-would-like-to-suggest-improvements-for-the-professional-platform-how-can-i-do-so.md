@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
+title: "Mo fẹ́ dámọ̀ràn àwọn àtúnṣe fún ìpele ọ̀jọ̀gbọ́n, báwo ni mo ṣe lè ṣe bẹ́ẹ̀?"
 order: 79
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: Àwọn òtítọ́ 17 nípa oúnjẹ ṣíṣí sílẹ̀
+parent_category: Àwọn olùgbéjáde mẹ́ta
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-àwọn olùgbéjáde/',
+    '/en-gb/3-producers/17-nípa-àwọn-òtítọ́-oúnjẹ-ṣíṣí/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+Ẹ ṣeun fún ìfẹ́ ọkàn yín láti kópa nínú ìṣípayá oúnjẹ!
 
-The best way to share feedback is by filling in this form.
+Ọ̀nà tó dára jùlọ láti pín àwọn èsì ni nípa kíkún fọ́ọ̀mù yìí.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+O tun le kan si wa lati ṣe awọn imọran boya nipasẹ apejọ wa tabi nipasẹ Slack.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Darapọ mọ Slack wa ki o si wọ ikanni #awọn olupilẹṣẹ lati kan si wa.
