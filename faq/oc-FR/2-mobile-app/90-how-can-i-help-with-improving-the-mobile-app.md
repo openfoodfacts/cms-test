@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Cossí pòdi ajudar a melhorar l'aplicacion mobila ?"
 order: 90
 lang: es-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplicacion-mobila
+breadcrumbs: [ '/es-gb/', '/es-gb/2-aplicacion-mobila/' ]
 ---
 
-How can I help with improving the mobile app ?
+Cossí pòdi ajudar a melhorar l'aplicacion mobila ?
 
-You can do so on the Mobile app repository
+O podètz far sul depaus de l'aplicacion mobila
