@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Existe alguma forma de remover imagens carregadas de produtos?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-voluntariado-contribuição
+breadcrumbs: [ '/en-gb/', '/pt-gb/13-contribuição-voluntária/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Somente moderadores podem remover fotos, para evitar possíveis atos de vandalismo.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Basta solicitar no Slack ou pelo e-mail contact@openfoodfacts.org a remoção de fotos duplicadas ou inapropriadas (tente fornecer o número do código de barras ou a URL para isso).
 
-We also have a new image report API if you're a programmer.
+Também temos uma nova API de relatório de imagens, caso você seja programador.
