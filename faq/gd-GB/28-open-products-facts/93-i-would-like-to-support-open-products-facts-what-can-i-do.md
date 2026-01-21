@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "Bu toil leam taic a thoirt do Open Products Facts. Dè as urrainn dhomh a dhèanamh?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-fìrinnean-fosgailte-toraidhean
+breadcrumbs: [ '/en-gb/', '/en-gb/28-fosgailte-thoraidhean-fìrinnean/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Leugh an duilleag wiki againn, tha sinn air dòighean a liostadh airson a bhith an sàs: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Gus taic a thoirt do Open Products Facts, faodaidh tu beachdachadh air na roghainnean a leanas, gach fear air a dhealbhadh airson diofar sheòrsaichean tabhartasan:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Luchd-taic Daonnanachd/Stàite airson Open Products Facts:
+  Tha tabhartasan daonnanachd deatamach ann a bhith a’ toirt gu buil lèirsinn àrd-ùrlar dàta cruinn coileanta, sgòradh thoraidhean, agus cruinneachadh fhuasglaidhean cruinn, thar còrr air 20000+ roinn, prìomh amas Open Products Facts. Chan eil mòran phàirtean riatanach den lèirsinn seo air am maoineachadh fhathast, agus faodaidh do thaic airgid buaidh mhòr a thoirt. Cuidichidh na tabhartasan agad le bhith a’ maoineachadh leasachaidhean agus bun-structar deatamach. Gus tabhartas ionmhais a thoirt seachad, cuir fios thugainn aig contact@openfoodfacts.org
+- Luchd-tabhartais Dàta a’ cleachdadh an aplacaid Open Products Facts:
+  Tha tabhartasan dàta deatamach airson Open Products Facts a leudachadh. Le bhith a’ cleachdadh an aplacaid Android gus fiosrachadh ùr mu thoraidhean a chur ris, inntrigidhean a tha ann mar-thà ùrachadh, no dàta a dhearbhadh, bidh thu a’ cuideachadh le bhith a’ leudachadh agus a’ mìneachadh an stòr-dàta. Tha an oidhirp choitcheann seo a’ cur ri bhith a’ togail goireas làidir is earbsach dha na h-uile.
+- Luchd-taic Teicnigeach do Open Products Facts:
+  Ma tha sgilean teicnigeach agad ann an raointean leithid prògramadh, mion-sgrùdadh dàta, no dealbhadh eòlas luchd-cleachdaidh, faodaidh an eòlas agad buannachd mhòr a thoirt do Open Products Facts. Tha a bhith an sàs ann an leasachadh an aplacaid, a’ leasachadh a ghnìomhachd, no a’ neartachadh eadar-aghaidhean luchd-cleachdaidh nan tabhartasan luachmhor. Gus a bhith an sàs, thig còmhla ris an t-sianal #openproductsfacts Slack, far a bheil coimhearsnachd Open Products Facts ag obair còmhla. Gheibh thu ceangal chun àite-obrach Slack seo air làrach-lìn Open Food Facts.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Tha gach seòrsa tabhartas cudromach do fhàs is soirbheachas Open Products Facts, a’ cuideachadh le bhith a’ cruthachadh àrd-ùrlar nas seasmhaiche agus nas fiosrachail dha na h-uile.
