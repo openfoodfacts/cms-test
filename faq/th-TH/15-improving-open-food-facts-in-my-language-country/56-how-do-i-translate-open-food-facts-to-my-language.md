@@ -1,8 +1,8 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "ฉันจะแปล Open Food Facts เป็นภาษาของฉันได้อย่างไร?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-ปรับปรุงการเปิดเผยข้อมูลอาหารในประเทศที่ใช้ภาษาของฉัน
 breadcrumbs:
   [
     '/en-gb/',
@@ -10,4 +10,4 @@ breadcrumbs:
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+เข้าไปที่ https://wiki.openfoodfacts.org/Country_Support
