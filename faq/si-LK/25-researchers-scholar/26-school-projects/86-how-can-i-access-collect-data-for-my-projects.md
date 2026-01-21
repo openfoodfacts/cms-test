@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "මගේ ව්‍යාපෘති සඳහා දත්ත ප්‍රවේශ කර ගන්නේ/එකතු කරන්නේ කෙසේද?"
+order: 86 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: පාසල් 26 ව්‍යාපෘති
+parent_category: 25-පර්යේෂක-විශාරද
 breadcrumbs:
   [
-    '/en-gb/',
+    '/si-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/si-gb/25-පර්යේෂක-විද්වතුන්/26-පාසල්-ව්‍යාපෘති/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts හි ප්‍රධාන පිටුවේ, තිරයේ ඉහළ වම් කෙළවරේ, අනුචලන මෙනුවක් ඇත. එහි පහළින්, ඔබට "උසස් සෙවුම්" විකල්පය සොයාගත හැකි අතර, එය මත ක්ලික් කළ හැකිය. ඉන්පසු ඔබේ ව්‍යාපෘතියට/ව්‍යාපෘතිවලට වඩාත්ම අදාළ වන්නේ කුමන නිර්ණායකද යන්න තීරණය කිරීම ඔබට භාරයි. තෝරාගත් පසු, පිටුවේ පහළින් පහළට අනුචලනය කර "ප්‍රතිඵල බාගන්න" මත ක්ලික් කිරීමෙන් ඔබට ලබාගත් ප්‍රතිඵල බාගත කිරීමට හැකි වනු ඇත.
