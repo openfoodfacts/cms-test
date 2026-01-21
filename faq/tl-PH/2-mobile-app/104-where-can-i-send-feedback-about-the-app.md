@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Saan ako maaaring magpadala ng feedback tungkol sa app?"
 order: 104
 lang: en-gb
 category: 2-mobile-app
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Maaari kang magpadala ng feedback sa mobile@openfoodfacts.org
