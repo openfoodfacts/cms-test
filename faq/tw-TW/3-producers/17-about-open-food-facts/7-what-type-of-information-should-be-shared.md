@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Nsɛm bɛn na ɛsɛ sɛ wɔkyɛ?"
 order: 7
 lang: tw-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-fa-aduan-a-abue-nokwasɛm ahorow
+parent_category: 3-wɔn a wɔyɛ nneɛma
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/twi-gb/ .',
+    '/en-gb/3-wɔn a wɔyɛ/ .',
+    '/en-gb/3-producers/17-fa-aduan-a-abue-nokwasɛm/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Wɔma nsɛm biara a wowɔ no akwaaba, efi aduannuru ho nsɛm so kosi nneɛma a wɔde kyekyere nneɛma ho nsɛm so.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Eyi ma ɛyɛ yiye sɛ wɔde fael a edi mũ besi hɔ, de abu nkontaahyɛde no nyinaa ho akontaa pɛpɛɛpɛ na mpɛn pii no ɛyɛ nea ɛda adi pefee a adetɔfo ani sɔ.
 
-However we do recommend you prioritize the following fields:
+Nanso yɛhyɛ nyansa sɛ fa nnwuma a edidi so yi di kan:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Nneɛma a wɔyɛ no fã (sɛ nhwɛso no, anonne, kyiisi, yogurt, ne nea ɛkeka ho) .
+- Edin a wɔde frɛ ade no
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- ne nneɛma a wɔde yɛ no, saa afuw yi nyɛ ahyɛde nanso wɔkamfo kyerɛ sɛ wɔmfa nni dwuma yiye na wɔasi nkontaahyɛde ahorow no
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Sɛ wopɛ nsɛm pii a, yɛto nsa frɛ wo sɛ twe yɛn dwumadie akwankyerɛ no na/anaasɛ hwɛ yɛn video nkyerɛkyerɛ :-)
