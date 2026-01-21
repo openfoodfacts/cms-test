@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "D'App scannt net"
+order: 35 Joer
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-Mobil-App
+breadcrumbs: [ '/lb-gb/', '/lb-gb/2-mobil-app/' ]
 ---
 
-This may be due to
+Dëst kéint doduerch leien
 
-- a network problem
+- e Netzwierkproblem
 
-- a permissions problem
+- e Problem mat de Berechtigungen
 
-- a barcode problem
+- e Barcode-Problem
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Schéckt eis eng E-Mail iwwer Profil >> Kontaktéiert eis >> Schéckt eis eng E-Mail.
 
-All relevant information should be attached to your request.
+All relevant Informatioune solle bei Ärer Ufro bäigefüügt ginn.
