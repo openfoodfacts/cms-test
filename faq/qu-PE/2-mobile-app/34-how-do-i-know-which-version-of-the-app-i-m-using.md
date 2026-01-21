@@ -1,14 +1,13 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "¿Imaynatataq yachayman mayqin versión app llamk'achisqayta?"
+order: 34. 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-movil-app nisqa
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/2-movil-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Perfil kaqman riy,
+chaymanta FAQ kaqman, chaymanta Kay appmanta.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+3.4.5+662 hina laya yupayta qhawanayki tiyan. Ama qunqaychu willawayku marca chaymanta modelo
+telefonomanta sichus pantaykunata allichachkan.
