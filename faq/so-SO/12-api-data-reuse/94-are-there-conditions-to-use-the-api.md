@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Ma jiraan shuruudo lagu isticmaalo API-ga?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-data-reuse-use
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Dhammaan dukumentiyada ku saabsan isticmaalka API waxaa laga heli karaa bogga dukumeentiga API, laakiin halkan waa soo koobid degdeg ah:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Kaydka Xaqiiqooyinka Cuntada Furan waxaa laga heli karaa xog furan iyadoo hoos timaada Ruqsadda Kaydka Xogta Furan (ODbL), fiiri https://world.openfoodfacts.org/terms-of-use si aad u hesho faahfaahinta sharciga. Labada shuruudood waa isku-xirnaan iyo wadaag. Haddii aad xogta ka soo baxda Xaqiiqooyinka Cuntada Furan ku darto xog kaydin kale, markaa ODbL waxay u baahan tahay in xogta ka soo baxda la sii daayo xog furan sidoo kale. Waxay sidoo kale ka dhigan tahay inaad xogta ku dari karto oo keliya ilo u oggolaanaya dib-u-qaybintaas.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Waa inaad had iyo jeer isticmaashaa Wakiil Isticmaale gaar ah marka aad sameyneyso wicitaanada API si aad u aqoonsato abkaaga.
 
-- Rate-limits are enforced for each API endpoint.
+- Xadka heerka ayaa lagu dhaqan geliyaa dhammaadka API kasta.
