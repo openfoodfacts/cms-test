@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "লেবেলৰ বাবে এটা নতুন ল'গ' যোগ কৰিব বিচাৰিছো"
+order: ৫৫
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: ১৫-মোৰ-ভাষা-দেশত-মুকলি-খাদ্য-তথ্য-উন্নত কৰা
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/as-gb/',
+    '/as-gb/15-মোৰ-ভাষা-দেশত-মুক্ত-খাদ্য-তথ্য-উন্নত/'
   ]
 ---
 
-Here is the process:
+ইয়াত প্ৰক্ৰিয়াটো দিয়া হৈছে:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- লেবেলৰ শ্ৰেণীবিভাজনত লেবেলৰ কেন'নিক নাম বিচাৰি উলিয়াওক (লেবেলৰ প্ৰতিশব্দৰ তালিকাৰ ই প্ৰথম বস্তু, যেনে en:100% vegetable)
+- ল'গ'টো ভাল মানদণ্ডত পাওক: অৱদানকাৰীৰ ফটো ব্যৱহাৰ কৰা এৰক যিবোৰ এই ক্ষেত্ৰত উপযুক্ত নহয়; বেছিভাগ লেবেলতে অফিচিয়েল ৱেবচিষ্টৰ উচ্চমানৰ ল'গ' থাকে, কেতিয়াবা ভেক্টৰ ফৰ্মেটত (আমাৰ বাবে আৰু ভাল); যেতিয়ালৈকে আমি এটা ল'গ' ব্যৱহাৰ কৰি এটা সামগ্ৰীৰ পেকেজিঙত এটা
+  লেবেলৰ উপস্থিতিৰ বিষয়ে বস্তুনিষ্ঠভাৱে জনাওঁ, অনুমতি বিচৰাৰ প্ৰয়োজন নাই।
+- ফাইলটোৰ নাম এইদৰে দিয়ক: name-of-the-label.[width]x90.png য'ত প্ৰস্থ হৈছে ল'গ'ৰ বাবে প্ৰস্থ যেতিয়া ই ৯০ পিক্সেল উচ্চ হয়। নথিপত্ৰনামসমূহ উচ্চাৰণহীন হ'ব লাগিব, সৰু আখৰত আৰু খালী ঠাইৰ পৰিবৰ্তে "-" ব্যৱহাৰ কৰিব লাগিব।
+- তাৰ পিছত ইয়াৰ কেন'নিক নামৰ সৈতে মিল থকা ডাইৰেকটৰীত ল'গ' যোগ কৰক। যদি কেন'নিক নাম en:something হয়, তেন্তে সিহঁত /en/ ত থাকিব লাগিব। ল'গ'সমূহৰ বাবে ৰূট পঞ্জিকা হৈছে https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
