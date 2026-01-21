@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "लेबलको रूपमा, के खाता सिर्जना गर्नु महत्त्वपूर्ण छ?"
+order: ७६
 lang: एनजीबी
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: २३-लेबलहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/२३-लेबलहरू/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+लेबलको रूपमा, तपाईं उत्पादनहरूको प्रत्यक्ष उत्पादक नभएकोले, तपाईंले उत्पादकको खाता सिर्जना गर्नुपर्दैन।
