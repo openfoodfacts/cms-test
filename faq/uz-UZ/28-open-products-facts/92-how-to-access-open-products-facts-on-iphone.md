@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
+title: "iPhone'da Ochiq Mahsulotlar Haqida Ma'lumotlarga qanday kirish mumkin?"
 order: 92
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-ochiq-mahsulotlar-faktlari
+breadcrumbs: [ '/en-gb/', '/en-gb/28-ochiq-mahsulotlar-faktlari/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+Ochiq Mahsulotlar Faktlari asosiy Ochiq Oziq-ovqat Faktlari ilovasida mavjud. Ushbu integratsiya iPhone foydalanuvchilariga bitta, qulay ilova orqali ikkala ma'lumotlar bazasiga kirish imkonini beradi.
