@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Hvernig get ég nálgast söguleg gögn?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-gagnaendurnotkun
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-gagna-endurnýting/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Eins og er bjóðum við ekki upp á að safna sögulegum gögnum (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Hins vegar er hægt að fá aðgang að fyrri útgáfum af vörugögnunum fyrir einstakar vörur með því að nota API-viðmótið eða á vörusíðunni með því að nota endurskoðanir.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Í hvert skipti sem vara er uppfærð er ný útgáfa (hækkandi tölustafur frá og með 1) búin til.
 
-For example, to get the first revision (=first product version) of this product, use
+Til dæmis, til að fá fyrstu útgáfuna (=fyrsta vöruútgáfuna) af þessari vöru, notaðu
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Á sama hátt er hægt að nota rev breytuna með API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
