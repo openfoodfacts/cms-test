@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Sut alla i helpu i wella'r ap symudol?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ap symudol
+breadcrumbs: [ '/cy-gb/', '/cy-gb/2-ap-symudol/' ]
 ---
 
-How can I help with improving the mobile app ?
+Sut alla i helpu i wella'r ap symudol?
 
-You can do so on the Mobile app repository
+Gallwch wneud hynny ar ystorfa apiau Symudol
