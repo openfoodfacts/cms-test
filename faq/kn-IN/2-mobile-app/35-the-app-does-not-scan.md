@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "ಅಪ್ಲಿಕೇಶನ್ ಸ್ಕ್ಯಾನ್ ಆಗುತ್ತಿಲ್ಲ."
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ಮೊಬೈಲ್-ಅಪ್ಲಿಕೇಶನ್
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ಮೊಬೈಲ್-ಆ್ಯಪ್/' ]
 ---
 
-This may be due to
+ಇದಕ್ಕೆ ಕಾರಣವಾಗಿರಬಹುದು
 
-- a network problem
+- ನೆಟ್‌ವರ್ಕ್ ಸಮಸ್ಯೆ
 
-- a permissions problem
+- ಅನುಮತಿ ಸಮಸ್ಯೆ
 
-- a barcode problem
+- ಬಾರ್‌ಕೋಡ್ ಸಮಸ್ಯೆ
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+ಪ್ರೊಫೈಲ್ ಮೂಲಕ ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ >> ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ >> ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ.
 
-All relevant information should be attached to your request.
+ಎಲ್ಲಾ ಸಂಬಂಧಿತ ಮಾಹಿತಿಯನ್ನು ನಿಮ್ಮ ವಿನಂತಿಗೆ ಲಗತ್ತಿಸಬೇಕು.
