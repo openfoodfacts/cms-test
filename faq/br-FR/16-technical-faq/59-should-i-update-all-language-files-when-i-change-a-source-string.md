@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Ha ret eo din hizivaat an holl restroù yezh pa cheñchan un teul orin ?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-teknikel-faq
+breadcrumbs: [ '/br-gb/', '/br-gb/16-teknikel-faq/' ]
 ---
 
-No you don't. You just need to update the English one
+Nann, n'ouzoc'h ket. N'eus nemet hizivaat an hini saoznek
 
-- Create your PR
+- Krouit ho PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Ur wech kendeuzet e vo adbaset crowdin-trigger dre zorn hag ar reizhiad troidigezh Crowdin degaset gant GitHub Actions a raio ar peurrest evit yezhoù all.
 
-GitHub bot then creates a new PR automatically that we then review.
+Krouiñ a ra bot GitHub neuze ur PR nevez ent emgefre hag a vez adwelet ganeomp neuze.
