@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Мӗншӗн Open Food Facts ҫакна тӑвать (Open Prices)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-уҫӑ хаксем
+breadcrumbs: [ '/en-gb/', '/en-gb/29-уҫӑ-хаксем/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Апат-ҫимӗҫ тытӑмӗсене ӑнланма хак ҫинчен калакан информаци питӗ кирлӗ. Ку вӑл апат-ҫимӗҫ хакне ӑнланса илме тата сывӑ апатланӑва аталантарма пулӑшакан тӗп фактор. Хаксен даннӑйӗсене уҫни — тӗпчевҫӗсене, журналистсене тата граждансене апат-ҫимӗҫ хакӗсем географи тата вӑхӑт тӗлӗшӗнчен мӗнле улшӑннине лайӑхрах ӑнланма май паракан меслет.
