@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Ciamar a dh’eadar-theangaicheas mi an Ceistean Cumanta seo dhan chànan agam?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-a’ leasachadh fìrinnean bìdh fosgailte anns an dùthaich agam fhèin
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/gb-gb/15-a’ leasachadh fìrinnean-bìdh-fosgailte-anns-mo-dhùthaich-cànain/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Feuch an iarr thu cothrom deasachaidh air an stòr-dàta eòlais bho contact@openfoodfacts.org.
