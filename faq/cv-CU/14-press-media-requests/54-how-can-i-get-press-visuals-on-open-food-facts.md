@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Open Food Facts ҫинче пресс-визуалсене мӗнле илме пулать?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-пресс-медиа-ыйтусем
+breadcrumbs: [ '/en-gb/', '/en-gb/14-пресс-медиа-запросы/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Ҫакӑнпа ҫыхӑнма ыйтатпӑр: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
