@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Документацире ӑҫта та пулин ҫырса хунӑ сӑнӳкерчӗксем валли мӗнле виҫе лайӑх пулмалли ҫинчен сӗнӳсем пур-и?"
 order: 40
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Ку ҫӗршывсенчен килет, сеть йӑваш е хаклӑ пулсан. йывӑрӑшӗпе е ҫӳллӗшӗпе 5000 пиксельрен пысӑкрах япала питех усӑллӑ мар пулӗ. енчен те эсир ҫав сеть ерипен ӗҫленине мӗнле те пулин тупса палӑртма пултаратӑр пулсан, 2000 пиксельлӗ ӳкерчӗк те питӗ лайӑх пулӗччӗ (паллах, ӳкерчӗк ҫуккинчен лайӑхрах!)
