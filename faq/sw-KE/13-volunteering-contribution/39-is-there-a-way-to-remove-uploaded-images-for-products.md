@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Je, kuna njia ya kuondoa picha zilizopakiwa kwa bidhaa?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-mchango wa kujitolea
+breadcrumbs: [ '/sw-gb/', '/en-gb/13-mchango-wa-kujitolea/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Wasimamizi pekee ndio wanaweza kuondoa picha, ili kuepuka uharibifu unaoweza kutokea.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Muulize tu Slack au contact@openfoodfacts.org ili kuondoa nakala zako au picha zozote zisizofaa (unapaswa kujaribu kutoa nambari ya msimbopau au URL ili kufanya hivyo).
 
-We also have a new image report API if you're a programmer.
+Pia tuna API mpya ya ripoti ya picha ikiwa wewe ni mpangaji programu.
