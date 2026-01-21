@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
-order: 85
+title: "মোৰ এটা স্কুল প্ৰজেক্ট আছে, মই Open Food Facts ৰ ডাটা ব্যৱহাৰ কৰিব বিচাৰো, মই কৰিব পাৰোনে?"
+order: ৮৫
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: ২৬-বিদ্যালয়-প্ৰকল্প
+parent_category: ২৫-গৱেষক-পণ্ডিত
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/as-gb/',
+    '/as-gb/২৫-গৱেষক-পণ্ডিত/',
+    '/as-gb/২৫-গৱেষক-পণ্ডিত/২৬-বিদ্যালয়-প্ৰকল্প/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+মুক্ত খাদ্য তথ্য, এটা মুক্ত ডাটাবেছ, এটা মুক্ত প্ৰকল্প যি এটা ODbL অনুজ্ঞাপত্ৰৰ অধীনত চলি আছে, সেয়েহে যেতিয়ালৈকে আপুনি ODbL অনুজ্ঞাপত্ৰৰ প্ৰয়োজনীয়তাৰ সৈতে একমত, আপুনি আপোনাৰ প্ৰকল্পসমূহৰ বাবে আমাৰ তথ্য পুনৰ ব্যৱহাৰ কৰিবলৈ আদৰণি জনোৱা হৈছে :)।
