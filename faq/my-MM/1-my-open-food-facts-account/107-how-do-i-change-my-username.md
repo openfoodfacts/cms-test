@@ -2,8 +2,12 @@
 title: "ကျွန်တော့်ရဲ့ အသုံးပြုသူအမည်ကို ဘယ်လိုပြောင်းရမလဲ။"
 order: ၁၀၇
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ၁-ကျွန်ုပ်၏-ဖွင့်လှစ်ထားသော-အစားအစာ-အချက်အလက်များ-အကောင့်
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/၁-ကျွန်ုပ်၏-ဖွင့်လှစ်ထားသော-အစားအစာ-အချက်အလက်များ-အကောင့်/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+ကံမကောင်းစွာပဲ၊ မဖြစ်နိုင်ပါဘူး။ တကယ်ပြောင်းလဲချင်ရင် အကောင့်ကို ဖျက်ပြီး အကောင့်အသစ်တစ်ခု ဖန်တီးရပါမယ်။
