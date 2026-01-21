@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "कीदृशी सूचना साझा कर्तव्या ?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: १७-मुक्त-भोजन-तथ्यानां विषये
+parent_category: ३-उत्पादकाः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/3-उत्पादक/',
+    '/en-gb/3-producers/17-मुक्त-खाद्य-तथ्य-विषये/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+भवतः समीपे यत्किमपि सूचना अस्ति तत् स्वागतयोग्यं, पोषणसूचनातः आरभ्य पैकेजिंग् सूचनापर्यन्तं।
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+एतेन सम्पूर्णसञ्चिकास्थापनं सम्भवं भवति, सर्वेषां स्कोरानाम् गणना सटीकतापूर्वकं भवति तथा च अधिकसामान्यतया उपभोक्तृभिः प्रशंसिता पारदर्शिता भवति ।
 
-However we do recommend you prioritize the following fields:
+तथापि वयं भवन्तं निम्नलिखितक्षेत्राणि प्राथमिकताम् अददात् इति अनुशंसयामः।
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- उत्पादवर्गः (उदा. पेयम्, पनीरं, दधिः इत्यादयः) २.
+- उत्पादस्य नाम
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- तथा अवयवानां विषये, एतत् क्षेत्रं अनिवार्यं न अपितु स्कोरस्य इष्टतमप्रयोगाय, निर्धारणाय च अनुशंसितम्
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ अधिकविवरणार्थं वयं भवन्तं अस्माकं उपयोक्तृमार्गदर्शिकायाः डाउनलोड् कर्तुं तथा/वा अस्माकं विडियोपाठ्यक्रमस्य परामर्शं कर्तुं आमन्त्रयामः :-)
