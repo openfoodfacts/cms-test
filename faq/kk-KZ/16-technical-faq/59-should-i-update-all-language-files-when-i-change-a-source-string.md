@@ -1,15 +1,19 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Бастапқы жолды өзгерткен кезде барлық тіл файлдарын жаңартуым керек пе?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-техникалық-жиі қойылатын сұрақтар
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/16-техникалық-жиі қойылатын сұрақтар/'
+  ]
 ---
 
-No you don't. You just need to update the English one
+Жоқ, олай істемейсіз. Тек ағылшыншасын жаңарту керек
 
-- Create your PR
+- PR-ыңызды жасаңыз
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Біріктірілгеннен кейін, біз crowdin-trigger функциясын қолмен қайта базалаймыз, ал GitHub Actions арқылы іске қосылған Crowdin аударма жүйесі қалғанын басқа тілдер үшін жасайды.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub боты автоматты түрде жаңа PR жасайды, оны біз қарап шығамыз.
