@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "API ବ୍ୟବହାର କରିବା ପାଇଁ କିଛି ସର୍ତ୍ତ ଅଛି କି?"
+order: ୯୪
 lang: ଇଂ-ଜିବି
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ୧୨-api-ଡାଟା-ପୁନଃବ୍ୟବହାର
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ତଥ୍ୟ-ପୁନଃବ୍ୟବହାର/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API ବ୍ୟବହାର ବିଷୟରେ ସମସ୍ତ ଡକ୍ୟୁମେଣ୍ଟେସନ୍ API ଡକ୍ୟୁମେଣ୍ଟେସନ୍ ପୃଷ୍ଠାରେ ମିଳିପାରିବ, କିନ୍ତୁ ଏଠାରେ ଏକ ସଂକ୍ଷିପ୍ତ ସାରାଂଶ ଦିଆଯାଇଛି:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- ଓପନ୍ ଫୁଡ୍ ଫ୍ୟାକ୍ଟସ୍ ଡାଟାବେସ୍ ଓପନ୍ ଡାଟାବେସ୍ ଲାଇସେନ୍ସ (ODbL) ଅଧୀନରେ ଖୋଲା ତଥ୍ୟ ଭାବରେ ଉପଲବ୍ଧ, ଆଇନଗତ ବିବରଣୀ ପାଇଁ https://world.openfoodfacts.org/terms-of-use ଦେଖନ୍ତୁ। ଦୁଇଟି ସର୍ତ୍ତ ହେଉଛି ଆଟ୍ରିବ୍ୟୁସନ୍ ଏବଂ ସେୟାର-ଆଲାଇକ୍। ଯଦି ଆପଣ Open Food Facts ରୁ ତଥ୍ୟକୁ ଅନ୍ୟ ଡାଟାବେସ୍ ସହିତ ମିଶ୍ରଣ କରନ୍ତି, ତେବେ ODbL ଆବଶ୍ୟକ କରେ ଯେ ଫଳାଫଳ ଡାଟାବେସ୍ କୁ ମଧ୍ୟ ଖୋଲା ତଥ୍ୟ ଭାବରେ ପ୍ରକାଶିତ କରାଯିବା ଆବଶ୍ୟକ। ଏହାର ଅର୍ଥ ହେଉଛି ଆପଣ କେବଳ ସେହି ଉତ୍ସଗୁଡ଼ିକ ସହିତ ତଥ୍ୟକୁ ମିଶ୍ରଣ କରିପାରିବେ ଯାହା ଏପରି ପୁନଃବଣ୍ଟନକୁ ଅନୁମତି ଦେବ।
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- ଆପଣଙ୍କର ଆପ୍ ଚିହ୍ନଟ କରିବା ପାଇଁ API କଲ୍ କରିବା ସମୟରେ ଆପଣଙ୍କୁ ସର୍ବଦା ଏକ କଷ୍ଟମ୍ ୟୁଜର୍-ଏଜେଣ୍ଟ ବ୍ୟବହାର କରିବାକୁ ପଡିବ।
 
-- Rate-limits are enforced for each API endpoint.
+- ପ୍ରତ୍ୟେକ API ଏଣ୍ଡପଏଣ୍ଟ ପାଇଁ ହାର-ସୀମା ଲାଗୁ କରାଯାଏ।
