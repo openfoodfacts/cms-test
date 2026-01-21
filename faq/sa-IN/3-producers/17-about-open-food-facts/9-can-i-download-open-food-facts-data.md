@@ -1,19 +1,19 @@
 ---
-title: "Can I download Open Food Facts data?"
+title: "किं अहं Open Food Facts इति आँकडान् डाउनलोड् कर्तुं शक्नोमि?"
 order: 9
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: १७-मुक्त-भोजन-तथ्यानां विषये
+parent_category: ३-उत्पादकाः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/3-उत्पादक/',
+    '/en-gb/3-producers/17-मुक्त-खाद्य-तथ्य-विषये/'
   ]
 ---
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+Open Food Facts इत्यत्र उपलब्धानि सर्वाणि आँकडानि डाउनलोड् कर्तुं शक्नुवन्ति। सावधान, एतदर्थं बहु डिस्कस्थानस्य आवश्यकता वर्तते, यदि भवान् स्प्रेड्शीट् वा अन्यथा R अथवा Python इत्यस्य ज्ञानं वा उपयोक्तुं इच्छति तर्हि शक्तिशाली सङ्गणकस्य आवश्यकता अस्ति ।
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+उन्नत अन्वेषणस्य धन्यवादेन भवान् दत्तांशस्य उपसमूहं (उदाहरणार्थं भवतः ब्राण्ड्) अपि अवतरणं कर्तुं शक्नोति ।
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ अधिकविवरणार्थं वयं भवन्तं अस्माकं उपयोक्तृमार्गदर्शिकायाः डाउनलोड् कर्तुं तथा/वा अस्माकं विडियोपाठ्यक्रमस्य परामर्शं कर्तुं आमन्त्रयामः :-)
