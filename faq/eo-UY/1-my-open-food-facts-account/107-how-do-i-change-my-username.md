@@ -2,8 +2,8 @@
 title: "Kiel mi ŝanĝas mian uzantnomon?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mia-malferma-manĝaĵ-fakto-konto
+breadcrumbs: [ '/en-gb/', '/eo-gb/1-mia-malferma-manĝaĵ-fakto-konto/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Bedaŭrinde, ĝi ne eblas. Se vi vere volas ŝanĝi, vi devas forigi vian konton kaj krei novan.
