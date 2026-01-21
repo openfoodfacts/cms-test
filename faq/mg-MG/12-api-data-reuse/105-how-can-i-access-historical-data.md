@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Ahoana no ahafahako miditra amin'ny angon-drakitra ara-tantara?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Fampiasana indray ny angon-drakitra 12-api
+breadcrumbs: [ '/en-gb/', '/mg-gb/fampiasana-an-drakitra-12-api/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Amin'izao fotoana izao, tsy manolotra fanariana angona ara-tantara (JSONL, MongoDB, CSV) izahay.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Na izany aza, ho an'ny vokatra tsirairay, azo atao ny miditra amin'ireo dikan-teny teo aloha amin'ny angon-drakitra momba ny vokatra amin'ny alàlan'ny API na ao amin'ny pejin'ny vokatra amin'ny alàlan'ny fanitsiana.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Isaky ny havaozina ny vokatra iray dia misy fanitsiana vaovao (isa mitombo manomboka amin'ny 1) foronina.
 
-For example, to get the first revision (=first product version) of this product, use
+Ohatra, mba hahazoana ny fanitsiana voalohany (= dikan-teny voalohany amin'ny vokatra) amin'ity vokatra ity, ampiasao
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Toy izany koa, azo ampiasaina miaraka amin'ny API ny paramètre rev:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
