@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "Ɔkwan bɛn so na mɛkyerɛ Open Food Facts ase akɔ me kasa mu ?"
+order: 56. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-aduan-a-abue-nokwasɛm-a-ɛma-tu mpɔn-wɔ-me-kasa-man mu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/twi-gb/ .',
+    '/en-gb/15-ma-aduan-a-abue-nokwasɛm-wɔ-me-kasa-man-mu-tu mpɔn/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Fa w’ani kyerɛ https://wiki.openfoodfacts.org/Ɔman_Mmoa
