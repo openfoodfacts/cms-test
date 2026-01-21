@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "నా ప్రాజెక్టులకు సంబంధించిన డేటాను నేను ఎలా యాక్సెస్/సేకరించగలను?"
 order: 88
 lang: en-gb తెలుగు in లో
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-డేటా పునర్వినియోగం
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-డేటా-పునర్వినియోగం/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ప్రధాన పేజీలో, స్క్రీన్ ఎగువ ఎడమ మూలలో, స్క్రోలింగ్ మెనూ ఉంది. దాని దిగువన, మీరు “అధునాతన శోధన” ఎంపికను కనుగొంటారు, దానిపై మీరు క్లిక్ చేయవచ్చు. మీ ప్రాజెక్ట్(లు) కు ఏ ప్రమాణాలు అత్యంత సందర్భోచితమైనవో నిర్ణయించడం మీ ఇష్టం. ఎంచుకున్న తర్వాత, మీరు పేజీ దిగువన స్క్రోల్ చేసి “ఫలితాలను డౌన్‌లోడ్ చేయి” పై క్లిక్ చేయడం ద్వారా పొందిన ఫలితాలను డౌన్‌లోడ్ చేసుకోగలరు.
 
-You can also consult:
+మీరు వీటిని కూడా సంప్రదించవచ్చు:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- మా API డాక్యుమెంటేషన్: https://openfoodfacts.github.io/api-documentation/
+- ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ఉపయోగ నిబంధనలు: https://world.openfoodfacts.org/terms-of-use
+- మా డేటాపై: https://world.openfoodfacts.org/data
