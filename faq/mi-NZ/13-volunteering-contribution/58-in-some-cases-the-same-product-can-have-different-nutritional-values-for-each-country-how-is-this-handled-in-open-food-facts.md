@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "I ētahi wā, he rerekē ngā uara kai o te hua kotahi mō ia whenua, me pēhea te whakahaere i tēnei i roto i te Open Food Facts?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-koha-tūao
+breadcrumbs: [ '/en-gb/', '/en-gb/13-tuku-tuku-tuku/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% o te wā, ka waihangahia e ngā kaihanga he waehere pae rerekē mō ngā putanga rerekē o ā rātou hua. Ko tētahi tauira rongonui ko te rerekētanga o te matotoru o te Nutella Wīwī me te Nutella Tiamana, nā te rerekētanga o te taro i waenga i ngā whenua. E rua ngā tātai rerekē, e rua ngā waehere pae rerekē.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Heoi, ka pā te taupatupatu waehere pae i ngā waehere poto ake (EAN-8) e whakamahia ana e ētahi toa puta noa i Ūropi me te US. Kāore mātou e whakahaere ana i aua taupatupatu waehere pae i tēnei wā, engari me taea pea mā te tiki i te tauwāhi whānui o te kaiwhakamahi (he onge ake te kite i ngā taupatupatu waehere pae i roto i te whenua).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Mō te wā roa, ka akiaki mātou i ngā kaihanga kia neke ki te EAN-13 hei karo i aua taupatupatu waeherepae.
