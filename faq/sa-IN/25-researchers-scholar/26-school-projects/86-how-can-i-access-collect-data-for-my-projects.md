@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "मम परियोजनानां कृते अहं कथं दत्तांशं प्राप्तुं/संग्रहणं कर्तुं शक्नोमि ?"
+order: ८६
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: २६-विद्यालय-परियोजना
+parent_category: 25-संशोधक-विद्वान्
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/25-शोधक-विद्वान/',
+    '/hi-gb/25-शोधक-विद्वान/26-विद्यालय-परियोजना/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts इत्यस्य मुख्यपृष्ठे, स्क्रीनस्य उपरि वामकोणे, स्क्रॉल मेन्यू अस्ति । तस्य अधः भवन्तः “advanced search” इति विकल्पं प्राप्नुवन्ति, यस्मिन् भवन्तः क्लिक् कर्तुं शक्नुवन्ति । ततः भवतः परियोजनायाः (प्रकल्पानां) कृते के मापदण्डाः सर्वाधिकं प्रासंगिकाः इति निर्धारयितुं भवतः निर्णयः भवति । एकवारं चयनं कृत्वा पृष्ठस्य अधः अधः स्क्रॉल कृत्वा “Download results” इत्यत्र क्लिक् कृत्वा प्राप्तानि परिणामानि डाउनलोड् कर्तुं शक्नुवन्ति ।
