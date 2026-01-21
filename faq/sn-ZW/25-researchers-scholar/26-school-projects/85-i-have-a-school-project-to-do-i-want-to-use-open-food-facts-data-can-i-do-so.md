@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "Ndine chirongwa chekuchikoro chekuita, ndinoda kushandisa data reOpen Food Facts, ndingazviita here?"
 order: 85
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: mapurojekiti ezvikoro makumi maviri nematanhatu
+parent_category: 25-vaongorori-nyanzvi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/sn-gb/',
+    '/en-gb/25-vatsvakurudzi-mudzidzi/',
+    '/sn-gb/25-researchers-scholar/26-school-projects/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Open Food Facts, idhatabhesi yakavhurika, chirongwa chakavhurika chiri kushanda pasi perezinesi reODbL, saka chero bedzi muchibvumirana nezvinodiwa nerezinesi reODbL, munogamuchirwa kushandisa zvakare data redu kumapurojekiti enyu :).
