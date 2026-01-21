@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "مەھسۇلاتلىرىمنى قانداق قىلىپ Open Beauty Facts غا ئىمپورت قىلالايمەن؟"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
+category: 11-ئاشكارا گۈزەللىك پاكىتلىرى
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org ئادرېسىغا ئالاقىلىشىڭ ياكى بىۋاسىتە بۇ ئادرېسقا كىرىڭ.
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org غا كىرىڭ، ئاندىن ئالاھىدە ئېكسپورت ئۈچۈن producteurs@openfoodfacts.org بىلەن ئالاقىلىشىڭ.
