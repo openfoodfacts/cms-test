@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Ndingatumira sei zvigadzirwa zvangu muOpen Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-zvinhu-zvakavhurika-zverunako
+breadcrumbs: [ '/sn-gb/', '/sn-gb/11-ruzivo-rwakavhurika-runako/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Bata producteurs@openfoodfacts.org kana kuti enda zvakananga ku
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org wobva wataura ne producteurs@openfoodfacts.org kuti uwane imwe nyika yakakosha
