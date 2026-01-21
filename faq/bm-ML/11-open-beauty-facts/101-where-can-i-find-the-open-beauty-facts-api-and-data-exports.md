@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
-order: 101
+title: "n bɛ se ka Open Beauty Facts API ni kunnafonidilanw bɔli sɔrɔ min ?"
+order: 101. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-da wulilen-cɛɲa-tiɲɛw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/11-da wulilen-cɛɲi-ko/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Open Food Facts API ni Open Beauty Facts API ye kelen ye 98% o la n’i bɛ baara kɛ ni Open Food Facts API sɛbɛnw ye i ka kan ka Open Beauty Facts API yecogo jɛlen sɔrɔ kosɛbɛ.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+A kɔlɔsi ko fɛn minnu bɛ i n’a fɔ Dɔnniya Panɛliw, Eco-Score, Nutri-Score, olu tɛ dɛmɛ (k’a sababu kɛ barokun ye, walima ka da kodebase kɔrɔ kan).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://dumuni dafalenw.github.io/dumuni dafalenw-sɛrɛkili/api/ref-v2/
