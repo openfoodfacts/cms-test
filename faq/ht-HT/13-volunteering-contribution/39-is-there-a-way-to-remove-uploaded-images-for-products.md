@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Èske gen yon fason pou retire imaj telechaje pou pwodwi yo?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-kontribisyon-volontè
+breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-kontribisyon/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Se sèlman moderatè yo ki ka retire foto, pou evite vandalis potansyèl.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Senpleman mande sou Slack oubyen nan contact@openfoodfacts.org pou retire kopi ou yo oubyen nenpòt foto ki pa apwopriye (ou ta dwe eseye bay nimewo kòd bar la oubyen URL la pou sa).
 
-We also have a new image report API if you're a programmer.
+Nou genyen tou yon nouvo API pou rapò imaj si w se yon pwogramè.
