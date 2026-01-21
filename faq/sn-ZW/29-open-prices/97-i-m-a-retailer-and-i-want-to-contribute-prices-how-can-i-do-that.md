@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Ndiri mutengesi uye ndinoda kupa mitengo. Ndingazviita sei izvozvo?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: Mitengo yakavhurika makumi maviri nemapfumbamwe
+breadcrumbs: [ '/sn-gb/', '/en-gb/29-yakavhurika-mitengo/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Unogona kupa mitengo uchishandisa API yedu. Kana muchida kupa mitengo yakakura, ndapota taurai nesu panhamba iyi contact@openfoodfacts.org.
