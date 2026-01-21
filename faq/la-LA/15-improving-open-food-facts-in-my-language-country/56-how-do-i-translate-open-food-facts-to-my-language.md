@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Quomodo \"Open Food Facts\" in linguam meam converto?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Quindecim-res-de-cibis-apertis-in-terra-mea-lingua-meliorandis
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-meliora-facta-de-cibis-apertis-in-terra-mea-lingua/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Ad https://wiki.openfoodfacts.org/Country_Support perge.
