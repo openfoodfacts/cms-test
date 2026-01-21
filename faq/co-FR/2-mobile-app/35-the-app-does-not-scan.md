@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "L'app ùn scansiona micca"
+order: 35 anni
 lang: en-gb
-category: 2-mobile-app
+category: 2-app mobile
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-This may be due to
+Questu pò esse duvutu à
 
-- a network problem
+- un prublema di rete
 
-- a permissions problem
+- un prublema di permessi
 
-- a barcode problem
+- un prublema di codice à barre
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Mandateci un email via Profilu >> Cuntattateci >> Mandateci un email.
 
-All relevant information should be attached to your request.
+Tutte l'infurmazioni pertinenti devenu esse allegate à a vostra dumanda.
