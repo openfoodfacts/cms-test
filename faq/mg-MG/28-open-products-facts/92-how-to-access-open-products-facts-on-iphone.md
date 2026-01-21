@@ -1,9 +1,13 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
-order: 92
+title: "Ahoana ny fomba hidirana amin'ny Open Products Facts amin'ny iPhone?"
+order: 92 taona
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-zava-misy-momba-ny-vokatra-misokatra
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/zava-misy-momba-ny-vokatra-misokatra-28/'
+  ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+Azo jerena ao anatin'ny fampiharana Open Food Facts lehibe ny Open Products Facts. Ity fampidirana ity dia ahafahan'ny mpampiasa iPhone miditra amin'ireo tahiry roa ireo amin'ny alàlan'ny fampiharana tokana sy mety.
