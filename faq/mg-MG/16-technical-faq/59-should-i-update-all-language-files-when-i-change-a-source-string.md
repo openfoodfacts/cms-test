@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "Tokony havaoziko ve ny rakitra fiteny rehetra rehefa manova ny tady loharano aho?"
+order: 59 taona
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-fanontaniana-teknika-matetika
+breadcrumbs: [ '/en-gb/', '/mg-gb/16-fanontaniana-matetika/' ]
 ---
 
-No you don't. You just need to update the English one
+Tsia, tsy izany no izy. Mila manavao ny teny anglisy fotsiny ianao
 
-- Create your PR
+- Mamoròna ny PR-nao
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Rehefa tafangona izy io dia haverinay amin'ny tanana ny crowdin-trigger ary ny rafitra fandikan-teny Crowdin izay ampiasain'ny GitHub Actions no hanao ny ambiny ho an'ny fiteny hafa.
 
-GitHub bot then creates a new PR automatically that we then review.
+Mamorona PR vaovao ho azy avy eo ny boto GitHub izay hodinihinay avy eo.
