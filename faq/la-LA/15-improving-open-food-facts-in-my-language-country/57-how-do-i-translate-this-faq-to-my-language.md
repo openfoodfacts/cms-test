@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Quomodo hanc Quaestionem Frequenter Interrogatam (FAQ) in linguam meam convertam?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Quindecim-res-de-cibis-apertis-in-terra-mea-lingua-meliorandis
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-meliora-facta-de-cibis-apertis-in-terra-mea-lingua/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Quaeso roga contact@openfoodfacts.org ut ad basim scientiae pervenias et eam recenseas.
