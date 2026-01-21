@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "अहं एतत् FAQ मम भाषायां कथं अनुवादयामि ?"
+order: ५७
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-मम-भाषा-देशे-मुक्त-भोजन-तथ्यानां-सुधारः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/15-मम-भाषा-देशे-मुक्त-भोजन-तथ्य-सुधार-करणीय-/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ज्ञानकोशस्य सम्पादनप्रवेशार्थं कृपया contact@openfoodfacts.org इत्यत्र पृच्छन्तु।
