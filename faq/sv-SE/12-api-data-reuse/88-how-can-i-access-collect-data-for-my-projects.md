@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Hur kan jag komma åt/samla in data för mina projekt?"
 order: 88
 lang: sv-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-återanvändning
+breadcrumbs: [ '/sv-gb/', '/sv-gb/12-api-data-återanvändning/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+På Open Food Facts huvudsida, längst upp till vänster på skärmen, finns en rullmeny. Längst ner hittar du alternativet "avancerad sökning", som du kan klicka på. Det är sedan upp till dig att avgöra vilka kriterier som är mest relevanta för ditt/dina projekt. När du har valt kan du ladda ner de erhållna resultaten genom att scrolla ner längst ner på sidan och klicka på "Ladda ner resultat".
 
-You can also consult:
+Du kan också konsultera:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Vår API-dokumentation: https://openfoodfacts.github.io/api-documentation/
+- Open Food Facts användarvillkor: https://world.openfoodfacts.org/terms-of-use
+- Om vår data: https://world.openfoodfacts.org/data
