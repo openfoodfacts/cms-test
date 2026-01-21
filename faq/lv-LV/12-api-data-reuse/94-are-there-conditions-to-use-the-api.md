@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Vai ir kādi nosacījumi API lietošanai?"
 order: 94
 lang: lv-lv
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-API-datu-atkārtota-izmantošana
+breadcrumbs: [ '/lv-lv/', '/lv-lv/12-api-datu-atkārtota-izmantošana/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Visa dokumentācija par API lietošanu ir atrodama API dokumentācijas lapā, taču šeit ir īss kopsavilkums:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Atvērto pārtikas faktu datubāze ir pieejama kā atvērtie dati saskaņā ar Atvērtās datubāzes licenci (ODbL); juridisko informāciju skatiet vietnē https://world.openfoodfacts.org/terms-of-use. Abi nosacījumi ir attiecināšana un koplietošana līdzīgā veidā. Ja apvienojat datus no Open Food Facts ar citām datubāzēm, tad ODbL pieprasa, lai iegūtā datubāze arī tiktu publiskota kā atvērtie dati. Tas nozīmē arī to, ka datus var apvienot tikai ar avotiem, kas pieļauj šādu tālākizplatīšanu.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Veicot API izsaukumus lietotnes identificēšanai, vienmēr jāizmanto pielāgots lietotāja aģents.
 
-- Rate-limits are enforced for each API endpoint.
+- Katram API galapunktam tiek piemēroti ātruma ierobežojumi.
