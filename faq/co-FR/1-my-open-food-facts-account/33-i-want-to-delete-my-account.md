@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "Vogliu sguassà u mo contu"
+order: 33 anni
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-u mo contu-apertu-di-fatti-nantu-à-l'alimentu
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-u-me-contu-apertu-di-fatti-alimentari/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+A cancellazione di u contu avà si faci direttamente in e vostre preferenze.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Dopu avè cunnessu à https://world.openfoodfacts.org/, cliccate nant'à u nome d'utilizatore in l'angulu in cima à diritta, sceglite Parametri di u contu. Apre a vostra pagina di preferenze. Andate in fondu à a pagina è aduprate l'azione "sguassà l'utilizatore".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Sè ùn pudete micca cunnettassi (o resettà a vostra password), cuntattate dpo - at - openfoodfacts.org, aduprendu l'indirizzu email chì avete adupratu per registrà u contu.
