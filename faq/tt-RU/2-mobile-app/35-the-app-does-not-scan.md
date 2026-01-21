@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Кушымта сканерламый"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2 мобиль кушымта
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобиль кушымта/' ]
 ---
 
-This may be due to
+Моның сәбәбе булырга мөмкин
 
-- a network problem
+- челтәр проблемасы
 
-- a permissions problem
+- рөхсәтләр проблемасы
 
-- a barcode problem
+- штрих-код проблемасы
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Безгә Профиль аша электрон хат җибәрегез >> Безнең белән элемтәгә керегез >> Безгә электрон хат җибәрегез.
 
-All relevant information should be attached to your request.
+Сезнең соравыгызга барлык кирәкле мәгълүмат та кушылырга тиеш.
