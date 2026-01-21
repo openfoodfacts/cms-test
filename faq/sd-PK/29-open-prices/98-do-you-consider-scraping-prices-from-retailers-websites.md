@@ -1,11 +1,11 @@
 ---
-title: "Do you consider scraping prices from retailers’ websites?"
+title: "ڇا توهان پرچون ڪندڙن جي ويب سائيٽن تان قيمتون ڪٽڻ تي غور ڪريو ٿا؟"
 order: 98
 lang: اين جي بي
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-کليل-قيمتون
+breadcrumbs: [ '/en-gb/', '/en-gb/29-اوپن-قيمتون/' ]
 ---
 
-For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
+قانوني ۽ ٽيڪنيڪل سببن جي ڪري، اسان پرچون ڪندڙن جي ويب سائيٽن تان قيمتون ختم ڪرڻ کي اوپن پرائسز ۾ حصو وٺڻ جو هڪ صحيح طريقو نه ٿا سمجهون. اسان پڪ ڪرڻ چاهيون ٿا ته اسان جيڪي قيمتون گڏ ڪريون ٿا اهي صحيح ۽ تازه ترين آهن، ۽ حصو وٺندڙن کان اسڪريپ ٿيل قيمتون وصول ڪرڻ اسان کي اهو ڪرڻ جي اجازت نٿو ڏئي.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
