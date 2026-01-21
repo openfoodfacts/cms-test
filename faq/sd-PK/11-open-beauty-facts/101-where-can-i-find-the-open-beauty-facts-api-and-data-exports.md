@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "مان اوپن بيوٽي فيڪٽس API ۽ ڊيٽا ايڪسپورٽ ڪٿي ڳولي سگهان ٿو؟"
 order: 101
 lang: اين جي بي
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-کليل-خوبصورتي-حقيقتون
+breadcrumbs: [ '/en-gb/', '/sd-gb/11-کليل خوبصورتي حقيقتون/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+اوپن فوڊ فيڪٽس API 98٪ اوپن بيوٽي فيڪٽس API جي برابر آهي، تنهن ڪري جيڪڏهن توهان اوپن فوڊ فيڪٽس API دستاويز استعمال ڪندا آهيو ته توهان کي اوپن بيوٽي فيڪٽس API جو هڪ صاف نظارو هجڻ گهرجي.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+نوٽ ڪريو ته نالج پينلز، ايڪو-اسڪور، نيوٽري-اسڪور جهڙيون خاصيتون سپورٽ نه آهن (يا ته موضوع جي ڪري، يا پراڻي ڪوڊ بيس جي ڪري).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
