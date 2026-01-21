@@ -2,8 +2,8 @@
 title: "মই মোৰ ব্যৱহাৰকাৰী নাম কেনেকৈ সলনি কৰিম?"
 order: ১০৭
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ১-মোৰ-মুকলি-খাদ্য-তথ্য-একাউণ্ট
+breadcrumbs: [ '/as-gb/', '/as-gb/1-মোৰ-মুকলি-খাদ্য-তথ্য-একাউন্ট/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+দুৰ্ভাগ্যজনকভাৱে সেয়া সম্ভৱ নহয়। যদি আপুনি সঁচাকৈয়ে সলনি কৰিব বিচাৰে তেন্তে আপোনাৰ একাউণ্টটো মচি পেলাব লাগিব আৰু নতুন এটা সৃষ্টি কৰিব লাগিব।
