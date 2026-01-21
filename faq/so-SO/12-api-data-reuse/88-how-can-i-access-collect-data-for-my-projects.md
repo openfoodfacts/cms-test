@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Sideen u heli karaa/u ururin karaa xogta mashaariicdayda?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-data-reuse-use
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Bogga ugu weyn ee Furan ee Xaqiiqooyinka Cuntada, geeska bidix ee sare ee shaashadda, waxaa ku yaal liiska rogrogmada. Qeybta hoose, waxaad ka heli doontaa ikhtiyaarka "raadinta sare", kaas oo aad gujin karto. Markaas adiga ayay kugu xiran tahay inaad go'aamiso shuruudaha ugu habboon mashruucaaga (mashruucyadaada). Marka aad doorato, waxaad awoodi doontaa inaad soo dejiso natiijooyinka la helay adigoo hoos ugu dhaadhacaya xagga hoose ee bogga oo gujinaya "Soo dejiso natiijooyinka".
 
-You can also consult:
+Waxaad sidoo kale la tashan kartaa:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Dukumentiyadayada API: https://openfoodfacts.github.io/api-documentation/
+- Shuruudaha Isticmaalka Xaqiiqooyinka Cuntada Furan: https://world.openfoodfacts.org/terms-of-use
+- Xogtayada: https://world.openfoodfacts.org/data
