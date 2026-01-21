@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
-order: 104
+title: "Maypitaq chay appmanta yuyaykunata apachiyman ?"
+order: 104. 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-movil-app nisqa
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/2-movil-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Yuyaykunata apachiyta atinki kayman mobile@openfoodfacts.org
