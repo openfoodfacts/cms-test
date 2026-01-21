@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Ciamar a bheir mi a-steach na toraidhean agam gu Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fìrinnean-bòidhchead-fosgailte
+breadcrumbs: [ '/en-gb/', '/gb-gb/11-fosgailte-fìrinnean-bòidhchead/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Cuir fios gu producteurs@openfoodfacts.org no rachaibh dìreach gu
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org an uair sin cuir fios gu producteurs@openfoodfacts.org airson às-mhalairt sònraichte
