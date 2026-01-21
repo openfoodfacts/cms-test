@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Kako mogu pristupiti/prikupiti podatke za svoje projekte?"
 order: 88
 lang: hr-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ponovna-upotreba-podataka
+breadcrumbs: [ '/hr-gb/', '/hr-hr/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Na glavnoj stranici Open Food Facts, u gornjem lijevom kutu zaslona, nalazi se izbornik za pomicanje. Na dnu ćete pronaći opciju "napredno pretraživanje" na koju možete kliknuti. Tada je na vama da odredite koji su kriteriji najrelevantniji za vaš/e projekt/e. Nakon što odaberete, moći ćete preuzeti dobivene rezultate pomicanjem prema dolje na dnu stranice i klikom na "Preuzmi rezultate".
 
-You can also consult:
+Također se možete konzultirati:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Naša API dokumentacija: https://openfoodfacts.github.io/api-documentation/
+- Uvjeti korištenja Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Na našim podacima: https://world.openfoodfacts.org/data
