@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kif nista' nimporta l-prodotti tiegħi f'Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fatti dwar is-sbuħija miftuħa
+breadcrumbs: [ '/mt-gb/', '/mt-gb/11-fatti-miftuħa-dwar-is-sbuħija/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Ikkuntattja lil producteurs@openfoodfacts.org jew mur direttament fuq
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org imbagħad ikkuntattja lil producteurs@openfoodfacts.org għal esportazzjoni speċjali
