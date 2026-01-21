@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Ndingatumira kupi mhinduro nezve app iyi?"
 order: 104
 lang: en-gb
 category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+breadcrumbs: [ '/sn-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Unogona kutumira mhinduro yako ku mobile@openfoodfacts.org
