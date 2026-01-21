@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
-order: 67
+title: "ওপেন বিউটি ফ্যাক্টস-এ আমি কীভাবে আমার পণ্য আমদানি করব?"
+order: ৬৭
 lang: en-gb সম্পর্কে
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: ১১টি-খোলা-সৌন্দর্য-তথ্য
+breadcrumbs: [ '/bn-জিবি/', '/bn-gb/11-খোলা-সৌন্দর্য-তথ্য/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org-এ যোগাযোগ করুন অথবা সরাসরি এখানে যান
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org তারপর একটি বিশেষ রপ্তানির জন্য producteurs@openfoodfacts.org-এ যোগাযোগ করুন
