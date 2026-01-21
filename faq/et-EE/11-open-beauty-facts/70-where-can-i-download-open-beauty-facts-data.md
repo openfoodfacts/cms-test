@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Kust ma saan Open Beauty Factsi andmeid alla laadida?"
 order: 70
 lang: et-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 avatud ilufakti
+breadcrumbs: [ '/et-ee/', '/et-ee/11-avatud-ilufaktid/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data leht on hetkel katki. Andmeid saab alla laadida aadressilt https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
