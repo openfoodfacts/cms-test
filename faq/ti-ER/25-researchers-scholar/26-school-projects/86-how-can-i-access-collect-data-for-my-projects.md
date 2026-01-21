@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "ንፕሮጀክትታተይ ከመይ ጌረ ዳታ ክረክብ/ክእክብ ይኽእል ?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-ቤት ትምህርቲ-ፕሮጀክትታት
+parent_category: 25-ተመራመርቲ-ምሁር
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/ትግርኛ-ግብ/',
+    '/en-gb/25-ተመራመርቲ-ምሁር/',
+    '/en-gb/25-ተመራመርቲ-ምሁር/26-ቤት-ትምህርቲ-ፕሮጀክትታት/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ኣብ ቀንዲ ገጽ Open Food Facts፡ ኣብ ላዕለዋይ ጸጋማይ ኩርናዕ ናይቲ ስክሪን፡ ስክሮሊንግ ዝርዝር ኣሎ። ኣብ ታሕቲኡ ድማ “advanced search” ዝብል ኣማራጺ ክትረክብ ኢኻ፡ ኣብኡ ድማ ክትጥውቕ ትኽእል። ድሕሪኡ ኣየኖት መዐቀኒታት ምስ ፕሮጀክትካ (ፕሮጀክትታትካ) ዝያዳ ተዛመድቲ ምዃኖም ምውሳን ናትካ ውሳነ እዩ። ምስ ተመረጽካ፡ ኣብ ታሕቲ ናይቲ ገጽ ንታሕቲ ብምኻድ “Download results” ብምጥዋቕ፡ ነቲ ዝረኸብካዮ ውጽኢት ከተውርዶ ትኽእል ኢኻ።
