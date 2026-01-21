@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Maxay Furan Cuntada Xaqiiqooyinka u samaynaysaa tan (Qiimaha Furan)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-qiimo-furan
+breadcrumbs: [ '/en-gb/', '/en-gb/29-qiimaha-furan/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Macluumaadka qiimaha ayaa aad muhiim u ah si loo fahmo nidaamyada cuntada. Waa qodob muhiim ah oo lagu fahmo qiimaha cuntada iyo in la hormariyo cuntooyinka caafimaadka qaba. Xogta qiimaha furan waa hab loogu sahlayo cilmi-baarayaasha, saxafiyiinta, iyo muwaadiniinta inay si fiican u fahmaan sida qiimaha cuntadu u kala duwan yahay juqraafi ahaan iyo waqtigaba.
