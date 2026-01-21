@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Kā es varu piekļūt/apkopot datus saviem projektiem?"
 order: 88
 lang: lv-lv
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-API-datu-atkārtota-izmantošana
+breadcrumbs: [ '/lv-lv/', '/lv-lv/12-api-datu-atkārtota-izmantošana/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts galvenajā lapā ekrāna augšējā kreisajā stūrī ir ritināma izvēlne. Tā apakšā atradīsiet opciju “paplašinātā meklēšana”, uz kuras varat noklikšķināt. Pēc tam jums ir jānosaka, kuri kritēriji ir visatbilstošākie jūsu projektam(-iem). Kad būsiet izvēlējies, varēsiet lejupielādēt iegūtos rezultātus, ritinot uz leju lapas apakšdaļā un noklikšķinot uz “Lejupielādēt rezultātus”.
 
-You can also consult:
+Varat arī konsultēties ar:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Mūsu API dokumentācija: https://openfoodfacts.github.io/api-documentation/
+- Open Food Facts lietošanas noteikumi: https://world.openfoodfacts.org/terms-of-use
+- Par mūsu datiem: https://world.openfoodfacts.org/data
