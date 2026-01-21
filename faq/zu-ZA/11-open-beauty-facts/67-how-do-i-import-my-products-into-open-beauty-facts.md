@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Ngingangenisa kanjani imikhiqizo yami ku-Open Beauty Facts?"
 order: 67
 lang: i-en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Amaqiniso angu-11-obala-ubuhle
+breadcrumbs: [ '/zu-gb/', '/zu-gb/11-amaqiniso-obuhle-obuvulekile/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Xhumana ne-producteurs@openfoodfacts.org noma uye ngqo ku-
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org bese uxhumana ne-producteurs@openfoodfacts.org ukuze uthole ukuthunyelwa okukhethekile
