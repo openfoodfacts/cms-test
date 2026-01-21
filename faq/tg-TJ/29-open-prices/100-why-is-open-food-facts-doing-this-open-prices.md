@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Чаро Open Food Facts ин корро мекунад (нархҳои кушода)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-нархҳои кушода
+breadcrumbs: [ '/en-gb/', '/en-gb/29-нархҳои кушода/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Маълумот дар бораи нархҳо барои фаҳмидани системаҳои хӯрокворӣ аҳамияти аввалиндараҷа дорад. Ин омили калидӣ дар фаҳмидани арзиши хӯрокворӣ ва таблиғи парҳезҳои солим мебошад. Маълумот дар бораи нархҳои ибтидоӣ роҳест барои осонтар кардани фаҳмиши беҳтари муҳаққиқон, рӯзноманигорон ва шаҳрвандон дар бораи он, ки чӣ гуна нархи маҳсулоти хӯрокворӣ аз ҷиҳати ҷуғрофӣ ва дар тӯли замон тағйир меёбад.
