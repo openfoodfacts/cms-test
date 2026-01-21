@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Aiza no ahafahako mandefa valin-kevitra momba ny fampiharana?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Fampiharana finday 2
+breadcrumbs: [ '/en-gb/', '/mg-gb/2-fampiharana-finday/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Azonao alefa any amin'ny mobile@openfoodfacts.org ny valin-teninao.
