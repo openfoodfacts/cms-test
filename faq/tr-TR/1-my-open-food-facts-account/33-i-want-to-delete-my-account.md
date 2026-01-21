@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "Hesabımı silmek istiyorum."
 order: 33
 lang: en-gb
 category: 1-my-open-food-facts-account
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+Hesap silme işlemi artık doğrudan tercihlerinizden gerçekleşiyor.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ adresine giriş yaptıktan sonra, sağ üst köşedeki kullanıcı adınıza tıklayın ve Hesap Parametreleri'ni seçin. Tercihler sayfanızı açar. Sayfanın en altına gidin ve "kullanıcıyı sil" seçeneğini kullanın.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Giriş yapamıyorsanız (veya şifrenizi sıfırlayamıyorsanız), lütfen hesap kaydı sırasında kullandığınız e-posta adresini kullanarak dpo - at - openfoodfacts.org adresine ulaşın.
