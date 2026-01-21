@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Mwen se yon label, kijan mwen ka patisipe nan pwojè a?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etikèt
+breadcrumbs: [ '/en-gb/', '/en-gb/23-etikèt/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Kòm yon etikèt, bagay ki pi enpòtan pou fè se kontakte nou (producers@openfoodfacts.org) epi voye nou lis pwodwi kote etikèt ou a parèt pou nou ka ajoute yo sou fèy pwodwi ki gen rapò yo.
