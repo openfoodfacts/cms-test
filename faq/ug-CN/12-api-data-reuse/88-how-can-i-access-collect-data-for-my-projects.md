@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "تۈرلىرىم ئۈچۈن سانلىق مەلۇماتلارغا قانداق ئېرىشەلەيمەن/توپلىيالايمەن؟"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-سانلىق مەلۇماتنى قايتا ئىشلىتىش
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+«ئوچۇق يېمەكلىك ئۇچۇرلىرى» نىڭ ئاساسلىق بېتىدە، ئېكراننىڭ ئۈستۈنكى سول بۇلۇڭىدا، سىيرىلما تىزىملىك بار. ئۇنىڭ ئاستى تەرىپىدە، سىز چېكىش ئارقىلىق «ئىلغار ئىزدەش» تاللانمىسىنى تاپالايسىز. ئۇنداقتا قايسى ئۆلچەملەرنىڭ تۈرىڭىزگە ئەڭ ماس كېلىدىغانلىقىنى بەلگىلەش سىزگە باغلىق. تاللىغاندىن كېيىن، بەتنىڭ ئاستى تەرىپىگە قاراپ سىيرىلىپ، «نەتىجىلەرنى چۈشۈرۈش» نى چېكىش ئارقىلىق ئېرىشكەن نەتىجىلەرنى چۈشۈرەلەيسىز.
 
-You can also consult:
+سىز يەنە تۆۋەندىكىلەر بىلەن مەسلىھەتلىشىپ كۆرسىڭىز بولىدۇ:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- بىزنىڭ API ھۆججەتلىرىمىز: https://openfoodfacts.github.io/api-documentation/
+- ئوچۇق يېمەكلىك پاكىتلىرىنىڭ ئىشلىتىش شەرتلىرى: https://world.openfoodfacts.org/terms-of-use
+- بىزنىڭ سانلىق مەلۇماتلىرىمىزدا: https://world.openfoodfacts.org/data
