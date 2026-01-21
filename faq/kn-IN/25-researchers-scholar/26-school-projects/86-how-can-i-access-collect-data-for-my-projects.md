@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "ನನ್ನ ಯೋಜನೆಗಳಿಗೆ ಡೇಟಾವನ್ನು ನಾನು ಹೇಗೆ ಪ್ರವೇಶಿಸಬಹುದು/ಸಂಗ್ರಹಿಸಬಹುದು?"
+order: 86 (86)
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-ಶಾಲಾ-ಯೋಜನೆಗಳು
+parent_category: 25-ಸಂಶೋಧಕರು-ವಿದ್ವಾಂಸರು
 breadcrumbs:
   [
     '/en-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/kn-gb/25-ಸಂಶೋಧಕರು-ವಿದ್ವಾಂಸರು/26-ಶಾಲಾ-ಯೋಜನೆಗಳು/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್‌ನ ಮುಖ್ಯ ಪುಟದಲ್ಲಿ, ಪರದೆಯ ಮೇಲಿನ ಎಡ ಮೂಲೆಯಲ್ಲಿ, ಸ್ಕ್ರೋಲಿಂಗ್ ಮೆನು ಇದೆ. ಅದರ ಕೆಳಭಾಗದಲ್ಲಿ, ನೀವು "ಸುಧಾರಿತ ಹುಡುಕಾಟ" ಆಯ್ಕೆಯನ್ನು ಕಾಣುವಿರಿ, ಅದರ ಮೇಲೆ ನೀವು ಕ್ಲಿಕ್ ಮಾಡಬಹುದು. ನಂತರ ನಿಮ್ಮ ಯೋಜನೆ(ಗಳು)ಗೆ ಯಾವ ಮಾನದಂಡಗಳು ಹೆಚ್ಚು ಪ್ರಸ್ತುತವಾಗಿವೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುವುದು ನಿಮಗೆ ಬಿಟ್ಟದ್ದು. ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ, ಪುಟದ ಕೆಳಭಾಗದಲ್ಲಿ ಸ್ಕ್ರೋಲ್ ಮಾಡುವ ಮೂಲಕ ಮತ್ತು "ಫಲಿತಾಂಶಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ" ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನೀವು ಪಡೆದ ಫಲಿತಾಂಶಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
