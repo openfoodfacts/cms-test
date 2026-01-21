@@ -1,11 +1,11 @@
 ---
-title: "Do you consider scraping prices from retailers’ websites?"
+title: "Эсир сутуҫӑсен сайтӗсенчен хаксене ҫырса илме шутлатӑр-и?"
 order: 98
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-уҫӑ хаксем
+breadcrumbs: [ '/en-gb/', '/en-gb/29-уҫӑ-хаксем/' ]
 ---
 
-For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
+Юридици тата техника сӑлтавӗсене пула эпир ритейлерсен сайтӗсенчен хаксене ҫырса илнине Уҫӑ хаксене пулӑшмалли тӗрӗс мел тесе шутламастпӑр. Эпир пухнӑ хаксем тӗрӗс те хальхи пек пулччӑр тесе тӑрӑшатпӑр, ҫавӑнпа та ҫак ӗҫе хутшӑнакансенчен ҫырса илнӗ хаксене илни пире ҫакна тума май памасть.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
