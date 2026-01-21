@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Bħala tikketta, huwa importanti li toħloq kont?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-tikketti
+breadcrumbs: [ '/mt-gb/', '/mt-gb/23-tikketti/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Bħala tikketta, peress li m'intix il-produttur dirett tal-prodotti, m'għandekx bżonn toħloq kont ta' produttur.
