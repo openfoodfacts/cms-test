@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Ngingatfolaphi i-API Yemaciniso Ebuhle Lavulekile kanye nekutfunyelwa kwemininingwane ngaphandle ?"
 order: 101
 lang: si-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-emaciniso-ebuhle lavulekile
+breadcrumbs: [ '/si-gb/', '/si-gb/11-emaciniso-ebuhle lavulekile/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+I-API Yemaciniso Ekudla Lavulekile i-98% iyafana ne-API Yemaciniso Ebuhle Lavulekile ngako-ke uma usebentisa imibhalo ye-API Yemaciniso Ekudla Lavulekile kufanele ube nembono locacile kakhulu we-API Yemaciniso Ebuhle Lavulekile.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Caphela kutsi timphawu letifana neMaphaneli Elwati, Eco-Score, Nutri-Score atisekelwa (kungaba ngenca yesihloko, noma ku-codebase lendzala).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://maciniso ekudla lavulekile.github.io/seva yemaciniso ekudla lavulekile/api/ref-v2/
