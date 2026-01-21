@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Ninawezaje kutafsiri Ukweli wa Chakula Huria kwa lugha yangu?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Mambo 15-yanayoboresha-chakula-kilicho wazi-katika nchi yangu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/sw-gb/',
+    '/sw-gb/15-kuboresha-ukweli-wa-chakula-wazi-katika-nchi-yangu-ya-lugha/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Tembelea https://wiki.openfoodfacts.org/Country_Support
