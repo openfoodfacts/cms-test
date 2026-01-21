@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "می‌خواهم یک لوگوی جدید برای برچسب‌ها اضافه کنم"
+order: ۵۵
 lang: انگلیسی-انگلیسی
-category: 15-improving-open-food-facts-in-my-language-country
+category: ۱۵-بهبود-حقایق-غذای-باز-در-کشور-زبان-من
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/fa-gb/',
+    '/fa-gb/15-بهبود-حقایق-غذای-باز-در-کشور-زبان-من/'
   ]
 ---
 
-Here is the process:
+این فرآیند است:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- نام متعارف برچسب را در طبقه‌بندی برچسب‌ها پیدا کنید (این اولین مورد در لیست مترادف‌های برچسب‌ها است، مثلاً en:100% vegetable)
+- لوگو را با کیفیت خوب تهیه کنید: از استفاده از عکس مشارکت‌کننده که برای این مورد مناسب نیست، خودداری کنید؛ اکثر برچسب‌ها دارای لوگوهای با کیفیت بالا در وب‌سایت‌های رسمی خود هستند، گاهی اوقات در قالب برداری (حتی برای ما بهتر است)؛ تا زمانی که از یک لوگو برای اطلاع‌رسانی عینی در مورد وجود برچسب
+  روی بسته‌بندی یک محصول استفاده می‌کنیم، نیازی به اجازه گرفتن نیست.
+- فایل را به این صورت نامگذاری کنید: name-of-the-label.[width]x90.png که در آن width، عرض لوگو در ارتفاع ۹۰ پیکسل است. نام فایل‌ها باید بدون لهجه، با حروف کوچک و با استفاده از "-" به جای فاصله باشد.
+- سپس لوگو را در دایرکتوری که با نام متعارف آن مطابقت دارد اضافه کنید. اگر نام متعارف en:something باشد، باید در /en/ قرار گیرند. دایرکتوری ریشه برای لوگوها https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang است.
