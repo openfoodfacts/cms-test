@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Kiel mi povas aliri/kolekti datumojn por miaj projektoj?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-datumoj-reuzo
+breadcrumbs: [ '/en-gb/', '/eo-gb/12-api-datumoj-reuzo/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Sur la ĉefa paĝo de Open Food Facts, ĉe la supra maldekstra angulo de la ekrano, estas rulanta menuo. Ĉe la fundo de ĝi, vi trovos la opcion "altnivela serĉo", kiun vi povas alklaki. Tiam estas al vi decidi, kiuj kriterioj estas la plej gravaj por via(j) projekto(j). Post elekto, vi povos elŝuti la akiritajn rezultojn rulumante malsupren ĉe la fundo de la paĝo kaj alklakante "Elŝuti rezultojn".
 
-You can also consult:
+Vi ankaŭ povas konsulti:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Nia API-dokumentaro: https://openfoodfacts.github.io/api-documentation/
+- Kondiĉoj de Uzo de Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Pri niaj datumoj: https://world.openfoodfacts.org/data
