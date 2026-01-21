@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "A bheil cumhaichean ann airson an API a chleachdadh?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ath-chleachdadh dàta-api-12
+breadcrumbs: [ '/en-gb/', '/gb-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Gheibhear a h-uile sgrìobhainn mu chleachdadh API air duilleag sgrìobhainnean API, ach seo geàrr-chunntas goirid:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Tha stòr-dàta Open Food Facts ri fhaighinn mar dhàta fosgailte fo Cheadachas Stòr-dàta Fosgailte (ODbL), faic https://world.openfoodfacts.org/terms-of-use airson mion-fhiosrachadh laghail. Is e an dà chumha cur às leth agus roinneadh-co-ionann. Ma chuireas tu dàta bho Open Food Facts còmhla ri stòran-dàta eile, tha an ODbL ag iarraidh gun tèid an stòr-dàta a thig às a sin fhoillseachadh mar dhàta fosgailte cuideachd. Tha e cuideachd a’ ciallachadh nach urrainn dhut an dàta a chur còmhla ach le stòran a leigeadh le ath-sgaoileadh mar sin.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Feumaidh tu Àidseant-Cleachdaiche gnàthaichte a chleachdadh an-còmhnaidh nuair a bhios tu a’ dèanamh ghairmean API gus an aplacaid agad aithneachadh.
 
-- Rate-limits are enforced for each API endpoint.
+- Tha crìochan-ìrean air an cur an gnìomh airson gach ceann-phuing API.
