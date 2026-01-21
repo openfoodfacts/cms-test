@@ -2,8 +2,12 @@
 title: "Kif nista' nibdel l-isem tal-utent tiegħi?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-il-kont-miftuħ-tiegħi-dwar-l-ikel-
+breadcrumbs:
+  [
+    '/mt-gb/',
+    '/mt-gb/1-il-kont-miftuħ-tiegħi-dwar-l-ikel/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Sfortunatament, mhux possibbli. Jekk tassew trid tibdel, trid tħassar il-kont tiegħek u toħloq wieħed ġdid.
