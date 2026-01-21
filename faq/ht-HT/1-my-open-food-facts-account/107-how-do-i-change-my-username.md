@@ -2,8 +2,12 @@
 title: "Kijan pou m chanje non itilizatè mwen an?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-kont-mwen-ouvè-enfòmasyon-sou-manje
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-kont-mwen-ouvè-enfòmasyon-sou-manje/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Malerezman, li pa posib. Si ou reyèlman vle chanje, ou dwe efase kont ou a epi kreye yon lòt.
