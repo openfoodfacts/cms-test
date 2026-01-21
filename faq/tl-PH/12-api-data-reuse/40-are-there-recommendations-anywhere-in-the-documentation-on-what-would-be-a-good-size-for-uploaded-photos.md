@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Mayroon bang mga rekomendasyon sa kahit saan sa dokumentasyon kung ano ang magiging magandang laki para sa mga na-upload na larawan?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-muling-paggamit-ng-datos
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-muling paggamit/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Maaaring depende iyan sa mga bansa, kung mabagal o mahal ang network. Ang anumang bagay na higit sa 5000 pixels ang timbang o taas ay malamang na hindi gaanong kapaki-pakinabang. at kung kahit papaano ay matutukoy mo na mabagal ang network, kahit ang isang 2000 pixels na imahe ay magiging maganda (mas mabuti na nga kaysa sa walang imahe!)
