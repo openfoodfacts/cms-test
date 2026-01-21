@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Mimi ni lebo, ninawezaje kushiriki katika mradi huo?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: Lebo 23
+breadcrumbs: [ '/sw-gb/', '/sw-gb/23-lebo/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Kama lebo, jambo muhimu zaidi kufanya ni kuwasiliana nasi (producers@openfoodfacts.org) na kututumia orodha ya bidhaa ambazo lebo yako imeonyeshwa ili tuweze kuziongeza kwenye karatasi za bidhaa zinazohusiana.
