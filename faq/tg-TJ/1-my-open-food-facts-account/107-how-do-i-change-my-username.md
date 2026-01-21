@@ -2,8 +2,8 @@
 title: "Чӣ тавр ман номи корбарии худро иваз кунам?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
+category: 1-ҳисоби-кушодаи-ман-дар-маълумот-дар-хӯрокворӣ-
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Мутаассифона, ин имконнопазир аст. Агар шумо воқеан хоҳед, ки ҳисоби худро тағир диҳед, шумо бояд ҳисоби худро нест кунед ва ҳисоби нав эҷод кунед.
