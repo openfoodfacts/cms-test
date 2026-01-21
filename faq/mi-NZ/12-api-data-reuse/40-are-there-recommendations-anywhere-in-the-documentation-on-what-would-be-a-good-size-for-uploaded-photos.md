@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "He taunakitanga kei roto i ngā tuhinga mō te rahi pai mō ngā whakaahua kua tukuatu?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-whakamahi-anō-raraunga
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-whakamahi-anō-raraunga/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Tērā pea kei runga i te whenua te utu nui o te whatunga, mena he puhoi, he nui rānei te utu. kāore pea i te tino whai hua te nui ake o te taumaha, o te teitei rānei i te 5000 pika. ā, ki te taea e koe te kite i te puhoi o te whatunga, he pai rawa atu te ahua o te 2000 pika (he pai ake i te kore he ahua!)
