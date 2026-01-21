@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Hag-eñ ez eus alioù e lec'h bennak en teuliad diwar-benn peseurt ment a vefe mat evit al luc'hskeudennoù pellgarget ?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-roadennoù-adimplij
+breadcrumbs: [ '/br-gb/', '/br-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Diouzh ar broioù e c'hallfe bezañ, ma'z eo gorrek pe koust ar rouedad. netra ouzhpenn 5000 piksel e bouez pe e uhelder n'eo ket gwall talvoudus moarvat. ha ma c'hellit detektiñ en un doare bennak eo gorrek ar rouedad, neuze e vefe mat-tre ur skeudenn 2000 piksel zoken (gwelloc'h eget chom hep kaout ur skeudenn !)
