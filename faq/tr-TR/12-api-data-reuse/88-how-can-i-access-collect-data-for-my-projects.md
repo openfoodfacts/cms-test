@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Projelerim için verilere nasıl erişebilirim/verileri nasıl toplayabilirim?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-veri-yeniden kullanımı
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-veri-yenidenkullanımı/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts'in ana sayfasında, ekranın sol üst köşesinde kaydırılabilir bir menü bulunmaktadır. Sayfanın en altında, tıklayabileceğiniz "gelişmiş arama" seçeneğini bulacaksınız. O halde, projeniz/projeleriniz için hangi kriterlerin en uygun olduğuna karar vermek size kalmış. Seçiminizi yaptıktan sonra, sayfanın en altındaki "Sonuçları indir" seçeneğine tıklayarak elde edilen sonuçları indirebilirsiniz.
 
-You can also consult:
+Ayrıca şunlara da danışabilirsiniz:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- API dokümantasyonumuz: https://openfoodfacts.github.io/api-documentation/
+- Open Food Facts'in Kullanım Şartları: https://world.openfoodfacts.org/terms-of-use
+- Verilerimiz hakkında daha fazla bilgi için: https://world.openfoodfacts.org/data
