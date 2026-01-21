@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Mune zvimwe zviitiko chigadzirwa chimwe chete chinogona kuva nezvinovaka muviri zvakasiyana kune imwe neimwe nyika, izvi zvinobatwa sei muOpen Food Facts?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-mupiro wekuzvipira
+breadcrumbs: [ '/sn-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% yenguva, vagadziri vanogadzira mabarcode akasiyana emhando dzakasiyana dzezvigadzirwa zvavo. Muenzaniso wakakurumbira musiyano uripo pakati peNutella yechiFrench neyechiGerman pakukora kwayo, nekuda kwekusiyana kwechingwa munyika dzakasiyana. Mafomula maviri akasiyana, mabhakhodi maviri akasiyana.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Zvisinei, kusawirirana kwebhawa kunogona kuitika pamakodhi mapfupi (EAN-8) ayo anowanzo shandiswazve muzvitoro zvakawanda muEurope nemuUS. Parizvino hatigadzirise kusawirirana kwemabhacode, asi zvinofanirwa kuitika nekuwana nzvimbo yemushandisi (zvinowanzova zvisingawanzoitiki kuva nekusawirirana kwemabhacode munyika).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Nekufamba kwenguva, tinokurudzira vagadziri kuti vaende kuEAN-13 kudzivirira kusawirirana kwemabhacode.
