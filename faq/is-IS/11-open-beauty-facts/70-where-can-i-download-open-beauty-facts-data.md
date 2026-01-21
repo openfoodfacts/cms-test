@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Hvar get ég sótt gögn frá Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-opnar-fegurðarstaðreyndir
+breadcrumbs: [ '/en-gb/', '/en-gb/11-opnar-fegurðarstaðreyndir/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Síðan /data er biluð núna. Þú getur sótt gögnin á https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
