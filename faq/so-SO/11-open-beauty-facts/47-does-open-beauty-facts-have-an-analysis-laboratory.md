@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Ma jiraa shaybaar falanqayn oo Open Beauty Facts leedahay?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-xaqiiqooyin qurux-furan
+breadcrumbs: [ '/en-gb/', '/en-gb/11-xaqiiqooyin-qurux-furan/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Nasiib darro, Xaqiiqooyinka Quruxda Furan ma laha shaybaar falanqayn ah: waxaan nahay urur iskaa wax u qabso ah oo hadafkoodu yahay inay abuuraan Wikipedia oo ku saabsan qurxinta.
 
-That said, if you would like to help us provide more transparency for
+Taasi waxay tidhi, haddii aad jeclaan lahayd inaad naga caawiso bixinta daahfurnaan dheeraad ah
 
-consumers, you can use our iPhone, Android and
+macaamiisha, waxaad isticmaali kartaa iPhone-keena, Android-keena iyo
 
-Windows Phone to add products:
+Windows Phone si loogu daro alaabada:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Iyo si aad isu weydaarsato oo aad uga wada hadasho isticmaalka suurtagalka ah ee mashruuca, adiga
 
-can join the Facebook group of contributors:
+ku biiri kartaa kooxda Facebook ee wax ku biiriyaasha:
 
 https://www.facebook.com/groups/356858984359591/
