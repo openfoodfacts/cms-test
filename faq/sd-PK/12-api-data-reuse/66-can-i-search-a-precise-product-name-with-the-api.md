@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "ڇا مان API سان هڪ صحيح پراڊڪٽ جو نالو ڳولي سگهان ٿو؟"
 order: 66
 lang: اين جي بي
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ڊيٽا-ٻيهر استعمال
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ڊيٽا-ٻيهر استعمال/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+بدقسمتي سان اڃا تائين API ذريعي صرف پراڊڪٽ جي نالي تي آساني سان ڳولا ڪرڻ ممڪن ناهي.
 
-Using a filter on category might help you make your search more precise though.
+جيتوڻيڪ ڪيٽيگري تي فلٽر استعمال ڪرڻ سان توهان جي ڳولا کي وڌيڪ صحيح بڻائڻ ۾ مدد ملندي.
