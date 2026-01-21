@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "ھۆججەتلەردە يۈكلەنگەن سۈرەتلەرنىڭ قايسى چوڭلۇقتا بولۇشى كېرەكلىكى توغرىسىدا تەۋسىيە بارمۇ؟"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-سانلىق مەلۇماتنى قايتا ئىشلىتىش
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+بۇ تور سۈرئىتىنىڭ ئاستا ياكى قىممەت بولۇشى دۆلەتلەرگە باغلىق بولۇشى مۇمكىن. ئېغىرلىقى ياكى بوي ئېگىزلىكى 5000 پىكسېلدىن ئېشىپ كەتكەن ھەر قانداق نەرسە ئانچە پايدىلىق بولماسلىقى مۇمكىن. ئەگەر تورنىڭ سۈرئىتىنىڭ ئاستا ئىكەنلىكىنى قانداقلا بولمىسۇن بايقىسىڭىز، 2000 پىكسېللىق رەسىممۇ ناھايىتى ياخشى بولاتتى (رەسىمسىز بولغاندىن كۆرە ئەلۋەتتە ياخشى!)
