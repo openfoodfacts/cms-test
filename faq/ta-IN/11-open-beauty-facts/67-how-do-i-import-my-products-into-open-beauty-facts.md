@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
-order: 67
+title: "எனது தயாரிப்புகளை Open Beauty Facts-ல் எவ்வாறு இறக்குமதி செய்வது?"
+order: 67 தமிழ்
 lang: ta-gb (ஆங்கிலம்)
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-திறந்த-அழகு-உண்மைகள்
+breadcrumbs: [ '/ta-gb/', '/ta-gb/11-open-beauty-facts/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org என்ற முகவரியில் தொடர்பு கொள்ளவும் அல்லது நேரடியாகச் செல்லவும்
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+சிறப்பு ஏற்றுமதிக்கு https://world.pro.openfoodfacts.org பின்னர் producteurs@openfoodfacts.org என்ற முகவரியில் தொடர்பு கொள்ளவும்.
