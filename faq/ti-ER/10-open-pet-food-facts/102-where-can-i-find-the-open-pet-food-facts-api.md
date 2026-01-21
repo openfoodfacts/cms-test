@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "ክፉት ናይ እንስሳ ዘቤት መግቢ ሓቅታት ኤፒኣይ ኣበይ ክረኽቦ ይኽእል ?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-ክፉት-እንስሳ ዘቤት-መግቢ-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/10-ክፉት-ናይ እንስሳ ዘቤት መግቢ-ሓቅታት/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API 98% ምስ Open Pet Facts API ሓደ እዩ ስለዚ Open Food Facts API ሰነድ እንተተጠቒምካ ብዛዕባ Open Pet Food Facts API ቁሩብ ንጹር ኣረኣእያ ክህልወካ ይግባእ።
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+ከም ፍልጠት ፓነላት፣ ኢኮ-ስኮር፣ ኒውትሪ-ስኮር ዝኣመሰሉ ባህርያት ከምዘይድገፉ ኣስተውዕል (ብሰንኪ እቲ ኣርእስቲ፣ ወይ ብሰንኪ እቲ ናይ ቀደም ኮድቤዝ)።
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://ክፉት ምግቢ-ሓቅታት.github.io/ክፉት-መግቢ-ኣገልጋሊ/api/ref-v2/
