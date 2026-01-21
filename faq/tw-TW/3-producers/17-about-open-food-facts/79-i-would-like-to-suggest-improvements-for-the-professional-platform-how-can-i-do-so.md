@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
-order: 79
+title: "Mepɛ sɛ mehyɛ nyansa sɛ wɔnyɛ nkɔsoɔ mma adwumayɛfoɔ platform no, mɛyɛ dɛn ayɛ saa ?"
+order: 79. Nkyekyɛm
 lang: tw-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-fa-aduan-a-abue-nokwasɛm ahorow
+parent_category: 3-wɔn a wɔyɛ nneɛma
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/twi-gb/ .',
+    '/en-gb/3-wɔn a wɔyɛ/ .',
+    '/en-gb/3-producers/17-fa-aduan-a-abue-nokwasɛm/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+Yɛda mo ase wɔ ɔpɛ a mowɔ sɛ mode mo ho bɛhyɛ aduan a wɔbɛma ada adi mu no ho!
 
-The best way to share feedback is by filling in this form.
+Ɔkwan pa a wobɛfa so akyɛ nsɛm a wobɛka ne sɛ wobɛhyehyɛ kratasin yi.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+Wubetumi nso ne yɛn adi nkitaho de nyansahyɛ ahorow ama denam yɛn forum anaa Slack so.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Kɔka yɛn Slack ho na hyɛn channel #producers no mu na wo ne yɛn nni nkitaho.
