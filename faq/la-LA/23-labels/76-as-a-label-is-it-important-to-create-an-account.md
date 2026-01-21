@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Ut nota discographica, estne momenti rationem creare?"
 order: 76
 lang: en-gb
-category: 23-labels
+category: XXIII-inscriptiones
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Ut nota, cum non sis productor directus productorum, non opus est tibi rationem productoris creare.
