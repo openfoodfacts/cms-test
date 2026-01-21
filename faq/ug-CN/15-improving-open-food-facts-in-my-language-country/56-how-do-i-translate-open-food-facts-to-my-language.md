@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "«ئوچۇق يېمەكلىك پاكىتلىرى»نى قانداق قىلىپ ئۆز تىلىمغا تەرجىمە قىلىمەن؟"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: مېنىڭ تىلىمدىكى دۆلىتىمىزدە يېمەكلىكلەرنىڭ ئېچىلىشىغا ئائىت 15 پاكىتنى ياخشىلاش
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-مېنىڭ-تىلىمدىكى-يېمەكلىك-پاكىتلىرىنى-ياخشىلاش-/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support تور بېتىگە كىرىڭ.
