@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Cossí pòdi accedir a de donadas istoricas?"
 order: 105
 lang: es-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-reutilizacion de donadas
+breadcrumbs: [ '/es-gb/', '/oc-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Actualament, ofrissèm pas de dump de donadas istoricas (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Pasmens, pels produches individuals, es possible d'accedir a de versions precedentas de las donadas del produch en utilizant l'API o sus la pagina del produch en utilizant de revisions.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Cada còp qu'un produch es mes a jorn, una novèla revision (chifra creissenta a partir de 1) es creada.
 
-For example, to get the first revision (=first product version) of this product, use
+Per exemple, per obténer la primièra revision (=version de primièr produch) d'aqueste produch, utilizatz
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+De manièra similara, lo paramètre rev pòt èsser utilizat amb l'API :
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
