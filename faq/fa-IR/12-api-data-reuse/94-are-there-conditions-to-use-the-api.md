@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "آیا شرایطی برای استفاده از API وجود دارد؟"
+order: ۹۴
 lang: انگلیسی-انگلیسی
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ۱۲-استفاده مجدد از داده‌ها در API
+breadcrumbs: [ '/fa-gb/', '/fa-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+تمام مستندات مربوط به کاربرد API را می‌توان در صفحه مستندات API یافت، اما در اینجا خلاصه‌ای سریع از آن آمده است:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- پایگاه داده حقایق غذایی آزاد به عنوان داده باز تحت مجوز پایگاه داده باز (ODbL) در دسترس است، برای جزئیات قانونی به https://world.openfoodfacts.org/terms-of-use مراجعه کنید. این دو شرط عبارتند از انتساب و اشتراک. اگر داده‌های Open Food Facts را با سایر پایگاه‌های داده ترکیب کنید، ODbL الزام می‌کند که پایگاه داده حاصل نیز به عنوان داده باز منتشر شود. همچنین به این معنی است که شما می‌توانید داده‌ها را فقط با منابعی ترکیب کنید که امکان چنین توزیع مجددی را فراهم می‌کنند.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- شما همیشه باید هنگام انجام فراخوانی‌های API برای شناسایی برنامه خود، از یک User-Agent سفارشی استفاده کنید.
 
-- Rate-limits are enforced for each API endpoint.
+- محدودیت‌های نرخ برای هر نقطه پایانی API اعمال می‌شود.
