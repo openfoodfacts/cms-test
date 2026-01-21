@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Ko Open Beauty Facts ine rabhoritari yekuongorora here?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-zvinhu-zvakavhurika-zverunako
+breadcrumbs: [ '/sn-gb/', '/sn-gb/11-ruzivo-rwakavhurika-runako/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Zvinosuwisa kuti Open Beauty Facts haina rabhoritari yekuongorora: tiri sangano revanhu vanozvipira vane chinangwa chekugadzira Wikipedia yezvizoro.
 
-That said, if you would like to help us provide more transparency for
+Izvozvo zvakadaro, kana muchida kutibatsira kuti tipe pachena
 
-consumers, you can use our iPhone, Android and
+vatengi, munogona kushandisa iPhone, Android ne
 
-Windows Phone to add products:
+Windows Phone yekuwedzera zvigadzirwa:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Uye kuti mutaurirane nekukurukura mashandisirwo angangoitwa chirongwa ichi, imi
 
-can join the Facebook group of contributors:
+unogona kubatana neboka reFacebook revanopa rubatsiro:
 
 https://www.facebook.com/groups/356858984359591/
