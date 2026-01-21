@@ -2,8 +2,8 @@
 title: "مان پنهنجو يوزر نالو ڪيئن بدلائي سگهان ٿو؟"
 order: 107
 lang: اين جي بي
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-منهنجو-کليل-کاڌي-حقيقتون-اڪائونٽ
+breadcrumbs: [ '/en-gb/', '/en-gb/1-منهنجو-کليل-کاڌي-حقيقتون-اڪائونٽ/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+بدقسمتي سان، اهو ممڪن ناهي. جيڪڏهن توهان واقعي تبديلي چاهيو ٿا، ته توهان کي پنهنجو اڪائونٽ ختم ڪرڻو پوندو ۽ هڪ نئون ٺاهڻو پوندو.
