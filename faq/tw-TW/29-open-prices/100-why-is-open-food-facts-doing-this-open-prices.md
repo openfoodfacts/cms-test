@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
-order: 100
+title: "Dɛn nti na Open Food Facts reyɛ eyi (Open Prices)?"
+order: 100 na ɛwɔ hɔ
 lang: tw-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-a wɔabue-boɔ
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/29-bue-boɔ/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Nneɛma bo ho nsɛm ho hia sen biara na ama yɛate aduan nhyehyɛe ahorow ase. Ɛyɛ ade titiriw a ɛma yɛte aduan bo ase na yɛhyɛ aduan a ahoɔden wom ho nkuran. Nneɛma bo ho nsɛm a wobue no yɛ ɔkwan a wɔfa so ma ɛyɛ mmerɛw ma nhwehwɛmufo, nsɛm ho amanneɛbɔfo, ne ɔman mma sɛ wobenya ntease pa wɔ sɛnea nnuan bo gu ahorow wɔ asasesin ne bere mu no ho.
