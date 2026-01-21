@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Hur importerar jag mina produkter till Open Beauty Facts?"
 order: 67
 lang: sv-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-öppna-skönhetsfakta
+breadcrumbs: [ '/sv-gb/', '/sv-gb/11-open-scowness-facts/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Kontakta producteurs@openfoodfacts.org eller gå direkt till
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org kontakta sedan producteurs@openfoodfacts.org för en specialiserad export
