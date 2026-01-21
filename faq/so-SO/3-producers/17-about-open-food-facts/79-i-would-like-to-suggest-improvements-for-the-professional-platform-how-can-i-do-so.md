@@ -2,13 +2,13 @@
 title: "Waxaan jeclaan lahaa inaan soo jeediyo horumarin ku saabsan madal xirfadeed, sidee baan sidaas u samayn karaa?"
 order: 79
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-xaqiiqo oo ku saabsan cuntada furan
+parent_category: 3-soo-saare
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-soo-saareyaal/',
+    '/en-gb/3-soo-saareyaal/17-xaqiiqo oo ku saabsan cunto-furan/'
   ]
 ---
 
