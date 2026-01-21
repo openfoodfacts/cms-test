@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "Ман мехоҳам далелҳои маҳсулоти кушодаро дастгирӣ кунам. Ман бояд чи кор кунам ?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-фактҳо дар бораи маҳсулоти кушода
+breadcrumbs: [ '/en-gb/', '/en-gb/28-маҳсулоти-кушода-фактҳо/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Лутфан, саҳифаи викии моро хонед, мо роҳҳои иштирокро номбар кардем: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Барои дастгирии далелҳои маҳсулоти кушода, шумо метавонед имконоти зеринро, ки ҳар кадоме ба намудҳои гуногуни саҳмгузорӣ мутобиқ карда шудаанд, баррасӣ кунед:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Саҳмгузорони хайриявӣ/давлатӣ барои далелҳо дар бораи маҳсулоти кушода:
+  Саҳмгузориҳои хайриявӣ дар амалӣ кардани биниши платформаи ҳамаҷонибаи додаҳои даврӣ, баҳодиҳии маҳсулот ва ҷамъбасти роҳҳои ҳалли даврӣ дар зиёда аз 20000 категория, ки ҳадафи асосии далелҳо дар бораи маҳсулоти кушода аст, муҳим мебошанд. Бисёре аз ҷузъҳои муҳими ин дурнамо ҳанӯз маблағгузорӣ нашудаанд ва дастгирии молии шумо метавонад таъсири назаррас расонад. Хайрияҳои шумо метавонанд барои маблағгузории лоиҳаҳои муҳим ва инфрасохтор кумак кунанд. Барои саҳми молиявӣ, лутфан бо мо тавассути суроғаи contact@openfoodfacts.org тамос гиред.
+- Саҳмгузорони маълумот бо истифода аз барномаи Open Products Facts:
+  Саҳмгузорони маълумот барои миқёспазирии Open Products Facts муҳиманд. Бо истифода аз барномаи Android барои илова кардани маълумоти нави маҳсулот, навсозии вурудоти мавҷуда ё тасдиқи маълумот, шумо ба васеъ ва такмили пойгоҳи додаҳо мусоидат мекунед. Ин талоши дастаҷамъона ба эҷоди як манбаи мустаҳкам ва боэътимод барои ҳама мусоидат мекунад.
+- Саҳмгузорони техникӣ дар далелҳо дар бораи маҳсулоти кушода:
+  Агар шумо малакаҳои техникӣ дар соҳаҳо ба монанди барномасозӣ, таҳлили маълумот ё тарроҳии таҷрибаи корбарӣ дошта бошед, таҷрибаи шумо метавонад барои далелҳо дар бораи маҳсулоти кушода фоидаи назаррас расонад. Иштирок дар таҳияи барнома, беҳтар кардани функсияҳои он ё беҳтар кардани интерфейсҳои корбар саҳми арзишманд мебошанд. Барои иштирок, ба канали #openproductsfacts Slack ҳамроҳ шавед, ки дар он ҷомеаи Open Products Facts ҳамкорӣ мекунад. Шумо метавонед истинодро ба ин фазои кории Slack дар вебсайти Open Food Facts пайдо кунед.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Ҳар як намуди саҳм барои рушд ва муваффақияти Open Products Facts муҳим аст ва ба эҷоди платформаи устувортар ва иттилоотӣ барои ҳама мусоидат мекунад.
