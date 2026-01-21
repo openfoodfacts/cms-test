@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "මට API භාවිතයෙන් නිවැරදි නිෂ්පාදන නාමයක් සෙවිය හැකිද?"
+order: 66 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-දත්ත-නැවත භාවිතා කිරීම
+breadcrumbs: [ '/si-gb/', '/en-gb/12-api-දත්ත-නැවත භාවිතා කරන්න/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+අවාසනාවකට, නිෂ්පාදන නාමයෙන් පමණක් සහ හරියටම API හරහා සෙවීමට තවමත් නොහැකි වී තිබේ.
 
-Using a filter on category might help you make your search more precise though.
+කෙසේ වෙතත්, කාණ්ඩය මත පෙරහනක් භාවිතා කිරීමෙන් ඔබේ සෙවීම වඩාත් නිවැරදි කිරීමට උපකාරී වේ.
