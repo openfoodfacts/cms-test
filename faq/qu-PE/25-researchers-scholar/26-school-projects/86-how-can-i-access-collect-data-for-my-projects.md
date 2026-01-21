@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "¿Imaynatataq proyectoykunapaq datosman yaykuyman/huñuyman ?"
+order: 86. 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-escuela-proyectokuna
+parent_category: 25-investigador-yachaq
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/quchqa-gb/ .',
+    '/quch-gb/25-investigador-yachaq/',
+    '/quch-gb/25-investigador-yachaq/26-escuela-proyectos/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Mikhuy Chiqakuna Kichasqa hatun p'anqapi, pantallap paña pata k'uchunpi, huk kuyuriq menú kachkan. Chaypa urayninpim tarinki “awpaq maskay” nisqa akllanata, chaypim ñitiyta atinki. Chaymantaqa qammanta kanqa mayqin criteriokuna aswan relevante kanku proyectoykipaq (kuna). Huk kuti akllasqa, atikunki uraykachiyta tarisqa ruwaykunata urayman kuyurispa urayman p’anqapi chaymanta ñit’ispa “Uraykachiy ruwasqakunata”.
