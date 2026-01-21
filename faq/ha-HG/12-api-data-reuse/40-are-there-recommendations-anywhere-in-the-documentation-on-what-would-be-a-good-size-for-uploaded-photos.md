@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Akwai shawarwari a cikin takardun kan yadda za a yi girman hotunan da aka ɗora?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: Sake amfani da bayanai na api guda 12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Wannan na iya dogara ne akan ƙasashe, ko hanyar sadarwa tana da jinkiri ko tsada. Duk wani abu da ya wuce pixels 5000 a nauyi ko tsayi wataƙila ba shi da amfani sosai. kuma idan za ka iya gano cewa hanyar sadarwar tana da jinkiri, to ko da hoton pixels 2000 zai yi kyau (hakika ya fi kyau fiye da rashin hoto!)
