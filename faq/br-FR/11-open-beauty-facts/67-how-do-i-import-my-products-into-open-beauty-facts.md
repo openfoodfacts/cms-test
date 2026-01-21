@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Penaos enporzhiañ ma produioù e-barzh Open Beauty Facts ?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fedoù-kaerder digor
+breadcrumbs: [ '/br-gb/', '/br-gb/11-open-beauty-facts/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Kit e darempred gant produteurs@openfoodfacts.org pe kit war-eeun da
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org neuze kit e darempred gant produteurs@openfoodfacts.org evit un ezporzhiadur ispisial
