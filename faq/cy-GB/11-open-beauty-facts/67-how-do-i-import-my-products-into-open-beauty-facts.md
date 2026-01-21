@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Sut ydw i'n mewnforio fy nghynhyrchion i Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ffeithiau-harddwch-agored
+breadcrumbs: [ '/cy-gb/', '/cy-gb/11-ffeithiau-harddwch-agored/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Cysylltwch â producteurs@openfoodfacts.org neu ewch yn uniongyrchol i
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org yna cysylltwch â producteurs@openfoodfacts.org am allforio arbennig
