@@ -2,11 +2,11 @@
 title: "Hvordan oversetter jeg Open Food Facts til mitt språk?"
 order: 56
 lang: no-no
-category: 15-forbedring-av-åpne-matfakta-på-mitt-språkland
+category: 15-forbedringer-open-food-facts-in-my-language-land
 breadcrumbs:
   [
-    '/en-gb/',
-    '/no-gb/15-forbedring-av-åpne-matfakta-i-mitt-språkland/'
+    '/radgiver/',
+    '/radgiver/singelliv-og-partnersok/kvinne-soker-mann'
   ]
 ---
 
