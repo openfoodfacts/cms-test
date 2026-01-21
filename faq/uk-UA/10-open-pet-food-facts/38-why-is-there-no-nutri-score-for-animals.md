@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Чому немає Nutri-Score для тварин?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 відкритих фактів про корм для домашніх тварин
+breadcrumbs:
+  [
+    '/uk-gb/',
+    '/uk-ua/10-відкритих-фактів-про-корм-для-домашніх-улюбленців/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Кожна тварина різна (змія не має таких самих потреб у харчуванні, як кішка чи собака)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Навіть у межах одного виду тварин, таких як собаки, потреби в харчуванні різняться залежно від малорухливого способу життя, можливої кастрації або хвороб.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Тому складно розрахувати оцінку кормів для тварин без залучення десятків дослідників та створення десятків різних алгоритмів, чого досі не робили.
