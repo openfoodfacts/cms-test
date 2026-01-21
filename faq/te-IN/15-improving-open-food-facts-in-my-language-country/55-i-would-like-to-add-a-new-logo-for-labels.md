@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "నేను లేబుల్స్ కోసం కొత్త లోగోను జోడించాలనుకుంటున్నాను."
 order: 55
 lang: en-gb తెలుగు in లో
-category: 15-improving-open-food-facts-in-my-language-country
+category: నా భాషా దేశంలో 15 మెరుగైన ఆహార వాస్తవాలు
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-నా భాషా దేశంలో ఓపెన్ ఫుడ్ వాస్తవాలను మెరుగుపరచడం/'
   ]
 ---
 
-Here is the process:
+ఇక్కడ ప్రక్రియ ఉంది:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- లేబుల్స్ యొక్క వర్గీకరణలో లేబుల్ యొక్క కానానికల్ పేరును కనుగొనండి (ఇది లేబుల్స్ యొక్క పర్యాయపదాల జాబితాలో మొదటి అంశం, ఉదా. en:100% vegetable)
+- లోగోను మంచి నాణ్యతతో పొందండి: ఈ సందర్భానికి సరిపోని సహకారి ఫోటోను ఉపయోగించకుండా ఉండండి; చాలా లేబుల్‌లు అధికారిక వెబ్‌సైట్‌ల అధిక నాణ్యత గల లోగోలను కలిగి ఉంటాయి, కొన్నిసార్లు వెక్టర్ ఫార్మాట్‌లో (మాకు ఇంకా మంచిది); ఉత్పత్తి ప్యాకేజింగ్‌పై
+  లేబుల్ ఉనికి గురించి నిష్పాక్షికంగా తెలియజేయడానికి మేము లోగోను ఉపయోగించినంత వరకు, అనుమతి అడగవలసిన అవసరం లేదు.
+- ఫైల్ కు ఈ విధంగా పేరు పెట్టండి: name-of-the-label.[width]x90.png ఇక్కడ width అంటే లోగో 90 పిక్సెల్స్ ఎత్తు ఉన్నప్పుడు దాని వెడల్పు. ఫైల్ పేర్లు ఉచ్ఛారణ లేకుండా, చిన్న అక్షరాలలో ఉండాలి మరియు ఖాళీలకు బదులుగా "-"ని ఉపయోగించాలి.
+- తరువాత దాని కానానికల్ పేరుకు అనుగుణంగా ఉన్న డైరెక్టరీలో లోగోను జోడించండి. కానానికల్ పేరు en:something అయితే, అవి /en/ లో ఉండాలి. లోగోల కోసం రూట్ డైరెక్టరీ https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang.
