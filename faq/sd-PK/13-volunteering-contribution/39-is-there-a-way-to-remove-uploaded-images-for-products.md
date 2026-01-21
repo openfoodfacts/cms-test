@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "ڇا پراڊڪٽس لاءِ اپلوڊ ڪيل تصويرن کي هٽائڻ جو ڪو طريقو آهي؟"
 order: 39
 lang: اين جي بي
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-رضاڪارانه تعاون
+breadcrumbs: [ '/en-gb/', '/en-gb/13-رضاڪار-شراڪت/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+ممڪن تباهي کان بچڻ لاءِ، صرف منتظم ئي تصويرون هٽائي سگهن ٿا.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+بس سليڪ تي يا contact@openfoodfacts.org تي پڇو ته پنهنجا نقل يا ڪا به نامناسب تصوير هٽائي (توهان کي ان لاءِ بارڪوڊ نمبر يا URL مهيا ڪرڻ جي ڪوشش ڪرڻ گهرجي).
 
-We also have a new image report API if you're a programmer.
+جيڪڏهن توهان پروگرامر آهيو ته اسان وٽ هڪ نئون تصويري رپورٽ API پڻ آهي.
