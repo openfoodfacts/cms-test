@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Aplikasi ini tidak mengimbas"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasi-mudah alih
+breadcrumbs: [ '/en-gb/', '/ms-gb/2-aplikasi-mudah-alih/' ]
 ---
 
-This may be due to
+Ini mungkin disebabkan oleh
 
-- a network problem
+- masalah rangkaian
 
-- a permissions problem
+- masalah kebenaran
 
-- a barcode problem
+- masalah kod bar
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Hantarkan e-mel kepada kami melalui Profil >> Hubungi Kami >> Hantarkan e-mel kepada kami.
 
-All relevant information should be attached to your request.
+Semua maklumat berkaitan hendaklah dilampirkan bersama permintaan anda.
