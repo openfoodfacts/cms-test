@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "යෙදුම ස්කෑන් නොකරයි"
+order: 35 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ජංගම-යෙදුම
+breadcrumbs: [ '/si-gb/', '/si-gb/2-ජංගම-යෙදුම/' ]
 ---
 
-This may be due to
+මෙයට හේතුව විය හැක්කේ
 
-- a network problem
+- ජාල ගැටළුවක්
 
-- a permissions problem
+- අවසර ගැටළුවක්
 
-- a barcode problem
+- තීරු කේත ගැටළුවක්
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+පැතිකඩ >> අප අමතන්න >> හරහා අපට විද්‍යුත් තැපෑලක් එවන්න.
 
-All relevant information should be attached to your request.
+අදාළ සියලු තොරතුරු ඔබගේ ඉල්ලීමට අමුණා තිබිය යුතුය.
