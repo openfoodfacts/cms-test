@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Ushbu FAQni o'z tilimga qanday tarjima qilaman?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Mening-tilimdagi-mamlakatda-ochiq-ovqat-haqida-15-faktlarni-yaxshilash
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-mening-tilimdagi-mamlakatda-ochiq-ovqat-faktlarini-yaxshilash/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Ma'lumotlar bazasiga tahrir qilish uchun contact@openfoodfacts.org manziliga murojaat qiling.
