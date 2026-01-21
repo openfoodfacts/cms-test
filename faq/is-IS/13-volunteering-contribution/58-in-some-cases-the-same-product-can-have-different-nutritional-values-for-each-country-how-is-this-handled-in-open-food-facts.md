@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Í sumum tilfellum getur sama vara haft mismunandi næringargildi fyrir hvert land, hvernig er þessu háttað í Open Food Facts?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-sjálfboðaliðaframlag
+breadcrumbs: [ '/en-gb/', '/en-gb/13-sjálfboðaliðaframlag/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+Í 99% tilfella búa framleiðendur til mismunandi strikamerki fyrir mismunandi útgáfur af vörum sínum. Frægt dæmi er munurinn á frönsku og þýsku Nutella hvað varðar þykkt, vegna mismunandi brauðtegunda eftir löndum. Tvær mismunandi formúlur, 2 mismunandi strikamerki.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Árekstrar í strikamerkjum geta þó komið fyrir á styttri kóðum (EAN-8) sem eru venjulega endurnýttir af sumum verslunum í Evrópu og Bandaríkjunum. Við tökum ekki á við þessi strikamerkjaárekstra eins og er, en það ætti að vera mögulegt að gera það með því að fá almenna staðsetningu notandans (það er enn sjaldgæfara að strikamerkjaárekstrar komi upp innan lands).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Til lengri tíma litið hvetjum við framleiðendur til að færa sig yfir í EAN-13 til að forðast þessar árekstrar með strikamerkjum.
