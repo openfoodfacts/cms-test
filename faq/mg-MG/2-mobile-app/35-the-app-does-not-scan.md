@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Tsy afaka mijery ny fampiharana"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Fampiharana finday 2
+breadcrumbs: [ '/en-gb/', '/mg-gb/2-fampiharana-finday/' ]
 ---
 
-This may be due to
+Mety ho vokatry ny
 
-- a network problem
+- olana amin'ny tambajotra
 
-- a permissions problem
+- olana amin'ny fahazoan-dàlana
 
-- a barcode problem
+- olana amin'ny kaody bara
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Alefaso mailaka aminay amin'ny alàlan'ny piraofilina >> Mifandraisa aminay >> Alefaso mailaka aminay.
 
-All relevant information should be attached to your request.
+Tokony hampiarahina amin'ny fangatahanao ny fampahalalana rehetra mifandraika amin'izany.
