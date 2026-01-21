@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Апликација не скенира"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобилна-апликација
+breadcrumbs: [ '/en-gb/', '/en-sb/2-mobilna-aplikacija/' ]
 ---
 
-This may be due to
+Ово може бити због
 
-- a network problem
+- проблем са мрежом
 
-- a permissions problem
+- проблем са дозволама
 
-- a barcode problem
+- проблем са бар-кодом
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Пошаљите нам имејл преко профила >> Контактирајте нас >> Пошаљите нам имејл.
 
-All relevant information should be attached to your request.
+Све релевантне информације треба приложити уз ваш захтев.
