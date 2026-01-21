@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Càite am faigh mi an Open Pet Food Facts API?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 fìrinnean fosgailte mu bhiadh peata
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/gb-gb/10-fosgailte-fiosrachadh-mu-bhiadh-pheata/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Tha Open Pet Food Facts API 98% an aon rud ri Open Food Facts API, agus mar sin ma chleachdas tu sgrìobhainnean Open Food Facts API bu chòir dhut sealladh gu math soilleir fhaighinn air Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Thoir an aire nach eil taic ri feartan mar na Pannalan Eòlais, an Sgòr-Eag-eòlais, agus an Sgòr-Beathachaidh (air sgàth a’ chuspair no an t-seann stòr-còd).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
