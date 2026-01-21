@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "¿Atiymanchu maskay huk chiqan ruru sutita API kaqwan?"
+order: 66. 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-datos-kutichiy
+breadcrumbs: [ '/quchqa-gb/ .', '/qucha-gb/12-api-data-kutichiy/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Llakikuypaq manaraq atikunchu facil maskay ruru sutillapi chaymanta chiqamanta API kaqnintakama.
 
-Using a filter on category might help you make your search more precise though.
+Huk filtro categoría kaqpi llamk'achiyqa yanapasunkiman maskayniyki aswan chiqan kananpaq ichaqa.
