@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Kust ma leian Open Pet Food Facts API?"
 order: 102
 lang: et-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 avatud lemmikloomatoidu fakti
+breadcrumbs: [ '/et-ee/', '/et-ee/10-fakte-lemmikloomatoidu kohta/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API on 98% ulatuses sama mis Open Food Facts API, seega kui kasutate Open Food Facts API dokumentatsiooni, peaksite saama Open Pet Food Facts API-st üsna selge ülevaate.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Pane tähele, et selliseid funktsioone nagu teadmuspaneelid, ökoskoor ja toitumisskoor ei toetata (kas teema või vana koodibaasi tõttu).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
