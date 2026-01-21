@@ -2,8 +2,8 @@
 title: "Ne bɛ se ka n ka baarakɛla tɔgɔ Changer cogo di?"
 order: 107. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-ne-da-da-dumuni-tiɲɛw-konte
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/1-ne-da-da-dumuni-ko-ko/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+A fɔ man di nka, o tɛ se ka kɛ. N’i b’a fɛ tiɲɛ na ka fɛn caman Changer, i ka kan k’i ka jatebɔsɛbɛn bɔ yen ka kura dɔ da.
