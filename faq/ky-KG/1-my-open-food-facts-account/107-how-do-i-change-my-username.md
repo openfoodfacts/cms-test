@@ -2,8 +2,12 @@
 title: "Колдонуучу атымды кантип өзгөртөм?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-менин-ачык-тамак-аш-факттары-аккаунтум
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-менин-ачык-тамак-аш-факттары-аккаунтум/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Тилекке каршы, бул мүмкүн эмес. Эгер чындап эле аккаунтуңузду өзгөрткүңүз келсе, анда аны жок кылып, жаңысын түзүшүңүз керек.
