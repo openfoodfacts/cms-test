@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "মুক্ত খাদ্য তথ্যৰ ওপৰত প্ৰেছ ভিজুৱেল কেনেকৈ পাব পাৰি?"
+order: ৫৪
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: ১৪-প্ৰেছ-মিডিয়া-অনুৰোধ
+breadcrumbs: [ '/as-gb/', '/as-gb/14-প্ৰেছ-মিডিয়া-অনুৰোধ/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
-https://blog.openfoodfacts.org/en/press-release-new-mobile-app
+অনুগ্ৰহ কৰি যোগাযোগ কৰক : presse@openfoodfacts.org
+https://blog.openfoodfacts.org/as/press-release-new-mobile-app
