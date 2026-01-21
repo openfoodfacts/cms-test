@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "ខ្ញុំចង់បន្ថែមឡូហ្គោថ្មីសម្រាប់ស្លាក"
+order: ៥៥
 lang: អង់គ្លេស-ជីកាបៃ
-category: 15-improving-open-food-facts-in-my-language-country
+category: ១៥-ការពិតអំពីការកែលម្អអាហារបើកចំហនៅក្នុងប្រទេសដែលនិយាយភាសារបស់ខ្ញុំ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ការកែលម្អ-ការពិតអំពីអាហារបើកចំហនៅក្នុងប្រទេសដែលនិយាយភាសារបស់ខ្ញុំ/'
   ]
 ---
 
-Here is the process:
+នេះជាដំណើរការ៖
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- ស្វែងរកឈ្មោះ​ស្តង់ដារ​នៃ​ស្លាក​នៅក្នុង​ចំណាត់ថ្នាក់​នៃ​ស្លាក (វាជា​ធាតុ​ដំបូង​នៅក្នុង​បញ្ជី​នៃ​សទិសន័យ​នៃ​ស្លាក ឧ. en:100% vegetable)
+- ទទួលបានឡូហ្គោក្នុងគុណភាពល្អ៖ ជៀសវាងការប្រើប្រាស់រូបថតរបស់អ្នករួមចំណែកដែលមិនស័ក្តិសមសម្រាប់ករណីនេះ។ ស្លាកភាគច្រើនមានឡូហ្គោដែលមានគុណភាពខ្ពស់របស់គេហទំព័រផ្លូវការ ជួនកាលក្នុងទម្រង់វ៉ិចទ័រ (កាន់តែល្អសម្រាប់ពួកយើង)។ ដរាបណាយើងប្រើឡូហ្គោដើម្បីជូនដំណឹងអំពីវត្តមាននៃស្លាក
+  នៅលើការវេចខ្ចប់ផលិតផល មិនចាំបាច់សុំការអនុញ្ញាតទេ។
+- ដាក់ឈ្មោះឯកសារដូចនេះ៖ name-of-the-label.[width]x90.png ដែល width ជាទទឹងសម្រាប់ឡូហ្គោ នៅពេលដែលវាមានកម្ពស់ 90 ភីកសែល។ ឈ្មោះឯកសារត្រូវតែមិនមានការសង្កត់សំឡេង សរសេរជាអក្សរតូច និងប្រើសញ្ញា "-" ជំនួសឲ្យចន្លោះ។
+- បន្ទាប់មកបន្ថែមឡូហ្គោនៅក្នុងថតដែលត្រូវនឹងឈ្មោះស្តង់ដាររបស់វា។ ប្រសិនបើឈ្មោះស្តង់ដារគឺ en:something នោះពួកវាត្រូវស្ថិតនៅក្នុង /en/។ ថតឯកសារដើមសម្រាប់ឡូហ្គោគឺ https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
