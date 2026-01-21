@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Дар куҷо ман метавонам фикру мулоҳизаҳои худро дар бораи барнома фиристам?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Барномаи 2-мобилӣ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-барномаи мобилӣ/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Шумо метавонед фикру мулоҳизаҳои худро ба суроғаи mobile@openfoodfacts.org фиристед.
