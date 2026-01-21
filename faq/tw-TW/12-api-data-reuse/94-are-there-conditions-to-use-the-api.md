@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "So tebea horow bi wɔ hɔ a wubetumi de API no adi dwuma?"
+order: 94. Nkyekyɛm
 lang: tw-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-a wɔde di dwuma bio
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/12-api-data-san de di dwuma/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Wobetumi ahunu API dwumadie ho nwoma nyinaa wɔ API nwoma krataafa no so, nanso nsɛm a wɔaboaboa ano ntɛmntɛm nie:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Open Food Facts database no wɔ hɔ sɛ data a wɔabue wɔ Open Database License (ODbL) ase, hwɛ https://world.openfoodfacts.org/terms-of-use ma mmara mu nsɛm. Tebea abien no ne attribution ne share-alike. Sɛ wode data a efi Open Food Facts mu ne database afoforo bom a, ɛnde ODbL hwehwɛ sɛ ɛsɛ sɛ woyi database a efi mu ba no adi sɛ data a wɔabue nso. Ɛsan nso kyerɛ sɛ wubetumi de data no abom ne fibea ahorow a anka ɛbɛma kwan ma wɔasan akyekyɛ saa no nkutoo.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Ɛsɛ sɛ wode User-Agent a wɔahyɛ da ayɛ di dwuma bere nyinaa bere a woreyɛ API frɛ de ahu wo app no.
 
-- Rate-limits are enforced for each API endpoint.
+- Wɔhyɛ rate-limits ma API endpoint biara.
