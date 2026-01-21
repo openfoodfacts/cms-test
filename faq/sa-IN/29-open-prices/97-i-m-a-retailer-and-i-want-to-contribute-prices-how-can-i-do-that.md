@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
-order: 97
+title: "अहं विक्रेता अस्मि मूल्येषु योगदानं दातुम् इच्छामि। कथं तत् कर्तुं शक्नोमि ?"
+order: ९७
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: २९-मुक्त-मूल्यानि
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/29-मुक्त-मूल्यानि/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+अस्माकं एपिआइ इत्यस्य उपयोगेन मूल्येषु योगदानं दातुं शक्नुवन्ति। यदि भवान् मूल्येषु स्केल-रूपेण योगदानं दातुम् इच्छति तर्हि कृपया contact@openfoodfacts.org इत्यत्र अस्माभिः सह सम्पर्कं कुर्वन्तु।
