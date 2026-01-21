@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "ክፉት ጽባቐ ሓቅታት ናይ ትንተና ቤተ ፈተነ ኣለዎ ድዩ?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ክፉት-ጽባቐ-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/11-ክፉት-ሓቅታት-ጽባቐ/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts ሕማቕ ኣጋጣሚ ኮይኑ ናይ ትንተና ቤተ ፈተነ የብሉን: ንሕና ማሕበር ወለንተኛታት ኢና ዕላምና ዊኪፒዲያ ናይ መመላኽዒ ምፍጣር እዩ።
 
-That said, if you would like to help us provide more transparency for
+እዚ ክበሃል ከሎ፡ ዝያዳ ግሉጽነት ንኽንህብ ክትሕግዙና ምስ እትደልዩ
 
-consumers, you can use our iPhone, Android and
+ተጠቀምቲ፡ ንኣይፎንና፡ ኣንድሮይድናን...
 
-Windows Phone to add products:
+ፍርያት ንምውሳኽ ዊንዶውስ ፎን፤
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner ዝብል ጽሑፍ ንምርካብ ኣብዚ ንጠውቅ
 
-And to exchange and discuss the possible uses of the project, you
+ከምኡ’ውን ነቲ ፕሮጀክት ክጥቀመሉ ዝኽእል ኣጠቓቕማ ንምልውዋጥን ንምዝታይን፡ ንስኻ...
 
-can join the Facebook group of contributors:
+ኣብ ናይ ፌስቡክ ጉጅለ ኣበርከትቲ ክትጽንበሩ ትኽእሉ ኢኹም፤
 
-https://www.facebook.com/groups/356858984359591/
+https://www.facebook.com/groups/356858984359591/ ኣብዚ ዝስዕብ መርበብ ሓበሬታ
