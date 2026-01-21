@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "ຂ້ອຍເປັນນັກອອກແບບ. ຂ້ອຍສາມາດຊ່ວຍໄດ້ແນວໃດ?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
+category: 13-ການປະກອບສ່ວນອາສາສະໝັກ
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+ພວກເຮົາປະສານງານກິດຈະກຳທີ່ກ່ຽວຂ້ອງກັບການອອກແບບທັງໝົດໃນ https://github.com/openfoodfacts/openfoodfacts-design ແລະ ໃນຊ່ອງທາງສົນທະນາສະເພາະ. ພວກເຮົາຈັດກອງປະຊຸມທີມ ແລະ ລະດົມສະໝອງກ່ຽວກັບສິ່ງທ້າທາຍສະເພາະເປັນປະຈຳ.
