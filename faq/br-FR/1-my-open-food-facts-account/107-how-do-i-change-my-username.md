@@ -2,8 +2,8 @@
 title: "Penaos cheñch ma anv implijer ?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-ma-kont-fedoù-boued-digor
+breadcrumbs: [ '/br-gb/', '/br-gb/1-ma c''hont-fedoù-boued-digor/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Siwazh, n'eo ket posupl. Ma fell deoc'h cheñch e gwirionez e rankit dilemel ho kont ha krouiñ unan nevez.
