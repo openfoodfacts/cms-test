@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "আমি এই FAQ টি আমার ভাষায় কীভাবে অনুবাদ করব?"
+order: ৫৭
 lang: en-gb সম্পর্কে
 category: ১৫-আমার-ভাষা-দেশের-খোলা-খাবার-তথ্য-উন্নতকরণ
 breadcrumbs:
   [
-    '/en-gb/',
+    '/bn-জিবি/',
     '/bn-gb/১৫-আমার-দেশের-ভাষায়-খোলা-খাদ্য-তথ্যের-উন্নতি/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+জ্ঞান ভাণ্ডারে সম্পাদনা অ্যাক্সেসের জন্য অনুগ্রহ করে contact@openfoodfacts.org-কে জিজ্ঞাসা করুন।
