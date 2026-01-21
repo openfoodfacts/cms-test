@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "Cur nullus est Nutri-Score pro animalibus?"
+order: XXXVIII
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Decem-facta-de-cibo-animalium-aperto
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/10-aperta-facta-de-cibo-animalium-domesticorum/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Quodque animal differt (serpens non easdem necessitates nutritionis habet quam feles aut canis)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Etiam intra idem genus animalium, ut canum, necessitates nutritionis variantur secundum vitam sedentariam, castrationem possibilem, aut morbos.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Ergo complicatum est puncta pro pabulo animalium calculare sine participatione plurium investigatorum et creatione plurium algorithmorum diversorum, quod adhuc non factum est.
