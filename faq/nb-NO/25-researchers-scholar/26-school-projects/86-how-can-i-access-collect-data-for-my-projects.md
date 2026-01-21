@@ -1,15 +1,15 @@
 ---
-title: "Hvordan kan jeg få tilgang til/samle inn data til prosjektene mine?"
+title: "Hvordan får jeg tilgang/samle inn data for mitt prosjekt?"
 order: 86
 lang: no-no
 category: 26-skoleprosjekter
-parent_category: 25-forskere-stipendiat
+parent_category: 25-forskerforskerskolar
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/no-gb/25-forskere-stipendiater/26-skoleprosjekter/'
+    '/radgiver/',
+    '/no/nb/25-forskerstipolar/',
+    '/no/nb/25-forskerstipendiat / 26 skoleprosjekter'
   ]
 ---
 
-På hovedsiden til Open Food Facts, øverst til venstre på skjermen, er det en rullemeny. Nederst finner du alternativet «avansert søk», som du kan klikke på. Det er deretter opp til deg å bestemme hvilke kriterier som er mest relevante for prosjektet/prosjektene dine. Når du har valgt, kan du laste ned resultatene ved å bla ned nederst på siden og klikke på «Last ned resultater».
+På Open Food Facts’ hovedside, øverst til venstre på skjermen finnes det en rullemeny. På bunnen av programmet finner du alternativet "avansert søk" som du kan klikke på. Det er så opp til deg å avgjøre hvilke kriterier som er mest relevante for prosjektet(ene). Når valgt, vil du kunne laste ned de oppnådde resultatene ved å rulle ned nederst på siden og klikke på "Last ned resultater".
