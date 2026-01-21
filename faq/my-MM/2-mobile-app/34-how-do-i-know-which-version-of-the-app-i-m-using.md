@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "ကျွန်တော်/ကျွန်မသုံးနေတဲ့ အက်ပ်ရဲ့ ဗားရှင်းက ဘယ်ဟာလဲဆိုတာ ဘယ်လိုသိနိုင်မလဲ။"
+order: ၃၄
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ၂-မိုဘိုင်း-အက်ပ်
+breadcrumbs: [ '/en-gb/', '/en-gb/2-မိုဘိုင်း-အက်ပ်/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+ပရိုဖိုင်ကိုသွားပါ၊
+ထို့နောက် မကြာခဏမေးလေ့ရှိသောမေးခွန်းများ၊ ထို့နောက် ဤအက်ပ်အကြောင်းသို့ သွားပါ။
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+3.4.5+662 ကဲ့သို့သော ဗားရှင်းနံပါတ်ကို
+တွင် သင်တွေ့မြင်ရပါမည်။ ဖုန်းက debugging လုပ်နေရင် ဖုန်းရဲ့ အမှတ်တံဆိပ်နဲ့ မော်ဒယ်
+ကို ပြောပြဖို့ မမေ့ပါနဲ့။
