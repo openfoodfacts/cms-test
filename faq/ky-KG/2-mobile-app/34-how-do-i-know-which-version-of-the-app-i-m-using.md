@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Колдонмонун кайсы версиясын колдонуп жатканымды кантип билем?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобилдик тиркеме
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобилдик-тиркеме/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+"Профиль" бөлүмүнө,
+бөлүмүнө, андан кийин "Көп берилүүчү суроолор" бөлүмүнө, андан кийин "Бул колдонмо жөнүндө" бөлүмүнө өтүңүз.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Сиз
+3.4.5+662 сыяктуу версия номерин көрүшүңүз керек. Эгер телефон мүчүлүштүктөрдү оңдоп жатса, анын маркасын жана моделин
+айтып берүүнү унутпаңыз.
