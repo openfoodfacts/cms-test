@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "Kif inkun naf liema verżjoni tal-app qed nuża?"
+order: 34 sena
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-app mobbli
+breadcrumbs: [ '/mt-gb/', '/mt-gb/2-app-mobbli/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Mur fil-Profil,
+imbagħad FAQ, imbagħad Dwar din l-app.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Għandek
+tara numru ta' verżjoni bħal 3.4.5+662. Tinsiex tgħidilna l-marka u l-mudell
+tat-telefon jekk qed jiġi debugging.
