@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "ኣብ ምምሕያሽ ናይ ሞባይል ኣፕ ብኸመይ ክሕግዝ ይኽእል ?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ሞባይል-ኣፕ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/2-ሞባይል-ኣፕ/' ]
 ---
 
-How can I help with improving the mobile app ?
+ኣብ ምምሕያሽ ናይ ሞባይል ኣፕ ብኸመይ ክሕግዝ ይኽእል ?
 
-You can do so on the Mobile app repository
+ኣብ መኽዘን ኣፕ ሞባይል ክትገብርዎ ትኽእሉ ኢኹም።
