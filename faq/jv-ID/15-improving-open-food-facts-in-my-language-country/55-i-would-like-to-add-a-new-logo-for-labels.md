@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Aku pengin nambah logo anyar kanggo label"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-fakta-panganan-terbuka-sing-ningkatake-ing-negara-basa-ku
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ningkatake-fakta-panganan-terbuka-ing-negara-basa-ku/'
   ]
 ---
 
-Here is the process:
+Iki prosese:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- Golekana jeneng kanonik label ing taksonomi label (iku item pisanan ing dhaptar sinonim label, contone en:100% sayuran)
+- Golekana logo sing kualitasé apik: aja nganggo foto kontributor sing ora cocog kanggo kasus iki; umumé label duwé situs web resmi logo sing kualitasé dhuwur, kadhangkala nganggo format vektor (malah luwih apik kanggo kita); anggere kita nggunakaké logo kanggo menehi informasi kanthi objektif babagan anané label
+  ing kemasan produk, ora perlu njaluk idin.
+- Wenehana jeneng berkas iki kaya iki: name-of-the-label.[width]x90.png ing ngendi width iku jembaré logo nalika dhuwuré 90 piksel. Jeneng berkas kudu tanpa aksen, nganggo huruf cilik lan nggunakake "-" tinimbang spasi.
+- banjur tambahake logo ing direktori sing cocog karo jeneng kanonik. Manawa jeneng kanoniké yaiku en:something, mula jeneng kasebut kudu ana ing /en/. Direktori oyot kanggo logo yaiku https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
