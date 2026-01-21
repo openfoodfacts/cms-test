@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Ne skann ket an arload"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-arload-hezoug
+breadcrumbs: [ '/br-gb/', '/br-gb/2-mobile-app/' ]
 ---
 
-This may be due to
+Marteze eo abalamour da
 
-- a network problem
+- ur gudenn rouedad
 
-- a permissions problem
+- ur gudenn aotreoù
 
-- a barcode problem
+- ur gudenn gant ur c'hod barrennoù
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Kasit ur postel deomp dre Profil >> Kit e darempred ganeomp >> Kasit ur postel deomp.
 
-All relevant information should be attached to your request.
+An holl ditouroù talvoudus a rank bezañ staget ouzh ho koulenn.
