@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "ስለምንታይ እዩ Open Food Facts ከምዚ ዝገብር ዘሎ (Open Prices)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-ክፉት-ዋጋታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/29-ክፉት-ዋጋታት/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+ስርዓታት መግቢ ንምርዳእ ሓበሬታ ዋጋታት ልዕሊ ኩሉ ኣገዳስነት ኣለዎ። ዋጋ መግቢ ንምርዳእን ጥዕና ዘለዎ ኣመጋግባ ንምድንፋዕን ቁልፊ ረቛሒ እዩ። ዳታ ዋጋ ምኽፋት፡ ተመራመርቲ፡ ጋዜጠኛታትን ዜጋታትን ዋጋታት መግቢ ብጂኦግራፍያውን ብግዜን ብኸመይ ከም ዝፈላለ ዝሓሸ ርድኢት ንኽህልዎም ዝሕግዝ መንገዲ እዩ።
