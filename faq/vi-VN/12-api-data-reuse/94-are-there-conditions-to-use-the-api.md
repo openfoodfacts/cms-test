@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Có điều kiện nào để sử dụng API không?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Tất cả tài liệu hướng dẫn về cách sử dụng API đều có trên trang tài liệu API, nhưng dưới đây là tóm tắt ngắn gọn:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Cơ sở dữ liệu Open Food Facts được cung cấp dưới dạng dữ liệu mở theo Giấy phép Cơ sở dữ liệu Mở (ODbL), xem https://world.openfoodfacts.org/terms-of-use để biết các chi tiết pháp lý. Hai điều kiện đó là sự quy kết và sự chia sẻ tương tự. Nếu bạn kết hợp dữ liệu từ Open Food Facts với các cơ sở dữ liệu khác, thì ODbL yêu cầu cơ sở dữ liệu kết quả cũng phải được công bố dưới dạng dữ liệu mở. Điều này cũng có nghĩa là bạn chỉ có thể kết hợp dữ liệu với các nguồn cho phép phân phối lại như vậy.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Bạn phải luôn sử dụng User-Agent tùy chỉnh khi thực hiện các cuộc gọi API để xác định ứng dụng của mình.
 
-- Rate-limits are enforced for each API endpoint.
+- Giới hạn số lượt truy cập được áp dụng cho từng điểm cuối API.
