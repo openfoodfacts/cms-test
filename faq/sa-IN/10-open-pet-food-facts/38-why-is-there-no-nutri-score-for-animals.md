@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "पशूनां कृते Nutri-Score किमर्थं नास्ति ?"
+order: ३८
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: १०-उद्घाट-पालतू-भोजन-तथ्यम्
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/10-open-pet-food-facts/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+प्रत्येकं पशुः भिन्नः भवति (सर्पस्य पोषणस्य आवश्यकता बिडालस्य वा श्वस्य वा समाना नास्ति) ।
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+श्वादिषु समानप्रकारस्य पशुस्य अन्तः अपि निषण्णजीवनशैल्याः, सम्भाव्यस्य क्षयस्य वा रोगानाम् अनुसारं पोषणस्य आवश्यकताः भिन्नाः भवन्ति
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+अतः दर्जनशः शोधकर्तृणां संलग्नतां विना दर्जनशः भिन्नानां एल्गोरिदम्-निर्माणं विना पशुभोजनस्य स्कोरस्य गणना जटिला अस्ति, यत् अद्यपर्यन्तं न कृतम्
