@@ -1,9 +1,9 @@
 ---
-title: "Hvordan får jeg tilgang til Open Products Facts på iPhone?"
+title: "Hvordan få tilgang til Open Products Facts på iPhone ?"
 order: 92
 lang: no-no
-category: 28-åpne-produktfakta
-breadcrumbs: [ '/en-gb/', '/no-gb/28-åpne-produktfakta/' ]
+category: 28-open-products-facts
+breadcrumbs: [ '/radgiver/', '/nb-NO' ]
 ---
 
-Open Products Facts er tilgjengelig i hovedappen Open Food Facts. Denne integrasjonen lar iPhone-brukere få tilgang til begge databasene gjennom én enkelt, praktisk applikasjon.
+Open Products Facts er tilgjengelig i Open Food Facts app. Denne integrasjonen gir iPhone-brukere tilgang til begge databasene gjennom en enkelt, nyttig applikasjon.
