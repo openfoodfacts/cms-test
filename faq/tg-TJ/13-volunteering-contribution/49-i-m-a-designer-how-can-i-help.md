@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Ман дизайнер ҳастам. Чӣ тавр ман метавонам кумак кунам?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-саҳми ихтиёрӣ
+breadcrumbs: [ '/en-gb/', '/tg-gb/13-саҳми ихтиёрӣ/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Мо ҳама фаъолиятҳои марбут ба тарроҳиро дар https://github.com/openfoodfacts/openfoodfacts-design ва дар канали чати махсус ҳамоҳанг мекунем. Мо мунтазам вохӯриҳои дастаҷамъӣ ва машваратҳои интеллектуалӣ оид ба масъалаҳои мушаххас баргузор мекунем.
