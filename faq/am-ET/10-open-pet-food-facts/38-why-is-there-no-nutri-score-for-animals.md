@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "ለእንስሳት የኑትሪ-ስኮር ውጤት ለምን የለም?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-ክፍት የቤት እንስሳት ምግብ እውነታዎች
+breadcrumbs: [ '/en-gb/', '/en-gb/10-ክፍት-የቤት እንስሳት-ምግብ-እውነታዎች/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+እያንዳንዱ እንስሳ የተለየ ነው (እባብ እንደ ድመት ወይም ውሻ ተመሳሳይ የአመጋገብ ፍላጎቶች የሉትም)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+እንደ ውሾች ባሉ ተመሳሳይ የእንስሳት ዓይነቶች ውስጥ እንኳን፣ የአመጋገብ ፍላጎቱ እንደ እንቅስቃሴ-አልባ የአኗኗር ዘይቤ፣ ሊከሰት በሚችል የጡት መቁሰል ወይም በሽታዎች ይለያያል።
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+ስለዚህ እስከዛሬ ድረስ እስካሁን ድረስ ያልተሰራ በደርዘን የሚቆጠሩ ተመራማሪዎችን ሳያሳትፍ እና በደርዘን የሚቆጠሩ የተለያዩ ስልተ ቀመሮችን ሳይፈጥር የእንስሳት መኖን ውጤት ማስላት አስቸጋሪ ነው።
