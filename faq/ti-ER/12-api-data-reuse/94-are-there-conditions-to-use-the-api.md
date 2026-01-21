@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "ነቲ ኤፒኣይ ንምጥቃም ኩነታት ኣሎ ድዩ?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-ዳግመ-ኣጠቓቕማ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/12-api-ዳታ-ዳግመ-ኣጠቓቕማ/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+ኩሉ እቲ ብዛዕባ ኣጠቓቕማ ኤፒኣይ ዝምልከት ሰነዳት ኣብ ገጽ ሰነድ ኤፒኣይ ክትረኽቦ ትኽእል ኢኻ፡ ግን ቅልጡፍ ጽማቕ ኣብዚ ኣሎ፤
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- እቲ ናይ ክፉት መግቢ ሓቅታት ዳታቤዝ ከም ክፉት ዳታ ኣብ ትሕቲ ክፉት ዳታቤዝ ፍቓድ (ODbL) ይርከብ፣ ንሕጋዊ ዝርዝር ሓበሬታ https://world.openfoodfacts.org/terms-of-use ርአ። እቶም ክልተ ቅድመ ኩነታት ኣትሪብዩሽንን ሼር-ኣላይክን እዮም። ካብ ክፉት መግቢ ሓቅታት ዝመጽእ ዳታ ምስ ካልኦት ዳታቤዛት እንተ ኣወሃሂድካዮ፡ ሽዑ እቲ ODbL እቲ ዝወጽእ ዳታቤዝ ከም ክፉት ዳታ እውን ክዝርጋሕ ኣለዎ ይብል። ብተወሳኺ ነቲ ዳታ ምስ ከምዚ ዓይነት ዳግመ ምክፍፋል ዘፍቅዱ ምንጭታት ጥራይ ከተዋሃህዶ ትኽእል ማለት እዩ።
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- ኩሉ ግዜ ንኣፕካ ንምልላይ ናይ ኤፒኣይ ጻውዒታት ክትፍጽም ከለኻ ብሕታዊ ተጠቃሚ-ወኪል ክትጥቀም ኣለካ።
 
-- Rate-limits are enforced for each API endpoint.
+- ንነፍሲ ወከፍ ናይ ኤፒኣይ መወዳእታ ነጥቢ ደረጃ-ገደብ ይትግበር።
