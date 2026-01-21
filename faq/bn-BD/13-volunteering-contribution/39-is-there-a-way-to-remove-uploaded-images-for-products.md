@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
-order: 39
+title: "পণ্যের আপলোড করা ছবি মুছে ফেলার কোন উপায় আছে কি?"
+order: ৩৯
 lang: en-gb সম্পর্কে
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: ১৩-স্বেচ্ছাসেবক-অবদান
+breadcrumbs: [ '/bn-জিবি/', '/en-gb/13-স্বেচ্ছাসেবী-অবদান/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+সম্ভাব্য ভাঙচুর এড়াতে শুধুমাত্র মডারেটররা ছবিগুলি সরাতে পারবেন।
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+আপনার ডুপ্লিকেট বা যেকোনো অনুপযুক্ত ছবি মুছে ফেলার জন্য কেবল Slack অথবা contact@openfoodfacts.org-এ জিজ্ঞাসা করুন (আপনার বারকোড নম্বর বা URL দেওয়ার চেষ্টা করা উচিত)।
 
-We also have a new image report API if you're a programmer.
+আপনি যদি একজন প্রোগ্রামার হন, তাহলে আমাদের কাছে একটি নতুন ইমেজ রিপোর্ট APIও রয়েছে।
