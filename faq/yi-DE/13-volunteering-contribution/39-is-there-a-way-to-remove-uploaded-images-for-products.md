@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "איז דא א וועג צו אראפנעמען ארויפגעלאדענע בילדער פון פראדוקטן?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
+category: 13-וואלונטיר-ביישטייער
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+נאָר מאַדעראַטאָרן קענען אַראָפּנעמען בילדער, כּדי צו פֿאַרמייַדן מעגלעכן וואַנדאַליזם.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+פרעגט נאָר אויף Slack אָדער ביי contact@openfoodfacts.org צו אַראָפּנעמען אייערע דופּליקאַטן אָדער יעדע נישט-פּאַסיק פאָטאָס (איר זאָלט פּרובירן צו צושטעלן די באַרקאָד נומער אָדער URL צו דעם).
 
-We also have a new image report API if you're a programmer.
+מיר האָבן אויך אַ נייע בילד באַריכט API אויב איר זענט אַ פּראָגראַמירער.
