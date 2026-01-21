@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "ስለምንታይ ንእንስሳታት ዝኸውን ኒውትሪ-ስኮር ዘይብሉ?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-ክፉት-እንስሳ ዘቤት-መግቢ-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/10-ክፉት-ናይ እንስሳ ዘቤት መግቢ-ሓቅታት/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ነፍሲ ወከፍ እንስሳ ዝተፈላለየ እዩ (ተመን ከም ድሙ ወይ ከልቢ ተመሳሳሊ ድሌት መግቢ የብሉን)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+ኣብ ውሽጢ ሓደ ዓይነት እንስሳ ከም ኣኽላባት እውን እንተኾነ፡ እቲ ድሌታት ኣመጋግባ ከከም ህይወት ናይቲ ስቕ ዝበለ ኣነባብራ፡ ሓደ ክኸውን ዝኽእል ምቑራጽ ወይ ሕማማት ይፈላለ እዩ።
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+ስለዚ ንዓሰርተታት ተመራመርቲ ከየሳተፍካን ዓሰርተታት ዝተፈላለዩ ኣልጎሪዝማት ከይፈጠርካን ንመግቢ እንስሳታት ነጥቢ ምሕሳብ ዝተሓላለኸ ኮይኑ፡ ክሳብ ሕጂ ዘይተገብረ እዩ።
