@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Vai ir kāds veids, kā noņemt augšupielādētos produktu attēlus?"
 order: 39
 lang: lv-lv
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-brīvprātīgā darba-ieguldījums
+breadcrumbs: [ '/lv-lv/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Tikai moderatori var noņemt fotoattēlus, lai novērstu iespējamu vandālismu.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Vienkārši pajautājiet pakalpojumā Slack vai e-pastā contact@openfoodfacts.org, lai noņemtu jūsu dublikātus vai nepiemērotus fotoattēlus (mēģiniet norādīt svītrkoda numuru vai URL, lai to izdarītu).
 
-We also have a new image report API if you're a programmer.
+Mums ir arī jauna attēlu pārskatu API, ja esat programmētājs.
