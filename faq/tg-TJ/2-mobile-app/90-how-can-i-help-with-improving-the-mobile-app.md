@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Чӣ тавр ман метавонам дар беҳтар кардани барномаи мобилӣ кумак кунам?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Барномаи 2-мобилӣ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-барномаи мобилӣ/' ]
 ---
 
-How can I help with improving the mobile app ?
+Чӣ тавр ман метавонам дар беҳтар кардани барномаи мобилӣ кумак кунам?
 
-You can do so on the Mobile app repository
+Шумо метавонед инро дар анбори барномаи мобилӣ анҷом диҳед
