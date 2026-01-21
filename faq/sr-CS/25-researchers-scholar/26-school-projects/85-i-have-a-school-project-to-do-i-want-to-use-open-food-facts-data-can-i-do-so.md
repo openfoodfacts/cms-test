@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "Имам школски пројекат који треба да урадим, желим да користим податке са Open Food Facts, могу ли то да урадим?"
 order: 85
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-школских-пројеката
+parent_category: 25 истраживача-научника
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/ен-гб/25-ресеарцхерс-сцхолар/',
+    '/en-gb/25-истраживача-научника/26-школских-пројеката/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Отворене чињенице о храни су отворена база података, отворени пројекат који функционише под ODbL лиценцом, стога, све док се слажете са захтевима ODbL лиценце, слободно поново користите наше податке за своје пројекте :).
