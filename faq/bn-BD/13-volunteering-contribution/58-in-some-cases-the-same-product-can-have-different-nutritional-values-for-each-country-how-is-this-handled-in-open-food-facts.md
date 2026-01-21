@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
-order: 58
+title: "কিছু ক্ষেত্রে একই পণ্যের পুষ্টিগুণ প্রতিটি দেশের জন্য ভিন্ন হতে পারে, ওপেন ফুড ফ্যাক্টস-এ এটি কীভাবে পরিচালনা করা হয়?"
+order: ৫৮
 lang: en-gb সম্পর্কে
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: ১৩-স্বেচ্ছাসেবক-অবদান
+breadcrumbs: [ '/bn-জিবি/', '/en-gb/13-স্বেচ্ছাসেবী-অবদান/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+৯৯% সময়, উৎপাদকরা তাদের পণ্যের বিভিন্ন সংস্করণের জন্য বিভিন্ন বারকোড তৈরি করবেন। একটি বিখ্যাত উদাহরণ হল ফরাসি এবং জার্মান নুটেলার মধ্যে পুরুত্বের পার্থক্য, কারণ দেশভেদে রুটির পার্থক্য রয়েছে। ২টি ভিন্ন সূত্র, ২টি ভিন্ন বারকোড।
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+তবে, ইউরোপ এবং মার্কিন যুক্তরাষ্ট্রের কিছু দোকানে সাধারণত ব্যবহৃত ছোট কোড (EAN-8) তে বারকোড সংঘর্ষ ঘটতে পারে। আমরা বর্তমানে সেই বারকোড সংঘর্ষগুলি পরিচালনা করি না, তবে ব্যবহারকারীর সাধারণ অবস্থান পেয়ে এটি করা সম্ভব হওয়া উচিত (কোনও দেশের মধ্যে বারকোড সংঘর্ষ হওয়া আরও বিরল)।
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+দীর্ঘমেয়াদে, আমরা বারকোড সংঘর্ষ এড়াতে উৎপাদকদের EAN-13-এ যেতে উৎসাহিত করি।
