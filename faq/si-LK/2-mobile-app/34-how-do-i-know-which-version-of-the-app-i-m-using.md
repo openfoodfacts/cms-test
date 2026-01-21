@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "මම භාවිතා කරන යෙදුමේ කුමන අනුවාදයදැයි දැන ගන්නේ කෙසේද?"
+order: 34 වන දිනය
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ජංගම-යෙදුම
+breadcrumbs: [ '/si-gb/', '/si-gb/2-ජංගම-යෙදුම/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+පැතිකඩ වෙත ගොස්,
+පසුව නිතර අසන ප්‍රශ්න, ඉන්පසු මෙම යෙදුම ගැන.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+ඔබ
+3.4.5+662 වැනි අනුවාද අංකයක් දැකිය යුතුය. දුරකථනය දෝෂහරණය කරන්නේ නම් එහි වෙළඳ නාමය සහ මාදිලිය
+අපට කියන්න අමතක කරන්න එපා.
