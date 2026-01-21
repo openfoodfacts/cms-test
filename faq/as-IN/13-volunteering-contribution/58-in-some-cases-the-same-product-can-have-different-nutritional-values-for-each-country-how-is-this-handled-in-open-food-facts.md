@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
-order: 58
+title: "কিছুমান ক্ষেত্ৰত একেটা সামগ্ৰীৰ প্ৰতিখন দেশৰ বাবে বিভিন্ন পুষ্টিকৰ মূল্য থাকিব পাৰে, মুক্ত খাদ্যৰ তথ্যত ইয়াক কেনেকৈ চম্ভালিব পাৰি ?"
+order: ৫৮
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: ১৩-স্বেচ্ছাসেৱী-অৱদান
+breadcrumbs: [ '/as-gb/', '/as-gb/13-স্বেচ্ছাসেৱী-অৱদান/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+৯৯% সময়ত উৎপাদকসকলে তেওঁলোকৰ সামগ্ৰীৰ বিভিন্ন সংস্কৰণৰ বাবে বিভিন্ন বাৰক’ড তৈয়াৰ কৰিব। এটা বিখ্যাত উদাহৰণ হ’ল ফৰাচী আৰু জাৰ্মান নুটেলাৰ ডাঠতাৰ ক্ষেত্ৰত পাৰ্থক্য, কাৰণ দেশসমূহৰ মাজত ৰুটিৰ পাৰ্থক্য। ২টা ভিন্ন সূত্ৰ, ২টা ভিন্ন বাৰক'ড।
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+বাৰক'ডৰ সংঘৰ্ষ অৱশ্যে চুটি ক'ডত (EAN-8) হ'ব পাৰে যিবোৰ সাধাৰণতে সমগ্ৰ ইউৰোপ আৰু আমেৰিকাৰ কিছুমান ষ্ট'ৰে পুনৰ ব্যৱহাৰ কৰে। আমি বৰ্তমান সেই বাৰক'ড সংঘৰ্ষসমূহ চম্ভালিব নোৱাৰো, কিন্তু ব্যৱহাৰকাৰীৰ সাধাৰণ অৱস্থান পাই ইয়াক কৰিব পৰা উচিত (এখন দেশৰ ভিতৰত বাৰক'ড সংঘৰ্ষ হোৱাটো আৰু অধিক বিৰল)।
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+দীৰ্ঘম্যাদীভাৱে আমি উৎপাদকসকলক সেই বাৰক’ডৰ সংঘৰ্ষৰ পৰা হাত সাৰিবলৈ ইএএন-১৩লৈ যাবলৈ উৎসাহিত কৰোঁ।
