@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Xana Open Beauty Facts yi na laboratori yo xopaxopa?"
 order: 47
 lang: ts-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-timhaka-ti-vuxongi leti pfulekeke
+breadcrumbs: [ '/ts-gb/ .', '/ts-gb/11-vula-timhaka-yo saseka/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts khombo ra kona a yi na laboratory ya nxopaxopo: hi nhlangano wa vatirhi vo tirhandzela lava xikongomelo xa vona ku nga ku tumbuluxa Wikipedia ya switolwa.
 
-That said, if you would like to help us provide more transparency for
+Loko swi vuriwa sweswo, loko u lava ku hi pfuna ku nyika ku va erivaleni swinene eka
 
-consumers, you can use our iPhone, Android and
+vaxavi, u nga tirhisa iPhone ya hina, Android na
 
-Windows Phone to add products:
+Windows Phone ku engetela switirhisiwa:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.vulavula bya timhaka ta vuxongi.xikeni
 
-And to exchange and discuss the possible uses of the project, you
+Naswona ku cincana na ku burisana hi matirhiselo lama nga kotekaka ya phurojeke, wena
 
-can join the Facebook group of contributors:
+a nga joyina ntlawa wa va hoxa xandla eka Facebook:
 
-https://www.facebook.com/groups/356858984359591/
+https://www.facebook.com/groups/356858984359591/ Xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga
