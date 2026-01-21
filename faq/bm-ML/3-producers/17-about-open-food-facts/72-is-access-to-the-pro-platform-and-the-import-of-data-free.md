@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
-order: 72
+title: "Yala Pro platform sɔrɔli ni kunnafoniw donli tɛ fu wa?"
+order: 72. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-dumuni dafalen-ko-ko-ɲɛnabɔli-fɛnw
+parent_category: 3-baarakɛlaw
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/bamanankan-gb/ .',
+    '/en-gb/3-baarakɛlaw/ .',
+    '/en-gb/3-producers/17-dumuni dafalen-ko-ko/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Tiɲɛ na, wa a bɛna kɛ fo abada.Open Food Facts bɛ baara minnu kɛ, olu bɛɛ ye fu ye. An nisɔndiyara kosɛbɛ k’a ye ko aw y’a latigɛ k’aw ka fɛn dilannenw kunnafoniw di dumuniko jɛlen ma, wa an b’aw fo o la.
