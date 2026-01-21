@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Ha yini ku nga ri na Nutri-Score eka swiharhi?"
 order: 38
 lang: ts-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-vula-swifuwo-swilo-swakudya-tinhla
+breadcrumbs:
+  [
+    '/ts-gb/ .',
+    '/ts-gb/10-vula-swilo-swilo-swilo-swakudya/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Xiharhi xin’wana na xin’wana xa hambanile (nyoka ayi na swilaveko swa swakudya leswi fanaka na swa kati kumbe mbyana) .
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Hambi kuri endzeni ka muxaka wun’we wa xiharhi xofana na timbyana, swilaveko swa swakudya swa hambana kuya hi vutomi bya vutomi byo tshama ehansi, kungava castration kumbe mavabyi.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Hikokwalaho swa tika ku hlayela xikoro xa swakudya swa swifuwo handle ko katsa makume ya valavisisi xikan’we naku tumbuluxa makume ya ti algorithms tohambana hambana, leswinga endliwa kufikela sweswi.
