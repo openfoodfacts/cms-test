@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Како могу приступити/прикупити податке за своје пројекте?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-школских-пројеката
+parent_category: 25 истраживача-научника
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/ен-гб/25-ресеарцхерс-сцхолар/',
+    '/en-gb/25-истраживача-научника/26-школских-пројеката/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+На главној страници Open Food Facts, у горњем левом углу екрана, налази се мени за померање. На дну ћете пронаћи опцију „напредна претрага“ на коју можете кликнути. Онда је на вама да одредите који су критеријуми најрелевантнији за ваш(е) пројекат(е). Када изаберете, моћи ћете да преузмете добијене резултате тако што ћете се померити надоле на дну странице и кликнути на „Преузми резултате“.
