@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Kepiye carane aku bisa mbantu ngapikake aplikasi seluler iki?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasi-seluler
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasi-seluler/' ]
 ---
 
-How can I help with improving the mobile app ?
+Kepiye carane aku bisa mbantu ngapikake aplikasi seluler iki?
 
-You can do so on the Mobile app repository
+Sampeyan bisa nindakake iki ing repositori aplikasi Seluler
