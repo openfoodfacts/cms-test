@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Ma cusbooneysiiyaa dhammaan faylasha luqadda marka aan beddelo xarigga isha?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-faktiig-faq
+breadcrumbs: [ '/en-gb/', '/en-gb/16-faktiiko-faq/' ]
 ---
 
-No you don't. You just need to update the English one
+Maya ma sameyn kartid. Kaliya waxaad u baahan tahay inaad cusboonaysiiso luqadda Ingiriisiga
 
-- Create your PR
+- Samee PR-gaaga
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Marka la isku daro, waxaan dib u habeyn doonnaa crowdin-trigger gacanta, nidaamka turjumaadda Crowdin ee uu kiciyo GitHub Actions wuxuu inta kale u qaban doonaa luqadaha kale.
 
-GitHub bot then creates a new PR automatically that we then review.
+Bot-ka GitHub wuxuu markaa si toos ah u sameeyaa PR cusub oo aan markaa dib u eegno.
