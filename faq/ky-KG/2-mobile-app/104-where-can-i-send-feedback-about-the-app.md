@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Колдонмо тууралуу пикиримди кайда жөнөтсөм болот?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобилдик тиркеме
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобилдик-тиркеме/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Пикириңизди mobile@openfoodfacts.org дарегине жөнөтсөңүз болот
