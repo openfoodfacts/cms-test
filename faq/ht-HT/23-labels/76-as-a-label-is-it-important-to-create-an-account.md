@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Kòm yon etikèt, èske li enpòtan pou kreye yon kont?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etikèt
+breadcrumbs: [ '/en-gb/', '/en-gb/23-etikèt/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Antanke yon etikèt, piske ou pa pwodiktè dirèk pwodwi yo, ou pa bezwen kreye yon kont pwodiktè.
