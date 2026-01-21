@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
-order: 85
+title: "Mewɔ sukuu adwuma bi a ɛsɛ sɛ meyɛ, mepɛ sɛ mede Open Food Facts’ data di dwuma, metumi ayɛ saa?"
+order: 85. Nkyekyɛm
 lang: tw-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-sukuu-nnwuma
+parent_category: 25-nhwehwɛmufo-ɔbenfo
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/twi-gb/ .',
+    '/en-gb/25-nhwehwɛmufo-ɔbenfo/ .',
+    '/en-gb/25-nhwehwɛmufo-ɔbenfo/26-sukuu-nnwuma/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Open Food Facts, yɛ database a wɔabue, adwuma a ɛbue a ɛreyɛ adwuma wɔ ODbL tumi krataa ase, enti bere tenten a wopene ODbL tumi krataa no ahwehwɛde so no, wowɔ akwaaba sɛ wobɛsan de yɛn data no adi dwuma ama wo nnwuma :).
