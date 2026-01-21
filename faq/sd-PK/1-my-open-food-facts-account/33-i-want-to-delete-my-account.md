@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "مان پنهنجو اڪائونٽ ختم ڪرڻ چاهيان ٿو."
 order: 33
 lang: اين جي بي
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-منهنجو-کليل-کاڌي-حقيقتون-اڪائونٽ
+breadcrumbs: [ '/en-gb/', '/en-gb/1-منهنجو-کليل-کاڌي-حقيقتون-اڪائونٽ/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+اڪائونٽ ختم ڪرڻ هاڻي سڌو سنئون توهان جي ترجيحن ۾ ٿئي ٿو.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ تي لاگ ان ٿيڻ کان پوءِ، مٿي ساڄي ڪنڊ تي يوزر نالي تي ڪلڪ ڪريو، اڪائونٽ پيرا ميٽرز چونڊيو. اهو توهان جي ترجيحن جو صفحو کوليندو آهي. صفحي جي تري ۾ وڃو ۽ "صارف کي ختم ڪريو" عمل استعمال ڪريو.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+جيڪڏهن توهان لاگ ان نٿا ٿي سگهو (يا پنهنجو پاسورڊ ري سيٽ نٿا ڪري سگهو)، مهرباني ڪري dpo - at - openfoodfacts.org سان رابطو ڪريو، ان اي ميل ايڊريس کي استعمال ڪندي جيڪو توهان اڪائونٽ رجسٽر ڪرڻ لاءِ استعمال ڪندا آهيو.
