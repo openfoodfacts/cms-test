@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
-order: 97
+title: "म एक खुद्रा विक्रेता हुँ र म मूल्यमा योगदान दिन चाहन्छु। म त्यो कसरी गर्न सक्छु?"
+order: ९७
 lang: एनजीबी
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: २९-खुला-मूल्यहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/29-खुला-मूल्यहरू/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+तपाईं हाम्रो API प्रयोग गरेर मूल्यहरू योगदान गर्न सक्नुहुन्छ। यदि तपाईं स्केलमा मूल्य योगदान गर्न चाहनुहुन्छ भने, कृपया contact@openfoodfacts.org मा हामीलाई सम्पर्क गर्नुहोस्।
