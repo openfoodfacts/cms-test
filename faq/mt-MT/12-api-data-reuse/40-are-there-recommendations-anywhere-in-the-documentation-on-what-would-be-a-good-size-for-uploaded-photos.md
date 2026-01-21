@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Hemm xi rakkomandazzjonijiet fid-dokumentazzjoni dwar x'ikun daqs tajjeb għar-ritratti li jittellgħu?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-use mill-ġdid
+breadcrumbs: [ '/mt-gb/', '/mt-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Dan jista' jiddependi fuq il-pajjiżi, jekk in-netwerk huwiex bil-mod jew għali. Kull ħaġa li għandha piż jew għoli 'l fuq minn 5000 pixel probabbilment mhix utli ħafna. u jekk b'xi mod tista' tinduna li n-netwerk huwa bil-mod, allura anke immaġni ta' 2000 pixel tkun tajba (ċertament aħjar milli ma jkollokx immaġni!)
