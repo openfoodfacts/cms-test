@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Мобиль кушымтаны яхшыртуда ничек ярдәм итә алам?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2 мобиль кушымта
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобиль кушымта/' ]
 ---
 
-How can I help with improving the mobile app ?
+Мобиль кушымтаны яхшыртуда ничек ярдәм итә алам?
 
-You can do so on the Mobile app repository
+Моны мобиль кушымта репозиторийында эшли аласыз
