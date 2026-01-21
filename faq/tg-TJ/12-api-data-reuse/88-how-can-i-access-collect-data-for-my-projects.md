@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Чӣ тавр ман метавонам ба маълумот барои лоиҳаҳои худ дастрасӣ/ҷамъоварӣ кунам?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: Истифодаи такрории маълумоти 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Дар саҳифаи асосии Open Food Facts, дар кунҷи чапи болоии экран, менюи ҳаракаткунанда мавҷуд аст. Дар поёни он шумо варианти "ҷустуҷӯи пешрафта"-ро хоҳед ёфт, ки шумо метавонед онро клик кунед. Пас, муайян кардани он ки кадом меъёрҳо барои лоиҳа(ҳо)-и шумо аз ҳама мувофиқтаранд, аз шумо вобаста аст. Пас аз интихоб, шумо метавонед натиҷаҳои бадастовардаро тавассути ҳаракат дар поёни саҳифа ва пахш кардани тугмаи "Натиҷаҳоро зеркашӣ кунед" зеркашӣ кунед.
 
-You can also consult:
+Шумо инчунин метавонед бо инҳо машварат кунед:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Ҳуҷҷатҳои API-и мо: https://openfoodfacts.github.io/api-documentation/
+- Шартҳои истифодаи Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Дар маълумоти мо: https://world.openfoodfacts.org/data
