@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Perchè Open Food Facts face questu (Prezzi Aperti)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-prezzi-aperti
+breadcrumbs: [ '/en-gb/', '/en-gb/29-prezzi-aperti/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+L'infurmazione nantu à i prezzi hè di primura per capisce i sistemi alimentari. Hè un fattore chjave per capisce u costu di l'alimentu è per prumove diete più sane. L'apertura di i dati di i prezzi hè un modu per fà più faciule per i circadori, i ghjurnalisti è i citadini di capisce megliu cumu i prezzi di l'alimentu varianu geograficamente è in u tempu.
