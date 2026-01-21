@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "API-па усӑ курма условисем пур-и?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API-па усӑ курасси ҫинчен ҫырнӑ мӗнпур документацие API-документаци страницинче тупма пулать, анчах та ҫакӑнта хӑвӑрт пӗтӗмлетӳ:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Уҫӑ апат-ҫимӗҫ факчӗсен базине уҫӑ даннӑйсем пек уҫӑ даннӑйсен базине лицензипе (ODbL) илме пулать, саккунлӑ даннӑйсене https://world.openfoodfacts.org/terms-of-use сайтра пӑхӑр. Икӗ услови те — атрибуци тата пай-пӗр пек. Енчен те эсир Open Food Facts даннӑйӗсене ытти базӑсемпе пӗрлештеретӗр пулсан, вара ODbL ҫакна ыйтать: результат базине те уҫӑ даннӑйсем пек кӑлармалла. Ҫавӑн пекех вӑл даннӑйсене ҫавӑн пек ҫӗнӗрен валеҫме май паракан ҫӑлкуҫсемпе ҫеҫ пӗрлештерме пултарнине пӗлтерет.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Хӑвӑрӑн приложенине палӑртма API чӗнӗвӗсене пурнӑҫланӑ чухне яланах ятарлӑ User-Agentпа усӑ курмалла.
 
-- Rate-limits are enforced for each API endpoint.
+- Кашни API вӗҫӗ валли ставкӑсен чиккисем пурнӑҫланаҫҫӗ.
