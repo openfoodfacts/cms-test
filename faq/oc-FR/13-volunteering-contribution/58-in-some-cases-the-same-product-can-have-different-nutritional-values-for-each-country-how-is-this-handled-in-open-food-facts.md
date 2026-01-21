@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Dins qualques cases lo meteis produch pòt aver de valors nutricionalas diferentas per cada país, cossí es tractat aquò dins Open Food Facts ?"
 order: 58
 lang: es-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-contribucion de volontariat
+breadcrumbs: [ '/es-gb/', '/es-gb/13-contribucion-de-volontariat/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% del temps, los productors crearàn de còdes de barras diferents per de versions diferentas de lors produches. Un exemple famós es la diferéncia entre Nutella francesa e alemanda en tèrmes d'espessor, a causa de la diferéncia de pan entre los païses. 2 formulas diferentas, 2 còdis de barras diferents.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+L'afrontament de còdes de barras pòt pasmens arribar sus de còdes mai corts (EAN-8) que son tipicament reutilizats per qualques magasins d'Euròpa e dels EUA. Gestionam pas actualament aqueles afrontaments de còdes de barras, mas deuriá èsser possible de lo far en obtenent l'emplaçament general de l'utilizaire (es encara mai rar d'aver d'afrontaments de còdes de barras dins un país).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+A long tèrme, encoratjam los productors a passar a EAN-13 per evitar aqueles afrontaments de còdes de barras.
