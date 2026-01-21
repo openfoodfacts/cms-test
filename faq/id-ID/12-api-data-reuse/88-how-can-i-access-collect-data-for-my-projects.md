@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Bagaimana cara saya mengakses/mengumpulkan data untuk proyek saya?"
 order: 88
 lang: bahasa Inggris
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Di halaman utama Open Food Facts, di pojok kiri atas layar, terdapat menu yang dapat digulir. Di bagian bawahnya, Anda akan menemukan opsi "pencarian lanjutan", yang dapat Anda klik. Selanjutnya, terserah Anda untuk menentukan kriteria mana yang paling relevan dengan proyek Anda. Setelah dipilih, Anda dapat mengunduh hasil yang diperoleh dengan menggulir ke bawah halaman dan mengklik "Unduh hasil".
 
-You can also consult:
+Anda juga dapat berkonsultasi dengan:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Dokumentasi API kami: https://openfoodfacts.github.io/api-documentation/
+- Ketentuan Penggunaan Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Data kami dapat dilihat di: https://world.openfoodfacts.org/data
