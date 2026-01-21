@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "مان پنهنجي منصوبن لاءِ ڊيٽا ڪيئن رسائي/گڏ ڪري سگهان ٿو؟"
 order: 88
 lang: اين جي بي
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ڊيٽا-ٻيهر استعمال
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ڊيٽا-ٻيهر استعمال/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+اوپن فوڊ فيڪٽس جي مکيه صفحي تي، اسڪرين جي مٿين کاٻي ڪنڊ تي، هڪ اسڪرولنگ مينيو آهي. ان جي تري ۾، توهان کي "ايڊوانسڊ سرچ" آپشن ملندو، جنهن تي توهان ڪلڪ ڪري سگهو ٿا. پوءِ اهو توهان تي منحصر آهي ته توهان اهو طئي ڪريو ته ڪهڙا معيار توهان جي منصوبي (منصوبن) لاءِ سڀ کان وڌيڪ لاڳاپيل آهن. هڪ دفعو چونڊ ڪرڻ کان پوءِ، توهان صفحي جي تري ۾ اسڪرول ڪندي ۽ "نتيجا ڊائون لوڊ ڪريو" تي ڪلڪ ڪندي حاصل ڪيل نتيجا ڊائون لوڊ ڪري سگهندا.
 
-You can also consult:
+توهان پڻ صلاح ڪري سگهو ٿا:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- اسان جي API دستاويز: https://openfoodfacts.github.io/api-documentation/
+- اوپن فوڊ فيڪٽس جي استعمال جون شرطون: https://world.openfoodfacts.org/terms-of-use
+- اسان جي ڊيٽا تي: https://world.openfoodfacts.org/data
