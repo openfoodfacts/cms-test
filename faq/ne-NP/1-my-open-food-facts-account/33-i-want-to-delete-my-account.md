@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "म मेरो खाता मेटाउन चाहन्छु।"
+order: ३३
 lang: एनजीबी
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: १-मेरो-खुला-खाना-तथ्य-खाता
+breadcrumbs: [ '/ne-gb/', '/ne-gb/1-मेरो-खुला-खाना-तथ्य-खाता/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+खाता मेटाउने काम अब सिधै तपाईंको प्राथमिकताहरूमा हुन्छ।
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ मा लगइन गरेपछि, माथिल्लो दायाँ कुनामा रहेको प्रयोगकर्ता नाममा क्लिक गर्नुहोस्, खाता प्यारामिटरहरू छनौट गर्नुहोस्। यसले तपाईंको प्राथमिकता पृष्ठ खोल्छ। पृष्ठको तल जानुहोस् र "प्रयोगकर्ता मेटाउनुहोस्" कार्य प्रयोग गर्नुहोस्।
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+यदि तपाईं लगइन गर्न (वा आफ्नो पासवर्ड रिसेट गर्न) असमर्थ हुनुहुन्छ भने, कृपया खाता दर्ता गर्न प्रयोग गर्ने इमेल ठेगाना प्रयोग गरेर dpo - at - openfoodfacts.org मा सम्पर्क गर्नुहोस्।
