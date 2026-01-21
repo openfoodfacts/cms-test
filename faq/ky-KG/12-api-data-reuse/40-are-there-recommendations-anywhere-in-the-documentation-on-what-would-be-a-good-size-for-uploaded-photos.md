@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Жүктөлгөн сүрөттөр үчүн кандай өлчөм жакшы болору боюнча документтердин кайсы бир жеринде сунуштар барбы?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-маалыматтарды-кайра-колдонуу
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Бул тармактын жай же кымбат болушу өлкөлөргө жараша болушу мүмкүн. Салмагы же бою 5000 пикселден жогору болгон нерсе анчалык деле пайдалуу эмес болушу мүмкүн. жана эгер сиз кандайдыр бир жол менен тармактын жай иштеп жатканын аныктай алсаңыз, анда 2000 пикселдик сүрөт да сонун болмок (албетте, сүрөттүн жоктугунан жакшыраак!)
