@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Ha gallout a ran klask un anv produ resis gant an API ?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-roadennoù-adimplij
+breadcrumbs: [ '/br-gb/', '/br-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Siwazh n'eo ket posupl c'hoazh klask aes war anv ar produ hepken ha dre an API.
 
-Using a filter on category might help you make your search more precise though.
+Implijout ur sil war ar rummad a c'hellfe sikour ac'hanoc'h da lakaat ho klask da vezañ resisoc'h avat.
