@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Ĉu ekzistas maniero forigi alŝutitajn bildojn por produktoj?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-volontul-kontribuo
+breadcrumbs: [ '/en-gb/', '/eo-gb/13-volonteering-kontribuo/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Nur moderigantoj rajtas forigi fotojn, por eviti eblan vandalismon.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Simple petu en Slack aŭ ĉe contact@openfoodfacts.org por forigi viajn duplikatojn aŭ iujn ajn maltaŭgajn fotojn (vi devus provi provizi la strekkodan numeron aŭ URL-on por tio).
 
-We also have a new image report API if you're a programmer.
+Ni ankaŭ havas novan API-on por bildraportoj se vi estas programisto.
