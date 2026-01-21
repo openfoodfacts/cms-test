@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Tài liệu hướng dẫn có đề cập đến kích thước phù hợp cho ảnh tải lên không?"
 order: 40
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Điều đó có thể phụ thuộc vào từng quốc gia, liệu mạng có chậm hoặc đắt đỏ hay không. Bất cứ thứ gì có chiều rộng hoặc chiều cao trên 5000 pixel có lẽ không thực sự hữu ích. Và nếu bằng cách nào đó bạn có thể phát hiện ra mạng chậm, thì ngay cả một hình ảnh 2000 pixel cũng sẽ rất tuyệt (chắc chắn tốt hơn là không có hình ảnh nào cả!).
