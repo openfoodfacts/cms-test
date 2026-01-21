@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Kako mogu prevesti ovaj FAQ na svoj jezik?"
 order: 57
 lang: hr-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-poboljšanja-otvorenih-činjenica-o-hrani-u-zemlji-moje-jezične-govora
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/hr-gb/',
+    '/hr-gb/15-poboljšanja-otvorenih-činjenica-o-hrani-u-mojoj-jezičnoj-zemlji/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Za pristup za uređivanje baze znanja obratite se na contact@openfoodfacts.org.
