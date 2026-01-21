@@ -2,8 +2,12 @@
 title: "Nka fetola lebitso la ka la mosebelisi joang?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: Ak'haonte e le 'ngoe-ea lintlha-tsa-ka-tse-butsoeng-lijo-tsa-ka
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-akhaonto-ea-lintlha-tsa-ka-tse-o-butseng-tsa-lijo/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Ka bomalimabe, ha ho khonehe. Haeba o hlile o batla ho fetoha, o tlameha ho hlakola ak'haonte ea hau 'me u thehe e ncha.
