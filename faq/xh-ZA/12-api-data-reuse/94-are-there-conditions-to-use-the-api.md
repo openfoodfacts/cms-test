@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Ngaba kukho imiqathango yokusebenzisa i-API?"
 order: 94
 lang: i-en-gb
-category: 12-api-data-reuse
+category: Ukusetyenziswa kwakhona kwedatha ye-api eyi-12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Onke amaxwebhu malunga nokusetyenziswa kwe-API angafumaneka kwiphepha lamaxwebhu e-API, kodwa nantsi isishwankathelo esifutshane:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Isiseko sedatha se-Open Food Facts siyafumaneka njengedatha evulekileyo phantsi kwe-Open Database License (ODbL), bona https://world.openfoodfacts.org/terms-of-use ukuze ufumane iinkcukacha zomthetho. Ezi meko zimbini zizinto ezifana nokwabiwa kunye nokwabelana ngokufanayo. Ukuba udibanisa idatha evela kwi-Open Food Facts nezinye ii-database, i-ODbL ifuna ukuba i-database ephumayo ikhutshwe njengedatha evulekileyo. Kwakhona kuthetha ukuba ungadibanisa idatha kuphela nemithombo eya kuvumela ukusasazwa kwakhona okunjalo.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Kufuneka usebenzise i-User-Agent rhoqo xa usenza iifowuni ze-API ukuze uchonge i-app yakho.
 
-- Rate-limits are enforced for each API endpoint.
+- Imida yereyithi iyanyanzeliswa kwisiphelo ngasinye se-API.
