@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Quomodo ad notitias historicas accedere possum?"
 order: 105
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+In praesenti, collectionem datorum historicorum (JSONL, MongoDB, CSV) non offerimus.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Attamen, pro singulis productis, versiones priores datorum producti per API vel in pagina producti per revisiones accedere licet.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Quotiescumque productum renovatur, nova recensio (digito crescente ab 1 incipiens) creatur.
 
-For example, to get the first revision (=first product version) of this product, use
+Exempli gratia, ad primam revisionem (=primam versionem producti) huius producti obtinendam, utere
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Similiter, parametrus `rev` cum API adhiberi potest:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
