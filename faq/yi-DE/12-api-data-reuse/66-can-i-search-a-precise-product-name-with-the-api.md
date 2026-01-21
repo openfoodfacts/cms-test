@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "קען איך זוכן א גענויע פראדוקט נאמען מיטן API?"
 order: 66
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+ליידער איז עס נאך נישט מעגלעך צו גרינג זוכן נאר אויף פראדוקט נאמען און גענוי דורך די API.
 
-Using a filter on category might help you make your search more precise though.
+ניצן אַ פילטער אויף קאַטעגאָריע קען אפשר העלפֿן מאַכן אייער זוכן מער פּינקטלעך.
