@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Kepriye carane nerjemahake FAQ iki menyang basaku?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-fakta-panganan-terbuka-sing-ningkatake-ing-negara-basa-ku
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ningkatake-fakta-panganan-terbuka-ing-negara-basa-ku/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Mangga takon contact@openfoodfacts.org kanggo akses sunting menyang basis kawruh.
