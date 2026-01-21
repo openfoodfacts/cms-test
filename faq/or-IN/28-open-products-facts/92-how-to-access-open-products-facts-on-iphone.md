@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
-order: 92
+title: "iPhone ରେ ଓପନ୍ ପ୍ରଡକ୍ଟ ଫ୍ୟାକ୍ଟସ୍ କିପରି ଆକ୍ସେସ୍ କରିବେ?"
+order: ୯୨
 lang: ଇଂ-ଜିବି
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: ୨୮-ଖୋଲା-ଉତ୍ପାଦ-ତଥ୍ୟ
+breadcrumbs: [ '/en-gb/', '/en-gb/28-ଖୋଲା-ଉତ୍ପାଦ-ତଥ୍ୟ/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+ମୁଖ୍ୟ ଓପନ ଫୁଡ୍ ଫ୍ୟାକ୍ଟସ୍ ଆପ୍ ମଧ୍ୟରେ ଓପନ ପ୍ରଡକ୍ଟସ୍ ଫ୍ୟାକ୍ଟସ୍ ଉପଲବ୍ଧ। ଏହି ସମନ୍ୱୟ ଆଇଫୋନ୍ ବ୍ୟବହାରକାରୀମାନଙ୍କୁ ଏକକ, ସୁବିଧାଜନକ ଆପ୍ଲିକେସନ୍ ମାଧ୍ୟମରେ ଉଭୟ ଡାଟାବେସ୍ ପ୍ରବେଶ କରିବାକୁ ଅନୁମତି ଦିଏ।
