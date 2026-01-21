@@ -2,8 +2,12 @@
 title: "Cumu possu cambià u mo nome d'utilizatore ?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-u mo contu-apertu-di-fatti-nantu-à-l'alimentu
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-u-me-contu-apertu-di-fatti-alimentari/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Sfurtunatamente, ùn hè micca pussibule. Sè vo vulete veramente cambià, duvete sguassà u vostru contu è creà un novu.
