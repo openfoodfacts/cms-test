@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "እንታይ ዓይነት ሓበሬታ እዩ ክካፈል ዘለዎ?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት
+parent_category: 3-ኣፍረይቲ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/ትግርኛ-ግብ/',
+    '/en-gb/3-ኣፍረይቲ/',
+    '/en-gb/3-producers/17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+ዝኾነ ሓበሬታ ዘለኩም ካብ ሓበሬታ ኣመጋግባ ክሳብ ሓበሬታ መዐሸጊ ጽቡቕ እዩ።
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+እዚ ድማ ምሉእ ፋይል ንምቛም፣ ኩሉ ነጥብታት ብትኽክልን ብሓፈሻ ድማ ብተጠቀምቲ ዝምስገን ግሉጽነትን ንምሕሳብ ዘኽእል እዩ።
 
-However we do recommend you prioritize the following fields:
+ይኹን እምበር ነዞም ዝስዕቡ ዓውድታት ቀዳምነት ክትህቡ ንመክር፤
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- ምድብ ፍርያት (ንኣብነት መስተ፣ በርበረ፣ ጣፍ ወዘተ)
+- ስም ናይቲ ፍርያት
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- ከምኡ’ውን ቀመማት፡ እዚ ዓውዲ ግዴታ ዘይኮነስ ንዝበለጸ ኣጠቓቕማን ምውሳንን ነጥብታት ዝምከር እዩ።
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ ንዝያዳ ዝርዝር ሓበሬታ፡ መምርሒ ተጠቃሚና ከተውርዱን/ወይ ድማ ናይ ቪድዮ ትምህርትታትና ክትውከሱን ንዕድም :-)
