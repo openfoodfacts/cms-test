@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Perqué i a pas de Nutri-Score pels animals?"
 order: 38
 lang: es-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-faches-de-manjar-de-animals-dubèrts
+breadcrumbs:
+  [
+    '/es-gb/',
+    '/oc-gb/10-faits-de-manjar-de-animals-dobèrts/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Cada animal es diferent (una sèrp a pas los meteisses besonhs nutricionals qu'un gat o un can)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Quitament al sen del meteis tipe d'animal coma los cans, los besonhs nutricionals vàrian segon la vida de l'estil de vida sedentari, una possibla castracion o de malautiás.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Es doncas complicat de calcular una puntuacion per l'alimentacion animala sens implicar de desenats de cercaires e crear de desenats d'algoritmes diferents, çò qu'es pas estat fach fins ara.
