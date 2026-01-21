@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Cossí pòdi accedir/culhir de donadas per mos projèctes?"
 order: 88
 lang: es-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-reutilizacion de donadas
+breadcrumbs: [ '/es-gb/', '/oc-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Sus la pagina principala d'Open Food Facts, dins lo canton naut esquèrre de l'ecran, i a un menut de desfilament. En bas, trobaretz l'opcion "recèrca avançada", sus la quala podètz picar. Es alara a vos de determinar quines critèris son los mai pertinents per vòstre(s) projècte(s). Un còp causit, poiretz telecargar los resultats obtenguts en desfilant cap aval en bas de la pagina e en clicant sus “Telecargar los resultats”.
 
-You can also consult:
+Podètz tanben consultar :
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Nòstra documentacion API: https://openfoodfacts.github.io/api-documentation/
+- Condicions d'utilizacion de Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Sus nòstras donadas: https://world.openfoodfacts.org/data
