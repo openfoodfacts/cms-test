@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Bu FAQ sualını öz dilimə necə tərcümə edə bilərəm?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Dilimdə-ölkəmdə-açıq-qida-faktlarının-yaxşılaşdırılmasına-15-görə-mənim ...
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-dil-ölkəmdə-açıq-qida-faktlarını-təkmilləşdirmək/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Bilik bazasına redaktə girişi üçün contact@openfoodfacts.org ünvanına müraciət edin.
