@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "விலங்குகளுக்கு ஏன் நியூட்ரி-ஸ்கோர் இல்லை?"
+order: 38 ம.நே.
 lang: ta-gb (ஆங்கிலம்)
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: செல்லப்பிராணி உணவு பற்றிய 10 உண்மைகள்
+breadcrumbs: [ '/ta-gb/', '/ta-gb/10-open-pet-food-facts/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ஒவ்வொரு விலங்கும் வித்தியாசமானது (ஒரு பாம்புக்கு பூனை அல்லது நாயைப் போன்ற ஊட்டச்சத்து தேவைகள் இல்லை)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+நாய்கள் போன்ற ஒரே வகை விலங்குகளுக்குள்ளும் கூட, ஊட்டச்சத்து தேவைகள் உட்கார்ந்த வாழ்க்கை முறை, சாத்தியமான காஸ்ட்ரேஷன் அல்லது நோய்களைப் பொறுத்து மாறுபடும்.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+எனவே, டஜன் கணக்கான ஆராய்ச்சியாளர்களை ஈடுபடுத்தாமல், டஜன் கணக்கான வெவ்வேறு வழிமுறைகளை உருவாக்காமல், விலங்கு தீவனத்திற்கான மதிப்பெண்ணைக் கணக்கிடுவது சிக்கலானது, இது இன்றுவரை செய்யப்படவில்லை.
