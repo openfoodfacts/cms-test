@@ -1,19 +1,19 @@
 ---
-title: "Is it possible to simulate the Eco-Score or Nutri-Score of my products?"
-order: 16
+title: "So ebetumi aba sɛ mɛyɛ Eco-Score anaa Nutri-Score a ɛwɔ me nneɛma mu no ho mfonini?"
+order: 16. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 19-about-the-scores
-parent_category: 3-producers
+category: 19-ɛfa-nkontabuo no ho
+parent_category: 3-wɔn a wɔyɛ nneɛma
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/19-about-the-scores/'
+    '/twi-gb/ .',
+    '/en-gb/3-wɔn a wɔyɛ/ .',
+    '/en-gb/3-producers/19-ɛfa-nkontaabuo ho/ .'
   ]
 ---
 
-By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
+Sɛ wokyerɛw wo din wɔ wɔn a wɔyɛ nneɛma no platform so na wode wo nneɛma no data gu so a, wubetumi asusuw Nutri-Score ne Eco-Score a ɛbata wo nneɛma ho no ho.
 
-However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
+Nanso, ɛsɛ sɛ wopopa bere a wɔayɛ simulation no pɛn sɛnea ɛbɛyɛ a wɔremfa nkɔ ɔmanfo platform so a nneɛma a wɔatɔn dedaw wɔ wo range mu no.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Sɛ wopɛ nsɛm pii a, yɛto nsa frɛ wo sɛ twe yɛn dwumadie akwankyerɛ no na/anaasɛ hwɛ yɛn video nkyerɛkyerɛ :-)
