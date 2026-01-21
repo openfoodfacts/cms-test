@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "Ubi notitias ex \"Open Beauty Facts\" depromere possum?"
+order: septuaginta
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-aperta-pulchritudinis-facta
+breadcrumbs: [ '/en-gb/', '/en-gb/11-aperta-pulchritudinis-facta/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Pagina /data nunc fracta est. Data ex https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv depromere potes.
