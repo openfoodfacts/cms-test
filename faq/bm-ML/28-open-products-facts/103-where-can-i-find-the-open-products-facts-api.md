@@ -1,11 +1,11 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
-order: 103
+title: "Ne bɛ se ka Open Products Facts API sɔrɔ min ?"
+order: 103. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-da wulilenw-fɛnw-tiɲɛw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/28-da wulilen-fɛnw-tiɲɛw/' ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+Open Products Facts API ni Open Food Facts API ye kelen ye 98% o la n’i bɛ baara kɛ ni Open Food Facts API sɛbɛnw ye i ka kan ka Open Products Facts API yecogo jɛlen sɔrɔ kosɛbɛ. An fana ye kalan kɛrɛnkɛrɛnnen sɛbɛn walasa ka sira Di ka universel scan (sɛgɛsɛgɛli universel) waleya i ka appli (application) kɔnɔ.
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://dumuni dafalenw.github.io/dumuni dafalenw-sɛrɛkili/api/ref-v2/
