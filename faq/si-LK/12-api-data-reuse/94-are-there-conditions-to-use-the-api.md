@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "API භාවිතා කිරීමට කොන්දේසි තිබේද?"
+order: 94 (94)
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-දත්ත-නැවත භාවිතා කිරීම
+breadcrumbs: [ '/si-gb/', '/en-gb/12-api-දත්ත-නැවත භාවිතා කරන්න/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API භාවිතය පිළිබඳ සියලුම ලියකියවිලි API ලේඛන පිටුවෙන් සොයාගත හැකිය, නමුත් මෙන්න ඉක්මන් සාරාංශයක්:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- විවෘත ආහාර කරුණු දත්ත සමුදාය විවෘත දත්ත සමුදා බලපත්‍රය (ODbL) යටතේ විවෘත දත්ත ලෙස ලබා ගත හැකිය, නීතිමය විස්තර සඳහා https://world.openfoodfacts.org/terms-of-use බලන්න. කොන්දේසි දෙක ආරෝපණය සහ බෙදා ගැනීම සමාන වේ. ඔබ විවෘත ආහාර කරුණු වලින් ලැබෙන දත්ත අනෙකුත් දත්ත සමුදායන් සමඟ ඒකාබද්ධ කරන්නේ නම්, ODbL විසින් ප්‍රතිඵලයක් ලෙස ලැබෙන දත්ත සමුදාය විවෘත දත්ත ලෙස නිකුත් කළ යුතු බව අවශ්‍ය කරයි. තවද එයින් අදහස් වන්නේ ඔබට දත්ත ඒකාබද්ධ කළ හැක්කේ එවැනි නැවත බෙදා හැරීමට ඉඩ සලසන මූලාශ්‍ර සමඟ පමණක් බවයි.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- ඔබගේ යෙදුම හඳුනා ගැනීම සඳහා API ඇමතුම් සිදු කරන විට ඔබ සැමවිටම අභිරුචි පරිශීලක-නියෝජිතයෙකු භාවිතා කළ යුතුය.
 
-- Rate-limits are enforced for each API endpoint.
+- එක් එක් API අන්ත ලක්ෂ්‍යය සඳහා අනුපාත සීමාවන් බලාත්මක කෙරේ.
