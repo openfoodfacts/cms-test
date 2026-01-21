@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "ಪ್ರಾಣಿಗಳಿಗೆ ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್ ಏಕೆ ಇಲ್ಲ?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: ಸಾಕುಪ್ರಾಣಿಗಳ ಆಹಾರದ ಬಗ್ಗೆ 10 ಸಂಗತಿಗಳು
+breadcrumbs: [ '/en-gb/', '/kn-gb/10-open-pet-food-facts/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ಪ್ರತಿಯೊಂದು ಪ್ರಾಣಿಯೂ ವಿಭಿನ್ನವಾಗಿರುತ್ತದೆ (ಹಾವು ಬೆಕ್ಕು ಅಥವಾ ನಾಯಿಯಂತೆಯೇ ಪೌಷ್ಟಿಕಾಂಶದ ಅಗತ್ಯಗಳನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+ನಾಯಿಗಳಂತಹ ಒಂದೇ ರೀತಿಯ ಪ್ರಾಣಿಗಳಲ್ಲೂ ಸಹ, ಪೌಷ್ಠಿಕಾಂಶದ ಅಗತ್ಯಗಳು ಜಡ ಜೀವನಶೈಲಿ, ಸಂಭವನೀಯ ಕ್ಯಾಸ್ಟ್ರೇಶನ್ ಅಥವಾ ರೋಗಗಳ ಜೀವನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಬದಲಾಗುತ್ತವೆ.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+ಆದ್ದರಿಂದ, ಡಜನ್ಗಟ್ಟಲೆ ಸಂಶೋಧಕರನ್ನು ಒಳಗೊಳ್ಳದೆ ಮತ್ತು ಡಜನ್ಗಟ್ಟಲೆ ವಿಭಿನ್ನ ಅಲ್ಗಾರಿದಮ್‌ಗಳನ್ನು ರಚಿಸದೆ ಪಶು ಆಹಾರಕ್ಕಾಗಿ ಅಂಕವನ್ನು ಲೆಕ್ಕಾಚಾರ ಮಾಡುವುದು ಜಟಿಲವಾಗಿದೆ, ಆದರೆ ಇಲ್ಲಿಯವರೆಗೆ ಇದನ್ನು ಮಾಡಲಾಗಿಲ್ಲ.
