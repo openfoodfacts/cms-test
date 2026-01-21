@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Èske gen rekòmandasyon nenpòt kote nan dokimantasyon an sou ki gwosè ki ta bon pou foto telechaje yo?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-done-reitilizasyon
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-done-reutilize/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Sa ka depann de peyi yo, si rezo a ralanti oswa chè. Nenpòt bagay ki gen plis pase 5000 piksèl nan pwa oswa wotè pwobableman pa trè itil. epi si ou ka yon jan detekte ke rezo a ralanti, menm yon imaj 2000 piksèl ta bon (sètènman pi bon pase pa gen yon imaj!)
