@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "အပ်လုဒ်လုပ်ထားတဲ့ ဓာတ်ပုံတွေအတွက် သင့်တော်တဲ့ အရွယ်အစားက ဘယ်လောက်ဖြစ်မလဲဆိုတာနဲ့ ပတ်သက်ပြီး စာရွက်စာတမ်းတွေမှာ အကြံပြုချက်တွေ ရှိပါသလား။"
+order: ၄၀
 lang: en-gb
-category: 12-api-data-reuse
+category: ၁၂-api-ဒေတာ-ပြန်လည်အသုံးပြုခြင်း
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+ကွန်ရက်နှေးကွေးခြင်း သို့မဟုတ် စျေးကြီးခြင်း ရှိမရှိသည် နိုင်ငံပေါ်မူတည်နိုင်သည်။ အလေးချိန် သို့မဟုတ် အမြင့် ၅၀၀၀ pixels အထက် မည်သည့်အရာမဆို အသုံးဝင်မည်မဟုတ်ပါ။ ပြီးတော့ ကွန်ရက်နှေးကွေးနေတာကို တစ်နည်းနည်းနဲ့ သိနိုင်မယ်ဆိုရင် 2000 pixels ရှိတဲ့ ပုံတစ်ပုံတောင် အရမ်းကောင်းပါတယ် (ပုံတစ်ပုံမရှိတာထက်တော့ ပိုကောင်းတာပေါ့!)
