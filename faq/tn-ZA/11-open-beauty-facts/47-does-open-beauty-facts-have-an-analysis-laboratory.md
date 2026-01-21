@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "A Dintlha tsa Bontle jo bo Bulegileng di na le laboratori ya tshekatsheko?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Dintlha tsa bontle tse di bulegileng di le 11
+breadcrumbs: [ '/tsn-gb/', '/ts-gb/11-bule-dintlha-tsa-bontle/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts ka maswabi ga e na laboratori ya tshekatsheko: re mokgatlho wa baithaopi ba maikaelelo a bone e leng go tlhama Wikipedia ya ditlolo.
 
-That said, if you would like to help us provide more transparency for
+Seo se builwe, fa o ka rata go re thusa go tlamela ka ponatshegelo e e oketsegileng ya
 
-consumers, you can use our iPhone, Android and
+bareki, o ka dirisa iPhone ya rona, Android le
 
-Windows Phone to add products:
+Founo ya Windows go tsenya dikumo:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://tshameka.google.com/lebenkele/ditiriso/dintlha?id=org.sekenara
 
-And to exchange and discuss the possible uses of the project, you
+Mme go ananya le go buisana ka ditiriso tse di ka nnang teng tsa porojeke, o
 
-can join the Facebook group of contributors:
+a ka tsenela setlhopha sa Facebook sa batsayakarolo:
 
-https://www.facebook.com/groups/356858984359591/
+Ditlhopha 356858984359591/
