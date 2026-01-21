@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "တံဆိပ်တွေအတွက် လိုဂိုအသစ်ထည့်ချင်ပါတယ်"
+order: ၅၅
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: ကျွန်တော့်ဘာသာစကားနဲ့ နိုင်ငံမှာ အစားအသောက်တွေကို ပွင့်လင်းစွာ စားသုံးနိုင်စေမယ့် အချက်အလက် ၁၅ ခု
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/၁၅-ကျွန်ုပ်၏ဘာသာစကားဖြင့် ဖွင့်လှစ်ထားသော အစားအစာဆိုင်ရာ အချက်အလက်များ တိုးတက်ကောင်းမွန်လာစေခြင်း/'
   ]
 ---
 
-Here is the process:
+လုပ်ငန်းစဉ်က ဒီလိုပါ။
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- တံဆိပ်များ၏ အမျိုးအစားခွဲခြားမှုတွင် တံဆိပ်၏ မူရင်းအမည်ကို ရှာပါ (၎င်းသည် တံဆိပ်များ၏ အဓိပ္ပာယ်တူစကားလုံးများစာရင်းတွင် ပထမဆုံးအရာဖြစ်သည်၊ ဥပမာ en:100% vegetable)
+- လိုဂိုကို အရည်အသွေးကောင်းအောင် ရယူပါ- ဤကိစ္စအတွက် မသင့်တော်သော ပံ့ပိုးကူညီသူ၏ ဓာတ်ပုံကို မသုံးပါနှင့်။ တံဆိပ်အများစုတွင် တရားဝင်ဝဘ်ဆိုက်များ၏ အရည်အသွေးမြင့် လိုဂိုများရှိပြီး တစ်ခါတစ်ရံတွင် vector format (ကျွန်ုပ်တို့အတွက် ပိုကောင်းပါသည်) ရှိသည်။ ထုတ်ကုန်တစ်ခု၏ထုပ်ပိုးမှုတွင်
+  တံဆိပ်ရှိနေခြင်းအကြောင်း မှန်ကန်စွာအသိပေးရန် လိုဂိုတစ်ခုကို ကျွန်ုပ်တို့အသုံးပြုသရွေ့ ခွင့်ပြုချက်တောင်းရန် မလိုအပ်ပါ။
+- ဖိုင်ကို ဒီလိုနာမည်ပေးပါ- name-of-the-label.[width]x90.png ဒီမှာပါ၊ width က pixel ၉၀ မြင့်တဲ့အခါ လိုဂိုရဲ့ အကျယ်ပါ။ ဖိုင်အမည်များသည် အသံထွက်မပြင်းထန်ရ၊ စာလုံးသေးများဖြင့် ရေးသားရပြီး နေရာလွတ်များအစား "-" ကို အသုံးပြုရမည်။
+- ထို့နောက် ၎င်း၏ canonical name နှင့် ကိုက်ညီသော logo ကို directory တွင် ထည့်ပါ။ canonical name က en:something ဖြစ်ရင် /en/ မှာ ရှိရပါမယ်။ လိုဂိုများအတွက် root directory မှာ https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang ဖြစ်သည်။
