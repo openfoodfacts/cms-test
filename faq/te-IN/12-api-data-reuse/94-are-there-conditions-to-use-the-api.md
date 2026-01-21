@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "API ని ఉపయోగించడానికి ఏవైనా షరతులు ఉన్నాయా?"
+order: 94 समानी
 lang: en-gb తెలుగు in లో
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-డేటా పునర్వినియోగం
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-డేటా-పునర్వినియోగం/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API వినియోగం గురించిన అన్ని డాక్యుమెంటేషన్‌లను API డాక్యుమెంటేషన్ పేజీలో చూడవచ్చు, కానీ ఇక్కడ ఒక చిన్న సారాంశం ఉంది:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ డేటాబేస్ ఓపెన్ డేటాబేస్ లైసెన్స్ (ODbL) కింద ఓపెన్ డేటాగా అందుబాటులో ఉంది, చట్టపరమైన వివరాల కోసం https://world.openfoodfacts.org/terms-of-use చూడండి. రెండు షరతులు ఆపాదింపు మరియు వాటా-ఒకే విధంగా ఉంటాయి. మీరు ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ నుండి డేటాను ఇతర డేటాబేస్‌లతో కలిపితే, ఫలిత డేటాబేస్‌ను ఓపెన్ డేటాగా విడుదల చేయాలని ODbL కోరుతుంది. దీని అర్థం మీరు డేటాను అటువంటి పునఃపంపిణీని అనుమతించే మూలాలతో మాత్రమే కలపవచ్చు.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- మీ యాప్‌ను గుర్తించడానికి API కాల్‌లను నిర్వహిస్తున్నప్పుడు మీరు ఎల్లప్పుడూ కస్టమ్ యూజర్-ఏజెంట్‌ను ఉపయోగించాలి.
 
-- Rate-limits are enforced for each API endpoint.
+- ప్రతి API ఎండ్ పాయింట్ కు రేటు-పరిమితులు అమలు చేయబడతాయి.
