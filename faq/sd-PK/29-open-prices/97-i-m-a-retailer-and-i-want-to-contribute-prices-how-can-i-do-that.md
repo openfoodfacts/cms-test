@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "مان هڪ پرچون ڪندڙ آهيان ۽ قيمتون ڏيڻ چاهيان ٿو. مان اهو ڪيئن ڪري سگهان ٿو؟"
 order: 97
 lang: اين جي بي
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-کليل-قيمتون
+breadcrumbs: [ '/en-gb/', '/en-gb/29-اوپن-قيمتون/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+توهان اسان جي API استعمال ڪندي قيمتون ڏئي سگهو ٿا. جيڪڏهن توهان وڏي پيماني تي قيمتون ڏيڻ چاهيو ٿا، مهرباني ڪري اسان سان contact@openfoodfacts.org تي رابطو ڪريو.
