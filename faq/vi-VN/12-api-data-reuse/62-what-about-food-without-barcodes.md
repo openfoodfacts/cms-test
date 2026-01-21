@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Vậy còn thực phẩm không có mã vạch thì sao?"
 order: 62
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts chỉ chứa thông tin về thực phẩm đóng gói. Để có được giá trị trung bình của các loại nông sản (ví dụ như cà chua hoặc chuối) và các sản phẩm thực phẩm khác, bạn có thể sử dụng một trong các cơ sở dữ liệu dinh dưỡng quốc gia chính thức.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Lưu ý: Danh sách dưới đây bao gồm một số cơ sở dữ liệu thực phẩm quốc gia quan trọng nhất. Nếu bạn cho rằng cần bổ sung thêm cơ sở dữ liệu nào khác vào danh sách, vui lòng liên hệ với chúng tôi tại: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Danh sách các cơ sở dữ liệu thực phẩm quốc gia
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Úc - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Bỉ - NUBEL - Dữ liệu thành phần thực phẩm của Bỉ: https://www.internubel.be
+- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Cộng hòa Séc - Cơ sở dữ liệu thành phần thực phẩm tại Viện Y tế Công cộng Quốc gia: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Đan Mạch - Ngân hàng dữ liệu thành phần thực phẩm Đan Mạch: https://frida.fooddata.dk/?lang=en
+- Estonia - Cơ sở dữ liệu thành phần dinh dưỡng của Estonia: https://tka.nutridata.ee/en/
+- Phần Lan - Cơ sở dữ liệu thành phần thực phẩm Phần Lan - FINELI: https://fineli.fi/fineli/en/index
+- Pháp - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Đức - Cơ sở dữ liệu trực tuyến Souci-Fachmann-Kraut: https://www.sfk.online/#/home hoặc Cơ sở dữ liệu chính thức của Đức: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Ý - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Hà Lan - Cơ sở dữ liệu thành phần thực phẩm của Hà Lan: https://www.rivm.nl/en/dutch-food-composition-database
+- Na Uy - Bảng thành phần dinh dưỡng thực phẩm Na Uy năm 2006: https://www.matvaretabellen.no/?language=en
+- Ba Lan - Bảng thành phần dinh dưỡng thực phẩm: http://www.izz.waw.pl/en/?lang=en
+- Tây Ban Nha - Cơ sở dữ liệu thành phần thực phẩm Tây Ban Nha - BEDCA: https://www.bedca.net/bdpub/index.php
+- Thụy Sĩ - Cơ sở dữ liệu thành phần thực phẩm Thụy Sĩ: https://www.naehrwertdaten.ch/de/
+- Vương quốc Anh - Bộ dữ liệu tích hợp về thành phần thực phẩm (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- Hoa Kỳ - USDA: https://ndb.nal.usda.gov/
