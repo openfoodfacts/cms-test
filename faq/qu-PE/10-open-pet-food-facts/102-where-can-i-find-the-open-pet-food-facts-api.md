@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "Maypitaq tariyman Open Pet Food Facts API nisqa ?"
+order: 102. 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-kichasqa-uywa-mikhuy-chiqakuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/10-kichasqa-uywa-mikhuy-chiqakuna/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Kichasqa Uywa Mikhuy Chiqakuna API 98% kaqlla Kichasqa Mikhuy Chiqakuna API kaqwan chayrayku sichus Kichasqa Mikhuy Chiqakuna API qillqakunata llamk'achkanki huk allin sut'i qhawayniyuq kanayki tiyan Kichasqa Uywa Mikhuy Chiqakuna API kaqmanta.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Reparay, Paneles de Yachay, Eco-Score, Nutri-Score hina ruwanakuna mana yanapasqachu (yaqa temarayku, utaq ñawpaq codigo baserayku).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://kichasqa mikhuykunamanta willakuykuna.github.io/kichasqa mikhuykunamanta-servidor/api/ref-v2/
