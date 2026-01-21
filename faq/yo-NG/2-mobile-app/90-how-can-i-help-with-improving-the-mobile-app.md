@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Báwo ni mo ṣe lè ṣe ìrànlọ́wọ́ láti mú kí ohun èlò ìbánisọ̀rọ̀ alágbèéká dára síi?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-àpù-àgbékalẹ̀ alágbéka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-àpù-mobile-app/' ]
 ---
 
-How can I help with improving the mobile app ?
+Báwo ni mo ṣe lè ṣe ìrànlọ́wọ́ láti mú kí ohun èlò ìbánisọ̀rọ̀ alágbèéká dára síi?
 
-You can do so on the Mobile app repository
+O le ṣe bẹẹ lori ibi ipamọ ohun elo alagbeka
