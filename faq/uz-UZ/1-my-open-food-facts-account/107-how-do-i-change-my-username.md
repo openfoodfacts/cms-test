@@ -2,8 +2,12 @@
 title: "Foydalanuvchi nomimni qanday o'zgartiraman?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mening-ochiq-ovqat-faktlari-hisobim
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-mening-ochiq-ovqat-faktlari-hisobim/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Afsuski, buning iloji yo'q. Agar chindan ham o'zgartirishni xohlasangiz, hisobingizni o'chirib tashlashingiz va yangisini yaratishingiz kerak.
