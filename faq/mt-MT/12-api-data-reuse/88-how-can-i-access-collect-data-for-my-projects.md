@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Kif nista' naċċessa/niġbor id-dejta għall-proġetti tiegħi?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-use mill-ġdid
+breadcrumbs: [ '/mt-gb/', '/mt-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Fil-paġna ewlenija ta' Open Food Facts, fir-rokna ta' fuq tax-xellug tal-iskrin, hemm menu li jiskrollja. Fil-qiegħ tagħha, issib l-għażla “tfittxija avvanzata”, li tista’ tikklikkja fuqha. Imbagħad f'idejk li tiddetermina liema kriterji huma l-aktar rilevanti għall-proġett(i) tiegħek. Ladarba tagħżel, tkun tista' tniżżel ir-riżultati miksuba billi tiskrollja 'l isfel fil-qiegħ tal-paġna u tikklikkja fuq "Niżżel ir-riżultati".
 
-You can also consult:
+Tista' wkoll tikkonsulta:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Id-dokumentazzjoni tal-API tagħna: https://openfoodfacts.github.io/api-documentation/
+- Termini ta' Użu ta' Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Fuq id-dejta tagħna: https://world.openfoodfacts.org/data
