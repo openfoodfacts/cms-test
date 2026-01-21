@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "«ئوچۇق گۈزەللىك پاكىتلىرى» نىڭ ئانالىز تەجرىبىخانىسى بارمۇ؟"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
+category: 11-ئاشكارا گۈزەللىك پاكىتلىرى
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+ئېچىنىشلىق يېرى شۇكى، Open Beauty Facts نىڭ ئانالىز تەجرىبىخانىسى يوق: بىز گىرىم بۇيۇملىرى ۋىكىپېدىيىسىنى قۇرۇشنى مەقسەت قىلغان كۆڭۈللۈكلەر جەمئىيىتى.
 
-That said, if you would like to help us provide more transparency for
+شۇنداقتىمۇ، ئەگەر سىز بىزگە تېخىمۇ كۆپ ئاشكارىلىق بىلەن تەمىنلەشكە ياردەم قىلماقچى بولسىڭىز
 
-consumers, you can use our iPhone, Android and
+ئىستېمالچىلار، سىز بىزنىڭ iPhone، Android ۋە باشقا مەھسۇلاتلىرىمىزنى ئىشلەتسىڭىز بولىدۇ.
 
-Windows Phone to add products:
+مەھسۇلات قوشۇش ئۈچۈن Windows Phone:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+ۋە بۇ لايىھەنىڭ مۇمكىن بولغان ئىشلىتىلىش ئۇسۇللىرىنى ئالماشتۇرۇش ۋە مۇزاكىرە قىلىش ئۈچۈن، سىز
 
-can join the Facebook group of contributors:
+تۆھپىكارلارنىڭ فېيسبۇك گۇرۇپپىسىغا قوشۇلسىڭىز بولىدۇ:
 
 https://www.facebook.com/groups/356858984359591/
