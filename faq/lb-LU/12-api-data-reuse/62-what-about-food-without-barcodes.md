@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "A wat mat Liewensmëttel ouni Barcoden?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-Daten-Wiederverwendung
+breadcrumbs: [ '/lb-gb/', '/lb-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts enthält nëmmen Informatiounen iwwer verpackte Liewensmëttel. Fir Duerchschnëttswäerter vu Geméis (zum Beispill Tomaten oder Banannen) an aner Liewensmëttelprodukter, kënnt Dir amplaz eng vun den offiziellen nationalen Ernärungsdatenbanken benotzen.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Bemierkung: Déi folgend Lëscht enthält e puer vun de wichtegsten nationale Liewensmëtteldatebanken. Wann Dir mengt, datt eng aner Datebank an der Lëscht sollt opgeholl ginn, kontaktéiert eis w.e.g. op: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Lëscht vun den nationale Liewensmëtteldatebanken
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Australien - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belsch - NUBEL - Belsch Liewensmëttelzesummesetzungsdaten: https://www.internubel.be
+- Kanada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Tschechesch Republik - Datebank iwwer d'Liewensmëttelzesummesetzung beim Nationalen Institut fir ëffentlech Gesondheet: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Dänemark - Dänesch Liewensmëttelzesummesetzungsdatebank: https://frida.fooddata.dk/?lang=en
+- Estland - Estnesch Liewensmëttelzesummesetzungsdatenbank: https://tka.nutridata.ee/en/
+- Finnland - Finnesch Liewensmëttelzesummesetzungsdatenbank - FINELI: https://fineli.fi/fineli/en/index
+- Frankräich - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Däitschland - Souci-Fachmann-Kraut Online Datebank: https://www.sfk.online/#/home oder déi offiziell däitsch Datebank: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Italien - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Holland - Hollännesch Liewensmëttelzesummesetzungsdatenbank: https://www.rivm.nl/en/dutch-food-composition-database
+- Norwegen - Déi norwegesch Liewensmëttelzesummesetzungstabell 2006: https://www.matvaretabellen.no/?language=en
+- Polen - Tabellen iwwer d'Liewensmëttelzesummesetzung: http://www.izz.waw.pl/en/?lang=en
+- Spuenien - Datebank iwwer d'Zesummesetzung vu spuenesche Liewensmëttel - BEDCA: https://www.bedca.net/bdpub/index.php
+- Schwäiz - Schwäizer Liewensmëttelzesummesetzungsdatenbank: https://www.naehrwertdaten.ch/de/
+- Groussbritannien - Zesummesetzung vun integréiertem Liewensmëtteldatensatz (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- USA - USDA: https://ndb.nal.usda.gov/
