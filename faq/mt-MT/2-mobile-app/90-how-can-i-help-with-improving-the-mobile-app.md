@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Kif nista' ngħin fit-titjib tal-app mobbli?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-app mobbli
+breadcrumbs: [ '/mt-gb/', '/mt-gb/2-app-mobbli/' ]
 ---
 
-How can I help with improving the mobile app ?
+Kif nista' ngħin fit-titjib tal-app mobbli?
 
-You can do so on the Mobile app repository
+Tista' tagħmel dan fir-repożitorju tal-app mobbli
