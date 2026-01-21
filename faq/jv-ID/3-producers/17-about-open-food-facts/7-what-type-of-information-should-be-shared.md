@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Informasi apa sing kudune dienggo bareng?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-babagan-fakta-panganan-sing-mbukak
+parent_category: 3-produser
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-produser/',
+    '/en-gb/3-produsen/17-babagan-fakta-panganan-sing-terbuka/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Sembarang informasi sing sampeyan duweni ditampa kanthi becik, wiwit saka informasi nutrisi nganti informasi kemasan.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Iki nggampangake nggawe file sing lengkap, ngetung kabeh skor kanthi presisi lan luwih umum transparansi sing diapresiasi dening konsumen.
 
-However we do recommend you prioritize the following fields:
+Nanging, disaranake sampeyan menehi prioritas ing kolom-kolom ing ngisor iki:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Kategori produk (kayata ombenan, keju, yogurt, lsp.)
+- Jeneng produk
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- lan bahan-bahane, kolom iki ora wajib nanging disaranake kanggo panggunaan sing optimal lan nemtokake skor
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload pandhuan pangguna lan/utawa ndeleng tutorial video kita :-)
