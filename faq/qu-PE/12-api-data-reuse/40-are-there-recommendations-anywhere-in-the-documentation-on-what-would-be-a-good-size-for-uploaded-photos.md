@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "¿Maypipas qillqakunapi yuyaychaykuna kanchu ima allin sayayniyuq kanman kargasqa fotokunapaq?"
+order: 40. 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-datos-kutichiy
+breadcrumbs: [ '/quchqa-gb/ .', '/qucha-gb/12-api-data-kutichiy/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Chayqa suyukunamanta kanman, sichus llika pisilla utaq ancha chaninniyuq. imapas 5000 pixelmanta aswan llasayninpi icha sayayninpipas manapaschá ancha allinchu. chaymanta sichus imaynatapas chay llika llasaq kayninta riqsiyta atikunki, chaymanta huk 2000 pixel siq'ipas ancha allinmi kanman (chiqamanta aswan allin mana siq'iyuq kaymanta!) .
