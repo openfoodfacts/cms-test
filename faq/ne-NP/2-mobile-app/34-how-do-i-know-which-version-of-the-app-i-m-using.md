@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "म कुन संस्करणको एप प्रयोग गरिरहेको छु भनेर कसरी थाहा पाउने?"
+order: ३४
 lang: एनजीबी
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: २-मोबाइल-एप
+breadcrumbs: [ '/ne-gb/', '/ne-gb/2-मोबाइल-एप/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+प्रोफाइलमा जानुहोस्,
+त्यसपछि FAQ मा जानुहोस्, त्यसपछि यो एपको बारेमा।
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+तपाईंले
+मा ३.४.५+६६२ जस्तो संस्करण नम्बर देख्नु पर्छ। यदि फोन डिबग भइरहेको छ भने हामीलाई त्यसको ब्रान्ड र मोडेल
+बताउन नबिर्सनुहोला।
