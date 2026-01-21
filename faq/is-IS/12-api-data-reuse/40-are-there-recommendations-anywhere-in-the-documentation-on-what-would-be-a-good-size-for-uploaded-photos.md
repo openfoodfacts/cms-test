@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Eru einhvers staðar í skjölunum ráðleggingar um hvaða stærð væri góð fyrir myndir sem hlaðið er upp?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-gagnaendurnotkun
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-gagna-endurnýting/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Það getur farið eftir löndum hvort netið er hægt eða dýrt. Allt sem er yfir 5000 pixlum að þyngd eða hæð er líklega ekki mjög gagnlegt. og ef þú getur einhvern veginn greint að netið sé hægt, þá væri jafnvel 2000 pixla mynd frábær (örugglega betra en að hafa enga mynd!).
