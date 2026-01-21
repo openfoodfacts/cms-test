@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Ndingayikhuphela phi idatha ye-Open Beauty Facts?"
 order: 70
 lang: i-en-gb
-category: 11-open-beauty-facts
+category: Iinyani ezili-11-ezivulekileyo-zobuhle
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Iphepha le-/data liphukile okwangoku. Ungayikhuphela le datha apha https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
