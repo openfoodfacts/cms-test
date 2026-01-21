@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Mar leubail, a bheil e cudromach cunntas a chruthachadh?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-leubail
+breadcrumbs: [ '/en-gb/', '/en-gb/23-lipealan/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Mar leubail, leis nach tusa riochdaire dìreach nan toraidhean, chan fheum thu cunntas riochdaire a chruthachadh.
