@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "የምንጭ ሕብረቁምፊ ስቀይር ሁሉንም የቋንቋ ፋይሎች ማዘመን አለብኝ?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
+category: 16-ቴክኒካል-ተደጋጋሚ ጥያቄዎች
 breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
 ---
 
-No you don't. You just need to update the English one
+አይ፣ አታደርገውም። የእንግሊዝኛውን ማዘመን ብቻ ያስፈልግዎታል
 
-- Create your PR
+- የእርስዎን የህዝብ ግንኙነት ግንኙነት ይፍጠሩ
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+አንዴ ከተዋሃደ በኋላ፣ crowdin-triggerን በእጅ እናስተካክለዋለን እና በGitHub Actions የተቀሰቀሰው የCrowdin የትርጉም ስርዓት የቀረውን ለሌሎች ቋንቋዎች ያደርጋል።
 
-GitHub bot then creates a new PR automatically that we then review.
+የጂትሆብ ቦት ከዚያም አዲስ የህዝብ ግንኙነት (PR) በራስ-ሰር ይፈጥራል፤ ከዚያም የምንገመግመው ነው።
