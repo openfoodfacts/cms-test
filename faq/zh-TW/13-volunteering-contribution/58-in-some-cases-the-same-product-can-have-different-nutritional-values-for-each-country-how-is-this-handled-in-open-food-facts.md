@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "在某些情況下，同一產品在不同國家的營養價值可能不同，Open Food Facts 是如何處理這種情況的？"
 order: 58
 lang: 英語-英國
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-志願服務貢獻
+breadcrumbs: [ '/en-gb/', '/zh-cn/13-志工服務-貢獻/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99%的情況下，生產商會為其產品的不同版本建立不同的條碼。 一個著名的例子是法國和德國的Nutella巧克力醬在濃稠度上的差異，這是由於不同國家的麵包不同造成的。 兩種不同的配方，兩種不同的條碼。
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+但是，條碼衝突可能會發生在較短的條碼（EAN-8）上，這種條碼通常會被歐洲和美國的一些商店重複使用。 我們目前無法處理條碼衝突，但可以透過取得使用者的大致位置來解決這個問題（在一個國家內出現條碼衝突的情況就更罕見了）。
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+從長遠來看，我們鼓勵生產商改用 EAN-13 條碼，以避免條碼衝突。
