@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Ahoana no ahafantarako ny dikan-tenin'ny fampiharana ampiasaiko?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Fampiharana finday 2
+breadcrumbs: [ '/en-gb/', '/mg-gb/2-fampiharana-finday/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Mandehana any amin'ny Profile,
+avy eo FAQ, dia ny About this app.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Tokony hahita laharan'ny dikan-teny toy ny 3.4.5+662 ianao ao amin'ny
+. Aza adino ny milaza aminay ny marika sy ny modely
+an'ilay finday raha toa ka misy olana amin'ny "debug".
