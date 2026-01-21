@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "A bheil dòigh ann dealbhan a chaidh a luchdachadh suas a thoirt air falbh airson thoraidhean?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-tabhartas-saor-thoileach
+breadcrumbs: [ '/en-gb/', '/en-gb/13-saor-thoileach-tabhartas/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Chan fhaod ach luchd-riaghlaidh dealbhan a thoirt air falbh, gus casg a chur air milleadh a dh’ fhaodadh a bhith ann.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Faighnich air Slack no aig contact@openfoodfacts.org gus na dealbhan dùblaichte agad no dealbhan mì-iomchaidh sam bith a thoirt air falbh (bu chòir dhut feuchainn ri àireamh a’ chòd-barra no an URL a thoirt seachad air a shon).
 
-We also have a new image report API if you're a programmer.
+Tha API aithisg ìomhaigh ùr againn cuideachd ma tha thu nad phrògramadair.
