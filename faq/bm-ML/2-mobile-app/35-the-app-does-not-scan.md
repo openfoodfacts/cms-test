@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "Application tɛ scan kɛ"
+order: 35. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobile-application (application mobile) ye
+breadcrumbs: [ '/bamanankan-gb/ .', '/bamanankan-gb/2-mobile-app/' ]
 ---
 
-This may be due to
+O bɛ se ka kɛ sababu ye ka...
 
-- a network problem
+- gɛlɛya dɔ don rezow la
 
-- a permissions problem
+- yamaruyaw gɛlɛya dɔ
 
-- a barcode problem
+- barɔdi gɛlɛya dɔ
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Aw ye bataki ci an ma Profil >> Contactez-nous >> Email ci an ma.
 
-All relevant information should be attached to your request.
+Kunnafoni minnu bɛ bɛn o ma, olu bɛɛ ka kan ka nɔrɔ i ka ɲinini na.
