@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
-order: 93
+title: "ମୁଁ Open Products Facts କୁ ସମର୍ଥନ କରିବାକୁ ଚାହେଁ। ମୁଁ କଣ କରିପାରିବି ?"
+order: ୯୩
 lang: ଇଂ-ଜିବି
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: ୨୮-ଖୋଲା-ଉତ୍ପାଦ-ତଥ୍ୟ
+breadcrumbs: [ '/en-gb/', '/en-gb/28-ଖୋଲା-ଉତ୍ପାଦ-ତଥ୍ୟ/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+ଦୟାକରି ଆମର ୱିକି ପୃଷ୍ଠା ପଢ଼ନ୍ତୁ, ଆମେ ଏଥିରେ ସାମିଲ ହେବାର ଉପାୟଗୁଡ଼ିକ ତାଲିକାଭୁକ୍ତ କରିଛୁ: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+ଓପନ୍ ପ୍ରଡକ୍ଟସ ଫ୍ୟାକ୍ଟସକୁ ସମର୍ଥନ କରିବା ପାଇଁ, ଆପଣ ନିମ୍ନଲିଖିତ ବିକଳ୍ପଗୁଡ଼ିକୁ ବିଚାର କରିପାରିବେ, ପ୍ରତ୍ୟେକଟି ବିଭିନ୍ନ ପ୍ରକାରର ଅବଦାନ ପାଇଁ ପ୍ରସ୍ତୁତ:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- ଖୋଲା ଉତ୍ପାଦ ତଥ୍ୟ ପାଇଁ ଦାନଶୀଳ/ରାଜ୍ୟ ପ୍ରାୟୋଜକ:
+  ଖୋଲା ଉତ୍ପାଦ ତଥ୍ୟର ଏକ ପ୍ରମୁଖ ଲକ୍ଷ୍ୟ, 20000+ ରୁ ଅଧିକ ବର୍ଗରେ ଏକ ବ୍ୟାପକ ବୃତ୍ତାକାର ଡାଟା ପ୍ଲାଟଫର୍ମ, ଉତ୍ପାଦ ସ୍କୋରିଂ ଏବଂ ବୃତ୍ତାକାର ସମାଧାନ ଏକତ୍ରୀକରଣର ଦୃଷ୍ଟିକୋଣକୁ ସାକାର କରିବାରେ ଦାନଶୀଳ ଅବଦାନ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ। ଏହି ଦୃଷ୍ଟିକୋଣର ଅନେକ ଜରୁରୀ ଉପାଦାନ ଏପର୍ଯ୍ୟନ୍ତ ପାଣ୍ଠି ଯୋଗାଇ ଦିଆଯାଇ ନାହିଁ, ଏବଂ ଆପଣଙ୍କର ଆର୍ଥିକ ସହାୟତା ଏକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପ୍ରଭାବ ପକାଇପାରେ। ଆପଣଙ୍କ ଦାନ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ବିକାଶ ଏବଂ ଭିତ୍ତିଭୂମି ପାଇଁ ପାଣ୍ଠି ଯୋଗାଇପାରିବ। ଆର୍ଥିକ ସହାୟତା ପାଇଁ, ଦୟାକରି contact@openfoodfacts.org ରେ ଯୋଗାଯୋଗ କରନ୍ତୁ।
+- ଓପନ୍ ପ୍ରଡକ୍ଟସ୍ ଫ୍ୟାକ୍ଟସ୍ ଆପ୍ ବ୍ୟବହାର କରୁଥିବା ଡାଟା ଅବଦାନକାରୀ:
+  ଓପନ୍ ପ୍ରଡକ୍ଟସ୍ ଫ୍ୟାକ୍ଟସ୍ ସ୍କେଲିଂ ପାଇଁ ଡାଟା ଅବଦାନ ଅତ୍ୟନ୍ତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ। ନୂତନ ଉତ୍ପାଦ ସୂଚନା ଯୋଡିବା, ବିଦ୍ୟମାନ ପ୍ରବେଶଗୁଡ଼ିକୁ ଅପଡେଟ୍ କରିବା କିମ୍ବା ଡାଟା ଯାଞ୍ଚ କରିବା ପାଇଁ Android ଆପ୍ ବ୍ୟବହାର କରି, ଆପଣ ଡାଟାବେସ୍ ବିସ୍ତାର ଏବଂ ସୁଧାର କରିବାରେ ସାହାଯ୍ୟ କରନ୍ତି। ଏହି ସାମୂହିକ ପ୍ରୟାସ ସମସ୍ତଙ୍କ ପାଇଁ ଏକ ଦୃଢ଼ ଏବଂ ନିର୍ଭରଯୋଗ୍ୟ ସମ୍ବଳ ନିର୍ମାଣ କରିବାରେ ଯୋଗଦାନ କରେ।
+- ଓପନ୍ ପ୍ରଡକ୍ଟସ ତଥ୍ୟ ପାଇଁ ବୈଷୟିକ ଅବଦାନକାରୀ:
+  ଯଦି ଆପଣଙ୍କର ପ୍ରୋଗ୍ରାମିଂ, ଡାଟା ବିଶ୍ଳେଷଣ, କିମ୍ବା ବ୍ୟବହାରକାରୀ ଅଭିଜ୍ଞତା ଡିଜାଇନ୍ ଭଳି କ୍ଷେତ୍ରରେ ବୈଷୟିକ ଦକ୍ଷତା ଅଛି, ତେବେ ଆପଣଙ୍କର ବିଶେଷଜ୍ଞତା ଓପନ୍ ପ୍ରଡକ୍ଟସ ତଥ୍ୟକୁ ଯଥେଷ୍ଟ ଲାଭ ଦେଇପାରିବ। ଆପ୍ ବିକାଶରେ ସାମିଲ ହେବା, ଏହାର କାର୍ଯ୍ୟକାରିତାକୁ ଉନ୍ନତ କରିବା, କିମ୍ବା ୟୁଜର ଇଣ୍ଟରଫେସକୁ ବୃଦ୍ଧି କରିବା ମୂଲ୍ୟବାନ ଅବଦାନ। ସାମିଲ ହେବା ପାଇଁ, #openproductsfacts Slack ଚ୍ୟାନେଲରେ ଯୋଗଦାନ କରନ୍ତୁ, ଯେଉଁଠାରେ Open Products Facts ସମ୍ପ୍ରଦାୟ ସହଯୋଗ କରେ। ଆପଣ Open Food Facts ୱେବସାଇଟରେ ଏହି Slack କାର୍ଯ୍ୟକ୍ଷେତ୍ରର ଲିଙ୍କ୍ ପାଇପାରିବେ।
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+ପ୍ରତ୍ୟେକ ପ୍ରକାରର ଅବଦାନ Open Products Facts ର ଅଭିବୃଦ୍ଧି ଏବଂ ସଫଳତା ପାଇଁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ, ଯାହା ସମସ୍ତଙ୍କ ପାଇଁ ଏକ ଅଧିକ ସ୍ଥାୟୀ ଏବଂ ସୂଚନାପ୍ରଦ ପ୍ଲାଟଫର୍ମ ସୃଷ୍ଟି କରିବାରେ ସାହାଯ୍ୟ କରେ।
