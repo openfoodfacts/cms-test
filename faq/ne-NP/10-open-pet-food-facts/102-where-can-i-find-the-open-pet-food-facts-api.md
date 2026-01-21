@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "ओपन पेट फूड फ्याक्ट्स एपीआई म कहाँ पाउन सक्छु?"
+order: १०२
 lang: एनजीबी
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: १०-खुला-पाल्तु जनावर-खाना-तथ्यहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/१०-ओपन-पेट-फुड-फ्याक्ट्स/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+ओपन पेट फूड फ्याक्ट्स एपीआई ९८% ओपन फूड फ्याक्ट्स एपीआई जस्तै हो त्यसैले यदि तपाईंले ओपन फूड फ्याक्ट्स एपीआई कागजात प्रयोग गर्नुहुन्छ भने तपाईंसँग ओपन पेट फूड फ्याक्ट्स एपीआईको स्पष्ट दृश्य हुनुपर्छ।
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+ध्यान दिनुहोस् कि नलेज प्यानल, इको-स्कोर, न्यूट्री-स्कोर जस्ता सुविधाहरू समर्थित छैनन् (या त विषयवस्तुको कारणले गर्दा, वा पुरानो कोडबेसमा)।
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
