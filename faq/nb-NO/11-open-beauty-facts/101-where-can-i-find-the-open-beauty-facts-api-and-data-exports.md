@@ -1,13 +1,13 @@
 ---
-title: "Hvor finner jeg Open Beauty Facts API og dataeksport?"
+title: "Hvor kan jeg finne Open Beauty Facts API og eksporten av data?"
 order: 101
 lang: no-no
-category: 11-åpne-skjønnhetsfakta
-breadcrumbs: [ '/en-gb/', '/no-gb/11-åpne-skjønnhetsfakta/' ]
+category: 11-åpne skjønnhetsfakta
+breadcrumbs: [ '/radgiver/', '/no/nb-NO open-beauty-facts/' ]
 ---
 
-Open Food Facts API er 98 % det samme som Open Beauty Facts API, så hvis du bruker dokumentasjonen for Open Food Facts API, bør du ha et ganske klart bilde av Open Beauty Facts API.
+Open Food Facts API er 98 % the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
-Merk at funksjoner som kunnskapspaneler, øko-score og nærings-score ikke støttes (enten på grunn av emnet eller den gamle kodebasen).
+Legg merke til at funksjoner som Kunnskapspanelene, Eco-Score, Nutri-Score ikke støttes (enten på grunn av emnet, eller den gamle kodebasen).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
