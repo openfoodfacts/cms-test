@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "API ಬಳಸಲು ಯಾವುದೇ ಷರತ್ತುಗಳಿವೆಯೇ?"
+order: 94 (94)
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ಡೇಟಾ ಮರುಬಳಕೆ
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ಡೇಟಾ-ಮರುಬಳಕೆ/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API ಬಳಕೆಯ ಬಗ್ಗೆ ಎಲ್ಲಾ ದಸ್ತಾವೇಜನ್ನು API ದಸ್ತಾವೇಜೀಕರಣ ಪುಟದಲ್ಲಿ ಕಾಣಬಹುದು, ಆದರೆ ಇಲ್ಲಿ ಒಂದು ಸಣ್ಣ ಸಾರಾಂಶವಿದೆ:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್ ಡೇಟಾಬೇಸ್ ಓಪನ್ ಡೇಟಾಬೇಸ್ ಲೈಸೆನ್ಸ್ (ODbL) ಅಡಿಯಲ್ಲಿ ಓಪನ್ ಡೇಟಾ ಆಗಿ ಲಭ್ಯವಿದೆ, ಕಾನೂನು ವಿವರಗಳಿಗಾಗಿ https://world.openfoodfacts.org/terms-of-use ನೋಡಿ. ಎರಡು ಷರತ್ತುಗಳು ಗುಣಲಕ್ಷಣ ಮತ್ತು ಹಂಚಿಕೆ-ಸಮಾನವಾಗಿವೆ. ನೀವು ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್‌ಗಳಿಂದ ಡೇಟಾವನ್ನು ಇತರ ಡೇಟಾಬೇಸ್‌ಗಳೊಂದಿಗೆ ಸಂಯೋಜಿಸಿದರೆ, ODbL ಫಲಿತಾಂಶದ ಡೇಟಾಬೇಸ್ ಅನ್ನು ಓಪನ್ ಡೇಟಾ ಆಗಿ ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆಂದು ಬಯಸುತ್ತದೆ. ಇದರರ್ಥ ನೀವು ಡೇಟಾವನ್ನು ಮರುಹಂಚಿಕೆಗೆ ಅವಕಾಶ ನೀಡುವ ಮೂಲಗಳೊಂದಿಗೆ ಮಾತ್ರ ಸಂಯೋಜಿಸಬಹುದು.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಗುರುತಿಸಲು API ಕರೆಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ನೀವು ಯಾವಾಗಲೂ ಕಸ್ಟಮ್ ಬಳಕೆದಾರ-ಏಜೆಂಟ್ ಅನ್ನು ಬಳಸಬೇಕು.
 
-- Rate-limits are enforced for each API endpoint.
+- ಪ್ರತಿ API ಎಂಡ್‌ಪಾಯಿಂಟ್‌ಗೆ ದರ-ಮಿತಿಗಳನ್ನು ಜಾರಿಗೊಳಿಸಲಾಗಿದೆ.
