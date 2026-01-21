@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Càite an urrainn dhomh dàta Open Beauty Facts a luchdachadh sìos?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fìrinnean-bòidhchead-fosgailte
+breadcrumbs: [ '/en-gb/', '/gb-gb/11-fosgailte-fìrinnean-bòidhchead/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Tha an duilleag /data briste an-dràsta. Faodaidh tu an dàta a luchdachadh a-nuas aig https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
