@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "ڇا دستاويزن ۾ ڪٿي به سفارشون آهن ته اپلوڊ ڪيل تصويرن لاءِ ڪهڙي سائيز سٺي هوندي؟"
 order: 40
 lang: اين جي بي
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ڊيٽا-ٻيهر استعمال
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ڊيٽا-ٻيهر استعمال/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+اهو ملڪن تي منحصر ٿي سگهي ٿو، جيڪڏهن نيٽ ورڪ سست آهي يا مهانگو. 5000 پڪسلز کان مٿي وزن يا اوچائي شايد تمام گهڻي مفيد نه آهي. ۽ جيڪڏهن توهان ڪنهن طرح اهو معلوم ڪري سگهو ٿا ته نيٽ ورڪ سست آهي، ته پوءِ 2000 پڪسل جي تصوير به بهترين هوندي (يقيناً تصوير نه هجڻ کان بهتر!)
