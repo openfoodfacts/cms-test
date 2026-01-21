@@ -1,21 +1,25 @@
 ---
-title: "How can I access historical data?"
+title: "Nka fitlhelela jang tshedimosetso ya hisitori?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Tiriso-gape ya tshedimosetso ya 12-api
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tsn-gb/tiriso-gape-ya-tshedimosetso ya api/'
+  ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Ga jaana, ga re neele thotobolo ya tshedimosetso ya hisitori (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Le fa go ntse jalo, mo ditlhagisweng ka bongwe, go a kgonega go fitlhelela mefuta e e fetileng ya tshedimosetso ya sedirwa o dirisa API kgotsa mo tsebeng ya sedirwa o dirisa dipoeletso.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Nako le nako fa setlhagiswa se tlhabololwa, go tlhamiwa poeletso e ntšhwa (palo e e oketsegang e e simololang ka 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Ka sekai, go bona poeletso ya ntlha (=mofuta wa ntlha wa sedirwa) sa sedirisiwa seno, dirisa
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Fela jalo, parameter ya rev e ka dirisiwa le API:
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+v2/setlhagiswa/7623186089763?rev=1.
