@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Paano ko isasalin ang FAQ na ito sa aking wika?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-nagpapabuti-ng-mga-katotohanan-tungkol-sa-mga-bukas-na-pagkain-sa-bansang-may-wika-ako
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-pagpapabuti-ng-mga-katotohanan-tungkol-sa-mga-bukas-na-pagkain-sa-bansang-may-wika-ako/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Mangyaring magtanong sa contact@openfoodfacts.org para sa access sa pag-edit ng knowledge base.
