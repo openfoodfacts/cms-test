@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Ngaba kukho iingcebiso naphi na kumaxwebhu malunga nokuba yeyiphi na isayizi efanelekileyo yeefoto ezilayishiweyo?"
 order: 40
 lang: i-en-gb
-category: 12-api-data-reuse
+category: Ukusetyenziswa kwakhona kwedatha ye-api eyi-12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Oko kunokuxhomekeka kumazwe, ukuba inethiwekhi icotha okanye ibiza kakhulu. nantoni na engaphezulu kweepikseli ezingama-5000 ngobunzima okanye ukuphakama mhlawumbi ayiluncedo kangako. kwaye ukuba ungayibona ngandlela ithile ukuba inethiwekhi icotha, ngoko nomfanekiso weephikseli ezingama-2000 ubuya kuba mhle (ngokuqinisekileyo ungcono kunokungabi nawo umfanekiso!)
