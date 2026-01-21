@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Paano ko maa-access ang mga dating datos?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-muling-paggamit-ng-datos
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-muling paggamit/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Sa kasalukuyan, hindi kami nag-aalok ng historical data dump (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Gayunpaman, para sa mga indibidwal na produkto, posibleng ma-access ang mga nakaraang bersyon ng data ng produkto gamit ang API o sa pahina ng produkto gamit ang mga rebisyon.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Sa bawat oras na ina-update ang isang produkto, isang bagong rebisyon (pataas na digit simula sa 1) ang nalilikha.
 
-For example, to get the first revision (=first product version) of this product, use
+Halimbawa, para makuha ang unang rebisyon (=unang bersyon ng produkto) ng produktong ito, gamitin ang
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Katulad nito, maaaring gamitin ang rev parameter kasama ng API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
