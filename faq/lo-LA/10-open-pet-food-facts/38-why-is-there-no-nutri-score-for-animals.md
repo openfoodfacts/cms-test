@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "ເປັນຫຍັງຈຶ່ງບໍ່ມີ Nutri-Score ສຳລັບສັດ?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 ຂໍ້ເທັດຈິງກ່ຽວກັບອາຫານສັດລ້ຽງທີ່ເປີດກວ້າງ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/10-ຂໍ້ມູນອາຫານສັດລ້ຽງທີ່ເປີດໃຫ້ບໍລິການ/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ສັດແຕ່ລະໂຕແຕກຕ່າງກັນ (ງູບໍ່ມີຄວາມຕ້ອງການທາງໂພຊະນາການຄືກັນກັບແມວ ຫຼື ໝາ)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+ເຖິງແມ່ນວ່າຢູ່ໃນສັດປະເພດດຽວກັນເຊັ່ນ: ໝາ, ຄວາມຕ້ອງການທາງໂພຊະນາການກໍ່ແຕກຕ່າງກັນໄປຕາມຊີວິດຂອງຄົນທີ່ມັກຢູ່เฉยๆ, ການຕັດອະໄວຍະວະ ຫຼື ພະຍາດຕ່າງໆ.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+ດັ່ງນັ້ນ, ມັນຈຶ່ງມີຄວາມສັບສົນໃນການຄິດໄລ່ຄະແນນສຳລັບອາຫານສັດໂດຍບໍ່ຕ້ອງມີສ່ວນຮ່ວມຂອງນັກຄົ້ນຄວ້າຫຼາຍສິບຄົນ ແລະ ການສ້າງອັລກໍຣິທຶມທີ່ແຕກຕ່າງກັນຫຼາຍສິບອັນ, ເຊິ່ງຍັງບໍ່ທັນໄດ້ເຮັດມາຮອດປະຈຸບັນ.
