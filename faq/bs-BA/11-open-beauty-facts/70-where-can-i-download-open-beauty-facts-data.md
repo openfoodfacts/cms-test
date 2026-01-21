@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Gdje mogu preuzeti podatke Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 otvorenih činjenica o ljepoti
+breadcrumbs: [ '/bs-gb/', '/bs-gb/11-otvorenih-činjenica-o-ljepoti/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Stranica /data trenutno ne radi. Podatke možete preuzeti na https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
