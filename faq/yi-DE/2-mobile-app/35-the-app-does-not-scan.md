@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "די אַפּ סקענט נישט"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-מאָביל-אַפּ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-מאָביל-אַפּ/' ]
 ---
 
-This may be due to
+דאָס קען זײַן צוליב
 
-- a network problem
+- אַ נעץ פּראָבלעם
 
-- a permissions problem
+- אַ פּראָבלעם מיט פּערמישאַנז
 
-- a barcode problem
+- אַ באַרקאָד פּראָבלעם
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+שיקט אונדז אַן אימעיל דורך פּראָפיל >> קאָנטאַקט אונדז >> שיקט אונדז אַן אימעיל.
 
-All relevant information should be attached to your request.
+אַלע באַטייַטיקע אינפֿאָרמאַציע זאָל זיין אַטאַטשט צו אייער בקשה.
