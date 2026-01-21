@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Kiel mi traduku ĉi tiun Oftajn Demandojn al mia lingvo?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-plibonigaj-faktoj-pri-malferma-manĝaĵo-en-mia-lingva-lando
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/eo-gb/15-plibonigante-malfermajn-manĝaĵojn-en-mia-lingva-lando/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Bonvolu peti al contact@openfoodfacts.org redaktan aliron al la sciobazo.
