@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "¿Imaynatataq kay FAQ nisqataqa simiyman tikrasaq ?"
+order: 57. 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-allichay-kichasqa-mikhuy-chiqakuna-simiy-llaqtapi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/quchqa-gb/ .',
+    '/quch-gb/15-allichay-kichasqa-mikhuy-chiqakunata-simiy-llaqtapi/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Ama hina kaspa, contact@openfoodfacts.org nisqaman tapuy yachay wasiman llamk'apuy yaykuypaq.
