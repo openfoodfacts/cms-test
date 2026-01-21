@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "ಈ FAQ ಗಳನ್ನು ನನ್ನ ಭಾಷೆಗೆ ಹೇಗೆ ಅನುವಾದಿಸುವುದು?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: ನನ್ನ ಭಾಷೆಯ ದೇಶದಲ್ಲಿ ಮುಕ್ತ ಆಹಾರದ ಬಗ್ಗೆ 15 ಸುಧಾರಣೆಗಳು
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ನನ್ನ-ಭಾಷೆ-ದೇಶದಲ್ಲಿ ಮುಕ್ತ ಆಹಾರದ ಸಂಗತಿಗಳನ್ನು ಸುಧಾರಿಸುವುದು/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ಜ್ಞಾನ ನೆಲೆಗೆ ಸಂಪಾದನೆ ಪ್ರವೇಶಕ್ಕಾಗಿ ದಯವಿಟ್ಟು contact@openfoodfacts.org ಅನ್ನು ಕೇಳಿ.
