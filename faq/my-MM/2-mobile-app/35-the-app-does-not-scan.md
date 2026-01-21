@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "အက်ပ်က စကင်ဖတ်လို့မရဘူး"
+order: ၃၅
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ၂-မိုဘိုင်း-အက်ပ်
+breadcrumbs: [ '/en-gb/', '/en-gb/2-မိုဘိုင်း-အက်ပ်/' ]
 ---
 
-This may be due to
+၎င်းကြောင့်ဖြစ်နိုင်သည်
 
-- a network problem
+- ကွန်ရက်ပြဿနာတစ်ခု
 
-- a permissions problem
+- ခွင့်ပြုချက်ပြဿနာ
 
-- a barcode problem
+- ဘားကုဒ်ပြဿနာ
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+ပရိုဖိုင် >> ဆက်သွယ်ရန် >> အီးမေးလ်ပို့ပါ။
 
-All relevant information should be attached to your request.
+သက်ဆိုင်ရာ အချက်အလက်အားလုံးကို သင့်တောင်းဆိုချက်နှင့်အတူ ပူးတွဲထားသင့်သည်။
