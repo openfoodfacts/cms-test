@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Designator sum. Quomodo adiuvare possum?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
+category: 13-contributio-voluntaria
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Omnes actiones ad designium pertinentes coordinamus in https://github.com/openfoodfacts/openfoodfacts-design et in canali colloquii dedicato. Conventus turmae et discussiones de certis provocationibus regulariter habemus.
