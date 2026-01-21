@@ -2,8 +2,12 @@
 title: "Эпӗ хамӑн пользователь ятне мӗнле улӑштармалла?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-манӑн-уҫӑ-апат-ҫимӗҫ-факчӗсен-счечӗ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/cr-gb/1-манӑн-уҫӑ-апат-ҫимӗҫ-факчӗсен-аккаунчӗ/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Шел те, май килмест. Эсир чӑнах та улӑштарас тетӗр пулсан, хӑвӑрӑн аккаунта пӗтермелле те ҫӗннине тумалла.
