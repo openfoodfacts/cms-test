@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Penaos e c'hellan mont e darempred gant roadennoù istorel ?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-roadennoù-adimplij
+breadcrumbs: [ '/br-gb/', '/br-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Hiziv an deiz ne ginnigomp ket un enporzhiañ roadennoù istorel (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Koulskoude, evit ar produioù hiniennel, e c'haller mont e darempred gant stummoù kent eus roadennoù ar produ dre implijout an API pe war bajenn ar produ dre implijout ar c'hemmoù.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Bep tro ma vez hizivaet ur produ e vez krouet un adwelet nevez (sifr o kreskiñ o kregiñ gant 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Da skouer, evit kaout an adwelet kentañ (=stumm kentañ ar produ) eus ar produ-mañ, arverit
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Heñvel, arventenn rev a c'haller implijout gant an API :
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
