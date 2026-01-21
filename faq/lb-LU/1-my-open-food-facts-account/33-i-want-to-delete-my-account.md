@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Ech wëll mäi Kont läschen"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mäi-opgemaachte-Liewensmëttelfakten-Kont
+breadcrumbs:
+  [
+    '/lb-gb/',
+    '/lb-gb/1-mäi-opmaache-Liewensmëttelfakten-Kont/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+D'Läsche vum Kont geschitt elo direkt an Äre Virléiften.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Nodeems Dir Iech op https://world.openfoodfacts.org/ ageloggt hutt, klickt op de Benotzernumm uewe riets an der Ecke a wielt Kontparameter. Et mécht Är Virléiften-Säit op. Gitt op den Enn vun der Säit a benotzt d'Aktioun "Benotzer läschen".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Wann Dir Iech net aloggen (oder Äert Passwuert net zrécksetzen) kënnt, kontaktéiert w.e.g. dpo-at-openfoodfacts.org mat der E-Mail-Adress, déi Dir benotzt hutt fir Äre Kont unzemellen.
