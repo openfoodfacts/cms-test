@@ -13,7 +13,7 @@ This repository uses [Crowdin](https://crowdin.com/) for managing translations o
 ### 2. Configure the Project
 
 1. Open the `crowdin.yml` file in the repository root
-2. Replace `"your-project-id"` with your actual Crowdin project ID
+2. Replace `"YOUR_CROWDIN_PROJECT_ID_HERE"` with your actual Crowdin project ID (found in your Crowdin project settings URL)
 3. In your Crowdin project settings, add the target languages:
    - German (de)
    - Spanish (es)
@@ -30,13 +30,19 @@ Or use other installation methods from the [official documentation](https://crow
 
 ### 4. Set Up Authentication
 
-Create a `crowdin.yml` configuration or set the API token as an environment variable:
+You need to authenticate with Crowdin to use the CLI. You can do this by setting the API token as an environment variable:
 
 ```bash
 export CROWDIN_PERSONAL_TOKEN=your-api-token
 ```
 
-You can generate an API token in your Crowdin account settings.
+Alternatively, you can add the token directly to the `crowdin.yml` file (not recommended for public repositories):
+
+```yaml
+api_token: "your-api-token"
+```
+
+You can generate a Personal Access Token in your Crowdin account settings under **Settings** → **API** → **Personal Access Tokens**.
 
 ## Usage
 

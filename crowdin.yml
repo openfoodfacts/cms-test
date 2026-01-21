@@ -10,7 +10,8 @@
 # 6. Download translations: crowdin download
 
 # Project identifier (replace with your actual Crowdin project ID)
-project_id: "your-project-id"
+# Get this from your Crowdin project settings URL: https://crowdin.com/project/YOUR_PROJECT_ID
+project_id: "YOUR_CROWDIN_PROJECT_ID_HERE"
 
 # Base path for the project
 base_path: "."
