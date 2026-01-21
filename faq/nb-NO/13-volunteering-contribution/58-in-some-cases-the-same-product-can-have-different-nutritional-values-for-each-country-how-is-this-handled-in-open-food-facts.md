@@ -1,13 +1,13 @@
 ---
-title: "I noen tilfeller kan det samme produktet ha ulik næringsverdi for hvert land. Hvordan håndteres dette i Open Food Facts?"
+title: "I noen tilfeller kan samme produkt ha ulike næringsverdier for hvert land, hvordan håndteres dette i Open Food Facts ?"
 order: 58
 lang: no-no
-category: 13-frivilligbidrag
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-frivillige bidrag
+breadcrumbs: [ '/radgiver/', '/nb-NO /no_NO/no' ]
 ---
 
-99 % av tiden lager produsenter forskjellige strekkoder for forskjellige versjoner av produktene sine. Et kjent eksempel er forskjellen mellom fransk og tysk Nutella når det gjelder tykkelse, på grunn av forskjeller i brød mellom land. 2 forskjellige formler, 2 forskjellige strekkoder.
+99 % av tiden vil produsentene lage ulike strekkoder for ulike versjoner av sine produkter. Et kjent eksempel er forskjellen mellom fransk og tysk Nutella mht. tykkelse, på grunn av brødets forskjell på tvers av land. 2 ulike formler, 2 ulike strekkoder.
 
-Strekkodekollisjoner kan imidlertid forekomme på kortere koder (EAN-8) som vanligvis brukes om igjen av noen butikker i Europa og USA. Vi håndterer ikke slike strekkodekollisjoner for øyeblikket, men det burde være mulig å gjøre det ved å hente brukerens generelle plassering (det er enda sjeldnere med strekkodekollisjoner innenfor et land).
+Strekkoden kan imidlertid forekomme på kortere koder (EAN-8) som typisk gjenbrukes av noen butikker i hele Europa og USA. Vi håndterer ikke disse strekkodeklikkene, men det skal gjøre det ved å få brukerens generelle plassering (det er enda mer sjelden med strekkode sammenstøt i et land).
 
-På lang sikt oppfordrer vi produsenter til å gå over til EAN-13 for å unngå disse strekkodekollisjonene.
+På sikt oppfordrer vi produsenter til å flytte til EAN-13 for å unngå slike strekkodekoblinger.
