@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Open Beauty Facts API və məlumat ixraclarını haradan tapa bilərəm?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-açıq-gözəllik-faktları
+breadcrumbs: [ '/en-gb/', '/az-gb/11-açıq-gözəllik-faktları/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Açıq Qida Faktları API-si Açıq Gözəllik Faktları API-si ilə 98% eynidir, buna görə də Açıq Qida Faktları API sənədlərindən istifadə etsəniz, Açıq Gözəllik Faktları API-si haqqında kifayət qədər aydın bir təsəvvürə sahib olmalısınız.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Nəzərə alın ki, Bilik Panelləri, Eko-Hesab, Nutri-Hesab kimi xüsusiyyətlər dəstəklənmir (ya mövzuya, ya da köhnə kod bazasına görə).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
