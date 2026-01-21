@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Akwai sharuɗɗa don amfani da API?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: Sake amfani da bayanai na api guda 12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Ana iya samun dukkan takardu game da amfani da API a shafin takardun API, amma ga taƙaitaccen bayani:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Ana samun bayanai na Buɗaɗɗen Bayanan Abinci a matsayin bayanai a ƙarƙashin Lasisin Buɗaɗɗen Bayanan Bayani (ODbL), duba https://world.openfoodfacts.org/terms-of-use don cikakkun bayanai na doka. Sharuɗɗan biyu su ne alaƙa da juna da kuma raba-daidai. Idan ka haɗa bayanai daga Buɗaɗɗen Bayanan Abinci tare da wasu bayanan bayanai, to ODbL yana buƙatar cewa dole ne a fitar da bayanan da suka fito a matsayin bayanan da aka buɗe. Hakanan yana nufin cewa zaka iya haɗa bayanan kawai da majiyoyi waɗanda zasu ba da damar sake rarrabawa.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Dole ne koyaushe ka yi amfani da wakilin mai amfani na musamman lokacin yin kiran API don gano app ɗinka.
 
-- Rate-limits are enforced for each API endpoint.
+- Ana aiwatar da iyakokin ƙima ga kowane ƙarshen API.
