@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "بۇ كۆپ سورىلىدىغان سوئاللارنى قانداق قىلىپ ئۆز تىلىمغا تەرجىمە قىلالايمەن؟"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: مېنىڭ تىلىمدىكى دۆلىتىمىزدە يېمەكلىكلەرنىڭ ئېچىلىشىغا ئائىت 15 پاكىتنى ياخشىلاش
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-مېنىڭ-تىلىمدىكى-يېمەكلىك-پاكىتلىرىنى-ياخشىلاش-/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+بىلىم بازىسىنى تەھرىرلەش ھوقۇقى ئۈچۈن contact@openfoodfacts.org غا سوراڭ.
