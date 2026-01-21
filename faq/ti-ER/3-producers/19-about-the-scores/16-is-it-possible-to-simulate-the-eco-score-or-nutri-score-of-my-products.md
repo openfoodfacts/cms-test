@@ -1,19 +1,19 @@
 ---
-title: "Is it possible to simulate the Eco-Score or Nutri-Score of my products?"
+title: "ናይ ፍርያተይ ኢኮ-ስኮር ወይ ኒውትሪ-ስኮር ምምሳል ይከኣል ድዩ?"
 order: 16
 lang: en-gb
-category: 19-about-the-scores
-parent_category: 3-producers
+category: 19-ብዛዕባ-ነጥብታት
+parent_category: 3-ኣፍረይቲ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/19-about-the-scores/'
+    '/ትግርኛ-ግብ/',
+    '/en-gb/3-ኣፍረይቲ/',
+    '/en-gb/3-producers/19-ብዛዕባ-ነጥብታት/'
   ]
 ---
 
-By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
+ኣብ መድረኽ ኣፍረይቲ ብምምዝጋብን ዳታ ፍርያትካ ብምስቃልን ምስ ፍርያትካ ዝተኣሳሰር ኒውትሪ-ስኮርን ኢኮ-ስኮርን ክትሕስብ ትኽእል።
 
-However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
+ይኹን እምበር፡ እቲ ስሚዩሽን ምስ ተኻየደ ክትድምስሶ ኣለካ፡ ምእንቲ ምስቲ ድሮ ኣብ ዕዳጋ ዝቐረቡ ፍርያት ናብ ህዝባዊ መድረኽ ከይለኣኽ።
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ ንዝያዳ ዝርዝር ሓበሬታ፡ መምርሒ ተጠቃሚና ከተውርዱን/ወይ ድማ ናይ ቪድዮ ትምህርትታትና ክትውከሱን ንዕድም :-)
