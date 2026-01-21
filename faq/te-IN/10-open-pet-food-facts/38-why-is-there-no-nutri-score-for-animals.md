@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "జంతువులకు న్యూట్రి-స్కోర్ ఎందుకు లేదు?"
 order: 38
 lang: en-gb తెలుగు in లో
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: పెంపుడు జంతువుల ఆహారం గురించి 10 వాస్తవాలు
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/10-open-pet-food-facts/ // పెంపుడు జంతువుల ఆహార వాస్తవాలు'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ప్రతి జంతువు భిన్నంగా ఉంటుంది (పాముకు పిల్లి లేదా కుక్కకు ఉన్నంత పోషక అవసరాలు ఉండవు)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+కుక్కల వంటి ఒకే రకమైన జంతువులలో కూడా, పోషక అవసరాలు నిశ్చల జీవనశైలి, సాధ్యమయ్యే కాస్ట్రేషన్ లేదా వ్యాధుల జీవితాన్ని బట్టి మారుతూ ఉంటాయి.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+అందువల్ల డజన్ల కొద్దీ పరిశోధకులను చేర్చకుండా మరియు డజన్ల కొద్దీ విభిన్న అల్గోరిథంలను సృష్టించకుండా పశుగ్రాసం కోసం స్కోర్‌ను లెక్కించడం సంక్లిష్టంగా ఉంటుంది, ఇది ఇప్పటివరకు చేయలేదు.
