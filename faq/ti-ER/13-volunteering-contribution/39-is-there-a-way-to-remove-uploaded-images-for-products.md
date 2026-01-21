@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "ንፍርያት ዝተሰቐሉ ምስልታት ንምእላይ ዝሕግዝ መንገዲ ኣሎ ድዩ?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ወለንታዊ-ኣበርክቶ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/13-ወለንታዊ-ኣበርክቶ/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+ኣካየድቲ ጥራይ እዮም ስእልታት ከውጽኡ ዝኽእሉ፣ ንኽፍጠር ዝኽእል ዕንወት ንምክልኻል።
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+ኣብ ስላክ ወይ ኣብ contact@openfoodfacts.org ጥራይ ሕተት ድፕሊኬትካ ወይ ዝኾነ ዘይግቡእ ስእልታትካ ንምእላይ (ንእኡ ቁጽሪ ባርኮድ ወይ URL ክትህብ ክትፍትን ኣለካ)።
 
-We also have a new image report API if you're a programmer.
+ፕሮግራመር እንተኾንካ ሓድሽ ናይ ምስሊ ጸብጻብ ኤፒኣይ እውን ኣለና።
