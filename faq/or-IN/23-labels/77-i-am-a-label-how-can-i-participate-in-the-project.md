@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
-order: 77
+title: "ମୁଁ ଏକ ଲେବଲ୍, ମୁଁ ଏହି ପ୍ରୋଜେକ୍ଟରେ କିପରି ଅଂଶଗ୍ରହଣ କରିପାରିବି?"
+order: ୭୭
 lang: ଇଂ-ଜିବି
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: ୨୩-ଲେବଲ୍
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ଲେବଲ୍ସ/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+ଏକ ଲେବଲ୍ ଭାବରେ ସବୁଠାରୁ ପ୍ରାସଙ୍ଗିକ କାମ ହେଉଛି ଆମ ସହିତ ଯୋଗାଯୋଗ କରିବା (producers@openfoodfacts.org) ଏବଂ ଆପଣଙ୍କ ଲେବଲ୍ ପ୍ରଦର୍ଶିତ ହୋଇଥିବା ଉତ୍ପାଦଗୁଡ଼ିକର ତାଲିକା ଆମକୁ ପଠାନ୍ତୁ ଯାହା ଦ୍ଵାରା ଆମେ ସେଗୁଡ଼ିକୁ ସମ୍ବନ୍ଧିତ ଉତ୍ପାଦ ସିଟ୍‌ରେ ଯୋଡ଼ିପାରିବୁ।
