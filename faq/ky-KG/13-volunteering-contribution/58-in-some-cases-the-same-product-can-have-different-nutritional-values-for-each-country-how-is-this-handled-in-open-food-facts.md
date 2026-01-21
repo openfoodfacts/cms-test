@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Айрым учурларда, бир эле продукт ар бир өлкө үчүн ар кандай азыктык баалуулукка ээ болушу мүмкүн, бул \"Ачык азык-түлүк фактыларында\" кандайча каралат?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ыктыярчылык салымы
+breadcrumbs: [ '/en-gb/', '/ky-gb/13-ыктыярдуу-салым/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+Убакыттын 99%ында өндүрүүчүлөр өз продукцияларынын ар кандай версиялары үчүн ар кандай штрих-коддорду түзүшөт. Белгилүү мисал катары француз жана немис Nutella нандарынын калыңдыгы боюнча айырмачылыкты келтирүүгө болот, бул ар кайсы өлкөлөрдөгү нандардын айырмачылыгынан келип чыгат. 2 башка формула, 2 башка штрих-код.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Бирок, штрих-коддордун кагылышуусу Европа жана АКШ боюнча айрым дүкөндөр тарабынан кайра колдонулган кыска коддордо (EAN-8) болушу мүмкүн. Учурда биз штрих-коддордун кагылышуусун чечпейбиз, бирок колдонуучунун жалпы жайгашкан жерин алуу менен муну жасоого болот (өлкөнүн ичинде штрих-коддордун кагылышуусу андан да сейрек кездешет).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Узак мөөнөттүү келечекте биз өндүрүүчүлөрдү штрих-коддордун кагылышууларынан качуу үчүн EAN-13кө өтүүгө чакырабыз.
