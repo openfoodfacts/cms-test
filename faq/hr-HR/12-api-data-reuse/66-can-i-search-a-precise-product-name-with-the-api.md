@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Mogu li pretražiti točan naziv proizvoda pomoću API-ja?"
 order: 66
 lang: hr-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ponovna-upotreba-podataka
+breadcrumbs: [ '/hr-gb/', '/hr-hr/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Nažalost, još nije moguće jednostavno i precizno pretraživati samo po nazivu proizvoda putem API-ja.
 
-Using a filter on category might help you make your search more precise though.
+Korištenje filtera prema kategoriji moglo bi vam pomoći da pretraga bude preciznija.
