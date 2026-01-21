@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Nka fumana Open Beauty Facts API le data exports hokae?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Lintlha tse 11-tse bulehileng-tsa-botle
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/tn-gb/11-lintlha-tse-botle-tse-bo-bulehileng/'
+  ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Open Food Facts API e tšoana ka 98% le Open Beauty Facts API kahoo haeba o sebelisa litokomane tsa Open Food Facts API o lokela ho ba le pono e hlakileng ea Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Hlokomela hore likarolo tse kang Liphanele tsa Tsebo, Eco-Score, Nutri-Score ha li tšehetsoe (ebang ke ka lebaka la sehlooho, kapa ka lebaka la khoutu ea khale).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
