@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Продукци валли ярса панӑ ӳкерчӗксене кӑларса пӑрахма май пур-и?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-волонтерство-вклад
+breadcrumbs: [ '/en-gb/', '/en-gb/13-волонтерство-вклад/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Сӑнӳкерчӗксене модераторсем ҫеҫ кӑларса пӑрахма пултараҫҫӗ, ҫапла вара вандализм пулма пултарать.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Slack-ра е contact@openfoodfacts.org адреспа хӑвӑрӑн дубликатсене е юрӑхсӑр сӑнӳкерчӗксене кӑларса пӑрахма ыйтӑр (ҫакӑн валли штрих-код номерне е URL-адреса пама тӑрӑшмалла).
 
-We also have a new image report API if you're a programmer.
+Эсир программист пулсан, пирӗн ҫӗнӗ ӳкерчӗк отчечӗн API пур.
