@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
+title: "Ndingada kukurudzira kuvandudzwa kwepuratifomu yehunyanzvi, ndingazviita sei?"
 order: 79
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-nezve-zvekudya-zvakavhurika-chokwadi
+parent_category: Vagadziri vatatu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
+    '/sn-gb/',
+    '/en-gb/3-vagadziri/',
     '/en-gb/3-producers/17-about-open-food-facts/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+Tinokutendai nekuda kwenyu kutora chikamu mukujekesa chikafu!
 
-The best way to share feedback is by filling in this form.
+Nzira yakanakisisa yekugovana mhinduro ndeyekuzadza fomu iri.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+Unogonawo kutibata kuti upe mazano kuburikidza neforamu yedu kana kuburikidza neSlack.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Joyina Slack yedu wopinda muchiteshi che #producers kuti utibate.
