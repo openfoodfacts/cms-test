@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "\"Ачык азык-төлек фактлары\"н үз телемә ничек тәрҗемә итәргә?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-үз-телемдәге-илемдә-ачык-ризык-фактларын-яхшырту
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-минем-телемдә-ачык-ризык-фактларын-яхшырту/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support сайтына керегез
