@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Ahoana no ahafahako miditra/manangona angon-drakitra ho an'ny tetikasako?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: Tetikasa-sekoly-26
+parent_category: Mpikaroka-manam-pahaizana 25
 breadcrumbs:
   [
     '/en-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/mg-gb/mpikaroka-manam-pahaizana-25/tetikasa-sekoly-26/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Ao amin'ny pejy fandraisana an'ny Open Food Facts, eo amin'ny zoro ambony havia amin'ny efijery, misy menio mikorisa. Eo amin'ny farany ambany amin'ilay izy no ahitanao ny safidy "fikarohana mandroso", izay azonao tsindriana. Dia anjaranao avy eo ny mamaritra hoe inona avy ireo fepetra tena mifandraika amin'ny tetikasanao. Rehefa voafidy dia azonao alaina ny valiny azo amin'ny alàlan'ny fikorisa midina eo amin'ny faran'ny pejy ary tsindrio ny "Download results".
