@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Nid yw'r ap yn sganio"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ap symudol
+breadcrumbs: [ '/cy-gb/', '/cy-gb/2-ap-symudol/' ]
 ---
 
-This may be due to
+Gall hyn fod oherwydd
 
-- a network problem
+- problem rhwydwaith
 
-- a permissions problem
+- problem caniatâd
 
-- a barcode problem
+- problem cod bar
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Anfonwch e-bost atom drwy Broffil >> Cysylltwch â Ni >> Anfonwch e-bost atom.
 
-All relevant information should be attached to your request.
+Dylai'r holl wybodaeth berthnasol fod ynghlwm wrth eich cais.
