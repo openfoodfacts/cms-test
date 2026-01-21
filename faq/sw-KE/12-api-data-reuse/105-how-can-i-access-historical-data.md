@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Ninawezaje kupata data ya kihistoria?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Matumizi-ya-data-ya-api-12
+breadcrumbs: [ '/sw-gb/', '/sw-gb/12-api-data-use-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Kwa sasa, hatutoi data ya kihistoria (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Hata hivyo, kwa bidhaa binafsi, inawezekana kufikia matoleo ya awali ya data ya bidhaa kwa kutumia API au kwenye ukurasa wa bidhaa kwa kutumia marekebisho.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Kila wakati bidhaa inaposasishwa, marekebisho mapya (tarakimu inayoongezeka kuanzia 1) huundwa.
 
-For example, to get the first revision (=first product version) of this product, use
+Kwa mfano, ili kupata marekebisho ya kwanza (=toleo la kwanza la bidhaa) ya bidhaa hii, tumia
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Vile vile, kigezo cha rev kinaweza kutumika na API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
