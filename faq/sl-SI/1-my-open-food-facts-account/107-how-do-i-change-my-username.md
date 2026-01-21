@@ -2,8 +2,8 @@
 title: "Kako spremenim svoje uporabniško ime?"
 order: 107
 lang: sl-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-moj-odprti-račun-dejstev-o-hrani
+breadcrumbs: [ '/sl-si/', '/sl-si/1-moj-odprt-račun-zadatkov-o-hrani/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Žal to ni mogoče. Če resnično želiš spremeniti, moraš izbrisati svoj račun in ustvariti novega.
