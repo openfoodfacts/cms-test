@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "¿Imayna willakuykunatataq rakinakuna?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-kichasqa-mikhuymanta-chiqakuna
+parent_category: 3-ruraqkuna
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/quchqa-gb/ .',
+    '/quch-gb/3-ruraqkuna/ .',
+    '/quch-gb/3-productores/17-kichasqa-mikhuy-chiqakuna/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Ima willakuypas allin chaskisqa, mikhuymanta willakuymanta embalajemanta willakuykama.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Kayqa atikun huk hunt'asqa archivota churayta, llapa puntuacionkunata yupanapaq precisión kaqwan chaymanta aswan generalmente huk transparencia consumidorkuna chaninchasqa kaqwan.
 
-However we do recommend you prioritize the following fields:
+Ichaqa kay chakrakunata ñawpaqman churanaykipaq yuyaychayku:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Producto categoría (p.h. upyanakuna, queso, yogur, hukkunapas)
+- Rurukunapa sutin
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- hinallataq ingredientekuna, kay campoqa manan obligatoriochu aswanpas recomendasqa huk allin utilización hinallataq determinación de las puntuaciones
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Aswan sut'inchaykunapaq, mink'aykiku guia de usuario nisqayku uraykachinaykipaq chaymanta/utaq video yachachisqaykumanta qhaway :-)
