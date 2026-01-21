@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Ta yaya zan san wace sigar manhajar nake amfani da ita?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Manhajar wayar hannu ta 2
+breadcrumbs: [ '/en-gb/', '/en-gb/2-app-mobile/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Je zuwa Profile,
+sannan Tambayoyin da ake yawan yi, sannan Game da wannan manhajar.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Ya kamata ka
+ga lambar sigar kamar 3.4.5+662. Kar ku manta ku gaya mana yadda wayar take da kuma samfurinta
+idan tana da matsala.
