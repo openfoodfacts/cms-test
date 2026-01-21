@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Penaos e c'hellan mont e darempred/dastum roadennoù evit ma raktresoù ?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-roadennoù-adimplij
+breadcrumbs: [ '/br-gb/', '/br-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+War bajenn bennañ Open Food Facts, e korn kleiz uhelañ ar skramm, ez eus ur meni riklañ. E traoñ e kavoc'h an dibab "klask araokaet", a c'hallit klikañ warnañ. Deoc'h-c'hwi eo neuze da zivizout peseurt dezverkoù a zo ar re bouezusañ evit ho raktres(où). Ur wech dibabet e c'hallit pellgargañ an disoc'hoù bet tapet en ur glikañ war-zu an traoñ e traoñ ar bajenn ha klikañ war “Pellgargañ an disoc'hoù”.
 
-You can also consult:
+Gallout a rit ivez goulenn ali :
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Hon teuliadur API : https://openfoodfacts.github.io/api-documentation/
+- Termenoù implij Open Food Facts : https://world.openfoodfacts.org/terms-of-use
+- War hor roadennoù : https://world.openfoodfacts.org/data
