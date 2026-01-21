@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kuidas ma saan oma tooteid Open Beauty Factsi importida?"
 order: 67
 lang: et-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 avatud ilufakti
+breadcrumbs: [ '/et-ee/', '/et-ee/11-avatud-ilufaktid/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Võtke ühendust aadressil producteurs@openfoodfacts.org või minge otse aadressile
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org ja seejärel võtke spetsiaalse ekspordi saamiseks ühendust aadressil producteurs@openfoodfacts.org.
