@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "ខ្ញុំចង់លុបគណនីរបស់ខ្ញុំ"
+order: ៣៣
 lang: អង់គ្លេស-ជីកាបៃ
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-គណនី-ព័ត៌មាន-អាហារ-បើកចំហរបស់ខ្ញុំ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-គណនី​ព័ត៌មាន​អាហារ​ដែល​បើក​ចំហ​របស់ខ្ញុំ/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+ការលុបគណនីឥឡូវនេះកើតឡើងដោយផ្ទាល់នៅក្នុងចំណូលចិត្តរបស់អ្នក។
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+បន្ទាប់ពីចូលទៅក្នុងគណនី https://world.openfoodfacts.org/ រួចហើយ សូមចុចលើឈ្មោះអ្នកប្រើប្រាស់នៅជ្រុងខាងស្តាំខាងលើ រួចជ្រើសរើស Account Parameters។ វាបើកទំព័រចំណូលចិត្តរបស់អ្នក។ ចូលទៅកាន់ផ្នែកខាងក្រោមនៃទំព័រ ហើយប្រើសកម្មភាព "លុបអ្នកប្រើប្រាស់"។
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+ប្រសិនបើអ្នកមិនអាចចូល (ឬកំណត់ពាក្យសម្ងាត់របស់អ្នកឡើងវិញ) សូមទាក់ទង dpo - នៅ - openfoodfacts.org ដោយប្រើអាសយដ្ឋានអ៊ីមែលដែលអ្នកប្រើដើម្បីចុះឈ្មោះគណនី។
