@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Dalam beberapa kes, produk yang sama boleh mempunyai nilai pemakanan yang berbeza bagi setiap negara, bagaimanakah perkara ini dikendalikan dalam Fakta Makanan Terbuka?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-sumbangan-sukarelawan
+breadcrumbs: [ '/en-gb/', '/ms-gb/13-sumbangan-sukarelawan/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% daripada masa, pengeluar akan mencipta kod bar yang berbeza untuk versi produk mereka yang berbeza. Satu contoh yang terkenal ialah perbezaan antara Nutella Perancis dan Jerman dari segi ketebalan, disebabkan oleh perbezaan roti antara negara. 2 formula berbeza, 2 kod bar berbeza.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Walau bagaimanapun, pertembungan kod bar boleh berlaku pada kod yang lebih pendek (EAN-8) yang biasanya digunakan semula oleh beberapa kedai di seluruh Eropah dan AS. Kami buat masa ini tidak mengendalikan pertembungan kod bar tersebut, tetapi ia sepatutnya boleh dilakukan dengan mendapatkan lokasi umum pengguna (pertembungan kod bar dalam sesebuah negara lebih jarang berlaku).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Dalam jangka masa panjang, kami menggalakkan pengeluar untuk beralih kepada EAN-13 bagi mengelakkan pertembungan kod bar tersebut.
