@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "ብዛዕባ እቲ ኣፕ ርእይቶ ኣበይ ክሰድድ ይኽእል ?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ሞባይል-ኣፕ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/2-ሞባይል-ኣፕ/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+ርእይቶኹም ናብ mobile@openfoodfacts.org ክትሰዱ ትኽእሉ ኢኹም።
