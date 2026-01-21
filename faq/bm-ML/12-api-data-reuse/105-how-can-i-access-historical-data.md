@@ -1,21 +1,25 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "Ne bɛ se ka tariku kunnafoniw sɔrɔ cogo di?"
+order: 105. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-baarakɛcogo kura
+breadcrumbs:
+  [
+    '/bamanankan-gb/ .',
+    '/en-gb/12-api-data-segin-ka-baara/'
+  ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Sisan, an tɛ tariku kunnafonidilanw (JSONL, MongoDB, CSV) di.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Nka, fɛn kelen-kelen bɛɛ kama, a bɛ se ka kɛ ka fɛn dilannenw kunnafoniw bɔcogo kɔrɔw sɔrɔ ni API ye walima fɛn dilannenw ɲɛ kan ni seginnkanniw ye.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Tuma o tuma ni fɛn dɔ bɛ ladamu, seginnkanni kura (jateden min bɛ caya ka daminɛ 1 la) bɛ dabɔ.
 
-For example, to get the first revision (=first product version) of this product, use
+Misali la, walasa ka nin fura in lajɛ fɔlɔ (=fɛn fɔlɔ bɔcogo) sɔrɔ, aw bɛ baara kɛ ni a ye
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+1. Kalanjɛ ni sɛbɛnni: kalanjɛ ni sɛbɛnni gafew.
 
-Similarly, the rev parameter can be used with the API:
+O cogo kelen na, rev paramètre bɛ se ka baara kɛ ni API ye:
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+Kalanjɛ ni sɛbɛnni: kalanjɛ ni sɛbɛnni gafew.org/api/v2/product/7623186089763?rev=1
