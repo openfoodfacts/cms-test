@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "A ddylwn i ddiweddaru pob ffeil iaith pan fyddaf yn newid llinyn ffynhonnell?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-cwestiynau-cyffredin-technegol
+breadcrumbs: [ '/cy-gb/', '/cy-gb/16-cwestiynau-cyffredin-technegol/' ]
 ---
 
-No you don't. You just need to update the English one
+Na, dydych chi ddim. Dim ond angen i chi ddiweddaru'r un Saesneg.
 
-- Create your PR
+- Creu eich cysylltiadau cyhoeddus
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Unwaith y bydd wedi'i uno, byddwn yn ail-sylfaenu crowdin-trigger â llaw a bydd system gyfieithu Crowdin a sbardunir gan GitHub Actions yn gwneud y gweddill ar gyfer ieithoedd eraill.
 
-GitHub bot then creates a new PR automatically that we then review.
+Yna mae bot GitHub yn creu PR newydd yn awtomatig yr ydym yn ei adolygu wedyn.
