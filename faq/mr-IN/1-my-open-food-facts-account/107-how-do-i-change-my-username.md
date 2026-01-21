@@ -2,8 +2,8 @@
 title: "मी माझे वापरकर्तानाव कसे बदलू?"
 order: १०७
 lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: १-माझे-ओपन-फूड-फॅक्ट्स-अकाउंट
+breadcrumbs: [ '/en-gb/', '/en-gb/1-माझे-ओपन-फूड-फॅक्ट्स-अकाउंट/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+दुर्दैवाने, ते शक्य नाही. जर तुम्हाला खरोखर बदल करायचे असतील तर तुम्हाला तुमचे खाते हटवावे लागेल आणि एक नवीन तयार करावे लागेल.
