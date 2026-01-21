@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "ಅಪ್‌ಲೋಡ್ ಮಾಡಿದ ಫೋಟೋಗಳಿಗೆ ಯಾವ ಗಾತ್ರ ಉತ್ತಮವಾಗಿರುತ್ತದೆ ಎಂಬುದರ ಕುರಿತು ದಸ್ತಾವೇಜನ್ನುಗಳಲ್ಲಿ ಎಲ್ಲಿಯಾದರೂ ಶಿಫಾರಸುಗಳಿವೆಯೇ?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-ಡೇಟಾ ಮರುಬಳಕೆ
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ಡೇಟಾ-ಮರುಬಳಕೆ/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+ನೆಟ್‌ವರ್ಕ್ ನಿಧಾನವಾಗಿದ್ದರೆ ಅಥವಾ ದುಬಾರಿಯಾಗಿದ್ದರೆ ಅದು ದೇಶಗಳನ್ನು ಅವಲಂಬಿಸಿರಬಹುದು. 5000 ಪಿಕ್ಸೆಲ್‌ಗಳಿಗಿಂತ ಹೆಚ್ಚಿನ ತೂಕ ಅಥವಾ ಎತ್ತರವು ಬಹುಶಃ ಹೆಚ್ಚು ಉಪಯುಕ್ತವಲ್ಲ. ಮತ್ತು ನೀವು ಹೇಗಾದರೂ ನೆಟ್‌ವರ್ಕ್ ನಿಧಾನವಾಗಿದೆ ಎಂದು ಪತ್ತೆಹಚ್ಚಲು ಸಾಧ್ಯವಾದರೆ, 2000 ಪಿಕ್ಸೆಲ್‌ಗಳ ಚಿತ್ರವೂ ಉತ್ತಮವಾಗಿರುತ್ತದೆ (ಚಿತ್ರ ಇಲ್ಲದಿರುವುದಕ್ಕಿಂತ ಖಂಡಿತವಾಗಿಯೂ ಉತ್ತಮ!)
