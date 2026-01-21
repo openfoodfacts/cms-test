@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "Open Beauty Facts မှာ ဓာတ်ခွဲခန်း ရှိပါသလား။"
+order: ၄၇
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: ၁၁-ပွင့်လင်းသော-အလှအပ-အချက်အလက်များ
+breadcrumbs: [ '/en-gb/', '/en-gb/၁၁-အလှအပဆိုင်ရာ အချက်အလက်များ/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+ကံမကောင်းစွာပဲ Open Beauty Facts မှာ ခွဲခြမ်းစိတ်ဖြာရေးဓာတ်ခွဲခန်း မရှိပါဘူး- ကျွန်ုပ်တို့ဟာ အလှကုန်တွေရဲ့ ဝီကီပီးဒီးယားတစ်ခု ဖန်တီးဖို့ ရည်မှန်းချက်ထားတဲ့ စေတနာ့ဝန်ထမ်းတွေရဲ့ အသင်းအဖွဲ့တစ်ခု ဖြစ်ပါတယ်။
 
-That said, if you would like to help us provide more transparency for
+ဒါပေမယ့် ပိုပြီး ပွင့်လင်းမြင်သာမှုရှိအောင် ကျွန်ုပ်တို့ကို ကူညီချင်တယ်ဆိုရင်
 
-consumers, you can use our iPhone, Android and
+သုံးစွဲသူများအနေဖြင့် ကျွန်ုပ်တို့၏ iPhone၊ Android နှင့်
 
-Windows Phone to add products:
+Windows ဖုန်းမှာ ထုတ်ကုန်တွေထည့်ဖို့-
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+ပြီးတော့ ဒီစီမံကိန်းရဲ့ ဖြစ်နိုင်ချေရှိတဲ့ အသုံးပြုမှုတွေကို ဖလှယ်ဆွေးနွေးဖို့အတွက်၊ သင်ဟာ
 
-can join the Facebook group of contributors:
+ဖေ့စ်ဘွတ်ခ် ပံ့ပိုးကူညီသူများအဖွဲ့သို့ ဝင်ရောက်နိုင်ပါသည်-
 
 https://www.facebook.com/groups/356858984359591/
