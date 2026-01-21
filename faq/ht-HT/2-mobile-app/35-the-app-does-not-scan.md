@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Aplikasyon an pa eskane"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasyon mobil
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasyon-mobil/' ]
 ---
 
-This may be due to
+Sa ka akòz
 
-- a network problem
+- yon pwoblèm rezo
 
-- a permissions problem
+- yon pwoblèm pèmisyon
 
-- a barcode problem
+- yon pwoblèm kòd bar
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Voye yon imèl ba nou atravè Pwofil >> Kontakte nou >> Voye yon imèl ba nou.
 
-All relevant information should be attached to your request.
+Tout enfòmasyon ki enpòtan yo ta dwe tache ak demann ou an.
