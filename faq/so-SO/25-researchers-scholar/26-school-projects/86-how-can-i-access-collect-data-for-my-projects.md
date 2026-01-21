@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Sideen u heli karaa/u ururin karaa xogta mashaariicdayda?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-mashruuc oo dugsi ah
+parent_category: 25-cilmi-baare-aqoonyahan
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-cilmi-baarayaal/',
+    '/en-gb/25-cilmi-baare-aqoonyahan/26-mashruuc-dugsi/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Bogga ugu weyn ee Furan ee Xaqiiqooyinka Cuntada, geeska bidix ee sare ee shaashadda, waxaa ku yaal liiska rogrogmada. Qeybta hoose, waxaad ka heli doontaa ikhtiyaarka "raadinta sare", kaas oo aad gujin karto. Markaas adiga ayay kugu xiran tahay inaad go'aamiso shuruudaha ugu habboon mashruucaaga (mashruucyadaada). Marka aad doorato, waxaad awoodi doontaa inaad soo dejiso natiijooyinka la helay adigoo hoos ugu dhaadhacaya xagga hoose ee bogga oo gujinaya "Soo dejiso natiijooyinka".
