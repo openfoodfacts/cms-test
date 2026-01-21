@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Nista' nfittex isem preċiż ta' prodott bl-API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-use mill-ġdid
+breadcrumbs: [ '/mt-gb/', '/mt-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Sfortunatament għadu mhux possibbli li tfittex faċilment bl-isem tal-prodott biss u b'mod preċiż permezz tal-API.
 
-Using a filter on category might help you make your search more precise though.
+L-użu ta' filtru fuq il-kategorija jista' jgħinek tagħmel it-tfittxija tiegħek aktar preċiża.
