@@ -1,9 +1,13 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "Yala laadilikanw bɛ sɛbɛnw kɔnɔ yɔrɔ dɔ la, minnu b’a jira ko foto minnu bilalen don, olu hakɛ ɲuman bɛna kɛ min ye wa?"
+order: 40. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-baarakɛcogo kura
+breadcrumbs:
+  [
+    '/bamanankan-gb/ .',
+    '/en-gb/12-api-data-segin-ka-baara/'
+  ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+O bɛ se ka bɔ jamanaw de la, ni réseau bɛ sumaya walima ni a sɔngɔ ka gɛlɛn. fɛn o fɛn girinya walima a janya bɛ tɛmɛ pixel 5000 kan, n’a sɔrɔla o nafa tɛ kosɛbɛ. ani n’i bɛ se k’a dɔn cogo dɔ la ko réseau bɛ sumaya, o tuma na hali ja min bɛ pixel 2000 bɔ, o bɛna kɛ koɲuman ye (siga t’a la, a ka fisa ni ja tɛ i bolo!)
