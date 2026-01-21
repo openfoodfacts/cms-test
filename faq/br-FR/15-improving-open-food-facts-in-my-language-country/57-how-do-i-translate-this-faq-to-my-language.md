@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Penaos treiñ ar FAQ-mañ en ma yezh ?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-gwellaat-fedoù-boued-digor-e-barzh-ma-yezh-bro
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/br-gb/',
+    '/br-gb/15-gwellaat-fedoù-boued-digor-e-barzh-ma-yezh-bro/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Goulennit digant contact@openfoodfacts.org evit kemmañ an diaz anaoudegezh.
