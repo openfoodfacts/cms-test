@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "اوپن فوڊ فيڪٽس اهو ڇو ڪري رهيو آهي (اوپن پرائسز)؟"
 order: 100
 lang: اين جي بي
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-کليل-قيمتون
+breadcrumbs: [ '/en-gb/', '/en-gb/29-اوپن-قيمتون/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+کاڌي جي نظام کي سمجهڻ لاءِ قيمت جي معلومات تمام گهڻي اهميت رکي ٿي. اهو کاڌي جي قيمت کي سمجهڻ ۽ صحت مند غذا کي فروغ ڏيڻ ۾ هڪ اهم عنصر آهي. قيمت جي ڊيٽا کي کولڻ محققن، صحافين ۽ شهرين لاءِ بهتر سمجهڻ جو هڪ طريقو آهي ته ڪيئن کاڌي جون قيمتون جاگرافيائي ۽ وقت جي لحاظ کان مختلف ٿين ٿيون.
