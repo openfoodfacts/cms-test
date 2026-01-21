@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Kan jag söka efter ett exakt produktnamn med API:et?"
 order: 66
 lang: sv-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-återanvändning
+breadcrumbs: [ '/sv-gb/', '/sv-gb/12-api-data-återanvändning/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Tyvärr är det ännu inte möjligt att enkelt söka enbart på produktnamn och exakt via API:et.
 
-Using a filter on category might help you make your search more precise though.
+Att använda ett filter på kategori kan dock hjälpa dig att göra din sökning mer exakt.
