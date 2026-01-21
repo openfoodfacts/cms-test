@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Ahoana ny amin'ny sakafo tsy misy kaody bara?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Fampiasana indray ny angon-drakitra 12-api
+breadcrumbs: [ '/en-gb/', '/mg-gb/fampiasana-an-drakitra-12-api/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Ny Open Food Facts dia tsy ahitana afa-tsy fampahalalana momba ny sakafo nofonosina. Raha mila salan'isa momba ny vokatra (ohatra, voatabia na akondro) sy vokatra sakafo hafa ianao dia azonao ampiasaina ny iray amin'ireo tahiry ofisialy momba ny sakafo nasionaly.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Fanamarihana: Ity lisitra etsy ambany ity dia ahitana ny sasany amin'ireo tahiry nasionaly manan-danja indrindra momba ny sakafo. Raha heverinao fa tokony hampidirina ao anatin'ny lisitra ny angon-drakitra hafa, dia mifandraisa aminay amin'ny alalan'ny: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Lisitry ny Tahiry Nasionaly momba ny Sakafo
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Aostralia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belzika - NUBEL - Angon-drakitra momba ny firafitry ny sakafo Belzika: https://www.internubel.be
+- Kanada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Repoblika Tseky - Tahiry momba ny firafitry ny sakafo ao amin'ny Ivontoerana Nasionaly momba ny Fahasalamam-bahoaka: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Danemark - Banky angon-drakitra momba ny firafitry ny sakafo Danoà: https://frida.fooddata.dk/?lang=en
+- Estonia - Tahiry momba ny firafitry ny sakafo Estoniana: https://tka.nutridata.ee/en/
+- Failandy - Tahiry momba ny firafitry ny sakafo finlandey - FINELI: https://fineli.fi/fineli/en/index
+- Frantsa - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Alemaina - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home na ny angona ofisialy Alemana: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Italia - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Holandy - Tahiry momba ny firafitry ny sakafo holandey: https://www.rivm.nl/en/dutch-food-composition-database
+- Norvezy - Ny Tabilao Firafitry ny Sakafo Norveziana 2006: https://www.matvaretabellen.no/?language=en
+- Polonina - Tabilao momba ny firafitry ny sakafo: http://www.izz.waw.pl/en/?lang=en
+- Espaina - Tahiry momba ny firafitry ny sakafo Espaniola - BEDCA: https://www.bedca.net/bdpub/index.php
+- Soisa - Tahiry momba ny firafitry ny sakafo Soisa: https://www.naehrwertdaten.ch/de/
+- UK - Tahirin-kevitra momba ny firafitry ny sakafo mitambatra (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- Etazonia - USDA: https://ndb.nal.usda.gov/
