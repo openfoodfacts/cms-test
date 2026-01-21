@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Oes yna argymhellion yn unrhyw le yn y ddogfennaeth ynglŷn â beth fyddai maint da ar gyfer lluniau sy'n cael eu huwchlwytho?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ailddefnyddio-data-12-api
+breadcrumbs: [ '/cy-gb/', '/cy-gb/12-api-data-ailddefnyddio/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Gall hynny ddibynnu ar wledydd, os yw'r rhwydwaith yn araf neu'n ddrud. mae'n debyg nad yw unrhyw beth uwchlaw 5000 picsel o ran pwysau neu uchder yn ddefnyddiol iawn. ac os gallwch chi rywsut ganfod bod y rhwydwaith yn araf, yna byddai delwedd 2000 picsel hyd yn oed yn wych (yn sicr yn well na pheidio â chael delwedd!)
