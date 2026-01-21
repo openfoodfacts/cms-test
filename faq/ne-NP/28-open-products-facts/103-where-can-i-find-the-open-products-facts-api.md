@@ -1,11 +1,11 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
-order: 103
+title: "म ओपन प्रोडक्ट्स फ्याक्ट्स एपीआई कहाँ पाउन सक्छु?"
+order: १०३
 lang: एनजीबी
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: २८-खुला-उत्पादनहरू-तथ्यहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/28-खुला-उत्पादनहरू-तथ्यहरू/' ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+ओपन प्रोडक्ट्स फ्याक्ट्स एपीआई ९८% ओपन फूड फ्याक्ट्स एपीआई जस्तै हो त्यसैले यदि तपाईंले ओपन फूड फ्याक्ट्स एपीआई कागजात प्रयोग गर्नुहुन्छ भने तपाईंसँग ओपन प्रोडक्ट्स फ्याक्ट्स एपीआईको स्पष्ट दृश्य हुनुपर्छ। हामीले तपाईंको एपमा विश्वव्यापी स्क्यान लागू गर्न अनुमति दिन समर्पित ट्यूटोरियल पनि लेखेका छौं।
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
