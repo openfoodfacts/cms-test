@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Оё ҳангоми иваз кардани сатри сарчашма бояд ҳамаи файлҳои забонро навсозӣ кунам?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
+category: 16-саволҳои зуд-зуд додашавандаи техникӣ
 breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
 ---
 
-No you don't. You just need to update the English one
+Не, шумо ин корро намекунед. Шумо танҳо бояд забони англисиро навсозӣ кунед
 
-- Create your PR
+- PR-и худро эҷод кунед
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Пас аз муттаҳид шудан, мо crowdin-trigger-ро дастӣ аз нав ба кор медарорем ва системаи тарҷумаи Crowdin, ки аз ҷониби GitHub Actions фаъол карда мешавад, боқимондаро барои забонҳои дигар анҷом медиҳад.
 
-GitHub bot then creates a new PR automatically that we then review.
+Сипас боти GitHub ба таври худкор PR-и нав эҷод мекунад, ки мо онро баррасӣ мекунем.
