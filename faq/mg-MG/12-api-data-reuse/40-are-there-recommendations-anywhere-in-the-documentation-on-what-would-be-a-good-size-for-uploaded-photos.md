@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Misy soso-kevitra ve ao amin'ny antontan-taratasy momba ny habe mety ho an'ny sary ampidirina?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Fampiasana indray ny angon-drakitra 12-api
+breadcrumbs: [ '/en-gb/', '/mg-gb/fampiasana-an-drakitra-12-api/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Mety hiankina amin'ny firenena izany, na miadana na lafo ny tambajotra. izay mihoatra ny 5000 piksela ny lanjany na ny haavony dia mety tsy dia ilaina loatra. ary raha toa ka hitanao fa miadana ny tambajotra, dia mety tsara na dia sary 2000 piksela aza (tsara kokoa noho ny tsy misy sary!)
