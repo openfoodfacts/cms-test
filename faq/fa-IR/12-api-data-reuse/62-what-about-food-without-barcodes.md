@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
-order: 62
+title: "در مورد مواد غذایی بدون بارکد چطور؟"
+order: ۶۲
 lang: انگلیسی-انگلیسی
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ۱۲-استفاده مجدد از داده‌ها در API
+breadcrumbs: [ '/fa-gb/', '/fa-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+«اطلاعات عمومی مواد غذایی» فقط شامل اطلاعاتی در مورد مواد غذایی بسته‌بندی شده است. برای مقادیر میانگین محصولات (مثلاً گوجه فرنگی یا موز) و سایر محصولات غذایی، می‌توانید از یکی از پایگاه‌های داده رسمی تغذیه ملی استفاده کنید.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+توجه: فهرست زیر شامل برخی از مهم‌ترین پایگاه‌های داده ملی مواد غذایی است. اگر فکر می‌کنید پایگاه داده دیگری باید در این فهرست گنجانده شود، لطفاً با ما از طریق آدرس زیر تماس بگیرید: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+فهرست پایگاه‌های داده ملی مواد غذایی
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- استرالیا - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- بلژیک - NUBEL - داده‌های ترکیبات غذایی بلژیک: https://www.internubel.be
+- کانادا - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- جمهوری چک - پایگاه داده ترکیبات غذایی در موسسه ملی بهداشت عمومی: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- دانمارک - بانک اطلاعات ترکیبات غذایی دانمارک: https://frida.fooddata.dk/?lang=en
+- استونی - پایگاه داده ترکیبات غذایی استونی: https://tka.nutridata.ee/en/
+- فنلاند - پایگاه داده ترکیبات غذایی فنلاندی - FINELI: https://fineli.fi/fineli/en/index
+- فرانسه - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- آلمان - پایگاه داده آنلاین Souci-Fachmann-Kraut: https://www.sfk.online/#/home یا پایگاه رسمی آلمان: Bundeslebensmittelschlüssel: https://blsdb.de/
+- ایتالیا - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- هلند - پایگاه داده ترکیبات غذایی هلند: https://www.rivm.nl/en/dutch-food-composition-database
+- نروژ - جدول ترکیبات غذایی نروژی ۲۰۰۶: https://www.matvaretabellen.no/?language=en
+- لهستان - جداول ترکیبات مواد غذایی: http://www.izz.waw.pl/en/?lang=en
+- اسپانیا - پایگاه داده ترکیبات غذایی اسپانیا - BEDCA: https://www.bedca.net/bdpub/index.php
+- سوئیس - پایگاه داده ترکیبات غذایی سوئیس: https://www.naehrwertdaten.ch/de/
+- بریتانیا - مجموعه داده‌های یکپارچه ترکیب مواد غذایی (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- ایالات متحده آمریکا - USDA: https://ndb.nal.usda.gov/
