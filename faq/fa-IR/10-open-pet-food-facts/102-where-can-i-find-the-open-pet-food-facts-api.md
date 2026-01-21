@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "از کجا می‌توانم API مربوط به اطلاعات غذای حیوانات خانگی را پیدا کنم؟"
+order: ۱۰۲
 lang: انگلیسی-انگلیسی
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: ۱۰ حقیقت در مورد غذای حیوانات خانگی
+breadcrumbs: [ '/fa-gb/', '/fa-gb/10-حقایق-غذای-حیوانات-باز/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+API مربوط به Open Food Facts 98٪ مشابه API مربوط به Open Food Facts است، بنابراین اگر از مستندات API مربوط به Open Food Facts استفاده می‌کنید، باید دید کاملاً واضحی از API مربوط به Open Food Facts داشته باشید.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+توجه داشته باشید که ویژگی‌هایی مانند پنل‌های دانش، امتیاز زیست‌محیطی (Eco-Score) و امتیاز تغذیه (Nutri-Score) پشتیبانی نمی‌شوند (یا به دلیل موضوع یا به دلیل کدبیس قدیمی).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
