@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "A matsayin lakabi, shin yana da mahimmanci a ƙirƙiri asusu?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: Lakabi 23
+breadcrumbs: [ '/en-gb/', '/en-gb/23-lakabi/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+A matsayinka na lakabi, tunda ba kai ne kai tsaye ke samar da kayayyakin ba, ba kwa buƙatar ƙirƙirar asusun mai samarwa.
