@@ -2,8 +2,12 @@
 title: "Wéi änneren ech mäi Benotzernumm?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mäi-opgemaachte-Liewensmëttelfakten-Kont
+breadcrumbs:
+  [
+    '/lb-gb/',
+    '/lb-gb/1-mäi-opmaache-Liewensmëttelfakten-Kont/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Leider ass et net méiglech. Wann Dir wierklech eppes ännere wëllt, musst Dir Äre Kont läschen an en neien erstellen.
