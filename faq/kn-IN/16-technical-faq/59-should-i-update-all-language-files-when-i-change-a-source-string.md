@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "ನಾನು ಮೂಲ ಸ್ಟ್ರಿಂಗ್ ಅನ್ನು ಬದಲಾಯಿಸುವಾಗ ಎಲ್ಲಾ ಭಾಷಾ ಫೈಲ್‌ಗಳನ್ನು ನವೀಕರಿಸಬೇಕೇ?"
+order: 59 (ಪುಟ 59)
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-ತಾಂತ್ರಿಕ-ವಿಶೇಷಣಗಳು
+breadcrumbs: [ '/en-gb/', '/en-gb/16-ತಾಂತ್ರಿಕ-FAQ/' ]
 ---
 
-No you don't. You just need to update the English one
+ಇಲ್ಲ, ನೀವು ಹಾಗೆ ಮಾಡುವುದಿಲ್ಲ. ನೀವು ಇಂಗ್ಲಿಷ್ ಒಂದನ್ನು ನವೀಕರಿಸಬೇಕಾಗಿದೆ.
 
-- Create your PR
+- ನಿಮ್ಮ PR ರಚಿಸಿ
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+ಒಮ್ಮೆ ಅದು ವಿಲೀನಗೊಂಡ ನಂತರ, ನಾವು ಕ್ರೌಡಿನ್-ಟ್ರಿಗ್ಗರ್ ಅನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಮರುಬೇಸ್ ಮಾಡುತ್ತೇವೆ ಮತ್ತು ಗಿಟ್‌ಹಬ್ ಕ್ರಿಯೆಗಳಿಂದ ಪ್ರಚೋದಿಸಲ್ಪಟ್ಟ ಕ್ರೌಡಿನ್ ಅನುವಾದ ವ್ಯವಸ್ಥೆಯು ಉಳಿದದ್ದನ್ನು ಇತರ ಭಾಷೆಗಳಿಗೆ ಮಾಡುತ್ತದೆ.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub ಬಾಟ್ ನಂತರ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹೊಸ PR ಅನ್ನು ರಚಿಸುತ್ತದೆ, ಅದನ್ನು ನಾವು ಪರಿಶೀಲಿಸುತ್ತೇವೆ.
