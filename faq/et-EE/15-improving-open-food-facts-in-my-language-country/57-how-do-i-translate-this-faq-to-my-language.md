@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Kuidas ma saan selle KKK oma keelde tõlkida?"
 order: 57
 lang: et-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-parandan-avatud-toidufakti-minu-keeles-riigis
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/et-ee/',
+    '/et-ee/15-parandan-avatud-toidu-faktid-minu-keeles/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Teadmusbaasi muutmisõiguse saamiseks küsige palun aadressilt contact@openfoodfacts.org.
