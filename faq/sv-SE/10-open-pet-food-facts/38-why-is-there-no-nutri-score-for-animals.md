@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Varför finns det ingen Nutri-Score för djur?"
 order: 38
 lang: sv-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-öppna-fakta-om-djurfoder
+breadcrumbs: [ '/sv-gb/', '/sv-gb/10-open-hundmatsfakta/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Varje djur är unikt (en orm har inte samma näringsbehov som en katt eller en hund)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Även inom samma djurtyp, som till exempel hundar, varierar näringsbehovet beroende på stillasittande livsstil, eventuell kastrering eller sjukdomar.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Det är därför komplicerat att beräkna en poäng för djurfoder utan att involvera dussintals forskare och skapa dussintals olika algoritmer, vilket inte har gjorts hittills.
