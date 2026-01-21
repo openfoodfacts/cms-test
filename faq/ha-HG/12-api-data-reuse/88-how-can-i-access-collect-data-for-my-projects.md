@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Ta yaya zan iya samun dama/tattara bayanai don ayyukana?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: Sake amfani da bayanai na api guda 12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+A babban shafin Buɗe Bayanan Abinci, a kusurwar hagu ta sama na allon, akwai menu na gungurawa. A ƙasan shafin, za ku sami zaɓin "bincike mai zurfi", wanda za ku iya dannawa. To, kai ne za ka tantance waɗanne sharuɗɗa ne suka fi dacewa da aikinka. Da zarar an zaɓi, za ku iya saukar da sakamakon da aka samu ta hanyar gungura ƙasa a ƙasan shafin sannan ku danna "Sauke sakamakon".
 
-You can also consult:
+Hakanan zaka iya tuntuɓar:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Takardun API ɗinmu: https://openfoodfacts.github.io/api-documentation/
+- Sharuɗɗan Amfani da Bayanan Abinci na Buɗaɗɗen Bayani: https://world.openfoodfacts.org/terms-of-use
+- A kan bayananmu: https://world.openfoodfacts.org/data
