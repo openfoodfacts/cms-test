@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "ในเอกสารมีคำแนะนำใดๆ เกี่ยวกับขนาดที่เหมาะสมสำหรับการอัปโหลดรูปภาพหรือไม่?"
 order: 40
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+นั่นอาจขึ้นอยู่กับแต่ละประเทศ หากเครือข่ายช้าหรือมีราคาแพง อะไรก็ตามที่มีขนาดหรือความสูงเกิน 5000 พิกเซลนั้น อาจจะไม่ค่อยมีประโยชน์เท่าไหร่ และหากคุณสามารถตรวจจับได้ว่าเครือข่ายช้า ภาพขนาด 2000 พิกเซลก็ยังดีมาก (ดีกว่าไม่มีภาพเลยแน่นอน!)
