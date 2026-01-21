@@ -1,19 +1,19 @@
 ---
-title: "Can I download Open Food Facts data?"
+title: "So metumi atwe Open Food Facts data?"
 order: 9
 lang: tw-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-fa-aduan-a-abue-nokwasɛm ahorow
+parent_category: 3-wɔn a wɔyɛ nneɛma
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/twi-gb/ .',
+    '/en-gb/3-wɔn a wɔyɛ/ .',
+    '/en-gb/3-producers/17-fa-aduan-a-abue-nokwasɛm/'
   ]
 ---
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+Wubetumi atwe data a ɛwɔ Open Food Facts so nyinaa. Hwɛ yie, eyi hwehwɛ disk space pii, kɔmputa a ahoɔden wom sɛ wopɛ sɛ wode spreadsheet di dwuma anaa nimdeɛ a ɛfa R anaa Python ho a ɛnte saa a.
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+Wubetumi nso atwe data no fã ketewaa bi (wo brand sɛ nhwɛso no) esiane hwehwɛ a ɛkɔ akyiri no nti.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Sɛ wopɛ nsɛm pii a, yɛto nsa frɛ wo sɛ twe yɛn dwumadie akwankyerɛ no na/anaasɛ hwɛ yɛn video nkyerɛkyerɛ :-)
