@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "פארוואס איז נישטא קיין נוטרי-סקאָר פאר בעלי חיים?"
+order: 38 יאָר אַלט
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-אפענע-חיות-עסן-פאקטן
+breadcrumbs: [ '/en-gb/', '/en-gb/10-אפענע-פאקטן וועגן ליבלינג-עסן/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+יעדע חיה איז אַנדערש (אַ שלאַנג האט נישט די זעלבע נוטרישאַנעלע באדערפענישן ווי אַ קאַץ אָדער אַ הונט)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+אפילו אינערהאלב דעם זעלבן טיפ חיה ווי הינט, ווערייִרן די נוטרישאַנעלע באדערפענישן לויטן זיצנדיקן לייפסטייל, אַ מעגלעכער קאַסטראַציע אָדער קראַנקייטן.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+עס איז דעריבער קאָמפּליצירט צו רעכענען אַ כעזשבן פֿאַר כייַע פֿיטער אָן צו באַטייליקן דאַזאַנז פון פֿאָרשער און שאַפֿן דאַזאַנז פון פֿאַרשידענע אַלגעריטמען, וואָס איז ביז איצט נישט געטאָן געוואָרן.
