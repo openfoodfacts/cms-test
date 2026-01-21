@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "API ကိုအသုံးပြုရန် အခြေအနေများ ရှိပါသလား။"
+order: ၉၄
 lang: en-gb
-category: 12-api-data-reuse
+category: ၁၂-api-ဒေတာ-ပြန်လည်အသုံးပြုခြင်း
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API အသုံးပြုမှုနှင့်ပတ်သက်သည့် စာရွက်စာတမ်းအားလုံးကို API စာရွက်စာတမ်းစာမျက်နှာတွင် ရှာတွေ့နိုင်ပါသည်၊ သို့သော် အကျဉ်းချုပ်ကို ဤနေရာတွင် ဖော်ပြထားပါသည်။
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Open Food Facts ဒေတာဘေ့စ်ကို Open Database License (ODbL) အောက်တွင် open data အဖြစ် ရရှိနိုင်ပါသည်၊ ဥပဒေဆိုင်ရာ အသေးစိတ်အချက်အလက်များအတွက် https://world.openfoodfacts.org/terms-of-use တွင် ကြည့်ပါ။ အခြေအနေနှစ်ခုမှာ attribution နှင့် share-alike တို့ဖြစ်သည်။ Open Food Facts မှ အချက်အလက်များကို အခြားဒေတာဘေ့စ်များနှင့် ပေါင်းစပ်ပါက ODbL သည် ရရှိလာသော ဒေတာဘေ့စ်ကို open data အဖြစ်လည်း ထုတ်ပြန်ရန် လိုအပ်သည်။ ၎င်းသည် ထိုကဲ့သို့ ပြန်လည်ဖြန့်ဝေမှုကို ခွင့်ပြုမည့် အရင်းအမြစ်များနှင့်သာ ဒေတာကို ပေါင်းစပ်နိုင်သည်ကိုလည်း ဆိုလိုသည်။
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- သင့်အက်ပ်ကို ခွဲခြားသတ်မှတ်ရန် API ခေါ်ဆိုမှုများ ပြုလုပ်သည့်အခါ custom User-Agent တစ်ခုကို အမြဲအသုံးပြုရမည်။
 
-- Rate-limits are enforced for each API endpoint.
+- API endpoint တစ်ခုချင်းစီအတွက် rate-limit များကို ပြဋ္ဌာန်းထားသည်။
