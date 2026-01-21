@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "Ma tahan oma konto kustutada"
 order: 33
 lang: et-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-minu-avatud-toidufaktide-konto
+breadcrumbs: [ '/et-ee/', '/et-ee/1-minu-avatud-toidufaktide-konto/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+Konto kustutamine toimub nüüd otse teie eelistustes.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Pärast sisselogimist aadressil https://world.openfoodfacts.org/ klõpsake paremas ülanurgas kasutajanimel ja valige „Konto parameetrid”. See avab teie eelistuste lehe. Mine lehe allossa ja kasuta toimingut "kustuta kasutaja".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Kui te ei saa sisse logida (või parooli lähtestada), võtke palun ühendust aadressil dpo-at-openfoodfacts.org, kasutades e-posti aadressi, mida kasutasite konto registreerimisel.
