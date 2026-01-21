@@ -2,8 +2,12 @@
 title: "Ke fetola jang leina la me la modirisi?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-akhaonto-ya-me-e-buletsweng-ya-dijo
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tn-gb/1-akhaonto-ya-me-e-buletsweng-ya-dintlha-tsa-dijo/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Ka maswabi, ga go kgonege. Fa e le gore tota o batla go fetoga, o tshwanetse go phimola akhaonto ya gago mme o tlhame e ntšha.
