@@ -1,21 +1,25 @@
 ---
-title: "How can I access historical data?"
+title: "Ngingayitfola njani idatha yemlandvo?"
 order: 105
 lang: si-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-kuphindze-kusetjentiswe idatha
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/12-kusetjentiswa-kwemininingwane-ye-api/'
+  ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Kwanyalo, asiniketi kulahlwa kwemininingwane yemlandvo (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Kepha, ngemikhicito ngayinye, kungenteka kutsi ufinyelele tingucuko tangembili tedatha yemkhicito usebentisa i-API noma ekhasini lemkhicito usebentisa kubuyeketwa.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Njalo uma umkhicito uvuselelwa, kubuyeketwa lokusha (kukhulisa idijithi lecala ku-1) kuyadalwa.
 
-For example, to get the first revision (=first product version) of this product, use
+Sibonelo, kute utfole kubuyeketwa kwekucala (=inguqulo yemkhicito wekucala) yalomkhicito, sebentisa .
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+Umhlaba.lokuvulekile kwekudla.org/umkhicito/7623186089763/i-joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Ngendlela lefanako, ipharamitha ye-rev ingasetjentiswa ne-API:
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+v2/umkhicito/7623186089763?rev=1.
