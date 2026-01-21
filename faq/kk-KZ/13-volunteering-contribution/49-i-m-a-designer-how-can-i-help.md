@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Мен дизайнермін. Қалай көмектесе аламын?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ерікті жарна
+breadcrumbs: [ '/en-gb/', '/kk-gb/13-волонтерлік-үлесі/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Біз дизайнға қатысты барлық әрекеттерді https://github.com/openfoodfacts/openfoodfacts-design сайтында және арнайы чат арнасында үйлестіреміз. Біз үнемі командалық кездесулер мен нақты тапсырмалар бойынша пікір алмасулар өткіземіз.
