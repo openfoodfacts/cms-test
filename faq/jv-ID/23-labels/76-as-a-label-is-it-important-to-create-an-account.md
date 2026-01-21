@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Minangka label, apa penting nggawe akun?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-label
+breadcrumbs: [ '/en-gb/', '/en-gb/23-label/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Minangka label, amarga sampeyan dudu produsen langsung produk kasebut, sampeyan ora perlu nggawe akun produsen.
