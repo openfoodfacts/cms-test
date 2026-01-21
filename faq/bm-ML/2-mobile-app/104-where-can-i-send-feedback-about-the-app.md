@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
-order: 104
+title: "Ne bɛ se ka hakilinaw ci min appli in kan ?"
+order: 104. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobile-application (application mobile) ye
+breadcrumbs: [ '/bamanankan-gb/ .', '/bamanankan-gb/2-mobile-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Aw bɛ se ka hakilinaw ci mobile@openfoodfacts.org kan
