@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Amin'ny maha-marika azy, zava-dehibe ve ny mamorona kaonty?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: Etikety 23
+breadcrumbs: [ '/en-gb/', '/en-gb/marika-23/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Amin'ny maha-marika anao, satria tsy ianao no mpamokatra mivantana ny vokatra, dia tsy mila mamorona kaontin'ny mpamokatra ianao.
