@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "ମୁଁ ଏକ ସୋର୍ସ ଷ୍ଟ୍ରିଙ୍ଗ ପରିବର୍ତ୍ତନ କରିବା ସମୟରେ ସମସ୍ତ ଭାଷା ଫାଇଲଗୁଡ଼ିକୁ ଅପଡେଟ୍ କରିବା ଉଚିତ କି?"
+order: ୫୯
 lang: ଇଂ-ଜିବି
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: ୧୬-ଯାନ୍ତ୍ରିକ-ପ୍ରଶ୍ନମୂଳକ-ପ୍ରଶ୍ନ
+breadcrumbs: [ '/en-gb/', '/en-gb/16-ଟେକ୍ନିକାଲ୍-ପ୍ରାକ୍/' ]
 ---
 
-No you don't. You just need to update the English one
+ନା, ତୁମେ କରିବ ନାହିଁ। ତୁମକୁ କେବଳ ଇଂରାଜୀକୁ ଅପଡେଟ୍ କରିବାକୁ ପଡିବ।
 
-- Create your PR
+- ଆପଣଙ୍କର ଜନସଂସ୍ଥା ସୃଷ୍ଟି କରନ୍ତୁ
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+ଏହା ମିଶ୍ରଣ ହେବା ପରେ, ଆମେ ମାନୁଆଲୀ crowdin-trigger କୁ ପୁନଃସ୍ଥାପନ କରିବୁ ଏବଂ GitHub Actions ଦ୍ୱାରା ଟ୍ରିଗର ହୋଇଥିବା Crowdin ଅନୁବାଦ ସିଷ୍ଟମ ଅନ୍ୟ ଭାଷା ପାଇଁ ବାକି କାମ କରିବ।
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub ବଟ୍ ତା'ପରେ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଏକ ନୂତନ PR ସୃଷ୍ଟି କରେ ଯାହାକୁ ଆମେ ତା'ପରେ ସମୀକ୍ଷା କରୁ।
