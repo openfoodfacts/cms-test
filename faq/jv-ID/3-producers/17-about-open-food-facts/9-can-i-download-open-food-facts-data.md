@@ -1,19 +1,19 @@
 ---
-title: "Can I download Open Food Facts data?"
+title: "Apa aku isa ndownload data Open Food Facts?"
 order: 9
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-babagan-fakta-panganan-sing-mbukak
+parent_category: 3-produser
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-produser/',
+    '/en-gb/3-produsen/17-babagan-fakta-panganan-sing-terbuka/'
   ]
 ---
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+Kowé isa ndownload kabèh data sing ana ing Open Food Facts. Ati-ati, iki mbutuhake papan disk sing akeh, komputer sing kuat yen sampeyan pengin nggunakake spreadsheet utawa kawruh babagan R utawa Python.
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+Sampeyan uga bisa ndownload sebagian data (contone merek sampeyan) liwat telusuran lanjut.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload pandhuan pangguna lan/utawa ndeleng tutorial video kita :-)
