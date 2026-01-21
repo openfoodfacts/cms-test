@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "ווי אזוי קען איך איבערזעצן די FAQ אויף מיין שפראך?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-פאַרבעסערן-אָפענע-עסן-פאַקטן-אין-מיין-שפּראַך-לאַנד
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/yi-gb/15-פארבעסערן-אפענע-עסן-פאקטן-אין-מיין-שפראך-לאנד/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ביטע פרעגט contact@openfoodfacts.org פאר רעדאַקטיר-צוטריט צו דער וויסן-באזע.
