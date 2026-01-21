@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Emi ni apẹẹrẹ. Báwo ni mo ṣe lè ran lọ́wọ́?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ìfilọ́lẹ̀-ìyọ̀ǹda-àtinúwá
+breadcrumbs: [ '/en-gb/', '/en-gb/13-itọsi-iyọọda/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+A n ṣe àkóso gbogbo àwọn iṣẹ́ tó jẹ mọ́ iṣẹ́ ọnà lórí https://github.com/openfoodfacts/openfoodfacts-design àti lórí ikanni ìfọ̀rọ̀wérọ̀ pàtó kan. A maa n se ipade egbe nigbagbogbo ati awon ero-inu lori awon ipenija kan pato.
