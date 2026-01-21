@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "مان موبائل ايپ کي بهتر بڻائڻ ۾ ڪيئن مدد ڪري سگهان ٿو؟"
 order: 90
 lang: اين جي بي
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-موبائيل-ايپ
+breadcrumbs: [ '/en-gb/', '/sd-gb/2-موبائل-ايپ/' ]
 ---
 
-How can I help with improving the mobile app ?
+مان موبائل ايپ کي بهتر بڻائڻ ۾ ڪيئن مدد ڪري سگهان ٿو؟
 
-You can do so on the Mobile app repository
+توهان موبائل ايپ ريپوزٽري تي اهو ڪري سگهو ٿا
