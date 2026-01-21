@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "А як щодо їжі без штрих-кодів?"
 order: 62
 lang: en-gb
 category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+breadcrumbs: [ '/uk-gb/', '/uk-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+«Відкриті факти про їжу» містять інформацію лише про упаковані продукти харчування. Щоб дізнатися середні значення цін на продукти харчування (наприклад, помідори чи банани) та інші харчові продукти, ви можете скористатися однією з офіційних національних баз даних про харчування.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Примітка: Наведений нижче список містить деякі з найважливіших національних баз даних про харчові продукти. Якщо ви вважаєте, що до списку слід включити якусь іншу базу даних, зв’яжіться з нами за адресою: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Список національних баз даних про продукти харчування
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Австралія – FSANZ – NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Бельгія - NUBEL - Дані про склад бельгійських продуктів харчування: https://www.internubel.be
+- Канада - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Чеська Республіка - База даних складу харчових продуктів у Національному інституті громадського здоров'я: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Данія - Данський банк даних про склад харчових продуктів: https://frida.fooddata.dk/?lang=en
+- Естонія - Естонська база даних про склад харчових продуктів: https://tka.nutridata.ee/en/
+- Фінляндія - Фінська база даних складу харчових продуктів - FINELI: https://fineli.fi/fineli/en/index
+- Франція - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Німеччина – Інтернет-база даних Souci-Fachmann-Kraut: https://www.sfk.online/#/home або офіційна база даних Німеччини: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Італія – Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Нідерланди - База даних складу харчових продуктів Нідерландів: https://www.rivm.nl/en/dutch-food-composition-database
+- Норвегія - Норвезька таблиця складу харчових продуктів 2006: https://www.matvaretabellen.no/?language=en
+- Польща - Таблиці складу харчових продуктів: http://www.izz.waw.pl/en/?lang=en
+- Іспанія - База даних складу харчових продуктів Іспанії - BEDCA: https://www.bedca.net/bdpub/index.php
+- Швейцарія - Швейцарська база даних про склад харчових продуктів: https://www.naehrwertdaten.ch/de/
+- Велика Британія – Інтегрований набір даних про склад харчових продуктів (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- США - USDA: https://ndb.nal.usda.gov/
