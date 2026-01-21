@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Postoji li način za uklanjanje prenesenih slika za proizvode?"
 order: 39
 lang: hr-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-volonterski-doprinos
+breadcrumbs: [ '/hr-gb/', '/en-gb/13-volonterski-doprinos/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Samo moderatori mogu uklanjati fotografije kako bi se izbjegao potencijalni vandalizam.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Samo zatražite na Slacku ili na contact@openfoodfacts.org da uklone duplikate ili bilo koje neprikladne fotografije (trebali biste pokušati navesti broj barkoda ili URL).
 
-We also have a new image report API if you're a programmer.
+Također imamo novi API za izvještavanje o slikama ako ste programer.
