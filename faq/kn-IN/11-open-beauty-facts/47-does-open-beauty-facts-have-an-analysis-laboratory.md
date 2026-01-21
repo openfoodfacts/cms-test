@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "ಓಪನ್ ಬ್ಯೂಟಿ ಫ್ಯಾಕ್ಟ್ಸ್‌ ವಿಶ್ಲೇಷಣಾ ಪ್ರಯೋಗಾಲಯವನ್ನು ಹೊಂದಿದೆಯೇ?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ಮುಕ್ತ-ಸೌಂದರ್ಯ-ಸಂಗತಿಗಳು
+breadcrumbs: [ '/en-gb/', '/kn-gb/11-ಮುಕ್ತ-ಸೌಂದರ್ಯ-ಸಂಗತಿಗಳು/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+ದುರದೃಷ್ಟವಶಾತ್ ಓಪನ್ ಬ್ಯೂಟಿ ಫ್ಯಾಕ್ಟ್ಸ್ ವಿಶ್ಲೇಷಣಾ ಪ್ರಯೋಗಾಲಯವನ್ನು ಹೊಂದಿಲ್ಲ: ನಾವು ಸ್ವಯಂಸೇವಕರ ಸಂಘವಾಗಿದ್ದು, ಸೌಂದರ್ಯವರ್ಧಕಗಳ ವಿಕಿಪೀಡಿಯಾವನ್ನು ರಚಿಸುವುದು ಅವರ ಗುರಿಯಾಗಿದೆ.
 
-That said, if you would like to help us provide more transparency for
+ಆದಾಗ್ಯೂ, ಹೆಚ್ಚಿನ ಪಾರದರ್ಶಕತೆಯನ್ನು ಒದಗಿಸಲು ನೀವು ನಮಗೆ ಸಹಾಯ ಮಾಡಲು ಬಯಸಿದರೆ
 
-consumers, you can use our iPhone, Android and
+ಗ್ರಾಹಕರೇ, ನೀವು ನಮ್ಮ ಐಫೋನ್, ಆಂಡ್ರಾಯ್ಡ್ ಮತ್ತು
 
-Windows Phone to add products:
+ಉತ್ಪನ್ನಗಳನ್ನು ಸೇರಿಸಲು ವಿಂಡೋಸ್ ಫೋನ್:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner ನಲ್ಲಿ ಲಭ್ಯವಿದೆ.
 
-And to exchange and discuss the possible uses of the project, you
+ಮತ್ತು ಯೋಜನೆಯ ಸಂಭಾವ್ಯ ಉಪಯೋಗಗಳನ್ನು ವಿನಿಮಯ ಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ಚರ್ಚಿಸಲು, ನೀವು
 
-can join the Facebook group of contributors:
+ಫೇಸ್‌ಬುಕ್ ಕೊಡುಗೆದಾರರ ಗುಂಪಿಗೆ ಸೇರಬಹುದು:
 
 https://www.facebook.com/groups/356858984359591/
