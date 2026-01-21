@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Ingabe Emaciniso Ebuhle Lavulekile anelabhorethri yekuhlatiya?"
 order: 47
 lang: si-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-emaciniso-ebuhle lavulekile
+breadcrumbs: [ '/si-gb/', '/si-gb/11-emaciniso-ebuhle lavulekile/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts ngeshwa ayinayo laboratory yekuhlatiya: siyinhlangano yemavolontiya umgomo wayo kudala iWikipedia yetimonyo.
 
-That said, if you would like to help us provide more transparency for
+Loko kushiwo, uma ungatsandza kusisita kutsi sinikete kucaca lokunyenti kwe
 
-consumers, you can use our iPhone, Android and
+bathengi, ungasebentisa i-iPhone yetfu, i-Android kanye
 
-Windows Phone to add products:
+I-Windows Phone yekwengeta imikhicito:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://kudlala.google.com/sitolo/tinhlelo tekusebenta/imininingwane?id=org.vula emaciniso ebuhle.sikena
 
-And to exchange and discuss the possible uses of the project, you
+Futsi kushintjana nekucocisana ngekusebentisa lokungenteka kwalephrojekthi, wena .
 
-can join the Facebook group of contributors:
+ungajoyina licembu le-Facebook lebantfu labafaka sandla:
 
-https://www.facebook.com/groups/356858984359591/
+Emacembu 356858984359591/
