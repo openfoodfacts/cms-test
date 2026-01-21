@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Hag un doare zo da lemel ar skeudennoù pellgarget evit ar produioù ?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-labour a-youl vat
+breadcrumbs: [ '/br-gb/', '/br-gb/13-skoazell-labour/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+N'eus nemet ar verourien a c'hell lemel al luc'hskeudennoù, evit mirout ouzh ar gwalldaolioù da c'hoarvezout.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Goulennit war Slack pe war contact@openfoodfacts.org lemel ho skouerennoù pe ho luc'hskeudennoù dizereat (klask a rit reiñ an niverenn barrennoù pe an URL dezho).
 
-We also have a new image report API if you're a programmer.
+Un API nevez evit danevellañ skeudennoù hon eus ivez ma'z oc'h ur programmer.
