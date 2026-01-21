@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "እንደ መለያ፣ መለያ መፍጠር አስፈላጊ ነው?"
 order: 76
 lang: en-gb
-category: 23-labels
+category: 23-መለያዎች
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+እንደ መለያ፣ የምርቶቹ ቀጥተኛ አምራች ስላልሆኑ፣ የአምራች መለያ መፍጠር አያስፈልግዎትም።
