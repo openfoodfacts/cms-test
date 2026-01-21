@@ -2,42 +2,10 @@ base_path: .
 preserve_hierarchy: 1
 files:
   - source: /faq/en-gb/**/*.md
-    translation: /faq/%two_letters_code%-%two_letters_code%/**/%original_file_name%
+    translation: /faq/%locale%/**/%original_file_name%
     languages_mapping:
       two_letters_code:
         de: de
         es: es
         fr: fr
         it: it
-  - source: /faq/en-gb/**/index.qmd
-    translation: /faq/%two_letters_code%-%two_letters_code%/**/%original_file_name%
-    languages_mapping:
-      two_letters_code:
-        de: de
-        es: es
-        fr: fr
-        it: it
-  - source: /index.qmd
-    translation: /index.%locale%.qmd
-    languages_mapping:
-      locale:
-        de: de-de
-        es: es-es
-        fr: fr-fr
-        it: it-it
-  - source: /notices.qmd
-    translation: /notices.%locale%.qmd
-    languages_mapping:
-      locale:
-        de: de-de
-        es: es-es
-        fr: fr-fr
-        it: it-it
-  - source: /_quarto.yml
-    translation: /_quarto.%locale%.yml
-    languages_mapping:
-      locale:
-        de: de-de
-        es: es-es
-        fr: fr-fr
-        it: it-it
