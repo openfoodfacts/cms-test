@@ -1,19 +1,19 @@
 ---
-title: "Can I download Open Food Facts data?"
+title: "ዳታ ክፉት መግቢ ሓቅታት ከውርድ ይኽእል ድየ?"
 order: 9
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት
+parent_category: 3-ኣፍረይቲ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/ትግርኛ-ግብ/',
+    '/en-gb/3-ኣፍረይቲ/',
+    '/en-gb/3-producers/17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት/'
   ]
 ---
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+ኩሉ እቲ ኣብ Open Food Facts ዘሎ ዳታ ከተውርድዎ ትኽእሉ ኢኹም። ተጠንቀቑ እዚ ብዙሕ ናይ ዲስክ ቦታ ይሓትት፣ ስፕረድሺት ክትጥቀም እንተደሊኻ ሓያል ኮምፒተር ወይ ብኻልእ መንገዲ ፍልጠት R ወይ Python ይሓትት።
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+ሳላ እቲ ምዕቡል ምድላይ ንኡስ ስብስብ ናይቲ ዳታ (ንኣብነት ምልክት ንግድኻ) እውን ከተውርድ ትኽእል ኢኻ።
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ ንዝያዳ ዝርዝር ሓበሬታ፡ መምርሒ ተጠቃሚና ከተውርዱን/ወይ ድማ ናይ ቪድዮ ትምህርትታትና ክትውከሱን ንዕድም :-)
