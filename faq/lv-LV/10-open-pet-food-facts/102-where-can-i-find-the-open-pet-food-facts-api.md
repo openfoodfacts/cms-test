@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Kur es varu atrast Open Pet Food Facts API?"
 order: 102
 lang: lv-lv
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 fakti par mājdzīvnieku barību
+breadcrumbs:
+  [
+    '/lv-lv/',
+    '/lv-lv/10-atvērti-fakti-par-mājdzīvnieku-barību/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API ir par 98% tāds pats kā Open Food Facts API, tāpēc, ja izmantojat Open Food Facts API dokumentāciju, jums vajadzētu iegūt diezgan skaidru priekšstatu par Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Ņemiet vērā, ka tādas funkcijas kā zināšanu paneļi, eko-rādītājs un uzturvielu rādītājs netiek atbalstītas (tēmas vai vecās koda bāzes dēļ).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
