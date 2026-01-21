@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "E lod degouezhioù e c'hall ar memes produ kaout talvoudoù boued disheñvel evit pep bro, penaos e vez meret an dra-se e Open Food Facts ?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-labour a-youl vat
+breadcrumbs: [ '/br-gb/', '/br-gb/13-skoazell-labour/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% eus an amzer e krou ar produerien kodennoù barrennoù disheñvel evit stummoù disheñvel eus o produioù. Ur skouer brudet eo an diforc'h etre an Nutella gall hag an Nutella alaman evit a sell ouzh an tevder, abalamour d'an diforc'h etre ar bara etre ar broioù. 2 formulenn disheñvel, 2 c'hod barrennoù disheñvel.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+C'hoarvezout a ra ar c'hrogad kodoù barrennoù avat war kodoù berroc'h (EAN-8) a vez adimplijet peurliesañ gant stalioù zo en Europa hag er Stadoù-Unanet. N'eo ket evit ober war-dro an emgannoù kodoù barrennoù-se ganeomp evit ar mare, met gallout a rafe bezañ graet dre gaout lec'hiadur hollek an implijer (raloc'h c'hoazh eo kaout emgannoù kodoù barrennoù en ur vro).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+A-hed an amzer e broudomp ar produerien da vont war-zu EAN-13 evit mirout ouzh an emgannoù-se war ar c'hod barrennoù.
