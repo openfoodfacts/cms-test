@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Je, ninaweza kutafuta jina sahihi la bidhaa kwa kutumia API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Matumizi-ya-data-ya-api-12
+breadcrumbs: [ '/sw-gb/', '/sw-gb/12-api-data-use-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Kwa bahati mbaya bado haiwezekani kutafuta kwa urahisi jina la bidhaa pekee na kwa usahihi kupitia API.
 
-Using a filter on category might help you make your search more precise though.
+Kutumia kichujio kwenye kategoria kunaweza kukusaidia kufanya utafutaji wako uwe sahihi zaidi.
