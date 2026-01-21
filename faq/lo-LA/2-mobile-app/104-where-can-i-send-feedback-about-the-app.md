@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "ຂ້ອຍສາມາດສົ່ງຄຳຕິຊົມກ່ຽວກັບແອັບໄດ້ຢູ່ໃສ?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ແອັບມືຖື
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ແອັບມືຖື/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+ທ່ານສາມາດສົ່ງຄຳຕິຊົມໄປທີ່ mobile@openfoodfacts.org
