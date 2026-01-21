@@ -2,8 +2,8 @@
 title: "ฉันจะเปลี่ยนชื่อผู้ใช้ได้อย่างไร?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
+category: 1-บัญชีข้อมูลอาหารเปิดของฉัน
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+น่าเสียดายที่ไม่สามารถทำได้ ถ้าคุณต้องการเปลี่ยนแปลงจริงๆ คุณต้องลบบัญชีของคุณและสร้างบัญชีใหม่
