@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Men leyblman, loyihada qanday ishtirok etishim mumkin?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23 ta yorliq
+breadcrumbs: [ '/en-gb/', '/en-gb/23-yorliqlar/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Yorliq sifatida eng muhim narsa biz bilan bog'lanish (producers@openfoodfacts.org) va yorlig'ingiz ko'rsatilgan mahsulotlar ro'yxatini bizga yuborishdir, shunda biz ularni tegishli mahsulot varaqlariga qo'shishimiz mumkin.
