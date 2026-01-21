@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "සතුන් සඳහා Nutri-Score නැත්තේ ඇයි?"
+order: 38 වන දින
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: සුරතල් සතුන් සඳහා ආහාර පිළිබඳ කරුණු 10ක්
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/10-open-pets-facts/ සුරතල් සතුන් පිළිබඳ ආහාර පිළිබඳ තොරතුරු'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+සෑම සතෙකුම වෙනස් ය (සර්පයෙකුට බළලෙකුට හෝ බල්ලෙකුට ඇති පෝෂණ අවශ්‍යතා සමාන නොවේ)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+බල්ලන් වැනි එකම වර්ගයේ සතුන් තුළ වුවද, පෝෂණ අවශ්‍යතා උදාසීන ජීවන රටාව, විය හැකි කැස්ට්‍රේෂන් හෝ රෝග අනුව වෙනස් වේ.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+එබැවින්, පර්යේෂකයින් දුසිම් ගනනක් සම්බන්ධ කර නොගෙන සහ අද දක්වා සිදු කර නොමැති විවිධ ඇල්ගොරිතම දුසිම් ගනනක් නිර්මාණය නොකර සත්ව ආහාර සඳහා ලකුණු ගණනය කිරීම සංකීර්ණ වේ.
