@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Aplikasine ora bisa mindhai"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasi-seluler
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasi-seluler/' ]
 ---
 
-This may be due to
+Iki bisa uga amarga
 
-- a network problem
+- masalah jaringan
 
-- a permissions problem
+- masalah ijin
 
-- a barcode problem
+- masalah kode batang
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Kirimi email liwat Profil >> Hubungi Kami >> Kirimi email.
 
-All relevant information should be attached to your request.
+Kabeh informasi sing relevan kudu dilampirake ing panjaluk sampeyan.
