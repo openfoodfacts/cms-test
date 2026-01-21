@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "জীৱ-জন্তুৰ বাবে নিউট্ৰি-স্ক’ৰ কিয় নাই?"
+order: ৩৮
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: ১০-মুকলি-পোহন জন্তুৰ খাদ্য-তথ্য
+breadcrumbs: [ '/as-gb/', '/as-gb/10-মুকলি-পোহন জন্তুৰ খাদ্য-তথ্য/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+প্ৰতিটো প্ৰাণী বেলেগ বেলেগ (সাপৰ পুষ্টিৰ প্ৰয়োজনীয়তা মেকুৰী বা কুকুৰৰ দৰে নহয়)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+আনকি কুকুৰৰ দৰে একে ধৰণৰ প্ৰাণীৰ ভিতৰতো বহি থকা জীৱনশৈলী, সম্ভাৱ্য ক্ষয় বা ৰোগ অনুসৰি পুষ্টিৰ প্ৰয়োজনীয়তা ভিন্ন হয়।
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+সেয়েহে কেইবা ডজন গৱেষকক জড়িত নকৰাকৈ আৰু কেইবা ডজন ভিন্ন এলগৰিদম সৃষ্টি নকৰাকৈ পশুৰ খাদ্যৰ বাবে স্ক’ৰ গণনা কৰাটো জটিল, যিটো আজিলৈকে কৰা হোৱা নাই।
