@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Kungani kute i-Nutri-Score yetilwane?"
 order: 38
 lang: si-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-emaciniso-ekudla-kwetilwane letifuywako
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/10-emaciniso-ekudla-kwetilwane letifuywako/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Silwane ngasinye sehlukile (inyoka ayinato tidzingo tekudla letifanako nekati noma inja)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Ngisho nangaphakatsi kweluhlobo lolufanako lwesilwane njengetinja, tidzingo tekudla tiyahluka ngekuya ngemphilo yendlela yekuphila yekuhlala phansi, kukhishwa kwesisu lokungenteka noma tifo.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Ngakoke kumatima kubala emaphuzu ekudla kwetilwane ngaphandle kwekufaka ekhatsi inqwaba yebacwaningi kanye nekwakha incumbi yema algorithms lehlukene, lokungakakwentiwa kuze kube ngunyalo.
