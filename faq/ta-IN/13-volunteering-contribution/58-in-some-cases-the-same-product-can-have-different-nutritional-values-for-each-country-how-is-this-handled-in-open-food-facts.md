@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
-order: 58
+title: "சில சந்தர்ப்பங்களில் ஒரே தயாரிப்பு ஒவ்வொரு நாட்டிற்கும் வெவ்வேறு ஊட்டச்சத்து மதிப்புகளைக் கொண்டிருக்கலாம், இது திறந்த உணவு உண்மைகளில் எவ்வாறு கையாளப்படுகிறது?"
+order: 58 (ஆங்கிலம்)
 lang: ta-gb (ஆங்கிலம்)
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-தன்னார்வ-பங்களிப்பு
+breadcrumbs: [ '/ta-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% நேரங்களில், உற்பத்தியாளர்கள் தங்கள் தயாரிப்புகளின் வெவ்வேறு பதிப்புகளுக்கு வெவ்வேறு பார்கோடுகளை உருவாக்குவார்கள். ஒரு பிரபலமான உதாரணம், நாடுகளுக்கு இடையே ரொட்டியில் உள்ள வேறுபாடு காரணமாக, தடிமன் அடிப்படையில் பிரெஞ்சு மற்றும் ஜெர்மன் நுடெல்லா இடையே உள்ள வேறுபாடு ஆகும். 2 வெவ்வேறு சூத்திரங்கள், 2 வெவ்வேறு பார்கோடுகள்.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+இருப்பினும், ஐரோப்பா மற்றும் அமெரிக்கா முழுவதும் சில கடைகளால் பொதுவாக மீண்டும் பயன்படுத்தப்படும் குறுகிய குறியீடுகளில் (EAN-8) பார்கோடு மோதல் ஏற்படலாம். அந்த பார்கோடு மோதல்களை நாங்கள் தற்போது கையாள்வதில்லை, ஆனால் பயனரின் பொதுவான இருப்பிடத்தைப் பெறுவதன் மூலம் அவ்வாறு செய்ய முடியும் (ஒரு நாட்டிற்குள் பார்கோடு மோதல்கள் இருப்பது இன்னும் அரிதானது).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+நீண்ட காலத்திற்கு, பார்கோடு மோதல்களைத் தவிர்க்க உற்பத்தியாளர்கள் EAN-13 க்கு மாற நாங்கள் ஊக்குவிக்கிறோம்.
