@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "ຂໍ້ມູນປະເພດໃດທີ່ຄວນແບ່ງປັນ?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-ກ່ຽວກັບ-ຄວາມຈິງ-ກ່ຽວກັບ-ອາຫານ-ທີ່ເປີດກວ້າງ
+parent_category: 3 ຜູ້ຜະລິດ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
+    '/en-gb/3-ຜູ້ຜະລິດ/',
     '/en-gb/3-producers/17-about-open-food-facts/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+ຍິນດີຕ້ອນຮັບຂໍ້ມູນໃດໆທີ່ທ່ານມີ, ຕັ້ງແຕ່ຂໍ້ມູນໂພຊະນາການຈົນເຖິງຂໍ້ມູນການຫຸ້ມຫໍ່.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+ສິ່ງນີ້ເຮັດໃຫ້ສາມາດສ້າງໄຟລ໌ທີ່ສົມບູນ, ຄິດໄລ່ຄະແນນທັງໝົດດ້ວຍຄວາມແມ່ນຍຳ ແລະ ໂດຍທົ່ວໄປແລ້ວມີຄວາມໂປ່ງໃສທີ່ຜູ້ບໍລິໂພກຊື່ນຊົມ.
 
-However we do recommend you prioritize the following fields:
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ພວກເຮົາຂໍແນະນຳໃຫ້ທ່ານຈັດລຳດັບຄວາມສຳຄັນຂອງຂົງເຂດຕໍ່ໄປນີ້:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- ໝວດໝູ່ຜະລິດຕະພັນ (ເຊັ່ນ: ເຄື່ອງດື່ມ, ເນີຍແຂງ, ນົມສົ້ມ, ແລະອື່ນໆ)
+- ຊື່ຂອງຜະລິດຕະພັນ
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- ແລະສ່ວນປະກອບຕ່າງໆ, ພາກສະໜາມນີ້ບໍ່ແມ່ນຂໍ້ບັງຄັບແຕ່ແນະນຳໃຫ້ໃຊ້ສຳລັບການນຳໃຊ້ທີ່ດີທີ່ສຸດ ແລະ ການກຳນົດຄະແນນ.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ ສຳລັບລາຍລະອຽດເພີ່ມເຕີມ, ພວກເຮົາຂໍເຊີນທ່ານດາວໂຫຼດຄູ່ມືຜູ້ໃຊ້ຂອງພວກເຮົາ ແລະ/ຫຼື ເບິ່ງວິດີໂອສອນຂອງພວກເຮົາ :-)
