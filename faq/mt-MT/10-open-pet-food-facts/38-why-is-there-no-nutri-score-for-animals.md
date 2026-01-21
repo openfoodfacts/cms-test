@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Għaliex m'hemm l-ebda Nutri-Score għall-annimali?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 fatti dwar ikel miftuħ għall-annimali domestiċi
+breadcrumbs:
+  [
+    '/mt-gb/',
+    '/mt-gb/10-fatti-dwar-ikel-miftuħ-għall-annimali- domestiċi/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Kull annimal huwa differenti (serp m'għandux l-istess bżonnijiet nutrizzjonali bħal qattus jew kelb)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Anke fl-istess tip ta' annimal bħall-klieb, il-bżonnijiet nutrittivi jvarjaw skont l-istil ta' ħajja sedentarju, kastrazzjoni possibbli jew mard.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Għalhekk huwa kkumplikat li tikkalkula punteġġ għall-għalf tal-annimali mingħajr ma tinvolvi għexieren ta’ riċerkaturi u toħloq għexieren ta’ algoritmi differenti, li sal-lum għadu ma sarx.
