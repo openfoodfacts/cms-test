@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Ninaweza kupata wapi API ya Ukweli wa Chakula cha Wanyama Wanyama Huria?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Mambo 10-yanayohusu-chakula-cha-wanyama-wanyama-wapenzi-wazi
+breadcrumbs:
+  [
+    '/sw-gb/',
+    '/sw-gb/10-ukweli-wa-chakula-cha-kipenzi-kilicho wazi/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+API ya Ukweli wa Chakula cha Wanyama Wanyama ni sawa na 98% na API ya Ukweli wa Chakula cha Wanyama Wanyama kwa hivyo ukitumia hati ya API ya Ukweli wa Chakula cha Wanyama Wanyama Wanyama Unapaswa kuwa na mtazamo wazi wa API ya Ukweli wa Chakula cha Wanyama Wanyama Wanyama.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Kumbuka kwamba vipengele kama vile Paneli za Maarifa, Eco-Score, Nutri-Score havitumiki (ama kutokana na mada, au kwa msingi wa msimbo wa zamani).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
