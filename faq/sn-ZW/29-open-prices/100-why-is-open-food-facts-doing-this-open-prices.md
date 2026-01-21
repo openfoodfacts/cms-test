@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Sei Open Food Facts iri kuita izvi (Mitengo Yakavhurika)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: Mitengo yakavhurika makumi maviri nemapfumbamwe
+breadcrumbs: [ '/sn-gb/', '/en-gb/29-yakavhurika-mitengo/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Ruzivo rwemitengo rwakakosha zvikuru kuti tinzwisise masisitimu ezvekudya. Chinhu chakakosha pakunzwisisa mutengo wechikafu uye kukurudzira kudya zvine hutano. Ruzivo rwekutanga rwemitengo inzira yekuita kuti zvive nyore kune vaongorori, vatori venhau, uye vagari kuti vanzwisise zviri nani kuti mitengo yezvikafu inosiyana sei nenzvimbo uye nenguva.
