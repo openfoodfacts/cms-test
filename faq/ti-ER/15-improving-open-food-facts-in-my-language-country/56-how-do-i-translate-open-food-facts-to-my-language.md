@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Open Food Facts ከመይ ጌረ ናብ ቋንቋይ ይትርጉሞ ?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-ምምሕያሽ-ክፉት-መግቢ-ሓቅታት-ኣብ-ቋንቋይ-ሃገር
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ትግርኛ-ግብ/',
+    '/ti-gb/15-ምምሕያሽ-ክፉት-መግቢ-ሓቅታት-ኣብ-ቋንቋይ-ሃገር/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+ናብ https://wiki.openfoodfacts.org/Country_Support ኣቕንዑ
