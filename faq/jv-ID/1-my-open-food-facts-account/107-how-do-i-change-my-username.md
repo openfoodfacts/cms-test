@@ -2,8 +2,12 @@
 title: "Kepiye carane ngganti jeneng panganggoku?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-akun-fakta-panganan-sing-mbukak-ku
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-akun-fakta-panganan-ku-sing-mbukak/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Sayange, iku ora bisa. Yen pancen pengin owah, sampeyan kudu mbusak akun lan gawe akun anyar.
