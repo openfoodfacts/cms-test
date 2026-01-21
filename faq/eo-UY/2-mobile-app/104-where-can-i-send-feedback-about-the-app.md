@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Kien mi povas sendi rimarkojn pri la aplikaĵo?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-poŝtelefona aplikaĵo
+breadcrumbs: [ '/en-gb/', '/eo-gb/2-poŝtelefona-aplikaĵo/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Vi povas sendi rimarkojn al mobile@openfoodfacts.org
