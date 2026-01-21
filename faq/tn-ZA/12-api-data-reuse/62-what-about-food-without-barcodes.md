@@ -1,31 +1,35 @@
 ---
-title: "What about food without barcodes ?"
+title: "Go tweng ka dijo tse di senang dikhoutu tsa dibara ?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Tiriso-gape ya tshedimosetso ya 12-api
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tsn-gb/tiriso-gape-ya-tshedimosetso ya api/'
+  ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts e na le tshedimosetso fela ka ga dijo tse di phuthetsweng. Bakeng sa boleng bo mahareng ba dihlahiswa (mohlala, ditamati kapa dipanana) le dihlahiswa tse ding tsa dijo, o ka sebedisa e nngwe ya dipolokelotshedimosetso tsa semmuso tsa naha tsa phepo boemong ba yona.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Ela tlhoko: Lenaane le le fa tlase le na le dingwe tsa dipolokelotshedimosetso tsa dijo tsa bosetšhaba tse di botlhokwa thata. Fa o akanya gore polokelotshedimosetso e nngwe e tshwanetse go akarediwa mo lenaaneng, tsweetswee ikgolaganye le rona mo go: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Lenaane la Dipolokelotshedimosetso tsa Bosetšhaba tsa Dijo
 
 - Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Belgium - NUBEL - Tshedimosetso ya Popego ya Dijo tsa Belgium:
+- Canada - FCEN: dijo tse di nang le dikotla
+- Czech Republic - Letlole la Tshedimosetso la Dijo kwa Setheong sa Bosetšhaba sa Pholo ya Setšhaba: http://www.
+- Denmark - Banka ya Tshedimosetso ya Dijo tsa Denmark:
+- Estonia - Polokelotshedimosetso ya Dijo tsa Estonia:
+- Finland - Polokelotshedimosetso ya Dijo tsa Finland - FINELI:
+- Fora - CIQUAL: Lenaneo%20cle lekana
+- Jeremane - Polokelotshedimosetso ya Inthanete ya Souci-Fachmann-Kraut: https://www.sfk.online/#/home kgotsa Polokelotshedimosetso ya semmuso ya Jeremane:
+- Italy - Banka ya Tlhamo ya Dijo tsa CREA: https://www.crea.gov.it/web/dijo-le-kotla/banche-ya-tshedimosetso
+- Netherlands - Polokelotshedimosetso ya Sebopego sa Dijo sa Se-Dutch:
+- Norway - Lenaneo la Popego ya Dijo tsa Norway la 2006: https://www.
+- Poland - Ditafole tsa Popego ya Dijo: http://www.izz.waw.pl/tn/?puo=tn
+- Spain - Polokelotshedimosetso ya Dijo tsa Sepanishe - BEDCA:
+- Switzerland - Polokelotshedimosetso ya Dijo tsa Switzerland:
+- UK - Sebopego sa sete ya tshedimosetso e e kopantsweng ya dijo (CoFID): https://www.gov.uk/puso/dikgatiso/sebopego-sa-sete-ya-tshedimosetso-e e kopantsweng ya dijo
+- USA - USDA:
