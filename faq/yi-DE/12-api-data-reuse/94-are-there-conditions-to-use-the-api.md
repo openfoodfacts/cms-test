@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "זענען דא באדינגונגען צו ניצן די API?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+אלע דאקומענטאציע וועגן API באנוץ קען מען געפינען אויף דער API דאקומענטאציע בלאט, אבער דא איז א שנעלע צוזאמענפאסונג:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- די אָפן פוד פאַקס דאַטאַבייס איז בנימצא ווי אָפן דאַטן אונטער די אָפן דאַטאַבייס ליסענסע (ODbL), זען https://world.openfoodfacts.org/terms-of-use פֿאַר די לעגאַלע פרטים. די צוויי באדינגונגען זענען צושרייבונג און טיילן-גלייך. אויב איר קאָמבינירט דאַטן פֿון Open Food Facts מיט אַנדערע דאַטאַבייסעס, דאַן פֿאָדערט די ODbL אַז די רעזולטאַטן דאַטאַבייס מוז אויך אַרויסגעגעבן ווערן ווי אָפֿענע דאַטן. דאָס מיינט אויך אַז איר קענט קאָמבינירן די דאַטן נאָר מיט קוועלער וואָס וואָלטן דערלויבט אַזאַ ווידער-פאַרשפּרייטונג.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- איר מוזט שטענדיק נוצן אַ מנהג-געמאַכטן באַניצער-אַגענט ווען איר דורכפירט API רופן צו ידענטיפיצירן אייער אַפּ.
 
-- Rate-limits are enforced for each API endpoint.
+- ראַטע-לימאַץ ווערן דורכגעפירט פֿאַר יעדן API ענדפּוינט.
