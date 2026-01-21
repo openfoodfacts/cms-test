@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "为什么没有针对动物的营养评分体系？"
 order: 38
 lang: 英语-英国
-category: 10-open-pet-food-facts
+category: 10个关于宠物食品的公开信息
 breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+每种动物的情况都不一样（蛇的营养需求与猫或狗不同）。
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+即使是同一种动物，例如狗，其营养需求也会因久坐不动的生活方式、是否阉割或疾病而有所不同。
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+因此，要计算动物饲料的评分，需要数十名研究人员的参与和数十种不同算法的创建，而这至今还没有人做到。
