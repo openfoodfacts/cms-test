@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "ໃນຖານະເປັນປ້າຍກຳກັບ, ມັນສຳຄັນບໍທີ່ຈະຕ້ອງສ້າງບັນຊີ?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ປ້າຍກຳກັບ
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ປ້າຍກຳກັບ/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ໃນຖານະເປັນຄ້າຍເພງ, ຍ້ອນວ່າທ່ານບໍ່ແມ່ນຜູ້ຜະລິດຜະລິດຕະພັນໂດຍກົງ, ທ່ານຈຶ່ງບໍ່ຈຳເປັນຕ້ອງສ້າງບັນຊີຜູ້ຜະລິດ.
