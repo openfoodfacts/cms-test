@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "¿Llapa simi willañiqikunatachu musuqchanay tiyan, pukyuta kaskaqta tikraspa?"
+order: 59. 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-técnico-faq
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/16-técnico-fáq/ .' ]
 ---
 
-No you don't. You just need to update the English one
+Manam mana. Inglés simipi kaqllatam musuqyachinayki
 
-- Create your PR
+- PR nisqaykitaqa paqarichiy
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Huk kuti hukllachasqa kaqtin, crowdin-trigger makiwan musuqmanta sayachisaqku chaymanta Crowdin tikray sistema GitHub Ruwaykunawan llamk'achisqa puchuqninta wak simikunapaq ruwanqa.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub bot chaymanta huk musuq PR kikinmanta ruwan chaymanta chaymanta qhawayku.
