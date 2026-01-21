@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "ମୁଁ ଜଣେ ଡିଜାଇନର୍। ମୁଁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି ?"
+order: ୪୯
 lang: ଇଂ-ଜିବି
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: ୧୩-ସ୍ୱେଚ୍ଛାସେବା-ଅବଦାନ
+breadcrumbs: [ '/en-gb/', '/ en-gb / 13-ସ୍ୱେଚ୍ଛାସେବୀ-ଅବଦାନ /' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+ଆମେ https://github.com/openfoodfacts/openfoodfacts-design ଏବଂ ଏକ ଉତ୍ସର୍ଗୀକୃତ ଚାଟ୍ ଚ୍ୟାନେଲରେ ସମସ୍ତ ଡିଜାଇନ୍ ସମ୍ବନ୍ଧୀୟ କାର୍ଯ୍ୟକଳାପର ସମନ୍ୱୟ କରୁ। ଆମେ ନିୟମିତ ଭାବରେ ଦଳ ବୈଠକ ଏବଂ ନିର୍ଦ୍ଦିଷ୍ଟ ଚ୍ୟାଲେଞ୍ଜ ଉପରେ ବ୍ରେନ୍‌ଜାମ୍ କରୁ।
