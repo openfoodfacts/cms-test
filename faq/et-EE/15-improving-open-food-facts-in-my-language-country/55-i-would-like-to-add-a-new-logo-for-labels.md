@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Sooviksin siltidele uue logo lisada"
 order: 55
 lang: et-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-parandan-avatud-toidufakti-minu-keeles-riigis
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/et-ee/',
+    '/et-ee/15-parandan-avatud-toidu-faktid-minu-keeles/'
   ]
 ---
 
-Here is the process:
+Siin on protsess:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- leidke sildi taksonoomiast sildi kanooniline nimi (see on esimene kirje siltide sünonüümide loendis, nt et:100% köögivili)
+- Hankige hea kvaliteediga logo: vältige kaastöölise foto kasutamist, mis antud juhul ei sobi; enamikul kaubamärkidel on ametlike veebisaitide kvaliteetsed logod, mõnikord vektorvormingus (meie jaoks isegi parem); seni, kuni me kasutame logo toote pakendil oleva
+  sildi olemasolu objektiivseks teavitamiseks, pole vaja luba küsida.
+- Nimeta fail selliselt: sildi-nimi.[laius]x90.png, kus laius on logo laius 90 piksli kõrgusel. Failinimed peavad olema rõhumärkideta, väiketähtedega ja tühikute asemel kasutama "-".
+- seejärel lisage logo kataloogi, mis vastab selle kanoonilisele nimele. Kui kanooniline nimi on en:something, siis peavad need asuma /en/-is. Logode juurkataloog on https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
