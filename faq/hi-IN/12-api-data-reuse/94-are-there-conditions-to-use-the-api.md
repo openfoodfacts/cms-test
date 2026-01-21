@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "क्या एपीआई का उपयोग करने के लिए कोई शर्तें हैं?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-एपीआई-डेटा-पुन:उपयोग
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+एपीआई के उपयोग से संबंधित सभी दस्तावेज़ एपीआई दस्तावेज़ीकरण पृष्ठ पर उपलब्ध हैं, लेकिन यहाँ उनका संक्षिप्त सारांश दिया गया है:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- ओपन फूड फैक्ट्स डेटाबेस ओपन डेटाबेस लाइसेंस (ODbL) के तहत ओपन डेटा के रूप में उपलब्ध है; कानूनी विवरण के लिए https://world.openfoodfacts.org/terms-of-use देखें। ये दो शर्तें हैं श्रेय देना और समान हिस्सेदारी। यदि आप ओपन फूड फैक्ट्स के डेटा को अन्य डेटाबेस के डेटा के साथ मिलाते हैं, तो ODbL के अनुसार परिणामी डेटाबेस को भी ओपन डेटा के रूप में जारी किया जाना आवश्यक है। इसका यह भी अर्थ है कि आप डेटा को केवल उन्हीं स्रोतों के साथ संयोजित कर सकते हैं जो इस तरह के पुनर्वितरण की अनुमति देते हैं।
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- API कॉल करते समय आपको हमेशा अपने ऐप की पहचान करने के लिए एक कस्टम यूजर-एजेंट का उपयोग करना चाहिए।
 
-- Rate-limits are enforced for each API endpoint.
+- प्रत्येक एपीआई एंडपॉइंट के लिए दर सीमा लागू की जाती है।
