@@ -1,5 +1,5 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "मैं लेबल के लिए एक नया लोगो जोड़ना चाहता/चाहती हूँ।"
 order: 55
 lang: en-gb
 category: 15-improving-open-food-facts-in-my-language-country
@@ -10,10 +10,10 @@ breadcrumbs:
   ]
 ---
 
-Here is the process:
+प्रक्रिया इस प्रकार है:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- लेबल के वर्गीकरण में लेबल का प्रामाणिक नाम ढूंढें (यह लेबल के पर्यायवाची शब्दों की सूची में पहला आइटम है, उदाहरण के लिए en:100% vegetable)।
+- लोगो को अच्छी गुणवत्ता में प्राप्त करें: योगदानकर्ता की ऐसी तस्वीरों का उपयोग करने से बचें जो इस मामले के लिए उपयुक्त नहीं हैं; अधिकांश लेबल की आधिकारिक वेबसाइटों पर उच्च गुणवत्ता वाले लोगो होते हैं, कभी-कभी वेक्टर प्रारूप में (हमारे लिए और भी बेहतर); जब तक हम किसी उत्पाद की पैकेजिंग पर
+  लेबल की उपस्थिति के बारे में वस्तुनिष्ठ रूप से सूचित करने के लिए लोगो का उपयोग करते हैं, तब तक अनुमति लेने की कोई आवश्यकता नहीं है।
+- फ़ाइल का नाम इस प्रकार रखें: name-of-the-label.[width]x90.png, जहाँ width लोगो की चौड़ाई है जब उसकी ऊँचाई 90 पिक्सेल होती है। फ़ाइलनामों में उच्चारण चिह्न नहीं होने चाहिए, वे छोटे अक्षरों में होने चाहिए और रिक्त स्थानों के स्थान पर "-" का प्रयोग किया जाना चाहिए।
+- फिर लोगो को उसके आधिकारिक नाम से संबंधित निर्देशिका में जोड़ें। यदि मानक नाम en:something है, तो उन्हें /en/ में होना चाहिए। लोगो के लिए रूट डायरेक्टरी https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang है
