@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Ninawezaje kupata taswira za vyombo vya habari kuhusu Ukweli wa Chakula Huria?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: Maombi 14 ya vyombo vya habari
+breadcrumbs: [ '/sw-gb/', '/sw-gb/14-press-media-requests/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Tafadhali wasiliana na: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
