@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "¿Imaynatataq datos históricos nisqaman yaykuyman?"
+order: 105. 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-datos-kutichiy
+breadcrumbs: [ '/quchqa-gb/ .', '/qucha-gb/12-api-data-kutichiy/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Kunanqa, mana ñawpaqmanta willaykunata wischuyta (JSONL, MongoDB, CSV) quyku.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Ichaqa, sapalla rurukunapaq, atikunman yaykuyta ñawpaq layakuna ruru willaypa API kaqwan utaq ruru p'anqapi musuqyachiykunata llamk'achispa.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Sapa kuti huk ruru musuqchasqa kaptin, musuq musuqchasqa (1 kaqmanta qallarispa yapasqa yupay) ruwasqa.
 
-For example, to get the first revision (=first product version) of this product, use
+Ejemplopaq, kay rurumanta ñawpaq musuqyachiyta (=ñawpaq ruru laya) tarinaykipaq, llamk'achiy
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1 nisqa yachay wasi.
 
-Similarly, the rev parameter can be used with the API:
+Chaynallataqmi, rev parámetro nisqatapas API nisqawan llamk'achiy atikunman:
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+https://qullqi.kichasqa mikhuykuna.org/api/v2/producto/7623186089763?rev=1
