@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Waxaan jeclaan lahaa inaan ku daro astaan cusub oo loogu talagalay calaamadaha"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-xaqiiqooyin-cunto-furan oo lagu hagaajinayo luqaddayda
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-hagaajinta-xaqiiqooyinka-cuntada-furan ee luqaddayda/'
   ]
 ---
 
-Here is the process:
+Waa kan habka:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- Ka hel magaca qaanuunka ee calaamadda ee ku jira liiska calaamadaha (waa shayga ugu horreeya ee ku jira liiska isku-dhafka calaamadaha, tusaale ahaan: 100% khudaar)
+- Hel astaanta tayo wanaagsan: iska ilaali inaad isticmaasho sawirka ka-qaybgalaha oo aan ku habboonayn kiiskan; calaamadaha badankood waxay leeyihiin astaamo rasmi ah oo shabakadeed oo tayo sare leh, mararka qaarkoodna qaab vector ah (xitaa annaga ayaa ka fiican); ilaa inta aan isticmaalno astaan si aan si macquul ah ugu sheegno joogitaanka calaamadda
+  ee ku taal baakadka badeecada, looma baahna inaad weydiisato ogolaansho.
+- Magaca faylka sidan u qor: name-of-the-label.[width]x90.png halkaas oo ballaca uu yahay ballaca astaanta marka uu dhererkiisu yahay 90 pixels. Magacyada faylasha waa in aan lahjad lahayn, xarfo yaryar oo la isticmaalo "-" halkii laga isticmaali lahaa meelo bannaan.
+- ka dibna ku dar astaanta ku jirta buugga oo u dhiganta magaciisa caadiga ah. Haddii magaca qaanuunka ah uu yahay en:wax, markaas waa inay ku jiraan /en/. Tusmada xididka ee astaamaha waa https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
