@@ -2,8 +2,12 @@
 title: "Sut ydw i'n newid fy enw defnyddiwr?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-fy-nghyfrif-ffeithiau-bwyd-agored
+breadcrumbs:
+  [
+    '/cy-gb/',
+    '/cy-gb/1-fy-nghyfrif-ffeithiau-bwyd-agored/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Yn anffodus, nid yw'n bosibl. Os ydych chi wir eisiau newid, mae'n rhaid i chi ddileu eich cyfrif a chreu un newydd.
