@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "May mga kundisyon ba para magamit ang API?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-muling-paggamit-ng-datos
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-muling paggamit/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Ang lahat ng dokumentasyon tungkol sa paggamit ng API ay matatagpuan sa pahina ng dokumentasyon ng API, ngunit narito ang isang mabilis na buod:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Ang database ng Open Food Facts ay makukuha bilang bukas na datos sa ilalim ng Open Database License (ODbL), tingnan ang https://world.openfoodfacts.org/terms-of-use para sa mga legal na detalye. Ang dalawang kundisyon ay ang pagpapatungkol at pagbabahagi nang magkatulad. Kung pagsasamahin mo ang datos mula sa Open Food Facts sa iba pang mga database, hinihiling ng ODbL na ang resultang database ay dapat ding ilabas bilang open data. Nangangahulugan din ito na maaari mo lamang pagsamahin ang data sa mga mapagkukunan na magpapahintulot sa naturang muling pamamahagi.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Dapat kang palaging gumamit ng custom na User-Agent kapag nagsasagawa ng mga API call para matukoy ang iyong app.
 
-- Rate-limits are enforced for each API endpoint.
+- May mga limitasyon sa rate na ipinapatupad para sa bawat API endpoint.
