@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "ຂ້ອຍຢາກສະໜັບສະໜູນ Open Products Facts. ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້ແດ່?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
+category: ຂໍ້ເທັດຈິງກ່ຽວກັບຜະລິດຕະພັນເປີດ 28 ຢ່າງ
 breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+ກະລຸນາອ່ານໜ້າວິກິຂອງພວກເຮົາ, ພວກເຮົາໄດ້ລະບຸວິທີການຕ່າງໆໃນການເຂົ້າຮ່ວມ: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+ເພື່ອສະໜັບສະໜູນຂໍ້ເທັດຈິງກ່ຽວກັບຜະລິດຕະພັນເປີດ, ທ່ານສາມາດພິຈາລະນາຕົວເລືອກຕໍ່ໄປນີ້, ເຊິ່ງແຕ່ລະອັນຖືກອອກແບບມາເພື່ອຕອບສະໜອງປະເພດການປະກອບສ່ວນທີ່ແຕກຕ່າງກັນ:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- ຜູ້ສະໜັບສະໜູນດ້ານການກຸສົນ/ລັດ ສຳລັບຂໍ້ເທັດຈິງກ່ຽວກັບຜະລິດຕະພັນເປີດ:
+  ການປະກອບສ່ວນດ້ານການກຸສົນແມ່ນມີຄວາມສຳຄັນຫຼາຍໃນການບັນລຸວິໄສທັດຂອງແພລດຟອມຂໍ້ມູນວົງມົນທີ່ສົມບູນແບບ, ການໃຫ້ຄະແນນຜະລິດຕະພັນ, ແລະ ການລວມຕົວຂອງວິທີແກ້ໄຂວົງມົນ, ໃນຫຼາຍກວ່າ 20000+ ປະເພດ, ເຊິ່ງເປັນເປົ້າໝາຍຫຼັກຂອງຂໍ້ເທັດຈິງກ່ຽວກັບຜະລິດຕະພັນເປີດ. ອົງປະກອບທີ່ສຳຄັນຫຼາຍຢ່າງຂອງວິໄສທັດນີ້ຍັງບໍ່ທັນໄດ້ຮັບການສະໜັບສະໜູນທາງດ້ານການເງິນ, ແລະ ການສະໜັບສະໜູນທາງດ້ານການເງິນຂອງທ່ານສາມາດສ້າງຜົນກະທົບທີ່ສຳຄັນ. ການບໍລິຈາກຂອງທ່ານສາມາດຊ່ວຍສະໜັບສະໜູນການພັດທະນາ ແລະ ພື້ນຖານໂຄງລ່າງທີ່ສຳຄັນໄດ້. ກະລຸນາຕິດຕໍ່ພວກເຮົາທີ່ contact@openfoodfacts.org ເພື່ອປະກອບສ່ວນທາງດ້ານການເງິນ
+- ຜູ້ປະກອບສ່ວນຂໍ້ມູນໂດຍໃຊ້ແອັບ Open Products Facts:
+  ການປະກອບສ່ວນຂໍ້ມູນແມ່ນມີຄວາມສຳຄັນຫຼາຍຕໍ່ການຂະຫຍາຍ Open Products Facts. ໂດຍການໃຊ້ແອັບ Android ເພື່ອເພີ່ມຂໍ້ມູນຜະລິດຕະພັນໃໝ່, ອັບເດດລາຍການທີ່ມີຢູ່ແລ້ວ, ຫຼື ກວດສອບຂໍ້ມູນ, ທ່ານຈະຊ່ວຍຂະຫຍາຍ ແລະ ປັບປຸງຖານຂໍ້ມູນ. ຄວາມພະຍາຍາມຮ່ວມກັນນີ້ປະກອບສ່ວນເຂົ້າໃນການສ້າງຊັບພະຍາກອນທີ່ເຂັ້ມແຂງ ແລະ ໜ້າເຊື່ອຖືສຳລັບທຸກຄົນ.
+- ຜູ້ປະກອບສ່ວນດ້ານວິຊາການຕໍ່ Open Products Facts:
+  ຖ້າທ່ານມີທັກສະດ້ານວິຊາການໃນຂົງເຂດຕ່າງໆເຊັ່ນ: ການຂຽນໂປຣແກຣມ, ການວິເຄາະຂໍ້ມູນ, ຫຼື ການອອກແບບປະສົບການຂອງຜູ້ໃຊ້, ຄວາມຊ່ຽວຊານຂອງທ່ານສາມາດເປັນປະໂຫຍດຢ່າງຫຼວງຫຼາຍຕໍ່ Open Products Facts. ການມີສ່ວນຮ່ວມໃນການພັດທະນາແອັບ, ການປັບປຸງໜ້າທີ່ຂອງມັນ, ຫຼື ການປັບປຸງການໂຕ້ຕອບຜູ້ໃຊ້ ແມ່ນການປະກອບສ່ວນທີ່ມີຄຸນຄ່າ. ເພື່ອເຂົ້າຮ່ວມ, ເຂົ້າຮ່ວມຊ່ອງ #openproductsfacts Slack, ບ່ອນທີ່ຊຸມຊົນ Open Products Facts ຮ່ວມມືກັນ. ທ່ານສາມາດຊອກຫາລິ້ງໄປຫາພື້ນທີ່ເຮັດວຽກ Slack ນີ້ໄດ້ໃນເວັບໄຊທ໌ Open Food Facts.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+ການປະກອບສ່ວນແຕ່ລະປະເພດແມ່ນມີຄວາມສຳຄັນຕໍ່ການເຕີບໂຕ ແລະ ຄວາມສຳເລັດຂອງ Open Products Facts, ຊ່ວຍສ້າງເວທີທີ່ມີຄວາມຍືນຍົງ ແລະ ໃຫ້ຂໍ້ມູນຫຼາຍຂຶ້ນສຳລັບທຸກຄົນ.
