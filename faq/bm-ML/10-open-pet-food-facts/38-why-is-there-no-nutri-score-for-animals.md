@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "Mun na Nutri-Score tɛ baganw na?"
+order: 38. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-da wulilen-pet-dumuni-tiɲɛw
+breadcrumbs:
+  [
+    '/bamanankan-gb/ .',
+    '/en-gb/10-da wuli-sogo-dumuni-tiɲɛw/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Bagan kelen-kelen bɛɛ tɛ kelen ye (sa tɛ balo sɔrɔ ni wulu walima wulu ye) .
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Hali bagan suguya kelen kɔnɔ i n’a fɔ wuluw, balodɛsɛ bɛ danfara ka kɛɲɛ ni sigiyɔrɔma ɲɛnamaya ye, a bɛ se ka kɛ ka bɔ a la walima banaw.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+O la, a ka gɛlɛn ka jatebɔ kɛ baganw balo la k’a sɔrɔ ɲininikɛla tan ni caman ma sen don a la ani ka algorisimu tan ni caman dilan, o min ma kɛ fo ka na se bi ma.
