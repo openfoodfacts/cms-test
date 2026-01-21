@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Мен аккаунтумду жок кылгым келет"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-менин-ачык-тамак-аш-факттары-аккаунтум
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-менин-ачык-тамак-аш-факттары-аккаунтум/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Эми аккаунтту жок кылуу түздөн-түз сиздин каалоолоруңузда болот.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ сайтына киргенден кийин, жогорку оң бурчтагы колдонуучунун атын чыкылдатып, "Аккаунттун параметрлери" бөлүмүн тандаңыз. Ал сиздин каалоолоруңуздун барагын ачат. Барактын ылдый жагына өтүп, "колдонуучуну жок кылуу" аракетин колдонуңуз.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Эгер сиз кире албай жатсаңыз (же сырсөзүңүздү калыбына келтире албай жатсаңыз), аккаунтуңузду каттоо үчүн колдонгон электрондук почта дарегиңизди колдонуп, dpo менен openfoodfacts.org дареги боюнча байланышыңыз.
