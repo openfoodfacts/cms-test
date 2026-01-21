@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Hag ur c'hondisionoù zo evit implijout an API ?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-roadennoù-adimplij
+breadcrumbs: [ '/br-gb/', '/br-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+An holl deuliadoù diwar-benn implij an API a c'haller kavout war ar bajenn teuliadoù API, met setu un diverrañ berr :
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- An diaz roadennoù Open Food Facts a c'haller kaout evel roadennoù digor dindan an Open Database License (ODbL), gwelit https://world.openfoodfacts.org/terms-of-use evit ar munudoù lezennel. An div c'hondision a zo an deskrivadur hag ar rannañ heñvel. Ma vez kendeuzet roadennoù eus Open Food Facts gant diaz roadennoù all, neuze e c'houlenn an ODbL e rankfe an diaz roadennoù a zeu eus se bezañ embannet evel roadennoù digor ivez. Kement-se a dalvez ivez e c'hallit kendeuziñ ar roadennoù gant mammennoù a aotrefe an adskignañ-se hepken.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Ret eo deoc'h implijout un implijer personelaet bepred pa vez graet galvoù API evit anavezout hoc'h arload.
 
-- Rate-limits are enforced for each API endpoint.
+- Lakaet e vez bevennoù ar feur da dalvezout evit pep poent dibenn API.
