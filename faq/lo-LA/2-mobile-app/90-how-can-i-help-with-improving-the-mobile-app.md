@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "ຂ້ອຍສາມາດຊ່ວຍປັບປຸງແອັບຯມືຖືໄດ້ແນວໃດ?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ແອັບມືຖື
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ແອັບມືຖື/' ]
 ---
 
-How can I help with improving the mobile app ?
+ຂ້ອຍສາມາດຊ່ວຍປັບປຸງແອັບຯມືຖືໄດ້ແນວໃດ?
 
-You can do so on the Mobile app repository
+ທ່ານສາມາດເຮັດໄດ້ໃນບ່ອນເກັບມ້ຽນແອັບຯມືຖື
