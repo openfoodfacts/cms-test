@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "ስለ መተግበሪያው ግብረመልስ የት መላክ እችላለሁ?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ባለ 2-ሞባይል-መተግበሪያ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ሞባይል-መተግበሪያ/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+አስተያየትዎን ወደ mobile@openfoodfacts.org መላክ ይችላሉ።
