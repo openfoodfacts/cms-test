@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Yagene Open Food Facts nindakake iki (Rega Terbuka)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-rega-mbukak
+breadcrumbs: [ '/en-gb/', '/en-gb/29-rega-mbukak/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Informasi rega iku penting banget kanggo mangerteni sistem pangan. Iku faktor kunci kanggo mangerteni biaya panganan lan kanggo ningkatake pola makan sing luwih sehat. Data rega wiwitan minangka cara kanggo nggampangake para peneliti, wartawan, lan warga supaya luwih ngerti kepiye rega pangan beda-beda sacara geografis lan wektu.
