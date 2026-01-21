@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Maxay xayawaanku u lahayn Nutri-Score?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-xaqiiqooyin cunto-xayawaan furan
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/10-xaqiiqooyin-cunto-xayawaan-furan/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Xayawaan kastaa wuu ka duwan yahay (abeeso ma lahan baahiyo nafaqo oo la mid ah bisad ama ey)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Xitaa nooca xayawaanka ah sida eeyaha, baahiyaha nafaqadu way kala duwan yihiin iyadoo ku xiran nolosha qaab nololeedka fadhiga, suurtogalnimada in la dilo ama cudurro.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Sidaa darteed way adag tahay in la xisaabiyo dhibcaha quudinta xoolaha iyada oo aan lagu lug lahayn daraasiin cilmi-baarayaal ah oo la abuurin daraasiin algorithms kala duwan, kuwaas oo aan ilaa hadda la samayn.
