@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "እቲ ኣፕ ስካን ኣይገብርን እዩ።"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ሞባይል-ኣፕ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/2-ሞባይል-ኣፕ/' ]
 ---
 
-This may be due to
+እዚ ብሰንኪ...
 
-- a network problem
+- ናይ ኔትወርክ ጸገም እዩ።
 
-- a permissions problem
+- ናይ ፍቓድ ጸገም እዩ።
 
-- a barcode problem
+- ናይ ባርኮድ ጸገም
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+ብፕሮፋይል ኢመይል ስደዱልና >> ርኸቡና >> ኢመይል ስደዱልና።
 
-All relevant information should be attached to your request.
+ኩሉ ኣገዳሲ ሓበሬታ ምስ ሕቶኹም ክተሓሓዝ ኣለዎ።
