@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Чӣ тавр ман метавонам ба маълумоти таърихӣ дастрасӣ пайдо кунам?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
+category: Истифодаи такрории маълумоти 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Айни замон, мо нусхабардории маълумоти таърихиро (JSONL, MongoDB, CSV) пешниҳод намекунем.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Аммо, барои маҳсулоти алоҳида, дастрасӣ ба версияҳои қаблии маълумоти маҳсулот бо истифода аз API ё дар саҳифаи маҳсулот бо истифода аз тағйирот имконпазир аст.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Ҳар дафъае, ки маҳсулот навсозӣ мешавад, як таҷдиди назар (рақами афзоянда аз 1 сар мешавад) эҷод карда мешавад.
 
-For example, to get the first revision (=first product version) of this product, use
+Масалан, барои гирифтани нусхаи аввали ин маҳсулот (=версияи аввалини маҳсулот), истифода баред
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Ба ҳамин монанд, параметри rev метавонад бо API истифода шавад:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
