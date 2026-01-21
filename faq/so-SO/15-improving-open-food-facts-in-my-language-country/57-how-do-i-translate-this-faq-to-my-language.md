@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Sideen ugu turjumi karaa su'aalahan su'aalaha badan la iska weydiiyo luqaddayda?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-xaqiiqooyin-cunto-furan oo lagu hagaajinayo luqaddayda
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-hagaajinta-xaqiiqooyinka-cuntada-furan ee luqaddayda/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Fadlan weydii contact@openfoodfacts.org si aad wax uga beddesho oo aad u hesho aqoonta.
