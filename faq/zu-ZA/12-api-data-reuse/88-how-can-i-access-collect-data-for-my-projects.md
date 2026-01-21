@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Ngingayithola/ngiyiqoqa kanjani idatha yamaphrojekthi ami?"
 order: 88
 lang: i-en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Ukusetshenziswa kabusha kwedatha okungu-12-api
+breadcrumbs: [ '/zu-gb/', '/zu-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Ekhasini eliyinhloko le-Open Food Facts, ekhoneni eliphezulu kwesobunxele kwesikrini, kukhona imenyu yokuskrola. Ngaphansi kwayo, uzothola inketho ethi “ukusesha okuthuthukisiwe”, ongachofoza kuyo. Kukuwe-ke ukuthi unqume ukuthi yiziphi izindlela ezifanele kakhulu kuphrojekthi yakho. Uma usukhethiwe, uzokwazi ukulanda imiphumela etholakele ngokuskrola phansi phansi kwekhasi bese uchofoza ku-“Landa imiphumela”.
 
-You can also consult:
+Ungabonisana futhi:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Imibhalo yethu ye-API: https://openfoodfacts.github.io/api-documentation/
+- Imigomo Yokusebenzisa Yamaqiniso Okudla Avulekile: https://world.openfoodfacts.org/terms-of-use
+- Kudatha yethu: https://world.openfoodfacts.org/data
