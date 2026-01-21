@@ -1,20 +1,24 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
-order: 93
+title: "Te hanohana ny Open Products Facts aho. Inona no azoko atao ?"
+order: 93 taona
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-zava-misy-momba-ny-vokatra-misokatra
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/zava-misy-momba-ny-vokatra-misokatra-28/'
+  ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Azafady vakio ny pejinay wiki, misy fomba vitsivitsy ahafahana mandray anjara: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Mba hanohanana ny Open Products Facts, azonao atao ny mandinika ireto safidy manaraka ireto, izay samy namboarina ho an'ny karazana fandraisana anjara samihafa:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Zava-misy momba ny filantropika/mpanome fanohanana avy amin'ny fanjakana ho an'ny Open Products:
+  Tena ilaina ny fandraisana anjara amin'ny filantropika amin'ny fanatanterahana ny vina amin'ny sehatra angon-drakitra boribory feno, ny fanomezana isa ny vokatra, ary ny fanangonana vahaolana boribory, amin'ny sokajy mihoatra ny 20000, izay tanjona fototra amin'ny Open Products Facts. Maro amin'ireo singa tena ilaina amin'ity vina ity no mbola tsy voavatsy vola, ary ny fanohanana ara-bola ataonao dia mety hisy fiantraikany lehibe. Afaka manampy amin'ny famatsiam-bola ireo fampandrosoana sy fotodrafitrasa tena ilaina ny fanomezanao. Raha te handray anjara ara-bola ianao dia mifandraisa amin'ny contact@openfoodfacts.org
+- Ireo mpandray anjara amin'ny angon-drakitra mampiasa ny fampiharana Open Products Facts:
+  Tena ilaina ny fandraisana anjara amin'ny angon-drakitra mba hampitomboana ny Open Products Facts. Amin'ny fampiasana ny fampiharana Android hanampiana fampahalalana momba ny vokatra vaovao, hanavaozana ireo fidirana efa misy, na hanamarinana ny angon-drakitra, dia manampy amin'ny fanitarana sy fanatsarana ny angon-drakitra ianao. Ity ezaka iraisana ity dia mandray anjara amin'ny fananganana loharano matanjaka sy azo itokisana ho an'ny rehetra.
+- Ireo mpandray anjara ara-teknika amin'ny Open Products Facts:
+  Raha manana fahaiza-manao ara-teknika amin'ny sehatra toy ny fandaharana, famakafakana angon-drakitra, na famolavolana traikefan'ny mpampiasa ianao, dia mety hitondra soa betsaka ho an'ny Open Products Facts ny fahaizanao. Ny fandraisana anjara amin'ny fampivoarana ny fampiharana, ny fanatsarana ny fiasany, na ny fanatsarana ny interface tsara ho an'ny mpampiasa dia fandraisana anjara sarobidy. Raha te handray anjara ianao dia midira ao amin'ny fantsona #openproductsfacts Slack, izay iarahan'ny vondrom-piarahamonina Open Products Facts miasa. Afaka mahita rohy mankany amin'ity toeram-piasana Slack ity ianao ao amin'ny tranokalan'ny Open Food Facts.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Zava-dehibe amin'ny fitomboana sy ny fahombiazan'ny Open Products Facts ny karazana fandraisana anjara tsirairay, izay manampy amin'ny famoronana sehatra maharitra sy mampahafantatra kokoa ho an'ny rehetra.
