@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "ምንጪ ሕብረ-ቁጽሪ ክቕይር ከለኹ ኩሎም ናይ ቋንቋ ፋይላት ከዘምኖም ድየ ዘለኒ?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-ቴክኒካዊ-ፋክ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/16-ቴክኒካዊ-ሕቶ/' ]
 ---
 
-No you don't. You just need to update the English one
+ኣይፋልካን ኣይትገብርን ኢኻ። እቲ ናይ እንግሊዝኛ ጥራይ update ክትገብሮ ኣለካ
 
-- Create your PR
+- PR ናትካ ፍጠር
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+ምስ ተዋሃሃደ፡ crowdin-trigger ብኢድና ዳግማይ መሰረት ክንገብሮ ኢና፡ እቲ ብGitHub Actions ዝተበገሰ ስርዓተ ትርጉም Crowdin ድማ ዝተረፈ ንኻልኦት ቋንቋታት ክገብሮ እዩ።
 
-GitHub bot then creates a new PR automatically that we then review.
+ድሕሪኡ GitHub bot ብኣውቶማቲክ ሓድሽ PR ይፈጥር እሞ ድሕሪኡ ንገምግሞ።
