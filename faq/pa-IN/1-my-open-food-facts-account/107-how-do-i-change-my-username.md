@@ -2,8 +2,8 @@
 title: "ਮੈਂ ਆਪਣਾ ਯੂਜ਼ਰਨੇਮ ਕਿਵੇਂ ਬਦਲਾਂ?"
 order: 107
 lang: ਇੰ-ਜੀਬੀ
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-ਮੇਰਾ-ਖੁੱਲਾ-ਭੋਜਨ-ਤੱਥ-ਖਾਤਾ
+breadcrumbs: [ '/pa-gb/', '/en-gb/1-ਮੇਰਾ-ਖੁੱਲਾ-ਭੋਜਨ-ਤੱਥ-ਖਾਤਾ/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+ਬਦਕਿਸਮਤੀ ਨਾਲ, ਇਹ ਸੰਭਵ ਨਹੀਂ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾਉਣਾ ਪਵੇਗਾ ਅਤੇ ਇੱਕ ਨਵਾਂ ਬਣਾਉਣਾ ਪਵੇਗਾ।
