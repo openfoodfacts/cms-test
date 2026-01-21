@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Dylunydd ydw i. Sut alla i helpu?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: cyfraniad-gwirfoddoli-13
+breadcrumbs: [ '/cy-gb/', '/en-gb/13-gwirfoddoli-cyfraniad/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Rydym yn cydlynu'r holl weithgareddau sy'n gysylltiedig â dylunio ar https://github.com/openfoodfacts/openfoodfacts-design ac ar sianel sgwrsio bwrpasol. Rydym yn cynnal cyfarfodydd tîm ac yn trafod syniadau yn rheolaidd ar heriau penodol.
