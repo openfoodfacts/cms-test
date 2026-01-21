@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Ngaba ndingakwazi ukukhangela igama lemveliso elichanekileyo nge-API?"
 order: 66
 lang: i-en-gb
-category: 12-api-data-reuse
+category: Ukusetyenziswa kwakhona kwedatha ye-api eyi-12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Ngelishwa akukafumaneki lula ukukhangela igama lemveliso kuphela kwaye ngokuchanekileyo nge-API.
 
-Using a filter on category might help you make your search more precise though.
+Ukusebenzisa isihluzi kudidi kunokukunceda wenze uphendlo lwakho lube ngokuchanekileyo.
