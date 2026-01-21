@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "Mepɛ sɛ mede logo foforo ka ho ma labels"
+order: 55. Nkyekyɛm
 lang: tw-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-aduan-a-abue-nokwasɛm-a-ɛma-tu mpɔn-wɔ-me-kasa-man mu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/twi-gb/ .',
+    '/en-gb/15-ma-aduan-a-abue-nokwasɛm-wɔ-me-kasa-man-mu-tu mpɔn/'
   ]
 ---
 
-Here is the process:
+Adeyɛ no ni:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- hwehwɛ canonical din a ɛwɔ label no mu wɔ labels no taxonomy mu (ɛyɛ ade a edi kan wɔ labels no synonyms a wɔahyehyɛ no mu, s.e. en:100% vegetable)
+- nya logo no wɔ su pa mu: kwati sɛ wode nea ɔde mmoa mae no mfonini a ɛnyɛ nea ɛfata mma asɛm yi bedi dwuma; label dodow no ara wɔ official websistes logos a ɛkorɔn, ɛtɔ mmere bi a ɛwɔ vector format (eye mpo ma yɛn); bere tenten a yɛde ahyɛnsode di dwuma de bɔ amanneɛ wɔ botae mu sɛ
+  nkyerɛwde wɔ ade bi a wɔde ahyɛ mu no, ɛho nhia sɛ yɛsrɛ kwan.
+- bɔ fael no din te sɛ eyi: name-of-the-label.[width]x90.png a ntrɛwmu yɛ ne tɛtrɛtɛ ma ahyɛnsode no bere a ne sorokɔ yɛ piksel 90. Ɛsɛ sɛ fael din ahorow no yɛ nea wɔmfa nkyerɛwde nhyɛ mu, wɔ nkyerɛwde nketewa mu na wɔde "-" di dwuma sen sɛ wɔde ntam kwan bedi dwuma.
+- afei fa ahyɛnsode no ka ho wɔ directory a ɛne ne canonical din hyia no mu. Sɛ canonical din no yɛ en:biribi a, ɛnde ɛsɛ sɛ wɔte /en/ mu. Ntini kyerɛwtohɔ a ɛwɔ logo ahorow ho ne https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
