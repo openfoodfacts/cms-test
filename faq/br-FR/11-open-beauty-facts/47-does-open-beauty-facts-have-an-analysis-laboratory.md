@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Hag ur laboratoer dielfennañ zo gant Open Beauty Facts ?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fedoù-kaerder digor
+breadcrumbs: [ '/br-gb/', '/br-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts n'en deus ket ur laboratoer dielfennañ siwazh : ur gevredigezh tud a-youl vat omp hag a zo o fal krouiñ ur Wikipedia war ar c'hosmetikoù.
 
-That said, if you would like to help us provide more transparency for
+Kement-se lavaret, ma fell deoc'h sikour ac'hanomp da ginnig muioc'h a gleuzeur evit
 
-consumers, you can use our iPhone, Android and
+implijerien, gallout a rit implijout hon iPhone, Android hag
 
-Windows Phone to add products:
+Windows Phone evit ouzhpennañ produioù :
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Hag evit eskemm ha komz eus implijoù posupl ar raktres, e
 
-can join the Facebook group of contributors:
+gallout a ra mont e-barzh strollad kenlabourerien Facebook :
 
 https://www.facebook.com/groups/356858984359591/
