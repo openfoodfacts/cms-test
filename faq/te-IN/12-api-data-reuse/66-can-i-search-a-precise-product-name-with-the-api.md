@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "నేను API తో ఖచ్చితమైన ఉత్పత్తి పేరును శోధించవచ్చా?"
+order: 66 తెలుగు
 lang: en-gb తెలుగు in లో
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-డేటా పునర్వినియోగం
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-డేటా-పునర్వినియోగం/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+దురదృష్టవశాత్తు ఉత్పత్తి పేరు మీద మాత్రమే సులభంగా మరియు ఖచ్చితంగా API ద్వారా శోధించడం ఇంకా సాధ్యం కాలేదు.
 
-Using a filter on category might help you make your search more precise though.
+వర్గంపై ఫిల్టర్‌ని ఉపయోగించడం వల్ల మీ శోధనను మరింత ఖచ్చితమైనదిగా చేయవచ్చు.
