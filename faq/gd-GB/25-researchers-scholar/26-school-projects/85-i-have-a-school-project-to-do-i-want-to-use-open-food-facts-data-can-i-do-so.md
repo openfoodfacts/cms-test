@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "Tha pròiseact sgoile agam ri dhèanamh, tha mi airson dàta Open Food Facts a chleachdadh, an urrainn dhomh sin a dhèanamh?"
 order: 85
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26 pròiseact-sgoile
+parent_category: 25-sgoilear-rannsachaidh
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-rannsaichean-scholar/',
+    '/gb-gb/25-luchd-rannsachaidh-sgoilear/26-pròiseactan-sgoile/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+’S e stòr-dàta fosgailte a th’ ann an Open Food Facts, pròiseact fosgailte a tha ag obrachadh fo chead ODbL, agus mar sin fhad ’s a tha thu ag aontachadh ri riatanasan cead ODbL, tha fàilte ort an dàta againn ath-chleachdadh airson do phròiseactan :).
