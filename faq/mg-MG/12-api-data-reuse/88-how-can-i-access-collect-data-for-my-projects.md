@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Ahoana no ahafahako miditra/manangona angon-drakitra ho an'ny tetikasako?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Fampiasana indray ny angon-drakitra 12-api
+breadcrumbs: [ '/en-gb/', '/mg-gb/fampiasana-an-drakitra-12-api/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Ao amin'ny pejy fandraisana an'ny Open Food Facts, eo amin'ny zoro ambony havia amin'ny efijery, misy menio mikorisa. Eo amin'ny farany ambany amin'ilay izy no ahitanao ny safidy "fikarohana mandroso", izay azonao tsindriana. Dia anjaranao avy eo ny mamaritra hoe inona avy ireo fepetra tena mifandraika amin'ny tetikasanao. Rehefa voafidy dia azonao alaina ny valiny azo amin'ny alàlan'ny fikorisa midina eo amin'ny faran'ny pejy ary tsindrio ny "Download results".
 
-You can also consult:
+Azonao atao ihany koa ny manoro hevitra:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Ny antontan-taratasinay momba ny API: https://openfoodfacts.github.io/api-documentation/
+- Fepetra fampiasana ny Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Momba ny angon-drakitray: https://world.openfoodfacts.org/data
