@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Finns det villkor för att använda API:et?"
 order: 94
 lang: sv-gb
 category: 12-api-data-återanvändning
 breadcrumbs: [ '/sv-gb/', '/sv-gb/12-api-data-återanvändning/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+All dokumentation om API-användning finns på API-dokumentationssidan, men här är en snabb sammanfattning:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Open Food Facts-databasen är tillgänglig som öppen data under Open Database License (ODbL), se https://world.openfoodfacts.org/terms-of-use för juridisk information. De två villkoren är attribution och delning på samma sätt. Om du kombinerar data från Open Food Facts med andra databaser kräver ODbL att den resulterande databasen också måste släppas som öppen data. Det betyder också att du endast kan kombinera informationen med källor som tillåter sådan omdistribution.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Du måste alltid använda en anpassad användaragent när du utför API-anrop för att identifiera din app.
 
-- Rate-limits are enforced for each API endpoint.
+- Hastighetsgränser tillämpas för varje API-slutpunkt.
