@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "লেবেল হিচাপে, এটা একাউণ্ট সৃষ্টি কৰাটো গুৰুত্বপূৰ্ণ নেকি ?"
+order: ৭৬
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: ২৩-লেবেল
+breadcrumbs: [ '/as-gb/', '/as-gb/23-লেবেলসমূহ/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+লেবেল হিচাপে যিহেতু আপুনি সামগ্ৰীসমূহৰ প্ৰত্যক্ষ উৎপাদক নহয়, সেয়েহে আপুনি উৎপাদকৰ একাউণ্ট সৃষ্টি কৰাৰ প্ৰয়োজন নাই।
