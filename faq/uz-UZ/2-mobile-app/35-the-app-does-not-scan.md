@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Ilova skanerlamaydi"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobil ilova
+breadcrumbs: [ '/en-gb/', '/en-gb/2-mobil-ilova/' ]
 ---
 
-This may be due to
+Buning sababi bo'lishi mumkin
 
-- a network problem
+- tarmoq muammosi
 
-- a permissions problem
+- ruxsatnomalar muammosi
 
-- a barcode problem
+- shtrix-kod muammosi
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Bizga Profil orqali elektron pochta xabarini yuboring >> Biz bilan bog'laning >> Bizga elektron pochta xabarini yuboring.
 
-All relevant information should be attached to your request.
+Barcha tegishli ma'lumotlar sizning so'rovingizga ilova qilinishi kerak.
