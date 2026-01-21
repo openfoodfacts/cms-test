@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Adakah Open Beauty Facts mempunyai makmal analisis?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fakta-kecantikan-terbuka
+breadcrumbs: [ '/en-gb/', '/ms-gb/11-fakta-kecantikan-terbuka/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Malangnya, Open Beauty Facts tidak mempunyai makmal analisis: kami merupakan persatuan sukarelawan yang bermatlamat untuk mencipta Wikipedia kosmetik.
 
-That said, if you would like to help us provide more transparency for
+Walau bagaimanapun, jika anda ingin membantu kami menyediakan lebih banyak ketelusan untuk
 
-consumers, you can use our iPhone, Android and
+pengguna, anda boleh menggunakan iPhone, Android dan
 
-Windows Phone to add products:
+Windows Phone untuk menambah produk:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Dan untuk bertukar-tukar dan membincangkan kemungkinan kegunaan projek ini, anda
 
-can join the Facebook group of contributors:
+boleh sertai kumpulan penyumbang Facebook:
 
 https://www.facebook.com/groups/356858984359591/
