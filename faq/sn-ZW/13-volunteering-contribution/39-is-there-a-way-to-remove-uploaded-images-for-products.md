@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Pane nzira yekubvisa mifananidzo yakakwidzwa yezvigadzirwa here?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-mupiro wekuzvipira
+breadcrumbs: [ '/sn-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Vatongi chete ndivo vanogona kubvisa mapikicha, kudzivirira kuparadzwa kwezvinhu.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Ingokumbira paSlack kana pa contact@openfoodfacts.org kuti ubvise mapikicha ako akafanana kana chero mifananidzo isina kukodzera (unofanira kuedza kupa nhamba yebhacode kana URL).
 
-We also have a new image report API if you're a programmer.
+Tinewo API itsva yemishumo yemifananidzo kana uri mugadziri wemapurogiramu.
