@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Open Beauty Facts ມີຫ້ອງທົດລອງວິເຄາະບໍ?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ຄວາມຈິງກ່ຽວກັບຄວາມງາມທີ່ເປີດເຜີຍ
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ເປີດ-ຂໍ້ເທັດຈິງກ່ຽວກັບຄວາມງາມ/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+ແຕ່ຫນ້າເສຍດາຍ, Open Beauty Facts ບໍ່ມີຫ້ອງທົດລອງວິເຄາະ: ພວກເຮົາແມ່ນສະມາຄົມອາສາສະໝັກທີ່ມີເປົ້າໝາຍເພື່ອສ້າງ Wikipedia ຂອງເຄື່ອງສໍາອາງ.
 
-That said, if you would like to help us provide more transparency for
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ຖ້າທ່ານຕ້ອງການຊ່ວຍພວກເຮົາໃຫ້ຄວາມໂປ່ງໃສຫຼາຍຂຶ້ນສຳລັບ
 
-consumers, you can use our iPhone, Android and
+ຜູ້ບໍລິໂພກ, ທ່ານສາມາດໃຊ້ iPhone, Android ແລະ
 
-Windows Phone to add products:
+Windows Phone ເພື່ອເພີ່ມຜະລິດຕະພັນ:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+ແລະ ເພື່ອແລກປ່ຽນ ແລະ ປຶກສາຫາລືກ່ຽວກັບການນຳໃຊ້ທີ່ເປັນໄປໄດ້ຂອງໂຄງການ, ທ່ານ
 
-can join the Facebook group of contributors:
+ສາມາດເຂົ້າຮ່ວມກຸ່ມເຟສບຸກຂອງຜູ້ປະກອບສ່ວນໄດ້:
 
 https://www.facebook.com/groups/356858984359591/
