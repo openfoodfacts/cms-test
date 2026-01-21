@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Open Beauty Facts деректерін қайдан жүктей аламын?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ашық сұлулық фактілері
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ашық-сұлулық-фактілері/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data беті қазіргі уақытта істен шыққан. Деректерді https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv сайтынан жүктеп алуға болады.
