@@ -2,8 +2,8 @@
 title: "Bagaimana cara mengubah nama pengguna saya?"
 order: 107
 lang: bahasa Inggris
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-akun-fakta-makanan-terbuka-saya
+breadcrumbs: [ '/en-gb/', '/en-gb/1-akun-fakta-makanan-saya-terbuka/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Sayangnya, itu tidak mungkin. Jika Anda benar-benar ingin berubah, Anda harus menghapus akun Anda dan membuat akun baru.
