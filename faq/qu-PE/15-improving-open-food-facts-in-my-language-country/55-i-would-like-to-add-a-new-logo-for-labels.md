@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "Etiquetakunapaq musuq logotipo yapayta munani"
+order: 55. 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-allichay-kichasqa-mikhuy-chiqakuna-simiy-llaqtapi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/quchqa-gb/ .',
+    '/quch-gb/15-allichay-kichasqa-mikhuy-chiqakunata-simiy-llaqtapi/'
   ]
 ---
 
-Here is the process:
+Kaypim kachkan chay ruway:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- etiquetakunapa taxonomía nisqapi etiquetapa canónico sutinta tariy (chayqa etiquetakunapa sinónimos nisqapa listanpi punta kaqmi, ahinataq en:100% verdura)
+- logotipo allin calidadpi tariy: ama yanapakuqpa fotonta llamk'achiychu mayqinkunachus mana kay casopaq hinachu kanku; aswan etiquetakuna websistes oficiales alto calidad logotipokunayuq kanku, wakin kuti vector formato kaqpi (aswan allin ñuqaykupaq); sichus huk logotipo llamk'achiyku objetivamente willanaykupaq huk
+  etiqueta kasqanmanta huk rurupa envase kaqpi, mana permisota mañanachu tiyan.
+- willañiqita kayhinata sutichay: name-of-the-label.[width]x90.png maypichus anchoqa logotipopaq anchunmi 90 pixel sayayniyuq kaptin. Willañiqi sutikunaqa mana acentuyuq, huch'uy qillqawan, ch'usaqkunap rantinpi "-" nisqawan llamk'achisqa kanan tiyan.
+- chaymanta yapay logotipota directoriopi, chaymi tupan canónico sutinwan. Kanniku suti en:imapas kaptinqa, /en/ nisqapi kananku tiyan. Logospaq sapsi qillqana mayt'uqa https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang kachkan
