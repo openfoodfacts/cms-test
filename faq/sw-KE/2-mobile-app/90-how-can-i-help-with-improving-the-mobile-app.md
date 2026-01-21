@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Ninawezaje kusaidia katika kuboresha programu ya simu?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Programu-mbili za simu
+breadcrumbs: [ '/sw-gb/', '/sw-gb/2-programu-ya-simu/' ]
 ---
 
-How can I help with improving the mobile app ?
+Ninawezaje kusaidia katika kuboresha programu ya simu?
 
-You can do so on the Mobile app repository
+Unaweza kufanya hivyo kwenye hazina ya programu ya Simu
