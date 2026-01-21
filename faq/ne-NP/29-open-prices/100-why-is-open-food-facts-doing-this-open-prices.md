@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
-order: 100
+title: "ओपन फूड फ्याक्ट्सले किन यसो गरिरहेको छ (खुला मूल्यहरू)?"
+order: १००
 lang: एनजीबी
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: २९-खुला-मूल्यहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/29-खुला-मूल्यहरू/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+खाद्य प्रणाली बुझ्नको लागि मूल्य जानकारी अत्यन्त महत्त्वपूर्ण छ। खानाको लागत बुझ्न र स्वस्थ आहारलाई प्रवर्द्धन गर्न यो एक प्रमुख कारक हो। मूल्य डेटा खोल्नु भनेको अनुसन्धानकर्ता, पत्रकार र नागरिकहरूलाई खाद्यान्नको मूल्य भौगोलिक र समय अनुसार कसरी फरक हुन्छ भन्ने बारे राम्रोसँग बुझ्न सजिलो बनाउने एउटा तरिका हो।
