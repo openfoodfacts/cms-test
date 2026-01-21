@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "ପ୍ରାଣୀମାନଙ୍କ ପାଇଁ କାହିଁକି ନ୍ୟୁଟ୍ରି-ସ୍କୋର୍ ନାହିଁ?"
+order: ୩୮
 lang: ଇଂ-ଜିବି
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: ୧୦ଟି-ଖୋଲା-ପୋଷାକ-ଖାଦ୍ୟ-ତଥ୍ୟ
+breadcrumbs: [ '/en-gb/', '/en-gb/10-ଖୋଲା-ପୋଷାକ-ଖାଦ୍ୟ-ତଥ୍ୟ/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ପ୍ରତ୍ୟେକ ପ୍ରାଣୀ ଭିନ୍ନ (ସାପର ବିଲେଇ କିମ୍ବା କୁକୁର ପରି ସମାନ ପୁଷ୍ଟିକର ଆବଶ୍ୟକତା ନାହିଁ)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+କୁକୁର ଭଳି ସମାନ ପ୍ରକାରର ପ୍ରାଣୀଙ୍କ ମଧ୍ୟରେ ମଧ୍ୟ, ବସି ଜୀବନଶୈଳୀ, ସମ୍ଭାବ୍ୟ କାଷ୍ଟ୍ରେସନ କିମ୍ବା ରୋଗ ଅନୁସାରେ ପୁଷ୍ଟିକର ଆବଶ୍ୟକତା ଭିନ୍ନ ହୋଇଥାଏ।
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+ତେଣୁ ଡଜନ ଡଜନ ଗବେଷକଙ୍କୁ ସାମିଲ ନକରି ଏବଂ ଡଜନ ଡଜନ ଭିନ୍ନ ଆଲଗୋରିଦମ ସୃଷ୍ଟି ନକରି ପଶୁ ଖାଦ୍ୟ ପାଇଁ ସ୍କୋର ଗଣନା କରିବା ଜଟିଳ, ଯାହା ଆଜି ପର୍ଯ୍ୟନ୍ତ କରାଯାଇ ନାହିଁ।
