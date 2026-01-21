@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "A ina zan iya sauke bayanan Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-bayanan kyawawan abubuwa na bude-bude-kwafi
+breadcrumbs: [ '/en-gb/', '/en-gb/11-bayanan-buɗe-kyakkyawa/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Shafin /bayanai a halin yanzu ya lalace. Za ku iya sauke bayanan a https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
