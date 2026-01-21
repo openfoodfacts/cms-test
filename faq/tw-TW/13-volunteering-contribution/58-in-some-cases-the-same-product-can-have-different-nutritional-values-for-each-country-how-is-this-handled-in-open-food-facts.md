@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
-order: 58
+title: "Wɔ tebea horow bi mu no ade koro no ara betumi anya aduannuru ahorow ama ɔman biara, ɔkwan bɛn so na wodi eyi ho dwuma wɔ Open Food Facts ?"
+order: 58. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-tuhoama-ntoboa
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/13-tuhoama-ntoboa/ .' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% bere no, wɔn a wɔyɛ no bɛyɛ barcode ahorow ama wɔn nneɛma ahorow no nkyerɛase ahorow. Nhwɛsoɔ a agye din ne nsonsonoeɛ a ɛda Fransefoɔ ne German Nutella ntam wɔ ne kɛseɛ mu, ɛnam nsonsonoeɛ a ɛwɔ paanoo mu wɔ aman ahodoɔ mu nti. 2 formula ahorow, 2 barcode ahorow.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Nanso barcode ntawntawdi betumi asi wɔ code ntiantiaa (EAN-8) a sotɔɔ ahorow bi a ɛwɔ Europa ne U.S. nyinaa taa san de di dwuma no so. Mprempren yɛnni saa barcode ntawntawdi no ho dwuma, nanso ɛsɛ sɛ ɛyɛ nea wotumi yɛ de yɛ saa denam beae a ɔde di dwuma no nyinaa a yebenya so (ɛtaa mma mpo sɛ wubenya barcode ntawntawdi wɔ ɔman bi mu).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Wɔ bere tenten mu no, yɛhyɛ wɔn a wɔyɛ nneɛma no nkuran sɛ wɔntu nkɔ EAN-13 na wɔakwati saa barcode ntawntawdi no.
