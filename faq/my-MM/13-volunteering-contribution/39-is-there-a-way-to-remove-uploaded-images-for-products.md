@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
-order: 39
+title: "ထုတ်ကုန်တွေအတွက် အပ်လုဒ်လုပ်ထားတဲ့ ပုံတွေကို ဖယ်ရှားနိုင်တဲ့ နည်းလမ်းရှိပါသလား။"
+order: ၃၉
 lang: en-gb
-category: 13-volunteering-contribution
+category: ၁၃-စေတနာ့ဝန်ထမ်း-အလှူငွေ
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+ဖျက်ဆီးမှုများ ဖြစ်ပေါ်လာနိုင်သောကြောင့် မော်ဒရေတာများသာ ဓာတ်ပုံများကို ဖယ်ရှားနိုင်ပါသည်။
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+သင့်ရဲ့ မိတ္တူတွေ ဒါမှမဟုတ် မသင့်လျော်တဲ့ ဓာတ်ပုံတွေကို ဖယ်ရှားပေးဖို့ Slack ဒါမှမဟုတ် contact@openfoodfacts.org မှာ တောင်းဆိုလိုက်ပါ (အဲဒီအတွက် ဘားကုဒ်နံပါတ် ဒါမှမဟုတ် URL ကို ပေးသင့်ပါတယ်)။
 
-We also have a new image report API if you're a programmer.
+သင်ဟာ programmer တစ်ယောက်ဆိုရင် image report API အသစ်တစ်ခုလည်း ရှိပါတယ်။
