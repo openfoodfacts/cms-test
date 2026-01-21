@@ -1,15 +1,19 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Nka fitlhelela/kokoanya jang tshedimosetso ya diporojeke tsa me?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Tiriso-gape ya tshedimosetso ya 12-api
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tsn-gb/tiriso-gape-ya-tshedimosetso ya api/'
+  ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Mo tsebeng e kgolo ya Open Food Facts, kwa sekhutlong se se kwa godimo sa molema sa sekerini, go na le menyu o o tsamayang. Kwa tlase ga yone, o tla fitlhela kgetho ya “go batla ka tsela e e tseneletseng,” e o ka tobetsang mo go yone. Go mo go wena go tlhomamisa gore ke dikelo dife tse di maleba thata mo (di)porojekeng tsa gago. Fa o setse o tlhophilwe, o tla kgona go laisolola dipholo tse di bonweng ka go tsamaisetsa kwa tlase kwa tlase mo tsebeng le go tobetsa “Laisolola dipholo”.
 
-You can also consult:
+O ka leba gape:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Ditokomane tsa rona tsa API: https://dintlha tsa dijo tse di bulegileng.github.io/ditokomane-tsa-api/
+- Melawana ya Tiriso ya Dintlha tsa Dijo tse di Buletsweng: https://lefatshe.dintlha tsa Dijo tse di Buletsweng.org/melawana-ya-tiriso
+- Mo tshedimosetsong ya rona: https://dintlha tsa dijo tse di bulegileng.org/tshedimosetso
