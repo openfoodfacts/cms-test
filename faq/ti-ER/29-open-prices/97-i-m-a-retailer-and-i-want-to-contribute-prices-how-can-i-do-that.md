@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "ኣነ ቸርቻሪ እየ ዋጋታት ከበርክት እየ ዝደሊ። ከመይ ጌረ እየ ከምኡ ክገብር ዝኽእል?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-ክፉት-ዋጋታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/29-ክፉት-ዋጋታት/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+ናትና ኤፒኣይ ብምጥቃም ዋጋታት ከተበርክቱ ትኽእሉ ኢኹም። ዋጋታት ብመጠን ከተበርክቱ ምስ እትደልዩ፡ በጃኹም ብ contact@openfoodfacts.org ርኸቡና።
