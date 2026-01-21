@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Sut ydw i'n cyfieithu'r Cwestiynau Cyffredin hyn i'm hiaith i?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-gwella-ffeithiau-bwyd-agored-yn-fy-ngwlad-iaith
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/cy-gb/',
+    '/cy-gb/15-gwella-ffeithiau-bwyd-agored-yn-fy-ngwlad-iaith/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Gofynnwch i contact@openfoodfacts.org am fynediad golygu i'r gronfa wybodaeth.
