@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "Yala Open Beauty Facts bɛ ni sɛgɛsɛgɛli laboratuwari ye wa?"
+order: 47. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-da wulilen-cɛɲa-tiɲɛw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/11-da wulilen-cɛɲi-ko/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts bɔnɛ ye a sɔrɔ sɛgɛsɛgɛli laboratuwari tɛ a la : an ye ŋaniyajirabagaw ka tɔn ye min ka laɲini ye ka Wikipeja dɔ da min bɛ ɲɛgɛnw dilan.
 
-That said, if you would like to help us provide more transparency for
+O fɔlen, n’aw b’a fɛ k’an dɛmɛ ka kɛnɛyako caman di
 
-consumers, you can use our iPhone, Android and
+kunmabɔnafolotigiw, aw bɛ se ka baara kɛ n’an ka iPhone, Android ani...
 
-Windows Phone to add products:
+Windows Phone ka fɛnw fara a kan:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.da yelennen beautyfacts.scanner ye
 
-And to exchange and discuss the possible uses of the project, you
+Ani ka ɲɔgɔn falen-falen ani ka baro kɛ poroze nafaw kan minnu bɛ se ka kɛ, aw
 
-can join the Facebook group of contributors:
+bɛ se ka fara Facebook kan dɛmɛbagaw ka kulu kan :
 
-https://www.facebook.com/groups/356858984359591/
+https://www.facebook.com/kuluw/356858984359591/ Kalanjɛ ni sɛbɛnni: kalanjɛ ni sɛbɛnni gafew.
