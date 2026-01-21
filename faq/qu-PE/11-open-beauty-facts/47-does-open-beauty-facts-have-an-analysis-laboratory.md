@@ -1,23 +1,27 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "¿Hechos de Belleza Abierta nisqa laboratorio de análisis nisqayuqchu kan?"
+order: 47. 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-kichasqa-sumaq-chiqakuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/11-kichasqa-sumaq-chiqakuna/'
+  ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Kichasqa Sumaq kay Chiqakuna llakikuypaq mana anlisis laboratorioyuqchu: ñuqaykuqa huk asociación de voluntarios kayku, paykunap munayninkuqa huk Wikipedia de cosméticos nisqa ruwaymi.
 
-That said, if you would like to help us provide more transparency for
+Chayta nispa, sichus yanapayta munanki aswan sut’i kayta qunaykupaq
 
-consumers, you can use our iPhone, Android and
+consumidorkuna, iPhone, Android chaymanta...
 
-Windows Phone to add products:
+Windows Phone rurukuna yapanapaq:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/tienda/apps/detalles?id=org.kichay sumaq kayninkuna.escáner
 
-And to exchange and discuss the possible uses of the project, you
+Hinaspa intercambiar hinaspa rimanapaq proyectopa posibles utilizacionninkunamanta, qam
 
-can join the Facebook group of contributors:
+Facebook nisqapi yanapakuq huñuman yaykuyta atinku:
 
-https://www.facebook.com/groups/356858984359591/
+https://www.facebook.com/grupos/356858984359591/ nisqa yachay wasi.
