@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kiel mi povas importi miajn produktojn en Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-malfermaj-belecaj-faktoj
+breadcrumbs: [ '/en-gb/', '/eo-gb/11-malfermaj-faktoj-pri-beleco/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Kontaktu producteurs@openfoodfacts.org aŭ iru rekte al
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org poste kontaktu producteurs@openfoodfacts.org por speciala eksporto
