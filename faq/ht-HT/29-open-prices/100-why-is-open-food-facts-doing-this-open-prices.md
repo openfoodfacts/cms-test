@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Poukisa Open Food Facts ap fè sa (Pri Ouvè)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-pri-ouvè
+breadcrumbs: [ '/en-gb/', '/en-gb/29-pri-ouvè/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Enfòmasyon sou pri yo gen yon enpòtans kapital pou konprann sistèm alimantè yo. Li se yon faktè kle pou konprann pri manje epi pou ankouraje rejim alimantè ki pi an sante. Done pri ouvèti a se yon fason pou fè li pi fasil pou chèchè yo, jounalis yo ak sitwayen yo gen yon pi bon konpreyansyon sou kijan pri manje yo varye jewografikman ak nan tan.
