@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Ahoana no ahafahako mahazo sary an-gazety ao amin'ny Open Food Facts?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: Fangatahana-gazety-14
+breadcrumbs: [ '/en-gb/', '/mg-gb/fangatahana-media-14-an-gazety/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Mifandraisa amin'ny: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
