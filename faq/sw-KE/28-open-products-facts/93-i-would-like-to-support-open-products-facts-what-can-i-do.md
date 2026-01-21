@@ -1,20 +1,24 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "Ningependa kuunga mkono Ukweli wa Bidhaa Huria. Naweza kufanya nini?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: Ukweli 28 wa bidhaa-wazi
+breadcrumbs:
+  [
+    '/sw-gb/',
+    '/sw-gb/28-ukweli-wa-bidhaa-zilizofunguliwa/'
+  ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Tafadhali soma ukurasa wetu wa wiki, tumeorodhesha njia za kushiriki: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Ili kuunga mkono Ukweli wa Bidhaa Huria, unaweza kuzingatia chaguo zifuatazo, kila moja ikiwa imeundwa kwa aina tofauti za michango:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Wafadhili wa Uhisani/Jimbo kwa Mambo ya Bidhaa Huria:
+  Michango ya uhisani ni muhimu katika kutimiza maono ya jukwaa kamili la data ya mviringo, uainishaji wa bidhaa, na mkusanyiko wa suluhisho za mviringo, katika zaidi ya kategoria 20000+, lengo kuu la Mambo ya Bidhaa Huria. Vipengele vingi muhimu vya maono haya bado havijafadhiliwa, na usaidizi wako wa kifedha unaweza kuwa na athari kubwa. Michango yako inaweza kusaidia kufadhili maendeleo muhimu na miundombinu. Ili kuchangia kifedha, tafadhali wasiliana nasi kwa contact@openfoodfacts.org
+- Wachangiaji Data Kutumia Programu ya Ukweli wa Bidhaa Huria:
+  Michango ya data ni muhimu kwa kuongeza Ukweli wa Bidhaa Huria. Kwa kutumia programu ya Android kuongeza taarifa mpya za bidhaa, kusasisha maingizo yaliyopo, au kuthibitisha data, unasaidia kupanua na kuboresha hifadhidata. Juhudi hii ya pamoja inachangia katika kujenga rasilimali imara na ya kuaminika kwa kila mtu.
+- Wachangiaji wa Kiufundi katika Mambo ya Kufungua Bidhaa:
+  Ikiwa una ujuzi wa kiufundi katika maeneo kama vile programu, uchambuzi wa data, au usanifu wa uzoefu wa mtumiaji, utaalamu wako unaweza kunufaisha pakubwa Mambo ya Kufungua Bidhaa. Kushiriki katika uundaji wa programu, kuboresha utendaji wake, au kuboresha violesura vya mtumiaji ni michango muhimu. Ili kushiriki, jiunge na chaneli ya #openproductsfacts Slack, ambapo jumuiya ya Open Products Facts hushirikiana. Unaweza kupata kiungo cha nafasi hii ya kazi ya Slack kwenye tovuti ya Open Food Facts.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Kila aina ya mchango ni muhimu kwa ukuaji na mafanikio ya Ukweli wa Bidhaa Huria, na kusaidia kuunda jukwaa endelevu na lenye taarifa kwa kila mtu.
