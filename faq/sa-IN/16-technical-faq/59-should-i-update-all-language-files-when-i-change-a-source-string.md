@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "यदा अहं स्रोतः तारं परिवर्तयामि तदा सर्वाणि भाषासञ्चिकाः अद्यतनीकर्तव्यानि वा?"
+order: ५९
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-तकनीकी-फक
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/hi-gb/16-तकनीकी-प्रश्न/' ]
 ---
 
-No you don't. You just need to update the English one
+न त्वं न करोषि। भवद्भिः केवलं आङ्ग्लभाषायाः अद्यतनं कर्तव्यम्
 
-- Create your PR
+- स्वस्य जनसम्पर्कं रचयन्तु
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+एकदा विलीनं जातं चेत्, वयं crowdin-trigger इत्यस्य पुनः आधारं मैन्युअल् रूपेण करिष्यामः तथा च GitHub Actions इत्यनेन ट्रिगर कृता Crowdin अनुवादप्रणाली अन्यभाषायाः कृते शेषं करिष्यति ।
 
-GitHub bot then creates a new PR automatically that we then review.
+ततः GitHub bot स्वयमेव नूतनं PR निर्माति यस्य वयं ततः समीक्षां कुर्मः ।
