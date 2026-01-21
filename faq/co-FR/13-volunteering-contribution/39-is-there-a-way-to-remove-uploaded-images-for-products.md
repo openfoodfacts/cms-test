@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Ci hè un modu per caccià l'imagine caricate per i prudutti?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-cuntribuzione-vuluntaria
+breadcrumbs: [ '/en-gb/', '/fr-gb/13-contribuzione-volontaria/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Solu i moderatori ponu caccià e foto, per evità un putenziale vandalismu.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Basta à dumandà nant'à Slack o à contact@openfoodfacts.org per caccià i vostri duplicati o qualsiasi foto inappropriata (duvete pruvà à furnisce u numeru di codice à barre o l'URL).
 
-We also have a new image report API if you're a programmer.
+Avemu dinò una nova API di rapportu d'imagine sè site un prugrammatore.
