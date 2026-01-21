@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Ngaba ikho indlela yokususa imifanekiso elayishiweyo kwiimveliso?"
 order: 39
 lang: i-en-gb
-category: 13-volunteering-contribution
+category: Igalelo-lokuzithandela eli-13
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Ngabahloli kuphela abanokususa iifoto, ukuze kuthintelwe ukonakala okunokwenzeka.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Cela nje kuSlack okanye ku-contact@openfoodfacts.org ukuba basuse iifoto zakho eziphindwe kabini okanye naziphi na iifoto ezingafanelekanga (kufuneka uzame ukunika inombolo yebhakhowudi okanye i-URL ukuze zisuswe).
 
-We also have a new image report API if you're a programmer.
+Sikwanayo ne-API entsha yengxelo yomfanekiso ukuba ungumhleli weenkqubo.
