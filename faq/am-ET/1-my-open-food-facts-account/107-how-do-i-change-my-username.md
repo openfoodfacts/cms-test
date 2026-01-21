@@ -2,8 +2,8 @@
 title: "የተጠቃሚ ስማዬን እንዴት መቀየር እችላለሁ?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-የእኔ-ክፍት-የምግብ-እውነታዎች-አካውንት
+breadcrumbs: [ '/en-gb/', '/en-gb/1-የእኔ-ክፍት-የምግብ-እውነታዎች-አካውንት/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+በሚያሳዝን ሁኔታ፣ አይቻልም። በእርግጥ መለወጥ ከፈለጉ፣ መለያዎን መሰረዝ እና አዲስ መፍጠር አለብዎት።
