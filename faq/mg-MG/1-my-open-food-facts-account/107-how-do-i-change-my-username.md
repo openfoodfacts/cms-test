@@ -2,8 +2,12 @@
 title: "Ahoana no fomba hanovako ny anaran'ny mpampiasa ahy?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-ny-kaontiko-misokatra-momba-ny-sakafo-
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/1-ny-kaontiko-misokatra-momba-ny-sakafo/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Indrisy anefa fa tsy azo atao izany. Raha tena te hiova ianao dia tsy maintsy mamafa ny kaontinao ary mamorona iray vaovao.
