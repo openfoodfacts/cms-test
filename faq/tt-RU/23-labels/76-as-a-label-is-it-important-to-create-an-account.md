@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Ярлык буларак, хисап язмасы булдыру мөһимме?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23 ярлык
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ярлыклар/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Лейбл буларак, сез продуктларның турыдан-туры җитештерүчесе булмаганлыктан, сезгә җитештерүче аккаунтын булдырырга кирәк түгел.
