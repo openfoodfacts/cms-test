@@ -2,8 +2,8 @@
 title: "මගේ පරිශීලක නාමය වෙනස් කරන්නේ කෙසේද?"
 order: 107 (ස්වදේශීය මාධ්‍ය)
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: මගේ විවෘත ආහාර කරුණු ගිණුම 1
+breadcrumbs: [ '/si-gb/', '/si-gb/1-මගේ-විවෘත-ආහාර-කරුණු-ගිණුම/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+අවාසනාවකට, එය කළ නොහැකි ය. ඔබට ඇත්තටම වෙනස් කිරීමට අවශ්‍ය නම්, ඔබ ඔබේ ගිණුම මකා දමා නව එකක් සෑදිය යුතුය.
