@@ -2,8 +2,12 @@
 title: "Кулланучы исемен ничек үзгәртергә?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-минем-ачык-ризык-фактлары-хисап-хисабым
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-минем-ачык-ашамлык-фактлары-хисап-хәбәрем/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Кызганычка каршы, бу мөмкин түгел. Әгәр дә сез чыннан да үзгәрергә телисез икән, сезгә аккаунтыгызны бетерергә һәм яңасын булдырырга кирәк.
