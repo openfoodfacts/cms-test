@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "ຂ້ອຍສາມາດດາວໂຫຼດຂໍ້ມູນ Open Beauty Facts ໄດ້ຢູ່ໃສ?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ຄວາມຈິງກ່ຽວກັບຄວາມງາມທີ່ເປີດເຜີຍ
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ເປີດ-ຂໍ້ເທັດຈິງກ່ຽວກັບຄວາມງາມ/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+ໜ້າ /data ປະຈຸບັນມີບັນຫາ. ທ່ານສາມາດດາວໂຫຼດຂໍ້ມູນໄດ້ທີ່ https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
