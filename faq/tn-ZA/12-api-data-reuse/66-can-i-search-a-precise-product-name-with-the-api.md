@@ -1,11 +1,15 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "A nka batla leina le le tlhomameng la sedirisiwa ka API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Tiriso-gape ya tshedimosetso ya 12-api
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tsn-gb/tiriso-gape-ya-tshedimosetso ya api/'
+  ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Ka maswabi ga go ise go kgonege go batla bonolo ka leina la setlhagiswa fela le ka nepo ka API.
 
-Using a filter on category might help you make your search more precise though.
+Go dirisa setlhotlhi mo setlhopheng go ka go thusa go dira gore patlo ya gago e nne e e nepagetseng le fa go ntse jalo.
