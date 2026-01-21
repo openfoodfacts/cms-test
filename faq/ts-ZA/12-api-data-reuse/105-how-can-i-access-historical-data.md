@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "Xana ndzi nga yi kuma njhani rungula ra matimu?"
+order: 105. 105
 lang: ts-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-ku tirhisiwa nakambe
+breadcrumbs: [ '/ts-gb/ .', '/ts-gb/12-ku tirhisiwa nakambe ka data/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Sweswi, a hi nyiki ku lahliwa ka datha ya matimu (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Hambiswiritano, eka swikumiwa ha xin’we, swa koteka ku fikelela tivhidiyo ta khale ta datha ya xiendliwa hi ku tirhisa API kumbe eka tluka ra xiendliwa hi ku tirhisa ku pfuxetiwa.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Nkarhi wun’wana na wun’wana loko xiendliwa xi pfuxetiwa, ku endliwa mpfuxeto wuntshwa (dijiti leyi engetelekaka ku sukela eka 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Xikombiso, ku kuma ku pfuxetiwa ko sungula (=vuhundzuluxi byo sungula bya xiendliwa) bya xiendliwa lexi, tirhisa
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Hilaha ku fanaka, parameter ya rev yi nga tirhisiwa na API:
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+https://world.openfoodfacts.org/api/v2/xiendliwa/7623186089763?rev=1
