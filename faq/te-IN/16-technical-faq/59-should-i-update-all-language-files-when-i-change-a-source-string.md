@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "నేను సోర్స్ స్ట్రింగ్‌ను మార్చినప్పుడు అన్ని భాషా ఫైళ్లను నవీకరించాలా?"
+order: 59 (ఆంగ్లం)
 lang: en-gb తెలుగు in లో
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-సాంకేతిక-తరచుగా ప్రశ్నలు
+breadcrumbs: [ '/en-gb/', '/en-gb/16-టెక్నికల్-FAQ/' ]
 ---
 
-No you don't. You just need to update the English one
+లేదు, మీరు చేయరు. మీరు ఇంగ్లీష్‌ను అప్‌డేట్ చేయాలి.
 
-- Create your PR
+- మీ PR ని సృష్టించండి
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+ఇది విలీనం అయిన తర్వాత, మేము క్రౌడిన్-ట్రిగ్గర్‌ను మాన్యువల్‌గా రీబేస్ చేస్తాము మరియు GitHub Actions ద్వారా ట్రిగ్గర్ చేయబడిన క్రౌడిన్ అనువాద వ్యవస్థ మిగిలిన పనిని ఇతర భాషలకు చేస్తుంది.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub బాట్ స్వయంచాలకంగా కొత్త PRని సృష్టిస్తుంది, దానిని మేము సమీక్షిస్తాము.
