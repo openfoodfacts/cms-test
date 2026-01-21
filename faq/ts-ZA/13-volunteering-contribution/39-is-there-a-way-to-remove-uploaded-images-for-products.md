@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Xana yi kona ndlela yo susa swifaniso leswi layichiweke swa swilo leswi endliweke?"
 order: 39
 lang: ts-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ku hoxa xandla hi ku tirhandzela
+breadcrumbs: [ '/ts-gb/ .', '/ts-gb/13-ku hoxa xandla-ku tirhandzela/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+I vafambisi ntsena lava nga susaka swifaniso, ku papalata ku onhiwa loku nga ha vaka kona.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Kombela ntsena eka Slack kumbe eka contact@openfoodfacts.org ku susa swifaniso swa wena leswi phindhiweke kumbe swifaniso swihi na swihi leswi nga fanelangiki (u fanele ku ringeta ku nyika nomboro ya barkhodi kumbe URL eka sweswo).
 
-We also have a new image report API if you're a programmer.
+Hi tlhela hi va na API leyintshwa ya xiviko xa swifaniso loko u ri muendli wa tiprogreme.
