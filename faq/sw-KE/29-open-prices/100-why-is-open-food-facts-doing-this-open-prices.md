@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Kwa nini Ukweli wa Chakula Huria unafanya hivi (Bei Huria)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: Bei 29 zilizo wazi
+breadcrumbs: [ '/sw-gb/', '/sw-gb/29-bei-wazi/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Taarifa za bei ni muhimu sana ili kuelewa mifumo ya chakula. Ni jambo muhimu katika kuelewa gharama ya chakula na kukuza lishe bora. Data ya bei ya ufunguzi ni njia ya kurahisisha watafiti, waandishi wa habari, na raia kuelewa vyema jinsi bei za vyakula zinavyotofautiana kijiografia na kwa wakati.
