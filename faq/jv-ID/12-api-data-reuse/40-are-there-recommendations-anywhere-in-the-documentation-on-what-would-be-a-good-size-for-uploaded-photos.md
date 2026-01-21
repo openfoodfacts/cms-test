@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Apa ana rekomendasi ing dokumentasi babagan ukuran sing apik kanggo foto sing diunggah?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Panggunaan maneh data 12-api
+breadcrumbs: [ '/en-gb/', '/en-gb/panggunaan-maneh-data-12-api/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Kuwi gumantung saka negarane, apa jaringane alon utawa larang. apa waé sing bobot utawa dhuwuré luwih saka 5000 piksel mbokmenawa ora pati migunani. lan yen sampeyan bisa ndeteksi yen jaringan kasebut alon, mula gambar 2000 piksel wae bakal apik (mesthi luwih apik tinimbang ora duwe gambar!)
