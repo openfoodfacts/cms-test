@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Я хочу видалити свій обліковий запис"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-мій-відкритий-акаунт-фактів-про-їжу
+breadcrumbs:
+  [
+    '/uk-gb/',
+    '/uk-gb/1-мій-відкритий-акаунт-фактів-про-їжу/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Видалення облікового запису тепер відбувається безпосередньо у ваших налаштуваннях.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Після входу на сайт https://world.openfoodfacts.org/, натисніть на ім'я користувача у верхньому правому куті та виберіть «Параметри облікового запису». Це відкриває сторінку ваших налаштувань. Перейдіть до кінця сторінки та скористайтеся дією «видалити користувача».
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Якщо ви не можете увійти (або скинути пароль), зверніться до dpo за адресою openfoodfacts.org, використовуючи адресу електронної пошти, яку ви використовували для реєстрації облікового запису.
