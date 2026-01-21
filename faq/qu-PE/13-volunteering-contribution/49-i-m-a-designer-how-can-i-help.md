@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "Ñuqaqa diseñadormi kani. ¿Imaynatataq yanapayman ?"
+order: 49. 49.1
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-voluntario-yanapakuy
+breadcrumbs: [ '/quchqa-gb/ .', '/quy-gb/13-voluntario-yanapakuy/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Llapan diseñowan tupaq ruwaykunata https://github.com/openfoodfacts/openfoodfacts-design kaqpi chaymanta huk dedicado rimanakuy kanal kaqpi kuskanchayku. Sapa kutim equipo huñunakuykunata ruwayku hinaspa ima sasachakuykunamantapas cerebrokunata ruwayku.
