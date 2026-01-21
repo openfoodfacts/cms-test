@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "តើខ្ញុំបកប្រែ Open Food Facts ទៅជាភាសារបស់ខ្ញុំដោយរបៀបណា?"
+order: ៥៦
 lang: អង់គ្លេស-ជីកាបៃ
-category: 15-improving-open-food-facts-in-my-language-country
+category: ១៥-ការពិតអំពីការកែលម្អអាហារបើកចំហនៅក្នុងប្រទេសដែលនិយាយភាសារបស់ខ្ញុំ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ការកែលម្អ-ការពិតអំពីអាហារបើកចំហនៅក្នុងប្រទេសដែលនិយាយភាសារបស់ខ្ញុំ/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+សូមចូលទៅកាន់ https://wiki.openfoodfacts.org/Country_Support
