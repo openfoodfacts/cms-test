@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "ኣካውንተይ ክድምስስ ደልየ ኣለኹ"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-ክፉት-መግቢ-ሓቅታት-ሕሳበይ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/1-ክፉት-መግቢ-ሓቅታት-ሕሳበይ/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+ሕጂ ምድምሳስ ኣካውንት ብቐጥታ ኣብ ምርጫታትካ እዩ ዝፍጸም።
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+ኣብ https://world.openfoodfacts.org/ ምስ ኣተና፡ ኣብ ላዕለዋይ የማናይ ኩርናዕ ኣብ ዘሎ ስም ተጠቃሚ ጠውቕ፡ Account Parameters ንመርጽ። ናይ ምርጫታትካ ገጽ ይኸፍት። ናብ ታሕቲ ናይቲ ገጽ ብምኻድ "delete user" ዝብል ተግባር ተጠቐም።
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+ክትኣቱ እንተዘይክኢልካ (ወይ ምልክት ቃልካ ዳግማይ ክትሰርዖ እንተዘይክኢልካ)፡ በጃኻ ነቲ ንኣካውንት ንምምዝጋብ እትጥቀመሉ ኢመይል ኣድራሻ ተጠቒምካ፡ ብdpo - at - openfoodfacts.org ተወከስ።
