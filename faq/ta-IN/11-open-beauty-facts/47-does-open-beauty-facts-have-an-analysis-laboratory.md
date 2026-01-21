@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "ஓபன் பியூட்டி ஃபேக்ட்ஸ் நிறுவனத்திற்கு பகுப்பாய்வு ஆய்வகம் உள்ளதா?"
+order: 47 (ஆண்கள்)
 lang: ta-gb (ஆங்கிலம்)
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-திறந்த-அழகு-உண்மைகள்
+breadcrumbs: [ '/ta-gb/', '/ta-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+துரதிர்ஷ்டவசமாக ஓபன் பியூட்டி ஃபேக்ட்ஸ் நிறுவனத்திற்கு ஒரு பகுப்பாய்வு ஆய்வகம் இல்லை: நாங்கள் அழகுசாதனப் பொருட்களின் விக்கிபீடியாவை உருவாக்குவதை நோக்கமாகக் கொண்ட தன்னார்வலர்களின் சங்கம்.
 
-That said, if you would like to help us provide more transparency for
+இருப்பினும், கூடுதல் வெளிப்படைத்தன்மையை வழங்க நீங்கள் எங்களுக்கு உதவ விரும்பினால்
 
-consumers, you can use our iPhone, Android and
+நுகர்வோர், நீங்கள் எங்கள் iPhone, Android மற்றும்
 
-Windows Phone to add products:
+விண்டோஸ் தொலைபேசியில் சேர்க்க வேண்டிய தயாரிப்புகள்:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner:
 
-And to exchange and discuss the possible uses of the project, you
+மேலும் திட்டத்தின் சாத்தியமான பயன்பாடுகளைப் பரிமாறிக் கொள்ளவும் விவாதிக்கவும், நீங்கள்
 
-can join the Facebook group of contributors:
+பங்களிப்பாளர்களின் Facebook குழுவில் சேரலாம்:
 
-https://www.facebook.com/groups/356858984359591/
+https://www.facebook.com/groups/356858984359591/ ட்விட்டர்
