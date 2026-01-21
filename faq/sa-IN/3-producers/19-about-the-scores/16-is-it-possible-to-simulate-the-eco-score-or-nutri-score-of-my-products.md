@@ -1,19 +1,19 @@
 ---
-title: "Is it possible to simulate the Eco-Score or Nutri-Score of my products?"
+title: "मम उत्पादानाम् Eco-Score अथवा Nutri-Score इत्यस्य अनुकरणं कर्तुं शक्यते वा?"
 order: 16
 lang: en-gb
-category: 19-about-the-scores
-parent_category: 3-producers
+category: १९-अङ्कानां विषये
+parent_category: ३-उत्पादकाः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/19-about-the-scores/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/3-उत्पादक/',
+    '/en-gb/3-producers/19-स्कोर-विषये/'
   ]
 ---
 
-By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
+उत्पादकानां मञ्चे पञ्जीकरणं कृत्वा स्वस्य उत्पादानाम् आँकडान् अपलोड् कृत्वा भवान् स्वस्य उत्पादैः सह सम्बद्धस्य Nutri-Score तथा Eco-Score इत्यस्य गणनां कर्तुं शक्नोति।
 
-However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
+परन्तु एकवारं अनुकरणं कृत्वा भवद्भिः तत् विलोपनीयं यथा भवतः श्रेण्यां पूर्वमेव विपणितैः उत्पादैः सह सार्वजनिकमञ्चे निर्यातं न भवति
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ अधिकविवरणार्थं वयं भवन्तं अस्माकं उपयोक्तृमार्गदर्शिकायाः डाउनलोड् कर्तुं तथा/वा अस्माकं विडियोपाठ्यक्रमस्य परामर्शं कर्तुं आमन्त्रयामः :-)
