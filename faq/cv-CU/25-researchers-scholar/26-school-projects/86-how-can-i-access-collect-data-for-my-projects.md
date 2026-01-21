@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Хамӑн проектсем валли даннӑйсене мӗнле кӗме/пуҫтарма пулать?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-шкул-проектсем
+parent_category: 25-тӗпчевҫӗ-ӑсчах
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-тӗпчевҫӗ-ӑсчах/',
+    '/en-gb/25-тӗпчевҫӗ-ӑсчах/26-шкул-проекчӗ/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts тӗп страницинче, экранӑн ҫӳлти сулахай кӗтессинче, ҫаврӑнакан меню пур. Унӑн тӗпӗнче эсир «анлӑ шырав» опцие тупатӑр, ун ҫине пусма пултаратӑр. Унтан сирӗн проект(сем) валли хӑш критерисем ытларах вырӑнлӑ пулнине палӑртмалла. Суйласа илсен, эсир илнӗ результатсене страницӑн аял енче аялалла анса «Результатсене скачать ту» ҫине пусса скачать тума пултаратӑр.
