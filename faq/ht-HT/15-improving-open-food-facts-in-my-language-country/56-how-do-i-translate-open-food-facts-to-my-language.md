@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Kouman mwen ka tradui Open Food Facts nan lang mwen an?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-amelyore-enfòmasyon-sou-manje-ouvè-nan-peyi-ki-lang-pa-m-lan
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-amelyore-enfòmasyon-sou-manje-ouvè-nan-peyi-ki-lang-pa-m-lan/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Ale sou https://wiki.openfoodfacts.org/Country_Support
