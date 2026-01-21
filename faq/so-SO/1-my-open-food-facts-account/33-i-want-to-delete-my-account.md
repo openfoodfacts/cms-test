@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Waxaan rabaa inaan tirtiro akoonkayga"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-xaqiiqooyinka cuntada-furan ee aan-xisaabto
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-macluumaadka-cuntada-furan ee aan-ahay/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Tirtiridda akoonka hadda waxay si toos ah ugu dhacdaa doorbidyadaada.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Ka dib markaad gasho https://world.openfoodfacts.org/, dhagsii magaca isticmaalaha ee ku yaal geeska midig ee sare, dooro Xawaaraha Xisaabta. Waxay fureysaa bogga dookhyadaada. Tag qaybta hoose ee bogga oo isticmaal tallaabada "tirtir isticmaalaha".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Haddii aadan awoodin inaad gasho (ama aad dib u dejiso eraygaaga sirta ah), fadlan la xiriir dpo - at - openfoodfacts.org, adoo isticmaalaya cinwaanka iimaylka aad u isticmaasho diiwaangelinta akoonkaaga.
