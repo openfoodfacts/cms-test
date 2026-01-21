@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "मी हे FAQ माझ्या भाषेत कसे भाषांतरित करू?"
+order: ५७
 lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-माझ्या-भाषेच्या-देशातील-खुल्या-खाद्य-तथ्यांमध्ये-सुधारणा-
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/१५-माझ्या-भाषेतील-खुल्या-अन्न-तथ्यांमध्ये-सुधारणा/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ज्ञान केंद्राच्या संपादन प्रवेशासाठी कृपया contact@openfoodfacts.org ला विचारा.
