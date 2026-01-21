@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Барнома скан намекунад"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Барномаи 2-мобилӣ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-барномаи мобилӣ/' ]
 ---
 
-This may be due to
+Ин метавонад аз сабаби
 
-- a network problem
+- мушкили шабака
 
-- a permissions problem
+- мушкили иҷозатҳо
 
-- a barcode problem
+- мушкилоти рамзи штрих-код
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Ба мо тавассути профил паёми электронӣ фиристед >> Бо мо тамос гиред >> Ба мо паёми электронӣ фиристед.
 
-All relevant information should be attached to your request.
+Ҳама маълумоти дахлдор бояд ба дархости шумо замима карда шаванд.
