@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Ka taea e au te rapu i tētahi ingoa hua tika mā te API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-whakamahi-anō-raraunga
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-whakamahi-anō-raraunga/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Engari, kāore anō kia taea te rapu ngāwari i te ingoa hua anake, me te rapu tika mā te API.
 
-Using a filter on category might help you make your search more precise though.
+Mā te whakamahi i tētahi tātari mō te kāwai ka āwhina pea i a koe ki te whakarite kia tika ake tō rapunga.
