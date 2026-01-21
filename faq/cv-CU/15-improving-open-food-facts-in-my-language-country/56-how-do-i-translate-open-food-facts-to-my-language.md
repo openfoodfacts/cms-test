@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Уҫӑ апат-ҫимӗҫ факчӗсене хамӑн чӗлхе ҫине мӗнле куҫармалла?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-манӑн-чӗлхе-ҫӗршывӗнче-уҫӑ-апат-ҫимӗҫ-фактӗсене-лайӑхлатасси
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/cr-gb/15-улучшение-открытых-фудов-фактов-в-маной-языковой-стране/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support ҫине кӗрӗр
