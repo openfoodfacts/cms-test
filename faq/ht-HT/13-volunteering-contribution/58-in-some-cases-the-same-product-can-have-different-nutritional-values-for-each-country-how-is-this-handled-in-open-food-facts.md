@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Nan kèk ka, menm pwodwi a ka gen diferan valè nitrisyonèl pou chak peyi, kijan yo jere sa nan Open Food Facts?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-kontribisyon-volontè
+breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-kontribisyon/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% nan tan an, pwodiktè yo ap kreye diferan kòd bar pou diferan vèsyon pwodwi yo. Yon egzanp pi popilè se diferans ki genyen ant Nutella franse ak alman an tèm de epesè, akòz diferans nan pen atravè peyi yo. 2 fòmil diferan, 2 kòd bar diferan.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Sepandan, konfli kòd bar ka rive sou kòd ki pi kout (EAN-8) ke kèk magazen atravè Ewòp ak Etazini tipikman itilize ankò. Kounye a, nou pa jere konfli kòd bar sa yo, men li ta dwe posib pou fè sa lè nou jwenn kote jeneral itilizatè a (li pi ra toujou pou gen konfli kòd bar nan yon peyi).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+A lontèm, nou ankouraje pwodiktè yo pou yo chanje pou yo itilize EAN-13 pou evite konfli ak kòd bar sa yo.
