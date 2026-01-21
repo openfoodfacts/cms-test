@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Приложени пирки ӑҫта ҫырса яма пулать?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобильлӗ-приложени
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобильлӗ-приложени/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Эсир хӑвӑрӑн шухӑшӑрсене mobile@openfoodfacts.org адреспа ярса пама пултаратӑр
