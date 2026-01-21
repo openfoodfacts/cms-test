@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Mi estas muzikeldonejo, kiel mi povas partopreni en la projekto?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etikedoj
+breadcrumbs: [ '/en-gb/', '/eo-gb/23-etikedoj/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Kiel etikedo, la plej grava afero farenda estas kontakti nin (producers@openfoodfacts.org) kaj sendi al ni la liston de la produktoj, sur kiuj via etikedo estas montrata, por ke ni povu aldoni ilin al la rilataj produktaj folioj.
