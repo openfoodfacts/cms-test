@@ -1,11 +1,11 @@
 ---
-title: "Hvordan importerer jeg produktene mine til Open Beauty Facts?"
+title: "Hvordan importerer jeg mine produkter til åpen skjønnhetsegenskap?"
 order: 67
 lang: no-no
-category: 11-åpne-skjønnhetsfakta
-breadcrumbs: [ '/en-gb/', '/no-gb/11-åpne-skjønnhetsfakta/' ]
+category: 11-åpne skjønnhetsfakta
+breadcrumbs: [ '/radgiver/', '/no/nb-NO open-beauty-facts/' ]
 ---
 
 Kontakt producteurs@openfoodfacts.org eller gå direkte til
 
-https://world.pro.openfoodfacts.org, og kontakt deretter producteurs@openfoodfacts.org for en spesialeksportavtale
+https://world.pro.openfoodfacts.org og deretter kontakt producteurs@openfoodfacts.org for en spesiell eksport
