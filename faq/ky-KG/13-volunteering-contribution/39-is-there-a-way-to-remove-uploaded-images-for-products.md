@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Товарлар үчүн жүктөлгөн сүрөттөрдү алып салуунун жолу барбы?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ыктыярчылык салымы
+breadcrumbs: [ '/en-gb/', '/ky-gb/13-ыктыярдуу-салым/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Вандализмдин алдын алуу үчүн сүрөттөрдү модераторлор гана өчүрө алышат.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Жөн гана Slack'тен же contact@openfoodfacts.org дарегинен көчүрмөлөрүңүздү же башка туура эмес сүрөттөрүңүздү алып салууну сураныңыз (штрих-коддун номерин же URL дарегин берүүгө аракет кылышыңыз керек).
 
-We also have a new image report API if you're a programmer.
+Эгер сиз программист болсоңуз, бизде жаңы сүрөт отчету API бар.
