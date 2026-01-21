@@ -1,9 +1,9 @@
 ---
-title: "Finnes det anbefalinger noe sted i dokumentasjonen om hva som ville være en god størrelse for opplastede bilder?"
+title: "Er det anbefalinger i dokumentasjonen på hva som ville være en god størrelse for de opplastede bildene?"
 order: 40
 lang: no-no
 category: 12-api-data-gjenbruk
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+breadcrumbs: [ '/radgiver/', '/no/nb/12-api-data/' ]
 ---
 
-Det kan avhenge av land, om nettverket er tregt eller dyrt. Alt over 5000 piksler i vekt eller høyde er sannsynligvis ikke særlig nyttig. og hvis du på en eller annen måte kan oppdage at nettverket er tregt, ville selv et bilde på 2000 piksler være flott (absolutt bedre enn å ikke ha et bilde!).
+Det kan avhenge av land, hvis nettverket er langsomt eller dyrt. Noe over 5000 piksler i vekt eller høyde er sannsynligvis ikke særlig nyttig. og hvis du på en eller annen måte oppdager at nettverket er treg, da vil et 2000 piksler bilde være stort (absolutt bedre enn ikke å ha et bilde!)
