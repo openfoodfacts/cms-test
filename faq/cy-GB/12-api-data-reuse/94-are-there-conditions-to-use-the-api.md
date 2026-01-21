@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "A oes amodau i ddefnyddio'r API?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ailddefnyddio-data-12-api
+breadcrumbs: [ '/cy-gb/', '/cy-gb/12-api-data-ailddefnyddio/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Mae'r holl ddogfennaeth am ddefnyddio API i'w gweld ar dudalen ddogfennaeth yr API, ond dyma grynodeb byr:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Mae cronfa ddata Ffeithiau Bwyd Agored ar gael fel data agored o dan y Drwydded Cronfa Ddata Agored (ODbL), gweler https://world.openfoodfacts.org/terms-of-use am y manylion cyfreithiol. Y ddau amod yw priodoli a rhannu'n gyfartal. Os ydych chi'n cyfuno data o Open Food Facts â chronfeydd data eraill, yna mae'r ODbL yn ei gwneud yn ofynnol bod y gronfa ddata sy'n deillio o hyn yn cael ei rhyddhau fel data agored hefyd. Mae hefyd yn golygu mai dim ond â ffynonellau a fyddai'n caniatáu ailddosbarthu o'r fath y gallwch chi gyfuno'r data.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Rhaid i chi bob amser ddefnyddio Asiant-Defnyddiwr personol wrth berfformio galwadau API i adnabod eich ap.
 
-- Rate-limits are enforced for each API endpoint.
+- Gorfodir terfynau cyfraddau ar gyfer pob pwynt terfyn API.
