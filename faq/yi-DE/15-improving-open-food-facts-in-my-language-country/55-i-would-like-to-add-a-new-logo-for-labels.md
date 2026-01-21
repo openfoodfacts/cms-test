@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "איך וואָלט געוואָלט צולייגן אַ נײַעם לאָגאָ פֿאַר עטיקעטן"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-פאַרבעסערן-אָפענע-עסן-פאַקטן-אין-מיין-שפּראַך-לאַנד
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/yi-gb/15-פארבעסערן-אפענע-עסן-פאקטן-אין-מיין-שפראך-לאנד/'
   ]
 ---
 
-Here is the process:
+דאָ איז דער פּראָצעס:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- זוכט דעם קאנאנישן נאמען פון דער לייבל אין דער טאקסאנאמיע פון די לייבלס (עס איז דער ערשטער זאך אין דער ליסטע פון סינאנימען פון די לייבלס, למשל. en:100% וועגעטאַבל)
+- באַקומט דאָס לאָגאָ אין אַ גוטער קוואַליטעט: פֿאַרמײַדט צו ניצן דעם מיטאַרבעטער'ס פֿאָטאָ, וואָס זײַנען נישט פּאַסיק פֿאַר דעם פֿאַל; רובֿ עטיקעטן האָבן אָפֿיציעלע וועבזײַטן הויך-קוואַליטעט לאָגאָס, מאַנטשמאָל אין וועקטאָר פֿאָרמאַט (נאָך בעסער פֿאַר אונדז); ווי לאַנג ווי מיר ניצן אַ לאָגאָ צו אָביעקטיוו מיטטיילן וועגן דער עקזיסטענץ פֿון אַ
+  עטיקעט אויף דער פֿאַרפּאַקונג פֿון אַ פּראָדוקט, איז נישטאָ קיין נויט צו בעטן דערלויבעניש.
+- געב א נאמען פארן פייל אזוי: name-of-the-label.[width]x90.png וואו width איז די ברייט פארן לאגא ווען עס איז 90 פיקסעלס הויך. די טעקע נעמען דאַרפֿן זײַן אָן אַקצענטן, אין קליינע אותיות און ניצנדיק "-" אַנשטאָט לעכער.
+- דערנאך לייג צו דעם לאָגאָ אין דעם דירעקטאָרי וואָס קאָראַספּאַנדז צו זיין קאַנאָנישן נאָמען. אויב דער קאַנאָנישער נאָמען איז en:something, דאַן דאַרפֿן זיי זײַן אין /en/. דער וואָרצל דירעקטאָרי פֿאַר לאָגאָס איז https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
