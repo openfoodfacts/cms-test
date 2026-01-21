@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "মোৰ একাউণ্টটো ডিলিট কৰিব বিচাৰিছো"
+order: ৩৩
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ১-মোৰ-মুকলি-খাদ্য-তথ্য-একাউণ্ট
+breadcrumbs: [ '/as-gb/', '/as-gb/1-মোৰ-মুকলি-খাদ্য-তথ্য-একাউন্ট/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+একাউণ্ট মচি পেলোৱা এতিয়া আপোনাৰ পছন্দসমূহত পোনপটীয়াকৈ ঘটে।
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ ত লগইন কৰাৰ পিছত ওপৰৰ সোঁফালৰ চুকত ব্যৱহাৰকাৰীৰ নামত ক্লিক কৰক, একাউণ্ট প্ৰাচলসমূহ বাছক। ই আপোনাৰ পছন্দ পৃষ্ঠা খোলে। পৃষ্ঠাৰ তললৈ যাওক আৰু "ব্যৱহাৰকাৰী মচি পেলাওক" কাৰ্য্য ব্যৱহাৰ কৰক।
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+যদি আপুনি লগইন কৰিব নোৱাৰে (বা আপোনাৰ পাছৱৰ্ড পুনৰায় সেট কৰক), অনুগ্ৰহ কৰি dpo - at - openfoodfacts.org ৰ সৈতে যোগাযোগ কৰক, আপুনি একাউণ্ট পঞ্জীয়ন কৰিবলৈ ব্যৱহাৰ কৰা ইমেইল ঠিকনা ব্যৱহাৰ কৰি।
