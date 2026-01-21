@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Barnaamijku ma sawirayo"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-abka moobaylka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-abka-mobile-ka/' ]
 ---
 
-This may be due to
+Tani waxay noqon kartaa sabab
 
-- a network problem
+- dhibaato shabakad
 
-- a permissions problem
+- dhibaato ogolaansho ah
 
-- a barcode problem
+- dhibaato barcode ah
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Noo soo dir emayl iyada oo loo marayo Profile >> Nala soo xiriir >> Noo soo dir emayl.
 
-All relevant information should be attached to your request.
+Dhammaan macluumaadka khuseeya waa in lagu lifaaqaa codsigaaga.
