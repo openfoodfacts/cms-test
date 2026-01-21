@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Akwai hanyar cire hotunan da aka ɗora don samfura?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-gudummawar sa-kai
+breadcrumbs: [ '/en-gb/', '/en-gb/13-gudumar sa kai/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Masu tsara hotuna ne kawai za su iya cire hotuna, don guje wa ɓarna da ka iya faruwa.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Kawai ka nemi a Slack ko a contact@openfoodfacts.org don cire kwafi ko duk wani hotunan da ba su dace ba (ya kamata ka yi ƙoƙarin bayar da lambar barcode ko URL ɗin don haka).
 
-We also have a new image report API if you're a programmer.
+Muna da sabon API na rahoton hoto idan kai mai shirye-shirye ne.
