@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Adakah terdapat cadangan di mana-mana sahaja dalam dokumentasi tentang saiz yang sesuai untuk foto yang dimuat naik?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: penggunaan semula data 12-api
+breadcrumbs: [ '/en-gb/', '/ms-gb/penggunaan-semula-data-api-12/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Itu mungkin bergantung pada negara, sama ada rangkaian perlahan atau mahal. Apa-apa sahaja yang melebihi 5000 piksel dari segi berat atau tinggi mungkin tidak begitu berguna. dan jika anda entah bagaimana dapat mengesan bahawa rangkaian itu perlahan, maka imej 2000 piksel pun sudah memadai (sudah tentu lebih baik daripada tidak mempunyai imej!)
