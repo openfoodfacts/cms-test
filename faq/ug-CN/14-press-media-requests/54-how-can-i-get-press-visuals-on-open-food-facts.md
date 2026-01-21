@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "«ئوچۇق يېمەكلىك پاكىتلىرى» توغرىسىدىكى ئاخبارات كۆرۈنۈشلىرىنى قانداق ئالسام بولىدۇ؟"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
+category: 14-مەتبۇئات-مېدىيا-تەلەپلىرى
 breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+ئالاقىلىشىڭ: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
