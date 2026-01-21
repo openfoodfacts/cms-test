@@ -1,19 +1,19 @@
 ---
-title: "Is it possible to simulate the Eco-Score or Nutri-Score of my products?"
+title: "ڇا منهنجي شين جي ايڪو-اسڪور يا نيوٽري-اسڪور کي نقل ڪرڻ ممڪن آهي؟"
 order: 16
 lang: اين جي بي
-category: 19-about-the-scores
-parent_category: 3-producers
+category: 19-اسڪور بابت
+parent_category: 3-پيدا ڪندڙ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/19-about-the-scores/'
+    '/en-gb/3-پروڊيوسر/',
+    '/en-gb/3-پروڊيوسر/19-اباؤٽ-دي-اسڪور/'
   ]
 ---
 
-By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
+پيدا ڪندڙن جي پليٽ فارم تي رجسٽر ٿيڻ ۽ پنهنجي شين جو ڊيٽا اپلوڊ ڪرڻ سان، توهان پنهنجي شين سان لاڳاپيل نيوٽري-اسڪور ۽ ايڪو-اسڪور جو حساب لڳائي سگهو ٿا.
 
-However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
+جڏهن ته، توهان کي ان کي ختم ڪرڻ گهرجي هڪ ڀيرو سموليشن ڪئي وڃي ته جيئن اهو توهان جي رينج ۾ اڳ ۾ ئي مارڪيٽ ڪيل شين سان عوامي پليٽ فارم تي برآمد نه ٿئي.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي يوزر گائيڊ ڊائون لوڊ ڪرڻ ۽/يا اسان جي وڊيو سبقن جي صلاح ڪرڻ جي دعوت ڏيون ٿا :-)
