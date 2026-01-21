@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Ман мехоҳам логотипи навро барои тамғакоғазҳо илова кунам"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-Беҳтар кардани далелҳо дар бораи хӯроки озод дар кишвари-забони-ман
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-беҳбуди-фактҳои-хӯроки-кушода-дар-кишвари-ман-забон-дорам/'
   ]
 ---
 
-Here is the process:
+Ин раванд аст:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- номи каноникии тамғаро дар таксономияи тамғакоғазҳо пайдо кунед (ин банди аввал дар рӯйхати синонимҳои тамғакоғазҳо аст, масалан, en:100% vegetable)
+- Логотипро бо сифати хуб гиред: аз истифодаи акси саҳмгузор, ки барои ин ҳолат мувофиқ нест, худдорӣ кунед; аксари тамғакоғазҳо логотипҳои баландсифати вебсайтҳои расмӣ доранд, баъзан дар формати векторӣ (ҳатто барои мо беҳтар); то он даме, ки мо логотипро барои огоҳ кардани объективӣ дар бораи мавҷудияти тамғаи
+  дар бастабандии маҳсулот истифода мебарем, иҷозат пурсидан лозим нест.
+- Номи файлро чунин нависед: name-of-the-label.[width]x90.png, ки дар он width паҳнои логотип ҳангоми баландии 90 пиксел аст. Номи файлҳо бояд бе лаҳҷа, бо ҳарфҳои хурд ва ба ҷои фосила бо аломати "-" навишта шаванд.
+- сипас логотипро дар директорияе илова кунед, ки ба номи каноникии он мувофиқат мекунад. Агар номи канонӣ en:something бошад, пас онҳо бояд дар /en/ бошанд. Феҳристи решавии логотипҳо https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang аст.
