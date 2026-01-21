@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "ओपन फूड फ्याक्ट्समा म कसरी प्रेस भिजुअलहरू प्राप्त गर्न सक्छु?"
+order: ५४
 lang: एनजीबी
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: १४-प्रेस-मिडिया-अनुरोधहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/१४-प्रेस-मिडिया-अनुरोधहरू/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+कृपया सम्पर्क गर्नुहोस्: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
