@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Waxaan ahay dukaanle waxaana rabaa inaan qiimaha ku daro. Sideen taas u samayn karaa?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-qiimo-furan
+breadcrumbs: [ '/en-gb/', '/en-gb/29-qiimaha-furan/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Waxaad ku dari kartaa qiimaha adoo adeegsanaya API-gayaga. Haddii aad rabto inaad qiimaha ku darto miisaan, fadlan nagala soo xiriir contact@openfoodfacts.org.
