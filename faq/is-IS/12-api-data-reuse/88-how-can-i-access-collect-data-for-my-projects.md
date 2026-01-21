@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Hvernig get ég nálgast/safnað gögnum fyrir verkefnin mín?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-gagnaendurnotkun
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-gagna-endurnýting/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Á aðalsíðu Open Food Facts, efst í vinstra horninu á skjánum, er skrunvalmynd. Neðst á því finnur þú valkostinn „Ítarleg leit“ sem þú getur smellt á. Það er síðan undir þér komið að ákvarða hvaða viðmið eru viðeigandi fyrir verkefnið/verkefnin þín. Þegar þú hefur valið niðurstöður geturðu sótt þær með því að skruna niður neðst á síðunni og smella á „Sækja niðurstöður“.
 
-You can also consult:
+Þú getur einnig ráðfært þig við:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- API skjölun okkar: https://openfoodfacts.github.io/api-documentation/
+- Notkunarskilmálar Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Um gögnin okkar: https://world.openfoodfacts.org/data
