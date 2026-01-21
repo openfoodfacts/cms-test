@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "የትኛውን የመተግበሪያ ስሪት እየተጠቀምኩ እንደሆነ እንዴት አውቃለሁ?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ባለ 2-ሞባይል-መተግበሪያ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ሞባይል-መተግበሪያ/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+ወደ መገለጫ፣
+ከዚያም ወደ ተደጋጋሚ ጥያቄዎች፣ ከዚያም ስለዚህ መተግበሪያ ይሂዱ።
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+እንደ 3.4.5+662 ያለ የስሪት ቁጥር
+ማየት አለብዎት። የስልኩን አሠራርና ሞዴል
+ማረም ካለበት መንገርዎን አይርሱ።
