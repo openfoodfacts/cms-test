@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "ታሪካዊ መረጃዎችን እንዴት ማግኘት እችላለሁ?"
 order: 105
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+በአሁኑ ጊዜ፣ ታሪካዊ የውሂብ ዱፕ (JSONL፣ MongoDB፣ CSV) አናቀርብም።
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+ሆኖም ግን፣ ለግለሰብ ምርቶች፣ ቀደም ሲል የምርት መረጃውን ስሪቶች በኤፒአይ ወይም በምርት ገጹ ላይ ክለሳዎችን በመጠቀም ማግኘት ይቻላል።
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+አንድ ምርት በተዘመነ ቁጥር፣ አዲስ ማሻሻያ (ከ1 ጀምሮ የሚጨምር አሃዝ) ይፈጠራል።
 
-For example, to get the first revision (=first product version) of this product, use
+ለምሳሌ፣ የዚህን ምርት የመጀመሪያ ክለሳ (=የመጀመሪያው የምርት ስሪት) ለማግኘት፣ ይጠቀሙ
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+በተመሳሳይ፣ የ rev መለኪያ ከኤፒአይ ጋር ጥቅም ላይ ሊውል ይችላል፦
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
