@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "וואו קען איך געפֿינען די Open Beauty Facts API און דאַטן עקספּאָרטן?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-אפענע-שיינקייט-פאקטן
+breadcrumbs: [ '/en-gb/', '/en-gb/11-אפענע-שיינקייט-פאקטן/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+די Open Food Facts API איז 98% די זעלבע ווי די Open Beauty Facts API, אַזוי אויב איר ניצט די Open Food Facts API דאָקומענטאַציע זאָלט איר האָבן אַ גאַנץ קלאָרע מיינונג פון די Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+באַמערק אז פֿעיִטשערז ווי די וויסן פּאַנעלס, עקאָ-סקאָר, נוטרי-סקאָר ווערן נישט געשטיצט (אדער צוליב דעם טעמע, אדער צוליב דעם אַלטן קאָדבאַזע).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
