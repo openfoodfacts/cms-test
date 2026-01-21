@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "एप स्क्यान गर्दैन।"
+order: ३५
 lang: एनजीबी
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: २-मोबाइल-एप
+breadcrumbs: [ '/ne-gb/', '/ne-gb/2-मोबाइल-एप/' ]
 ---
 
-This may be due to
+यो कारणले हुन सक्छ
 
-- a network problem
+- नेटवर्क समस्या
 
-- a permissions problem
+- अनुमति समस्या
 
-- a barcode problem
+- बारकोड समस्या
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+प्रोफाइल >> हामीलाई सम्पर्क गर्नुहोस् >> मार्फत हामीलाई इमेल पठाउनुहोस्।
 
-All relevant information should be attached to your request.
+तपाईंको अनुरोधमा सबै सान्दर्भिक जानकारी संलग्न गर्नुपर्छ।
