@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "Quomodo scio quam versionem applicationis utar?"
+order: XXXIV
 lang: en-gb
-category: 2-mobile-app
+category: Applicatio mobilis 2
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Ad "Profile" vade,
+deinde "FAQ", tum "De hac applicatione".
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Numerum versionis similem 3.4.5+662 videre debes
+. Noli oblivisci nobis indicare fabricam et exemplar
+telephoni si errores corrigit.
