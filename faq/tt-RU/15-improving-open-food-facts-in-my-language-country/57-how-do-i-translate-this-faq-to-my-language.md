@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Бу еш бирелә торган сорауларны үз телемә ничек тәрҗемә итәргә?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-үз-телемдәге-илемдә-ачык-ризык-фактларын-яхшырту
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-минем-телемдә-ачык-ризык-фактларын-яхшырту/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Белем базасына үзгәрешләр кертү өчен, зинһар, contact@openfoodfacts.org адресына мөрәҗәгать итегез.
