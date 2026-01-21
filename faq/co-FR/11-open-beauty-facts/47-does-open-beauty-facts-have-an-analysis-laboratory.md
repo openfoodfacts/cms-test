@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Open Beauty Facts hà un laburatoriu d'analisi ?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fatti-di-bellezza-aperti
+breadcrumbs: [ '/en-gb/', '/en-gb/11-fatti-di-bellezza-aperti/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts ùn hà micca un laburatoriu d'analisi: simu un'associazione di vuluntarii chì u so scopu hè di creà una Wikipedia di i cusmetichi.
 
-That said, if you would like to help us provide more transparency for
+Dettu questu, sè vulete aiutà ci à furnisce più trasparenza per
 
-consumers, you can use our iPhone, Android and
+cunsumatori, pudete aduprà u nostru iPhone, Android è
 
-Windows Phone to add products:
+Windows Phone per aghjunghje prudutti:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+È per scambià è discute i pussibuli usi di u prugettu, voi
 
-can join the Facebook group of contributors:
+pò unisce si à u gruppu di cuntributori di Facebook:
 
 https://www.facebook.com/groups/356858984359591/
