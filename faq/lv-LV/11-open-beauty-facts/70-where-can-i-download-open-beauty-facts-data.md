@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Kur es varu lejupielādēt Open Beauty Facts datus?"
 order: 70
 lang: lv-lv
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 atklāti skaistuma fakti
+breadcrumbs: [ '/lv-lv/', '/lv-lv/11-atvērt-skaistuma-fakti/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data lapa pašlaik nedarbojas. Datus var lejupielādēt vietnē https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
