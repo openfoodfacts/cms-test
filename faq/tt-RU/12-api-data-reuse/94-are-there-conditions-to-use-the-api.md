@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "API куллану өчен шартлар бармы?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-мәгълүматларын кабат куллану
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API куллану турындагы барлык документларны API документлары битендә табарга мөмкин, ләкин кыскача мәгълүмат:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Ачык азык-төлек фактлары базасы ачык мәгълүматлар буларак Ачык мәгълүматлар базасы лицензиясе (ODbL) нигезендә тәкъдим ителә, юридик мәгълүмат өчен https://world.openfoodfacts.org/terms-of-use сайтына керегез. Ике шарт - атрибуция һәм тигез өлеш. Әгәр сез Open Food Facts мәгълүматларын башка мәгълүмат базалары белән берләштерсәгез, ODbL нәтиҗәдә алынган мәгълүмат базасының да ачык мәгълүмат буларак чыгарылуын таләп итә. Бу шулай ук мәгълүматларны бары тик шундый яңадан бүлешүгә мөмкинлек бирә торган чыганаклар белән генә берләштерергә мөмкин дигәнне аңлата.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Кушымтагызны билгеләү өчен API чакыруларын башкарганда, сез һәрвакыт махсус Кулланучы-Агентын кулланырга тиеш.
 
-- Rate-limits are enforced for each API endpoint.
+- Һәр API ноктасы өчен тариф чикләүләре кулланыла.
