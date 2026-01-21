@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "എന്റെ പ്രോജക്റ്റുകൾക്കായി എനിക്ക് എങ്ങനെ ഡാറ്റ ആക്‌സസ്/ശേഖരിക്കാൻ കഴിയും?"
+order: 86   86
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-സ്കൂൾ-പ്രോജക്ടുകൾ
+parent_category: 25-ഗവേഷകർ-പണ്ഡിതൻ
 breadcrumbs:
   [
-    '/en-gb/',
+    '/എംഎൽ-ജിബി/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-reserchers-scholar/26-school-projects/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ഓപ്പൺ ഫുഡ് ഫാക്‌ട്‌സിന്റെ പ്രധാന പേജിൽ, സ്‌ക്രീനിന്റെ മുകളിൽ ഇടത് മൂലയിൽ, ഒരു സ്ക്രോളിംഗ് മെനു ഉണ്ട്. അതിന്റെ അടിയിൽ, നിങ്ങൾക്ക് "വിപുലമായ തിരയൽ" ഓപ്ഷൻ കാണാം, അതിൽ നിങ്ങൾക്ക് ക്ലിക്ക് ചെയ്യാം. നിങ്ങളുടെ പ്രോജക്റ്റിന് (പ്രൊജക്റ്റുകൾക്ക്) ഏറ്റവും പ്രസക്തമായ മാനദണ്ഡങ്ങൾ ഏതൊക്കെയാണെന്ന് നിർണ്ണയിക്കേണ്ടത് നിങ്ങളാണ്. തിരഞ്ഞെടുത്തുകഴിഞ്ഞാൽ, പേജിന്റെ താഴെയായി സ്ക്രോൾ ചെയ്ത് "ഡൗൺലോഡ് റിസൾട്ട്സ്" ക്ലിക്ക് ചെയ്തുകൊണ്ട് നിങ്ങൾക്ക് ലഭിച്ച ഫലങ്ങൾ ഡൗൺലോഡ് ചെയ്യാൻ കഴിയും.
