@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "ຂ້ອຍເປັນຄ້າຍເພງ, ຂ້ອຍຈະເຂົ້າຮ່ວມໂຄງການໄດ້ແນວໃດ?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ປ້າຍກຳກັບ
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ປ້າຍກຳກັບ/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+ໃນຖານະເປັນປ້າຍຊື່, ສິ່ງທີ່ກ່ຽວຂ້ອງທີ່ສຸດທີ່ຕ້ອງເຮັດຄືການຕິດຕໍ່ພວກເຮົາ (producers@openfoodfacts.org) ແລະສົ່ງລາຍຊື່ຜະລິດຕະພັນທີ່ສະແດງປ້າຍຊື່ຂອງທ່ານໃຫ້ພວກເຮົາເພື່ອໃຫ້ພວກເຮົາສາມາດເພີ່ມພວກມັນໃສ່ໃນແຜ່ນຜະລິດຕະພັນທີ່ກ່ຽວຂ້ອງ.
