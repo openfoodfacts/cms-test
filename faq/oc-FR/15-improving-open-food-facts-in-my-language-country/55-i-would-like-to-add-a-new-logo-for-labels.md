@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "M'agradariá d'apondre un novèl lògo per las etiquetas"
 order: 55
 lang: es-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-melhorar-los-faches-de-alimentacion-dobèrta-dins-mon-país-de-lenga
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/es-gb/',
+    '/es-gb/15-amelhorar-los-faits-de-alimentacion-dubèrta-dins-mon-país-de-lenga/'
   ]
 ---
 
-Here is the process:
+Vaquí lo procès:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- trobar lo nom canonic de l'etiqueta dins la taxonomia de las etiquetas (es lo primièr element de la lista dels sinonims de las etiquetas, ex. oc:100% vegetal)
+- obtenètz lo lògo d'una bona qualitat : evitatz d'utilizar la fòto del contributor que son pas adaptadas per aqueste cas ; la màger part de las etiquetas an de sites web oficials de logotips de qualitat nauta, de còps en format vectorial (encara melhor per nosautres); tant qu'utilizam un lògo per informar objectivament de la preséncia d'una etiqueta
+  sus l'embalatge d'un produch, i a pas besonh de demandar l'autorizacion.
+- nomenatz lo fichièr coma aquò : name-of-the-label.[width]x90.png ont width es la largor del lògo quand es de 90 pixèls de naut. Los noms de fichièrs an de besonh d'èsser sens accentuacion, en minusculas e en utilizant "-" al luòc d'espacis.
+- puèi apondre lo lògo dins lo repertòri que correspond a son nom canonic. Se lo nom canonic es en:quicòm, alara lor cal èsser en /en/. Lo repertòri raiç dels lògos es https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
