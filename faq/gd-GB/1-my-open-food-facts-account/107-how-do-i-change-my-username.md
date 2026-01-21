@@ -2,8 +2,12 @@
 title: "Ciamar a dh’atharraicheas mi m’ ainm-cleachdaiche?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mo chunntas-fosgailte-fìrinnean-bìdh
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/gb-gb/1-mo-chunntas-fìrinnean-bidhe-fosgailte/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Gu mì-fhortanach, chan eil e comasach. Ma tha thu dha-rìribh ag iarraidh atharrachadh, feumaidh tu do chunntas a dhubhadh às agus fear ùr a chruthachadh.
