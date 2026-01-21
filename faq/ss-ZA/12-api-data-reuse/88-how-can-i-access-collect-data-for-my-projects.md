@@ -1,15 +1,19 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Ngingafinyelela njani/ngibutsele njani idatha yemaphrojekthi ami?"
 order: 88
 lang: si-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-kuphindze-kusetjentiswe idatha
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/12-kusetjentiswa-kwemininingwane-ye-api/'
+  ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Ekhasini lelikhulu le-Open Food Facts, ekhoneni lelingetulu ngasencele lesikrini, kunemenyu lephenyako. Ngephansi kwayo, utawutfola inketho letsi “kusesha lokusezingeni lelisetulu,” longachafata kuyo. Kubese kukuwe kutsi uncume kutsi nguyiphi indlela lefanele kakhulu kuphrojekthi yakho (emaphrojekthi). Uma sewukhetsiwe, utawukhona kulandza imiphumela letfoliwe ngekutsi uskrolele phansi ngephansi kwelikhasi bese uchafata ku “Landza imiphumela”.
 
-You can also consult:
+Ungaphindze futsi ubone:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Imibhalo yetfu ye-API: https://maciniso ekudla lavulekile.github.io/api-imibhalo/
+- Imigomo Yekusebentisa Emaciniso Ekudla Lavulekile: https://mhlaba.emaciniso ekudla lavulekile.org/imigomo-yekusebentisa
+- Kumininingwane yetfu: https://mhlaba.kuvula.emaciniso ekudla.org/idatha
