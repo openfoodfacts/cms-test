@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Ninawezaje kuingiza bidhaa zangu katika Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Mambo 11-ya-urembo-wazi
+breadcrumbs: [ '/sw-gb/', '/sw-gb/11-ukweli-wazi-wa-urembo/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Wasiliana na producteurs@openfoodfacts.org au nenda moja kwa moja kwa
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org kisha wasiliana na producteurs@openfoodfacts.org kwa usafirishaji maalum
