@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "Ne ye designer ye. Ne bɛ se ka dɛmɛ don cogo di ?"
+order: 49. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-bolomafara-dɛmɛ
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/13-baarakɛ-dɛmɛ/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+An bɛ baara bɛɛ ɲɛnabɔ min ɲɛsinnen bɛ dilancogo ma https://github.com/openfoodfacts/openfoodfacts-design kan ani barokɛyɔrɔ kɛrɛnkɛrɛnnen dɔ kan. An bɛ to ka ekipu lajɛw kɛ ani ka hakilijagabɔ kɛ gɛlɛya kɛrɛnkɛrɛnnenw kan.
