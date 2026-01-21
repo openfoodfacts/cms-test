@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Kāore te taupānga e matawai"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Taupānga-waea-2
+breadcrumbs: [ '/en-gb/', '/en-gb/2-taupānga-pūkoro/' ]
 ---
 
-This may be due to
+Tērā pea nā te
 
-- a network problem
+- he raruraru whatunga
 
-- a permissions problem
+- he raruraru whakaaetanga
 
-- a barcode problem
+- he raruraru waehere pae
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Tukuna mai he īmēra mā te Kōtaha >> Whakapā mai >> Tukuna mai he īmēra.
 
-All relevant information should be attached to your request.
+Me tāpiri atu ngā mōhiohio katoa e tika ana ki tāu tono.
