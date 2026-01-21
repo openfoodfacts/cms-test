@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "וואו קען איך שיקן באַמערקונגען וועגן דער אַפּ?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-מאָביל-אַפּ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-מאָביל-אַפּ/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+איר קענט שיקן באַמערקונגען צו mobile@openfoodfacts.org
