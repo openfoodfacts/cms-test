@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Je, Open Beauty Facts ina maabara ya uchambuzi?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Mambo 11-ya-urembo-wazi
+breadcrumbs: [ '/sw-gb/', '/sw-gb/11-ukweli-wazi-wa-urembo/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Kwa bahati mbaya Open Beauty Facts haina maabara ya uchambuzi: sisi ni chama cha watu wanaojitolea ambao lengo lao ni kuunda Wikipedia ya vipodozi.
 
-That said, if you would like to help us provide more transparency for
+Hata hivyo, kama ungependa kutusaidia kutoa uwazi zaidi kwa
 
-consumers, you can use our iPhone, Android and
+watumiaji, unaweza kutumia iPhone, Android na
 
-Windows Phone to add products:
+Simu ya Windows ili kuongeza bidhaa:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Na ili kubadilishana na kujadili matumizi yanayowezekana ya mradi, wewe
 
-can join the Facebook group of contributors:
+Unaweza kujiunga na kikundi cha wachangiaji cha Facebook:
 
 https://www.facebook.com/groups/356858984359591/
