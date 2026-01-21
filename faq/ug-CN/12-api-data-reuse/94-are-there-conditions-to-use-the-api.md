@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "API نى ئىشلىتىش ئۈچۈن شەرتلەر بارمۇ؟"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-سانلىق مەلۇماتنى قايتا ئىشلىتىش
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API ئىشلىتىش توغرىسىدىكى بارلىق ھۆججەتلەرنى API ھۆججەتلىرى بېتىدىن تاپقىلى بولىدۇ، ئەمما بۇ يەردە قىسقىچە خۇلاسە بار:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- ئوچۇق يېمەكلىك ئۇچۇرلىرى سانلىق مەلۇمات ئامبىرى ئوچۇق سانلىق مەلۇمات ئامبىرى ئىجازەتنامىسى (ODbL) بويىچە ئوچۇق سانلىق مەلۇمات سۈپىتىدە تەمىنلىنىدۇ، قانۇنىي تەپسىلاتلار ئۈچۈن https://world.openfoodfacts.org/terms-of-use غا قاراڭ. بۇ ئىككى شەرت ئىگىدارلىق ھوقۇقى ۋە ئورتاقلىشىشتىن ئىبارەت. ئەگەر سىز ئوچۇق يېمەكلىك پاكىتلىرىدىكى سانلىق مەلۇماتلارنى باشقا سانلىق مەلۇماتلار ئامبىرى بىلەن بىرلەشتۈرسىڭىز، ODbL نەتىجىدە ھاسىل بولغان سانلىق مەلۇمات ئامبىرىنىڭ ئوچۇق سانلىق مەلۇمات سۈپىتىدە تارقىتىلىشىنى تەلەپ قىلىدۇ. بۇ يەنە سانلىق مەلۇماتلارنى پەقەت مۇشۇنداق قايتا تەقسىملەشكە يول قويىدىغان مەنبەلەر بىلەن بىرلەشتۈرگىلى بولىدىغانلىقىدىن دېرەك بېرىدۇ.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- ئەپنى ئېنىقلاش ئۈچۈن API چاقىرىشلىرىنى ئىجرا قىلغاندا ھەمىشە خاسلاشتۇرۇلغان ئىشلەتكۈچى ۋاكالەتچىسىنى ئىشلىتىشىڭىز كېرەك.
 
-- Rate-limits are enforced for each API endpoint.
+- ھەر بىر API ئاخىرقى نۇقتىسى ئۈچۈن نىسبەت چەكلىمىسى يولغا قويۇلىدۇ.
