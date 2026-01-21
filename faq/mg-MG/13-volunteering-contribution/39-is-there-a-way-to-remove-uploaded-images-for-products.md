@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
-order: 39
+title: "Misy fomba hanesorana ireo sary nakarina ho an'ny vokatra ve?"
+order: 39 taona
 lang: en-gb
-category: 13-volunteering-contribution
+category: 13-fanomezana an-tsitrapo
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Ireo mpandrindra ihany no afaka manala sary, mba hisorohana ny mety ho fanimbana.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Angataho fotsiny ao amin'ny Slack na amin'ny contact@openfoodfacts.org mba hanesorana ireo sary mitovy aminao na izay sary tsy mendrika (tokony hiezaka hanome ny laharan'ny kaody bara na ny URL-ny ianao).
 
-We also have a new image report API if you're a programmer.
+Manana API vaovao ho an'ny tatitra sary ihany koa izahay raha toa ka mpandrindra programa ianao.
