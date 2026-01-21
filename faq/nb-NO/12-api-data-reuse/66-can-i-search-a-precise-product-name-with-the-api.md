@@ -1,11 +1,11 @@
 ---
-title: "Kan jeg søke etter et presist produktnavn med API-et?"
+title: "Kan jeg søke etter et presist produktnavn med API?"
 order: 66
 lang: no-no
 category: 12-api-data-gjenbruk
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+breadcrumbs: [ '/radgiver/', '/no/nb/12-api-data/' ]
 ---
 
-Dessverre er det ennå ikke mulig å enkelt søke kun på produktnavn og presist via API-et.
+Dessverre er det ikke mulig å enkelt søke på produktnavn bare og nøyaktig gjennom API-et.
 
-Å bruke et filter på kategori kan imidlertid hjelpe deg med å gjøre søket ditt mer presist.
+Ved å bruke et filter på en kategori kan det hjelpe deg med å gjøre søket ditt mer presis.
