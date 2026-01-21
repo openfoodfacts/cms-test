@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "एपिआइ-उपयोगाय शर्ताः सन्ति वा ?"
+order: ९४
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: १२-अपि-दत्तांश-पुनः प्रयोगः
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+एपिआइ-उपयोगस्य विषये सर्वाणि दस्तावेजानि एपिआइ-दस्तावेजपृष्ठे प्राप्यन्ते, परन्तु अत्र द्रुतसारांशः अस्ति:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- मुक्तखाद्यतथ्यदत्तांशकोशः मुक्तदत्तांशकोशानुज्ञापत्रस्य (ODbL) अन्तर्गतं मुक्तदत्तांशरूपेण उपलभ्यते, कानूनीविवरणार्थं https://world.openfoodfacts.org/terms-of-use पश्यन्तु द्वे शर्तौ आरोपणं भाग-सदृशं च । यदि भवान् Open Food Facts इत्यस्मात् आँकडान् अन्यैः दत्तांशकोशैः सह संयोजयति तर्हि ODbL इत्यस्य आवश्यकता अस्ति यत् परिणामितं दत्तांशकोशं मुक्तदत्तांशरूपेण अपि मुक्तं भवितुमर्हति । एतस्य अपि अर्थः अस्ति यत् भवान् केवलं तादृशैः स्रोतैः सह दत्तांशं संयोजयितुं शक्नोति ये एतादृशं पुनर्वितरणं अनुमन्यन्ते ।
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- भवता स्वस्य एप्-परिचयार्थं एपिआइ-आह्वानं कुर्वन् सदैव कस्टम्-उपयोक्तृ-एजेण्ट्-उपयोगः करणीयः ।
 
-- Rate-limits are enforced for each API endpoint.
+- प्रत्येकस्य एपिआइ अन्त्यबिन्दुस्य कृते दर-सीमाः प्रवर्तन्ते ।
