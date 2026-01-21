@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Ярлык пек, аккаунт йӗркелесси пӗлтерӗшлӗ-и?"
 order: 76
 lang: en-gb
-category: 23-labels
+category: 23-ярлык
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Этикетка пулнӑ май, эсир продукцие тӳрремӗнех туса кӑларакан мар, ҫавӑнпа та сире туса кӑлараканӑн аккаунтне йӗркелеме кирлӗ мар.
