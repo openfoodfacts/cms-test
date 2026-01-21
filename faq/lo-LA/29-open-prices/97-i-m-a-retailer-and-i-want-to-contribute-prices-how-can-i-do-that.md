@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "ຂ້ອຍເປັນຜູ້ຂາຍຍ່ອຍ ແລະ ຂ້ອຍຢາກປະກອບສ່ວນລາຄາ. ຂ້ອຍຈະເຮັດແນວນັ້ນໄດ້ແນວໃດ?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: ລາຄາເປີດ 29
+breadcrumbs: [ '/en-gb/', '/en-gb/29-ລາຄາເປີດ/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+ທ່ານສາມາດປະກອບສ່ວນລາຄາໂດຍການໃຊ້ API ຂອງພວກເຮົາ. ຖ້າທ່ານຕ້ອງການປະກອບສ່ວນລາຄາໃນລະດັບໃຫຍ່, ກະລຸນາຕິດຕໍ່ພວກເຮົາໄດ້ທີ່ contact@openfoodfacts.org.
