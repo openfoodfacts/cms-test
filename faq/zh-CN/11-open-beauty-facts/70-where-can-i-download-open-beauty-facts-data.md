@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "我可以在哪里下载Open Beauty Facts的数据？"
 order: 70
 lang: 英语-英国
-category: 11-open-beauty-facts
+category: 11个关于美容的公开信息
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data 页面目前无法正常访问。 您可以从以下网址下载数据：https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
