@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "मी माझ्या भाषेत ओपन फूड फॅक्ट्स कसे भाषांतरित करू?"
+order: ५६
 lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-माझ्या-भाषेच्या-देशातील-खुल्या-खाद्य-तथ्यांमध्ये-सुधारणा-
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/१५-माझ्या-भाषेतील-खुल्या-अन्न-तथ्यांमध्ये-सुधारणा/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support वर जा.
