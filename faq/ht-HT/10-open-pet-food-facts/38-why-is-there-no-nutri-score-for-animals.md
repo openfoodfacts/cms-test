@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Poukisa pa gen Nutri-Score pou bèt yo?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-reyalite-sou-manje-pou-bèt-ouvè
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/10-enfòmasyon-sou-manje-pou-bèt-domèn/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Chak bèt diferan (yon koulèv pa gen menm bezwen nitrisyonèl ak yon chat oswa yon chen)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Menm nan menm kalite bèt tankou chen, bezwen nitrisyonèl yo varye selon mòd vi sedantè a, yon posib kastrasyon oswa maladi.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Se poutèt sa, li konplike pou kalkile yon nòt pou manje bèt san yo pa enplike plizyè douzèn chèchè epi kreye plizyè douzèn algoritm diferan, sa ki poko fèt jouk jounen jodi a.
