@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "मैं ऐप के बारे में फीडबैक कहां भेज सकता हूं?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-मोबाइल-ऐप
+breadcrumbs: [ '/en-gb/', '/en-gb/2-मोबाइल-ऐप/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+आप mobile@openfoodfacts.org पर अपनी प्रतिक्रिया भेज सकते हैं।
