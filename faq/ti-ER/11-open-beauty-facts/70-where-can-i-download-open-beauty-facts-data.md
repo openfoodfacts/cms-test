@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "ዳታ ክፉት ጽባቐ ሓቅታት ኣበይ ከውርድ ይኽእል?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ክፉት-ጽባቐ-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/11-ክፉት-ሓቅታት-ጽባቐ/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+ኣብዚ እዋን እዚ እቲ /data ዝብል ገጽ ተሰቢሩ ኣሎ። ነቲ ዳታ ኣብዚ https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv ክትረኽብዎ ትኽእሉ ኢኹም።
