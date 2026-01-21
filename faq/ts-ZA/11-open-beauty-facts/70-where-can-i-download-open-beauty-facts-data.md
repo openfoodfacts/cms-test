@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Xana ndzi nga yi kopa kwihi data ya Open Beauty Facts?"
 order: 70
 lang: ts-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-timhaka-ti-vuxongi leti pfulekeke
+breadcrumbs: [ '/ts-gb/ .', '/ts-gb/11-vula-timhaka-yo saseka/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Tluka ra /data sweswi ri tshovekile. U nga kopa datha eka https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
