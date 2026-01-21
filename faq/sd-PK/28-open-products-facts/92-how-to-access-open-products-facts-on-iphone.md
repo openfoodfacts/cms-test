@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
+title: "آئي فون تي اوپن پراڊڪٽس فيڪٽس تائين ڪيئن رسائي حاصل ڪجي؟"
 order: 92
 lang: اين جي بي
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-کليل-پراڊڪٽس-حقيقتون
+breadcrumbs: [ '/en-gb/', '/en-gb/28-کليل-پراڊڪٽس-حقيقتون/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+اوپن پراڊڪٽس فيڪٽس مکيه اوپن فوڊ فيڪٽس ايپ ۾ موجود آهي. هي انضمام آئي فون استعمال ڪندڙن کي هڪ واحد، آسان ايپليڪيشن ذريعي ٻنهي ڊيٽابيس تائين رسائي جي اجازت ڏئي ٿو.
