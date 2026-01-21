@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Kei hea ahau e taea ai te tango i ngā raraunga o Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ngā-meka-ataahua-tuwhera
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ngā-meka-ataahua-tuwhera/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Kua pakaru te whārangi /raraunga i tēnei wā. Ka taea e koe te tango i ngā raraunga i https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
