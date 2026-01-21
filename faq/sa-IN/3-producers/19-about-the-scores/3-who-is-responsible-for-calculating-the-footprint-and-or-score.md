@@ -1,15 +1,15 @@
 ---
-title: "Who is responsible for calculating the footprint and/or score?"
+title: "पदचिह्नस्य/अथवा स्कोरस्य गणनायाः उत्तरदायित्वं कस्य अस्ति?"
 order: 3
 lang: en-gb
-category: 19-about-the-scores
-parent_category: 3-producers
+category: १९-अङ्कानां विषये
+parent_category: ३-उत्पादकाः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/19-about-the-scores/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/3-उत्पादक/',
+    '/en-gb/3-producers/19-स्कोर-विषये/'
   ]
 ---
 
-The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
+न्यूट्री-स्कोर, नोवा समूहः, इको-स्कोर च मुक्तखाद्यतथ्येषु उपस्थितानां आँकडानां आधारेण गण्यते । अस्माकं एल्गोरिदम् एतेषां स्कोरानाम् आधिकारिकपद्धतीनां सख्यं अनुसरणं करोति।
