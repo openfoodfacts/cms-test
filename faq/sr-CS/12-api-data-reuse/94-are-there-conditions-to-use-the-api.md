@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Да ли постоје услови за коришћење API-ја?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Сва документација о коришћењу API-ја може се наћи на страници са API документацијом, али ево кратког резимеа:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- База података „Open Food Facts“ доступна је као отворени подаци под лиценцом за отворену базу података (ODbL), погледајте https://world.openfoodfacts.org/terms-of-use за правне детаље. Два услова су приписивање и дељење под истим условима. Ако комбинујете податке из Open Food Facts са другим базама података, онда ODbL захтева да резултујућа база података такође буде објављена као отворени подаци. То такође значи да можете комбиновати податке само са изворима који би дозволили такву редистрибуцију.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Увек морате користити прилагођени кориснички агент када извршавате API позиве да бисте идентификовали своју апликацију.
 
-- Rate-limits are enforced for each API endpoint.
+- Ограничења брзине се примењују за сваку крајњу тачку API-ја.
