@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
+title: "Kupinda mupuratifomu yePro nekupinza data hazvina muripo here?"
 order: 72
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-nezve-zvekudya-zvakavhurika-chokwadi
+parent_category: Vagadziri vatatu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
+    '/sn-gb/',
+    '/en-gb/3-vagadziri/',
     '/en-gb/3-producers/17-about-open-food-facts/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Zvechokwadi, uye zvichagara zvakadaro nekusingaperi.Mabasa ese anopiwa neOpen Food Facts haabhadharwi. Tinofara zvikuru kuti masarudza kuisa ruzivo rwechigadzirwa chenyu kuti chive pachena, uye tinokutendai neizvi.
