@@ -2,8 +2,12 @@
 title: "Пайдаланушы атын қалай өзгертуге болады?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-менің-ашық-тамақ-фактілері-аккаунтым
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-менің-ашық-түлік-фактілері-шот-хабарламасы/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Өкінішке орай, бұл мүмкін емес. Егер сіз шынымен өзгерткіңіз келсе, тіркелгіңізді жойып, жаңасын жасауыңыз керек.
