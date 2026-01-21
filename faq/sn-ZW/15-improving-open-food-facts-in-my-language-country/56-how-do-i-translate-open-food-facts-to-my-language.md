@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Ndingashandura sei Open Food Facts kumutauro wangu?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-kuvandudza-ruzivo-rwekudya-rwakavhurika-munyika-yemutauro wangu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/sn-gb/',
+    '/en-gb/15-kuvandudza-ruzivo-rwezvekudya-zvakavhurika-munyika-yemutauro-wangu/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Endai ku https://wiki.openfoodfacts.org/Country_Support
