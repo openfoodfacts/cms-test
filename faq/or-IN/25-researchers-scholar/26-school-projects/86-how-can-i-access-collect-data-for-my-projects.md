@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "ମୁଁ ମୋର ପ୍ରୋଜେକ୍ଟ ପାଇଁ ତଥ୍ୟ କିପରି ପ୍ରବେଶ/ସଂଗ୍ରହ କରିପାରିବି?"
+order: ୮୬
 lang: ଇଂ-ଜିବି
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: ୨୬-ସ୍କୁଲ-ପ୍ରକଳ୍ପ
+parent_category: ୨୫-ଗବେଷକ-ବିଦ୍ୱାନ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/ en-gb / 25-ଗବେଷକ-ବିଦ୍ୱାନ /',
+    '/en-gb/25-ଗବେଷକ-ବିଦ୍ୱାନ/26-ସ୍କୁଲ-ପ୍ରୋଜେକ୍ଟ/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+"ଓପନ୍ ଫୁଡ୍ ଫ୍ୟାକ୍ଟସ୍"ର ମୁଖ୍ୟ ପୃଷ୍ଠାରେ, ସ୍କ୍ରିନର ଉପର ବାମ କୋଣରେ, ଏକ ସ୍କ୍ରୋଲିଂ ମେନୁ ଅଛି। ଏହାର ତଳେ, ଆପଣ "ଉନ୍ନତ ସନ୍ଧାନ" ବିକଳ୍ପ ପାଇବେ, ଯାହା ଉପରେ ଆପଣ କ୍ଲିକ୍ କରିପାରିବେ। ତା'ପରେ ଆପଣଙ୍କ ପ୍ରକଳ୍ପ (ଗୁଡ଼ିକ) ପାଇଁ କେଉଁ ମାନଦଣ୍ଡ ସବୁଠାରୁ ପ୍ରାସଙ୍ଗିକ ତାହା ନିର୍ଣ୍ଣୟ କରିବା ଆପଣଙ୍କ ଉପରେ ନିର୍ଭର କରେ। ବାଛିବା ପରେ, ଆପଣ ପୃଷ୍ଠାର ତଳ ଭାଗରେ ସ୍କ୍ରୋଲ୍ କରି ଏବଂ “ପରିଣାମ ଡାଉନଲୋଡ୍ କରନ୍ତୁ” ଉପରେ କ୍ଲିକ୍ କରି ପ୍ରାପ୍ତ ଫଳାଫଳଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍ କରିପାରିବେ।
