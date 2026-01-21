@@ -2,9 +2,9 @@
 title: "Hvordan kan jeg få pressebilder på Open Food Facts?"
 order: 54
 lang: no-no
-category: 14-presse-medieforespørsler
-breadcrumbs: [ '/en-gb/', '/no-gb/14-presseforespørsler-fra-medier/' ]
+category: 14-press-media-forespørsler
+breadcrumbs: [ '/radgiver/', '/no gb/14-press-media-requests/' ]
 ---
 
-Ta kontakt med: presse@openfoodfacts.org
+Kontakt : presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
