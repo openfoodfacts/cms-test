@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Bagaimana saya bisa mendapatkan visual pers tentang Open Food Facts?"
 order: 54
 lang: bahasa Inggris
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14 permintaan pers-media
+breadcrumbs: [ '/en-gb/', '/en-gb/14-permintaan-media-pers/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Silakan hubungi: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
