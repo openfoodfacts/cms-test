@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Ningependa kuongeza nembo mpya kwa ajili ya lebo"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Mambo 15-yanayoboresha-chakula-kilicho wazi-katika nchi yangu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/sw-gb/',
+    '/sw-gb/15-kuboresha-ukweli-wa-chakula-wazi-katika-nchi-yangu-ya-lugha/'
   ]
 ---
 
-Here is the process:
+Hapa kuna mchakato:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- Tafuta jina la kisheria la lebo katika uainishaji wa lebo (ni kipengee cha kwanza katika orodha ya visawe vya lebo, k.m. en: 100% mboga)
+- Pata nembo katika ubora mzuri: epuka kutumia picha ya mchangiaji ambayo haifai kwa kesi hii; lebo nyingi zina nembo rasmi za ubora wa juu za tovuti, wakati mwingine katika umbizo la vekta (bora zaidi kwetu); mradi tu tunatumia nembo kutoa taarifa kuhusu uwepo wa lebo ya
+  kwenye kifungashio cha bidhaa, hakuna haja ya kuomba ruhusa.
+- Ipe jina faili hivi: jina-la-lebo.[width]x90.png ambapo upana ni upana wa nembo ikiwa na pikseli 90 juu. Majina ya faili yanahitaji kuwa bila lafudhi, kwa herufi ndogo na kutumia "-" badala ya nafasi.
+- kisha ongeza nembo kwenye saraka inayolingana na jina lake la kisheria. Ikiwa jina la kisheria ni en:something, basi wanahitaji kuwa katika /en/. Saraka ya msingi ya nembo ni https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
