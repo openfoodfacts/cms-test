@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Kie mi povas elŝuti datumojn de Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-malfermaj-belecaj-faktoj
+breadcrumbs: [ '/en-gb/', '/eo-gb/11-malfermaj-faktoj-pri-beleco/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+La paĝo /data estas nuntempe difektita. Vi povas elŝuti la datumojn ĉe https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
