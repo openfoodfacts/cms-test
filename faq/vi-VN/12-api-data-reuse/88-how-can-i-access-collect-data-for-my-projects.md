@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Tôi có thể truy cập/thu thập dữ liệu cho các dự án của mình bằng cách nào?"
 order: 88
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Trên trang chủ của Open Food Facts, ở góc trên bên trái màn hình, có một menu cuộn. Ở cuối trang, bạn sẽ thấy tùy chọn "tìm kiếm nâng cao", bạn có thể nhấp vào đó. Sau đó, bạn sẽ phải tự xác định những tiêu chí nào phù hợp nhất với dự án của mình. Sau khi chọn xong, bạn có thể tải xuống kết quả bằng cách cuộn xuống cuối trang và nhấp vào “Tải xuống kết quả”.
 
-You can also consult:
+Bạn cũng có thể tham khảo thêm:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Tài liệu API của chúng tôi: https://openfoodfacts.github.io/api-documentation/
+- Điều khoản sử dụng của Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Nguồn dữ liệu của chúng tôi: https://world.openfoodfacts.org/data
