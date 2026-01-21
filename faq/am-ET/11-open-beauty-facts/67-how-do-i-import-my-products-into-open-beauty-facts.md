@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "ምርቶቼን ወደ ክፍት የውበት እውነታዎች እንዴት ማስገባት እችላለሁ?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ክፍት-ውበት-እውነታዎች
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ክፍት-ውበት-እውነታዎች/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.orgን ያነጋግሩ ወይም በቀጥታ ወደዚህ ይሂዱ
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org ከዚያም ልዩ ኤክስፖርት ለማድረግ producteurs@openfoodfacts.org ን ያነጋግሩ።
