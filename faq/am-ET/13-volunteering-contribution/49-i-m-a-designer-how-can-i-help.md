@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "እኔ ዲዛይነር ነኝ። እንዴት መርዳት እችላለሁ?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-በጎ ፈቃደኝነት መዋጮ
+breadcrumbs: [ '/en-gb/', '/en-gb/13-በጎ ፈቃደኝነት መዋጮ/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+ከዲዛይን ጋር የተያያዙ ሁሉንም እንቅስቃሴዎች በ https://github.com/openfoodfacts/openfoodfacts-design እና በተዘጋጀ የውይይት ቻናል ላይ እናስተባብራለን። በየጊዜው የቡድን ስብሰባዎችን እናደርጋለን እና በተወሰኑ ተግዳሮቶች ላይ የአእምሮ መጨናነቅ እናደርጋለን።
