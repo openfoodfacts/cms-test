@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Мобильлӗ приложение лайӑхлатма мӗнле пулӑшма пулать?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобильлӗ-приложени
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобильлӗ-приложени/' ]
 ---
 
-How can I help with improving the mobile app ?
+Мобильлӗ приложение лайӑхлатма мӗнле пулӑшма пулать?
 
-You can do so on the Mobile app repository
+Ҫакна эсир Мобильлӗ приложенисен репозиторийӗнче тума пултаратӑр
