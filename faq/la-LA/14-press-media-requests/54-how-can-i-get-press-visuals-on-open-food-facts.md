@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Quomodo imagines pro prelo in Open Food Facts accipere possum?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-petitiones-media-press
+breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-petitiones/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Quaeso contactum fac cum: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
