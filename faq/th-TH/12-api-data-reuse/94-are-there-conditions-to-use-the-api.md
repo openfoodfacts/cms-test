@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "มีเงื่อนไขใดบ้างในการใช้งาน API?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+เอกสารทั้งหมดเกี่ยวกับการใช้งาน API สามารถดูได้ที่หน้าเอกสารประกอบ API แต่ต่อไปนี้เป็นบทสรุปโดยย่อ:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- ฐานข้อมูล Open Food Facts สามารถเข้าถึงได้ในฐานะข้อมูลเปิดภายใต้ใบอนุญาต Open Database License (ODbL) โปรดดูรายละเอียดทางกฎหมายได้ที่ https://world.openfoodfacts.org/terms-of-use เงื่อนไขสองประการคือ การระบุแหล่งที่มาและการแบ่งปันอย่างเท่าเทียมกัน หากคุณนำข้อมูลจาก Open Food Facts ไปรวมกับฐานข้อมูลอื่น ๆ ODbL กำหนดให้ฐานข้อมูลที่ได้นั้นต้องเผยแพร่เป็นข้อมูลเปิดด้วยเช่นกัน นอกจากนี้ยังหมายความว่าคุณสามารถรวมข้อมูลได้เฉพาะกับแหล่งข้อมูลที่อนุญาตให้มีการเผยแพร่ซ้ำในลักษณะดังกล่าวเท่านั้น
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- คุณต้องใช้ User-Agent ที่กำหนดเองเสมอเมื่อทำการเรียกใช้ API เพื่อระบุแอปของคุณ
 
-- Rate-limits are enforced for each API endpoint.
+- มีการกำหนดขีดจำกัดอัตราการใช้งานสำหรับแต่ละเอนด์พอยต์ของ API
