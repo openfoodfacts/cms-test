@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
-order: 77
+title: "මම ලේබලයක්, මට ව්‍යාපෘතියට සහභාගී විය හැක්කේ කෙසේද?"
+order: 77 (77)
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ලේබල්
+breadcrumbs: [ '/si-gb/', '/si-gb/23-ලේබල/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+ලේබලයක් ලෙස කළ යුතු වඩාත්ම අදාළ දෙය නම් අප හා සම්බන්ධ වී (producers@openfoodfacts.org) ඔබේ ලේබලය ප්‍රදර්ශනය කර ඇති නිෂ්පාදන ලැයිස්තුව අපට එවීමයි. එවිට අපට ඒවා අදාළ නිෂ්පාදන පත්‍රවලට එක් කළ හැකිය.
