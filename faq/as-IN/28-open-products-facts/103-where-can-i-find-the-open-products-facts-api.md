@@ -1,11 +1,11 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
-order: 103
+title: "মই মুক্ত পণ্য তথ্য API ক'ত বিচাৰি পাম ?"
+order: ১০৩
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: ২৮-মুকলি-উৎপাদন-তথ্য
+breadcrumbs: [ '/as-gb/', '/as-gb/28-মুকলি-পণ্য-তথ্য/' ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+মুক্ত পণ্য তথ্য API 98% মুক্ত খাদ্য তথ্য API ৰ সৈতে একে গতিকে যদি আপুনি মুক্ত খাদ্য তথ্য API নথিপত্ৰ ব্যৱহাৰ কৰে তেন্তে আপুনি মুক্ত পণ্য তথ্য API ৰ এটা যথেষ্ট স্পষ্ট দৃশ্য থাকিব লাগে। আপোনাৰ এপত ইউনিভাৰ্চেল স্কেন প্ৰণয়ন কৰিবলৈ আমি নিৰ্দিষ্ট টিউটোৰিয়েলো লিখিছো।
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://openfoodfacts.github.io/মুকলি খাদ্যৰ তথ্য-চাৰ্ভাৰ/api/ref-v2/
