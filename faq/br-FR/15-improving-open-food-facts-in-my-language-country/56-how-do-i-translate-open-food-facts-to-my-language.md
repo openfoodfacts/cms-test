@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Penaos treiñ Open Food Facts d'am yezh ?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-gwellaat-fedoù-boued-digor-e-barzh-ma-yezh-bro
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/br-gb/',
+    '/br-gb/15-gwellaat-fedoù-boued-digor-e-barzh-ma-yezh-bro/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Kit da https://wiki.openfoodfacts.org/Country_Support
