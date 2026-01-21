@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "An urrainn dhomh ainm toraidh mionaideach a lorg leis an API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ath-chleachdadh dàta-api-12
+breadcrumbs: [ '/en-gb/', '/gb-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Gu mì-fhortanach chan eil e comasach fhathast rannsachadh gu furasta a dhèanamh air ainm toraidh a-mhàin agus gu mionaideach tron API.
 
-Using a filter on category might help you make your search more precise though.
+Dh’fhaodadh cleachdadh sìoltachain air roinn-seòrsa do chuideachadh le bhith a’ dèanamh do rannsachadh nas mionaidiche ge-tà.
