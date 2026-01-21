@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
+title: "Cossí accedir a Open Products Facts sus iPhone ?"
 order: 92
 lang: es-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-faches-de-produches-dobèrts
+breadcrumbs: [ '/es-gb/', '/oc-gb/28-open-products-facts/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+Open Products Facts es disponible dins l'aplicacion Open Food Facts principala. Aquesta integracion permet als utilizaires d'iPhone d'accedir a las doas basas de donadas a travèrs una sola aplicacion convenenta.
