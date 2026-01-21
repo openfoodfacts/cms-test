@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "Nahoana no tsy misy Nutri-Score ho an'ny biby?"
+order: 38 taona
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Zava-misy 10 momba ny sakafom-biby fiompy misokatra
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/10-zava-misy-misokatra-momba-ny-sakafo-biby-ho-ankizy/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Samy hafa ny biby tsirairay (tsy mitovy ny filàn'ny saka na ny alika amin'ny sakafo ilaina)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Na dia ao anatin'ny karazana biby iray ihany aza toy ny alika, dia miovaova arakaraka ny fomba fiaina tsy dia mipetrapetraka loatra ny filàna sakafo, mety ho famorana na aretina.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Noho izany dia sarotra ny manisa isa ho an'ny sakafom-biby raha tsy misy fandraisana anjaran'ny mpikaroka am-polony sy famoronana algorithm am-polony samihafa, izay mbola tsy vita hatramin'izao.
