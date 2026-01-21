@@ -1,10 +1,14 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "Open Food Facts မှာ စာနယ်ဇင်းပုံရိပ်တွေကို ဘယ်လိုရနိုင်မလဲ။"
+order: ၅၄
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: ၁၄-စာနယ်ဇင်း-မီဒီယာ-တောင်းဆိုမှုများ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/၁၄-စာနယ်ဇင်း-မီဒီယာ-တောင်းဆိုမှုများ/'
+  ]
 ---
 
-Please contact : presse@openfoodfacts.org
+ကျေးဇူးပြု၍ ဆက်သွယ်ရန် : presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
