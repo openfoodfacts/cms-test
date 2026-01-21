@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "ມີຄໍາແນະນໍາຢູ່ບ່ອນໃດໃນເອກະສານກ່ຽວກັບຂະໜາດທີ່ເໝາະສົມສໍາລັບຮູບພາບທີ່ອັບໂຫຼດບໍ?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: ການນຳໃຊ້ຂໍ້ມູນ 12-api ຄືນໃໝ່
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+ນັ້ນອາດຈະຂຶ້ນກັບແຕ່ລະປະເທດ, ຖ້າເຄືອຂ່າຍຊ້າ ຫຼື ມີລາຄາແພງ. ນ້ຳໜັກ ຫຼື ຄວາມສູງທີ່ສູງກວ່າ 5000 ພິກເຊວອາດຈະບໍ່ມີປະໂຫຍດຫຼາຍ. ແລະ ຖ້າທ່ານສາມາດກວດພົບໄດ້ວ່າເຄືອຂ່າຍຊ້າ, ເຖິງແມ່ນວ່າຮູບພາບ 2000 ພິກເຊວກໍ່ຈະດີຫຼາຍ (ແນ່ນອນວ່າດີກ່ວາບໍ່ມີຮູບພາບ!)
