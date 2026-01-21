@@ -1,11 +1,15 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
+title: "Aiza no ahitako ny Open Products Facts API?"
 order: 103
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-zava-misy-momba-ny-vokatra-misokatra
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/zava-misy-momba-ny-vokatra-misokatra-28/'
+  ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+Mitovy 98% amin'ny Open Food Facts API ny Open Products Facts API, koa raha mampiasa antontan-taratasy Open Food Facts API ianao dia tokony ho mazava tsara ny mombamomba azy. Nanoratra fampianarana manokana ihany koa izahay mba ahafahana mampihatra ny "universal scan" ao amin'ny fampiharanao.
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
