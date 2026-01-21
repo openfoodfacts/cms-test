@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Желео бих да додам нови лого за етикете"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-побољшања-отворених-чињеница-о-храни-у-земљи-мог-језика
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-побољшања-отворених-чињеница-о-храни-у-земљи-мог-језика/'
   ]
 ---
 
-Here is the process:
+Ево процеса:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- пронађите канонско име етикете у таксономији етикета (то је прва ставка на листи синонима етикета, нпр. en:100% поврће)
+- Набавите лого у добром квалитету: избегавајте коришћење фотографије сарадника које нису погодне за овај случај; већина етикета има висококвалитетне логотипе на званичним веб страницама, понекад у векторском формату (још боље за нас); све док користимо лого да објективно обавестимо о присуству ознаке
+  на паковању производа, нема потребе да тражимо дозволу.
+- Назовите датотеку овако: name-of-the-label.[width]x90.png где је ширина ширина логотипа када је висок 90 пиксела. Имена датотека морају бити неакцентована, написана малим словима и са знаком „-“ уместо размака.
+- затим додајте лого у директоријум који одговара његовом канонском имену. Ако је канонско име en:something, онда морају бити у /en/. Коренски директоријум за логотипе је https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
