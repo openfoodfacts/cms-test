@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "L-app ma tiskennjax"
+order: 35 sena
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-app mobbli
+breadcrumbs: [ '/mt-gb/', '/mt-gb/2-app-mobbli/' ]
 ---
 
-This may be due to
+Dan jista' jkun minħabba
 
-- a network problem
+- problema fin-netwerk
 
-- a permissions problem
+- problema ta' permessi
 
-- a barcode problem
+- problema bil-barcode
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Ibgħatilna email permezz tal-Profil >> Ikkuntattjana >> Ibgħatilna email.
 
-All relevant information should be attached to your request.
+L-informazzjoni rilevanti kollha għandha tkun mehmuża mat-talba tiegħek.
