@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Kepriye karo panganan tanpa barcode?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Panggunaan maneh data 12-api
+breadcrumbs: [ '/en-gb/', '/en-gb/panggunaan-maneh-data-12-api/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts mung ngemot informasi babagan panganan kemasan. Kanggo nilai rata-rata produk (contone, tomat utawa gedhang) lan produk panganan liyane, sampeyan bisa nggunakake salah sawijining basis data nutrisi nasional resmi.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Cathetan: Dhaptar ing ngisor iki ngemot sawetara basis data pangan nasional sing paling penting. Menawi panjenengan nginten basis data sanès kedah dipunlebetaken ing dhaptar punika, sumangga hubungi kita ing: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Daftar Database Pangan Nasional
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belgia - NUBEL - Data Komposisi Panganan Belgia: https://www.internubel.be
+- Kanada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Republik Ceko - Basis Data Komposisi Pangan ing Institut Kesehatan Masyarakat Nasional: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Denmark - Bank Data Komposisi Pangan Denmark: https://frida.fooddata.dk/?lang=en
+- Estonia - Basis Data Komposisi Pangan Estonia: https://tka.nutridata.ee/en/
+- Finlandia - Database Komposisi Panganan Finlandia - FINELI: https://fineli.fi/fineli/en/index
+- Prancis - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Jerman - Database Online Souci-Fachmann-Kraut: https://www.sfk.online/#/home utawa Database Jerman resmi: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Italia - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Walanda - Database Komposisi Panganan Walanda: https://www.rivm.nl/en/dutch-food-composition-database
+- Norwegia - Tabel Komposisi Panganan Norwegia 2006: https://www.matvaretabellen.no/?language=en
+- Polandia - Tabel Komposisi Panganan: http://www.izz.waw.pl/en/?lang=en
+- Spanyol - Basis Data Komposisi Panganan Spanyol - BEDCA: https://www.bedca.net/bdpub/index.php
+- Swiss - Basis Data Komposisi Pangan Swiss: https://www.naehrwertdaten.ch/de/
+- Inggris - Komposisi dataset panganan terpadu (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- USA - USDA: https://ndb.nal.usda.gov/
