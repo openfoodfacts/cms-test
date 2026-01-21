@@ -1,15 +1,19 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Je, ninapaswa kusasisha faili zote za lugha ninapobadilisha mfuatano chanzo?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: Maswali 16 ya kiufundi yanayoulizwa mara kwa mara
+breadcrumbs:
+  [
+    '/sw-gb/',
+    '/sw-gb/16-maswali-ya-kiufundi-yanayoulizwa Mara kwa Mara/'
+  ]
 ---
 
-No you don't. You just need to update the English one
+Hapana hufanyi hivyo. Unahitaji tu kusasisha ile ya Kiingereza
 
-- Create your PR
+- Unda uhusiano wako wa umma
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Mara tu itakapounganishwa, tutabadilisha crowdin-trigger kwa mikono na mfumo wa tafsiri wa Crowdin unaosababishwa na GitHub Actions utafanya mengine kwa lugha zingine.
 
-GitHub bot then creates a new PR automatically that we then review.
+Kisha boti ya GitHub huunda PR mpya kiotomatiki ambayo tunaikagua.
