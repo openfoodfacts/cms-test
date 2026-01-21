@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "Mi volas forigi mian konton"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mia-malferma-manĝaĵ-fakto-konto
+breadcrumbs: [ '/en-gb/', '/eo-gb/1-mia-malferma-manĝaĵ-fakto-konto/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+Forigo de konto nun okazas rekte en viaj preferoj.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Post ensaluto ĉe https://world.openfoodfacts.org/, alklaku la uzantnomon en la supra dekstra angulo, elektu Konto-Parametrojn. Ĝi malfermas vian paĝon de preferoj. Iru al la fino de la paĝo kaj uzu la agon "forigi uzanton".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Se vi ne povas ensaluti (aŭ restarigi vian pasvorton), bonvolu kontakti dpo-ĉe-openfoodfacts.org, uzante la retpoŝtadreson, kiun vi uzis por registri konton.
