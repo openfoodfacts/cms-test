@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "我想刪除我的帳戶"
 order: 33
 lang: 英語-英國
-category: 1-my-open-food-facts-account
+category: 1-我的公開食品資訊帳戶
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+現在可以直接在您的設定中刪除帳戶。
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+登入 https://world.openfoodfacts.org/ 後，點擊右上角的使用者名，選擇「帳戶參數」。 它會打開您的偏好設定頁面。 轉到頁面底部，使用「刪除使用者」操作。
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+如果您無法登入（或重設密碼），請使用您註冊帳戶時使用的電子郵件地址聯絡 dpo - at - openfoodfacts.org。
