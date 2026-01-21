@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "म मेरा परियोजनाहरूको लागि डेटा कसरी पहुँच/संकलन गर्न सक्छु?"
+order: ८६
 lang: एनजीबी
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: २६-विद्यालय-परियोजनाहरू
+parent_category: २५-अनुसन्धानकर्ता-विद्वान
 breadcrumbs:
   [
-    '/en-gb/',
+    '/ne-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/ne-gb/२५-अनुसन्धानकर्ता-विद्वान/२६-विद्यालय-परियोजनाहरू/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ओपन फूड फ्याक्ट्सको मुख्य पृष्ठमा, स्क्रिनको माथिल्लो बायाँ कुनामा, स्क्रोलिङ मेनु छ। यसको तल, तपाईंले "उन्नत खोज" विकल्प पाउनुहुनेछ, जसमा तपाईं क्लिक गर्न सक्नुहुन्छ। त्यसपछि तपाईंको परियोजना(हरू) को लागि कुन मापदण्ड सबैभन्दा सान्दर्भिक छ भनेर निर्धारण गर्ने काम तपाईंमा निर्भर छ। एकपटक छनौट गरिसकेपछि, तपाईंले पृष्ठको तल स्क्रोल गरेर र "परिणामहरू डाउनलोड गर्नुहोस्" मा क्लिक गरेर प्राप्त परिणामहरू डाउनलोड गर्न सक्षम हुनुहुनेछ।
