@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Programu haichanganui"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Programu-mbili za simu
+breadcrumbs: [ '/sw-gb/', '/sw-gb/2-programu-ya-simu/' ]
 ---
 
-This may be due to
+Hii inaweza kuwa kutokana na
 
-- a network problem
+- tatizo la mtandao
 
-- a permissions problem
+- tatizo la ruhusa
 
-- a barcode problem
+- tatizo la msimbopau
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Tutumie barua pepe kupitia Wasifu >> Wasiliana Nasi >> Tutumie barua pepe.
 
-All relevant information should be attached to your request.
+Taarifa zote muhimu zinapaswa kuambatanishwa na ombi lako.
