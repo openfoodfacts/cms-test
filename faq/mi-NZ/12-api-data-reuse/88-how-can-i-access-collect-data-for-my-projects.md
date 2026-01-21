@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Me pēhea taku uru atu/kohikohi raraunga mō aku kaupapa?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-whakamahi-anō-raraunga
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-whakamahi-anō-raraunga/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Kei te whārangi matua o Open Food Facts, kei te kokonga maui o runga o te mata, he tahua panuku. Kei raro iho, ka kitea e koe te kōwhiringa "rapu matatau", ka taea e koe te pāwhiri i reira. Nāu anō te whakatau ko ēhea ngā paearu e tino hāngai ana ki tō kaupapa. Kia whiriwhiria, ka taea e koe te tango i ngā hua kua whiwhi mā te panuku ki raro i te whārangi ka pāwhiri i te "Tangohia ngā hua".
 
-You can also consult:
+Ka taea hoki e koe te kōrero ki:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Ā mātou tuhinga API: https://openfoodfacts.github.io/api-documentation/
+- Ngā Ture Whakamahi a Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Mō ā mātou raraunga: https://world.openfoodfacts.org/data
