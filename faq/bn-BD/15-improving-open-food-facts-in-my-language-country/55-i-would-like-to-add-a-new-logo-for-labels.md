@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "আমি লেবেলের জন্য একটি নতুন লোগো যোগ করতে চাই।"
+order: ৫৫
 lang: en-gb সম্পর্কে
-category: 15-improving-open-food-facts-in-my-language-country
+category: ১৫-আমার-ভাষা-দেশের-খোলা-খাবার-তথ্য-উন্নতকরণ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/bn-জিবি/',
+    '/bn-gb/১৫-আমার-দেশের-ভাষায়-খোলা-খাদ্য-তথ্যের-উন্নতি/'
   ]
 ---
 
-Here is the process:
+এখানে প্রক্রিয়াটি রয়েছে:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- লেবেলের শ্রেণীবিন্যাসে লেবেলের ক্যানোনিকাল নামটি খুঁজুন (এটি লেবেলের সমার্থক শব্দের তালিকার প্রথম আইটেম, যেমন en:100% vegetable)
+- ভালো মানের লোগোটি নিন: অবদানকারীর ছবি ব্যবহার করা এড়িয়ে চলুন যা এই ক্ষেত্রে উপযুক্ত নয়; বেশিরভাগ লেবেলে অফিসিয়াল ওয়েবসাইটের উচ্চ মানের লোগো থাকে, কখনও কখনও ভেক্টর ফর্ম্যাটে (আমাদের জন্য আরও ভালো); যতক্ষণ না আমরা পণ্যের প্যাকেজিংয়ে
+  লেবেলের উপস্থিতি সম্পর্কে বস্তুনিষ্ঠভাবে অবহিত করার জন্য একটি লোগো ব্যবহার করি, ততক্ষণ অনুমতি নেওয়ার প্রয়োজন নেই।
+- ফাইলটির নামকরণ করুন এইভাবে: name-of-the-label.[width]x90.png যেখানে width হল লোগোর প্রস্থ যখন এটি 90 পিক্সেল উঁচু হয়। ফাইলের নামগুলো উচ্চারণবিহীন, ছোট হাতের অক্ষরে এবং স্পেসের পরিবর্তে "-" ব্যবহার করে লিখতে হবে।
+- তারপর ডিরেক্টরিতে তার ক্যানোনিকাল নামের সাথে সঙ্গতিপূর্ণ লোগোটি যোগ করুন। যদি আদর্শ নামটি en:something হয়, তাহলে সেগুলি /en/-এ থাকা প্রয়োজন। লোগোর মূল ডিরেক্টরি হল https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
