@@ -1,0 +1,12 @@
+---
+title: "{{< fa chart-line size=2x >}}<br/>Informazioni sui punteggi"
+order: 19
+title-block-banner: false
+listing:
+  contents: "*.md"
+  type: default
+  sort: "order"
+  fields: [title]
+  max-items: 25
+  page-size: 25
+---

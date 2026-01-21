@@ -1,0 +1,30 @@
+---
+title: "Italiano - Knowledge Base"
+listing:
+  contents:
+    - "9-open-food-facts/index.qmd"
+    - "1-il-mio-account-open-food-facts/index.qmd"
+    - "2-applicazione-mobile/index.qmd"
+    - "4-domande-su-un-prodotto/index.qmd"
+    - "8-nutri-score/index.qmd"
+    - "5-eco-score/index.qmd"
+    - "6-qual-e-il-punteggio-nova/index.qmd"
+    - "13-volontariato-contributo/index.qmd"
+    - "15-migliorare-open-food-facts-nella-mia-lingua-paese/index.qmd"
+    - "12-api-e-riutilizzo-dei-dati/index.qmd"
+    - "7-download-dei-dati/index.qmd"
+    - "16-faq-tecniche/index.qmd"
+    - "14-richieste-della-stampa-e-dei-media/index.qmd"
+    - "10-open-pet-food-facts/index.qmd"
+    - "11-open-beauty-facts/index.qmd"
+    - "23-etichette/index.qmd"
+    - "3-produttori/index.qmd"
+    - "25-ricercatori-studiosi/index.qmd"
+  type: grid
+  sort: "order"
+  fields: [title]
+  grid-columns: 4
+  max-items: 25
+  page-size: 25
+---
+

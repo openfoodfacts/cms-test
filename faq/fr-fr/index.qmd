@@ -1,0 +1,33 @@
+---
+title: "Français - Knowledge Base"
+listing:
+  contents:
+    - "9-open-food-facts/index.qmd"
+    - "1-mon-compte/index.qmd"
+    - "2-applis-mobiles/index.qmd"
+    - "4-questions-au-sujet-d-un-produit/index.qmd"
+    - "8-nutri-score/index.qmd"
+    - "5-eco-score/index.qmd"
+    - "6-nova-transformation-des-aliments/index.qmd"
+    - "13-contribution/index.qmd"
+    - "15-ameliorer-open-food-facts-dans-ma-langue-pays/index.qmd"
+    - "12-donnees-api/index.qmd"
+    - "7-telecharger-des-donnees/index.qmd"
+    - "16-faq-technique/index.qmd"
+    - "14-requetes-media/index.qmd"
+    - "10-open-pet-food-facts/index.qmd"
+    - "11-open-beauty-facts/index.qmd"
+    - "23-labels/index.qmd"
+    - "28-open-products-facts/index.qmd"
+    - "29-open-prices/index.qmd"
+    - "31-folksonomy-engine/index.qmd"
+    - "3-producteurs/index.qmd"
+    - "25-researchers-scholar/index.qmd"
+  type: grid
+  sort: "order"
+  fields: [title]
+  grid-columns: 4
+  max-items: 25
+  page-size: 25
+---
+

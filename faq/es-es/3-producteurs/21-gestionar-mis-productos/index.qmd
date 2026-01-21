@@ -1,0 +1,12 @@
+---
+title: "{{< fa box size=2x >}}<br/>Gestionar mis productos"
+order: 21
+title-block-banner: false
+listing:
+  contents: "*.md"
+  type: default
+  sort: "order"
+  fields: [title]
+  max-items: 25
+  page-size: 25
+---

@@ -1,0 +1,37 @@
+<script>
+// Simple navigation: Home link + Back button
+window.addEventListener('DOMContentLoaded', () => {
+  // Get language from path
+  const pagePath = window.location.pathname;
+  const parts = pagePath.split('/').filter(p => p && p !== 'index.html');
+  
+  if (parts.length > 1) {
+    const nav = document.createElement('nav');
+    nav.className = 'breadcrumb-nav';
+    nav.setAttribute('aria-label', 'Navigation');
+    
+    // Home link
+    const homeLink = document.createElement('a');
+    homeLink.href = `/${parts[0]}/`;
+    homeLink.className = 'nav-home-link';
+    homeLink.innerHTML = '| 🏠';
+    homeLink.title = 'Back to homepage';
+    
+    // Back button
+    const backButton = document.createElement('button');
+    backButton.className = 'nav-back-button';
+    backButton.innerHTML = '← ';
+    backButton.title = 'Go back';
+    backButton.onclick = () => window.history.back();
+    
+    nav.appendChild(backButton);
+    nav.appendChild(homeLink);
+    
+    // Insert before title
+    const titleBlock = document.querySelector('#title-block-header, .quarto-title-block');
+    if (titleBlock) {
+      titleBlock.insertBefore(nav, titleBlock.firstChild);
+    }
+  }
+});
+</script>

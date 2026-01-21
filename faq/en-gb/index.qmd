@@ -1,0 +1,33 @@
+---
+title: "English - Knowledge Base"
+listing:
+  contents:
+    - "9-open-food-facts/index.qmd"
+    - "1-my-open-food-facts-account/index.qmd"
+    - "2-mobile-app/index.qmd"
+    - "4-questions-about-a-product/index.qmd"
+    - "8-nutri-score/index.qmd"
+    - "5-eco-score/index.qmd"
+    - "6-nova-food-processing/index.qmd"
+    - "13-volunteering-contribution/index.qmd"
+    - "15-improving-open-food-facts-in-my-language-country/index.qmd"
+    - "12-api-data-reuse/index.qmd"
+    - "7-data-download/index.qmd"
+    - "16-technical-faq/index.qmd"
+    - "14-press-media-requests/index.qmd"
+    - "10-open-pet-food-facts/index.qmd"
+    - "11-open-beauty-facts/index.qmd"
+    - "23-labels/index.qmd"
+    - "28-open-products-facts/index.qmd"
+    - "29-open-prices/index.qmd"
+    - "31-folksonomy-engine/index.qmd"
+    - "3-producers/index.qmd"
+    - "25-researchers-scholar/index.qmd"
+  type: grid
+  sort: "order"
+  fields: [title]
+  grid-columns: 4
+  max-items: 25
+  page-size: 25
+---
+

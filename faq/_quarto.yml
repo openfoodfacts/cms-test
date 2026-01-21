@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+licence: "CC BY-SA"  # https://quarto.org/docs/authoring/front-matter.html#license
+
+website:
+  title: "Open Food Facts Knowledge Base"
+  navbar:
+    left:
+      - text: '<span id="language-selector-trigger">🌐 Language <span class="dropdown-arrow">▼</span></span>'
+        href: "#"
+    right:
+      - icon: github
+        href: https://github.com/openfoodfacts
+  repo-url: https://github.com/openfoodfacts/cms-test
+  repo-subdir: faq
+  repo-actions: [source, issue]
+
+format:
+  html:
+    theme: cosmo
+    css: custom.css
+    toc: true
+    link-external-icon: true
+    include-in-header: breadcrumbs.html
+    include-after-body: language-selector.html
+    
+
+from: markdown+autolink_bare_uris

@@ -1,0 +1,13 @@
+---
+title: "{{< fa industry size=2x >}}<br/>Produttori"
+order: 3
+title-block-banner: false
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  sort: "order"
+  fields: [title]
+  grid-columns: 4
+  max-items: 25
+  page-size: 25
+---

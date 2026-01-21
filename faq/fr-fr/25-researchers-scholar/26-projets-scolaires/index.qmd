@@ -1,0 +1,12 @@
+---
+title: "{{< fa file-o size=2x >}}<br/>Projets scolaires"
+order: 26
+title-block-banner: false
+listing:
+  contents: "*.md"
+  type: default
+  sort: "order"
+  fields: [title]
+  max-items: 25
+  page-size: 25
+---

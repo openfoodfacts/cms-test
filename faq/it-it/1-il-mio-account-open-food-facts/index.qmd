@@ -1,0 +1,12 @@
+---
+title: "{{< fa user-circle size=2x >}}<br/>Il mio account Open Food Facts"
+order: 1
+title-block-banner: false
+listing:
+  contents: "*.md"
+  type: default
+  sort: "order"
+  fields: [title]
+  max-items: 25
+  page-size: 25
+---

@@ -1,0 +1,115 @@
+<!-- Language Selector Dropdown -->
+<div id="language-dropdown">
+    <input type="text" id="language-search" placeholder="Search languages..." />
+    <div id="language-list">
+        <div class="language-item" data-lang="en-gb" data-name="english">
+            <span class="language-flag">🇬🇧</span>
+            <span class="language-name">English</span>
+        </div>
+        <div class="language-item" data-lang="fr-fr" data-name="français">
+            <span class="language-flag">🇫🇷</span>
+            <span class="language-name">Français</span>
+        </div>
+        <div class="language-item" data-lang="es-es" data-name="español">
+            <span class="language-flag">🇪🇸</span>
+            <span class="language-name">Español</span>
+        </div>
+        <div class="language-item" data-lang="de-de" data-name="deutsch">
+            <span class="language-flag">🇩🇪</span>
+            <span class="language-name">Deutsch</span>
+        </div>
+        <div class="language-item" data-lang="it-it" data-name="italiano">
+            <span class="language-flag">🇮🇹</span>
+            <span class="language-name">Italiano</span>
+        </div>
+    </div>
+</div>
+
+<script>
+(function() {
+    // Wait for DOM to be ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initLanguageSelector);
+    } else {
+        initLanguageSelector();
+    }
+    
+    function initLanguageSelector() {
+        const trigger = document.getElementById('language-selector-trigger');
+        const dropdown = document.getElementById('language-dropdown');
+        const searchInput = document.getElementById('language-search');
+        const languageItems = document.querySelectorAll('.language-item');
+        
+        if (!trigger || !dropdown || !searchInput) {
+            // Try again after a short delay if elements not found
+            setTimeout(initLanguageSelector, 100);
+            return;
+        }
+        
+        // Get current language from URL
+        const currentPath = window.location.pathname;
+        const currentLang = currentPath.split('/')[1]; // e.g., 'en-gb', 'fr-fr'
+        
+        // Highlight current language
+        languageItems.forEach(item => {
+            if (item.dataset.lang === currentLang) {
+                item.classList.add('active');
+            }
+        });
+        
+        // Toggle dropdown
+        trigger.addEventListener('click', function(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            dropdown.classList.toggle('show');
+            if (dropdown.classList.contains('show')) {
+                searchInput.focus();
+            }
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+            if (!dropdown.contains(e.target) && e.target !== trigger) {
+                dropdown.classList.remove('show');
+                searchInput.value = '';
+                filterLanguages('');
+            }
+        });
+        
+        // Search functionality
+        searchInput.addEventListener('input', function() {
+            filterLanguages(this.value.toLowerCase());
+        });
+        
+        // Navigate to selected language
+        languageItems.forEach(item => {
+            item.addEventListener('click', function() {
+                const targetLang = this.dataset.lang;
+                // Get base URL (remove current language path)
+                let newPath = '/' + targetLang + '/';
+                
+                // If we're on a specific page, try to maintain the path
+                const pathParts = currentPath.split('/').filter(p => p);
+                if (pathParts.length > 1 && pathParts[0].match(/^[a-z]{2}-[a-z]{2}$/)) {
+                    // We're on a language-specific page
+                    const restOfPath = pathParts.slice(1).join('/');
+                    newPath = '/' + targetLang + '/' + restOfPath;
+                }
+                
+                window.location.href = newPath;
+            });
+        });
+        
+        function filterLanguages(query) {
+            languageItems.forEach(item => {
+                const name = item.dataset.name;
+                if (name.includes(query)) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+    }
+})();
+</script>
