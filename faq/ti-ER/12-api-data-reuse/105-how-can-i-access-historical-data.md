@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "ከመይ ጌረ ታሪኻዊ ዳታ ክረክብ ይኽእል?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-ዳግመ-ኣጠቓቕማ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/12-api-ዳታ-ዳግመ-ኣጠቓቕማ/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+ኣብዚ እዋን እዚ ታሪኻዊ ዳታ ዳምፕ (JSONL, MongoDB, CSV) ኣይንህብን ኢና።
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+ይኹን እምበር፡ ንውልቀ ፍርያት፡ ነቲ ኤፒኣይ ተጠቒምካ ወይ ኣብ ገጽ ፍርያት ምኽልካል ተጠቒምካ፡ ቅድሚ ሕጂ ዝነበሩ ስሪት ናይቲ ዳታ ፍርያት ክትረኽቦም ይከኣል።
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+ሓደ ፍርያት ኣብ ዝመሓየሸሉ እዋን ሓድሽ ምኽልካል (ካብ 1 ዝጅምር ምውሳኽ ኣሃዝ) ይፍጠር።
 
-For example, to get the first revision (=first product version) of this product, use
+ንኣብነት ናይዚ ፍርያት ቀዳማይ ምኽልካል (=first product version) ንምርካብ፡ ተጠቐም
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+https://world.openfoodfacts.org/product/7623186089763/ጆጉርት-ባምኑስ-ማይግሮስ?ረቭ=1.
 
-Similarly, the rev parameter can be used with the API:
+ብተመሳሳሊ መንገዲ rev parameter ምስ API ክጥቀመሉ ይኽእል እዩ፤
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1 ዝብል ጽሑፍ ኣሎ።
