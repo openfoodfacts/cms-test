@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
-order: 62
+title: "బార్‌కోడ్‌లు లేని ఆహారం సంగతేంటి?"
+order: 62 తెలుగు
 lang: en-gb తెలుగు in లో
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-డేటా పునర్వినియోగం
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-డేటా-పునర్వినియోగం/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో ప్యాక్ చేసిన ఆహారం గురించిన సమాచారం మాత్రమే ఉంటుంది. ఉత్పత్తి (ఉదాహరణకు, టమోటాలు లేదా అరటిపండ్లు) మరియు ఇతర ఆహార ఉత్పత్తుల సగటు విలువల కోసం, మీరు అధికారిక జాతీయ పోషకాహార డేటాబేస్‌లలో ఒకదాన్ని ఉపయోగించవచ్చు.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+గమనిక: క్రింద ఇవ్వబడిన జాబితాలో కొన్ని ముఖ్యమైన జాతీయ ఆహార డేటాబేస్‌లు ఉన్నాయి. జాబితాలో వేరే ఏదైనా డేటాబేస్ చేర్చబడాలని మీరు అనుకుంటే, దయచేసి మమ్మల్ని ఇక్కడ సంప్రదించండి: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+జాతీయ ఆహార డేటాబేస్‌ల జాబితా
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- ఆస్ట్రేలియా - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- బెల్జియం - NUBEL - బెల్జియన్ ఆహార కూర్పు డేటా: https://www.internubel.be
+- కెనడా - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- చెక్ రిపబ్లిక్ - నేషనల్ ఇన్స్టిట్యూట్ ఆఫ్ పబ్లిక్ హెల్త్‌లో ఫుడ్ కంపోజిషన్ డేటాబేస్: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- డెన్మార్క్ - డానిష్ ఫుడ్ కంపోజిషన్ డేటాబ్యాంక్: https://frida.fooddata.dk/?lang=en
+- ఎస్టోనియా - ఎస్టోనియన్ ఫుడ్ కంపోజిషన్ డేటాబేస్: https://tka.nutridata.ee/en/
+- ఫిన్లాండ్ - ఫిన్నిష్ ఫుడ్ కంపోజిషన్ డేటాబేస్ - FINELI: https://fineli.fi/fineli/en/index
+- ఫ్రాన్స్ - CIQUAL: https://www.anses.fr/en/search/site/Table%20cసమానం
+- జర్మనీ - Souci-Fachmann-Kraut ఆన్‌లైన్ డేటాబేస్: https://www.sfk.online/#/home లేదా అధికారిక జర్మన్ డేటాబేస్: Bundeslebensmittelschlüssel: https://blsdb.de/
+- ఇటలీ - బాంకా డాటి డి కంపోజియోన్ డెగ్లీ అలిమెంటి CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- నెదర్లాండ్స్ - డచ్ ఫుడ్ కంపోజిషన్ డేటాబేస్: https://www.rivm.nl/en/dutch-food-composition-database
+- నార్వే - ది నార్వేజియన్ ఫుడ్ కంపోజిషన్ టేబుల్ 2006: https://www.matvaretabellen.no/?language=en
+- పోలాండ్ - ఆహార కూర్పు పట్టికలు: http://www.izz.waw.pl/en/?lang=en
+- స్పెయిన్ - స్పానిష్ ఫుడ్ కంపోజిషన్ డేటాబేస్ - BEDCA: https://www.bedca.net/bdpub/index.php
+- స్విట్జర్లాండ్ - స్విస్ ఫుడ్ కంపోజిషన్ డేటాబేస్: https://www.naehrwertdaten.ch/de/
+- UK - ఆహార పదార్థాల కూర్పు ఇంటిగ్రేటెడ్ డేటాసెట్ (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- USA - USDA: https://ndb.nal.usda.gov/
