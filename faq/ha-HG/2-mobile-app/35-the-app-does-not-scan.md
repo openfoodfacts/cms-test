@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Manhajar ba ta yin scanning ba"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Manhajar wayar hannu ta 2
+breadcrumbs: [ '/en-gb/', '/en-gb/2-app-mobile/' ]
 ---
 
-This may be due to
+Wannan yana iya zama saboda
 
-- a network problem
+- matsalar hanyar sadarwa
 
-- a permissions problem
+- matsalar izini
 
-- a barcode problem
+- matsalar barcode
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Aika mana da imel ta hanyar Profile >> Tuntube Mu >> Aika mana da imel.
 
-All relevant information should be attached to your request.
+Ya kamata a haɗa duk wani bayani mai dacewa da buƙatarku.
