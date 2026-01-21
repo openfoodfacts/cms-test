@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "ڇا مون کي سڀني ٻولين جي فائلن کي اپڊيٽ ڪرڻ گهرجي جڏهن مان سورس اسٽرنگ تبديل ڪريان؟"
 order: 59
 lang: اين جي بي
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-ٽيڪنيڪل-اڪثر پڇيا ويندڙ سوال
+breadcrumbs: [ '/en-gb/', '/en-gb/16-ٽيڪنيڪل-اڪثر پڇيا ويندڙ سوال/' ]
 ---
 
-No you don't. You just need to update the English one
+نه، توهان نٿا ڪريو. توهان کي صرف انگريزي کي اپڊيٽ ڪرڻ جي ضرورت آهي.
 
-- Create your PR
+- پنهنجو پي آر ٺاهيو
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+هڪ دفعو ان کي ضم ڪيو ويندو، اسان ڪراؤڊن-ٽريگر کي دستي طور تي ري بيس ڪنداسين ۽ گٽ هب ايڪشنز پاران ٽرگر ڪيل ڪراؤڊن ترجمو سسٽم باقي ٻين ٻولين لاءِ ڪندو.
 
-GitHub bot then creates a new PR automatically that we then review.
+پوءِ GitHub بوٽ پاڻمرادو هڪ نئون PR ٺاهيندو آهي جنهن جو اسين پوءِ جائزو وٺندا آهيون.
