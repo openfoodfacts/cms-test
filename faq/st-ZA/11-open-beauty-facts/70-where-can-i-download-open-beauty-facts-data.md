@@ -1,9 +1,13 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Nka khoasolla data ea Open Beauty Facts hokae?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Lintlha tse 11-tse bulehileng-tsa-botle
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/tn-gb/11-lintlha-tse-botle-tse-bo-bulehileng/'
+  ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Leqephe la /data le robehile hona joale. O ka khoasolla lintlha ho https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
