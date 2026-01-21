@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "App no ntumi scan"
+order: 35. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobile-app a wɔde di dwuma
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/2-mobile-app/ .' ]
 ---
 
-This may be due to
+Ebia eyi fi
 
-- a network problem
+- ɔhaw bi a ɛfa netɛw ho
 
-- a permissions problem
+- tumi krataa ho haw bi
 
-- a barcode problem
+- barcode ho haw bi
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Fa email so mena yɛn denam Profile >> Contact Us >> Fa email mena yɛn.
 
-All relevant information should be attached to your request.
+Ɛsɛ sɛ wode nsɛm a ɛfa ho nyinaa bata w’abisade no ho.
