@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Оё ман метавонам номи дақиқи маҳсулотро бо API ҷустуҷӯ кунам?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
+category: Истифодаи такрории маълумоти 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Мутаассифона, ҳоло танҳо бо номи маҳсулот ва дақиқ тавассути API ҷустуҷӯи осон имконнопазир аст.
 
-Using a filter on category might help you make your search more precise though.
+Истифодаи филтр дар категория метавонад ба шумо дар дақиқтар кардани ҷустуҷӯ кӯмак кунад.
