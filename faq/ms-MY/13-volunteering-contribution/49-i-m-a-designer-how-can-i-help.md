@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Saya seorang pereka. Bagaimana saya boleh membantu?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-sumbangan-sukarelawan
+breadcrumbs: [ '/en-gb/', '/ms-gb/13-sumbangan-sukarelawan/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Kami menyelaras semua aktiviti berkaitan reka bentuk di https://github.com/openfoodfacts/openfoodfacts-design dan di saluran sembang khusus. Kami kerap mengadakan mesyuarat pasukan dan sesi sumbang saran mengenai cabaran tertentu.
