@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Pane mamiriro ekushandisa API here?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-reuse-use
+breadcrumbs: [ '/sn-gb/', '/sn-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Magwaro ese nezvekushandiswa kweAPI anowanikwa papeji remagwaro eAPI, asi heino pfupiso pfupi:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Dhatabhesi reOpen Food Facts rinowanikwa sedata rakavhurika pasi peOpen Database License (ODbL), ona https://world.openfoodfacts.org/terms-of-use kuti uwane rumwe ruzivo rwemutemo. Mamiriro maviri aya ndeekuti kugoverwa (attribution) uye kugovana zvakafanana (share-like). Kana ukabatanidza data kubva kuOpen Food Facts nemamwe madhatabhesi, saka ODbL inoda kuti dhatabhesi rinobuda ribudiswe sedata rakavhurika zvakare. Zvinorevawo kuti unogona kusanganisa data chete nezvinyorwa zvinobvumira kugoverwa kwakadaro.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Unofanira kugara uchishandisa Mushandisi-Mumiririri wakagadzirirwa iwe paunenge uchiita ma API calls kuti uzive app yako.
 
-- Rate-limits are enforced for each API endpoint.
+- Miganho yemitengo inomanikidzwa kune yega yega API endpoint.
