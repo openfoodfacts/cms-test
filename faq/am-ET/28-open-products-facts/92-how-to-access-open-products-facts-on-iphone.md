@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
+title: "በ iPhone ላይ የክፍት ምርቶች እውነታዎችን እንዴት ማግኘት ይቻላል?"
 order: 92
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-ክፍት-ምርቶች-እውነታዎች
+breadcrumbs: [ '/en-gb/', '/en-gb/28-ክፍት-ምርቶች-እውነታዎች/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+የክፍት ምርቶች እውነታዎች በዋናው የክፍት ምግብ እውነታዎች መተግበሪያ ውስጥ ይገኛሉ። ይህ ውህደት የአይፎን ተጠቃሚዎች ሁለቱንም የውሂብ ጎታዎች በአንድ ምቹ መተግበሪያ በኩል እንዲያገኙ ያስችላቸዋል።
