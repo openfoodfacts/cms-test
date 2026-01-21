@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Ман фурӯшанда ҳастам ва мехоҳам нархҳоро пешниҳод кунам. Чӣ тавр ман инро карда метавонам?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-нархҳои кушода
+breadcrumbs: [ '/en-gb/', '/en-gb/29-нархҳои кушода/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Шумо метавонед нархҳоро бо истифода аз API-и мо пешниҳод кунед. Агар шумо хоҳед, ки нархҳоро дар миқёси васеъ пешниҳод кунед, лутфан бо мо тавассути почтаи электронии contact@openfoodfacts.org тамос гиред.
