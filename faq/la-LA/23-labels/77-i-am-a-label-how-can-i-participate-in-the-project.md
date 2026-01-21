@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Si nota discographica sum, quomodo incepto participare possum?"
 order: 77
 lang: en-gb
-category: 23-labels
+category: XXIII-inscriptiones
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Quod ad titulum attinet, res maxime pertinens est nobiscum contactum facere (producers@openfoodfacts.org) et indicem productorum, quibus titulus tuus ostenditur, mittere, ut ea in chartis productorum pertinentium addere possimus.
