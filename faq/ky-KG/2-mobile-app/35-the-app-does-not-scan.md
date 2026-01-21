@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Колдонмо сканерлебейт"
 order: 35
 lang: en-gb
 category: 2-мобилдик тиркеме
 breadcrumbs: [ '/en-gb/', '/en-gb/2-мобилдик-тиркеме/' ]
 ---
 
-This may be due to
+Бул төмөнкүлөрдөн улам болушу мүмкүн
 
-- a network problem
+- тармак көйгөйү
 
-- a permissions problem
+- уруксаттар көйгөйү
 
-- a barcode problem
+- штрих-код көйгөйү
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Бизге Профиль аркылуу электрондук кат жөнөтүңүз >> Байланыш >> Бизге электрондук кат жөнөтүңүз.
 
-All relevant information should be attached to your request.
+Бардык тиешелүү маалыматтар сиздин суроо-талабыңызга тиркелиши керек.
