@@ -2,8 +2,8 @@
 title: "Како да променим своје корисничко име?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
+category: 1-мој-отворени-рачун-о-храни-чињеницама
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Нажалост, то није могуће. Ако заиста желите да се промените, морате да обришете свој налог и креирате нови.
