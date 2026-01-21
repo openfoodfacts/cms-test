@@ -1,10 +1,14 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Sideen u heli karaa muuqaallo saxaafadeed oo ku saabsan Xaqiiqooyinka Cuntada Furan?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-codsi oo warbaahineed
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/14-codsiyada-saxaafadeed-warbaahinta/'
+  ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Fadlan la xiriir: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
