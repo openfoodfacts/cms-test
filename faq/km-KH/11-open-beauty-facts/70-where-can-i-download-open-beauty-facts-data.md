@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "តើខ្ញុំអាចទាញយកទិន្នន័យ Open Beauty Facts នៅឯណា?"
+order: ៧០
 lang: អង់គ្លេស-ជីកាបៃ
-category: 11-open-beauty-facts
+category: ១១-ការពិតអំពីសម្រស់បើកចំហ
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+ទំព័រ /data បច្ចុប្បន្ន​ខូច​ហើយ។ អ្នកអាចទាញយកទិន្នន័យនៅ https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
