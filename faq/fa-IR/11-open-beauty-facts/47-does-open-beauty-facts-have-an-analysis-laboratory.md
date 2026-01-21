@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "آیا Open Beauty Facts آزمایشگاه آنالیز دارد؟"
+order: ۴۷
 lang: انگلیسی-انگلیسی
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-حقایق زیبایی آشکار
+breadcrumbs: [ '/fa-gb/', '/fa-gb/11-حقایق-زیبایی-باز/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+متأسفانه، Open Beauty Facts آزمایشگاه آنالیز ندارد: ما انجمنی از داوطلبان هستیم که هدفمان ایجاد یک ویکی‌پدیا از لوازم آرایشی است.
 
-That said, if you would like to help us provide more transparency for
+با این اوصاف، اگر مایلید به ما در ارائه شفافیت بیشتر برای
 
-consumers, you can use our iPhone, Android and
+مصرف‌کنندگان، شما می‌توانید از آیفون، اندروید و
 
-Windows Phone to add products:
+ویندوز فون برای افزودن محصولات:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+و برای تبادل نظر و بحث در مورد کاربردهای احتمالی پروژه، شما
 
-can join the Facebook group of contributors:
+می‌توانند به گروه فیسبوک مشارکت‌کنندگان بپیوندند:
 
 https://www.facebook.com/groups/356858984359591/
