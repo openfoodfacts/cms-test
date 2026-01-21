@@ -2,8 +2,12 @@
 title: "Como cambio o meu nome de usuario?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-a-miña-conta-aberta-de-información-sobre-alimentos
+breadcrumbs:
+  [
+    '/gl-gb/',
+    '/gl-gb/1-a-miña-conta-aberta-de-información-sobre-alimentos/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Desafortunadamente, non é posible. Se queres cambiar de verdade, tes que eliminar a túa conta e crear unha nova.
