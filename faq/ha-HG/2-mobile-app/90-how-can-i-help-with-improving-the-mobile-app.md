@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Ta yaya zan iya taimakawa wajen inganta manhajar wayar hannu?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Manhajar wayar hannu ta 2
+breadcrumbs: [ '/en-gb/', '/en-gb/2-app-mobile/' ]
 ---
 
-How can I help with improving the mobile app ?
+Ta yaya zan iya taimakawa wajen inganta manhajar wayar hannu?
 
-You can do so on the Mobile app repository
+Za ka iya yin hakan a wurin ajiyar manhajar wayar hannu
