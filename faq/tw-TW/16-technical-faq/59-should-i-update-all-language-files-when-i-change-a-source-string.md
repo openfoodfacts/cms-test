@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
-order: 59
+title: "So ɛsɛ sɛ meyɛ kasa fael nyinaa foforo bere a mesesa source string no?"
+order: 59. Nkyekyɛm
 lang: tw-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-mfiridwuma-faq
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/16-mfiridwuma-faq/ .' ]
 ---
 
-No you don't. You just need to update the English one
+Dabi wo nnyɛ saa. Ɛsɛ sɛ wo update Engiresi de no ara kwa
 
-- Create your PR
+- Yɛ wo PR no
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Sɛ wɔka bom wie a, yɛbɛsan de nsa asi crowdin-trigger so na Crowdin nkyerɛaseɛ nhyehyɛeɛ a GitHub Actions ahyɛ aseɛ no bɛyɛ nea aka no ama kasa foforɔ.
 
-GitHub bot then creates a new PR automatically that we then review.
+Afei GitHub bot yɛ PR foforo a ɛyɛ ne ho a afei yɛsan hwɛ mu.
