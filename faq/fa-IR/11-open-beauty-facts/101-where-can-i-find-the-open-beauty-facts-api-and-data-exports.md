@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
-order: 101
+title: "از کجا می‌توانم API مربوط به Open Beauty Facts و داده‌های خروجی آن را پیدا کنم؟"
+order: ۱۰۱
 lang: انگلیسی-انگلیسی
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-حقایق زیبایی آشکار
+breadcrumbs: [ '/fa-gb/', '/fa-gb/11-حقایق-زیبایی-باز/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+رابط برنامه‌نویسی کاربردی Open Food Facts تا ۹۸٪ مشابه رابط برنامه‌نویسی کاربردی Open Beauty Facts است، بنابراین اگر از مستندات رابط برنامه‌نویسی کاربردی Open Food Facts استفاده می‌کنید، باید دید کاملاً واضحی از رابط برنامه‌نویسی کاربردی Open Beauty Facts داشته باشید.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+توجه داشته باشید که ویژگی‌هایی مانند پنل‌های دانش، امتیاز زیست‌محیطی (Eco-Score) و امتیاز تغذیه (Nutri-Score) پشتیبانی نمی‌شوند (یا به دلیل موضوع یا به دلیل کدبیس قدیمی).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
