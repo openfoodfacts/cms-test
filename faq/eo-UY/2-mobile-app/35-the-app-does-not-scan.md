@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "La aplikaĵo ne skanas"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-poŝtelefona aplikaĵo
+breadcrumbs: [ '/en-gb/', '/eo-gb/2-poŝtelefona-aplikaĵo/' ]
 ---
 
-This may be due to
+Tio eble ŝuldiĝas al
 
-- a network problem
+- problemo de reto
 
-- a permissions problem
+- problemo pri permesoj
 
-- a barcode problem
+- problemo pri strekkodo
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Sendu al ni retpoŝton per Profilo >> Kontaktu nin >> Sendu al ni retpoŝton.
 
-All relevant information should be attached to your request.
+Ĉiuj koncernaj informoj estu aldonitaj al via peto.
