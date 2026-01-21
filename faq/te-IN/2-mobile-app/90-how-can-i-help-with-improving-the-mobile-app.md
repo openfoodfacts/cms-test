@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "మొబైల్ యాప్‌ను మెరుగుపరచడంలో నేను ఎలా సహాయం చేయగలను?"
+order: 90 లు
 lang: en-gb తెలుగు in లో
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-మొబైల్-యాప్
+breadcrumbs: [ '/en-gb/', '/en-gb/2-మొబైల్-యాప్/' ]
 ---
 
-How can I help with improving the mobile app ?
+మొబైల్ యాప్‌ను మెరుగుపరచడంలో నేను ఎలా సహాయం చేయగలను?
 
-You can do so on the Mobile app repository
+మీరు మొబైల్ యాప్ రిపోజిటరీలో అలా చేయవచ్చు
