@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "मैं अपना खाता हटाना चाहता हूँ"
 order: 33
 lang: en-gb
 category: 1-my-open-food-facts-account
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+अब आप सीधे अपनी प्राथमिकताओं में जाकर अपना खाता हटा सकते हैं।
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ पर लॉग इन करने के बाद, ऊपरी दाएं कोने में उपयोगकर्ता नाम पर क्लिक करें, खाता पैरामीटर चुनें। यह आपका प्राथमिकता पृष्ठ खोलता है। पेज के सबसे नीचे जाएं और "उपयोगकर्ता हटाएं" विकल्प का उपयोग करें।
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+यदि आप लॉग इन करने (या अपना पासवर्ड रीसेट करने) में असमर्थ हैं, तो कृपया खाता पंजीकृत करने के लिए उपयोग किए गए ईमेल पते का उपयोग करके dpo - at - openfoodfacts.org पर संपर्क करें।
