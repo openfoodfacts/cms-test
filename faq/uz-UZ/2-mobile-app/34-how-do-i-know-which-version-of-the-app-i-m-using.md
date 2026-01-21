@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Ilovaning qaysi versiyasidan foydalanayotganimni qanday bilsam bo'ladi?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobil ilova
+breadcrumbs: [ '/en-gb/', '/en-gb/2-mobil-ilova/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Profilga o'ting,
+, keyin FAQ, keyin esa ushbu ilova haqida.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Siz
+3.4.5+662 kabi versiya raqamini ko'rishingiz kerak. Agar telefon nosozliklarni bartaraf etayotgan bo'lsa, bizga uning markasi va modelini
+aytishni unutmang.
