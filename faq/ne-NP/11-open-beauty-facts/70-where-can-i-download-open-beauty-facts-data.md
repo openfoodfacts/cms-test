@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "म ओपन ब्यूटी फ्याक्ट्स डेटा कहाँबाट डाउनलोड गर्न सक्छु?"
+order: ७०
 lang: एनजीबी
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: ११-खुला-सौन्दर्य-तथ्यहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/11-खुला-सौन्दर्य-तथ्यहरू/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data पृष्ठ हाल बिग्रिएको छ। तपाईंले https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv मा गएर डेटा डाउनलोड गर्न सक्नुहुन्छ।
