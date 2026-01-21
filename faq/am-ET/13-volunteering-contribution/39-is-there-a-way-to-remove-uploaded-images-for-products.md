@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "ለምርቶች የተሰቀሉ ምስሎችን ለማስወገድ መንገድ አለ?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-በጎ ፈቃደኝነት መዋጮ
+breadcrumbs: [ '/en-gb/', '/en-gb/13-በጎ ፈቃደኝነት መዋጮ/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+አወያዮች ብቻ ፎቶዎችን ማስወገድ ይችላሉ፣ ይህም ሊከሰት የሚችል ውድመትን ለማስወገድ ነው።
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+የተባዙ ወይም ተገቢ ያልሆኑ ፎቶዎችን ለማስወገድ በSlack ወይም በ contact@openfoodfacts.org ላይ ብቻ ይጠይቁ (የባርኮድ ቁጥሩን ወይም ዩአርኤሉን ለማቅረብ መሞከር አለብዎት)።
 
-We also have a new image report API if you're a programmer.
+ፕሮግራመር ከሆኑ አዲስ የምስል ሪፖርት ኤፒአይም አለን።
