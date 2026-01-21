@@ -1,19 +1,19 @@
 ---
-title: "Is it possible to simulate the Eco-Score or Nutri-Score of my products?"
+title: "Zvinokwanisika here kutevedzera Eco-Score kana Nutri-Score yezvigadzirwa zvangu?"
 order: 16
 lang: en-gb
-category: 19-about-the-scores
-parent_category: 3-producers
+category: 19-pamusoro-pe-zvibodzwa
+parent_category: Vagadziri vatatu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
+    '/sn-gb/',
+    '/en-gb/3-vagadziri/',
     '/en-gb/3-producers/19-about-the-scores/'
   ]
 ---
 
-By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
+Nekunyoresa pachikuva chevagadziri uye kuisa data rezvigadzirwa zvako, unogona kuverenga Nutri-Score neEco-Score zvine chekuita nezvigadzirwa zvako.
 
-However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
+Zvisinei, unofanira kuidzima kana simulation yaitwa kuitira kuti isatumirwe kune veruzhinji nezvigadzirwa zvatove kutengeswa mumhando yako.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Kuti uwane rumwe ruzivo, tinokukoka kuti utore gwara redu rekushandisa uye/kana kuti utarise mavhidhiyo edu ekudzidzisa :-)
