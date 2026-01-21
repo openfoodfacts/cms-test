@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "Ahoana no ahafahako manampy amin'ny fanatsarana ny fampiharana finday?"
+order: 90 taona
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Fampiharana finday 2
+breadcrumbs: [ '/en-gb/', '/mg-gb/2-fampiharana-finday/' ]
 ---
 
-How can I help with improving the mobile app ?
+Ahoana no ahafahako manampy amin'ny fanatsarana ny fampiharana finday?
 
-You can do so on the Mobile app repository
+Azonao atao izany ao amin'ny tahiry fampiharana finday
