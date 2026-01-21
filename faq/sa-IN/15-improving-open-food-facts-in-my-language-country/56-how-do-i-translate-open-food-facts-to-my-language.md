@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "अहं Open Food Facts इत्यस्य मम भाषायां कथं अनुवादं करोमि ?"
+order: ५६
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-मम-भाषा-देशे-मुक्त-भोजन-तथ्यानां-सुधारः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/15-मम-भाषा-देशे-मुक्त-भोजन-तथ्य-सुधार-करणीय-/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support इत्यत्र गच्छन्तु
