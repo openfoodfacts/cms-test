@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "I a de condicions per utilizar l'API?"
 order: 94
 lang: es-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-reutilizacion de donadas
+breadcrumbs: [ '/es-gb/', '/oc-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Tota la documentacion sus l'utilizacion de l'API se pòt trobar sus la pagina de documentacion de l'API, mas vaquí un resumit rapid :
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- La basa de donadas Open Food Facts es disponibla coma donadas dobèrtas jos la licéncia de basa de donadas dobèrta (ODbL), veire https://world.openfoodfacts.org/terms-of-use pels detalhs legals. Las doas condicions son l'atribucion e la partatge parièras. Se combinatz de donadas d'Open Food Facts amb d'autras basas de donadas, alara l'ODbL demanda que la basa de donadas resultanta deu èsser publicada coma donadas dobèrtas tanben. Significa tanben que podètz combinar las donadas sonque amb de fonts que permetrián una tala redistribucion.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Vos cal totjorn utilizar un User-Agent personalizat al moment de realizar d'apèls API per identificar vòstra aplicacion.
 
-- Rate-limits are enforced for each API endpoint.
+- Los limits de taus son aplicats per cada punt final de l'API.
