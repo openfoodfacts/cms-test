@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Ég er hönnuður. Hvernig get ég hjálpað?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-sjálfboðaliðaframlag
+breadcrumbs: [ '/en-gb/', '/en-gb/13-sjálfboðaliðaframlag/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Við samhæfum allar hönnunartengdar aðgerðir á https://github.com/openfoodfacts/openfoodfacts-design og á sérstöku spjallrás. Við höldum reglulega teymisfundi og hugleiðum verkefni um ákveðin verkefni.
