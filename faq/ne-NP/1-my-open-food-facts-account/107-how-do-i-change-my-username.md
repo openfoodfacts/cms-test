@@ -2,8 +2,8 @@
 title: "म मेरो प्रयोगकर्ता नाम कसरी परिवर्तन गर्न सक्छु?"
 order: १०७
 lang: एनजीबी
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: १-मेरो-खुला-खाना-तथ्य-खाता
+breadcrumbs: [ '/ne-gb/', '/ne-gb/1-मेरो-खुला-खाना-तथ्य-खाता/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+दुर्भाग्यवश, यो सम्भव छैन। यदि तपाईं साँच्चै परिवर्तन गर्न चाहनुहुन्छ भने, तपाईंले आफ्नो खाता मेटाएर नयाँ खाता सिर्जना गर्नुपर्छ।
