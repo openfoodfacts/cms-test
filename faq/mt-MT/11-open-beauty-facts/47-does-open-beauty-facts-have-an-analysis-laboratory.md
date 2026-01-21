@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Open Beauty Facts għandu laboratorju tal-analiżi?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fatti dwar is-sbuħija miftuħa
+breadcrumbs: [ '/mt-gb/', '/mt-gb/11-fatti-miftuħa-dwar-is-sbuħija/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Sfortunatament, Open Beauty Facts m'għandhiex laboratorju tal-analiżi: aħna assoċjazzjoni ta' voluntiera li l-għan tagħna hu li noħolqu Wikipedia tal-kożmetiċi.
 
-That said, if you would like to help us provide more transparency for
+Madankollu, jekk tixtieq tgħinna nipprovdu aktar trasparenza għal
 
-consumers, you can use our iPhone, Android and
+konsumaturi, tista' tuża l-iPhone, l-Android u l-
 
-Windows Phone to add products:
+Windows Phone biex iżżid prodotti:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+U biex tiskambja u tiddiskuti l-użi possibbli tal-proġett, inti
 
-can join the Facebook group of contributors:
+jistgħu jingħaqdu mal-grupp ta' kontributuri ta' Facebook:
 
 https://www.facebook.com/groups/356858984359591/
