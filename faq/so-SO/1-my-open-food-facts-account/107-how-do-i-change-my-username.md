@@ -2,8 +2,12 @@
 title: "Sideen u beddelaa magaca isticmaalaha?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-xaqiiqooyinka cuntada-furan ee aan-xisaabto
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-macluumaadka-cuntada-furan ee aan-ahay/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Nasiib darro, suurtagal ma aha. Haddii aad runtii rabto inaad beddesho, waa inaad tirtirtaa akoonkaaga oo aad sameysataa mid cusub.
