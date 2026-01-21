@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "মই মোৰ প্ৰকল্পসমূহৰ বাবে তথ্য কেনেকৈ প্ৰৱেশ/সংগ্ৰহ কৰিব পাৰো?"
+order: ৮৮
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ১২-এপিআই-ডাটা-পুনৰ ব্যৱহাৰ
+breadcrumbs: [ '/as-gb/', '/as-gb/12-api-ডাটা-পুনৰ ব্যৱহাৰ/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+খোলা খাদ্য তথ্যৰ মূল পৃষ্ঠাত, পৰ্দাৰ ওপৰৰ বাওঁফালৰ চুকত, এটা স্ক্ৰলিং মেনু আছে। ইয়াৰ তলত আপুনি “উন্নত সন্ধান” বিকল্পটো পাব, য’ত আপুনি ক্লিক কৰিব পাৰিব। তাৰ পিছত আপোনাৰ প্ৰকল্প(সমূহ)ৰ বাবে কোনবোৰ মাপকাঠী আটাইতকৈ প্ৰাসংগিক সেইটো নিৰ্ধাৰণ কৰাটো আপোনাৰ ওপৰত নিৰ্ভৰশীল। এবাৰ বাছি লোৱাৰ পিছত, আপুনি পৃষ্ঠাৰ তলত তললৈ স্ক্ৰল কৰি আৰু “Download results” ত ক্লিক কৰি পোৱা ফলাফলসমূহ ডাউনলোড কৰিব পাৰিব।
 
-You can also consult:
+আপুনি এইটোও চাব পাৰে:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- আমাৰ API নথিপত্ৰ: https://openfoodfacts.github.io/api-documentation/
+- মুক্ত খাদ্য তথ্যৰ ব্যৱহাৰৰ চৰ্তসমূহ: https://world.openfoodfacts.org/terms-of-use
+- আমাৰ তথ্যৰ ওপৰত: https://world.openfoodfacts.org/data
