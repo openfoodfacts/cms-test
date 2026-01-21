@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Ĉu estas rekomendoj ie ajn en la dokumentaro pri kia estus bona grandeco por alŝutitaj fotoj?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-datumoj-reuzo
+breadcrumbs: [ '/en-gb/', '/eo-gb/12-api-datumoj-reuzo/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Tio povas dependi de landoj, ĉu la reto estas malrapida aŭ multekosta. io ajn super 5000 rastrumeroj laŭ pezo aŭ alto verŝajne ne estas tre utila. kaj se vi povas iel detekti, ke la reto estas malrapida, tiam eĉ 2000-piksela bildo estus bonega (certe pli bone ol ne havi bildon!)
