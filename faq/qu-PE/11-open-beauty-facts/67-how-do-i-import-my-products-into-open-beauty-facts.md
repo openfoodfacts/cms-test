@@ -1,11 +1,15 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
-order: 67
+title: "¿Imaynatataq ruruykunata Kichasqa Sumaq kay Chiqakunaman apamuyman?"
+order: 67. 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-kichasqa-sumaq-chiqakuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/11-kichasqa-sumaq-chiqakuna/'
+  ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org nisqawan rimanakuy utaq chiqalla kayman riy
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org chaymanta producteurs@openfoodfacts.org kaqwan rimanakuy huk especial hawaman apachiypaq
