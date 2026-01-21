@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "म कसरी ओपन फुड फ्याक्ट्सलाई मेरो भाषामा अनुवाद गर्न सक्छु?"
+order: ५६
 lang: एनजीबी
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-मेरो-भाषा-देशमा-खुला-खाद्य-तथ्यहरू-सुधार्दै
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ne-gb/',
+    '/ne-gb/१५-मेरो-भाषा-देशमा-खुला-खाद्य-तथ्यहरू-सुधार्ने/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support मा जानुहोस्
