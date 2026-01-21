@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "የክፍት ውበት እውነታዎች ኤፒአይ እና የውሂብ ኤክስፖርት የት ማግኘት እችላለሁ?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ክፍት-ውበት-እውነታዎች
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ክፍት-ውበት-እውነታዎች/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+የክፍት ምግብ እውነታዎች ኤፒአይ ከክፍት ውበት እውነታዎች ኤፒአይ ጋር 98% ተመሳሳይ ነው፣ ስለዚህ የክፍት ምግብ እውነታዎች ኤፒአይ ሰነዶችን የሚጠቀሙ ከሆነ የክፍት ውበት እውነታዎች ኤፒአይን በጣም ግልጽ የሆነ እይታ ሊኖርዎት ይገባል።
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+እንደ የእውቀት ፓነሎች፣ ኢኮ-ስኮር፣ ኑትሪ-ስኮር ያሉ ባህሪያት እንደማይደገፉ ልብ ይበሉ (በርዕሱ ምክንያት ወይም በአሮጌው የኮድቤዝ ምክንያት)።
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
