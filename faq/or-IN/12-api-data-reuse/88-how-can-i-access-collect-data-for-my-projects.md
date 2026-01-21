@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "ମୁଁ ମୋର ପ୍ରୋଜେକ୍ଟ ପାଇଁ ତଥ୍ୟ କିପରି ପ୍ରବେଶ/ସଂଗ୍ରହ କରିପାରିବି?"
+order: ୮୮
 lang: ଇଂ-ଜିବି
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ୧୨-api-ଡାଟା-ପୁନଃବ୍ୟବହାର
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-ତଥ୍ୟ-ପୁନଃବ୍ୟବହାର/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+"ଓପନ୍ ଫୁଡ୍ ଫ୍ୟାକ୍ଟସ୍"ର ମୁଖ୍ୟ ପୃଷ୍ଠାରେ, ସ୍କ୍ରିନର ଉପର ବାମ କୋଣରେ, ଏକ ସ୍କ୍ରୋଲିଂ ମେନୁ ଅଛି। ଏହାର ତଳେ, ଆପଣ "ଉନ୍ନତ ସନ୍ଧାନ" ବିକଳ୍ପ ପାଇବେ, ଯାହା ଉପରେ ଆପଣ କ୍ଲିକ୍ କରିପାରିବେ। ତା'ପରେ ଆପଣଙ୍କ ପ୍ରକଳ୍ପ (ଗୁଡ଼ିକ) ପାଇଁ କେଉଁ ମାନଦଣ୍ଡ ସବୁଠାରୁ ପ୍ରାସଙ୍ଗିକ ତାହା ନିର୍ଣ୍ଣୟ କରିବା ଆପଣଙ୍କ ଉପରେ ନିର୍ଭର କରେ। ବାଛିବା ପରେ, ଆପଣ ପୃଷ୍ଠାର ତଳ ଭାଗରେ ସ୍କ୍ରୋଲ୍ କରି ଏବଂ “ପରିଣାମ ଡାଉନଲୋଡ୍ କରନ୍ତୁ” ଉପରେ କ୍ଲିକ୍ କରି ପ୍ରାପ୍ତ ଫଳାଫଳଗୁଡ଼ିକୁ ଡାଉନଲୋଡ୍ କରିପାରିବେ।
 
-You can also consult:
+ଆପଣ ଏହା ମଧ୍ୟ ପରାମର୍ଶ କରିପାରିବେ:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- ଆମର API ଡକ୍ୟୁମେଣ୍ଟେସନ୍: https://openfoodfacts.github.io/api-documentation/
+- ଖୋଲା ଖାଦ୍ୟ ତଥ୍ୟର ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ: https://world.openfoodfacts.org/terms-of-use
+- ଆମ ତଥ୍ୟ ଉପରେ: https://world.openfoodfacts.org/data
