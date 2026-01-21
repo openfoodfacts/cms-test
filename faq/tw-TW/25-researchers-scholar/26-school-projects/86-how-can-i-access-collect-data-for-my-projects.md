@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "Mɛyɛ dɛn atumi anya/aboaboa data ano ama me nnwuma ?"
+order: 86. Nkyekyɛm
 lang: tw-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-sukuu-nnwuma
+parent_category: 25-nhwehwɛmufo-ɔbenfo
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/twi-gb/ .',
+    '/en-gb/25-nhwehwɛmufo-ɔbenfo/ .',
+    '/en-gb/25-nhwehwɛmufo-ɔbenfo/26-sukuu-nnwuma/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Wɔ Open Food Facts kratafa titiriw no so, wɔ screen no atifi benkum so no, menu bi a ɛkɔ so wɔ hɔ. Wɔ n’ase no, wubehu “advanced search” a wubetumi akliki so. Afei ɛyɛ wo na wobɛkyerɛ gyinapɛn ahorow a ɛfa wo dwumadi (adwuma) no ho kɛse. Sɛ wopaw wie a, wubetumi atwe nea woanya no denam kratafa no ase a wobɛkɔ fam na woakliki “Download results” so.
