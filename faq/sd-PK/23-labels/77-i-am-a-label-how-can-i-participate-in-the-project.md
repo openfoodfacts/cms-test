@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "مان هڪ ليبل آهيان، مان منصوبي ۾ ڪيئن حصو وٺي سگهان ٿو؟"
 order: 77
 lang: اين جي بي
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ليبل
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ليبل/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+هڪ ليبل جي طور تي سڀ کان وڌيڪ لاڳاپيل ڪم اهو آهي ته اسان سان رابطو ڪريو (producers@openfoodfacts.org) ۽ اسان کي انهن شين جي فهرست موڪليو جن تي توهان جو ليبل ڏيکاريل آهي ته جيئن اسان انهن کي لاڳاپيل پراڊڪٽ شيٽ تي شامل ڪري سگهون.
