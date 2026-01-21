@@ -1,9 +1,9 @@
 ---
-title: "Hvorfor gjør Open Food Facts dette (Åpne Priser)?"
+title: "Hvorfor gjør Open Food Facts dette (Open Prices)?"
 order: 100
 lang: no-no
-category: 29-åpne-priser
-breadcrumbs: [ '/radgiver/', '/no-gb/29-åpne-priser/' ]
+category: 29-åpne priser
+breadcrumbs: [ '/radgiver/', '/no/no' ]
 ---
 
-Prisinformasjon er av største betydning for å forstå matsystemer. Det er en nøkkelfaktor for å forstå kostnadene ved mat og for å fremme sunnere kosthold. Å åpne prisdata er en måte å gjøre det enklere for forskere, journalister og innbyggere å få en bedre forståelse av hvordan matprisene varierer geografisk og over tid.
+Prisinformasjon er avgjørende for å forstå matsystemene. Det er en viktig faktor for å forstå hva det koster og å fremme sunnere kosthold. Åpningsprisdata er en måte å gjøre det enklere for forskere, journalister, og innbyggerne skal ha bedre forståelse for hvordan matvareprisene varierer geografisk og i tid.
