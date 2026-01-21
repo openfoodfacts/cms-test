@@ -1,14 +1,13 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "ഞാൻ ഉപയോഗിക്കുന്ന ആപ്പിന്റെ ഏത് പതിപ്പാണെന്ന് എങ്ങനെ അറിയും?"
+order: 34 മാസം
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-മൊബൈൽ-ആപ്പ്
+breadcrumbs: [ '/എംഎൽ-ജിബി/', '/en-gb/2-മൊബൈൽ-ആപ്പ്/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+പ്രൊഫൈൽ,
+തുടർന്ന് പതിവുചോദ്യങ്ങൾ, തുടർന്ന് ഈ ആപ്പിനെക്കുറിച്ച് എന്നതിലേക്ക് പോകുക.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+3.4.5+662 പോലുള്ള ഒരു പതിപ്പ് നമ്പർ നിങ്ങൾ കാണണം. ഡീബഗ്ഗിംഗ് ആണെങ്കിൽ ഫോണിന്റെ നിർമ്മാണവും മോഡലും
+പറയാൻ മറക്കരുത്.
