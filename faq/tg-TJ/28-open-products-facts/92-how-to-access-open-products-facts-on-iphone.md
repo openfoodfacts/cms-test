@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
+title: "Чӣ тавр ба Маълумот дар бораи Маҳсулоти Озод дар iPhone дастрасӣ пайдо кардан мумкин аст?"
 order: 92
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-фактҳо дар бораи маҳсулоти кушода
+breadcrumbs: [ '/en-gb/', '/en-gb/28-маҳсулоти-кушода-фактҳо/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+Маълумот дар бораи маҳсулоти кушода дар барномаи асосии Open Food Facts дастрас аст. Ин ҳамгироӣ ба корбарони iPhone имкон медиҳад, ки ба ҳарду пойгоҳи додаҳо тавассути як барномаи ягона ва қулай дастрасӣ пайдо кунанд.
