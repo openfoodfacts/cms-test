@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "Aku pengin ndhukung Open Products Facts. Apa sing isa tak lakoni?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-fakta-produk-terbuka
+breadcrumbs: [ '/en-gb/', '/en-gb/28-fakta-produk-terbuka/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Mangga wacanen kaca wiki kita, kita wis ndhaptar cara kanggo melu: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Kanggo ndhukung Open Products Facts, sampeyan bisa nimbang opsi ing ngisor iki, saben opsi disesuaikan karo macem-macem jinis kontribusi:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Fakta Filantropi/Negara kanggo Produk Terbuka:
+  Kontribusi filantropi iku penting banget kanggo nggayuh visi platform data sirkular sing komprehensif, penilaian produk, lan agregasi solusi sirkular, ing luwih saka 20000 kategori, minangka tujuan utama Fakta Produk Terbuka. Akeh komponen penting saka visi iki sing durung didanai, lan dhukungan finansial sampeyan bisa menehi dampak sing signifikan. Sumbangan panjenengan saged mbantu dana pembangunan lan infrastruktur penting. Kanggo nyumbang dana, hubungi alamat contact@openfoodfacts.org
+- Kontributor Data sing Nggunakake Aplikasi Fakta Produk Terbuka:
+  Kontribusi data penting banget kanggo nggedhekake Fakta Produk Terbuka. Kanthi nggunakake aplikasi Android kanggo nambah informasi produk anyar, nganyari entri sing wis ana, utawa verifikasi data, sampeyan mbantu ngembangake lan nyaring basis data. Upaya kolektif iki nyumbang kanggo mbangun sumber daya sing kuwat lan bisa dipercaya kanggo kabeh wong.
+- Kontributor Teknis kanggo Fakta Produk Terbuka:
+  Yen sampeyan duwe katrampilan teknis ing babagan kaya pemrograman, analisis data, utawa desain pengalaman pangguna, keahlian sampeyan bisa migunani banget kanggo Fakta Produk Terbuka. Melu pangembangan aplikasi, ningkatake fungsine, utawa ningkatake antarmuka panganggo minangka kontribusi sing penting. Kanggo melu, gabung karo saluran #openproductsfacts Slack, ing ngendi komunitas Open Products Facts kolaborasi. Sampeyan bisa nemokake pranala menyang ruang kerja Slack iki ing situs web Open Food Facts.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Saben jinis kontribusi iku penting kanggo tuwuh lan sukses Open Products Facts, mbantu nggawe platform sing luwih lestari lan informatif kanggo kabeh wong.
