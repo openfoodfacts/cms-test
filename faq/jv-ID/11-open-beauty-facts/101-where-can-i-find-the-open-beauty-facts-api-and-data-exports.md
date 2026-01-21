@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Ing ngendi aku bisa nemokake Open Beauty Facts API lan ekspor data?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fakta-kecantikan-sing-mbukak
+breadcrumbs: [ '/en-gb/', '/en-gb/11-fakta-kecantikan-sing-mbukak/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Open Food Facts API iku 98% padha karo Open Beauty Facts API, dadi yen sampeyan nggunakake dokumentasi Open Food Facts API, sampeyan kudune duwe tampilan sing cukup jelas babagan Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Elinga yen fitur kaya Panel Kawruh, Eco-Score, Nutri-Score ora didhukung (amarga topik, utawa basis kode lawas).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
