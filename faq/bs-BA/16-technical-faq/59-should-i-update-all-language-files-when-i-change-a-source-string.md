@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Trebam li ažurirati sve jezičke datoteke kada promijenim izvorni niz?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-tehnička-česta pitanja
+breadcrumbs: [ '/bs-gb/', '/bs-gb/16-tehnička-česta pitanja/' ]
 ---
 
-No you don't. You just need to update the English one
+Ne, ne moraš. Samo trebaš ažurirati englesku verziju.
 
-- Create your PR
+- Kreirajte svoj PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Nakon što se spoji, ručno ćemo ponovo bazirati crowdin-trigger, a Crowdin sistem za prevođenje, pokrenut putem GitHub Actions, će uraditi ostalo za ostale jezike.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub bot zatim automatski kreira novi PR koji mi zatim pregledamo.
