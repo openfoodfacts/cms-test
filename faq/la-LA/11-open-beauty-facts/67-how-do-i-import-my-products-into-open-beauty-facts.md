@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
-order: 67
+title: "Quomodo res meas in Open Beauty Facts importo?"
+order: LXVII
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-aperta-pulchritudinis-facta
+breadcrumbs: [ '/en-gb/', '/en-gb/11-aperta-pulchritudinis-facta/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Contactum mitte ad producteurs@openfoodfacts.org vel directe ad
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org deinde producteurs@openfoodfacts.org pro exportatione speciali contate.
