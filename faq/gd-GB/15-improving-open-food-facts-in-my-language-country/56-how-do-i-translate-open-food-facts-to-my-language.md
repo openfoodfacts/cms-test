@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Ciamar a dh’eadar-theangaicheas mi Open Food Facts dhan chànan agam fhìn?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-a’ leasachadh fìrinnean bìdh fosgailte anns an dùthaich agam fhèin
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/gb-gb/15-a’ leasachadh fìrinnean-bìdh-fosgailte-anns-mo-dhùthaich-cànain/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Rach gu https://wiki.openfoodfacts.org/Country_Support
