@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "Open Pet Food Facts API ကို ဘယ်မှာရှာရမလဲ။"
+order: ၁၀၂
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: အိမ်မွေးတိရစ္ဆာန်အစားအစာ ၁၀ မျိုးအကြောင်း ပွင့်လင်းစွာဖော်ပြထားသော အချက်အလက်များ
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/၁၀-ပွင့်လင်း-အိမ်မွေးတိရစ္ဆာန်-အစားအစာ-အချက်အလက်များ/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API သည် Open Food Facts API နှင့် 98% တူညီသောကြောင့် Open Food Facts API စာရွက်စာတမ်းကို အသုံးပြုပါက Open Pet Food Facts API ကို ရှင်းရှင်းလင်းလင်း မြင်ရပါမည်။
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Knowledge Panels၊ Eco-Score၊ Nutri-Score ကဲ့သို့သော အင်္ဂါရပ်များကို မပံ့ပိုးကြောင်း သတိပြုပါ (ခေါင်းစဉ်ကြောင့်ဖြစ်စေ၊ ကုဒ်အခြေခံအဟောင်းကြောင့်ဖြစ်စေ)။
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
