@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Es vēlētos pievienot jaunu logotipu etiķetēm"
 order: 55
 lang: lv-lv
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-uzlabo-atklātus-faktus-par-ēdienu-manā-valodā
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/lv-lv/',
+    '/lv-lv/15-uzlabo-atklātos-pārtikas-faktus-manā-valodā/'
   ]
 ---
 
-Here is the process:
+Lūk, process:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- atrodiet etiķetes kanonisko nosaukumu etiķešu taksonomijā (tas ir pirmais elements etiķešu sinonīmu sarakstā, piemēram, lv:100% dārzeņu)
+- Iegūstiet logotipu labā kvalitātē: izvairieties no līdzautora fotoattēla izmantošanas, jo tas šim gadījumam nav piemērots; lielākajai daļai etiķešu ir oficiālu tīmekļa vietņu augstas kvalitātes logotipi, dažreiz vektoru formātā (mums tas ir vēl labāk); ja vien mēs izmantojam logotipu, lai objektīvi informētu par
+  etiķetes klātbūtni uz produkta iepakojuma, nav nepieciešams lūgt atļauju.
+- Nosauciet failu šādi: name-of-the-label.[width]x90.png, kur width ir logotipa platums, ja tā augstums ir 90 pikseļi. Failu nosaukumiem jābūt bez akcentiem, ar mazajiem burtiem un atstarpju vietā izmantojot "-".
+- pēc tam pievienojiet logotipu direktorijā, kas atbilst tā kanoniskajam nosaukumam. Ja kanoniskais nosaukums ir en:something, tad tiem jābūt /en/. Logotipu saknes direktorijs ir https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
