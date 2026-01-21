@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Er Open Beauty Facts með greiningarstofu?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-opnar-fegurðarstaðreyndir
+breadcrumbs: [ '/en-gb/', '/en-gb/11-opnar-fegurðarstaðreyndir/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Því miður er ekki með greiningarstofu hjá Open Beauty Facts: við erum samtök sjálfboðaliða sem hafa það að markmiði að búa til Wikipediu um snyrtivörur.
 
-That said, if you would like to help us provide more transparency for
+Það sagt, ef þú vilt hjálpa okkur að auka gagnsæi fyrir
 
-consumers, you can use our iPhone, Android and
+Neytendur geta notað iPhone, Android og
 
-Windows Phone to add products:
+Windows Phone til að bæta við vörum:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Og til að skiptast á og ræða mögulega notkun verkefnisins, þú
 
-can join the Facebook group of contributors:
+geta gengið í Facebook hópinn fyrir þátttakendur:
 
 https://www.facebook.com/groups/356858984359591/
