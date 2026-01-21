@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "ខ្ញុំជាអ្នករចនា។ តើខ្ញុំអាចជួយដោយរបៀបណា?"
+order: ៤៩
 lang: អង់គ្លេស-ជីកាបៃ
-category: 13-volunteering-contribution
+category: ១៣-ការចូលរួមវិភាគទានស្ម័គ្រចិត្ត
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+យើងសម្របសម្រួលសកម្មភាពទាក់ទងនឹងការរចនាទាំងអស់នៅលើ https://github.com/openfoodfacts/openfoodfacts-design និងនៅលើឆានែលជជែកដែលឧទ្ទិសដល់។ យើងធ្វើកិច្ចប្រជុំក្រុម និងពិភាក្សាជាទៀងទាត់លើបញ្ហាប្រឈមជាក់លាក់។
