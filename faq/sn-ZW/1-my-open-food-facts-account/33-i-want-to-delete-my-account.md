@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Ndinoda kudzima account yangu"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-nhoroondo-ye-zvangu-zvekudya-zvakavhurika-
+breadcrumbs:
+  [
+    '/sn-gb/',
+    '/en-gb/1-account-my-open-food-facts-account/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Kudzimwa kweakaundi ikozvino kwaitika zvakananga pane zvaunofarira.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Mushure mekupinda pa https://world.openfoodfacts.org/, tinya pane zita remushandisi riri kumusoro kurudyi, wobva wasarudza Account Parameters. Inovhura peji rezvaunofarira. Enda pasi pepeji woshandisa chiito chekuti "bvisa mushandisi".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Kana usingakwanise kupinda (kana kugadzirisa password yako), ndapota taura nedpo - pa - openfoodfacts.org, uchishandisa email address yaunoshandisa kunyoresa account.
