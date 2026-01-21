@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Me pēhea taku whakamāori i tēnei FAQ ki taku reo?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-ngā-meka-kai-tuwhera-e-whakapai ake ana-i-tōku-whenua-reo-ki-te-whakapai ake
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-te-whakapai ake i ngā-meka-kai-tuwhera-i-tōku-whenua-reo/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Pātai atu ki a contact@openfoodfacts.org mō te urunga whakatika ki te pūtake mātauranga.
