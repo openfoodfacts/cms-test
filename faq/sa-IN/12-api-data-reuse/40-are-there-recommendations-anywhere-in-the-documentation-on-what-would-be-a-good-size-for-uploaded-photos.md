@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "अपलोड् कृतेषु छायाचित्रेषु किं उत्तमः आकारः भविष्यति इति विषये दस्तावेजेषु कुत्रापि अनुशंसाः सन्ति वा?"
+order: ४०
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: १२-अपि-दत्तांश-पुनः प्रयोगः
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+तत् देशेषु आश्रितं भवेत्, यदि जालं मन्दं महत् वा भवति। ५००० पिक्सेल् इत्यस्मात् अधिकं भारं वा ऊर्ध्वतां वा सम्भवतः बहु उपयोगी न भवति । तथा च यदि भवान् कथञ्चित् तत् जालं मन्दं ज्ञातुं शक्नोति तर्हि २००० पिक्सेलस्य चित्रम् अपि महान् भविष्यति (निश्चयेन चित्रस्य अभावात् श्रेष्ठम्!)
