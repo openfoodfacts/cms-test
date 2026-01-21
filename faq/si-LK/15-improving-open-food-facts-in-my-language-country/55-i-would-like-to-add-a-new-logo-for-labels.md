@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "ලේබල් සඳහා නව ලාංඡනයක් එක් කිරීමට මම කැමතියි."
+order: 55 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 15-improving-open-food-facts-in-my-language-country
+category: මගේ භාෂාවෙන් රට තුළ විවෘත ආහාර පිළිබඳ කරුණු 15ක් වැඩිදියුණු කිරීම
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/si-gb/',
+    '/si-gb/15-මගේ-භාෂා-රටේ-විවෘත-ආහාර-කරුණු-වැඩිදියුණු කිරීම/'
   ]
 ---
 
-Here is the process:
+මෙන්න ක්‍රියාවලිය:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- ලේබල වර්ගීකරණයේ ලේබලයේ කැනොනිකල් නම සොයා ගන්න (එය ලේබලවල සමාන පද ලැයිස්තුවේ පළමු අයිතමයයි, උදා. en:100% එළවළු)
+- හොඳ තත්ත්වයේ ලාංඡනය ලබා ගන්න: මෙම අවස්ථාවට නොගැලපෙන දායකයාගේ ඡායාරූපය භාවිතා කිරීමෙන් වළකින්න; බොහෝ ලේබල්වල නිල වෙබ් අඩවිවල උසස් තත්ත්වයේ ලාංඡන ඇත, සමහර විට දෛශික ආකෘතියෙන් (අපට ඊටත් වඩා හොඳයි); නිෂ්පාදනයක ඇසුරුම්කරණයේ
+  ලේබලයක් තිබීම පිළිබඳව වෛෂයිකව දැනුම් දීමට අපි ලාංඡනයක් භාවිතා කරන තාක් කල්, අවසර ඉල්ලීමට අවශ්‍ය නොවේ.
+- ගොනුව මේ ආකාරයට නම් කරන්න: name-of-the-label.[width]x90.png මෙහි පළල යනු ලාංඡනය පික්සල 90 ක් උස වන විට එහි පළලයි. ගොනු නාම උච්චාරණය නොකර, කුඩා අකුරින් සහ හිස්තැන් වෙනුවට "-" භාවිතා කළ යුතුය.
+- ඉන්පසු එහි කැනොනිකල් නාමයට අනුරූප වන නාමාවලියෙහි ලාංඡනය එක් කරන්න. කැනොනිකල් නාමය en:something නම්, ඒවා /en/ හි තිබිය යුතුය. ලාංඡන සඳහා මූල නාමාවලිය https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang වේ.
