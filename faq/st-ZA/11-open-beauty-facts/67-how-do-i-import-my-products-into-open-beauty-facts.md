@@ -1,11 +1,15 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Nka kenya lihlahisoa tsa ka joang ho Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Lintlha tse 11-tse bulehileng-tsa-botle
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/tn-gb/11-lintlha-tse-botle-tse-bo-bulehileng/'
+  ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Ikopanye le producteurs@openfoodfacts.org kapa u ee ka ho toba ho
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org ebe o ikopanya le producteurs@openfoodfacts.org bakeng sa ho romela thepa e ikgethang kantle ho naha
