@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Ја сам продавац и желим да допринесем ценама. Како могу то да урадим?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-отворених-цена
+breadcrumbs: [ '/en-gb/', '/en-gb/29-otvorene-cene/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Можете допринети ценама користећи наш API. Ако желите да допринесете ценама у већем обиму, контактирајте нас на contact@openfoodfacts.org.
