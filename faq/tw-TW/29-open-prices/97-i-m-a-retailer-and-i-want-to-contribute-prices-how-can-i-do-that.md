@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
-order: 97
+title: "Meyɛ adetɔnfo na mepɛ sɛ mede nneɛma bo boa. Mɛyɛ dɛn ayɛ saa?"
+order: 97. Nkyekyɛm
 lang: tw-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-a wɔabue-boɔ
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/29-bue-boɔ/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Wubetumi de nneɛma bo aboa denam yɛn API a wode bedi dwuma no so. Sɛ wopɛ sɛ wode nneɛma bo boa wɔ nsenia so a, yɛsrɛ wo ne yɛn nni nkitaho wɔ contact@openfoodfacts.org.
