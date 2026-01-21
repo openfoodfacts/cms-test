@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "నేను డిజైనర్‌ని. నేను ఎలా సహాయం చేయగలను?"
+order: 49 समान
 lang: en-gb తెలుగు in లో
-category: 13-volunteering-contribution
+category: 13-స్వచ్ఛంద సేవ-సహకారం
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+మేము డిజైన్ సంబంధిత కార్యకలాపాలన్నింటినీ https://github.com/openfoodfacts/openfoodfacts-design మరియు ప్రత్యేక చాట్ ఛానెల్‌లో సమన్వయం చేస్తాము. మేము క్రమం తప్పకుండా బృంద సమావేశాలు మరియు నిర్దిష్ట సవాళ్లపై బ్రెయిన్‌జామ్‌లను నిర్వహిస్తాము.
