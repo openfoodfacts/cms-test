@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "ฉันต้องการลบบัญชีของฉัน"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
+category: 1-บัญชีข้อมูลอาหารเปิดของฉัน
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+ตอนนี้คุณสามารถลบบัญชีผู้ใช้ได้โดยตรงจากเมนูการตั้งค่าของคุณแล้ว
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+หลังจากเข้าสู่ระบบที่ https://world.openfoodfacts.org/ แล้ว ให้คลิกที่ชื่อผู้ใช้ที่มุมบนขวา จากนั้นเลือก "การตั้งค่าบัญชี" ระบบจะเปิดหน้าการตั้งค่าของคุณ เลื่อนลงไปด้านล่างสุดของหน้า และใช้ตัวเลือก "ลบผู้ใช้"
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+หากคุณไม่สามารถเข้าสู่ระบบ (หรือรีเซ็ตรหัสผ่าน) ได้ โปรดติดต่อ dpo - at - openfoodfacts.org โดยใช้อีเมลที่คุณใช้ลงทะเบียนบัญชี
