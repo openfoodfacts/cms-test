@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "ನಾನು ಲೇಬಲ್‌ಗಳಿಗಾಗಿ ಹೊಸ ಲೋಗೋವನ್ನು ಸೇರಿಸಲು ಬಯಸುತ್ತೇನೆ."
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: ನನ್ನ ಭಾಷೆಯ ದೇಶದಲ್ಲಿ ಮುಕ್ತ ಆಹಾರದ ಬಗ್ಗೆ 15 ಸುಧಾರಣೆಗಳು
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ನನ್ನ-ಭಾಷೆ-ದೇಶದಲ್ಲಿ ಮುಕ್ತ ಆಹಾರದ ಸಂಗತಿಗಳನ್ನು ಸುಧಾರಿಸುವುದು/'
   ]
 ---
 
-Here is the process:
+ಪ್ರಕ್ರಿಯೆ ಇಲ್ಲಿದೆ:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- ಲೇಬಲ್‌ಗಳ ವರ್ಗೀಕರಣ ಶಾಸ್ತ್ರದಲ್ಲಿ ಲೇಬಲ್‌ನ ಅಂಗೀಕೃತ ಹೆಸರನ್ನು ಹುಡುಕಿ (ಇದು ಲೇಬಲ್‌ಗಳ ಸಮಾನಾರ್ಥಕಗಳ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಮೊದಲ ಐಟಂ, ಉದಾ. en:100% ತರಕಾರಿ)
+- ಲೋಗೋವನ್ನು ಉತ್ತಮ ಗುಣಮಟ್ಟದಲ್ಲಿ ಪಡೆಯಿರಿ: ಈ ಪ್ರಕರಣಕ್ಕೆ ಸೂಕ್ತವಲ್ಲದ ಕೊಡುಗೆದಾರರ ಫೋಟೋವನ್ನು ಬಳಸುವುದನ್ನು ತಪ್ಪಿಸಿ; ಹೆಚ್ಚಿನ ಲೇಬಲ್‌ಗಳು ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್‌ಗಳ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಲೋಗೋಗಳನ್ನು ಹೊಂದಿರುತ್ತವೆ, ಕೆಲವೊಮ್ಮೆ ವೆಕ್ಟರ್ ಸ್ವರೂಪದಲ್ಲಿ (ನಮಗೆ ಇನ್ನೂ ಉತ್ತಮ); ಉತ್ಪನ್ನದ ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿ
+  ಲೇಬಲ್‌ನ ಉಪಸ್ಥಿತಿಯ ಬಗ್ಗೆ ವಸ್ತುನಿಷ್ಠವಾಗಿ ತಿಳಿಸಲು ನಾವು ಲೋಗೋವನ್ನು ಬಳಸುವವರೆಗೆ, ಅನುಮತಿ ಕೇಳುವ ಅಗತ್ಯವಿಲ್ಲ.
+- ಫೈಲ್ ಅನ್ನು ಈ ರೀತಿ ಹೆಸರಿಸಿ: name-of-the-label.[width]x90.png ಇಲ್ಲಿ width ಎಂದರೆ ಲೋಗೋ 90 ಪಿಕ್ಸೆಲ್‌ಗಳಷ್ಟು ಎತ್ತರದಲ್ಲಿದ್ದಾಗ ಅದರ ಅಗಲವಾಗಿರುತ್ತದೆ. ಫೈಲ್ ಹೆಸರುಗಳು ಉಚ್ಚಾರಣೆ ಇಲ್ಲದೆ, ಸಣ್ಣ ಅಕ್ಷರಗಳಲ್ಲಿ ಮತ್ತು ಸ್ಪೇಸ್‌ಗಳ ಬದಲಿಗೆ "-" ಅನ್ನು ಬಳಸಬೇಕು.
+- ನಂತರ ಅದರ ಕ್ಯಾನೊನಿಕಲ್ ಹೆಸರಿಗೆ ಅನುಗುಣವಾದ ಡೈರೆಕ್ಟರಿಯಲ್ಲಿ ಲೋಗೋವನ್ನು ಸೇರಿಸಿ. ಅಂಗೀಕೃತ ಹೆಸರು en:something ಆಗಿದ್ದರೆ, ಅವು /en/ ನಲ್ಲಿರಬೇಕು. ಲೋಗೋಗಳ ಮೂಲ ಡೈರೆಕ್ಟರಿ https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang ಆಗಿದೆ.
