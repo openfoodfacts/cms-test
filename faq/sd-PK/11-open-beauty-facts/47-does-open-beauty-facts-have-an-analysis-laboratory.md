@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "ڇا اوپن بيوٽي فيڪٽس ۾ تجزياتي ليبارٽري آهي؟"
 order: 47
 lang: اين جي بي
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-کليل-خوبصورتي-حقيقتون
+breadcrumbs: [ '/en-gb/', '/sd-gb/11-کليل خوبصورتي حقيقتون/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+بدقسمتي سان اوپن بيوٽي فيڪٽس وٽ تجزياتي ليبارٽري ناهي: اسان رضاڪارن جي هڪ تنظيم آهيون جن جو مقصد سينگار جي شين جو هڪ وڪيپيڊيا ٺاهڻ آهي.
 
-That said, if you would like to help us provide more transparency for
+اهو چيو ته، جيڪڏهن توهان اسان کي وڌيڪ شفافيت فراهم ڪرڻ ۾ مدد ڪرڻ چاهيو ٿا
 
-consumers, you can use our iPhone, Android and
+صارفين، توهان اسان جو آئي فون، اينڊرائيڊ ۽ استعمال ڪري سگهو ٿا
 
-Windows Phone to add products:
+ونڊوز فون پراڊڪٽس شامل ڪرڻ لاءِ:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+۽ منصوبي جي ممڪن استعمالن جي تبادلي ۽ بحث ڪرڻ لاءِ، توهان
 
-can join the Facebook group of contributors:
+فيس بڪ گروپ ۾ حصو وٺندڙن ۾ شامل ٿي سگهو ٿا:
 
 https://www.facebook.com/groups/356858984359591/
