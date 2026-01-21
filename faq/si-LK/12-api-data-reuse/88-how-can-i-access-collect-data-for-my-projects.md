@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "මගේ ව්‍යාපෘති සඳහා දත්ත ප්‍රවේශ කර ගන්නේ/එකතු කරන්නේ කෙසේද?"
+order: 88 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-දත්ත-නැවත භාවිතා කිරීම
+breadcrumbs: [ '/si-gb/', '/en-gb/12-api-දත්ත-නැවත භාවිතා කරන්න/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts හි ප්‍රධාන පිටුවේ, තිරයේ ඉහළ වම් කෙළවරේ, අනුචලන මෙනුවක් ඇත. එහි පහළින්, ඔබට "උසස් සෙවුම්" විකල්පය සොයාගත හැකි අතර, එය මත ක්ලික් කළ හැකිය. ඉන්පසු ඔබේ ව්‍යාපෘතියට/ව්‍යාපෘතිවලට වඩාත්ම අදාළ වන්නේ කුමන නිර්ණායකද යන්න තීරණය කිරීම ඔබට භාරයි. තෝරාගත් පසු, පිටුවේ පහළින් පහළට අනුචලනය කර "ප්‍රතිඵල බාගන්න" මත ක්ලික් කිරීමෙන් ඔබට ලබාගත් ප්‍රතිඵල බාගත කිරීමට හැකි වනු ඇත.
 
-You can also consult:
+ඔබට ද උපදෙස් ලබා ගත හැකිය:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- අපගේ API ලේඛන: https://openfoodfacts.github.io/api-documentation/
+- විවෘත ආහාර කරුණු භාවිත නියමයන්: https://world.openfoodfacts.org/terms-of-use
+- අපගේ දත්ත මත: https://world.openfoodfacts.org/data
