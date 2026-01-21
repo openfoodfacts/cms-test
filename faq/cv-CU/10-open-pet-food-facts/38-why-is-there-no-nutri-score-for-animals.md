@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Мӗншӗн чӗрчунсем валли Nutri-Score ҫук?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-уҫӑ-чӗт-апат-фактсем
+breadcrumbs: [ '/en-gb/', '/en-gb/10-открытый-пет-фуд-факты/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Кашни чӗрчун тӗрлӗрен (ҫӗлен кушакпа йытӑ пек апатланмасть)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Пӗр йышши чӗрчунсен, сӑмахран, йытӑсен, апат-ҫимӗҫ ыйтӑвӗсем ларса пурӑнакан пурнӑҫ йӗркин пурнӑҫне, пулма пултаракан кастрацие е чирсене кура тӗрлӗрен пулаҫҫӗ.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Ҫавӑнпа та вуншар тӗпчевҫӗсене явӑҫтармасӑр тата вуншар тӗрлӗ алгоритмсем тумасӑр выльӑх апачӗ валли балл шутласа кӑларма кӑткӑс, ҫакна паянхи кунччен туман.
