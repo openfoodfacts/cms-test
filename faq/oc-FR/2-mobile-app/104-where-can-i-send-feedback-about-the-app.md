@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Ont pòdi mandar de comentaris a prepaus de l'aplicacion ?"
 order: 104
 lang: es-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplicacion-mobila
+breadcrumbs: [ '/es-gb/', '/es-gb/2-aplicacion-mobila/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Podètz mandar de comentaris a mobile@openfoodfacts.org
