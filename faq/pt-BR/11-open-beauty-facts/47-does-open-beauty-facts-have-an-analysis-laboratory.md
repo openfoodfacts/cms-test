@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "A Open Beauty Facts possui um laboratório de análises?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
+category: 11-fatos-sobre-beleza-abertos
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Infelizmente, o Open Beauty Facts não possui um laboratório de análises: somos uma associação de voluntários cujo objetivo é criar uma Wikipédia de cosméticos.
 
-That said, if you would like to help us provide more transparency for
+Dito isso, se você quiser nos ajudar a fornecer mais transparência para
 
-consumers, you can use our iPhone, Android and
+Consumidores, vocês podem usar nossos iPhones, Androids e
 
-Windows Phone to add products:
+Windows Phone para adicionar produtos:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+E para trocar e discutir os possíveis usos do projeto, você
 
-can join the Facebook group of contributors:
+Pode juntar-se ao grupo de colaboradores no Facebook:
 
 https://www.facebook.com/groups/356858984359591/
