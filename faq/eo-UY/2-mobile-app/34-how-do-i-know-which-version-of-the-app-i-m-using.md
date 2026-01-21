@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Kiel mi scios, kiun version de la aplikaĵo mi uzas?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-poŝtelefona aplikaĵo
+breadcrumbs: [ '/en-gb/', '/eo-gb/2-poŝtelefona-aplikaĵo/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Iru al Profilo,
+poste Oftaj Demandoj, poste Pri ĉi tiu aplikaĵo.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Vi devus
+vidi versionumeron kiel 3.4.5+662. Ne forgesu diri al ni la markon kaj modelon
+de la telefono se ĝi sencimigas.
