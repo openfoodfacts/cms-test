@@ -1,11 +1,11 @@
 ---
-title: "Do you consider scraping prices from retailers’ websites?"
-order: 98
+title: "के तपाईं खुद्रा विक्रेताहरूको वेबसाइटबाट मूल्यहरू स्क्र्याप गर्ने विचार गर्नुहुन्छ?"
+order: ९८
 lang: एनजीबी
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: २९-खुला-मूल्यहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/29-खुला-मूल्यहरू/' ]
 ---
 
-For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
+कानुनी र प्राविधिक कारणहरूले गर्दा, हामी खुद्रा विक्रेताहरूको वेबसाइटबाट मूल्यहरू स्क्र्याप गर्ने कुरालाई खुला मूल्यहरूमा योगदान गर्ने वैध तरिकाको रूपमा लिँदैनौं। हामी यो सुनिश्चित गर्न चाहन्छौं कि हामीले सङ्कलन गर्ने मूल्यहरू सही र अद्यावधिक छन्, र योगदानकर्ताहरूबाट स्क्र्याप गरिएको मूल्यहरू प्राप्त गर्नाले हामीलाई त्यसो गर्न अनुमति दिँदैन।
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
