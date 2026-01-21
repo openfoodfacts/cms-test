@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "এপিআই ব্যৱহাৰ কৰিবলৈ চৰ্ত আছেনে?"
+order: ৯৪
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ১২-এপিআই-ডাটা-পুনৰ ব্যৱহাৰ
+breadcrumbs: [ '/as-gb/', '/as-gb/12-api-ডাটা-পুনৰ ব্যৱহাৰ/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API ব্যৱহাৰৰ বিষয়ে সকলো আলেখ্যন API আলেখ্যন পৃষ্ঠাত পোৱা যাব, কিন্তু ইয়াত এটা দ্ৰুত সাৰাংশ দিয়া হৈছে:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- মুক্ত খাদ্য তথ্য ডাটাবেছ মুক্ত ডাটাবেছ অনুজ্ঞাপত্ৰ (ODbL)ৰ অধীনত মুক্ত তথ্য হিচাপে উপলব্ধ, আইনী বিৱৰণৰ বাবে https://world.openfoodfacts.org/terms-of-use চাওক। চৰ্ত দুটা হ’ল এট্ৰিবিউচন আৰু শ্বেয়াৰ-এলাইক। যদি আপুনি মুক্ত খাদ্য তথ্যৰ পৰা তথ্য অন্য ডাটাবেইচসমূহৰ সৈতে সংযুক্ত কৰে, তেন্তে ODbL ৰ বাবে প্ৰয়োজনীয় যে ফলাফল ডাটাবেইচক মুক্ত তথ্য হিচাপেও মুকলি কৰিব লাগিব। ইয়াৰ অৰ্থ এইটোও যে আপুনি তথ্যসমূহ কেৱল উৎসসমূহৰ সৈতে একত্ৰিত কৰিব পাৰে যিয়ে এনে পুনৰবিতৰণৰ অনুমতি দিব।
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- আপোনাৰ এপ চিনাক্ত কৰিবলৈ API কলসমূহ সম্পাদন কৰাৰ সময়ত আপুনি সদায় এটা স্বনিৰ্বাচিত ব্যৱহাৰকাৰী-এজেন্ট ব্যৱহাৰ কৰিব লাগিব।
 
-- Rate-limits are enforced for each API endpoint.
+- প্ৰতিটো API শেষবিন্দুৰ বাবে হাৰ-সীমা বলবৎ কৰা হয়।
