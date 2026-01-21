@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Me pēhea taku kawemai i aku hua ki roto i te Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ngā-meka-ataahua-tuwhera
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ngā-meka-ataahua-tuwhera/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Whakapā mai ki producteurs@openfoodfacts.org, haere tika atu rānei ki
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org kātahi ka whakapā atu ki producteurs@openfoodfacts.org mō tētahi kaweake motuhake
