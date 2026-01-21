@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "আমি কিভাবে ঐতিহাসিক তথ্য অ্যাক্সেস করতে পারি?"
+order: ১০৫
 lang: en-gb সম্পর্কে
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ১২-এপিআই-ডেটা-পুনঃব্যবহার
+breadcrumbs: [ '/bn-জিবি/', '/bn-gb/12-api-ডেটা-পুনঃব্যবহার/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+বর্তমানে, আমরা ঐতিহাসিক ডেটা ডাম্প (JSONL, MongoDB, CSV) অফার করি না।
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+তবে, পৃথক পণ্যের জন্য, API ব্যবহার করে বা পণ্য পৃষ্ঠায় সংশোধন ব্যবহার করে পণ্যের ডেটার পূর্ববর্তী সংস্করণগুলি অ্যাক্সেস করা সম্ভব।
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+প্রতিবার যখন কোনও পণ্য আপডেট করা হয়, তখন একটি নতুন সংশোধন (১ থেকে শুরু করে বর্ধিত সংখ্যা) তৈরি করা হয়।
 
-For example, to get the first revision (=first product version) of this product, use
+উদাহরণস্বরূপ, এই পণ্যের প্রথম সংস্করণ (=প্রথম পণ্য সংস্করণ) পেতে, ব্যবহার করুন
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+একইভাবে, rev প্যারামিটারটি API এর সাথে ব্যবহার করা যেতে পারে:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
