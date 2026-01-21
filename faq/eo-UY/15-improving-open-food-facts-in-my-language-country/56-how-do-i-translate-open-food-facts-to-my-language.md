@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Kiel mi tradukas Open Food Facts al mia lingvo?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-plibonigaj-faktoj-pri-malferma-manĝaĵo-en-mia-lingva-lando
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/eo-gb/15-plibonigante-malfermajn-manĝaĵojn-en-mia-lingva-lando/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Iru al https://wiki.openfoodfacts.org/Country_Support
