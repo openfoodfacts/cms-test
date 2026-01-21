@@ -2,8 +2,8 @@
 title: "எனது பயனர்பெயரை எவ்வாறு மாற்றுவது?"
 order: 107 தமிழ்
 lang: ta-gb (ஆங்கிலம்)
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-எனது-திறந்த-உணவு-உண்மைகள்-கணக்கு
+breadcrumbs: [ '/ta-gb/', '/ta-gb/1-எனது-திறந்த-உணவு-உண்மைகள்-கணக்கு/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+துரதிர்ஷ்டவசமாக, அது சாத்தியமில்லை. நீங்கள் உண்மையிலேயே மாற்ற விரும்பினால், உங்கள் கணக்கை நீக்கிவிட்டு புதிய ஒன்றை உருவாக்க வேண்டும்.
