@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "Mɛyɛ dɛn atumi anya abakɔsɛm mu nsɛm?"
+order: 105 na ɛwɔ hɔ
 lang: tw-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-a wɔde di dwuma bio
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/12-api-data-san de di dwuma/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Mprempren, yɛmfa abakɔsɛm mu data dump (JSONL, MongoDB, CSV) mma.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Nanso, wɔ ankorankoro nneɛma ho no, ɛyɛ yie sɛ wode API no bɛnya afiri no data no nkyerɛaseɛ a atwam no anaasɛ wobɛnya wɔ afiri no kratafa no so denam nsakraeɛ a wode bedi dwuma so.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Bere biara a wɔbɛma ade bi ayɛ foforo no, wɔyɛ nsakrae foforo (digit a ɛkɔ soro a efi ase fi 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Sɛ nhwɛso no, sɛ wopɛ sɛ wunya nsakrae a edi kan (=first product version) wɔ saa ade yi ho a, fa di dwuma
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+10. Ɔkwan a wɔfa so yɛ aduru a ɛma obi nya apɔwmuden.
 
-Similarly, the rev parameter can be used with the API:
+Saa ara nso na wobetumi de rev parameter no adi dwuma ne API no:
 
-https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
+https://wiase.openfoodfacts.org/api/v2/product/7623186089763?rev=1
