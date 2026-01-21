@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Je, kuna masharti ya kutumia API?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Matumizi-ya-data-ya-api-12
+breadcrumbs: [ '/sw-gb/', '/sw-gb/12-api-data-use-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Nyaraka zote kuhusu matumizi ya API zinaweza kupatikana kwenye ukurasa wa nyaraka za API, lakini hapa kuna muhtasari mfupi:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Hifadhidata ya Ukweli wa Chakula Huria inapatikana kama data huria chini ya Leseni ya Hifadhidata Huria (ODbL), tazama https://world.openfoodfacts.org/terms-of-use kwa maelezo ya kisheria. Masharti hayo mawili ni ugawaji na ushiriki sawa. Ukichanganya data kutoka kwa Ukweli Huria wa Chakula na hifadhidata zingine, basi ODbL inahitaji kwamba hifadhidata inayotokana lazima itolewe kama data huria pia. Pia ina maana kwamba unaweza kuchanganya data na vyanzo ambavyo vitaruhusu ugawaji huo upya pekee.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Lazima utumie Mtumiaji-Wakala maalum kila wakati unapofanya simu za API ili kutambua programu yako.
 
-- Rate-limits are enforced for each API endpoint.
+- Vikomo vya viwango vinatekelezwa kwa kila sehemu ya mwisho ya API.
