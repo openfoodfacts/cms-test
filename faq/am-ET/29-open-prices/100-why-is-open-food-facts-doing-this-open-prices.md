@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "ለምንድነው ክፍት የምግብ ፋውንዴሽን (ክፍት ዋጋዎች) ይህን የሚያደርገው?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-ክፍት ዋጋዎች
+breadcrumbs: [ '/en-gb/', '/en-gb/29-ክፍት-ዋጋዎች/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+የምግብ ስርዓቶችን ለመረዳት የዋጋ መረጃ እጅግ በጣም አስፈላጊ ነው። የምግብ ዋጋን ለመረዳት እና ጤናማ ምግቦችን ለማስፋፋት ቁልፍ ነገር ነው። የዋጋ መረጃ መክፈት ተመራማሪዎች፣ ጋዜጠኞች እና ዜጎች የምግብ ዋጋ በጂኦግራፊያዊ እና በጊዜ እንዴት እንደሚለያይ የተሻለ ግንዛቤ እንዲኖራቸው ለማድረግ የሚያስችል መንገድ ነው።
