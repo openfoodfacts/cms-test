@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "API kullanarak belirli bir ürün adını arayabilir miyim?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-veri-yeniden kullanımı
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-veri-yenidenkullanımı/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Maalesef, API üzerinden yalnızca ürün adına göre ve hassas bir şekilde arama yapmak henüz kolay değil.
 
-Using a filter on category might help you make your search more precise though.
+Arama sonuçlarını daha kesin hale getirmek için kategoriye göre filtre kullanmak faydalı olabilir.
