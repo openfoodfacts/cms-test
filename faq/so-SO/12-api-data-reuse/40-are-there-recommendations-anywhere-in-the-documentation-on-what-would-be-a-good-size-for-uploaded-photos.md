@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Ma jiraan talooyin ku jira dukumeentiyada oo ku saabsan cabbirka wanaagsan ee sawirrada la soo geliyay?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-data-reuse-use
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Taasi waxay ku xirnaan kartaa waddamada, haddii shabakadu gaabis tahay ama qaali tahay. wax kasta oo ka sarreeya 5000 pixels oo miisaan ama dherer ah malaha faa'iido badan ma laha. haddii aad si uun u ogaan karto in shabakadu gaabis tahay, markaa xitaa sawirka 2000 pixels wuu fiicnaan lahaa (hubaal wuu ka fiican yahay inaadan sawir lahayn!)
