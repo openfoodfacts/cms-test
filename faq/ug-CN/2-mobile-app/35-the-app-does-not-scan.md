@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "ئەپ سىكانىرلىمايدۇ"
 order: 35
 lang: en-gb
-category: 2-mobile-app
+category: 2-موبىل ئەپ
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-This may be due to
+بۇنىڭ سەۋەبى بولۇشى مۇمكىن
 
-- a network problem
+- تور مەسىلىسى
 
-- a permissions problem
+- ئىجازەت مەسىلىسى
 
-- a barcode problem
+- شىتىركود مەسىلىسى
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+بىزگە ئارخىپ ئارقىلىق ئېلخەت ئەۋەتىڭ >> بىز بىلەن ئالاقىلىشىڭ >> بىزگە ئېلخەت ئەۋەتىڭ.
 
-All relevant information should be attached to your request.
+بارلىق ئالاقىدار ئۇچۇرلار سىزنىڭ تەلىپىڭىزگە قوشۇلۇشى كېرەك.
