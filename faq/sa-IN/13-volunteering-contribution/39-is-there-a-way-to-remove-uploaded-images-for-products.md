@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
-order: 39
+title: "उत्पादानाम् अपलोड् कृतानि चित्राणि दूरीकर्तुं कोऽपि उपायः अस्ति वा?"
+order: ३९
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: १३-स्वयंसेवक-योगदान
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/13-स्वयंसेवक-योगदान/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+केवलं संचालकाः एव छायाचित्रं हर्तुं शक्नुवन्ति, सम्भाव्यविध्वंसं परिहरितुं।
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+केवलं Slack इत्यत्र अथवा contact@openfoodfacts.org इत्यत्र स्वस्य डुप्लिकेट् अथवा कस्यापि अनुचितस्य फोटो इत्यस्य निष्कासनार्थं पृच्छन्तु (भवता तदर्थं बारकोड् सङ्ख्या वा URL वा प्रदातुं प्रयतितव्यम्)।
 
-We also have a new image report API if you're a programmer.
+अस्माकं कृते नूतनं इमेज रिपोर्ट् एपिआइ अपि अस्ति यदि भवान् प्रोग्रामरः अस्ति।
