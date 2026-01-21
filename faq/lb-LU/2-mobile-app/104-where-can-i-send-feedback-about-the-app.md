@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Wou kann ech Feedback iwwer d'App schécken?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-Mobil-App
+breadcrumbs: [ '/lb-gb/', '/lb-gb/2-mobil-app/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Dir kënnt Feedback un mobile@openfoodfacts.org schécken
