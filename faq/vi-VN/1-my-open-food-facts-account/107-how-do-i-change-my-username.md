@@ -6,4 +6,4 @@ category: 1-my-open-food-facts-account
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Đáng tiếc là điều đó không thể thực hiện được. Nếu bạn thực sự muốn thay đổi, bạn phải xóa tài khoản hiện tại và tạo một tài khoản mới.
