@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Quero excluir minha conta."
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-minha-conta-aberta-sobre-informações-alimentares
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-minha-conta-aberta-de-fatos-alimentares/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Agora, a exclusão da conta é feita diretamente nas suas preferências.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Após fazer login em https://world.openfoodfacts.org/, clique no nome de usuário no canto superior direito e selecione "Parâmetros da conta". Abre a sua página de preferências. Vá até o final da página e use a ação "excluir usuário".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Caso não consiga iniciar sessão (ou redefinir a sua palavra-passe), contacte dpo - at - openfoodfacts.org, utilizando o endereço de e-mail que utilizou para registar a sua conta.
