@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "API'yi kullanmak için şartlar var mı?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-veri-yeniden kullanımı
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-veri-yenidenkullanımı/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API kullanımına ilişkin tüm belgelere API dokümantasyon sayfasından ulaşılabilir, ancak işte kısa bir özet:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Open Food Facts veri tabanı, Açık Veri Tabanı Lisansı (ODbL) kapsamında açık veri olarak sunulmaktadır; yasal ayrıntılar için https://world.openfoodfacts.org/terms-of-use adresine bakınız. İki koşul, atıf ve paylaşımlılıktır. Open Food Facts'ten elde edilen verileri diğer veritabanlarıyla birleştirirseniz, ODbL (Open Data License) gereği ortaya çıkan veritabanının da açık veri olarak yayınlanması gerekir. Bu aynı zamanda verileri yalnızca bu tür yeniden dağıtıma izin veren kaynaklarla birleştirebileceğiniz anlamına da gelir.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Uygulamanızı tanımlamak için API çağrıları yaparken her zaman özel bir User-Agent kullanmalısınız.
 
-- Rate-limits are enforced for each API endpoint.
+- Her API uç noktası için hız sınırlamaları uygulanır.
