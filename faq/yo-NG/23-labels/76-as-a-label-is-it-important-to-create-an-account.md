@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Gẹ́gẹ́ bí àmì, ṣé ó ṣe pàtàkì láti ṣẹ̀dá àkọọ́lẹ̀ kan?"
 order: 76
 lang: en-gb
-category: 23-labels
+category: Àwọn àmì 23
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Gẹ́gẹ́ bí àmì, nítorí pé ìwọ kìí ṣe olùpèsè ọjà tààrà, o kò nílò láti ṣẹ̀dá àkọọ́lẹ̀ olùpèsè.
