@@ -1,11 +1,15 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Ngingasesha yini ligama lemkhicito lelicondzile nge-API?"
 order: 66
 lang: si-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-kuphindze-kusetjentiswe idatha
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/12-kusetjentiswa-kwemininingwane-ye-api/'
+  ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Ngelishwa akukakhonakali kutsi useshe kalula egameni lemkhicito kuphela futsi ngalokucondzile nge-API.
 
-Using a filter on category might help you make your search more precise though.
+Kusebentisa luhlu lwesigaba kungakusita kutsi luphenyo lwakho lube ngulolunembile kakhulu.
