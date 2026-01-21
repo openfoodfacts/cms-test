@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Оё дар ҳуҷҷатҳо тавсияҳо дар бораи андозаи мувофиқ барои аксҳои боршуда мавҷуданд?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: Истифодаи такрории маълумоти 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Ин метавонад аз кишварҳо вобаста бошад, агар шабака суст ё гарон бошад. ҳар чизе, ки аз 5000 пиксел вазн ё қад болотар аст, эҳтимолан чандон муфид нест. ва агар шумо ба ягон роҳ муайян карда тавонед, ки шабака суст кор мекунад, пас ҳатто як тасвири 2000 пикселӣ хеле хуб мебуд (албатта аз надоштани тасвир беҳтар аст!)
