@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Kas Open Beauty Factsil on analüüsilabor?"
 order: 47
 lang: et-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 avatud ilufakti
+breadcrumbs: [ '/et-ee/', '/et-ee/11-avatud-ilufaktid/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Kahjuks pole Open Beauty Factsil analüüsilaborit: oleme vabatahtlike ühendus, mille eesmärk on luua kosmeetika Vikipeedia.
 
-That said, if you would like to help us provide more transparency for
+Siiski, kui soovite aidata meil pakkuda suuremat läbipaistvust
 
-consumers, you can use our iPhone, Android and
+tarbijad, saate kasutada meie iPhone'i, Androidi ja
 
-Windows Phone to add products:
+Windows Phone toodete lisamiseks:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Ja projekti võimalike kasutusviiside vahetamiseks ja arutamiseks te
 
-can join the Facebook group of contributors:
+saab liituda kaastööliste Facebooki grupiga:
 
 https://www.facebook.com/groups/356858984359591/
