@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "ఈ తరచుగా అడిగే ప్రశ్నలను నా భాషలోకి ఎలా అనువదించాలి?"
+order: 57 తెలుగు
 lang: en-gb తెలుగు in లో
-category: 15-improving-open-food-facts-in-my-language-country
+category: నా భాషా దేశంలో 15 మెరుగైన ఆహార వాస్తవాలు
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-నా భాషా దేశంలో ఓపెన్ ఫుడ్ వాస్తవాలను మెరుగుపరచడం/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+నాలెడ్జ్ బేస్ కు సవరణ యాక్సెస్ కోసం దయచేసి contact@openfoodfacts.org ని అడగండి.
