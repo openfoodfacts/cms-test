@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
-order: 38
+title: "എന്തുകൊണ്ടാണ് മൃഗങ്ങൾക്ക് ന്യൂട്രി-സ്കോർ ഇല്ലാത്തത്?"
+order: 38 ദിവസം
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: വളർത്തുമൃഗങ്ങളുടെ ഭക്ഷണത്തെക്കുറിച്ചുള്ള 10 വസ്തുതകൾ
+breadcrumbs:
+  [
+    '/എംഎൽ-ജിബി/',
+    '/en-gb/10-open-pet-food-facts/ // വളർത്തുമൃഗങ്ങളുടെ ഭക്ഷണ വസ്തുതകൾ'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+ഓരോ മൃഗവും വ്യത്യസ്തമാണ് (ഒരു പാമ്പിന് പൂച്ചയെയോ നായയെയോ പോലെ പോഷക ആവശ്യങ്ങൾ ഇല്ല)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+നായ്ക്കൾ പോലുള്ള ഒരേ തരത്തിലുള്ള മൃഗങ്ങളിൽ പോലും, ഉദാസീനമായ ജീവിതശൈലി, സാധ്യമായ വന്ധ്യംകരണം അല്ലെങ്കിൽ രോഗങ്ങൾ എന്നിവയെ ആശ്രയിച്ച് പോഷകാഹാര ആവശ്യങ്ങൾ വ്യത്യാസപ്പെടുന്നു.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+അതുകൊണ്ടുതന്നെ, ഡസൻ കണക്കിന് ഗവേഷകരെ ഉൾപ്പെടുത്താതെയും ഡസൻ കണക്കിന് വ്യത്യസ്ത അൽഗോരിതങ്ങൾ സൃഷ്ടിക്കാതെയും മൃഗങ്ങളുടെ തീറ്റയ്ക്കുള്ള സ്കോർ കണക്കാക്കുന്നത് സങ്കീർണ്ണമാണ്, അത് ഇന്നുവരെ ചെയ്തിട്ടില്ല.
