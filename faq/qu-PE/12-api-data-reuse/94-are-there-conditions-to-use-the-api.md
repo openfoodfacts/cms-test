@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
-order: 94
+title: "¿API llamk'achinapaq condicionkuna kanchu?"
+order: 94. 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-datos-kutichiy
+breadcrumbs: [ '/quchqa-gb/ .', '/qucha-gb/12-api-data-kutichiy/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+API llamk'achiyta llapa qillqakuna API qillqa p'anqapi tarikunman, ichataq kaypi huk utqaylla resumen kachkan:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Kichasqa Mikhuy Chiqakuna willaypa tiyapuynin kichasqa willay hina Kichasqa Willaypa Wasin Licencia (ODbL) kaqpi tarikun, kamachiy willakuypaq https://world.openfoodfacts.org/terms-of-use kaqpi qhaway. Iskay condicionkunaqa atribución nisqawan compartición nisqawanmi kaqlla. Sichus Kichasqa Mikhuy Chiqakunamanta willayta wak willaypa tiyapuyninwan tinkinki, chaymanta ODbL mañan chaymanta ruwasqa willaypa tiyapuynin kichasqa willay hina kacharisqa kanan tiyan. Chantapas niyta munan, willayta chayhina wakmanta rakiyta saqinman pukyukunawanlla tinkiyta atikunki.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Sapa kuti huk ruwasqa Usuario-Agente llamk'achinayki tiyan mayk'aq API waqyakuykunata ruwachkanki ruwanayki riqsichinapaq.
 
-- Rate-limits are enforced for each API endpoint.
+- Tarifa-limitakuna sapa API tukukuypaq kamachisqa kanku.
