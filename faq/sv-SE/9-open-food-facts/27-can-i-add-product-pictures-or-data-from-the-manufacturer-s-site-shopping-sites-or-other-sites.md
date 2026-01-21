@@ -1,0 +1,11 @@
+---
+title: "Kan jag lägga till produktbilder eller data från tillverkarens webbplats, shoppingwebbplatser eller andra webbplatser?"
+order: 27
+lang: sv-gb
+category: 9-öppna-matfakta
+breadcrumbs: [ '/sv-gb/', '/sv-gb/9-open-food-facts/' ]
+---
+
+Antagligen inte. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
+
+To avoid any legal problem, we therefore ask contributors to only add pictures that they took themselves, and only data that is coming from the product packaging and label.
