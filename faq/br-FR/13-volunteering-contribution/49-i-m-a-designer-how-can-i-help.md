@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Tresour on. Penaos e c'hellan sikour ?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-labour a-youl vat
+breadcrumbs: [ '/br-gb/', '/br-gb/13-skoazell-labour/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Kenurzhiañ a reomp an holl obererezhioù liammet ouzh an tresañ war https://github.com/openfoodfacts/openfoodfacts-design ha war ur chadenn flapañ gouestlet. Reoliek e vez aozet emvodoù skipailh ha prederioù war taolioù-arnod resis.
