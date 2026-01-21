@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "¿Imaynatataq Kichasqa Mikhuy Chiqapkunata simiyman tikrayman ?"
+order: 56. 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-allichay-kichasqa-mikhuy-chiqakuna-simiy-llaqtapi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/quchqa-gb/ .',
+    '/quch-gb/15-allichay-kichasqa-mikhuy-chiqakunata-simiy-llaqtapi/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Umalliy https://wiki.openfoodfacts.org/Llaqta_Yanapay
