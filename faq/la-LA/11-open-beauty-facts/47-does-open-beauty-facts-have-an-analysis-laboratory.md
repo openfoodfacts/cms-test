@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Num Open Beauty Facts laboratorium analyticum habet?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-aperta-pulchritudinis-facta
+breadcrumbs: [ '/en-gb/', '/en-gb/11-aperta-pulchritudinis-facta/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts, pro dolor, laboratorium analyticum non habet: societas voluntariorum sumus cuius propositum est Wikipediam cosmeticorum creare.
 
-That said, if you would like to help us provide more transparency for
+Hoc dicto, si nobis adiuvare vis ut maiorem perspicuitatem praebeamus...
 
-consumers, you can use our iPhone, Android and
+emptores, iPhone, Android et
 
-Windows Phone to add products:
+Windows Phone ad res addendas:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Et ut usus possibiles incepti permutare et discutere possis, tu...
 
-can join the Facebook group of contributors:
+coetui Facebook contributorum se iungere potest:
 
 https://www.facebook.com/groups/356858984359591/
