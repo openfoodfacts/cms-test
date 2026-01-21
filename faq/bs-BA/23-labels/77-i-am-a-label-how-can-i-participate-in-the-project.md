@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Ja sam izdavačka kuća, kako mogu učestvovati u projektu?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-oznake
+breadcrumbs: [ '/bs-gb/', '/bs-gb/23-oznake/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Što se tiče etikete, najrelevantnije je da nas kontaktirate (producers@openfoodfacts.org) i pošaljete nam popis proizvoda na kojima se vaša etiketa prikazuje kako bismo ih mogli dodati na povezane listove proizvoda.
