@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Nka bona kae API ya Dintlha tsa Bontle jo bo Buletsweng le diromelwantle tsa tshedimosetso ?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Dintlha tsa bontle tse di bulegileng di le 11
+breadcrumbs: [ '/tsn-gb/', '/ts-gb/11-bule-dintlha-tsa-bontle/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+API ya Dintlha tsa Dijo tse di Buletsweng ke 98% e tshwana le API ya Dintlha tsa Bontle jo bo Buletsweng ka jalo fa o dirisa ditokomane tsa API ya Dintlha tsa Dijo tse di Buletsweng o tshwanetse go nna le pono e e tlhapileng sentle ya API ya Dintlha tsa Bontle jo bo Buletsweng.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Ela tlhoko gore ditiriso tse di jaaka Diphanele tsa Kitso, Eco-Score, Nutri-Score ga di tshegediwe (e ka tswa e le ka ntlha ya setlhogo, kgotsa ka ntlha ya khoutubase ya bogologolo).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://dintlha tsa dijo tse di bulegileng.github.io/sefara ya dintlha tsa dijo tse di bulegileng/api/ref-v2/
