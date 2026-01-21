@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "ကျွန်တော့်အကောင့်ကို ဖျက်ပစ်ချင်ပါတယ်"
+order: ၃၃
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ၁-ကျွန်ုပ်၏-ဖွင့်လှစ်ထားသော-အစားအစာ-အချက်အလက်များ-အကောင့်
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/၁-ကျွန်ုပ်၏-ဖွင့်လှစ်ထားသော-အစားအစာ-အချက်အလက်များ-အကောင့်/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+အကောင့်ဖျက်ခြင်းကို ယခု သင့်ဦးစားပေးများတွင် တိုက်ရိုက်လုပ်ဆောင်ပါသည်။
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ မှာ login ဝင်ပြီးရင် ညာဘက်အပေါ်ထောင့်က user name ကို နှိပ်ပြီး Account Parameters ကို ရွေးပါ။ ၎င်းသည် သင်၏ ဦးစားပေး စာမျက်နှာကို ဖွင့်ပေးသည်။ စာမျက်နှာ၏အောက်ခြေသို့သွားပြီး "အသုံးပြုသူကိုဖျက်ပါ" လုပ်ဆောင်ချက်ကို အသုံးပြုပါ။
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+သင်ဝင်ရောက်၍မရပါက (သို့မဟုတ် သင့်စကားဝှက်ကို ပြန်လည်သတ်မှတ်၍မရပါက) အကောင့်မှတ်ပုံတင်ရန်အသုံးပြုသည့် အီးမေးလ်လိပ်စာကို အသုံးပြု၍ dpo - at - openfoodfacts.org သို့ ဆက်သွယ်ပါ။
