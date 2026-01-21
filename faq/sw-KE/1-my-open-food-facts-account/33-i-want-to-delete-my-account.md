@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Nataka kufuta akaunti yangu"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: Akaunti 1-yangu-ya-ukweli-wa-chakula-kilicho wazi
+breadcrumbs:
+  [
+    '/sw-gb/',
+    '/sw-gb/1-akaunti-yangu-ya-ukweli-wa-chakula-kilicho wazi/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Kufutwa kwa akaunti sasa kunatokea moja kwa moja katika mapendeleo yako.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Baada ya kuingia kwenye https://world.openfoodfacts.org/, bofya jina la mtumiaji kwenye kona ya juu kulia, chagua Vigezo vya Akaunti. Inafungua ukurasa wa mapendeleo yako. Nenda chini ya ukurasa na utumie kitendo cha "futa mtumiaji".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Ikiwa huwezi kuingia (au kuweka upya nenosiri lako), tafadhali wasiliana na dpo - kwa - openfoodfacts.org, ukitumia anwani ya barua pepe unayotumia kusajili akaunti.
