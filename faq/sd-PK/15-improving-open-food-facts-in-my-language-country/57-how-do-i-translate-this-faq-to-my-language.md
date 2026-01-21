@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "مان هن FAQ کي پنهنجي ٻولي ۾ ڪيئن ترجمو ڪريان؟"
 order: 57
 lang: اين جي بي
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-منهنجي-ٻولي-ملڪ ۾-کليل-کاڌي-حقيقتن کي بهتر بڻائڻ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-منهنجي-ٻولي-ملڪ ۾-کليل-کاڌي-حقيقتن کي بهتر بڻائڻ/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ڄاڻ جي بنياد تائين تدوين جي رسائي لاءِ مهرباني ڪري contact@openfoodfacts.org کان پڇو.
