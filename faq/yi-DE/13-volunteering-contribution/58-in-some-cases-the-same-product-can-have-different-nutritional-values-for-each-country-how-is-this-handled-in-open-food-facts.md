@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "אין געוויסע פעלער קען דער זעלבער פּראָדוקט האָבן אַנדערע נוטרישאַנעלע ווערטן פֿאַר יעדן לאַנד, ווי ווערט דאָס באַהאַנדלט אין אָפן פוד פאַקס?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
+category: 13-וואלונטיר-ביישטייער
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% פון די צייט, וועלן פּראָדוצירער שאַפֿן פֿאַרשידענע באַרקאָודז פֿאַר פֿאַרשידענע ווערסיעס פֿון זייערע פּראָדוקטן. א בארימטער ביישפּיל איז דער חילוק צווישן פראנצויזישער און דייטשער נוטעללאַ אין טערמינען פון גרעב, צוליב דעם חילוק אין ברויט צווישן לענדער. 2 פֿאַרשידענע פֿאָרמולעס, 2 פֿאַרשידענע באַרקאָודז.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+באַרקאָד קלאַש קען אָבער פּאַסירן אויף קירצערע קאָודז (EAN-8) וואָס ווערן טיפּיש ווידער גענוצט דורך עטלעכע סטאָרז איבער אייראָפּע און די פאַראייניקטע שטאַטן. מיר האַנדלען נישט איצט מיט די באַרקאָד קלאַשיז, אָבער עס זאָל זיין מעגלעך צו טאָן דאָס דורך באַקומען די באַניצער'ס אַלגעמיינע לאָקאַציע (עס איז נאָך מער זעלטן צו האָבן באַרקאָד קלאַשיז אין אַ לאַנד).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+אויף לאַנגע טערמין, מוטיקן מיר פּראָדוצירער צו אַריבערגיין צו EAN-13 צו ויסמיידן די באַרקאָד קלאַשיז.
