@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Sideen u heli karaa xogta taariikhiga ah?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-data-reuse-use
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Waqtigan xaadirka ah, ma bixinno kaydin xog taariikhi ah (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Si kastaba ha ahaatee, alaabada shaqsiga ah, waxaa suurtogal ah in la galo noocyadii hore ee xogta badeecada iyadoo la adeegsanayo API-ga ama bogga badeecada iyadoo la adeegsanayo dib-u-eegisyo.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Mar kasta oo badeecad la cusbooneysiiyo, dib-u-eegis cusub (tiro sii kordheysa oo ka bilaabmaysa 1) ayaa la sameeyaa.
 
-For example, to get the first revision (=first product version) of this product, use
+Tusaale ahaan, si aad u hesho dib-u-eegista koowaad (= nooca badeecada koowaad) ee badeecadan, isticmaal
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Sidoo kale, halbeegga rev waxaa loo isticmaali karaa API-ga:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
