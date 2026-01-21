@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Għandi naġġorna l-fajls kollha tal-lingwa meta nibdel string tas-sors?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-mistoqsijiet tekniċi
+breadcrumbs: [ '/mt-gb/', '/mt-gb/16-mistoqsijiet-frekwenti-tekniċi/' ]
 ---
 
-No you don't. You just need to update the English one
+Le, m'għandekx. Inti sempliċiment għandek bżonn taġġorna dik bl-Ingliż.
 
-- Create your PR
+- Oħloq il-PR tiegħek
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Ladarba jingħaqad, se nibdlu l-bażi ta' crowdin-trigger manwalment u s-sistema ta' traduzzjoni Crowdin attivata minn GitHub Actions se tagħmel il-bqija għal-lingwi l-oħra.
 
-GitHub bot then creates a new PR automatically that we then review.
+Il-bot ta' GitHub imbagħad joħloq PR ġdid awtomatikament li mbagħad nirrevedu.
