@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "ওপেন ফুড ফ্যাক্টস-এর প্রেস ভিজ্যুয়াল আমি কীভাবে পেতে পারি?"
+order: ৫৪
 lang: en-gb সম্পর্কে
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: ১৪-প্রেস-মিডিয়া-অনুরোধ
+breadcrumbs: [ '/bn-জিবি/', '/bn-gb/14-প্রেস-মিডিয়া-অনুরোধ/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+অনুগ্রহ করে যোগাযোগ করুন: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
