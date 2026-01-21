@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
+title: "ናብ ፕሮ ፕላትፎርም ምእታውን ዳታ ምእታውን ነጻ ድዩ?"
 order: 72
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት
+parent_category: 3-ኣፍረይቲ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/ትግርኛ-ግብ/',
+    '/en-gb/3-ኣፍረይቲ/',
+    '/en-gb/3-producers/17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+ፍጹም፡ ንዘልኣለም ድማ ክኸውን እዩ።ኩሉ ብክፉት ፉድ ፋክትስ ዝወሃብ ኣገልግሎታት ብነጻ እዩ። ዳታ ፍርያትኩም ኣብ ግሉጽነት መግቢ ከተበርክቱ ብምውሳንኩም ኣዚና ሕጉሳት ኢና፡ በዚ ድማ ነመስግነኩም።
