@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Calaamad ahaan, ma muhiim baa in la sameeyo akoon?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-calaamadood
+breadcrumbs: [ '/en-gb/', '/en-gb/23-calaamadaha/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Calaamad ahaan, maadaama aadan ahayn soo-saaraha tooska ah ee badeecadaha, uma baahnid inaad abuurto akoon soo-saare.
