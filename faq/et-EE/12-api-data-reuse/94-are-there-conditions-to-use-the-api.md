@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Kas API kasutamiseks on tingimused?"
 order: 94
 lang: et-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-API-andmete-taaskasutamine
+breadcrumbs: [ '/et-ee/', '/et-ee/12-api-andmete-taaskasutamine/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Kogu API kasutamise dokumentatsioon on leitav API dokumentatsiooni lehelt, aga siin on lühike kokkuvõte:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Open Food Factsi andmebaas on avatud andmetena saadaval avatud andmebaasi litsentsi (ODbL) alusel, juriidiliste üksikasjade saamiseks vaadake https://world.openfoodfacts.org/terms-of-use. Need kaks tingimust on omistamine ja samaväärse jagamise põhimõte. Kui kombineerite Open Food Factsi andmeid teiste andmebaasidega, nõuab ODbL, et saadud andmebaas avaldataks samuti avatud andmetena. See tähendab ka seda, et andmeid saab kombineerida ainult allikatega, mis sellist ümberjaotamist võimaldavad.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Rakenduse tuvastamiseks API-kõnede tegemisel peate alati kasutama kohandatud kasutajaagenti.
 
-- Rate-limits are enforced for each API endpoint.
+- Iga API lõpp-punkti jaoks rakendatakse kiirusepiiranguid.
