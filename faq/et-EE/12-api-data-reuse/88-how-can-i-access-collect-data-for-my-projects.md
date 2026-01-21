@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Kuidas ma saan oma projektide jaoks andmetele ligi pääseda/andmeid koguda?"
 order: 88
 lang: et-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-API-andmete-taaskasutamine
+breadcrumbs: [ '/et-ee/', '/et-ee/12-api-andmete-taaskasutamine/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Factsi avalehel ekraani vasakus ülanurgas on kerimismenüü. Selle allosas leiate valiku „Täpsem otsing”, millele saate klõpsata. Seejärel on teie otsustada, millised kriteeriumid on teie projekti(de) jaoks kõige asjakohasemad. Kui olete valinud, saate saadud tulemused alla laadida, kerides lehe allosas alla ja klõpsates nupul „Laadi tulemused alla“.
 
-You can also consult:
+Samuti võite konsulteerida:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Meie API dokumentatsioon: https://openfoodfacts.github.io/api-documentation/
+- Open Food Factsi kasutustingimused: https://world.openfoodfacts.org/terms-of-use
+- Meie andmetest: https://world.openfoodfacts.org/data
