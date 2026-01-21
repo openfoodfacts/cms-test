@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
-order: 58
+title: "A verschiddene Fäll kann dat selwecht Produkt fir all Land ënnerschiddlech Ernärungswäerter hunn, wéi gëtt dat an Open Food Facts behandelt?"
+order: 58 Joer
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-fräiwëllegen-bäitrag
+breadcrumbs: [ '/lb-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+An 99% vun de Fäll erstellen d'Produzenten ënnerschiddlech Barcoden fir ënnerschiddlech Versioune vun hire Produkter. E bekannt Beispill ass den Ënnerscheed tëscht franséischer an däitscher Nutella wat d'Déckt ugeet, wéinst den Ënnerscheeder am Brout tëscht de Länner. 2 verschidde Formelen, 2 verschidde Barcoden.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Barcode-Konflikte kënnen awer bei méi kuerze Coden (EAN-8) optrieden, déi typescherweis vu verschiddene Geschäfter an Europa an den USA nei benotzt ginn. Mir behandelen dës Barcode-Konflikter de Moment net, awer et sollt machbar sinn, andeems mir déi allgemeng Positioun vum Benotzer kréien (et ass nach méi rar, datt et Barcode-Konflikter bannent engem Land gëtt).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Laangfristeg encouragéiere mir d'Produzenten, op EAN-13 ëmzestellen, fir dës Barcode-Konflikter ze vermeiden.
