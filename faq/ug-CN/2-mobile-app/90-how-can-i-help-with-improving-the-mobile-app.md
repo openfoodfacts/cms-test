@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "يانفون ئەپنى ياخشىلاشقا قانداق ياردەم قىلالايمەن؟"
 order: 90
 lang: en-gb
-category: 2-mobile-app
+category: 2-موبىل ئەپ
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-How can I help with improving the mobile app ?
+يانفون ئەپنى ياخشىلاشقا قانداق ياردەم قىلالايمەن؟
 
-You can do so on the Mobile app repository
+بۇنى كۆچمە ئەپ ئامبىرىدا قىلالايسىز
