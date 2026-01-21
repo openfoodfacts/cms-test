@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Un ti-embann on, penaos e c'hellan kemer perzh er raktres ?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23 tikedenn
+breadcrumbs: [ '/br-gb/', '/br-gb/23-tikedennoù/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Evel tikedenn an dra talvoudusañ da ober eo mont e darempred ganeomp (producers@openfoodfacts.org) ha kas deomp roll ar produioù ma vez diskouezet ho tikedenn warno evit ma c'hellfemp o ouzhpennañ war ar follennoù produioù liammet.
