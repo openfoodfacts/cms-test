@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Hvernig flyt ég vörurnar mínar inn í Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-opnar-fegurðarstaðreyndir
+breadcrumbs: [ '/en-gb/', '/en-gb/11-opnar-fegurðarstaðreyndir/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Hafðu samband við producteurs@openfoodfacts.org eða farðu beint á
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org og hafið síðan samband við producteurs@openfoodfacts.org fyrir sérstakan útflutningstilboð.
