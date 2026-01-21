@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "May paraan ba para matanggal ang mga na-upload na larawan ng mga produkto?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
+category: 13-pagboboluntaryo-kontribusyon
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Tanging ang mga moderator lamang ang maaaring mag-alis ng mga larawan, upang maiwasan ang potensyal na paninira.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Magtanong lang sa Slack o sa contact@openfoodfacts.org para tanggalin ang iyong mga duplicate o anumang hindi naaangkop na larawan (dapat mong subukang ibigay ang barcode number o URL nito).
 
-We also have a new image report API if you're a programmer.
+Mayroon din kaming bagong image report API kung ikaw ay isang programmer.
