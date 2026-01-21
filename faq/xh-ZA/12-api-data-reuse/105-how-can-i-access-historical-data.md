@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Ndingayifumana njani idatha yembali?"
 order: 105
 lang: i-en-gb
-category: 12-api-data-reuse
+category: Ukusetyenziswa kwakhona kwedatha ye-api eyi-12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Okwangoku, asiboneleli nge-data dump yembali (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Nangona kunjalo, kwiimveliso nganye nganye, kunokwenzeka ukufikelela kwiinguqulelo zangaphambili zedatha yemveliso usebenzisa i-API okanye kwiphepha lemveliso usebenzisa uhlaziyo.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Ngalo lonke ixesha imveliso ihlaziywa, kwenziwa uhlaziyo olutsha (oluqala kwi-1) olunyukayo.
 
-For example, to get the first revision (=first product version) of this product, use
+Umzekelo, ukuze ufumane uhlaziyo lokuqala (=uhlobo lokuqala lwemveliso) lwale mveliso, sebenzisa
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Ngokufanayo, ipharamitha ye-rev ingasetyenziswa ne-API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
