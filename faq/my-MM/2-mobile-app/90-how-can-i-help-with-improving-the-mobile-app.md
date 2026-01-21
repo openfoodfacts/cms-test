@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "မိုဘိုင်းအက်ပ်ကို တိုးတက်အောင် ဘယ်လိုကူညီပေးနိုင်မလဲ။"
+order: ၉၀
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ၂-မိုဘိုင်း-အက်ပ်
+breadcrumbs: [ '/en-gb/', '/en-gb/2-မိုဘိုင်း-အက်ပ်/' ]
 ---
 
-How can I help with improving the mobile app ?
+မိုဘိုင်းအက်ပ်ကို တိုးတက်အောင် ဘယ်လိုကူညီပေးနိုင်မလဲ။
 
-You can do so on the Mobile app repository
+မိုဘိုင်းအက်ပ်သိုလှောင်ရုံမှာ လုပ်နိုင်ပါတယ်
