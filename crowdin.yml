@@ -1,28 +1,6 @@
-# Crowdin configuration file for cms-test
-# This configuration enables translation management for the CMS content
-# 
-# Usage:
-# 1. Create a Crowdin project at https://crowdin.com/
-# 2. Replace "your-project-id" with your actual Crowdin project ID
-# 3. Add the supported languages in Crowdin: German (de), Spanish (es), French (fr), Italian (it)
-# 4. Install Crowdin CLI: npm install -g @crowdin/cli
-# 5. Upload source files: crowdin upload sources
-# 6. Download translations: crowdin download
-
-# Project identifier (replace with your actual Crowdin project ID)
-# Get this from your Crowdin project settings URL: https://crowdin.com/project/YOUR_PROJECT_ID
-
-# Base path for the project
-base_path: "."
-
-# Preserve file hierarchy in Crowdin
-preserve_hierarchy: true
-
-# Files configuration
+base_path: .
+preserve_hierarchy: 1
 files:
-  # FAQ markdown files - English (en-gb) is the source language
-  # Translations are stored in language-specific directories with matching numeric IDs
-  # Example: faq/en-gb/1-my-account/33-title.md -> faq/fr-fr/1-mon-compte/33-titre-francais.md
   - source: /faq/en-gb/**/*.md
     translation: /faq/%two_letters_code%-%two_letters_code%/**/%original_file_name%
     languages_mapping:
@@ -31,8 +9,6 @@ files:
         es: es
         fr: fr
         it: it
-    
-  # FAQ Quarto index files
   - source: /faq/en-gb/**/index.qmd
     translation: /faq/%two_letters_code%-%two_letters_code%/**/%original_file_name%
     languages_mapping:
@@ -41,9 +17,6 @@ files:
         es: es
         fr: fr
         it: it
-
-  # Root Quarto content files
-  # These files contain the main navigation and content structure
   - source: /index.qmd
     translation: /index.%locale%.qmd
     languages_mapping:
@@ -52,7 +25,6 @@ files:
         es: es-es
         fr: fr-fr
         it: it-it
-
   - source: /notices.qmd
     translation: /notices.%locale%.qmd
     languages_mapping:
@@ -61,9 +33,6 @@ files:
         es: es-es
         fr: fr-fr
         it: it-it
-
-  # Quarto configuration file
-  # This contains site-wide settings and navigation
   - source: /_quarto.yml
     translation: /_quarto.%locale%.yml
     languages_mapping:
