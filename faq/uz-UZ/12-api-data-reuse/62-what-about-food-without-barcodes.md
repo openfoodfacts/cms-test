@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Shtrixkodsiz ovqat haqida nima deyish mumkin?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-ma'lumotlarini qayta ishlatish
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Ochiq oziq-ovqat faktlari faqat qadoqlangan oziq-ovqat haqida ma'lumotlarni o'z ichiga oladi. Mahsulotlar (masalan, pomidor yoki banan) va boshqa oziq-ovqat mahsulotlarining o'rtacha qiymatlari uchun siz rasmiy milliy ovqatlanish ma'lumotlar bazalaridan birini ishlatishingiz mumkin.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Izoh: Quyidagi ro'yxatda eng muhim milliy oziq-ovqat ma'lumotlar bazalari keltirilgan. Agar ro'yxatga boshqa ma'lumotlar bazasini kiritish kerak deb hisoblasangiz, iltimos, biz bilan quyidagi manzil orqali bog'laning: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Milliy oziq-ovqat ma'lumotlar bazalari ro'yxati
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Avstraliya - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belgiya - NUBEL - Belgiya oziq-ovqat tarkibi ma'lumotlari: https://www.internubel.be
+- Kanada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Chexiya Respublikasi - Milliy sog'liqni saqlash institutining oziq-ovqat tarkibi ma'lumotlar bazasi: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Daniya - Daniya oziq-ovqat tarkibi ma'lumotlar bazasi: https://frida.fooddata.dk/?lang=en
+- Estoniya - Estoniya oziq-ovqat tarkibi ma'lumotlar bazasi: https://tka.nutridata.ee/en/
+- Finlyandiya - Finlyandiya oziq-ovqat tarkibi ma'lumotlar bazasi - FINELI: https://fineli.fi/fineli/en/index
+- Fransiya - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Germaniya - Souci-Fachmann-Kraut onlayn ma'lumotlar bazasi: https://www.sfk.online/#/home yoki rasmiy nemis ma'lumotlar bazasi: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Italiya - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Niderlandiya - Gollandiya oziq-ovqat tarkibi ma'lumotlar bazasi: https://www.rivm.nl/en/dutch-food-composition-database
+- Norvegiya - Norvegiya oziq-ovqat tarkibi jadvali 2006: https://www.matvaretabellen.no/?language=en
+- Polsha - Oziq-ovqat tarkibi jadvallari: http://www.izz.waw.pl/en/?lang=en
+- Ispaniya - Ispaniya taomlari tarkibi ma'lumotlar bazasi - BEDCA: https://www.bedca.net/bdpub/index.php
+- Shveytsariya - Shveytsariya oziq-ovqat tarkibi ma'lumotlar bazasi: https://www.naehrwertdaten.ch/de/
+- Buyuk Britaniya - Oziq-ovqat mahsulotlarining tarkibi bo'yicha integratsiyalashgan ma'lumotlar to'plami (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- AQSh - USDA: https://ndb.nal.usda.gov/
