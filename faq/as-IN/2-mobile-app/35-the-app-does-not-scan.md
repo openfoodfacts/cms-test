@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "এপটোৱে স্কেন নকৰে"
+order: ৩৫
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ২-মোবাইল-এপ
+breadcrumbs: [ '/as-gb/', '/as-gb/2-মোবাইল-এপ/' ]
 ---
 
-This may be due to
+ইয়াৰ কাৰণ হ’ব পাৰে
 
-- a network problem
+- এটা নেটৱৰ্ক সমস্যা
 
-- a permissions problem
+- এটা অনুমতিৰ সমস্যা
 
-- a barcode problem
+- এটা বাৰক'ডৰ সমস্যা
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+প্ৰফাইলৰ জৰিয়তে আমালৈ ইমেইল পঠাওক >> আমাৰ সৈতে যোগাযোগ কৰক >> আমালৈ ইমেইল পঠাওক।
 
-All relevant information should be attached to your request.
+আপোনাৰ অনুৰোধৰ লগত সকলো প্ৰাসংগিক তথ্য সংলগ্ন কৰিব লাগে।
