@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "నేను ఏ యాప్ వెర్షన్ ఉపయోగిస్తున్నానో నాకు ఎలా తెలుస్తుంది?"
+order: 34 తెలుగు
 lang: en-gb తెలుగు in లో
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-మొబైల్-యాప్
+breadcrumbs: [ '/en-gb/', '/en-gb/2-మొబైల్-యాప్/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+ప్రొఫైల్‌కు వెళ్లి,
+ఆపై తరచుగా అడిగే ప్రశ్నలు, ఆపై ఈ యాప్ గురించి.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+మీరు
+3.4.5+662 వంటి వెర్షన్ నంబర్‌ను చూడాలి. ఒకవేళ ఫోన్ డీబగ్గింగ్ అయితే దాని తయారీ మరియు మోడల్
+మాకు చెప్పడం మర్చిపోవద్దు.
