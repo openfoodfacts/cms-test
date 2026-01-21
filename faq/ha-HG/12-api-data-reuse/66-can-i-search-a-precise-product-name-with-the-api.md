@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Zan iya bincika takamaiman sunan samfuri tare da API?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
+category: Sake amfani da bayanai na api guda 12
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Abin takaici har yanzu ba zai yiwu a bincika sunan samfurin kawai kuma ta hanyar API ba.
 
-Using a filter on category might help you make your search more precise though.
+Amfani da matattara akan rukuni na iya taimaka maka ka sa bincikenka ya fi daidaito duk da haka.
