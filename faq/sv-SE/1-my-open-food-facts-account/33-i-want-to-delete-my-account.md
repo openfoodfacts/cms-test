@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
+title: "Jag vill radera mitt konto"
 order: 33
 lang: sv-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mitt-öppna-matfakta-konto
+breadcrumbs: [ '/sv-gb/', '/sv-gb/1-mitt-öppna-matfakta-konto/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+Kontoborttagning sker nu direkt i dina inställningar.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Efter inloggning på https://world.openfoodfacts.org/, klicka på användarnamnet i det övre högra hörnet och välj Kontoparametrar. Det öppnar din inställningssida. Gå till botten av sidan och använd åtgärden "ta bort användare".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Om du inte kan logga in (eller återställa ditt lösenord) vänligen kontakta dataskyddsmyndigheten på openfoodfacts.org med hjälp av den e-postadress du använde för att registrera ditt konto.
