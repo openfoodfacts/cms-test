@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "He taiwhanga tātaritanga kei a Open Beauty Facts?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ngā-meka-ataahua-tuwhera
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ngā-meka-ataahua-tuwhera/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Kāore he taiwhanga tātari a Open Beauty Facts: he rōpū tūao mātou, ko tā rātou whāinga he waihanga i tētahi Wikipedia mō ngā mea whakapaipai.
 
-That said, if you would like to help us provide more transparency for
+Heoi anō, ki te hiahia koe ki te āwhina i a mātou ki te whakarato i te māramatanga nui ake mō
 
-consumers, you can use our iPhone, Android and
+kaihoko, ka taea e koe te whakamahi i tā mātou iPhone, Android me
 
-Windows Phone to add products:
+Waea Windows hei tāpiri hua:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Ā, hei whakawhitiwhiti kōrero me te matapaki i ngā whakamahinga pea o te kaupapa, māu
 
-can join the Facebook group of contributors:
+ka taea te whakauru atu ki te rōpū Facebook o ngā kaitautoko:
 
 https://www.facebook.com/groups/356858984359591/
