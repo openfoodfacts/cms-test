@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Ndingashandura sei mibvunzo iyi inobvunzwa mumutauro wangu?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-kuvandudza-ruzivo-rwekudya-rwakavhurika-munyika-yemutauro wangu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/sn-gb/',
+    '/en-gb/15-kuvandudza-ruzivo-rwezvekudya-zvakavhurika-munyika-yemutauro-wangu/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Ndokumbirawo mubvunze contact@openfoodfacts.org kuti muwane mukana wekugadzirisa ruzivo rwenyu.
