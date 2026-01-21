@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Ing ngendi aku bisa ndownload data Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fakta-kecantikan-sing-mbukak
+breadcrumbs: [ '/en-gb/', '/en-gb/11-fakta-kecantikan-sing-mbukak/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Kaca /data saiki rusak. Sampeyan bisa ndownload datane ing https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
