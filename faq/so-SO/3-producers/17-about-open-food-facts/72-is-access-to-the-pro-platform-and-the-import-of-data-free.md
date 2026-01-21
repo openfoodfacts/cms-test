@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
+title: "Helitaanka madal Pro iyo soo dejinta xogta ma bilaash baa?"
 order: 72
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-xaqiiqo oo ku saabsan cuntada furan
+parent_category: 3-soo-saare
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-soo-saareyaal/',
+    '/en-gb/3-soo-saareyaal/17-xaqiiqo oo ku saabsan cunto-furan/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Hubaal, waana weligeed.Dhammaan adeegyada ay bixiso Open Food Facts waa bilaash. Aad ayaan ugu faraxsanahay inaad go'aansatay inaad xogtaada badeecadaha ku darto hufnaanta cuntada, waanan kaaga mahadcelineynaa tan.
