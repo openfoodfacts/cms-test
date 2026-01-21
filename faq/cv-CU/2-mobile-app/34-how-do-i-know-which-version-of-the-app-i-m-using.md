@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Эпӗ мӗнле приложенипе усӑ курнине ӑҫтан пӗлме пултаратӑп?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-мобильлӗ-приложени
+breadcrumbs: [ '/en-gb/', '/en-gb/2-мобильлӗ-приложени/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Профиль ҫине кайӑр,
+унтан FAQ, унтан Ҫак приложени ҫинчен.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Эсир
+3.4.5+662 пек верси номерне курмалла. Телефон тӳрлетет пулсан, унӑн маркипе модельне
+калама ан манӑр.
