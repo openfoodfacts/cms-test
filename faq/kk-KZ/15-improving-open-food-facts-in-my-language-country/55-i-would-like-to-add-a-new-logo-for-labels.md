@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Мен белгілерге жаңа логотип қосқым келеді"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Менің тілімдегі елдегі ашық тамақ туралы 15 фактілерді жақсарту
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-менің-тілімде-елімде-ашық-тамақ-фактілерін-жақсарту/'
   ]
 ---
 
-Here is the process:
+Міне, процесс:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- жапсырмалардың таксономиясынан жапсырманың канондық атауын табыңыз (бұл жапсырмалардың синонимдерінің тізіміндегі бірінші элемент, мысалы, en:100% vegetable)
+- Логотипті сапалы түрде алыңыз: бұл жағдайға сәйкес келмейтін үлес қосушының фотосуретін пайдаланудан аулақ болыңыз; көптеген жапсырмаларда ресми веб-сайттардың жоғары сапалы логотиптері бар, кейде векторлық форматта (біз үшін тіпті жақсы); егер біз өнімнің қаптамасында
+  жапсырмасының бар екендігі туралы объективті түрде хабарлау үшін логотипті пайдалансақ, рұқсат сұраудың қажеті жоқ.
+- Файлды былай атаңыз: name-of-the-label.[width]x90.png, мұндағы width - логотиптің биіктігі 90 пиксель болған кездегі ені. Файл атаулары екпінсіз, кіші әріптермен жазылуы және бос орындардың орнына «-» таңбасын қолдануы керек.
+- содан кейін оның канондық атауына сәйкес келетін каталогқа логотип қосыңыз. Егер канондық атау en:something болса, онда олар /en/ ішінде болуы керек. Логотиптердің түбірлік каталогы https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang болып табылады.
