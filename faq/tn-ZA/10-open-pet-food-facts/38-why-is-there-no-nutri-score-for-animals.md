@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Ke eng go sena Nutri-Score ya diphologolo?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Dintlha di le 10 tsa dijo tsa diruiwa tsa mo gae
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tn-gb/dintlha-tse-10-tsa-dijo-tsa-diruiwa-tsa-gae/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Phologolo nngwe le nngwe e farologane (noga ga e na ditlhokego tsa phepo tse di tshwanang le tsa katse kgotsa ntša)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Le mo teng ga mofuta o le mongwe wa phologolo jaaka dintša, ditlhokego tsa phepo di farologana go ya ka botshelo jwa mokgwa wa botshelo wa go nna fela, kgonagalo ya go kgaola kgotsa malwetse.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Ka jalo go raraane go bala maduo a dijo tsa diphologolo kwa ntle ga go akaretsa babatlisisi ba le bantsintsi le go tlhama dikgatotharabololo di le dintsintsi tse di farologaneng, se se iseng se dirwe go fitlha ga jaana.
