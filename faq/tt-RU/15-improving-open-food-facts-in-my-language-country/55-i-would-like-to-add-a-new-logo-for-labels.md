@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Мин ярлыклар өчен яңа логотип өстәргә телим"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-үз-телемдәге-илемдә-ачык-ризык-фактларын-яхшырту
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-минем-телемдә-ачык-ризык-фактларын-яхшырту/'
   ]
 ---
 
-Here is the process:
+Менә процесс:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- этикеткаларның таксономиясендә этикетканың каноник исемен табыгыз (бу этикеткаларның синонимнары исемлегендәге беренче пункт, мәсәлән, en:100% vegetable)
+- Логотипны сыйфатлы итеп алыгыз: бу очракта яраклы булмаган авторның фотосурәтен кулланмагыз; күпчелек этикеткаларда югары сыйфатлы логотиплар бар, кайвакыт вектор форматында (безнең өчен тагын да яхшырак); продукт төргәгендә
+  этикеткасы булуы турында объектив рәвештә хәбәр итү өчен логотип куллансак, рөхсәт сорарга кирәк түгел.
+- Файлны болай атагыз: name-of-the-label.[width]x90.png, монда width - логотипның биеклеге 90 пиксель булганда аның киңлеге. Файл исемнәре акцентсыз, кечкенә хәрефләрдән язылырга һәм бушлыклар урынына "-" билгесе кулланырга тиеш.
+- аннары аның канон исеменә туры килә торган каталогка логотип өстәгез. Әгәр канон исеме en:something булса, алар /en/ эчендә булырга тиеш. Логотиплар өчен төп каталог https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang.
