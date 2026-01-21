@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "ഓപ്പൺ പെറ്റ് ഫുഡ് ഫാക്ട്സ് API എനിക്ക് എവിടെ കണ്ടെത്താനാകും?"
+order: 102 102
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: വളർത്തുമൃഗങ്ങളുടെ ഭക്ഷണത്തെക്കുറിച്ചുള്ള 10 വസ്തുതകൾ
+breadcrumbs:
+  [
+    '/എംഎൽ-ജിബി/',
+    '/en-gb/10-open-pet-food-facts/ // വളർത്തുമൃഗങ്ങളുടെ ഭക്ഷണ വസ്തുതകൾ'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+ഓപ്പൺ പെറ്റ് ഫുഡ് ഫാക്ട്സ് API, ഓപ്പൺ ഫുഡ് ഫാക്ട്സ് API-യുമായി 98% സമാനമാണ്, അതിനാൽ നിങ്ങൾ ഓപ്പൺ ഫുഡ് ഫാക്ട്സ് API ഡോക്യുമെന്റേഷൻ ഉപയോഗിക്കുകയാണെങ്കിൽ ഓപ്പൺ പെറ്റ് ഫുഡ് ഫാക്ട്സ് API-യെക്കുറിച്ച് നിങ്ങൾക്ക് വ്യക്തമായ ഒരു ധാരണ ഉണ്ടായിരിക്കണം.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+നോളജ് പാനലുകൾ, ഇക്കോ-സ്കോർ, ന്യൂട്രി-സ്കോർ തുടങ്ങിയ സവിശേഷതകൾ പിന്തുണയ്ക്കുന്നില്ല (വിഷയം കാരണമോ പഴയ കോഡ്ബേസ് കാരണമോ).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
