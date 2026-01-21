@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌పై నేను ప్రెస్ విజువల్స్ ఎలా పొందగలను?"
+order: 54 తెలుగు
 lang: en-gb తెలుగు in లో
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-ప్రెస్-మీడియా-అభ్యర్థనలు
+breadcrumbs: [ '/en-gb/', '/en-gb/14-ప్రెస్-మీడియా-రిక్వెస్ట్‌లు/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+దయచేసి సంప్రదించండి : presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
