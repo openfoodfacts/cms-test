@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "مان اوپن پيٽ فوڊ فيڪٽس API ڪٿي ڳولي سگهان ٿو؟"
 order: 102
 lang: اين جي بي
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 کليل پالتو جانورن جي کاڌي جون حقيقتون
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/sd-gb/10-کليل-پالتو جانورن جي کاڌي جا حقيقت/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+اوپن پيٽ فوڊ فيڪٽس API 98٪ اوپن فوڊ فيڪٽس API جي برابر آهي، تنهن ڪري جيڪڏهن توهان اوپن فوڊ فيڪٽس API دستاويز استعمال ڪندا آهيو ته توهان کي اوپن پيٽ فوڊ فيڪٽس API جو هڪ صاف نظارو هجڻ گهرجي.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+نوٽ ڪريو ته نالج پينلز، ايڪو-اسڪور، نيوٽري-اسڪور جهڙيون خاصيتون سپورٽ نه آهن (يا ته موضوع جي ڪري، يا پراڻي ڪوڊ بيس جي ڪري).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
