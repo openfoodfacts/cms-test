@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Layihələrim üçün məlumatlara necə daxil ola/toplaya bilərəm?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-məlumatların-təkrar-istifadəsi
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Açıq Qida Faktları əsas səhifəsində, ekranın yuxarı sol küncündə sürüşdürmə menyusu var. Bunun altında, tıklaya biləcəyiniz "inkişaf etmiş axtarış" seçimini tapacaqsınız. Daha sonra layihəniz(ləriniz) üçün hansı meyarların ən uyğun olduğunu müəyyən etmək sizə qalıb. Seçildikdən sonra, səhifənin altındakı aşağıya fırladıb "Nəticələri yüklə" düyməsini basaraq əldə edilən nəticələri yükləyə biləcəksiniz.
 
-You can also consult:
+Həmçinin məsləhətləşə bilərsiniz:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- API sənədlərimiz: https://openfoodfacts.github.io/api-documentation/
+- Açıq Qida Faktlarının İstifadə Şərtləri: https://world.openfoodfacts.org/terms-of-use
+- Məlumatlarımız üçün: https://world.openfoodfacts.org/data
