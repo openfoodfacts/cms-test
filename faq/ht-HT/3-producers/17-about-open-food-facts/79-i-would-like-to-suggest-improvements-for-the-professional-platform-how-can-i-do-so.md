@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
+title: "Mwen ta renmen sijere amelyorasyon pou platfòm pwofesyonèl la, kijan mwen ka fè sa?"
 order: 79
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-reyalite-sou-manje-ouvè
+parent_category: 3-pwodiktè
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-pwodiktè/',
+    '/en-gb/3-pwodiktè/17-apwopo-enfòmasyon-sou-manje-ouvè/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+Mèsi paske ou vle patisipe nan transparans alimantè a!
 
-The best way to share feedback is by filling in this form.
+Pi bon fason pou pataje fidbak ou se ranpli fòm sa a.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+Ou kapab kontakte nou tou pou fè sijesyon swa atravè fowòm nou an oswa atravè Slack.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Antre sou Slack nou an epi sou chanèl #prodiktè yo pou antre an kontak avèk nou.
