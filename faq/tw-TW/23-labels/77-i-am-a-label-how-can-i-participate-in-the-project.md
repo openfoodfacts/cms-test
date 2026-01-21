@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
-order: 77
+title: "Meyɛ label, mɛyɛ dɛn atumi de me ho ahyɛ adwuma no mu?"
+order: 77. Nkyekyɛm
 lang: tw-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-nkyerɛwde ahorow
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/23-nkyerɛwde/ .' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Sɛ́ label adeɛ a ɛfata paa sɛ wobɛyɛ ne sɛ wobɛdi yɛn nkitaho (producers@openfoodfacts.org) na wode nneɛma a wɔakyerɛw wo label no akyerɛ wɔ so no din amena yɛn sɛdeɛ ɛbɛyɛ a yɛbɛtumi de aka nneɛma ho nkrataa a ɛfa ho no ho.
