@@ -1,20 +1,24 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
-order: 93
+title: "Kichasqa Rurukuna Chiqaq kaqkunata yanapayta munani. ¿Imatataq ruwayman ?"
+order: 93. 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-kichasqa-rurukuna-chiqakuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/28-kichasqa-rurukuna-chiqakuna/'
+  ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Ama hina kaspa, wiki p'anqaykuta ñawiriy, imayna llamk'anapaq qillqayku: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Kichasqa Rurukuna Chiqakuna yanapakuypaq, kay akllanakunata qhawayta atikunki, sapa huk imaymana yanapakuykunaman ruwasqa:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Filantrópico/Estado Patrocinadores kaqmanta Kichasqa Rurukuna Chiqakuna:
+  Filantropico yanapakuykuna ancha chaniyuq kanku huk tukuypaq muyuriq willay plataforma kaqmanta, rurukuna puntuación kaqmanta, chaymanta muyu solucionkuna huñuymanta rikuy hunt'aypi, aswan 20000+ categoríakuna kaqpi, huk llave meta Kichasqa Rurukuna Chiqap kaqmanta. Kay rikuypa achka componentes esenciales nisqakuna manaraqmi qullqichasqachu kanku, qullqi yanapakuyniykipas hatun impactota ruwanman. Donacionniykikunaqa yanapanmanmi qullqita quspa critico desarrollokunata hinaspa infraestructura nisqakunata. Qullqiwan yanapakunaykipaq, kay contact@openfoodfacts.org nisqaman rimanakuy
+- Willayta yanapaqkuna Kichasqa Rurukuna Chiqakuna App kaqwan:
+  Willay yanapakuykuna Kichasqa Rurukuna Chiqakuna escalanapaq ancha chaniyuq kanku. Android ruwayta llamk'achispa musuq ruru willayta yapanapaq, kunan kaq yaykuykunata musuqchaypaq utaq willayta chiqaqchaypaq, willaypa tiyapuyninta mast'ariyta chaymanta allinchayta yanapanki. Kay huñusqa kallpachakuyqa yanapanmi llapa runapaq allin takyasqa, confiable recurso nisqa hatarichinapaq.
+- Kichasqa Rurukuna Chiqakunaman Técnico Yanapakuqkuna:
+  Sichus técnica yachayniyuq kanki imaynachus programacion, willay t'aqwiy utaq ruwaqpa experiencian diseño kaqpi, yachayniyki Kichasqa Rurukuna Chiqakuna anchata yanapanman. App ruwaypi llamk'ay, ruwayninta allinchay utaq interfazkuna ruwaqpa aswan allinchayqa chanin yanapakuykuna kanku. Chayman yaykunaykipaq, #openproductsfacts Slack kanalman yaykuy, maypi Open Products Facts ayllu yanapanakunku. Kay Slack llamkana pampaman huk t'inkita tarinkiman Kichasqa Mikhuy Chiqakuna web kitipi.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Sapa laya yanapakuyqa ancha allinmi Kichasqa Rurukuna Chiqap wiñayninpaq chaymanta allin ruwayninpaq, yanapakun aswan takyasqa chaymanta willakuq plataforma llapa runapaq ruwayta.
