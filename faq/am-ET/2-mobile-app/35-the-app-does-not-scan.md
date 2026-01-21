@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "መተግበሪያው አይቃኝም"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ባለ 2-ሞባይል-መተግበሪያ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ሞባይል-መተግበሪያ/' ]
 ---
 
-This may be due to
+ይህ ሊሆን የሚችለው በ
 
-- a network problem
+- የአውታረ መረብ ችግር
 
-- a permissions problem
+- የፈቃድ ችግር
 
-- a barcode problem
+- የባርኮድ ችግር
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+በመገለጫ በኩል ኢሜይል ይላኩልን >> ያግኙን >> ኢሜይል ይላኩልን።
 
-All relevant information should be attached to your request.
+ሁሉም ተዛማጅ መረጃዎች ከጥያቄዎ ጋር መያያዝ አለባቸው።
