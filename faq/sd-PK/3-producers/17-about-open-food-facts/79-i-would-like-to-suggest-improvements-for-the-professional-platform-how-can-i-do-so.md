@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
+title: "مان پيشيور پليٽ فارم لاءِ بهتري تجويز ڪرڻ چاهيان ٿو، مان اهو ڪيئن ڪري سگهان ٿو؟"
 order: 79
 lang: اين جي بي
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: کليل کاڌي بابت 17 حقيقتون
+parent_category: 3-پيدا ڪندڙ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-پروڊيوسر/',
+    '/en-gb/3-producers/17-about-open-facts/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+کاڌي جي شفافيت ۾ حصو وٺڻ جي رضامندي لاءِ مهرباني!
 
-The best way to share feedback is by filling in this form.
+راءِ ڏيڻ جو بهترين طريقو هي فارم ڀرڻ آهي.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+توهان اسان سان رابطو ڪري سگهو ٿا تجويزون ڏيڻ لاءِ اسان جي فورم ذريعي يا سليڪ ذريعي.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+اسان سان رابطو ڪرڻ لاءِ اسان جي سليڪ ۾ شامل ٿيو ۽ چينل #producers ۾ داخل ٿيو.
