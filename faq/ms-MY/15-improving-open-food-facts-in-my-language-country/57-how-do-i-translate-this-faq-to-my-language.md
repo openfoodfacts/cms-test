@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Bagaimanakah saya boleh menterjemah Soalan Lazim ini ke dalam bahasa saya?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-fakta-makanan-terbuka-yang-memperbaiki-di-negara-bahasa-saya
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ms-gb/15-memperbaiki-fakta-makanan-terbuka-di-negara-bahasa-saya/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Sila tanya contact@openfoodfacts.org untuk akses suntingan ke pangkalan pengetahuan.
