@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "Mɛyɛ dɛn anya nsɛm ho amanneɛbɔfo mfonini ahorow a ɛfa Open Food Facts ho?"
+order: 54. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-press-media-abisade ahorow
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/14-press-media-abisade/ .' ]
 ---
 
-Please contact : presse@openfoodfacts.org
-https://blog.openfoodfacts.org/en/press-release-new-mobile-app
+Yɛsrɛ wo, di nkitaho : presse@openfoodfacts.org
+https://blog.openfoodfacts.org/en/nsɛm ho amanneɛbɔ-ma-mobile-app-foforo
