@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "Mɛyɛ dɛn aboa ma mobile app no atu mpɔn ?"
+order: 90 na ɛwɔ hɔ
 lang: tw-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobile-app a wɔde di dwuma
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/2-mobile-app/ .' ]
 ---
 
-How can I help with improving the mobile app ?
+Mɛyɛ dɛn aboa ma mobile app no atu mpɔn ?
 
-You can do so on the Mobile app repository
+Wubetumi ayɛ saa wɔ Mobile app akorae no so
