@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Ni lakabi ne, ta yaya zan iya shiga cikin aikin?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: Lakabi 23
+breadcrumbs: [ '/en-gb/', '/en-gb/23-lakabi/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+A matsayin alama, abin da ya fi dacewa a yi shi ne a tuntube mu (producers@openfoodfacts.org) sannan a aiko mana da jerin samfuran da aka nuna alamar ku domin mu iya ƙara su a kan takardun samfuran da suka shafi.
