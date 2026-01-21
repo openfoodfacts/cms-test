@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "ମୁଁ ମୋ ଆକାଉଣ୍ଟ୍ ଡିଲିଟ୍ କରିବାକୁ ଚାହୁଁଛି।"
+order: ୩୩
 lang: ଇଂ-ଜିବି
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ୧-ମୋ-ଖୋଲା-ଖାଦ୍ୟ-ତଥ୍ୟ-ଆକାଉଣ୍ଟ
+breadcrumbs: [ '/en-gb/', '/en-gb/1-ମୋ-ଖୋଲା-ଖାଦ୍ୟ-ତଥ୍ୟ-ଆକାଉଣ୍ଟ/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+ଆକାଉଣ୍ଟ ଡିଲିଟ୍ କରିବା ବର୍ତ୍ତମାନ ସିଧାସଳଖ ଆପଣଙ୍କ ପସନ୍ଦରେ ହେବ।
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ ରେ ଲଗଇନ୍ କରିବା ପରେ, ଉପର ଡାହାଣ କୋଣରେ ଥିବା ୟୁଜର ନେମ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ, ଆକାଉଣ୍ଟ ପାରାମିଟର ବାଛନ୍ତୁ। ଏହା ଆପଣଙ୍କର ପସନ୍ଦ ପୃଷ୍ଠା ଖୋଲିଥାଏ। ପୃଷ୍ଠାର ତଳକୁ ଯାଆନ୍ତୁ ଏବଂ "ବ୍ୟବହାରକାରୀଙ୍କୁ ଡିଲିଟ୍ କରନ୍ତୁ" କାର୍ଯ୍ୟ ବ୍ୟବହାର କରନ୍ତୁ।
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+ଯଦି ଆପଣ ଲଗଇନ୍ କରିପାରିବେ ନାହିଁ (କିମ୍ବା ଆପଣଙ୍କର ପାସୱାର୍ଡ ପୁନଃସେଟ୍ କରିପାରିବେ ନାହିଁ), ଦୟାକରି ଆକାଉଣ୍ଟ ପଞ୍ଜିକରଣ କରିବା ପାଇଁ ବ୍ୟବହାର କରୁଥିବା ଇମେଲ୍ ଠିକଣା ବ୍ୟବହାର କରି dpo - at - openfoodfacts.org ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ।
