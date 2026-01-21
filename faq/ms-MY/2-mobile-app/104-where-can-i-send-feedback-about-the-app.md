@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Di manakah saya boleh menghantar maklum balas tentang aplikasi ini?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasi-mudah alih
+breadcrumbs: [ '/en-gb/', '/ms-gb/2-aplikasi-mudah-alih/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Anda boleh menghantar maklum balas ke mobile@openfoodfacts.org
