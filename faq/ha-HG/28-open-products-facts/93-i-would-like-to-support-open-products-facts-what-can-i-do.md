@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "Ina so in goyi bayan Buɗe Bayanan Kayayyaki. Men zan iya yi ?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: Bayanan-kayayyaki 28-buɗe-kayayyaki
+breadcrumbs: [ '/en-gb/', '/en-gb/28-buɗe-kayayyaki-gaskiya/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Da fatan za a karanta shafin wiki ɗinmu, mun lissafa hanyoyin shiga: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Don tallafawa Buɗaɗɗen Bayanan Kayayyaki, zaku iya la'akari da zaɓuɓɓuka masu zuwa, kowannensu an tsara shi don nau'ikan gudummawa daban-daban:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Masu Tallafawa Masu Taimakon Agaji/Jiha don Kayayyakin Buɗewa Bayani:
+  Gudummawar taimakon agaji suna da matuƙar muhimmanci wajen cimma burin cikakken dandamalin bayanai na zagaye, ƙimanta samfura, da kuma tattara mafita na zagaye, a cikin fiye da nau'ikan 20000+, babban burin Bayanan Kayayyakin Buɗewa. Ba a ba da kuɗaɗen muhimman sassa na wannan hangen nesa ba tukuna, kuma tallafin kuɗin ku na iya yin babban tasiri. Gudummawar ku na iya taimakawa wajen samar da muhimman ci gaba da kayayyakin more rayuwa. Domin bayar da gudummawa ta kuɗi, tuntuɓi contact@openfoodfacts.org
+- Masu Ba da Gudummawa ga Bayanai Ta Amfani da Manhajar Bayanan Kayayyakin Buɗewa:
+  Gudummawar bayanai suna da mahimmanci don haɓaka Bayanan Kayayyakin Buɗewa. Ta hanyar amfani da manhajar Android don ƙara sabbin bayanai game da samfura, sabunta shigarwar da ke akwai, ko tabbatar da bayanai, kuna taimakawa wajen faɗaɗa da kuma inganta bayanan. Wannan haɗin gwiwa yana ba da gudummawa wajen gina ingantaccen tushe mai inganci ga kowa.
+- Masu Ba da Gudummawa ga Fasaha don Buɗe Samfura:
+  Idan kuna da ƙwarewar fasaha a fannoni kamar shirye-shirye, nazarin bayanai, ko ƙirar ƙwarewar mai amfani, ƙwarewar ku na iya amfanar da Faɗakarwar Kayayyakin Buɗewa sosai. Shiga cikin haɓaka manhajar, inganta ayyukanta, ko haɓaka hanyoyin sadarwa na masu amfani gudummawa ne masu mahimmanci. Domin shiga, shiga tashar #openproductsfacts Slack, inda al'ummar Open Products Facts ke haɗin gwiwa. Za ku iya samun hanyar haɗi zuwa wannan wurin aiki na Slack akan gidan yanar gizon Buɗe Bayanan Abinci.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Kowace irin gudummawa tana da mahimmanci ga ci gaba da nasarar Buɗe Bayanan Kayayyaki, wanda ke taimakawa wajen ƙirƙirar dandamali mai ɗorewa da kuma bayanai ga kowa.
