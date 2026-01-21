@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
-order: 104
+title: "ಅಪ್ಲಿಕೇಶನ್ ಬಗ್ಗೆ ನಾನು ಎಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಬಹುದು?"
+order: 104 (ಅನುವಾದ)
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ಮೊಬೈಲ್-ಅಪ್ಲಿಕೇಶನ್
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ಮೊಬೈಲ್-ಆ್ಯಪ್/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+ನೀವು mobile@openfoodfacts.org ಗೆ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಬಹುದು.
