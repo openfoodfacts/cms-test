@@ -2,8 +2,8 @@
 title: "अहं मम उपयोक्तृनाम कथं परिवर्तयामि ?"
 order: १०७
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: १-मम-मुक्त-भोजन-तथ्य-लेखा
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+दुर्भाग्येन न सम्भवति। यदि भवान् वास्तवमेव परिवर्तनं कर्तुम् इच्छति तर्हि भवता स्वस्य खातं विलोप्य नूतनं खातं निर्मातव्यम् ।
