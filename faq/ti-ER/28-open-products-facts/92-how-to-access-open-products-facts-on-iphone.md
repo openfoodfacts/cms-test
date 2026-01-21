@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
+title: "ከመይ ጌርና ኣብ iPhone Open Products Facts ንረኽቦ ?"
 order: 92
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-ክፉት-ፍርያት-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/28-ክፉት-ፍርያት-ሓቅታት/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+ሓቅታት ክፉት ፍርያት ኣብ ውሽጢ እቲ ቀንዲ ሓቅታት ክፉት መግቢ ኣፕ ይርከብ። እዚ ውህደት እዚ ተጠቀምቲ ኣይፎን ብሓደ ምቹእን ኣፕሊኬሽን ኣቢሎም ንኽልቲኡ ዳታቤዛት ክረኽብዎ የኽእሎም።
