@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Sut alla i gael mynediad at ddata hanesyddol?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ailddefnyddio-data-12-api
+breadcrumbs: [ '/cy-gb/', '/cy-gb/12-api-data-ailddefnyddio/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Ar hyn o bryd, nid ydym yn cynnig dymp data hanesyddol (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Fodd bynnag, ar gyfer cynhyrchion unigol, mae'n bosibl cael mynediad at fersiynau blaenorol o ddata'r cynnyrch gan ddefnyddio'r API neu ar dudalen y cynnyrch gan ddefnyddio diwygiadau.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Bob tro y caiff cynnyrch ei ddiweddaru, crëir diwygiad newydd (digid cynyddol gan ddechrau o 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Er enghraifft, i gael y diwygiad cyntaf (=fersiwn cynnyrch cyntaf) o'r cynnyrch hwn, defnyddiwch
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Yn yr un modd, gellir defnyddio'r paramedr rev gyda'r API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
