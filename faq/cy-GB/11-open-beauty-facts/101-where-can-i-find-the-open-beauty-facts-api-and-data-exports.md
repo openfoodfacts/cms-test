@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Ble alla i ddod o hyd i'r API Ffeithiau Harddwch Agored ac allforion data?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ffeithiau-harddwch-agored
+breadcrumbs: [ '/cy-gb/', '/cy-gb/11-ffeithiau-harddwch-agored/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Mae API Ffeithiau Bwyd Agored 98% yr un fath ag API Ffeithiau Harddwch Agored felly os ydych chi'n defnyddio dogfennaeth API Ffeithiau Bwyd Agored dylech chi gael golwg eithaf clir ar API Ffeithiau Harddwch Agored.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Sylwch nad yw nodweddion fel y Paneli Gwybodaeth, yr Eco-Sgôr, y Nutri-Sgôr yn cael eu cefnogi (naill ai oherwydd y pwnc, nac oherwydd yr hen god).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
