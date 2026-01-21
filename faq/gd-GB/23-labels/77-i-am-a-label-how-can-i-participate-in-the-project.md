@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "’S e leubail a th’ annam, ciamar as urrainn dhomh pàirt a ghabhail sa phròiseact?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-leubail
+breadcrumbs: [ '/en-gb/', '/en-gb/23-lipealan/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Mar leubail, ’s e an rud as buntainniche ri dhèanamh fios a chur thugainn (producers@openfoodfacts.org) agus liosta de na toraidhean air a bheil an leubail agad ri fhaicinn a chur thugainn gus an urrainn dhuinn an cur ris na duilleagan toraidh co-cheangailte.
