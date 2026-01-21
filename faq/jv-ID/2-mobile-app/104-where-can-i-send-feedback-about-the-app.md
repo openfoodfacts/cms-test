@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Ing ngendi aku bisa ngirim masukan babagan aplikasi iki?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasi-seluler
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasi-seluler/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Panjenengan saged ngirim masukan dhateng mobile@openfoodfacts.org
