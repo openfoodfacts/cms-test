@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Deuriái metre a jorn totes los fichièrs de lenga quand cambi una cadena font?"
 order: 59
 lang: es-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-faq-tecnica
+breadcrumbs: [ '/es-gb/', '/oc-gb/16-technical-faq/' ]
 ---
 
-No you don't. You just need to update the English one
+Non o fasètz pas. Vos cal pas que metre a jorn l'anglés
 
-- Create your PR
+- Creatz vòstre PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Un còp fusionat, tornarem basar crowdin-trigger manualament e lo sistèma de traduccion Crowdin activat per GitHub Actions farà lo rèsta per d'autras lengas.
 
-GitHub bot then creates a new PR automatically that we then review.
+Lo robòt GitHub crea alara automaticament un novèl PR que revisam alara.
