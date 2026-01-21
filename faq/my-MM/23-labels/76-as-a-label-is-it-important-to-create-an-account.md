@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "label တစ်ခုအနေနဲ့ အကောင့်ဖွင့်ဖို့ အရေးကြီးပါသလား။"
+order: ၇၆
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: ၂၃-တံဆိပ်များ
+breadcrumbs: [ '/en-gb/', '/en-gb/၂၃-တံဆိပ်များ/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+အမှတ်တံဆိပ်တစ်ခုအနေနဲ့ ထုတ်ကုန်တွေရဲ့ တိုက်ရိုက်ထုတ်လုပ်သူ မဟုတ်တဲ့အတွက် ထုတ်လုပ်သူအကောင့်တစ်ခု ဖန်တီးဖို့ မလိုအပ်ပါဘူး။
