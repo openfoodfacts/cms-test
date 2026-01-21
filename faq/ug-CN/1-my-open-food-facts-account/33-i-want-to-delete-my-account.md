@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "مەن ھېساباتىمنى ئۆچۈرمەكچى"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-مېنىڭ-ئوچۇق-يېمەكلىك-ھەققىدىكى-ھېساباتىم
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-مېنىڭ-ئوچۇق-يېمەكلىك-پاكىتلىرى-ئاكتىۋ-ھېساباتىم/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+ھېسابات ئۆچۈرۈش ئەمدى بىۋاسىتە سىزنىڭ تەڭشەكلىرىڭىزدە ئېلىپ بېرىلىدۇ.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ غا كىرگەندىن كېيىن، ئۈستۈنكى ئوڭ بۇلۇڭدىكى ئىشلەتكۈچى ئىسمىنى چېكىپ، ھېسابات پارامېتىرلىرىنى تاللاڭ. ئۇ سىزنىڭ تەڭشەكلىرىڭىز بېتىنى ئاچىدۇ. بەتنىڭ ئاستىغا كىرىپ، «ئىشلەتكۈچىنى ئۆچۈرۈش» ھەرىكىتىنى ئىشلىتىڭ.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+ئەگەر سىز كىرەلمىسىڭىز (ياكى پارولىڭىزنى قايتا تەڭشىيەلمىسىڭىز)، ھېسابات قۇرۇشتا ئىشلەتكەن ئېلخەت ئادرېسىڭىز ئارقىلىق dpo بىلەن openfoodfacts.org ئارقىلىق ئالاقىلىشىڭ.
