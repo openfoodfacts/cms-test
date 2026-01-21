@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "וואו קען איך געפֿינען די Open Pet Food Facts API?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-אפענע-חיות-עסן-פאקטן
+breadcrumbs: [ '/en-gb/', '/en-gb/10-אפענע-פאקטן וועגן ליבלינג-עסן/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API איז 98% די זעלבע ווי Open Food Facts API, אַזוי אויב איר ניצט Open Food Facts API דאָקומענטאַציע זאָלט איר האָבן אַ גאַנץ קלאָרע מיינונג פון די Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+באַמערק אז פֿעיִטשערז ווי די וויסן פּאַנעלס, עקאָ-סקאָר, נוטרי-סקאָר ווערן נישט געשטיצט (אדער צוליב דעם טעמע, אדער צוליב דעם אַלטן קאָדבאַזע).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
