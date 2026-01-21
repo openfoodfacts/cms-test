@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "A wasu lokuta, samfurin iri ɗaya na iya samun ƙimar abinci mai gina jiki daban-daban ga kowace ƙasa, ta yaya ake sarrafa wannan a cikin Buɗaɗɗen Bayani game da Abinci?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-gudummawar sa-kai
+breadcrumbs: [ '/en-gb/', '/en-gb/13-gudumar sa kai/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+Kashi 99% na lokaci, masu samarwa za su ƙirƙiri lambobi daban-daban na barcode don nau'ikan samfuran su daban-daban. Shahararren misali shine bambanci tsakanin Nutella na Faransa da na Jamus dangane da kauri, saboda bambancin burodi a ƙasashe daban-daban. Dabara 2 daban-daban, barcode 2 daban-daban.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Duk da haka, karo na Barcode na iya faruwa akan gajerun lambobi (EAN-8) waɗanda wasu shaguna ke sake amfani da su a faɗin Turai da Amurka. Ba mu kula da waɗannan rikice-rikicen barcode a halin yanzu ba, amma ya kamata a iya yin hakan ta hanyar samun wurin da mai amfani yake (yana da wuya a sami rikice-rikicen barcode a cikin ƙasa).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+A cikin dogon lokaci, muna ƙarfafa masu samarwa su koma EAN-13 don guje wa waɗannan rikice-rikicen barcode.
