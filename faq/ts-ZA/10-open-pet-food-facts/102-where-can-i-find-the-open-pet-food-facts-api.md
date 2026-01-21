@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
-order: 102
+title: "Xana ndzi nga yi kuma kwihi API ya Open Pet Food Facts ?"
+order: 102. 102
 lang: ts-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-vula-swifuwo-swilo-swakudya-tinhla
+breadcrumbs:
+  [
+    '/ts-gb/ .',
+    '/ts-gb/10-vula-swilo-swilo-swilo-swakudya/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API yi fana hi 98% na Open Food Facts API hikokwalaho loko u tirhisa matsalwa ya Open Food Facts API u fanele ku va na xivono lexi nga erivaleni swinene xa Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Xiya leswaku swihlawulekisi swo fana na Tiphaneli ta Vutivi, Eco-Score, Nutri-Score a swi seketeriwi (kumbe hikwalaho ka nhlokomhaka, kumbe hi codebase ya khale).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://vuhlayiselo bya swakudya.github.io/vuhlayiselo bya swakudya-sevha/api/ref-v2/
