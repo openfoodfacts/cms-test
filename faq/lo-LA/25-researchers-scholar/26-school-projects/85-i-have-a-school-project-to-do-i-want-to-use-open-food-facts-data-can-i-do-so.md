@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "ຂ້ອຍມີໂຄງການໂຮງຮຽນທີ່ຕ້ອງເຮັດ, ຂ້ອຍຕ້ອງການໃຊ້ຂໍ້ມູນຂອງ Open Food Facts, ຂ້ອຍສາມາດເຮັດໄດ້ບໍ?"
 order: 85
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: ໂຄງການ 26 ໂຮງຮຽນ
+parent_category: 25-ນັກຄົ້ນຄວ້າ-ນັກວິຊາການ
 breadcrumbs:
   [
     '/en-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-ນັກຄົ້ນຄວ້າ-ນັກວິຊາການ/26-ໂຄງການໂຮງຮຽນ/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Open Food Facts ເປັນຖານຂໍ້ມູນເປີດ, ເປັນໂຄງການເປີດທີ່ດຳເນີນງານພາຍໃຕ້ໃບອະນຸຍາດ ODbL, ສະນັ້ນຕາບໃດທີ່ທ່ານເຫັນດີກັບຂໍ້ກຳນົດຂອງໃບອະນຸຍາດ ODbL, ທ່ານຍິນດີຕ້ອນຮັບທີ່ຈະນຳໃຊ້ຂໍ້ມູນຂອງພວກເຮົາຄືນໃໝ່ສຳລັບໂຄງການຂອງທ່ານ :).
