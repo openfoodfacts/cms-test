@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "Ne bɛ se ka dumuni dafalenw baara cogo di n ka kan na ?"
+order: 56. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-dumuni dafalen-tiɲɛw-ɲɛnabɔli-n-kan-jamana kɔnɔ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/bamanankan-gb/ .',
+    '/en-gb/15-ka-dumuni-da-la-ko-ɲɛnabɔli-n-kan-jamana-kɔnɔ/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Aw ye aw ɲɛsin https://wiki.openfoodfacts.org/Jamana_Dɛmɛ ma
