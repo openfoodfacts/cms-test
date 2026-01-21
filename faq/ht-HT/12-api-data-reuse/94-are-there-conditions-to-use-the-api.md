@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Èske gen kondisyon pou itilize API a?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-done-reitilizasyon
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-done-reutilize/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Ou ka jwenn tout dokimantasyon sou itilizasyon API a sou paj dokimantasyon API a, men men yon ti rezime rapid:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Baz done Open Food Facts la disponib kòm done ouvè anba Lisans Baz Done Ouvè (ODbL), gade https://world.openfoodfacts.org/terms-of-use pou plis detay legal. De kondisyon yo se atribisyon ak pataje-sanble. Si ou konbine done ki soti nan Open Food Facts ak lòt baz done, lè sa a ODbL la egzije pou baz done ki soti a dwe pibliye kòm done ouvè tou. Sa vle di tou ou ka konbine done yo sèlman avèk sous ki ta pèmèt redistribisyon sa a.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Ou dwe toujou itilize yon User-Agent pèsonalize lè w ap fè apèl API pou idantifye aplikasyon w lan.
 
-- Rate-limits are enforced for each API endpoint.
+- Yo aplike limit vitès pou chak pwen final API.
