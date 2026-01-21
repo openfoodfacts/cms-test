@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "ලේබලයක් ලෙස, ගිණුමක් නිර්මාණය කිරීම වැදගත්ද?"
+order: 76 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ලේබල්
+breadcrumbs: [ '/si-gb/', '/si-gb/23-ලේබල/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ලේබලයක් ලෙස, ඔබ නිෂ්පාදනවල සෘජු නිෂ්පාදකයා නොවන බැවින්, ඔබට නිෂ්පාදක ගිණුමක් නිර්මාණය කිරීමට අවශ්‍ය නොවේ.
