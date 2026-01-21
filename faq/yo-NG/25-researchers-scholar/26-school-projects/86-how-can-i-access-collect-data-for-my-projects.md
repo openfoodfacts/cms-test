@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Báwo ni mo ṣe le wọlé/kó àwọn dátà jọ fún àwọn iṣẹ́ àgbékalẹ̀ mi?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: Àwọn iṣẹ́-àgbékalẹ̀ ilé-ẹ̀kọ́ 26
+parent_category: Àwọn olùwádìí 25-ọ̀mọ̀wé
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-oníwadi-ọ̀mọ̀wé/',
+    '/en-gb/25-oníwádìí-ọ̀mọ̀wé/26-iṣẹ́-ilé-ẹ̀kọ́/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Ní ojú ìwé àkọ́kọ́ Open Food Facts, ní igun òsì òkè ti ìbòjú náà, àkójọ ìyípo kan wà. Ní ìsàlẹ̀ rẹ̀, ìwọ yóò rí àṣàyàn “ìwádìí tó ti ní ìlọsíwájú”, èyí tí o lè tẹ̀ lórí rẹ̀. Lẹ́yìn náà, ó kù sí ọwọ́ rẹ láti pinnu àwọn ìlànà tí ó ṣe pàtàkì jùlọ fún iṣẹ́(àwọn) iṣẹ́ rẹ. Nígbà tí o bá ti yan èyí, o lè gba àwọn àbájáde tí o rí nípa yíyí lọ sí ìsàlẹ̀ ojú ìwé náà kí o sì tẹ “Gbigba àwọn àbájáde” lórí ìkànnì ayélujára.
