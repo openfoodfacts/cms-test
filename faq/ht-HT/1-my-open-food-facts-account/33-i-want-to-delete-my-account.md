@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Mwen vle efase kont mwen an"
 order: 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-kont-mwen-ouvè-enfòmasyon-sou-manje
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-kont-mwen-ouvè-enfòmasyon-sou-manje/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Kounye a, ou ka efase yon kont dirèkteman nan preferans ou yo.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Apre ou fin konekte sou https://world.openfoodfacts.org/, klike sou non itilizatè a anlè adwat, epi chwazi Paramèt Kont. Li ouvri paj preferans ou yo. Ale nan pati anba paj la epi sèvi ak aksyon "efase itilizatè" a.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Si ou pa kapab konekte (oswa retabli modpas ou), tanpri kontakte dpo - at - openfoodfacts.org, avèk adrès imel ou te itilize pou enskri kont lan.
