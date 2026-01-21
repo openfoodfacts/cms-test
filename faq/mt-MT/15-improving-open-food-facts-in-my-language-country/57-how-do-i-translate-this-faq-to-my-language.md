@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Kif nista' nittraduċi din il-FAQ għal-lingwa tiegħi?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-fatti dwar it-titjib tal-ikel miftuħ f'pajjiżi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/mt-gb/',
+    '/mt-gb/15-titjib-fatti-dwar-l-ikel-miftuħ-f''pajjiżi-bil-lingwa/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Jekk jogħġbok staqsi lil contact@openfoodfacts.org għal aċċess għall-editjar tal-bażi tal-għarfien.
