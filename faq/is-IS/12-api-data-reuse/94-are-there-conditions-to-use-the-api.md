@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Eru einhver skilyrði fyrir því að nota API-ið?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-gagnaendurnotkun
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-gagna-endurnýting/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Allar upplýsingar um notkun API er að finna á síðunni um API-gögn, en hér er stutt samantekt:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- Gagnagrunnurinn Open Food Facts er aðgengilegur sem opin gögn undir Open Database License (ODbL), sjá https://world.openfoodfacts.org/terms-of-use fyrir lagalegar upplýsingar. Skilyrðin tvö eru tilvísun og jafna deiling. Ef gögn úr Open Food Facts eru sameinuð öðrum gagnagrunnum, þá krefst ODbL þess að gagnagrunnurinn sem myndast verði einnig birtur sem opin gögn. Það þýðir líka að þú getur aðeins sameinað gögnin við heimildir sem leyfa slíka endurdreifingu.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Þú verður alltaf að nota sérsniðinn notandaumboðsmann þegar þú framkvæmir API-köll til að bera kennsl á forritið þitt.
 
-- Rate-limits are enforced for each API endpoint.
+- Hraðitakmarkanir eru settar fyrir hvern API-endapunkt.
