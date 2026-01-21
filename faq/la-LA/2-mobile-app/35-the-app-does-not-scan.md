@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "Applicatio non perscrutatur"
+order: XXXV
 lang: en-gb
-category: 2-mobile-app
+category: Applicatio mobilis 2
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-This may be due to
+Hoc fortasse ob
 
-- a network problem
+- problema retiale
 
-- a permissions problem
+- problema permissionum
 
-- a barcode problem
+- problema codicis numerici
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Epistulam electronicam nobis mitte per Profilum >> Contact Us >> Epistulam electronicam nobis mitte.
 
-All relevant information should be attached to your request.
+Omnes informationes pertinentes petitioni tuae adiungendae sunt.
