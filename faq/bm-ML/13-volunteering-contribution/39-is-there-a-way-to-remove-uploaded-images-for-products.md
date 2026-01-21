@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
-order: 39
+title: "Yala fɛɛrɛ bɛ yen ka ja minnu bilala sen kan, olu bɔ yen fɛnw kama wa?"
+order: 39. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-bolomafara-dɛmɛ
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/13-baarakɛ-dɛmɛ/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Labɛnbagaw dɔrɔn de bɛ se ka fotow bɔ, walasa ka u yɛrɛ tanga tiɲɛni ma min bɛ se ka kɛ.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+A ɲini dɔrɔn Slack kan walima contact@openfoodfacts.org kan walasa k’i ka duplicates walima fotow bɔ minnu ma bɛn (aw ka kan k’a ɲini ka barcode nimɔrɔ walima URL di o ma).
 
-We also have a new image report API if you're a programmer.
+An fana ye ja rapɔɔri API kura sɔrɔ n’i ye porogaramukɛla ye.
