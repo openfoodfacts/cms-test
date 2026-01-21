@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "ແອັບບໍ່ໄດ້ສະແກນ"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ແອັບມືຖື
+breadcrumbs: [ '/en-gb/', '/en-gb/2-ແອັບມືຖື/' ]
 ---
 
-This may be due to
+ນີ້ອາດຈະເປັນຍ້ອນ
 
-- a network problem
+- ບັນຫາເຄືອຂ່າຍ
 
-- a permissions problem
+- ບັນຫາການອະນຸຍາດ
 
-- a barcode problem
+- ບັນຫາບາໂຄດ
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+ສົ່ງອີເມວຫາພວກເຮົາຜ່ານທາງໂປຣໄຟລ໌ >> ຕິດຕໍ່ພວກເຮົາ >> ສົ່ງອີເມວຫາພວກເຮົາ.
 
-All relevant information should be attached to your request.
+ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງທັງໝົດຄວນຖືກຄັດຕິດມາພ້ອມກັບຄຳຮ້ອງຂໍຂອງທ່ານ.
