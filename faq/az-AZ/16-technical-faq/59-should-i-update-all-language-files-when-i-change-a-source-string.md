@@ -1,15 +1,19 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Mənbə sətrini dəyişdirərkən bütün dil fayllarını yeniləməliyəmmi?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-texniki-suallar
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/16-texniki-tez-tez-tez verilən suallar/'
+  ]
 ---
 
-No you don't. You just need to update the English one
+Xeyr, etmirsən. Sadəcə ingilis dilini yeniləməlisiniz
 
-- Create your PR
+- PR-ınızı yaradın
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Birləşdirildikdən sonra, crowdin-trigger-i əl ilə yenidən bazaya salacağıq və GitHub Actions tərəfindən tetiklenen Crowdin tərcümə sistemi qalanını digər dillər üçün edəcək.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub botu avtomatik olaraq nəzərdən keçirdiyimiz yeni bir PR yaradır.
