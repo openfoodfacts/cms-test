@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "मोबाइल एप सुधार गर्न म कसरी मद्दत गर्न सक्छु?"
+order: ९०
 lang: एनजीबी
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: २-मोबाइल-एप
+breadcrumbs: [ '/ne-gb/', '/ne-gb/2-मोबाइल-एप/' ]
 ---
 
-How can I help with improving the mobile app ?
+मोबाइल एप सुधार गर्न म कसरी मद्दत गर्न सक्छु?
 
-You can do so on the Mobile app repository
+तपाईंले मोबाइल एप भण्डारमा त्यसो गर्न सक्नुहुन्छ
