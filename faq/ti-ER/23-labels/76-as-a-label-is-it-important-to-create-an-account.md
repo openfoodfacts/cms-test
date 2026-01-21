@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "ከም ስያመ፡ ኣካውንት ምፍጣር ኣገዳሲ ድዩ ?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-መለክዒታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/ትግር-ግብ/23-ላቤልስ/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ከም ምልክት፡ ቀጥታዊ ኣፍራዪ ናይቲ ፍርያት ስለዘይኮንካ፡ ናይ ኣፍራዪ ኣካውንት ምፍጣር ኣየድልየካን እዩ።
