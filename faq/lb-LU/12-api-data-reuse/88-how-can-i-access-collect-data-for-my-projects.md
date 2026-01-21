@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Wéi kann ech Zougang zu Daten fir meng Projeten kréien/Daten sammelen?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-Daten-Wiederverwendung
+breadcrumbs: [ '/lb-gb/', '/lb-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Op der Haaptsäit vun Open Food Facts, uewe lénks am Eck vum Écran, gëtt et e Scrollmenü. Ënnen dovunner fannt Dir d'Optioun "Erweidert Sich", op déi Dir klicke kënnt. Et ass dann un Iech ze bestëmmen, wéi eng Critèren am relevantsten fir Är Projeten sinn. Wann Dir ausgewielt hutt, kënnt Dir d'Resultater eroflueden andeems Dir ënnen op der Säit scrollt a op "Resultater eroflueden" klickt.
 
-You can also consult:
+Dir kënnt och konsultéieren:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Eis API-Dokumentatioun: https://openfoodfacts.github.io/api-documentation/
+- Benotzungsbedingunge vun Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Iwwer eis Donnéeën: https://world.openfoodfacts.org/data
