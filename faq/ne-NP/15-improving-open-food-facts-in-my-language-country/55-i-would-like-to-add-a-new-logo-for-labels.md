@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "म लेबलहरूको लागि नयाँ लोगो थप्न चाहन्छु।"
+order: ५५
 lang: एनजीबी
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-मेरो-भाषा-देशमा-खुला-खाद्य-तथ्यहरू-सुधार्दै
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ne-gb/',
+    '/ne-gb/१५-मेरो-भाषा-देशमा-खुला-खाद्य-तथ्यहरू-सुधार्ने/'
   ]
 ---
 
-Here is the process:
+यहाँ प्रक्रिया छ:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- लेबलको वर्गीकरणमा लेबलको क्यानोनिकल नाम फेला पार्नुहोस् (यो लेबलको समानार्थी शब्दहरूको सूचीमा पहिलो वस्तु हो, जस्तै: en:100% तरकारी)
+- लोगो राम्रो गुणस्तरमा प्राप्त गर्नुहोस्: यस केसको लागि उपयुक्त नभएको योगदानकर्ताको तस्बिर प्रयोग नगर्नुहोस्; धेरैजसो लेबलहरूमा आधिकारिक वेबसाइटहरूको उच्च गुणस्तरको लोगो हुन्छ, कहिलेकाहीँ भेक्टर ढाँचामा (हाम्रो लागि अझ राम्रो); जबसम्म हामी उत्पादनको प्याकेजिङमा
+  लेबलको उपस्थितिको बारेमा वस्तुनिष्ठ रूपमा जानकारी दिन लोगो प्रयोग गर्छौं, अनुमति माग्नु पर्दैन।
+- फाइलको नाम यसरी राख्नुहोस्: name-of-the-label.[width]x90.png जहाँ width भनेको लोगोको ९० पिक्सेल अग्लो चौडाइ हो। फाइलनामहरू उच्चारण नगरिएको, सानो अक्षरमा र खाली ठाउँको सट्टा "-" प्रयोग गरेर हुनुपर्छ।
+- त्यसपछि डाइरेक्टरीमा यसको क्यानोनिकल नामसँग मेल खाने लोगो थप्नुहोस्। यदि क्यानोनिकल नाम en:something हो भने, तिनीहरू /en/ मा हुनुपर्छ। लोगोहरूको लागि मूल निर्देशिका https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang हो।
