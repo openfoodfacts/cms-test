@@ -1,11 +1,15 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
+title: "Ninaweza kupata wapi API ya Ukweli wa Bidhaa Huria?"
 order: 103
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: Ukweli 28 wa bidhaa-wazi
+breadcrumbs:
+  [
+    '/sw-gb/',
+    '/sw-gb/28-ukweli-wa-bidhaa-zilizofunguliwa/'
+  ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+API ya Ukweli wa Bidhaa Huria ni sawa na 98% na API ya Ukweli wa Chakula Huria kwa hivyo ukitumia hati ya API ya Ukweli wa Chakula Huria unapaswa kuwa na mtazamo wazi wa API ya Ukweli wa Bidhaa Huria. Pia tumeandika mafunzo maalum ili kuruhusu kutekeleza uchanganuzi wa jumla katika programu yako.
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
