@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Tôi là một nhà thiết kế. Tôi có thể giúp gì?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-đóng góp tình nguyện
+breadcrumbs: [ '/en-gb/', '/en-gb/13-tình nguyện-đóng góp/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Chúng tôi điều phối tất cả các hoạt động liên quan đến thiết kế trên https://github.com/openfoodfacts/openfoodfacts-design và trên một kênh trò chuyện chuyên dụng. Chúng tôi thường xuyên tổ chức các cuộc họp nhóm và thảo luận để tìm ra giải pháp cho những thách thức cụ thể.
