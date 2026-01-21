@@ -1,11 +1,11 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
+title: "Ӑҫта тупма пулать Open Products Facts API ?"
 order: 103
 lang: en-gb
-category: 28-open-products-facts
+category: 28-уҫӑ-продукт-фактсем
 breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+Open Products Facts API 98% Open Food Facts API пекех, ҫавӑнпа та эсир Open Food Facts API документацийӗпе усӑ куратӑр пулсан, Open Products Facts API ҫинчен питӗ уҫҫӑн курмалла. Эпир ҫавӑн пекех сирӗн приложенире универсаллӑ сканер пурнӑҫлама май паракан ятарлӑ вӗрентӳ ҫырнӑ.
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
