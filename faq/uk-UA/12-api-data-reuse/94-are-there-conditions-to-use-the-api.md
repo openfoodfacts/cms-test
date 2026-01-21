@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Чи є умови для використання API?"
 order: 94
 lang: en-gb
 category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+breadcrumbs: [ '/uk-gb/', '/uk-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Всю документацію щодо використання API можна знайти на сторінці документації API, але ось короткий огляд:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- База даних Open Food Facts доступна як відкриті дані за ліцензією Open Database License (ODbL), юридичні деталі див. за посиланням https://world.openfoodfacts.org/terms-of-use. Дві умови – це атрибуція та поширення на тих самих умовах. Якщо ви поєднуєте дані з Open Food Facts з іншими базами даних, то ODbL вимагає, щоб отримана база даних також була опублікована як відкриті дані. Це також означає, що ви можете поєднувати дані лише з тими джерелами, які дозволяють такий перерозподіл.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Ви завжди повинні використовувати власний User-Agent під час виконання викликів API для ідентифікації вашої програми.
 
-- Rate-limits are enforced for each API endpoint.
+- Обмеження швидкості застосовуються для кожної кінцевої точки API.
