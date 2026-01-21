@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "ಲೇಬಲ್ ಆಗಿ, ಖಾತೆಯನ್ನು ರಚಿಸುವುದು ಮುಖ್ಯವೇ?"
+order: 76 (76)
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ಲೇಬಲ್‌ಗಳು
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ಲೇಬಲ್‌ಗಳು/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ಲೇಬಲ್ ಆಗಿ, ನೀವು ಉತ್ಪನ್ನಗಳ ನೇರ ಉತ್ಪಾದಕರಲ್ಲದ ಕಾರಣ, ನೀವು ಉತ್ಪಾದಕರ ಖಾತೆಯನ್ನು ರಚಿಸುವ ಅಗತ್ಯವಿಲ್ಲ.
