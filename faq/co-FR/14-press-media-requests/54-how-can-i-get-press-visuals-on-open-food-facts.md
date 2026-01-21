@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Cumu possu ottene immagini di stampa nantu à Open Food Facts?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-richieste-di-media-di-stampa
+breadcrumbs: [ '/en-gb/', '/en-gb/14-stampa-richieste-media/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Per piacè cuntattate: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
