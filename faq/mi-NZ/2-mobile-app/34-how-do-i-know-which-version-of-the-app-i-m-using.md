@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Me pēhea taku mōhio ko tēhea putanga o te taupānga e whakamahia ana e au?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Taupānga-waea-2
+breadcrumbs: [ '/en-gb/', '/en-gb/2-taupānga-pūkoro/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Haere ki te Kōtaha,
+kātahi ki ngā FAQ, kātahi ki te Mō tēnei taupānga.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Me kite koe i tētahi tau putanga pēnei i te 3.4.5+662 i roto i te
+. Kaua e wareware ki te whakamōhio mai i te waitohu me te tauira
+o te waea mēnā kei te whakatikahia ngā hapa.
