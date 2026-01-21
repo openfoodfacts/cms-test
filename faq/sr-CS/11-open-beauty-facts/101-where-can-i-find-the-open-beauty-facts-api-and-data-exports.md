@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Где могу да пронађем Open Beauty Facts API и извоз података?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-отворених-чињеница-о-лепоти
+breadcrumbs: [ '/en-gb/', '/en-gb/11-otvorene-faktice-o-lepoti/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Open Food Facts API је 98% исти као Open Beauty Facts API, тако да ако користите документацију Open Food Facts API-ја, требало би да имате прилично јасан увид у Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Имајте на уму да функције попут панела знања, еко-резултата и нутри-резултата нису подржане (било због теме или због старе базе кода).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+хттпс://опенфоодфацтс.гитхуб.ио/опенфоодфацтс-сервер/апи/реф-в2/
