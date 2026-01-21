@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Èske mwen ka chèche yon non pwodwi presi avèk API a?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-done-reitilizasyon
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-done-reutilize/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Malerezman, li poko posib pou fè rechèch fasilman sèlman sou non pwodwi a epi avèk presizyon atravè API a.
 
-Using a filter on category might help you make your search more precise though.
+Sepandan, sèvi ak yon filtè sou kategori a ka ede w fè rechèch ou a pi presi.
