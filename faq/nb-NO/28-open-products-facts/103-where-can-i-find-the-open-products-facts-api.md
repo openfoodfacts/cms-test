@@ -1,11 +1,11 @@
 ---
-title: "Hvor finner jeg API-et for åpne produktfakta?"
+title: "Hvor finner jeg Open Products Facts API ?"
 order: 103
 lang: no-no
-category: 28-åpne-produktfakta
-breadcrumbs: [ '/en-gb/', '/no-gb/28-åpne-produktfakta/' ]
+category: 28-open-products-facts
+breadcrumbs: [ '/radgiver/', '/nb-NO' ]
 ---
 
-Open Products Facts API er 98 % det samme som Open Food Facts API, så hvis du bruker dokumentasjonen for Open Food Facts API, bør du ha et ganske klart bilde av Open Products Facts API. Vi har også skrevet en egen veiledning som lar deg implementere universell skanning i appen din.
+Open Products Facts API er 98 % the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. Vi har også skrevet dedikert opplæring for å tillate implementering av universell skanning i appen din.
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
