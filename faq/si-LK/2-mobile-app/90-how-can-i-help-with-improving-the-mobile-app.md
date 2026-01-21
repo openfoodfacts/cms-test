@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "ජංගම යෙදුම වැඩිදියුණු කිරීමට මට උදව් කළ හැක්කේ කෙසේද?"
+order: 90 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-ජංගම-යෙදුම
+breadcrumbs: [ '/si-gb/', '/si-gb/2-ජංගම-යෙදුම/' ]
 ---
 
-How can I help with improving the mobile app ?
+ජංගම යෙදුම වැඩිදියුණු කිරීමට මට උදව් කළ හැක්කේ කෙසේද?
 
-You can do so on the Mobile app repository
+ඔබට ජංගම යෙදුම් ගබඩාවෙන් එසේ කළ හැකිය.
