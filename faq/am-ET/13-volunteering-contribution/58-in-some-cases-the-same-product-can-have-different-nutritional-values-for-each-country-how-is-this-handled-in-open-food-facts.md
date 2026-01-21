@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "በአንዳንድ ሁኔታዎች አንድ አይነት ምርት ለእያንዳንዱ ሀገር የተለያዩ የአመጋገብ እሴቶች ሊኖሩት ይችላል፣ ይህ በክፍት የምግብ እውነታዎች ውስጥ እንዴት ይስተናገዳል?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-በጎ ፈቃደኝነት መዋጮ
+breadcrumbs: [ '/en-gb/', '/en-gb/13-በጎ ፈቃደኝነት መዋጮ/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% የሚሆነው ጊዜ አምራቾች ለተለያዩ የምርቶቻቸው ስሪቶች የተለያዩ ባርኮዶችን ይፈጥራሉ። አንድ ታዋቂ ምሳሌ በፈረንሳይኛ እና በጀርመንኛ ኑቴላ መካከል ያለው የውፍረት ልዩነት ሲሆን ይህም በተለያዩ አገሮች ውስጥ ባለው የዳቦ ልዩነት ምክንያት ነው። 2 የተለያዩ ቀመሮች፣ 2 የተለያዩ ባርኮዶች።
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+ሆኖም ግን፣ ባርኮድ ግጭት በአብዛኛው በአውሮፓ እና በአሜሪካ በሚገኙ አንዳንድ መደብሮች እንደገና ጥቅም ላይ በሚውሉ አጫጭር ኮዶች (EAN-8) ላይ ሊከሰት ይችላል። በአሁኑ ጊዜ እነዚያን የባርኮድ ግጭቶች አናስተናግድም፣ ነገር ግን የተጠቃሚውን አጠቃላይ ቦታ በማግኘት ይህንን ማድረግ የሚቻል መሆን አለበት (በአገር ውስጥ የባርኮድ ግጭቶች መኖራቸው የበለጠ ብርቅ ነው)።
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+በረጅም ጊዜ ውስጥ፣ አምራቾች እነዚያን የባርኮድ ግጭቶች ለማስወገድ ወደ EAN-13 እንዲሸጋገሩ እናበረታታለን።
