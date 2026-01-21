@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Manba satrini o'zgartirganimda barcha til fayllarini yangilashim kerakmi?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-texnik savollar
+breadcrumbs: [ '/en-gb/', '/en-gb/16-texnikal-tez ...' ]
 ---
 
-No you don't. You just need to update the English one
+Yo'q, bunday qilmaysiz. Siz shunchaki ingliz tilidagisini yangilashingiz kerak
 
-- Create your PR
+- PRingizni yarating
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Birlashtirilgandan so'ng, biz crowdin-triggerni qo'lda qayta ishga tushiramiz va GitHub Actions tomonidan ishga tushirilgan Crowdin tarjima tizimi qolganini boshqa tillar uchun bajaradi.
 
-GitHub bot then creates a new PR automatically that we then review.
+Keyin GitHub boti avtomatik ravishda yangi PR yaratadi, keyin biz uni ko'rib chiqamiz.
