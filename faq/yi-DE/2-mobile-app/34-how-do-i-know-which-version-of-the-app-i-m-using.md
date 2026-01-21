@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "ווי אזוי ווייס איך וועלכע ווערסיע פון דער אַפּ איך ניץ?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-מאָביל-אַפּ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-מאָביל-אַפּ/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+גיי צו פּראָפיל,
+דערנאָך FAQ, דערנאָך וועגן דעם אַפּ.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+איר זאָלט
+זען אַ ווערסיע נומער ווי 3.4.5+662. פארגעסט נישט צו זאגן אונז די מאַרקע און מאָדעל
+פון דעם טעלעפאָן אויב עס דיבאַגינג.
