@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Dè mu dheidhinn biadh às aonais còdan-barra?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ath-chleachdadh dàta-api-12
+breadcrumbs: [ '/en-gb/', '/gb-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Chan eil ann am Fiosrachadh Bidhe Fosgailte ach fiosrachadh mu bhiadh pacaichte. Airson luachan cuibheasach thoradh (mar eisimpleir, tomatoan no bananathan) agus toraidhean bìdh eile, faodaidh tu aon de na stòran-dàta beathachaidh nàiseanta oifigeil a chleachdadh na àite.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Nota: Tha an liosta gu h-ìosal a’ toirt a-steach cuid de na stòran-dàta bìdh nàiseanta as cudromaiche. Ma tha thu den bheachd gum bu chòir stòr-dàta eile a bhith air an liosta, cuir fios thugainn aig: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Liosta de Stòran-dàta Bidhe Nàiseanta
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Astràilia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Cair adhart%20PostersNUTTAB.pdf
+- A' Bheilg - NUBEL - Dàta air Co-dhèanamh Bidhe na Beilge: https://www.internubel.be
+- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Poblachd nan Seiceach - Stòr-dàta Co-dhèanamh Bidhe aig Institiud Nàiseanta na Slàinte Poblaich: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- An Danmhairg - Stòr-dàta Co-dhèanamh Bidhe na Danmhairg: https://frida.fooddata.dk/?lang=en
+- Eastòinia - Stòr-dàta Co-dhèanamh Bidhe Eastòinia: https://tka.nutridata.ee/en/
+- An Fhionnlainn - Stòr-dàta Co-dhèanamh Bidhe na Fionnlainne - FINELI: https://fineli.fi/fineli/en/index
+- An Fhraing - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- A’ Ghearmailt - Stòr-dàta Air-loidhne Souci-Fachmann-Kraut: https://www.sfk.online/#/home no Stòr-dàta oifigeil na Gearmailt: Bundeslebensmittelschlüssel: https://blsdb.de/
+- An Eadailt - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Na Tìrean Ìsle - Stòr-dàta Co-dhèanamh Bidhe Duitseach: https://www.rivm.nl/en/dutch-food-composition-database
+- Nirribhidh - Clàr-innse Bidhe Nirribhidh 2006: https://www.matvaretabellen.no/?language=en
+- A' Phòlainn - Clàran Co-dhèanamh Bidhe: http://www.izz.waw.pl/en/?lang=en
+- An Spàinn - Stòr-dàta air Co-dhèanamh Bidhe na Spàinne - BEDCA: https://www.bedca.net/bdpub/index.php
+- An Eilbheis - Stòr-dàta Co-dhèanamh Bidhe na h-Eilbheis: https://www.naehrwertdaten.ch/de/
+- RA - Seata dàta amalaichte mu cho-dhèanamh biadh (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- Na Stàitean Aonaichte - USDA: https://ndb.nal.usda.gov/
