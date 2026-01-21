@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Huet Open Beauty Facts en Analyselaboratoire?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-oppe-Schéinheetsfakten
+breadcrumbs: [ '/lb-gb/', '/lb-gb/11-oppe-Schéinheetsfakten/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts huet leider kee Laboratoire fir Analysen: mir sinn eng Associatioun vu Fräiwëllegen, deenen hiert Zil et ass, eng Wikipedia iwwer Kosmetik ze kreéieren.
 
-That said, if you would like to help us provide more transparency for
+Dat gesot, wann Dir eis hëllefe wëllt, méi Transparenz ze bidden,
 
-consumers, you can use our iPhone, Android and
+Konsumenten, kënnt Dir eis iPhone, Android an
 
-Windows Phone to add products:
+Windows Phone fir Produkter derbäizesetzen:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+An fir iwwer déi méiglech Uwendungen vum Projet auszetauschen an ze diskutéieren,
 
-can join the Facebook group of contributors:
+kënnt der Facebook-Grupp vun de Mataarbechter bäitrieden:
 
 https://www.facebook.com/groups/356858984359591/
