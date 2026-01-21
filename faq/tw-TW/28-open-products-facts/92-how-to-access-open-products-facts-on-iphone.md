@@ -1,9 +1,9 @@
 ---
-title: "How to access Open Products Facts on iPhone ?"
-order: 92
+title: "Sɛnea wobɛnya Open Products Facts wɔ iPhone so ?"
+order: 92. Nkyekyɛm
 lang: tw-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-a wɔabue-nneɛma-nokwasɛm ahorow
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/28-bue-nneɛma-nokwasɛm/' ]
 ---
 
-Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
+Open Products Facts wɔ hɔ wɔ Open Food Facts app titiriw no mu. Saa nkabom yi ma iPhone dwumadiefoɔ kwan ma wɔfa application baako a ɛyɛ mmerɛ so kɔ database mmienu no nyinaa so.
