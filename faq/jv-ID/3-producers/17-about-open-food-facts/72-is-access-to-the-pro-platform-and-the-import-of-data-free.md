@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
+title: "Apa akses menyang platform Pro lan impor data gratis?"
 order: 72
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-babagan-fakta-panganan-sing-mbukak
+parent_category: 3-produser
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-produser/',
+    '/en-gb/3-produsen/17-babagan-fakta-panganan-sing-terbuka/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Mesthi, lan bakal selawase.Kabeh layanan sing diwenehake dening Open Food Facts gratis. Kita seneng banget sampeyan wis mutusake kanggo nyumbang data produk sampeyan kanggo transparansi pangan, lan kita ngucapake matur nuwun kanggo iki.
