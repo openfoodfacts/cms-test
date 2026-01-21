@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "\"Ачык тамак-аш фактыларын\" өз тилиме кантип котором?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: Менин тилимдеги өлкөдөгү ачык тамак-аш жөнүндө 15 факты
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-менин-тилимдеги-өлкөмдөгү-ачык-тамак-аш-факттарын-жакшыртуу/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support дарегине өтүңүз
