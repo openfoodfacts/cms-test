@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Waxaan ahay summad, sidee baan uga qayb qaadan karaa mashruuca?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-calaamadood
+breadcrumbs: [ '/en-gb/', '/en-gb/23-calaamadaha/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Calaamad ahaan, waxa ugu habboon ee la sameeyo waa inaad nala soo xiriirto (producers@openfoodfacts.org) oo aad noo soo dirto liiska alaabta lagu soo bandhigay calaamaddaadu si aan ugu darno xaashiyaha badeecadaha ee la xiriira.
