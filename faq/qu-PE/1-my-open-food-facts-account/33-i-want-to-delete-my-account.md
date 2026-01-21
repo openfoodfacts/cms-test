@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "Cuentayta chinkachiyta munani"
+order: 33. 33
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-kichasqa-mikhuy-hechos-cuenta
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/qu-gb/1-kichasqa-mikhuy-chiqap-cuenta/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Yupay qulluyqa kunan chiqalla munasqaykipi ruwakun.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ kaqpi yaykuymanta, paña pata k'uchupi user sutita ñit'iy, Parámetros de cuenta akllay. Munasqayki p'anqata kichan. P'anqap urayninman riy hinaspa "ruraq chinkachiy" ruwayta llamk'achiy.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Sichus mana yaykuyta atikunkichu (utaq contraseñaykita wakmanta churay), ama hina kaspa dpo - at - openfoodfacts.org kaqwan rimanakuy, yupay qillqanapaq correo electrónico direccionta llamk'achispa.
