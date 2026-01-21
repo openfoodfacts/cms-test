@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "විවෘත ආහාර කරුණු මගේ භාෂාවට පරිවර්තනය කරන්නේ කෙසේද?"
+order: 56 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 15-improving-open-food-facts-in-my-language-country
+category: මගේ භාෂාවෙන් රට තුළ විවෘත ආහාර පිළිබඳ කරුණු 15ක් වැඩිදියුණු කිරීම
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/si-gb/',
+    '/si-gb/15-මගේ-භාෂා-රටේ-විවෘත-ආහාර-කරුණු-වැඩිදියුණු කිරීම/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support වෙත පිවිසෙන්න.
