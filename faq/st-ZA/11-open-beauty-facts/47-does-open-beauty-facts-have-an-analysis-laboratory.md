@@ -1,23 +1,27 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Na Open Beauty Facts e na le laboratori ea tlhahlobo?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Lintlha tse 11-tse bulehileng-tsa-botle
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/tn-gb/11-lintlha-tse-botle-tse-bo-bulehileng/'
+  ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Ka bomalimabe Open Beauty Facts ha e na laboratori ea tlhahlobo: re mokhatlo oa baithaopi bao sepheo sa bona e leng ho theha Wikipedia ea litlolo.
 
-That said, if you would like to help us provide more transparency for
+Leha ho le jwalo, haeba o ka rata ho re thusa ho fana ka ponaletso e eketsehileng bakeng sa
 
-consumers, you can use our iPhone, Android and
+bareki, o ka sebelisa iPhone, Android le
 
-Windows Phone to add products:
+Windows Phone ho eketsa dihlahiswa:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+'Me ho fapanyetsana le ho buisana ka tšebeliso e ka bang teng ea projeke, le
 
-can join the Facebook group of contributors:
+o ka ikopanya le sehlopha sa Facebook sa bafani ba:
 
 https://www.facebook.com/groups/356858984359591/
