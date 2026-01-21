@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Je, kuna mapendekezo yoyote katika hati kuhusu ukubwa unaofaa kwa picha zilizopakiwa?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Matumizi-ya-data-ya-api-12
+breadcrumbs: [ '/sw-gb/', '/sw-gb/12-api-data-use-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Hilo linaweza kutegemea nchi, ikiwa mtandao ni wa polepole au wa gharama kubwa. Kitu chochote kinachozidi pikseli 5000 kwa uzito au urefu labda si muhimu sana. na kama unaweza kugundua kwa namna fulani kwamba mtandao ni wa polepole, basi hata picha ya pikseli 2000 itakuwa nzuri (hakika ni bora kuliko kutokuwa na picha!)
