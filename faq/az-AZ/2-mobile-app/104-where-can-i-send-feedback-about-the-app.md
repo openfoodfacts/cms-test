@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Tətbiq haqqında rəyimi hara göndərə bilərəm?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobil tətbiq
+breadcrumbs: [ '/en-gb/', '/en-gb/2-mobil-tətbiq/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Rəylərinizi mobile@openfoodfacts.org ünvanına göndərə bilərsiniz
