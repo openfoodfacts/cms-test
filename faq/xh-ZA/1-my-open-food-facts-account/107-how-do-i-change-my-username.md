@@ -2,8 +2,12 @@
 title: "Ndingayitshintsha njani igama lam lomsebenzisi?"
 order: 107
 lang: i-en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: I-akhawunti-e-1-yeenkcukacha-zokutya-kwam-ezivulekileyo
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-iakhawunti-yam-yokutya-okuvulekileyo-engenanto/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Ngelishwa, akunakwenzeka. Ukuba ufuna ngokwenene ukutshintsha, kuya kufuneka ucime iakhawunti yakho uze wenze entsha.
