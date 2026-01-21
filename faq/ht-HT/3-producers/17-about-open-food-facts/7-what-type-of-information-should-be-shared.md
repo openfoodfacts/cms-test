@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Ki kalite enfòmasyon yo ta dwe pataje?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-reyalite-sou-manje-ouvè
+parent_category: 3-pwodiktè
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-pwodiktè/',
+    '/en-gb/3-pwodiktè/17-apwopo-enfòmasyon-sou-manje-ouvè/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Nenpòt enfòmasyon ou genyen se byenveni, soti nan enfòmasyon sou nitrisyon rive nan enfòmasyon sou anbalaj.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Sa pèmèt etabli yon dosye konplè, kalkile tout nòt yo avèk presizyon epi plis jeneralman yon transparans ke konsomatè yo apresye.
 
-However we do recommend you prioritize the following fields:
+Sepandan, nou rekòmande pou ou bay priyorite a domèn sa yo:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Kategori pwodwi (pa egzanp bwason, fwomaj, yogout, elatriye)
+- Non pwodwi a
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- ak engredyan yo, chan sa a pa obligatwa men li rekòmande pou yon itilizasyon optimal ak detèminasyon nòt yo
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Pou plis detay, nou envite w telechaje gid itilizatè nou an epi/oswa konsilte leson patikilye videyo nou yo :-)
