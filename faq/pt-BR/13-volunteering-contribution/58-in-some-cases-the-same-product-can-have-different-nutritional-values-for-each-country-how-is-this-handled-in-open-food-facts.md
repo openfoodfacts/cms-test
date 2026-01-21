@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Em alguns casos, o mesmo produto pode ter valores nutricionais diferentes em cada país. Como isso é tratado no Open Food Facts?"
 order: 58
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-voluntariado-contribuição
+breadcrumbs: [ '/en-gb/', '/pt-gb/13-contribuição-voluntária/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+Em 99% dos casos, os produtores criam códigos de barras diferentes para diferentes versões de seus produtos. Um exemplo famoso é a diferença na espessura da Nutella francesa e da alemã, devido às diferenças no tipo de pão usado em cada país. Duas fórmulas diferentes, dois códigos de barras diferentes.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+No entanto, podem ocorrer conflitos de código de barras em códigos mais curtos (EAN-8), que são normalmente reutilizados por algumas lojas na Europa e nos EUA. Atualmente não lidamos com esses conflitos de código de barras, mas isso deve ser possível obtendo a localização geral do usuário (é ainda mais raro haver conflitos de código de barras dentro de um mesmo país).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+A longo prazo, incentivamos os produtores a migrarem para o EAN-13 para evitar esses conflitos de código de barras.
