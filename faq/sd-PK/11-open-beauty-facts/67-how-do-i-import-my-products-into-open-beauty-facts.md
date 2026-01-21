@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "مان پنهنجيون شيون اوپن بيوٽي فيڪٽس ۾ ڪيئن درآمد ڪريان؟"
 order: 67
 lang: اين جي بي
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-کليل-خوبصورتي-حقيقتون
+breadcrumbs: [ '/en-gb/', '/sd-gb/11-کليل خوبصورتي حقيقتون/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org سان رابطو ڪريو يا سڌو وڃو
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org پوءِ خاص ايڪسپورٽ لاءِ producteurs@openfoodfacts.org سان رابطو ڪريو
