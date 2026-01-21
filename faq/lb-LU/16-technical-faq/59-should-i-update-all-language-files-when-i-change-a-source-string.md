@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Soll ech all Sproochdateien aktualiséieren, wann ech eng Quelltext änneren?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-technesch-FAQ
+breadcrumbs: [ '/lb-gb/', '/lb-gb/16-technesch-FAQ/' ]
 ---
 
-No you don't. You just need to update the English one
+Nee, dat maacht Dir net. Du muss just den englesche Versioun aktualiséieren
 
-- Create your PR
+- Erstellt Är PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Soubal et zesummegeluecht ass, wäerte mir crowdin-trigger manuell nei baséieren an de Crowdin Iwwersetzungssystem, deen vu GitHub Actions ausgeléist gëtt, mécht de Rescht fir aner Sproochen.
 
-GitHub bot then creates a new PR automatically that we then review.
+De GitHub Bot erstellt dann automatesch eng nei PR, déi mir dann iwwerpréiwen.
