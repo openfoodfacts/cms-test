@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Rudzii rweruzivo runofanira kugoverwa?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-nezve-zvekudya-zvakavhurika-chokwadi
+parent_category: Vagadziri vatatu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
+    '/sn-gb/',
+    '/en-gb/3-vagadziri/',
     '/en-gb/3-producers/17-about-open-food-facts/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Ruzivo rwese rwamuinarwo runogamuchirwa, kubva paruzivo rwezvekudya kusvika paruzivo rwekurongedza.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Izvi zvinoita kuti zvikwanisike kugadzira faira rakakwana, kuverenga mamakisi ese nemazvo uye kazhinji kuve pachena kunoyemurwa nevatengi.
 
-However we do recommend you prioritize the following fields:
+Asi tinokurudzira kuti uise zvinhu zvinotevera pakutanga:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Rudzi rwechigadzirwa (semuenzaniso zvinwiwa, chizi, yogati, nezvimwewo)
+- Zita rechigadzirwa
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- uye zvinhu zvirimo, nzvimbo iyi haisi yekumanikidzwa asi inokurudzirwa kuti pave nekushandiswa kwakanakisisa uye kusarudzwa kwezvibodzwa.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Kuti uwane rumwe ruzivo, tinokukoka kuti utore gwara redu rekushandisa uye/kana kuti utarise mavhidhiyo edu ekudzidzisa :-)
