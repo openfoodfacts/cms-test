@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "মই কেনেকৈ জানিম যে মই এপটোৰ কোনটো সংস্কৰণ ব্যৱহাৰ কৰিছো?"
+order: ৩৪
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ২-মোবাইল-এপ
+breadcrumbs: [ '/as-gb/', '/as-gb/2-মোবাইল-এপ/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+প্ৰফাইললৈ যাওক,
+তাৰ পিছত FAQ, তাৰ পিছত এই এপটোৰ বিষয়ে।
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+আপুনি
+এটা সংস্কৰণ সংখ্যা যেনে 3.4.5+662 চাব লাগে । যদি ই ডিবাগিং কৰি আছে তেন্তে ফোনটোৰ মেক আৰু মডেল
+ক'বলৈ নাপাহৰিব।
