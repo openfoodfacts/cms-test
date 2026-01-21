@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kouman pou m enpòte pwodwi m yo nan Open Beauty Facts?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-reyalite-sou-bote-ouvè
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ouvè-reyalite-sou-bote/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Kontakte producteur@openfoodfacts.org oubyen ale dirèkteman nan
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org epi kontakte producteur@openfoodfacts.org pou yon ekspòtasyon espesyal
