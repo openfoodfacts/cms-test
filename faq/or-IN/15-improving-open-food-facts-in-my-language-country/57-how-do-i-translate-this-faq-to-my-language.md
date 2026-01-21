@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "ମୁଁ ଏହି FAQ କୁ ମୋ ଭାଷାରେ କିପରି ଅନୁବାଦ କରିବି?"
+order: ୫୭
 lang: ଇଂ-ଜିବି
-category: 15-improving-open-food-facts-in-my-language-country
+category: ମୋ-ଭାଷା-ଦେଶରେ-ଖୋଲା-ଖାଦ୍ୟ-ତଥ୍ୟ-କୁ-ଉନ୍ନତ କରିବା-୧୫
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ମୋ-ଭାଷା-ଦେଶରେ-ଖୋଲା-ଖାଦ୍ୟ-ତଥ୍ୟ-ଉନ୍ନତି/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ଜ୍ଞାନ ଆଧାରରେ ସମ୍ପାଦନା ପ୍ରବେଶ ପାଇଁ ଦୟାକରି contact@openfoodfacts.org କୁ ପଚାରନ୍ତୁ।
