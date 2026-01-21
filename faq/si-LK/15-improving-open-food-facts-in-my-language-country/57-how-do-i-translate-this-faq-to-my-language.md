@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "මෙම නිතර අසන ප්‍රශ්න මගේ භාෂාවට පරිවර්තනය කරන්නේ කෙසේද?"
+order: 57 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 15-improving-open-food-facts-in-my-language-country
+category: මගේ භාෂාවෙන් රට තුළ විවෘත ආහාර පිළිබඳ කරුණු 15ක් වැඩිදියුණු කිරීම
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/si-gb/',
+    '/si-gb/15-මගේ-භාෂා-රටේ-විවෘත-ආහාර-කරුණු-වැඩිදියුණු කිරීම/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+දැනුම් පදනමට සංස්කරණ ප්‍රවේශය සඳහා contact@openfoodfacts.org අමතන්න.
