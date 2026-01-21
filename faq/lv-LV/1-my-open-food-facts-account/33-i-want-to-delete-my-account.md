@@ -1,13 +1,17 @@
 ---
-title: "I want to delete my account"
+title: "Es vēlos dzēst savu kontu"
 order: 33
 lang: lv-lv
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mans-atvērtais-pārtikas-faktu-konts
+breadcrumbs:
+  [
+    '/lv-lv/',
+    '/lv-lv/1-mans-atvērtais-pārtikas-faktu-konts/'
+  ]
 ---
 
-Account deletion now happens directly in your preferences.
+Konta dzēšana tagad notiek tieši jūsu preferencēs.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Pēc pieteikšanās vietnē https://world.openfoodfacts.org/ noklikšķiniet uz lietotājvārda augšējā labajā stūrī un izvēlieties Konta parametri. Tas atver jūsu preferenču lapu. Dodieties uz lapas apakšdaļu un izmantojiet darbību "dzēst lietotāju".
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+Ja nevarat pieteikties (vai atiestatīt paroli), lūdzu, sazinieties ar dpo-at-openfoodfacts.org, izmantojot e-pasta adresi, ko izmantojāt konta reģistrēšanai.
