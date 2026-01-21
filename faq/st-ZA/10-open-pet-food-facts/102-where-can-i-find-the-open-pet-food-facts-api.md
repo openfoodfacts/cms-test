@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Nka fumana Open Pet Food Facts API hokae?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Lintlha tse 10-tse bulehileng-ka-lijo-tsa-phoofolo-ea-phoofolo
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/tn-gb/10-lintlha-tsa-lijo-tsa-phoofolo-tse-bulang-tse-le-ntlha/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API e tšoana ka 98% le Open Food Facts API kahoo haeba o sebelisa litokomane tsa Open Food Facts API o lokela ho ba le pono e hlakileng ea Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Hlokomela hore likarolo tse kang Liphanele tsa Tsebo, Eco-Score, Nutri-Score ha li tšehetsoe (ebang ke ka lebaka la sehlooho, kapa ka lebaka la khoutu ea khale).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
