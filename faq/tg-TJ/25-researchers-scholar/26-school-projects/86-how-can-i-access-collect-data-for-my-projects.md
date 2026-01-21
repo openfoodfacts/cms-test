@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Чӣ тавр ман метавонам ба маълумот барои лоиҳаҳои худ дастрасӣ/ҷамъоварӣ кунам?"
 order: 86
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26 лоиҳаи мактабӣ
+parent_category: 25-муҳаққиқ-олим
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/tg-gb/25-муҳаққиқон-олим/',
+    '/en-gb/25-муҳаққиқон-олим/26-лойиҳаҳои мактабӣ/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Дар саҳифаи асосии Open Food Facts, дар кунҷи чапи болоии экран, менюи ҳаракаткунанда мавҷуд аст. Дар поёни он шумо варианти "ҷустуҷӯи пешрафта"-ро хоҳед ёфт, ки шумо метавонед онро клик кунед. Пас, муайян кардани он ки кадом меъёрҳо барои лоиҳа(ҳо)-и шумо аз ҳама мувофиқтаранд, аз шумо вобаста аст. Пас аз интихоб, шумо метавонед натиҷаҳои бадастовардаро тавассути ҳаракат дар поёни саҳифа ва пахш кардани тугмаи "Натиҷаҳоро зеркашӣ кунед" зеркашӣ кунед.
