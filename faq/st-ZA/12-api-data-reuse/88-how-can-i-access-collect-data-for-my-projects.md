@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Nka fumana/bokella data bakeng sa merero ea ka joang?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: Tšebeliso-bocha ea data ea 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Leqepheng le ka sehloohong la Open Food Facts, hukung e ka hodimo ka letsohong le letshehadi la skrine, ho na le lenane la ho skrola. Botlaaseng ba eona, u tla fumana khetho ea "patlo e tsoetseng pele", eo u ka tobetsang ho eona. Ebe ho ho uena ho etsa qeto ea hore na ke litekanyetso life tse amanang le projeke ea hau. Hang ha o se o kgethile, o tla kgona ho jarolla diphetho tse fumanweng ka ho skrola tlase tlase ho leqephe mme o tobetse ho “Jarolla diphetho”.
 
-You can also consult:
+U ka boela ua buisana le:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Litokomane tsa rona tsa API: https://openfoodfacts.github.io/api-documentation/
+- Melao ea Ts'ebeliso ea Lintlha tsa Lijo tse Bulehileng: https://world.openfoodfacts.org/terms-of-use
+- Mabapi le data ea rona: https://world.openfoodfacts.org/data
