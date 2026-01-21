@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "பதிவேற்றப்பட்ட புகைப்படங்களுக்கு எந்த அளவு நல்லதாக இருக்கும் என்பது குறித்து ஆவணத்தில் எங்காவது பரிந்துரைகள் உள்ளதா?"
 order: 40
 lang: ta-gb (ஆங்கிலம்)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-தரவு மறுபயன்பாடு
+breadcrumbs: [ '/ta-gb/', '/en-gb/12-api-தரவு-மறுபயன்பாடு/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+நெட்வொர்க் மெதுவாகவோ அல்லது விலை அதிகமாகவோ இருந்தால் அது நாடுகளைப் பொறுத்தது. 5000 பிக்சல்களுக்கு மேல் எடை அல்லது உயரம் உள்ள எதுவும் மிகவும் பயனுள்ளதாக இருக்காது. நெட்வொர்க் மெதுவாக இருப்பதை எப்படியாவது கண்டறிய முடிந்தால், 2000 பிக்சல்கள் கொண்ட படம் கூட சிறப்பாக இருக்கும் (நிச்சயமாக படம் இல்லாததை விட சிறந்தது!)
