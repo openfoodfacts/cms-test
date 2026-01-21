@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "लेबलरूपेण खातं निर्मातुं महत्त्वपूर्णं वा ?"
+order: ७६
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: २३-लेबल्
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/23-लेबल्स/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+लेबलरूपेण यतः भवान् उत्पादानाम् प्रत्यक्षनिर्माता नास्ति, तस्मात् भवता उत्पादकस्य खातं निर्मातुं आवश्यकता नास्ति ।
