@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Irú ìwífún wo ni ó yẹ kí a pín?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: Àwọn òtítọ́ 17 nípa oúnjẹ ṣíṣí sílẹ̀
+parent_category: Àwọn olùgbéjáde mẹ́ta
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-àwọn olùgbéjáde/',
+    '/en-gb/3-producers/17-nípa-àwọn-òtítọ́-oúnjẹ-ṣíṣí/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+A gba gbogbo alaye ti o ba ni, lati alaye ounje si alaye apoti.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Èyí mú kí ó ṣeé ṣe láti fi fáìlì pípé sílẹ̀, láti ṣírò gbogbo àwọn àmì náà pẹ̀lú ìpéye àti ní gbogbogbòò, ìfihàn tí àwọn oníbàárà mọrírì.
 
-However we do recommend you prioritize the following fields:
+Sibẹsibẹ, a ṣeduro pe ki o fi awọn aaye wọnyi si ipo akọkọ:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Ẹ̀ka ọjà (fún àpẹẹrẹ ohun mímu, wàràkàṣì, wàràkàṣì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ)
+- Orukọ ọja naa
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- àti àwọn èròjà náà, pápá yìí kò pọndandan ṣùgbọ́n a ṣeduro rẹ̀ fún lílo tó dára jùlọ àti ìpinnu àwọn àmì náà
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Fun alaye siwaju sii, a pe ọ lati ṣe igbasilẹ itọsọna olumulo wa ati/tabi wo awọn ikẹkọ fidio wa :-)
