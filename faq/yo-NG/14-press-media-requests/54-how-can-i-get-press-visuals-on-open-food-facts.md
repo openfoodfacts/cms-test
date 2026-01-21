@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Báwo ni mo ṣe lè rí àwọn àwòrán lórí àwọn ìròyìn nípa Open Food Facts?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: Àwọn ìbéèrè 14-ìròyìn-media-requests
+breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-resets/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Jọ̀wọ́ kàn sí: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
