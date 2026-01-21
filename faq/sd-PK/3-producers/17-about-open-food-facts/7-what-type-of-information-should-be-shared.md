@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "ڪهڙي قسم جي معلومات شيئر ڪرڻ گهرجي؟"
 order: 7
 lang: اين جي بي
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: کليل کاڌي بابت 17 حقيقتون
+parent_category: 3-پيدا ڪندڙ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-پروڊيوسر/',
+    '/en-gb/3-producers/17-about-open-facts/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+توهان وٽ ڪا به معلومات ڀليڪار آهي، غذائي معلومات کان وٺي پيڪنگ جي معلومات تائين.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+هي هڪ مڪمل فائل قائم ڪرڻ ممڪن بڻائي ٿو، سڀني اسڪور کي درستگي سان ڳڻڻ ۽ عام طور تي شفافيت کي صارفين پاران ساراهيو وڃي ٿو.
 
-However we do recommend you prioritize the following fields:
+تڏهن به، اسان توهان کي هيٺين شعبن کي ترجيح ڏيڻ جي صلاح ڏيون ٿا:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- پراڊڪٽ ڪيٽيگري (مثال طور مشروبات، پنير، دہي، وغيره)
+- پراڊڪٽ جو نالو
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- ۽ اجزاء، هي فيلڊ لازمي نه آهي پر اسڪور جي بهترين استعمال ۽ تعين لاءِ سفارش ڪئي وئي آهي.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي يوزر گائيڊ ڊائون لوڊ ڪرڻ ۽/يا اسان جي وڊيو سبقن جي صلاح ڪرڻ جي دعوت ڏيون ٿا :-)
