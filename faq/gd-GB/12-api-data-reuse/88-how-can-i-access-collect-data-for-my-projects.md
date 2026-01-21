@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Ciamar as urrainn dhomh faighinn gu dàta/dàta a chruinneachadh airson mo phròiseactan?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ath-chleachdadh dàta-api-12
+breadcrumbs: [ '/en-gb/', '/gb-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Air prìomh dhuilleag Open Food Facts, aig oisean gu h-àrd air an taobh chlì den sgrion, tha clàr-taice sgrolaidh ann. Aig a’ bhonn, gheibh thu an roghainn “rannsachadh adhartach”, air an urrainn dhut briogadh. Tha e an urra riut fhèin an uair sin co-dhùnadh dè na slatan-tomhais as buntainniche don phròiseact (no na pròiseactan) agad. Aon uair ‘s gu bheil thu air do thaghadh, bidh e comasach dhut na toraidhean a fhuaireadh a luchdachadh sìos le bhith a’ sgroladh sìos aig bonn na duilleige agus a’ briogadh air “Luchdaich sìos toraidhean”.
 
-You can also consult:
+Faodaidh tu cuideachd co-chomhairle a chumail ri:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- An sgrìobhainneachd API againn: https://openfoodfacts.github.io/api-documentation/
+- Cumhachan Cleachdaidh Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- Air an dàta againn: https://world.openfoodfacts.org/data
