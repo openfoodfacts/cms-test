@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
-order: 79
+title: "अहं व्यावसायिकमञ्चस्य कृते सुधारं सूचयितुम् इच्छामि, कथं कर्तुं शक्नोमि ?"
+order: ७९
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: १७-मुक्त-भोजन-तथ्यानां विषये
+parent_category: ३-उत्पादकाः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/3-उत्पादक/',
+    '/en-gb/3-producers/17-मुक्त-खाद्य-तथ्य-विषये/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+खाद्यपारदर्शिते भागं ग्रहीतुं भवतः इच्छायाः धन्यवादः!
 
-The best way to share feedback is by filling in this form.
+प्रतिक्रियां साझां कर्तुं सर्वोत्तमः उपायः अस्ति एतत् प्रपत्रं पूरयित्वा।
 
-You can also contact us to make suggestions either via our forum or via Slack.
+अस्माकं मञ्चद्वारा वा स्लैक् मार्गेण वा सुझावं दातुं भवान् अस्माभिः सह सम्पर्कं कर्तुं अपि शक्नोति।
 
-Join our Slack and enter the channel #producers to get in touch with us.
+अस्माकं Slack इत्यत्र सम्मिलितं भवन्तु तथा च अस्माभिः सह सम्पर्कं कर्तुं चैनल् # producers इत्यत्र प्रवेशं कुर्वन्तु।
