@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Oes ffordd o gael gwared ar ddelweddau sydd wedi'u llwytho i fyny ar gyfer cynhyrchion?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: cyfraniad-gwirfoddoli-13
+breadcrumbs: [ '/cy-gb/', '/en-gb/13-gwirfoddoli-cyfraniad/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Dim ond cymedrolwyr all ddileu lluniau, er mwyn osgoi fandaliaeth bosibl.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Gofynnwch ar Slack neu yn contact@openfoodfacts.org i gael gwared ar eich dyblygiadau neu unrhyw luniau amhriodol (dylech geisio darparu'r rhif cod bar neu'r URL i wneud hynny).
 
-We also have a new image report API if you're a programmer.
+Mae gennym ni API adroddiad delwedd newydd hefyd os ydych chi'n rhaglennwr.
