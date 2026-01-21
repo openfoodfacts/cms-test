@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "मम परियोजनानां कृते अहं कथं दत्तांशं प्राप्तुं/संग्रहणं कर्तुं शक्नोमि?"
+order: ८८
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: १२-अपि-दत्तांश-पुनः प्रयोगः
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Open Food Facts इत्यस्य मुख्यपृष्ठे, स्क्रीनस्य उपरि वामकोणे, स्क्रॉल मेन्यू अस्ति । तस्य अधः भवन्तः “advanced search” इति विकल्पं प्राप्नुवन्ति, यस्मिन् भवन्तः क्लिक् कर्तुं शक्नुवन्ति । ततः भवतः परियोजनायाः (प्रकल्पानां) कृते के मापदण्डाः सर्वाधिकं प्रासंगिकाः इति निर्धारयितुं भवतः निर्णयः भवति । एकवारं चयनं कृत्वा पृष्ठस्य अधः अधः स्क्रॉल कृत्वा “Download results” इत्यत्र क्लिक् कृत्वा प्राप्तानि परिणामानि डाउनलोड् कर्तुं शक्नुवन्ति ।
 
-You can also consult:
+भवन्तः अपि परामर्शं कर्तुं शक्नुवन्ति : १.
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- अस्माकं एपिआइ दस्तावेजीकरणं: https://openfoodfacts.github.io/api-documentation/
+- मुक्त खाद्यतथ्यस्य उपयोगनियमाः: https://world.openfoodfacts.org/terms-of-use
+- अस्माकं दत्तांशस्य विषये: https://world.openfoodfacts.org/data
