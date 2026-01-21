@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Ҫак FAQ-а хамӑн чӗлхе ҫине мӗнле куҫармалла?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-манӑн-чӗлхе-ҫӗршывӗнче-уҫӑ-апат-ҫимӗҫ-фактӗсене-лайӑхлатасси
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/cr-gb/15-улучшение-открытых-фудов-фактов-в-маной-языковой-стране/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Пӗлӳ базине тӳрлетме ирӗк илме contact@openfoodfacts.org сайтран ыйтӑр.
