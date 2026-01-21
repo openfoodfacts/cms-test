@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "Nixtieq inżid logo ġdid għat-tikketti"
+order: 55 sena
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-fatti dwar it-titjib tal-ikel miftuħ f'pajjiżi
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/mt-gb/',
+    '/mt-gb/15-titjib-fatti-dwar-l-ikel-miftuħ-f''pajjiżi-bil-lingwa/'
   ]
 ---
 
-Here is the process:
+Hawn hu l-proċess:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- sib l-isem kanoniku tat-tikketta fit-tassonomija tat-tikketti (huwa l-ewwel oġġett fil-lista tas-sinonimi tat-tikketti, eż. en:100% veġetali)
+- Ikseb il-logo ta’ kwalità tajba: evita li tuża r-ritratt tal-kontributur li mhuwiex adattat għal dan il-każ; il-biċċa l-kbira tat-tikketti għandhom logos ta’ kwalità għolja fuq websajts uffiċjali, xi kultant f’format vettorjali (saħansitra aħjar għalina); sakemm nużaw logo biex ninfurmaw b’mod oġġettiv dwar il-preżenza ta’ tikketta
+  fuq l-imballaġġ ta’ prodott, m’hemmx bżonn li titlob permess.
+- semmi l-fajl b'dan il-mod: isem-tat-tikketta.[wisa']x90.png fejn il-wisa' hija l-wisa' tal-logo meta jkun għoli 90 pixel. L-ismijiet tal-fajls iridu jkunu mingħajr aċċent, b'ittri żgħar u bl-użu ta' "-" minflok spazji.
+- imbagħad żid il-logo fid-direttorju li jikkorrispondi mal-isem kanoniku tiegħu. Jekk l-isem kanoniku huwa en:something, allura jeħtieġ li jkun f'/en/. Id-direttorju ewlieni għal-logos huwa https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
