@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
-order: 90
+title: "¿Imaynatataq yanapayman celularpaq app allinchaypi ?"
+order: 90. 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-movil-app nisqa
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/2-movil-app/' ]
 ---
 
-How can I help with improving the mobile app ?
+¿Imaynatataq yanapayman celularpaq app allinchaypi ?
 
-You can do so on the Mobile app repository
+Chayta ruwayta atikunki Mobile app waqaychasqapi
