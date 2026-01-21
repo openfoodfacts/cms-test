@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "ليبل جي طور تي، ڇا اڪائونٽ ٺاهڻ ضروري آهي؟"
 order: 76
 lang: اين جي بي
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ليبل
+breadcrumbs: [ '/en-gb/', '/en-gb/23-ليبل/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ليبل جي طور تي، جيئن ته توهان شين جا سڌو سنئون پيدا ڪندڙ نه آهيو، توهان کي پيدا ڪندڙ جو اڪائونٽ ٺاهڻ جي ضرورت ناهي.
