@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "API နဲ့ တိကျတဲ့ ထုတ်ကုန်အမည်ကို ရှာဖွေလို့ရပါသလား။"
+order: ၆၆
 lang: en-gb
-category: 12-api-data-reuse
+category: ၁၂-api-ဒေတာ-ပြန်လည်အသုံးပြုခြင်း
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+ကံမကောင်းစွာပဲ ထုတ်ကုန်အမည်တစ်ခုတည်းကို အလွယ်တကူရှာဖွေရန်နှင့် API မှတစ်ဆင့် တိကျစွာရှာဖွေရန် မဖြစ်နိုင်သေးပါ။
 
-Using a filter on category might help you make your search more precise though.
+အမျိုးအစားအလိုက် filter ကိုအသုံးပြုခြင်းဖြင့် သင်၏ရှာဖွေမှုကို ပိုမိုတိကျစေရန် ကူညီပေးနိုင်ပါသည်။
