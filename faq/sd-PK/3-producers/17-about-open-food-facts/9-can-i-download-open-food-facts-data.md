@@ -1,19 +1,19 @@
 ---
-title: "Can I download Open Food Facts data?"
+title: "ڇا مان اوپن فوڊ فيڪٽس ڊيٽا ڊائون لوڊ ڪري سگهان ٿو؟"
 order: 9
 lang: اين جي بي
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: کليل کاڌي بابت 17 حقيقتون
+parent_category: 3-پيدا ڪندڙ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-پروڊيوسر/',
+    '/en-gb/3-producers/17-about-open-facts/'
   ]
 ---
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+توهان اوپن فوڊ فيڪٽس تي موجود سڀ ڊيٽا ڊائون لوڊ ڪري سگهو ٿا. خبردار، ان لاءِ گهڻي ڊسڪ اسپيس جي ضرورت آهي، جيڪڏهن توهان اسپريڊ شيٽ استعمال ڪرڻ چاهيو ٿا ته هڪ طاقتور ڪمپيوٽر يا ٻي صورت ۾ آر يا پٿون جو علم گهرجي.
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+توهان ڊيٽا جو هڪ ذيلي سيٽ پڻ ڊائون لوڊ ڪري سگهو ٿا (مثال طور توهان جو برانڊ) جديد ڳولا جي مهرباني.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي يوزر گائيڊ ڊائون لوڊ ڪرڻ ۽/يا اسان جي وڊيو سبقن جي صلاح ڪرڻ جي دعوت ڏيون ٿا :-)
