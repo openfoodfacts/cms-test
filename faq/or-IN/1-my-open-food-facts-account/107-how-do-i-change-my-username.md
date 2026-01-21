@@ -2,8 +2,8 @@
 title: "ମୁଁ ମୋର ଉପଯୋଗକର୍ତ୍ତାନାମ କିପରି ପରିବର୍ତ୍ତନ କରିବି?"
 order: ୧୦୭
 lang: ଇଂ-ଜିବି
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: ୧-ମୋ-ଖୋଲା-ଖାଦ୍ୟ-ତଥ୍ୟ-ଆକାଉଣ୍ଟ
+breadcrumbs: [ '/en-gb/', '/en-gb/1-ମୋ-ଖୋଲା-ଖାଦ୍ୟ-ତଥ୍ୟ-ଆକାଉଣ୍ଟ/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+ଦୁର୍ଭାଗ୍ୟବଶତଃ, ଏହା ସମ୍ଭବ ନୁହେଁ। ଯଦି ଆପଣ ପ୍ରକୃତରେ ପରିବର୍ତ୍ତନ କରିବାକୁ ଚାହାଁନ୍ତି, ତେବେ ଆପଣଙ୍କୁ ଆପଣଙ୍କର ଆକାଉଣ୍ଟ ଡିଲିଟ୍ କରି ଏକ ନୂତନ ଆକାଉଣ୍ଟ ତିଆରି କରିବାକୁ ପଡିବ।
