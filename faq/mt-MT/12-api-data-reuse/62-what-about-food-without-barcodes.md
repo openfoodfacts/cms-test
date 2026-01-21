@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Xi ngħidu dwar l-ikel mingħajr barcodes?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-use mill-ġdid
+breadcrumbs: [ '/mt-gb/', '/mt-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts fiha biss informazzjoni dwar ikel ippakkjat. Għal valuri medji ta' prodotti (pereżempju, tadam jew banana) u prodotti oħra tal-ikel, tista' minflok tuża waħda mid-databases nazzjonali uffiċjali tan-nutrizzjoni.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Nota: Il-lista t’hawn taħt fiha wħud mill-aktar databases nazzjonali importanti dwar l-ikel. Jekk taħseb li xi database oħra għandha tiġi inkluża fil-lista, jekk jogħġbok ikkuntattjana fuq: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Lista ta' Databases Nazzjonali tal-Ikel
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Awstralja - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belġju - NUBEL - Dejta dwar il-Kompożizzjoni tal-Ikel Belġjan: https://www.internubel.be
+- Kanada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Repubblika Ċeka - Database tal-Kompożizzjoni tal-Ikel fl-Istitut Nazzjonali tas-Saħħa Pubblika: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Danimarka - Bank tad-Data Daniż dwar il-Kompożizzjoni tal-Ikel: https://frida.fooddata.dk/?lang=en
+- Estonja - Database tal-Kompożizzjoni tal-Ikel Estonjana: https://tka.nutridata.ee/en/
+- Finlandja - Database Finlandiża dwar il-Kompożizzjoni tal-Ikel - FINELI: https://fineli.fi/fineli/en/index
+- Franza - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Il-Ġermanja - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home jew id-Database uffiċjali Ġermaniż: Bundeslebensmittelschlüssel: https://blsdb.de/
+- L-Italja - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Olanda - Database tal-Kompożizzjoni tal-Ikel Olandiża: https://www.rivm.nl/en/dutch-food-composition-database
+- Norveġja - It-Tabella tal-Kompożizzjoni tal-Ikel Norveġiża 2006: https://www.matvaretabellen.no/?language=en
+- Polonja - Tabelli tal-Kompożizzjoni tal-Ikel: http://www.izz.waw.pl/en/?lang=en
+- Spanja - Database tal-Kompożizzjoni tal-Ikel Spanjola - BEDCA: https://www.bedca.net/bdpub/index.php
+- Svizzera - Database tal-Kompożizzjoni tal-Ikel Svizzera: https://www.naehrwertdaten.ch/de/
+- UK - Sett ta' dejta integrat dwar il-kompożizzjoni tal-ikel (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- USA - USDA: https://ndb.nal.usda.gov/
