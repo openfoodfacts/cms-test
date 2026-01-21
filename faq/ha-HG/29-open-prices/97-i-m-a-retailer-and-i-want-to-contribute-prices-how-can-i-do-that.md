@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Ni dillali ne kuma ina son bayar da gudummawar farashi. Ta yaya zan iya yin hakan?"
 order: 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-farashi na budewa
+breadcrumbs: [ '/en-gb/', '/en-gb/29-buɗe-farashi/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Kuna iya bayar da gudummawar farashi ta amfani da API ɗinmu. Idan kuna son bayar da gudummawar farashi a sikelin, da fatan za ku tuntuɓe mu a contact@openfoodfacts.org.
