@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "म कसरी ऐतिहासिक डेटा पहुँच गर्न सक्छु?"
+order: १०५
 lang: एनजीबी
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: १२-एपीआई-डेटा-पुनःप्रयोग
+breadcrumbs: [ '/ne-gb/', '/ne-gb/१२-api-डेटा-पुनःप्रयोग/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+हाल, हामी ऐतिहासिक डेटा डम्प (JSONL, MongoDB, CSV) प्रस्ताव गर्दैनौं।
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+यद्यपि, व्यक्तिगत उत्पादनहरूको लागि, API प्रयोग गरेर वा उत्पादन पृष्ठमा संशोधनहरू प्रयोग गरेर उत्पादन डेटाको अघिल्लो संस्करणहरू पहुँच गर्न सम्भव छ।
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+प्रत्येक पटक उत्पादन अद्यावधिक गर्दा, नयाँ संशोधन (१ बाट सुरु हुने बढ्दो अंक) सिर्जना गरिन्छ।
 
-For example, to get the first revision (=first product version) of this product, use
+उदाहरणका लागि, यस उत्पादनको पहिलो संशोधन (=पहिलो उत्पादन संस्करण) प्राप्त गर्न, प्रयोग गर्नुहोस्
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+त्यसैगरी, rev प्यारामिटर API सँग प्रयोग गर्न सकिन्छ:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
