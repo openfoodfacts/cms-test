@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Sei pasina Nutri-Score yemhuka?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Zvinhu gumi-zvakavhurika-zvekudya-zvemhuka
+breadcrumbs:
+  [
+    '/sn-gb/',
+    '/sn-gb/10-zvakavhurika-zvekudya-zvemhuka-zvemhuka/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Mhuka imwe neimwe yakasiyana (nyoka haina zvinodiwa zvekudya zvakafanana nekatsi kana imbwa)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Kunyangwe mukati memhando imwe chete yemhuka dzakadai sembwa, zvinodiwa nemhuka zvinovaka muviri zvinosiyana zvichienderana nehupenyu hwemhuka dzisingagari, kucheka nhumbu kana zvirwere.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Saka zvakaoma kuverenga mamakisi echikafu chemhuka pasina kubatanidza vaongorori vakawanda uye kugadzira akawanda maalgorithms akasiyana, ayo asati aitwa kusvika pari zvino.
