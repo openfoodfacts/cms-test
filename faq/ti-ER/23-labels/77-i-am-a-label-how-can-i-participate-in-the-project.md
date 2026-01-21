@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "ኣነ ሌብል እየ፣ ከመይ ጌረ ኣብቲ ፕሮጀክት ክሳተፍ ይኽእል?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-መለክዒታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/ትግር-ግብ/23-ላቤልስ/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+ከም ምልክት እቲ ኣዝዩ ኣገዳሲ ነገር ንዓና (producers@openfoodfacts.org) ርክብ ብምግባር ዝርዝር ናይቶም ምልክትኩም ዝተርኣየሎም ፍርያት ምልኣኽን ኣብቲ ተዛመድቲ ፍርያት ወረቓቕቲ ክንውስኾም ንኽእል።
