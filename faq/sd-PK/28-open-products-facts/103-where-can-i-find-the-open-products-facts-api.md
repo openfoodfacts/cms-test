@@ -1,11 +1,11 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
+title: "مان اوپن پراڊڪٽس فيڪٽس API ڪٿي ڳولي سگهان ٿو؟"
 order: 103
 lang: اين جي بي
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-کليل-پراڊڪٽس-حقيقتون
+breadcrumbs: [ '/en-gb/', '/en-gb/28-کليل-پراڊڪٽس-حقيقتون/' ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+اوپن پراڊڪٽس فيڪٽس API 98٪ اوپن فوڊ فيڪٽس API جي برابر آهي، تنهن ڪري جيڪڏهن توهان اوپن فوڊ فيڪٽس API دستاويز استعمال ڪندا آهيو ته توهان کي اوپن پراڊڪٽس فيڪٽس API جو هڪ صاف نظارو هجڻ گهرجي. اسان توهان جي ايپ ۾ يونيورسل اسڪين لاڳو ڪرڻ جي اجازت ڏيڻ لاءِ وقف سبق پڻ لکيو آهي.
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
