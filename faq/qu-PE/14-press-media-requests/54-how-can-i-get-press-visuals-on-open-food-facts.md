@@ -1,10 +1,14 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "¿Imaynatataq Open Food Facts nisqamanta prensa visualkunata tariyman?"
+order: 54. 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-prensa-media-mañakuykuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/14-prensa-media-mañakuykuna/ .'
+  ]
 ---
 
-Please contact : presse@openfoodfacts.org
-https://blog.openfoodfacts.org/en/press-release-new-mobile-app
+Ama hina kaspa, rimanakuy : presse@openfoodfacts.org
+https://blog.openfoodfacts.org/en/prensa-musuq-movil-app
