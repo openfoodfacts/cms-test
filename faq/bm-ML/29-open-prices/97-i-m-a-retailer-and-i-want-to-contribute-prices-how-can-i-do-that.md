@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
-order: 97
+title: "Ne ye feerekɛla ye wa ne b’a fɛ ka sɔngɔw di. Ne bɛ se k’o kɛ cogo di?"
+order: 97. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-da wulilenw sɔngɔw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/29-da wuli-sɔngɔw/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Aw bɛ se ka sɔngɔw di ni aw bɛ baara kɛ ni an ka API ye. N’aw b’a fɛ ka sɔngɔw di sɛgɛsɛgɛli la, aw bɛ se ka kuma an fɛ contact@openfoodfacts.org kan.
