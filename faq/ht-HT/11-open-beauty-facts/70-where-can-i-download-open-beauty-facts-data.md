@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Ki kote m ka telechaje done Open Beauty Facts yo?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-reyalite-sou-bote-ouvè
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ouvè-reyalite-sou-bote/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Paj /data a pa fonksyone kounye a. Ou ka telechaje done yo nan https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
