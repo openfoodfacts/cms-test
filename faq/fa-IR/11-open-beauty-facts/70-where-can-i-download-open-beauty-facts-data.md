@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "از کجا می‌توانم داده‌های Open Beauty Facts را دانلود کنم؟"
+order: ۷۰
 lang: انگلیسی-انگلیسی
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-حقایق زیبایی آشکار
+breadcrumbs: [ '/fa-gb/', '/fa-gb/11-حقایق-زیبایی-باز/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+صفحه /data در حال حاضر خراب است. می‌توانید داده‌ها را از آدرس https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv دانلود کنید.
