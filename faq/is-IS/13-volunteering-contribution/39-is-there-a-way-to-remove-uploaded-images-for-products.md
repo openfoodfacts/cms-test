@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Er til leið til að fjarlægja myndir sem hafa verið hlaðið inn af vörum?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-sjálfboðaliðaframlag
+breadcrumbs: [ '/en-gb/', '/en-gb/13-sjálfboðaliðaframlag/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Aðeins umsjónarmenn geta fjarlægt myndir til að koma í veg fyrir hugsanlegt skemmdarverk.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Spyrjið bara á Slack eða á contact@openfoodfacts.org um að fjarlægja tvítekningar eða óviðeigandi myndir (þið ættuð að reyna að gefa upp strikamerkið eða vefslóðina til að gera það).
 
-We also have a new image report API if you're a programmer.
+Við höfum líka nýtt forritaskil fyrir myndskýrslur ef þú ert forritari.
