@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "मुझे कैसे पता चलेगा कि मैं ऐप का कौन सा संस्करण उपयोग कर रहा हूँ?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-मोबाइल-ऐप
+breadcrumbs: [ '/en-gb/', '/en-gb/2-मोबाइल-ऐप/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+प्रोफ़ाइल पर जाएं,
+फिर FAQ पर जाएं, फिर इस ऐप के बारे में पर जाएं।
 
 You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+see a version number like 3.4.5+662. अगर फ़ोन डिबग हो रहा है तो हमें फ़ोन का मेक और मॉडल बताना न भूलें
+।
