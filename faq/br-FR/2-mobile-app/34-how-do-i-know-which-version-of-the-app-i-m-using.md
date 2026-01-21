@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Penaos gouzout peseurt stumm eus an arload a implijan ?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-arload-hezoug
+breadcrumbs: [ '/br-gb/', '/br-gb/2-mobile-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Kit da Profil,
+goude FAQ, goude Diwar-benn an arload-mañ.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Ret eo deoc'h
+gwelet un niverenn stumm evel 3.4.5+662. Na zisoñjit ket lâret deomp ar merk hag ar patrom
+eus ar pellgomzer ma vez difaziet.
