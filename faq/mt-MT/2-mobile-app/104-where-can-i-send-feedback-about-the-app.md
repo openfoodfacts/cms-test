@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Fejn nista' nibgħat feedback dwar l-app?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-app mobbli
+breadcrumbs: [ '/mt-gb/', '/mt-gb/2-app-mobbli/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Tista' tibgħat feedback lil mobile@openfoodfacts.org
