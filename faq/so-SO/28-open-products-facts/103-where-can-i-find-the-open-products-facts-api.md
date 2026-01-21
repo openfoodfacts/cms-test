@@ -1,11 +1,11 @@
 ---
-title: "Where can I find the Open Products Facts API ?"
+title: "Xaggee ka heli karaa API-ga Xaqiiqooyinka Badeecadaha Furan?"
 order: 103
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-xaqiiqo-alaabta-furan
+breadcrumbs: [ '/en-gb/', '/en-gb/28-macluumaad-furan/' ]
 ---
 
-Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+API-ga Xaqiiqooyinka Badeecadaha Furan waa 98% la mid ah API-ga Xaqiiqooyinka Cuntada Furan marka haddii aad isticmaasho dukumeentiyada API-ga Xaqiiqooyinka Cuntada Furan waa inaad si cad u aragtaa API-ga Xaqiiqooyinka Badeecadaha Furan. Waxaan sidoo kale haysannaa casharro gaar ah oo kuu oggolaanaya inaad ku hirgeliso sawir-qaadista guud ee abkaaga.
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
