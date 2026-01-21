@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Me pēhea taku uru atu ki ngā raraunga hītori?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-whakamahi-anō-raraunga
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-whakamahi-anō-raraunga/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+I tēnei wā, kāore mātou e tuku ana i te tuku raraunga hītori (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Heoi, mō ngā hua takitahi, ka taea te uru atu ki ngā putanga o mua o ngā raraunga hua mā te whakamahi i te API, i te whārangi hua rānei mā te whakamahi i ngā whakatikatika.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Ia wā ka whakahoutia he hua, ka hangaia he whakahoutanga hou (he mati e piki haere ana mai i te 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Hei tauira, hei tiki i te putanga tuatahi (=putanga hua tuatahi) o tēnei hua, whakamahia
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Waihoki, ka taea te whakamahi i te tawhā rev me te API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
