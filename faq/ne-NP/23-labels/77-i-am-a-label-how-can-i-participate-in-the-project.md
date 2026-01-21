@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
-order: 77
+title: "म एउटा लेबल हुँ, म कसरी परियोजनामा भाग लिन सक्छु?"
+order: ७७
 lang: एनजीबी
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: २३-लेबलहरू
+breadcrumbs: [ '/ne-gb/', '/ne-gb/२३-लेबलहरू/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+लेबलको रूपमा गर्नुपर्ने सबैभन्दा सान्दर्भिक कुरा भनेको हामीलाई (producers@openfoodfacts.org) सम्पर्क गर्नु र तपाईंको लेबल प्रदर्शित उत्पादनहरूको सूची हामीलाई पठाउनु हो ताकि हामी तिनीहरूलाई सम्बन्धित उत्पादन पानाहरूमा थप्न सकौं।
