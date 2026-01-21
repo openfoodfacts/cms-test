@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "Чӣ тавр ман метавонам \"Фактҳои хӯроквории кушода\"-ро ба забони худам тарҷума кунам?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-Беҳтар кардани далелҳо дар бораи хӯроки озод дар кишвари-забони-ман
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-беҳбуди-фактҳои-хӯроки-кушода-дар-кишвари-ман-забон-дорам/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+Ба https://wiki.openfoodfacts.org/Country_Support равед
