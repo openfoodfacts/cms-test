@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "È chì ne hè di l'alimentu senza codici à barre ?"
 order: 62
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts cuntene solu infurmazioni nantu à l'alimenti imballati. Per i valori medii di i prudutti (per esempiu, pumati o banane) è altri prudutti alimentari, pudete aduprà invece una di e basi di dati nutrizionali naziunali ufficiali.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Nota: A lista quì sottu cuntene alcune di e più impurtanti basi di dati alimentari naziunali. Sè pensate chì qualchì altra basa di dati duveria esse inclusa in a lista, cuntattateci per piacè à: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Lista di e Basi di Dati Alimentari Naziunali
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belgio - NUBEL - Dati di cumpusizione di l'alimenti belgi: https://www.internubel.be
+- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Repubblica Ceca - Base di dati di cumposizione di l'alimenti à l'Istitutu Naziunale di Salute Pubblica: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Danimarca - Banca di dati danese di cumpusizione alimentaria: https://frida.fooddata.dk/?lang=en
+- Estonia - Base di dati di cumpusizione alimentaria estone: https://tka.nutridata.ee/en/
+- Finlandia - Base di dati finlandese di cumposizione di l'alimenti - FINELI: https://fineli.fi/fineli/en/index
+- Francia - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Germania - Base di dati in linea Souci-Fachmann-Kraut: https://www.sfk.online/#/home o a basa di dati ufficiale tedesca: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Italie - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Paesi Bassi - Base di dati di cumpusizione alimentaria olandese: https://www.rivm.nl/en/dutch-food-composition-database
+- Norvegia - A Tavola di Cumposizione di l'Alimenti Norvegese 2006: https://www.matvaretabellen.no/?language=en
+- Pulonia - Tabelle di cumpusizione di l'alimenti: http://www.izz.waw.pl/en/?lang=en
+- Spagna - Base di dati di cumpusizione di l'alimenti spagnoli - BEDCA: https://www.bedca.net/bdpub/index.php
+- Svizzera - Base di dati svizzera di cumposizione di l'alimenti: https://www.naehrwertdaten.ch/de/
+- RU - Cumposizione di l'alimenti inseme di dati integrati (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- USA - USDA: https://ndb.nal.usda.gov/
