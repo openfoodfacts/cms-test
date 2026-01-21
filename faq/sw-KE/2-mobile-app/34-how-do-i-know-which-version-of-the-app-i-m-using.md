@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Ninawezaje kujua ni toleo gani la programu ninayotumia?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Programu-mbili za simu
+breadcrumbs: [ '/sw-gb/', '/sw-gb/2-programu-ya-simu/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Nenda kwenye Wasifu,
+kisha Maswali Yanayoulizwa Mara kwa Mara, kisha Kuhusu programu hii.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Unapaswa
+kuona nambari ya toleo kama 3.4.5+662. Usisahau kutuambia aina na modeli
+ya simu ikiwa ina hitilafu.
