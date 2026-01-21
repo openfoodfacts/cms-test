@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Документациядә йөкләнгән фотолар өчен нинди зурлык яхшы булыр иде дигән тәкъдимнәр бармы?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-мәгълүматларын кабат куллану
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Бу челтәрнең әкрен яки кыйммәт булуына бәйле булырга мөмкин. Авырлыгы яки буе буенча 5000 пиксельдән артык булган теләсә нинди нәрсә, мөгаен, бик файдалы түгел. һәм әгәр сез челтәрнең акрын эшләвен ничектер ачыклый алсагыз, хәтта 2000 пиксельле рәсем дә бик яхшы булыр иде (рәсем булмауга караганда, әлбәттә, яхшырак!)
