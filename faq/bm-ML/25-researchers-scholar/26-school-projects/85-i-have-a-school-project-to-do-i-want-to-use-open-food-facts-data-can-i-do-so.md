@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
-order: 85
+title: "Lakɔli porozɛ dɔ bɛ n bolo ka kɛ, n b’a fɛ ka baara kɛ ni Open Food Facts ka kunnafoniw ye, yala n bɛ se k’o kɛ wa?"
+order: 85. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-kalanso-porozew
+parent_category: 25-sɛgɛsɛgɛlikɛlaw-dɔnbaga
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/bamanankan-gb/ .',
+    '/en-gb/25-sɛgɛsɛgɛlikɛlaw-dɔnbaga/ .',
+    '/en-gb/25-sɛgɛsɛgɛlikɛlaw-dɔnniya/26-kalanso-porozew/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Open Food Facts, ye kunnafonidilan dafalen ye, porozɛ dafalen min bɛ baara kɛ ODbL ka lase kɔnɔ, o de kama ni i sɔnna ODbL lase ka ɲininiw ma, i bɛ se ka baara kɛ ni an ka kunnafoniw ye kokura i ka porozɛw kama :).
