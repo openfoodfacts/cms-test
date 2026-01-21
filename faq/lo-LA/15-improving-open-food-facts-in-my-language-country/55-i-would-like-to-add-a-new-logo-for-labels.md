@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "ຂ້ອຍຢາກເພີ່ມໂລໂກ້ໃໝ່ສຳລັບປ້າຍກຳກັບ"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15 ຂໍ້ເທັດຈິງກ່ຽວກັບອາຫານທີ່ເປີດກວ້າງໃນປະເທດທີ່ໃຊ້ພາສາຂອງຂ້ອຍ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-ການປັບປຸງ-ຂໍ້ເທັດຈິງກ່ຽວກັບອາຫານທີ່ເປີດກວ້າງໃນປະເທດທີ່ໃຊ້ພາສາຂອງຂ້ອຍ/'
   ]
 ---
 
-Here is the process:
+ນີ້ແມ່ນຂະບວນການ:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- ຊອກຫາຊື່ມາດຕະຖານຂອງປ້າຍຊື່ໃນການຈັດປະເພດປ້າຍຊື່ (ມັນເປັນລາຍການທຳອິດໃນລາຍຊື່ຄຳສັບຄ້າຍຄວາມໝາຍຂອງປ້າຍຊື່, ຕົວຢ່າງ en:100% vegetable)
+- ໃຊ້ໂລໂກ້ທີ່ມີຄຸນນະພາບດີ: ຫຼີກລ່ຽງການໃຊ້ຮູບພາບຂອງຜູ້ປະກອບສ່ວນທີ່ບໍ່ເໝາະສົມກັບກໍລະນີນີ້; ປ້າຍຊື່ສ່ວນໃຫຍ່ມີໂລໂກ້ທີ່ມີຄຸນນະພາບສູງຂອງເວັບໄຊທ໌ທາງການ, ບາງຄັ້ງໃນຮູບແບບເວັກເຕີ (ຍິ່ງດີກວ່າສຳລັບພວກເຮົາ); ຕາບໃດທີ່ພວກເຮົາໃຊ້ໂລໂກ້ເພື່ອແຈ້ງໃຫ້ຊາບກ່ຽວກັບການມີປ້າຍ
+  ຢູ່ເທິງການຫຸ້ມຫໍ່ຜະລິດຕະພັນ, ບໍ່ຈຳເປັນຕ້ອງຂໍອະນຸຍາດ.
+- ຕັ້ງຊື່ໄຟລ໌ແບບນີ້: name-of-the-label.[width]x90.png ເຊິ່ງ width ແມ່ນຄວາມກວ້າງຂອງໂລໂກ້ເມື່ອມັນສູງ 90 ພິກເຊວ. ຊື່ໄຟລ໌ຕ້ອງບໍ່ມີເຄື່ອງໝາຍເນັ້ນສຽງ, ໃຊ້ຕົວພິມນ້ອຍ ແລະ ໃຊ້ "-" ແທນຊ່ອງຫວ່າງ.
+- ຈາກນັ້ນໃຫ້ເພີ່ມໂລໂກ້ໃນໄດເລກະທໍລີທີ່ກົງກັບຊື່ມາດຕະຖານຂອງມັນ. ຖ້າຊື່ທີ່ເປັນ canonical ແມ່ນ en:something, ພວກມັນຈໍາເປັນຕ້ອງຢູ່ໃນ /en/. ໄດເລກະທໍລີຮາກສຳລັບໂລໂກ້ແມ່ນ https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
