@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "ከመይ ጌረ ፍርያተይ ናብ Open Beauty Facts ከእትዎ እኽእል?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ክፉት-ጽባቐ-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/11-ክፉት-ሓቅታት-ጽባቐ/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org ተወከሱ ወይ ብቐጥታ ናብ...
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org ድሕሪኡ ንፍሉይ ሰደድ producteurs@openfoodfacts.org ተወከሱ
