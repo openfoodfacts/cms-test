@@ -1,13 +1,13 @@
 ---
-title: "In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?"
+title: "Dažos gadījumos vienam un tam pašam produktam katrā valstī var būt atšķirīgas uzturvērtības, kā tas tiek risināts Open Food Facts platformā?"
 order: 58
 lang: lv-lv
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-brīvprātīgā darba-ieguldījums
+breadcrumbs: [ '/lv-lv/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+99% gadījumu ražotāji dažādām savu produktu versijām izveidos atšķirīgus svītrkodus. Slavens piemērs ir atšķirība starp franču un vācu Nutella biezumu, ko izraisa maizes atšķirības dažādās valstīs. 2 dažādas formulas, 2 dažādi svītrkodi.
 
-Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+Tomēr svītrkodu sadursmes var rasties, izmantojot īsākus kodus (EAN-8), kurus parasti atkārtoti izmanto daži veikali visā Eiropā un ASV. Pašlaik mēs neapstrādājam šīs svītrkodu sadursmes, bet tam vajadzētu būt iespējamam, iegūstot lietotāja vispārīgo atrašanās vietu (svītrkodu sadursmes vienas valsts ietvaros ir vēl retāk sastopamas).
 
-In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
+Ilgtermiņā mēs mudinām ražotājus pāriet uz EAN-13, lai izvairītos no šīm svītrkodu sadursmēm.
