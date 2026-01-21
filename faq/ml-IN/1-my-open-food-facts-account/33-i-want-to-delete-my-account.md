@@ -1,13 +1,13 @@
 ---
-title: "I want to delete my account"
-order: 33
+title: "എന്റെ അക്കൗണ്ട് ഇല്ലാതാക്കണം."
+order: 33 ദിവസം
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-എന്റെ-തുറന്ന-ഭക്ഷണ-വസ്തുത-അക്കൗണ്ട്
+breadcrumbs: [ '/എംഎൽ-ജിബി/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Account deletion now happens directly in your preferences.
+അക്കൗണ്ട് ഇല്ലാതാക്കൽ ഇപ്പോൾ നിങ്ങളുടെ മുൻഗണനകളിൽ നേരിട്ട് സംഭവിക്കും.
 
-After login on https://world.openfoodfacts.org/, click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+https://world.openfoodfacts.org/ ൽ ലോഗിൻ ചെയ്ത ശേഷം, മുകളിൽ വലത് കോണിലുള്ള ഉപയോക്തൃ നാമത്തിൽ ക്ലിക്ക് ചെയ്യുക, തുടർന്ന് അക്കൗണ്ട് പാരാമീറ്ററുകൾ തിരഞ്ഞെടുക്കുക. ഇത് നിങ്ങളുടെ മുൻഗണനാ പേജ് തുറക്കുന്നു. പേജിന്റെ അടിയിലേക്ക് പോയി "ഉപയോക്താവിനെ ഇല്ലാതാക്കുക" എന്ന പ്രവർത്തനം ഉപയോഗിക്കുക.
 
-If you are unable to login (or reset your password), please contact dpo - at - openfoodfacts.org, using the email address you use to register account.
+നിങ്ങൾക്ക് ലോഗിൻ ചെയ്യാൻ കഴിയുന്നില്ലെങ്കിൽ (അല്ലെങ്കിൽ നിങ്ങളുടെ പാസ്‌വേഡ് പുനഃസജ്ജമാക്കാൻ കഴിയുന്നില്ലെങ്കിൽ), അക്കൗണ്ട് രജിസ്റ്റർ ചെയ്യാൻ നിങ്ങൾ ഉപയോഗിക്കുന്ന ഇമെയിൽ വിലാസം ഉപയോഗിച്ച് dpo - at - openfoodfacts.org-ൽ ബന്ധപ്പെടുക.
