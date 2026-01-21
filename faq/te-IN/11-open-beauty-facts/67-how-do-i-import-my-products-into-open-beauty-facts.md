@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "నా ఉత్పత్తులను ఓపెన్ బ్యూటీ ఫ్యాక్ట్స్‌లోకి ఎలా దిగుమతి చేసుకోవాలి?"
 order: 67
 lang: en-gb తెలుగు in లో
-category: 11-open-beauty-facts
+category: 11-ఓపెన్-బ్యూటీ-ఫాక్ట్స్
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org ని సంప్రదించండి లేదా నేరుగా వెళ్ళండి
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+ప్రత్యేక ఎగుమతి కోసం https://world.pro.openfoodfacts.org ఆపై producteurs@openfoodfacts.org ని సంప్రదించండి.
