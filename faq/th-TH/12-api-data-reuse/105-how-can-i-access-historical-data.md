@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "ฉันจะเข้าถึงข้อมูลในอดีตได้อย่างไร?"
 order: 105
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+ขณะนี้เรายังไม่มีบริการสำรองข้อมูลประวัติ (JSONL, MongoDB, CSV)
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+อย่างไรก็ตาม สำหรับสินค้าแต่ละรายการ สามารถเข้าถึงข้อมูลสินค้าเวอร์ชันก่อนหน้าได้โดยใช้ API หรือบนหน้าสินค้าโดยใช้การแก้ไข
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+ทุกครั้งที่มีการอัปเดตผลิตภัณฑ์ จะมีการสร้างเวอร์ชันใหม่ (ตัวเลขเพิ่มขึ้นเรื่อยๆ เริ่มจาก 1)
 
-For example, to get the first revision (=first product version) of this product, use
+ตัวอย่างเช่น หากต้องการดาวน์โหลดเวอร์ชันแรก (=เวอร์ชันผลิตภัณฑ์แรกสุด) ของผลิตภัณฑ์นี้ ให้ใช้คำสั่งต่อไปนี้
 
-https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
+https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1
 
-Similarly, the rev parameter can be used with the API:
+ในทำนองเดียวกัน พารามิเตอร์ rev สามารถใช้ร่วมกับ API ได้:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
