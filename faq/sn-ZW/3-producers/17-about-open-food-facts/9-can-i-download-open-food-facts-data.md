@@ -1,19 +1,19 @@
 ---
-title: "Can I download Open Food Facts data?"
+title: "Ndinogona here kudhawunirodha data reOpen Food Facts?"
 order: 9
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-nezve-zvekudya-zvakavhurika-chokwadi
+parent_category: Vagadziri vatatu
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
+    '/sn-gb/',
+    '/en-gb/3-vagadziri/',
     '/en-gb/3-producers/17-about-open-food-facts/'
   ]
 ---
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+Unogona kudhawunirodha data rese riripo paOpen Food Facts. Chenjerera, izvi zvinoda nzvimbo yakawanda yedhisiki, komputa ine simba kana uchida kushandisa spreadsheet kana ruzivo rweR kana Python neimwe nzira.
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+Unogona zvakare kudhawunirodha runyorwa rwedata (semuenzaniso rudzi rwako) nekuda kwekutsvaga kwakadzama.
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Kuti uwane rumwe ruzivo, tinokukoka kuti utore gwara redu rekushandisa uye/kana kuti utarise mavhidhiyo edu ekudzidzisa :-)
