@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Coma etiqueta, es important de crear un compte ?"
 order: 76
 lang: es-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etiquetas
+breadcrumbs: [ '/es-gb/', '/oc-gb/23-etiquetas/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Coma etiqueta, coma sètz pas lo productor dirècte dels produches, avètz pas besonh de crear un compte de productor.
