@@ -1,13 +1,13 @@
 ---
-title: "Hvordan oversetter jeg denne vanlige spørsmålen til mitt språk?"
+title: "Hvordan oversetter jeg denne FAQ til språket mitt?"
 order: 57
 lang: no-no
-category: 15-forbedring-av-åpne-matfakta-på-mitt-språkland
+category: 15-forbedringer-open-food-facts-in-my-language-land
 breadcrumbs:
   [
-    '/en-gb/',
-    '/no-gb/15-forbedring-av-åpne-matfakta-i-mitt-språkland/'
+    '/radgiver/',
+    '/radgiver/singelliv-og-partnersok/kvinne-soker-mann'
   ]
 ---
 
-Vennligst spør contact@openfoodfacts.org om redigeringstilgang til kunnskapsbasen.
+Spør kontakt@openfoodfacts.org om du vil ha tilgang til kunnskapsbasen.
