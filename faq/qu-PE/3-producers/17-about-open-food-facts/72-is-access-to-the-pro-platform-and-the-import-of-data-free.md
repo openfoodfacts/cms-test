@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
-order: 72
+title: "¿Pro plataformaman yaykuy chaymanta datokuna apamuy mana qullqiyuqchu?"
+order: 72. 72
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-kichasqa-mikhuymanta-chiqakuna
+parent_category: 3-ruraqkuna
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/quchqa-gb/ .',
+    '/quch-gb/3-ruraqkuna/ .',
+    '/quch-gb/3-productores/17-kichasqa-mikhuy-chiqakuna/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Absolutamente, hinaspa wiñaypaq kanqa.Tukuy serviciokuna Open Food Facts nisqapa qusqanqa mana qullqillapaqmi. Ancha kusisqa kayku ruruykimanta willayta mikhuy sut'i kananpaq yanapayta yuyaykusqaykimanta, chaymanta kaymanta agradecekuyku.
