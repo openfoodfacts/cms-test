@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Ki kote mwen ka voye fidbak sou aplikasyon an?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasyon mobil
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasyon-mobil/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Ou ka voye fidbak ou bay mobile@openfoodfacts.org
