@@ -2,8 +2,12 @@
 title: "ئىشلەتكۈچى ئىسمىمنى قانداق ئۆزگەرتىمەن؟"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-مېنىڭ-ئوچۇق-يېمەكلىك-ھەققىدىكى-ھېساباتىم
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/1-مېنىڭ-ئوچۇق-يېمەكلىك-پاكىتلىرى-ئاكتىۋ-ھېساباتىم/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+ئەپسۇسكى، بۇ مۇمكىن ئەمەس. ئەگەر راستىنلا ئۆزگەرتمەكچى بولسىڭىز، ھېساباتىڭىزنى ئۆچۈرۈپ، يېڭى ھېساباتىڭىزنى قۇرۇشىڭىز كېرەك.
