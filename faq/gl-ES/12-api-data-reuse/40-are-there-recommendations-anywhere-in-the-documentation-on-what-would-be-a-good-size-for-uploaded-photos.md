@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "Hai recomendacións nalgún lugar da documentación sobre cal sería un bo tamaño para as fotos subidas?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: reutilización de datos de 12 API
+breadcrumbs: [ '/gl-gb/', '/gl-gb/reutilización-de-datos-de-12-api/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Iso pode depender dos países, se a rede é lenta ou cara. Calquera cousa que teña máis de 5000 píxeles en peso ou altura probablemente non sexa moi útil. e se dalgún xeito podes detectar que a rede é lenta, entón mesmo unha imaxe de 2000 píxeles sería xenial (sen dúbida mellor que non ter imaxe!).
