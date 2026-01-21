@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Apakah Open Beauty Facts memiliki laboratorium analisis?"
 order: 47
 lang: bahasa Inggris
-category: 11-open-beauty-facts
+category: 11 fakta kecantikan yang terbuka
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Sayangnya, Open Beauty Facts tidak memiliki laboratorium analisis: kami adalah sebuah asosiasi sukarelawan yang bertujuan untuk menciptakan Wikipedia tentang kosmetik.
 
-That said, if you would like to help us provide more transparency for
+Meskipun demikian, jika Anda ingin membantu kami memberikan lebih banyak transparansi untuk
 
-consumers, you can use our iPhone, Android and
+Konsumen, Anda dapat menggunakan iPhone, Android, dan
 
-Windows Phone to add products:
+Windows Phone akan menambahkan produk:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Dan untuk bertukar pikiran dan mendiskusikan kemungkinan penggunaan proyek ini, Anda
 
-can join the Facebook group of contributors:
+Anda dapat bergabung dengan grup kontributor di Facebook:
 
 https://www.facebook.com/groups/356858984359591/
