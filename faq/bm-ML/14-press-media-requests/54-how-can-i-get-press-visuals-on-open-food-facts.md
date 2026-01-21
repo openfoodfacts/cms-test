@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "Ne bɛ se ka kunnafonidilaw ka ɲɛjiraliw sɔrɔ cogo di Open Food Facts kan?"
+order: 54. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-press-media-ɲiniw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/14-press-media-demands/ .' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Aw bɛ se ka kuma : presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
