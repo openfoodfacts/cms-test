@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Ngaba i-Open Beauty Facts inayo ilabhoratri yohlalutyo?"
 order: 47
 lang: i-en-gb
-category: 11-open-beauty-facts
+category: Iinyani ezili-11-ezivulekileyo-zobuhle
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Ngelishwa i-Open Beauty Facts ayinayo ilabhoratri yohlalutyo: singumbutho wamavolontiya onjongo yawo ikukudala iWikipedia yezimonyo.
 
-That said, if you would like to help us provide more transparency for
+Oko kuthethiweyo, ukuba ungathanda ukusinceda sibonelele ngakumbi
 
-consumers, you can use our iPhone, Android and
+abathengi, ungasebenzisa ii-iPhone zethu, ii-Android kunye
 
-Windows Phone to add products:
+Iimveliso zokongeza ifowuni yeWindows:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Kwaye ukuze nitshintshiselane nize nixoxe ngeendlela ezinokwenzeka zokusetyenziswa kwale projekthi, nina
 
-can join the Facebook group of contributors:
+ungajoyina iqela le-Facebook labaxhasi:
 
 https://www.facebook.com/groups/356858984359591/
