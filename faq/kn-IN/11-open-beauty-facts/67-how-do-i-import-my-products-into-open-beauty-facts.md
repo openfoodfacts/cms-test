@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
-order: 67
+title: "ನನ್ನ ಉತ್ಪನ್ನಗಳನ್ನು ಓಪನ್ ಬ್ಯೂಟಿ ಫ್ಯಾಕ್ಟ್‌ಗಳಿಗೆ ನಾನು ಹೇಗೆ ಆಮದು ಮಾಡಿಕೊಳ್ಳುವುದು?"
+order: 67 (ಆಹ್ಲು)
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-ಮುಕ್ತ-ಸೌಂದರ್ಯ-ಸಂಗತಿಗಳು
+breadcrumbs: [ '/en-gb/', '/kn-gb/11-ಮುಕ್ತ-ಸೌಂದರ್ಯ-ಸಂಗತಿಗಳು/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+producteurs@openfoodfacts.org ಅನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ನೇರವಾಗಿ ಇಲ್ಲಿಗೆ ಹೋಗಿ
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+ವಿಶೇಷ ರಫ್ತಿಗಾಗಿ https://world.pro.openfoodfacts.org ನಂತರ producteurs@openfoodfacts.org ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.
