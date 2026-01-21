@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Ngingatfolaphi i-API Yemaciniso Ekudla Kwetilwane Letivulekile ?"
 order: 102
 lang: si-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-emaciniso-ekudla-kwetilwane letifuywako
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/10-emaciniso-ekudla-kwetilwane letifuywako/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+I-API Yemaciniso Ekudla Kwetilwane Letivulekile i-98% iyafana ne-API Yemaciniso Ekudla Lokuvulekile ngako-ke uma usebentisa imibhalo ye-API Yemaciniso Ekudla Lokuvulekile kufanele ube nembono locacile we-API Yemaciniso Ekudla Kwetilwane Letivulekile.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Caphela kutsi timphawu letifana neMaphaneli Elwati, Eco-Score, Nutri-Score atisekelwa (kungaba ngenca yesihloko, noma ku-codebase lendzala).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://maciniso ekudla lavulekile.github.io/seva yemaciniso ekudla lavulekile/api/ref-v2/
