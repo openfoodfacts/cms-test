@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Xaggee ka heli karaa Open Beauty Facts API iyo dhoofinta xogta?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-xaqiiqooyin qurux-furan
+breadcrumbs: [ '/en-gb/', '/en-gb/11-xaqiiqooyin-qurux-furan/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Furan Food Facts API waa 98% la mid ah Furan Beauty Facts API marka haddii aad isticmaasho dukumeentiyada Furan Food Facts API waa inaad si cad u aragtaa Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Ogsoonow in sifooyinka sida Guddiyada Aqoonta, Dhibcaha Eco-Score, Nutri-Score aan la taageerin (mawduuca awgeed, ama saldhiggii hore ee koodhka).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
