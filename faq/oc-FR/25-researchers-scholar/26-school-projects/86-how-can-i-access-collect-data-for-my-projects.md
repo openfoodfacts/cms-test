@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
+title: "Cossí pòdi accedir/culhir de donadas per mos projèctes ?"
 order: 86
 lang: es-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-projèctes-escolars
+parent_category: 25-cercaires-erudits
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/es-gb/',
+    '/oc-gb/25-cercaires-erudits/',
+    '/oc-gb/25-cercaires-erudits/26-projèctes-escolars/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+Sus la pagina principala d'Open Food Facts, dins lo canton naut esquèrre de l'ecran, i a un menut de desfilament. En bas, trobaretz l'opcion "recèrca avançada", sus la quala podètz picar. Es alara a vos de determinar quines critèris son los mai pertinents per vòstre(s) projècte(s). Un còp causit, poiretz telecargar los resultats obtenguts en desfilant cap aval en bas de la pagina e en clicant sus “Telecargar los resultats”.
