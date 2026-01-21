@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ని నా భాషలోకి ఎలా అనువదించాలి?"
+order: 56 తెలుగు
 lang: en-gb తెలుగు in లో
-category: 15-improving-open-food-facts-in-my-language-country
+category: నా భాషా దేశంలో 15 మెరుగైన ఆహార వాస్తవాలు
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-నా భాషా దేశంలో ఓపెన్ ఫుడ్ వాస్తవాలను మెరుగుపరచడం/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support కి వెళ్ళండి.
