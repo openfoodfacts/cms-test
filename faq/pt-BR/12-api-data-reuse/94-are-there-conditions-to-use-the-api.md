@@ -1,15 +1,15 @@
 ---
-title: "Are there conditions to use the API?"
+title: "Existem condições para usar a API?"
 order: 94
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-reutilização de dados da API
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-All the documentation about API usage can be found on the API documentation page, but here is a quick summary:
+Toda a documentação sobre o uso da API pode ser encontrada na página de documentação da API, mas aqui está um breve resumo:
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see https://world.openfoodfacts.org/terms-of-use for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+- O banco de dados Open Food Facts está disponível como dados abertos sob a Licença de Banco de Dados Aberto (ODbL). Consulte https://world.openfoodfacts.org/terms-of-use para obter detalhes legais. As duas condições são atribuição e compartilhamento igual. Se você combinar dados do Open Food Facts com outros bancos de dados, o ODbL exige que o banco de dados resultante também seja disponibilizado como dados abertos. Significa também que você só pode combinar os dados com fontes que permitam essa redistribuição.
 
-- You must always use a custom User-Agent when performing API calls to identify your app.
+- Você deve sempre usar um User-Agent personalizado ao realizar chamadas de API para identificar seu aplicativo.
 
-- Rate-limits are enforced for each API endpoint.
+- Os limites de taxa são aplicados a cada endpoint da API.
