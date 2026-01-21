@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
-order: 85
+title: "මට පාසල් ව්‍යාපෘතියක් කරන්න තියෙනවා, මට Open Food Facts දත්ත භාවිතා කරන්න ඕන, මට එහෙම කරන්න පුළුවන්ද?"
+order: 85 යි
 lang: si-gb (ඉංග්‍රීසි බසින්)
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: පාසල් 26 ව්‍යාපෘති
+parent_category: 25-පර්යේෂක-විශාරද
 breadcrumbs:
   [
-    '/en-gb/',
+    '/si-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/si-gb/25-පර්යේෂක-විද්වතුන්/26-පාසල්-ව්‍යාපෘති/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Open Food Facts යනු විවෘත දත්ත සමුදායකි, ODbL බලපත්‍රයක් යටතේ ක්‍රියාත්මක වන විවෘත ව්‍යාපෘතියකි, එබැවින් ඔබ ODbL බලපත්‍රයේ අවශ්‍යතා සමඟ එකඟ වන තාක් කල්, ඔබේ ව්‍යාපෘති සඳහා අපගේ දත්ත නැවත භාවිතා කිරීමට ඔබව සාදරයෙන් පිළිගනිමු :).
