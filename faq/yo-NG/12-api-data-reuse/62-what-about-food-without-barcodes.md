@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
+title: "Àwọn oúnjẹ tí kò ní àmì ìdámọ̀ràn ńkọ́?"
 order: 62
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-data-àtúnlò
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Àwọn Ìròyìn nípa oúnjẹ tí a fi sínú àpótí nìkan ló wà nínú Ìwé Ìròyìn Oúnjẹ. Fún iye apapọ ti awọn irugbin (fun apẹẹrẹ, awọn tomati tabi awọn ọgẹmọ) ati awọn ọja ounjẹ miiran, o le lo ọkan ninu awọn ibi ipamọ data ounjẹ orilẹ-ede ti o jẹ aṣẹ dipo.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Àkíyèsí: Àkójọ tó wà ní ìsàlẹ̀ yìí ní díẹ̀ lára àwọn ibi ìkópamọ́ oúnjẹ orílẹ̀-èdè tó ṣe pàtàkì jùlọ. Tí o bá rò pé ó yẹ kí a fi àwọn ibi ìkópamọ́ dátà míràn kún àkójọ náà, jọ̀wọ́ kàn sí wa ní: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Àkójọ Àwọn Ibi Ìkópamọ́ Oúnjẹ Orílẹ̀-èdè
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Bẹ́ljiọmu - NUBEL - Dáta Ìṣẹ̀dá Oúnjẹ Bẹ́ljiọmu: https://www.internubel.be
+- Kánádà - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Orílẹ̀-èdè Czech Republic - Ibi ìpamọ́ ìpèsè oúnjẹ ní National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Denmark - Ibi ipamọ data ti akojọpọ ounjẹ Danish: https://frida.fooddata.dk/?lang=en
+- Estonia - Ibi ipamọ data akojọpọ ounjẹ Estonia: https://tka.nutridata.ee/en/
+- Finland - Ibi ipamọ data akojọpọ ounjẹ Finnish - FINELI: https://fineli.fi/fineli/en/index
+- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Jẹmánì - Souci-Fachmann-Kraut Aaye aaye ayelujara: https://www.sfk.online/#/home tabi aaye data German osise: Bundeslebensmittelschlüssel: https://blsdb.de/
+- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Netherlands - Ibi ipamọ data akojọpọ ounjẹ Dutch: https://www.rivm.nl/en/dutch-food-composition-database
+- Norway - Àtẹ Ìṣọ̀kan Oúnjẹ ti Norway 2006: https://www.matvaretabellen.no/?language=en
+- Poland - Àwọn Tábìlì Ìṣọ̀kan Oúnjẹ: http://www.izz.waw.pl/en/?lang=en
+- Sípéènì - Ibi ìpamọ́ ìdàpọ̀ oúnjẹ Sípéènì - BEDCA: https://www.bedca.net/bdpub/index.php
+- Switzerland - Ibi ipamọ data akojọpọ ounjẹ Swiss: https://www.naehrwertdaten.ch/de/
+- UK - Àkójọpọ̀ ìṣètò àkójọpọ̀ oúnjẹ tí a ṣepọ (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- AMẸRIKA - USDA: https://ndb.nal.usda.gov/
