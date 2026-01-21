@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Vai man jāatjaunina visi valodas faili, mainot avota virkni?"
 order: 59
 lang: lv-lv
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-tehniskie-biežāk uzdotie jautājumi
+breadcrumbs: [ '/lv-lv/', '/lv-lv/16-tehniskie-jautājumi/' ]
 ---
 
-No you don't. You just need to update the English one
+Nē, tu to nedari. Tev tikai jāatjaunina angļu valoda
 
-- Create your PR
+- Izveidojiet savu PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Kad tas būs apvienots, mēs manuāli pārveidosim crowdin-trigger bāzi, un GitHub Actions aktivizētā Crowdin tulkošanas sistēma paveiks pārējo citām valodām.
 
-GitHub bot then creates a new PR automatically that we then review.
+Pēc tam GitHub robots automātiski izveido jaunu PR, kuru mēs pēc tam pārskatām.
