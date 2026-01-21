@@ -1,11 +1,11 @@
 ---
-title: "Hvordan kan jeg bidra til å forbedre mobilappen?"
+title: "Hvordan kan jeg hjelpe til med å forbedre mobilappen?"
 order: 90
 lang: no-no
-category: 2-mobilapp
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobilapp/' ]
+category: 2-mobil-app
+breadcrumbs: [ '/radgiver/', '/no_NO/no' ]
 ---
 
-Hvordan kan jeg bidra til å forbedre mobilappen?
+Hvordan kan jeg hjelpe til med å forbedre mobilappen?
 
-Du kan gjøre det i mobilapp-arkivet
+Du kan gjøre det på mobil-app-arkivet
