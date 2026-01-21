@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "Saya ingin menambah logo baharu untuk label"
 order: 55
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-fakta-makanan-terbuka-yang-memperbaiki-di-negara-bahasa-saya
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ms-gb/15-memperbaiki-fakta-makanan-terbuka-di-negara-bahasa-saya/'
   ]
 ---
 
-Here is the process:
+Inilah prosesnya:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- cari nama kanonik label dalam taksonomi label (ia merupakan item pertama dalam senarai sinonim label, contohnya en:100% vegetable)
+- Dapatkan logo dalam kualiti yang baik: elakkan menggunakan foto penyumbang yang tidak sesuai untuk kes ini; kebanyakan label mempunyai laman web rasmi logo berkualiti tinggi, kadangkala dalam format vektor (lebih baik untuk kita); selagi kita menggunakan logo untuk memaklumkan secara objektif tentang kehadiran label
+  pada pembungkusan produk, tidak perlu meminta kebenaran.
+- namakan fail seperti ini: name-of-the-label.[width]x90.png dengan width ialah lebar untuk logo apabila tingginya 90 piksel. Nama fail perlu tanpa aksen, dalam huruf kecil dan menggunakan "-" dan bukannya jarak.
+- kemudian tambahkan logo dalam direktori yang sepadan dengan nama kanoniknya. Jika nama kanonik ialah en:something, maka ia perlu berada dalam /en/. Direktori akar untuk logo ialah https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
