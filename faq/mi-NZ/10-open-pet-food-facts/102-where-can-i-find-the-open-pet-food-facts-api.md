@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Kei hea ahau e kite ai i te Open Pet Food Facts API?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 ngā kōrero tuwhera mō te kai mōkai
+breadcrumbs: [ '/en-gb/', '/en-gb/10-tuwhera-ngā-meka-kai-mōkai/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+E 98% te rite o te Open Pet Food Facts API ki te Open Food Facts API, nō reira, ki te whakamahi koe i ngā tuhinga Open Food Facts API, me mārama te tirohanga ki te Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Kia mōhio koe, kāore ngā āhuatanga pēnei i ngā Paewhiri Mātauranga, Eco-Score, Nutri-Score e tautokona ana (nā te kaupapa, nā te pūtake waehere tawhito rānei).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
