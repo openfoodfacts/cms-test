@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kako mogu uvesti svoje proizvode u Open Beauty Facts?"
 order: 67
 lang: hr-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-otvorenih-činjenica-o-ljepoti
+breadcrumbs: [ '/hr-gb/', '/hr-gb/11-otvorenih-činjenica-o-ljepoti/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Kontaktirajte producteurs@openfoodfacts.org ili idite izravno na
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org, a zatim kontaktirajte producteurs@openfoodfacts.org za poseban izvoz
