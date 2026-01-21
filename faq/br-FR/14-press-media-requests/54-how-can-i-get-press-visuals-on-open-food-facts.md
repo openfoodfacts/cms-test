@@ -1,10 +1,14 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Penaos e c'hellan kaout gweledvaoù evit ar gazetennerien war Open Food Facts ?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-goulennoù-mediaoù-pouezañ
+breadcrumbs:
+  [
+    '/br-gb/',
+    '/br-gb/14-goulennoù-pouezañ war ar mediaoù/'
+  ]
 ---
 
-Please contact : presse@openfoodfacts.org
-https://blog.openfoodfacts.org/en/press-release-new-mobile-app
+Kit e darempred gant : presse@openfoodfacts.org
+https://blog.openfoodfacts.org/br/pres-release-new-mobile-app
