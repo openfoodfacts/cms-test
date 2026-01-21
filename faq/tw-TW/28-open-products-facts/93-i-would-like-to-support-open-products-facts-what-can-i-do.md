@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
-order: 93
+title: "Mepɛ sɛ meboa Open Products Facts. Dɛn na metumi ayɛ ?"
+order: 93. Nkyekyɛm
 lang: tw-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-a wɔabue-nneɛma-nokwasɛm ahorow
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/28-bue-nneɛma-nokwasɛm/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Yɛsrɛ wo kenkan yɛn wiki krataafa no, yɛakyerɛw akwan a wobɛfa so de wo ho ahyɛ mu: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Sɛ wopɛ sɛ woboa Open Products Facts a, wubetumi asusuw akwan a edidi so yi ho, a wɔayɛ emu biara ama ntoboa ahorow:
 
 - Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+  Adɔeɛ ntoboa ho hia wɔ anisoadehunu a ɛfa kurukuruwa data platform a ɛkɔ akyiri, nneɛma a wɔde nkontabuo, ne kurukuruwa ano aduru a wɔaboaboa ano, wɔ bɛboro 20000+ akuo mu, a ɛyɛ Open Products Facts botaeɛ titire. Wɔnnya nnyaa sika wɔ anisoadehu yi mu nneɛma a ɛho hia pii ho, na sika a wode bɛboa wo no betumi anya nkɛntɛnso kɛse. Wo ntoboa betumi aboa ma wɔanya sika de ayɛ nkɔso ne nnwuma a ɛho hia. Sɛ wopɛ sɛ woboa sika a, yɛsrɛ wo, di nkitaho wɔ contact@openfoodfacts.org
+- Data Ntoboa a Wɔde Open Products Facts App Di Dwuma:
+  Data ntoboa ho hia ma Open Products Facts a wɔbɛma ayɛ kɛse. Sɛ wode Android app no di dwuma de nneɛma foforo ho nsɛm ka ho, de nsɛm a wɔakyerɛw dedaw no yɛ foforo, anaasɛ wobɛhwɛ sɛ data no yɛ nokware a, woboa ma wɔtrɛw database no mu na wosiesie no yiye. Saa mmɔdenbɔ a wɔbom yɛ yi boa ma wɔkyekye ade a ɛyɛ den na wotumi de ho to so ma obiara.
+- Mfiridwuma mu mmoa a wɔde ma wɔ Open Products Facts mu:
+  Sɛ wowɔ mfiridwuma ho nimdeɛ wɔ mmeae te sɛ programming, data analysis, anaa user experience design mu a, wo nimdeɛ betumi aboa Open Products Facts kɛse. Sɛ wode wo ho bɛhyɛ app no nkɔso mu, wobɛma ne dwumadi atu mpɔn, anaasɛ wobɛma wɔn a wɔde di dwuma no ntam nkitahodi atu mpɔn no yɛ mmoa a ɛsom bo. Sɛ wopɛ sɛ wode wo ho hyɛ mu a, kɔka #openproductsfacts Slack kwan no ho, baabi a Open Products Facts mpɔtam hɔfo yɛ biako. Wubetumi ahu link a ɛkɔ Slack adwumayɛbea yi so wɔ Open Food Facts wɛbsaet no so.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Ntoboa biara ho hia ma Open Products Facts nkɔsoɔ ne nkonimdie, ɛboa ma wɔyɛ atenaeɛ a ɛbɛtena hɔ daa na ɛma nsɛm pii ma obiara.
