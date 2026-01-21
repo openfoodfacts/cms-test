@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
-order: 72
+title: "Pro मञ्चे प्रवेशः, आँकडानां आयातः च निःशुल्कः अस्ति वा?"
+order: ७२
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: १७-मुक्त-भोजन-तथ्यानां विषये
+parent_category: ३-उत्पादकाः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/3-उत्पादक/',
+    '/en-gb/3-producers/17-मुक्त-खाद्य-तथ्य-विषये/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+निश्चयेन, सदा च भविष्यति।Open Food Facts इत्यनेन प्रदत्ताः सर्वाः सेवाः निःशुल्काः सन्ति । वयं बहु प्रसन्नाः यत् भवान् स्वस्य उत्पाददत्तांशं खाद्यपारदर्शिते योगदानं दातुं निश्चयं कृतवान्, तदर्थं च वयं भवन्तं धन्यवादं दद्मः।
