@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Fejn nista' nsib l-Open Beauty Facts API u l-esportazzjonijiet tad-dejta?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-fatti dwar is-sbuħija miftuħa
+breadcrumbs: [ '/mt-gb/', '/mt-gb/11-fatti-miftuħa-dwar-is-sbuħija/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+L-Open Food Facts API hija 98% l-istess bħall-Open Beauty Facts API, allura jekk tuża d-dokumentazzjoni tal-Open Food Facts API għandu jkollok stampa pjuttost ċara tal-Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Innota li karatteristiċi bħall-Knowledge Panels, Eco-Score, Nutri-Score mhumiex appoġġjati (jew minħabba s-suġġett, jew minħabba l-kodiċi l-antik).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
