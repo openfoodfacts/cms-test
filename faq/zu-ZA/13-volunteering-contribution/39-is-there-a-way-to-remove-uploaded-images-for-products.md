@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Ingabe ikhona indlela yokususa izithombe ezilayishiwe zemikhiqizo?"
 order: 39
 lang: i-en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-umnikelo wokuzithandela
+breadcrumbs: [ '/zu-gb/', '/zu-gb/13-volunteering-contribution/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Abaqondisi kuphela abangasusa izithombe, ukuze bagweme ukucekelwa phansi okungenzeka.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Mane ucele ku-Slack noma ku-contact@openfoodfacts.org ukuthi ususe izithombe zakho eziphindaphindiwe noma izithombe ezingafanele (kufanele uzame ukunikeza inombolo yebhakhodi noma i-URL).
 
-We also have a new image report API if you're a programmer.
+Siphinde sibe ne-API entsha yombiko wesithombe uma ungumhleli wezinhlelo.
