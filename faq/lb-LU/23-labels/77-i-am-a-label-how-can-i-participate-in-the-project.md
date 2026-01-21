@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Ech sinn e Label, wéi kann ech um Projet matmaachen?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-Etiketten
+breadcrumbs: [ '/lb-gb/', '/lb-gb/23-Labels/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Als Etikett ass déi relevantst Saach, déi Dir maache kënnt, eis ze kontaktéieren (producers@openfoodfacts.org) a schéckt eis d'Lëscht vun de Produkter, op deenen Är Etikett ugewise gëtt, fir datt mir se op déi entspriechend Produktblieder bäifüge kënnen.
