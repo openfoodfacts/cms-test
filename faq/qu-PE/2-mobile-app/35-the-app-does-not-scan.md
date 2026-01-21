@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
-order: 35
+title: "Chay aplicacionqa manan escaneanchu"
+order: 35. 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-movil-app nisqa
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/2-movil-app/' ]
 ---
 
-This may be due to
+Kayqa kanmanmi chayrayku
 
-- a network problem
+- huk llika sasachakuy
 
-- a permissions problem
+- huk permisokuna sasachakuy
 
-- a barcode problem
+- huk código de barras nisqa sasachakuy
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Perfil >> Contacto >> Huk correo electrónicota apachimuwayku.
 
-All relevant information should be attached to your request.
+Tukuy tupaq willakuykunatam mañakusqaykiman k’askachinayki.
