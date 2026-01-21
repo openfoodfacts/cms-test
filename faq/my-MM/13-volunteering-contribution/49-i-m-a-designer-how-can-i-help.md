@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "ကျွန်တော်က ဒီဇိုင်နာပါ။ ဘယ်လိုကူညီရမလဲ။"
+order: ၄၉
 lang: en-gb
-category: 13-volunteering-contribution
+category: ၁၃-စေတနာ့ဝန်ထမ်း-အလှူငွေ
 breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+ကျွန်ုပ်တို့သည် ဒီဇိုင်းနှင့်သက်ဆိုင်သော လုပ်ဆောင်ချက်အားလုံးကို https://github.com/openfoodfacts/openfoodfacts-design နှင့် သီးသန့်ချတ်ချန်နယ်တစ်ခုတွင် ညှိနှိုင်းဆောင်ရွက်ပေးပါသည်။ ကျွန်ုပ်တို့သည် အဖွဲ့လိုက်အစည်းအဝေးများကို မှန်မှန်ပြုလုပ်ပြီး သတ်မှတ်ထားသောစိန်ခေါ်မှုများအပေါ် အကြံဉာဏ်ပေးခြင်းများကို ပြုလုပ်ပါသည်။
