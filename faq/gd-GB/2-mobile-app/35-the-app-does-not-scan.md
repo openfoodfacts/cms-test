@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "Chan eil an aplacaid a’ sganadh"
 order: 35
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplacaid-làimhe
+breadcrumbs: [ '/en-gb/', '/en-gb/2-app-mobile/' ]
 ---
 
-This may be due to
+Dh’fhaodadh seo a bhith mar thoradh air
 
-- a network problem
+- duilgheadas lìonra
 
-- a permissions problem
+- duilgheadas le ceadan
 
-- a barcode problem
+- duilgheadas còd-barra
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Cuir post-d thugainn tro Phròifil >> Cuir Fios Thugainn >> Cuir post-d thugainn.
 
-All relevant information should be attached to your request.
+Bu chòir a h-uile fiosrachadh buntainneach a bhith ceangailte ris an iarrtas agad.
