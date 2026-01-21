@@ -2,8 +2,8 @@
 title: "Ta yaya zan canza sunan mai amfani na?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-asusun-buɗe-abinci-na-asusu
+breadcrumbs: [ '/en-gb/', '/en-gb/1-asusun-bayanan-buɗe-abinci/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Abin takaici, ba zai yiwu ba. Idan da gaske kana son canzawa, dole ne ka goge asusunka ka ƙirƙiri sabo.
