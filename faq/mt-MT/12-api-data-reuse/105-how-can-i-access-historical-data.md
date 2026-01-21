@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Kif nista' naċċessa dejta storika?"
 order: 105
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-use mill-ġdid
+breadcrumbs: [ '/mt-gb/', '/mt-gb/12-api-data-reuse/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Bħalissa, ma noffrux dump ta' dejta storika (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Madankollu, għal prodotti individwali, huwa possibbli li taċċessa verżjonijiet preċedenti tad-dejta tal-prodott permezz tal-API jew fuq il-paġna tal-prodott permezz ta' reviżjonijiet.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Kull darba li prodott jiġi aġġornat, tinħoloq reviżjoni ġdida (ċifra tiżdied li tibda minn 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Pereżempju, biex tikseb l-ewwel reviżjoni (=l-ewwel verżjoni tal-prodott) ta' dan il-prodott, uża
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Bl-istess mod, il-parametru rev jista' jintuża mal-API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
