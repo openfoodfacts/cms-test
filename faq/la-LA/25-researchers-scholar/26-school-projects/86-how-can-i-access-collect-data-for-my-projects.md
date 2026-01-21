@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects ?"
-order: 86
+title: "Quomodo ad notitias pro meis inceptis accedere/colligere possum?"
+order: LXXXVI
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: XXVI-proiecta-scholastica
+parent_category: XXV investigatores et eruditi
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-inquisitores-schola/',
+    '/en-gb/25-investigatores-eruditi/26-proiecta-scholastica/'
   ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+In pagina principali Open Food Facts, in angulo sinistro superiore scrinii, est index volubilis. In fundo eius, optionem "quaestionis provectae" invenies, quam premere potes. Deinde tibi incumbit determinare quae criteria ad proiecta tua maxime pertinentia sint. Postquam electum est, eventus obtentos depromere poteris deorsum in fundo paginae volvendo et "Depromere eventus" premendo.
