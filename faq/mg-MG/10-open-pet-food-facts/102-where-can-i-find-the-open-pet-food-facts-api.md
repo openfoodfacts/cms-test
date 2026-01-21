@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Aiza no ahitako ny Open Pet Food Facts API?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Zava-misy 10 momba ny sakafom-biby fiompy misokatra
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/mg-gb/10-zava-misy-misokatra-momba-ny-sakafo-biby-ho-ankizy/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Mitovy 98% amin'ny Open Food Facts API ny Open Pet Food Facts API, ka raha mampiasa antontan-taratasy Open Food Facts API ianao dia tokony ho mazava tsara ny mombamomba azy.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Mariho fa tsy tohana ireo endri-javatra toy ny Knowledge Panels, Eco-Score, ary Nutri-Score (na noho ny lohahevitra, na noho ny codebase taloha).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
