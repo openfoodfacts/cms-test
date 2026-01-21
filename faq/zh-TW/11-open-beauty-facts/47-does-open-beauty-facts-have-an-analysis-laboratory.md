@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Open Beauty Facts 是否有分析實驗室？"
 order: 47
 lang: 英語-英國
-category: 11-open-beauty-facts
+category: 11個關於美容的公開訊息
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts 很遺憾沒有分析實驗室：我們是一個志工協會，目標是創建一個化妝品維基百科。
 
-That said, if you would like to help us provide more transparency for
+也就是說，如果您願意幫助我們提高透明度，
 
-consumers, you can use our iPhone, Android and
+消費者可以使用我們的 iPhone、Android 和
 
-Windows Phone to add products:
+Windows Phone 將會新增產品：
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+為了交流和討論該項目的各種可能用途，您
 
-can join the Facebook group of contributors:
+可加入Facebook貢獻者群組：
 
 https://www.facebook.com/groups/356858984359591/
