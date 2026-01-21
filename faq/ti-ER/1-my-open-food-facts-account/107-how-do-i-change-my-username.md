@@ -2,8 +2,8 @@
 title: "ከመይ ጌረ ስመ ተጠቃሚ ክቕይር ይኽእል?"
 order: 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-ክፉት-መግቢ-ሓቅታት-ሕሳበይ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/1-ክፉት-መግቢ-ሓቅታት-ሕሳበይ/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+እቲ ዘሕዝን ግን ዝከኣል ኣይኮነን። ብሓቂ ክትቅይር እንተደሊኻ ኣካውንትካ ደምሲስካ ሓድሽ ክትፈጥር ኣለካ።
