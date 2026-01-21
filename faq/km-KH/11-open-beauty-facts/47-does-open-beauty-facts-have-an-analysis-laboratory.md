@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "តើ Open Beauty Facts មានមន្ទីរពិសោធន៍វិភាគដែរឬទេ?"
+order: ៤៧
 lang: អង់គ្លេស-ជីកាបៃ
-category: 11-open-beauty-facts
+category: ១១-ការពិតអំពីសម្រស់បើកចំហ
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+ជាអកុសល Open Beauty Facts មិនមានមន្ទីរពិសោធន៍វិភាគទេ៖ យើងជាសមាគមអ្នកស្ម័គ្រចិត្តដែលមានគោលដៅបង្កើតវិគីភីឌាគ្រឿងសំអាង។
 
-That said, if you would like to help us provide more transparency for
+ទោះជាយ៉ាងណាក៏ដោយ ប្រសិនបើអ្នកចង់ជួយយើងផ្តល់តម្លាភាពបន្ថែមទៀតសម្រាប់
 
-consumers, you can use our iPhone, Android and
+អ្នកប្រើប្រាស់ អ្នកអាចប្រើ iPhone, Android និង
 
-Windows Phone to add products:
+Windows Phone ដើម្បីបន្ថែមផលិតផល៖
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+ហើយដើម្បីផ្លាស់ប្តូរ និងពិភាក្សាអំពីការប្រើប្រាស់ដែលអាចធ្វើទៅបាននៃគម្រោងនេះ អ្នក
 
-can join the Facebook group of contributors:
+អាចចូលរួមក្រុមហ្វេសប៊ុករបស់អ្នករួមចំណែក៖
 
 https://www.facebook.com/groups/356858984359591/
