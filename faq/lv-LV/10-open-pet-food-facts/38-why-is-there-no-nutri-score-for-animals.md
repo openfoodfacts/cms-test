@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Kāpēc dzīvniekiem nav Nutri-Score?"
 order: 38
 lang: lv-lv
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 fakti par mājdzīvnieku barību
+breadcrumbs:
+  [
+    '/lv-lv/',
+    '/lv-lv/10-atvērti-fakti-par-mājdzīvnieku-barību/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Katrs dzīvnieks ir atšķirīgs (čūskai nav tādas pašas uztura vajadzības kā kaķim vai sunim)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Pat viena veida dzīvniekiem, piemēram, suņiem, uztura vajadzības atšķiras atkarībā no mazkustīga dzīvesveida, iespējamas kastrācijas vai slimībām.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Tāpēc ir sarežģīti aprēķināt dzīvnieku barības vērtējumu, neiesaistot desmitiem pētnieku un neizveidojot desmitiem dažādu algoritmu, kas līdz šim nav darīts.
