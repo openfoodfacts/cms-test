@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Ndingatsvaga zita chairo rechigadzirwa neAPI here?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-reuse-use
+breadcrumbs: [ '/sn-gb/', '/sn-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Zvinosuwisa kuti hazvigoneke kutsvaga zviri nyore pazita rechigadzirwa chete uye nemazvo kuburikidza neAPI.
 
-Using a filter on category might help you make your search more precise though.
+Kushandisa sefa pane chikamu kunogona kukubatsira kuti kutsvaga kwako kuve kwakanyatsojeka.
