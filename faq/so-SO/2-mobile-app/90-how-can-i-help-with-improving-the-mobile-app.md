@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Sideen uga caawin karaa hagaajinta abka moobaylka?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-abka moobaylka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-abka-mobile-ka/' ]
 ---
 
-How can I help with improving the mobile app ?
+Sideen uga caawin karaa hagaajinta abka moobaylka?
 
-You can do so on the Mobile app repository
+Waxaad sidaas ku samayn kartaa kaydka abka moobaylka
