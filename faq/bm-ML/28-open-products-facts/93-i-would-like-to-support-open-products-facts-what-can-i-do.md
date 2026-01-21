@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
-order: 93
+title: "N b’a fɛ ka Open Products Facts dɛmɛ. Ne bɛ se ka mun kɛ ?"
+order: 93. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-da wulilenw-fɛnw-tiɲɛw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/28-da wulilen-fɛnw-tiɲɛw/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+Aw ye an ka wiki ɲɛ kalan, an ye fɛɛrɛw jira walasa ka se ka don a la: https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+Walasa ka Open Products Facts dɛmɛ, aw bɛ se ka nin sugandi ninnu jateminɛ, minnu kelen-kelen bɛɛ bɛ bɛn bolomafara suguya wɛrɛw ma:
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- Baarakɛlaw/Jamana dɛmɛbagaw ka ɲɛsin fɛn dafalenw tiɲɛniw ma :
+  Baarakɛminɛnw dɛmɛni nafa ka bon kosɛbɛ walasa ka yelifɛn tiimɛ, min ye kunnafonidilan sɛrɛkili bɛɛ lajɛlen ye, fɛn dilannenw jatebɔ, ani sɛrɛkili furaw dalajɛli, ka tɛmɛn 20000+ kan, o ye fɛn dafalenw tiɲɛniw kuntilenna jɔnjɔn ye. Nin yelifɛn in yɔrɔ nafama caman ma wari sɔrɔ fɔlɔ, wa aw ka wariko dɛmɛ bɛ se ka nɔba bila. Aw ka bolomafaraw bɛ se ka dɛmɛ don ka yiriwali nafamaw ni fɛnsɔrɔsiraw musakaw sɔrɔ. Walasa ka dɛmɛ don wariko ta fan fɛ, aw bɛ se ka kuma contact@openfoodfacts.org kan
+- Donanw dɛmɛbagaw ka baara kɛ ni Open Products Facts App ye:
+  Donanw dɛmɛbagaw nafa ka bon kosɛbɛ Open Products Facts sɛgɛsɛgɛli la. Ni i bɛ baara kɛ ni Android porogaramu ye walasa ka fɛn kuraw kunnafoni fara a kan, ka sɛbɛnni minnu bɛ yen, olu kuraya, walima ka kunnafoniw sɛgɛsɛgɛ, i bɛ dɛmɛ don ka kunnafonidilanw bonya ani k’u labɛn. O jɛ-ka-baara in bɛ kɛ sababu ye ka nafolo barikama ni dannaya bɛ se ka da min kan bɛɛ ye.
+- Fɛɛrɛbɔlaw ka dɛmɛbagaw ka ɲɛsin Open Products Facts ma:
+  Ni fɛɛrɛko seko b’i bolo yɔrɔw la i n’a fɔ porogaramuw, kunnafonidilanw sɛgɛsɛgɛli, walima baarakɛlaw ka ko kɛlenw dilanni, i ka dɔnniya bɛ se ka nafa caman lase Open Products Facts ma. Ka i sen don porogaramu in dilanni na, k’a baarakɛcogo ɲɛ, walima ka baarakɛlaw ka baarakɛcogo ɲɛ, o ye dɛmɛ nafamaw ye. Walasa k’i sen don a la, i ka fara #openproductsfacts Slack kan, Open Products Facts jɛkulu bɛ jɛ ka baara kɛ yɔrɔ min na. Aw bɛ se ka nin Slack baarakɛyɔrɔ in ladɛrɛsi sɔrɔ Open Food Facts siti kan.
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+Dɛmɛ suguya kelen-kelen bɛɛ nafa ka bon Open Products Facts yiriwali n’a ɲɛtaa la, ka dɛmɛ don ka sigida sabatilen ni kunnafoni di bɛɛ ma.
