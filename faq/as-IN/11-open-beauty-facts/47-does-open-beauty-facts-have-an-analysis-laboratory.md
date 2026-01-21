@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "Open Beauty Facts ৰ বিশ্লেষণ পৰীক্ষাগাৰ আছেনে?"
+order: ৪৭
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: ১১-মুকলি-সৌন্দৰ্য্য-তথ্য
+breadcrumbs: [ '/as-gb/', '/as-gb/11-মুকলি-সৌন্দৰ্য্য-তথ্য/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+মুকলি সৌন্দৰ্য্য তথ্যৰ দুৰ্ভাগ্যজনকভাৱে বিশ্লেষণ পৰীক্ষাগাৰ নাই: আমি স্বেচ্ছাসেৱকৰ এটা সংঘ যাৰ লক্ষ্য হৈছে প্ৰসাধন সামগ্ৰীৰ ৱিকিপিডিয়া সৃষ্টি কৰা।
 
-That said, if you would like to help us provide more transparency for
+এইখিনিতে ক’ব পাৰি যে যদি আপুনি আমাক অধিক স্বচ্ছতা প্ৰদান কৰাত সহায় কৰিব বিচাৰে তেন্তে...
 
-consumers, you can use our iPhone, Android and
+গ্ৰাহকসকলৰ বাবে, আপুনি আমাৰ আইফোন, এণ্ড্ৰইড আৰু...
 
-Windows Phone to add products:
+পণ্য যোগ কৰিবলৈ Windows Phone:
 
-https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
+https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner ৰ দ্বাৰা প্ৰকাশিত
 
-And to exchange and discuss the possible uses of the project, you
+আৰু প্ৰকল্পটোৰ সম্ভাৱ্য ব্যৱহাৰৰ বিনিময় আৰু আলোচনা কৰিবলৈ, আপুনি...
 
-can join the Facebook group of contributors:
+অৱদানকাৰীৰ ফেচবুক গোটত যোগদান কৰিব পাৰে:
 
-https://www.facebook.com/groups/356858984359591/
+https://www.facebook.com/groups/৩৫৬৮৫৮৯৮৪৩৫৯৫৯১/
