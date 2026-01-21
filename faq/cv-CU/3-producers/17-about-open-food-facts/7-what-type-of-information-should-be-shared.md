@@ -1,27 +1,27 @@
 ---
-title: "What type of information should be shared?"
+title: "Мӗнле информацие пайламалла?"
 order: 7
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-уҫӑ-апат-ҫимӗҫ-фактсем ҫинчен
+parent_category: 3-продюсерсем
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-продюсерсем/',
+    '/cr-gb/3-производительсем/17-уҫӑ-апат-фактсем-ҫинчен/'
   ]
 ---
 
-Any information you have is welcome, from nutritional information to packaging information.
+Сирӗн пур информацие те хапӑл тӑватпӑр, апат-ҫимӗҫ ҫинчен калакан информацирен пуҫласа упаковка ҫинчен калакан информаци таранах.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Ҫакӑ тулли файл йӗркелеме, пур баллсене те тӗрӗс шутласа кӑларма тата пӗтӗмӗшле илсен, потребительсем хаклакан уҫӑмлӑх тума май парать.
 
-However we do recommend you prioritize the following fields:
+Анчах та эпир сире ҫак уйсене мала хума сӗнетпӗр:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
+- Тавар категорийӗ (тӗслӗхрен, ӗҫмелли япаласем, сыр, йогурт тата ытти те)
+- Тавар ячӗ
 - Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- тата ингредиентсем, ку уй обязательнӑй мар, анчах та оптималлӑ усӑ курма тата баллсене палӑртма сӗнет
 
-→ For more details, we invite you to download our user guide and/or consult our video tutorials :-)
+→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн пользовательски руководствӑна тата/е пирӗн видеоуроксемпе паллашма сӗнетпӗр :-)
