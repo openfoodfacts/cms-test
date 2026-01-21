@@ -2,13 +2,13 @@
 title: "Possu scaricà i dati di Open Food Facts?"
 order: 9
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-fatti-nantu-à-l'alimentu-apertu
+parent_category: 3 pruduttori
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-pruduttori/',
+    '/en-gb/3-pruduttori/17-à propositu-fatti-nantu-à-l''alimentazione-aperta/'
   ]
 ---
 
