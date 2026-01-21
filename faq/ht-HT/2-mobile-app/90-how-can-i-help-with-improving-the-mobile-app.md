@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Kijan m ka ede amelyore aplikasyon mobil lan?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasyon mobil
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasyon-mobil/' ]
 ---
 
-How can I help with improving the mobile app ?
+Kijan m ka ede amelyore aplikasyon mobil lan?
 
-You can do so on the Mobile app repository
+Ou ka fè sa nan depo aplikasyon mobil lan
