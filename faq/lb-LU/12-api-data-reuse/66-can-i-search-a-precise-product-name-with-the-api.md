@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
+title: "Kann ech e präzise Produktnumm mat der API sichen?"
 order: 66
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-Daten-Wiederverwendung
+breadcrumbs: [ '/lb-gb/', '/lb-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Leider ass et nach net méiglech, einfach nëmmen nom Produktnumm a präzis iwwer d'API ze sichen.
 
-Using a filter on category might help you make your search more precise though.
+E Filter no Kategorie ze benotzen kéint Iech hëllefen, Är Sich méi präzis ze maachen.
