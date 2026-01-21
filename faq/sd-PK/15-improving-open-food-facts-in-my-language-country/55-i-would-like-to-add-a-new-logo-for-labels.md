@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
+title: "مان ليبلن لاءِ هڪ نئون لوگو شامل ڪرڻ چاهيان ٿو."
 order: 55
 lang: اين جي بي
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-منهنجي-ٻولي-ملڪ ۾-کليل-کاڌي-حقيقتن کي بهتر بڻائڻ
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/en-gb/15-منهنجي-ٻولي-ملڪ ۾-کليل-کاڌي-حقيقتن کي بهتر بڻائڻ/'
   ]
 ---
 
-Here is the process:
+هتي عمل آهي:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- ليبل جي ٽيڪسونومي ۾ ليبل جو روايتي نالو ڳوليو (اهو ليبل جي هم معنيٰ لفظن جي فهرست ۾ پهريون شيءِ آهي، مثال طور: en:100% vegetable)
+- لوگو سٺي معيار ۾ حاصل ڪريو: حصو وٺندڙ جي تصوير استعمال ڪرڻ کان پاسو ڪريو جيڪي هن ڪيس لاءِ مناسب نه آهن؛ گھڻن ليبلن ۾ سرڪاري ويب سائيٽن جا اعليٰ معيار جا لوگو هوندا آهن، ڪڏهن ڪڏهن ویکٹر فارميٽ ۾ (اسان لاءِ اڃا به بهتر)؛ جيستائين اسان هڪ لوگو استعمال ڪندا آهيون ته جيئن ڪنهن پراڊڪٽ جي پيڪنگنگ تي
+  ليبل جي موجودگي بابت معروضي طور تي آگاهي ڏني وڃي، اجازت وٺڻ جي ڪا ضرورت ناهي.
+- فائل جو نالو هن طرح رکو: name-of-the-label.[width]x90.png جتي ويڪر علامت (لوگو) جي ويڪر آهي جڏهن اهو 90 پڪسل اوچو هوندو آهي. فائلن جا نالا اڻ تلفظ ٿيل هجڻ گهرجن، ننڍن اکرن ۾ ۽ خالي هنڌن جي بدران "-" استعمال ڪرڻ گهرجن.
+- پوءِ ڊاريڪٽري ۾ لوگو شامل ڪريو جيڪو ان جي معياري نالي سان ملندو آهي. جيڪڏهن معياري نالو en:something آهي، ته پوءِ انهن کي /en/ ۾ هجڻ گهرجي. لوگوز جي روٽ ڊاريڪٽري https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang آهي.
