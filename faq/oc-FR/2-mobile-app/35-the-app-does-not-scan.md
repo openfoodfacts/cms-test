@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "L'aplicacion escaneja pas"
 order: 35
 lang: es-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplicacion-mobila
+breadcrumbs: [ '/es-gb/', '/es-gb/2-aplicacion-mobila/' ]
 ---
 
-This may be due to
+Aquò pòt èsser degut a
 
-- a network problem
+- un problèma de ret
 
-- a permissions problem
+- un problèma d'autorizacions
 
-- a barcode problem
+- un problèma de còde de barras
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Mandatz-nos un corrièl via Perfil >> Contactatz-nos >> Mandatz-nos un corrièl.
 
-All relevant information should be attached to your request.
+Totas las informacions pertinentas deurián èsser jonchas a vòstra demanda.
