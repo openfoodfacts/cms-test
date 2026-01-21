@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Ҳамчун як тамға, оё эҷод кардани ҳисоб муҳим аст?"
 order: 76
 lang: en-gb
-category: 23-labels
+category: 23-тамғакоғаз
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Ҳамчун як тамға, азбаски шумо истеҳсолкунандаи мустақими маҳсулот нестед, ба шумо лозим нест, ки ҳисоби истеҳсолкунанда эҷод кунед.
