@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
-order: 76
+title: "ഒരു ലേബൽ എന്ന നിലയിൽ, ഒരു അക്കൗണ്ട് സൃഷ്ടിക്കേണ്ടത് പ്രധാനമാണോ?"
+order: 76 (76)
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-ലേബലുകൾ
+breadcrumbs: [ '/എംഎൽ-ജിബി/', '/en-gb/23-ലേബലുകൾ/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+ഒരു ലേബൽ എന്ന നിലയിൽ, നിങ്ങൾ ഉൽപ്പന്നങ്ങളുടെ നേരിട്ടുള്ള നിർമ്മാതാവ് അല്ലാത്തതിനാൽ, നിങ്ങൾ ഒരു നിർമ്മാതാവിന്റെ അക്കൗണ്ട് സൃഷ്ടിക്കേണ്ടതില്ല.
