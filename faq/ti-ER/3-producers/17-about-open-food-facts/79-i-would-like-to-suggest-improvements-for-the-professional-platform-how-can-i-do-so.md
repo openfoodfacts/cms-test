@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
+title: "ንፕሮፌሽናል መድረኽ ምምሕያሻት ክሕብር እፈቱ፣ ከመይ ጌረ ክገብሮ ይኽእል ?"
 order: 79
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት
+parent_category: 3-ኣፍረይቲ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/ትግርኛ-ግብ/',
+    '/en-gb/3-ኣፍረይቲ/',
+    '/en-gb/3-producers/17-ብዛዕባ-ክፉት-መግቢ-ሓቅታት/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+ኣብ ግሉጽነት መግቢ ክትሳተፉ ዘለኩም ድልውነት የቐንየልና!
 
-The best way to share feedback is by filling in this form.
+ርእይቶ ንምክፋል እቲ ዝበለጸ መንገዲ ነዚ ቅጥዒ ብምምላእ እዩ።
 
-You can also contact us to make suggestions either via our forum or via Slack.
+ብተወሳኺ ብመንገዲ መድረኽና ወይ ብመንገዲ ስላክ ሓሳብ ክትህቡና ትኽእሉ ኢኹም።
 
-Join our Slack and enter the channel #producers to get in touch with us.
+ኣብ ስላክና ተጸንቢርኩም ኣብ ቻነል #ኣፍረይቲ ብምእታው ምሳና ክትራኸቡ ትኽእሉ ኢኹም።
