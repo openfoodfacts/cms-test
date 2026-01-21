@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Ke tsenya jang dikumo tsa me mo Dintlhang tsa Bontle jo bo Bulegileng?"
 order: 67
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Dintlha tsa bontle tse di bulegileng di le 11
+breadcrumbs: [ '/tsn-gb/', '/ts-gb/11-bule-dintlha-tsa-bontle/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Ikgolaganye le batlhagisi@openfoodfacts.org kgotsa ya kwa go
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.dijo tse di bulegileng.org morago ga moo ikgolaganye le batlhagisi@dijo tse di bulegileng.org go bona thomelontle e e kgethegileng
