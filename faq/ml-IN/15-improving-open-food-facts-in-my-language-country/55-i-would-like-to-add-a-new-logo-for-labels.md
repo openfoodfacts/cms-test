@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "ലേബലുകൾക്കായി ഒരു പുതിയ ലോഗോ ചേർക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു."
+order: 55 अनुक्षित
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 15-improving-open-food-facts-in-my-language-country
+category: എന്റെ ഭാഷയിലുള്ള രാജ്യത്ത് 15 ഭക്ഷണസാധനങ്ങൾ മെച്ചപ്പെടുത്തുന്നു
 breadcrumbs:
   [
-    '/en-gb/',
+    '/എംഎൽ-ജിബി/',
     '/en-gb/15-improving-open-food-facts-in-my-language-country/'
   ]
 ---
 
-Here is the process:
+പ്രക്രിയ ഇതാ:
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- ലേബലുകളുടെ ടാക്സോണമിയിൽ ലേബലിന്റെ കാനോനിക്കൽ നാമം കണ്ടെത്തുക (ലേബലുകളുടെ പര്യായപദങ്ങളുടെ പട്ടികയിലെ ആദ്യ ഇനമാണിത്, ഉദാ. en:100% പച്ചക്കറി)
+- ലോഗോ നല്ല നിലവാരത്തിൽ നേടുക: ഈ സാഹചര്യത്തിന് അനുയോജ്യമല്ലാത്ത സംഭാവകന്റെ ഫോട്ടോ ഉപയോഗിക്കുന്നത് ഒഴിവാക്കുക; മിക്ക ലേബലുകളിലും ഔദ്യോഗിക വെബ്‌സൈറ്റുകളുടെ ഉയർന്ന നിലവാരമുള്ള ലോഗോകൾ ഉണ്ട്, ചിലപ്പോൾ വെക്റ്റർ ഫോർമാറ്റിൽ (ഞങ്ങൾക്ക് ഇതിലും മികച്ചത്); ഒരു ഉൽപ്പന്നത്തിന്റെ പാക്കേജിംഗിൽ ഒരു
+  ലേബലിന്റെ സാന്നിധ്യത്തെക്കുറിച്ച് വസ്തുനിഷ്ഠമായി അറിയിക്കാൻ ഞങ്ങൾ ഒരു ലോഗോ ഉപയോഗിക്കുന്നിടത്തോളം, അനുമതി ചോദിക്കേണ്ട ആവശ്യമില്ല.
+- ഫയലിന് ഇങ്ങനെ പേര് നൽകുക: name-of-the-label.[width]x90.png ഇവിടെ width എന്നത് ലോഗോ 90 പിക്സൽ ഉയരത്തിലായിരിക്കുമ്പോൾ അതിന്റെ വീതിയാണ്. ഫയൽ നാമങ്ങൾ ഉച്ചാരണരഹിതമായിരിക്കണം, ചെറിയക്ഷരത്തിലായിരിക്കണം, സ്‌പെയ്‌സുകൾക്ക് പകരം "-" ഉപയോഗിക്കണം.
+- തുടർന്ന് അതിന്റെ കാനോനിക്കൽ നാമത്തിന് അനുയോജ്യമായ ലോഗോ ഡയറക്ടറിയിൽ ചേർക്കുക. കാനോനിക്കൽ പേര് en:something ആണെങ്കിൽ, അവ /en/ ൽ ആയിരിക്കണം. ലോഗോകൾക്കുള്ള റൂട്ട് ഡയറക്ടറി https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang ആണ്.
