@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
-order: 56
+title: "মুক্ত খাদ্যৰ তথ্য মোৰ ভাষালৈ কেনেকৈ অনুবাদ কৰিব পাৰি ?"
+order: ৫৬
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: ১৫-মোৰ-ভাষা-দেশত-মুকলি-খাদ্য-তথ্য-উন্নত কৰা
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/as-gb/',
+    '/as-gb/15-মোৰ-ভাষা-দেশত-মুক্ত-খাদ্য-তথ্য-উন্নত/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+https://wiki.openfoodfacts.org/Country_Support লৈ যাওক
