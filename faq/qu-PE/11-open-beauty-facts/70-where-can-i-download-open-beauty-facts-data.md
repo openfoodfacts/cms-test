@@ -1,9 +1,13 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "¿Maymantataq Open Beauty Facts nisqamanta willakuykunata uraykachiyman?"
+order: 70. 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-kichasqa-sumaq-chiqakuna
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/quch-gb/11-kichasqa-sumaq-chiqakuna/'
+  ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data p'anqaqa kunan p'akisqañam. Chay willakuykunataqa kaypi uraykachiyta atinki https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
