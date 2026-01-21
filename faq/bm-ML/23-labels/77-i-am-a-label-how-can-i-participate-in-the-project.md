@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
-order: 77
+title: "Ne ye labeli ye, ne bɛ se ka n sen don poroze la cogo di?"
+order: 77. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-labeliw
+breadcrumbs: [ '/bamanankan-gb/ .', '/en-gb/23-labɛnw/ .' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+I n’a fɔ labeli min bɛ bɛn kosɛbɛ, o ye ka kuma an fɛ (producers@openfoodfacts.org) ani ka fɛnw lisɛli ci an ma, i ka labeli jiralen bɛ minnu kan walasa an ka se k’u fara fɛnw kan minnu bɛ tali kɛ o la.
