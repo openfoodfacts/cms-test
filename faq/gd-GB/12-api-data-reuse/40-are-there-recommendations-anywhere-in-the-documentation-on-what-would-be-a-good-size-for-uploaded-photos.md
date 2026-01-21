@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "A bheil molaidhean ann an àite sam bith anns na sgrìobhainnean air dè a bhiodh na mheud math airson dealbhan a luchdachadh suas?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ath-chleachdadh dàta-api-12
+breadcrumbs: [ '/en-gb/', '/gb-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Dh’fhaodadh sin a bhith an urra ri dùthchannan, ma tha an lìonra slaodach no daor. is dòcha nach eil rud sam bith os cionn 5000 piogsail ann an cuideam no àirde glè fheumail. agus ma dh’fhaodas tu mothachadh ann an dòigh air choireigin gu bheil an lìonra sin slaodach, bhiodh ìomhaigh 2000 piogsail math (gu cinnteach nas fheàrr na bhith às aonais ìomhaigh!)
