@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Mpamorona marika aho, ahoana no ahafahako mandray anjara amin'ny tetikasa?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: Etikety 23
+breadcrumbs: [ '/en-gb/', '/en-gb/marika-23/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Amin'ny maha-etikety azy, ny zavatra tena ilaina indrindra dia ny mifandray aminay (producers@openfoodfacts.org) ary mandefa aminay ny lisitry ny vokatra misy ny etikety anao mba hahafahanay manampy azy ireo amin'ny takelaka vokatra mifandraika amin'izany.
