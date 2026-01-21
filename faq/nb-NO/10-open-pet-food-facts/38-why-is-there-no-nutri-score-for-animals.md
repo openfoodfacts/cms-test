@@ -1,13 +1,13 @@
 ---
-title: "Hvorfor finnes det ingen Nutri-Score for dyr?"
+title: "Hvorfor er det ingen Nutri-Score for dyr?"
 order: 38
 lang: no-no
-category: 10-åpne-fakta-om-kjæledyrmat
-breadcrumbs: [ '/en-gb/', '/no-gb/10-åpne-fakta-om-kjæledyrmat/' ]
+category: 10-open-pet-food-facts
+breadcrumbs: [ '/radgiver/', '/nb-NO open-pet-food-facts/' ]
 ---
 
-Hvert dyr er forskjellig (en slange har ikke de samme ernæringsbehovene som en katt eller en hund)
+Hvert dyr er forskjellig (en slange har ikke samme ernæringsbehov som en katt eller en hund)
 
-Selv innenfor samme dyretype, som hunder, varierer ernæringsbehovene avhengig av stillesittende livsstil, mulig kastrering eller sykdommer.
+Også i samme type dyr som hunder, ernæringsbehovene varierer avhengig av levetiden til beroligende livsstil, en mulig kastrasjon eller sykdom.
 
-Det er derfor komplisert å beregne en poengsum for dyrefôr uten å involvere dusinvis av forskere og lage dusinvis av forskjellige algoritmer, noe som ikke har blitt gjort til dags dato.
+Det er derfor komplisert å beregne et skår for dyrefôr uten å involvere dusinvis av forskere og skape dusinvis av ulike algoritmer. Det er til nå ikke gjort rede for.
