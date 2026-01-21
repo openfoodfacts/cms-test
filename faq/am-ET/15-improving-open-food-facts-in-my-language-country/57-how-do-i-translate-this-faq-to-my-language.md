@@ -1,13 +1,9 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "ይህንን ተደጋጋሚ ጥያቄዎች ወደ ቋንቋዬ እንዴት መተርጎም እችላለሁ?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
-breadcrumbs:
-  [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
-  ]
+category: 15-በቋንቋዬ-አገር-የተሻሻሉ-ክፍት-ምግብ-እውነታዎች
+breadcrumbs: [ '/en-gb/', '/en-gb/15-በቋንቋዬ-አገር-የሚሻሻል-ክፍት-ምግብ-እውነታዎች/' ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+የእውቀት መሰረትን ለማስተካከል እባክዎን contact@openfoodfacts.org ን ይጠይቁ።
