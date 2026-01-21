@@ -1,15 +1,15 @@
 ---
-title: "Is access to the Pro platform and the import of data free?"
+title: "L'accessu à a piattaforma Pro è l'impurtazione di dati sò gratuiti?"
 order: 72
 lang: en-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-fatti-nantu-à-l'alimentu-apertu
+parent_category: 3 pruduttori
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/en-gb/3-pruduttori/',
+    '/en-gb/3-pruduttori/17-à propositu-fatti-nantu-à-l''alimentazione-aperta/'
   ]
 ---
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge. We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Assolutamente, è serà per sempre.Tutti i servizii furniti da Open Food Facts sò gratuiti. Simu assai cuntenti chì avete decisu di cuntribuisce i vostri dati di produttu à a trasparenza alimentaria, è vi ringraziemu per questu.
