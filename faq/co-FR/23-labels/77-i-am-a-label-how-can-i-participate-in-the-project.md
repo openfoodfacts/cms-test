@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Sò una casa discugràfica, cumu possu participà à u prugettu ?"
 order: 77
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-etichette
+breadcrumbs: [ '/en-gb/', '/en-gb/23-etichette/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Cum'è etichetta, a cosa più pertinente da fà hè di cuntattà ci (producers@openfoodfacts.org) è mandà ci a lista di i prudutti nantu à i quali hè affissata a vostra etichetta per pudè aghjunghje li nantu à e schede di prudutti cunnesse.
