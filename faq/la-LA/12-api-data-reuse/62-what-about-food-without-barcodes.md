@@ -1,31 +1,31 @@
 ---
-title: "What about food without barcodes ?"
-order: 62
+title: "Quid de cibo sine codicibus linearibus?"
+order: LXII
 lang: en-gb
 category: 12-api-data-reuse
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+"Open Food Facts" solum informationem de cibo involucris continet. Pro valoribus mediis fructuum et olerum (exempli gratia, lycopersicorum vel bananarum) aliorumque ciborum, unam ex officialibus nationalibus databasibus nutritionis uti potes.
 
-Note: The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: https://world.openfoodfacts.org/contact
+Nota: Index infra nonnullas ex maximis momenti nationalibus repositoriis ciborum continet. Si aliam quandam basim datorum in indice includi debere putas, nobis scribe ad: https://world.openfoodfacts.org/contact
 
-List of National Food Databases
+Index Nationalium Databaseorum Ciborum
 
-- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-- Belgium - NUBEL - Belgian Food Composition Data: https://www.internubel.be
-- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
-- Czech Republic - Food Composition Database at National Institute of Public Health: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
-- Denmark - Danish Food Composition Databank: https://frida.fooddata.dk/?lang=en
-- Estonia - Estonian Food Composition Database: https://tka.nutridata.ee/en/
-- Finland - Finnish Food Composition Database - FINELI: https://fineli.fi/fineli/en/index
-- France - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
-- Germany - Souci-Fachmann-Kraut Online Database: https://www.sfk.online/#/home or the official German Database: Bundeslebensmittelschlüssel: https://blsdb.de/
-- Italy - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
-- Netherlands - Dutch Food Composition Database: https://www.rivm.nl/en/dutch-food-composition-database
-- Norway - The Norwegian Food Composition Table 2006: https://www.matvaretabellen.no/?language=en
-- Poland - Food Composition Tables: http://www.izz.waw.pl/en/?lang=en
-- Spain - Spanish Food Composition Database - BEDCA: https://www.bedca.net/bdpub/index.php
-- Switzerland - Swiss Food Composition Database: https://www.naehrwertdaten.ch/de/
-- UK - Composition of foods integrated dataset (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
-- USA - USDA: https://ndb.nal.usda.gov/
+- Australia - FSANZ - NUTTAB 2006: https://www.foodstandards.gov.au/media/documenta/FSANZ%20Conf%20PostersNUTTAB.pdf
+- Belgium - NUBEL - Data Compositionis Ciborum Belgicarum: https://www.internubel.be
+- Canada - FCEN: https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp
+- Respublica Bohemica - Index Compositionis Ciborum apud Institutum Nationale Salutis Publicae: http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp
+- Dania - Argentaria Compositionis Ciborum Danica: https://frida.fooddata.dk/?lang=en
+- Estonia - Index Compositionis Ciborum Estonicae: https://tka.nutridata.ee/en/
+- Finnia - Index Finnicus Compositionis Ciborum - FINELI: https://fineli.fi/fineli/en/index
+- Francia - CIQUAL: https://www.anses.fr/en/search/site/Table%20ciqual
+- Germania
+- Italia - Banca Dati di Composizione degli Alimenti CREA: https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati
+- Nederlandia - Index Compositionis Ciborum Nederlandicus: https://www.rivm.nl/en/dutch-food-composition-database
+- Norvegia - Tabula Norvegica Compositionis Ciborum 2006: https://www.matvaretabellen.no/?language=en
+- Polonia - Tabulae Compositionis Ciborum: http://www.izz.waw.pl/en/?lang=en
+- Hispania - Index Compositionis Ciborum Hispanicae - BEDCA: https://www.bedca.net/bdpub/index.php
+- Helvetia - Index Compositionis Ciborum Helveticorum: https://www.naehrwertdaten.ch/de/
+- Britannia - Compositio ciborum, dataset integratum (CoFID): https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+- USA - USDA: https://ndb.nal.usda.gov/
