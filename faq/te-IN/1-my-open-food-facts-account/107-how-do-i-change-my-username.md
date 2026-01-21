@@ -2,8 +2,8 @@
 title: "నా యూజర్ పేరును ఎలా మార్చుకోవాలి?"
 order: 107 - अनुक्षित
 lang: en-gb తెలుగు in లో
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-నా-ఓపెన్-ఫుడ్-ఫాక్ట్స్-ఖాతా
+breadcrumbs: [ '/en-gb/', '/en-gb/1-నా-ఓపెన్-ఫుడ్-ఫాక్ట్స్-అకౌంట్/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+దురదృష్టవశాత్తు, అది సాధ్యం కాదు. మీరు నిజంగా మార్చాలనుకుంటే, మీ ఖాతాను తొలగించి కొత్తదాన్ని సృష్టించాలి.
