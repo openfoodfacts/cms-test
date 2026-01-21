@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
-order: 70
+title: "Ɛhe na metumi atwe Open Beauty Facts data?"
+order: 70 na ɛwɔ hɔ
 lang: tw-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-abue-ahoɔfɛ-nokwasɛm ahorow
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/11-bue-ahoɔfɛ-nokwasɛm/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+/data krataafa no abubu mprempren. Wubetumi atwe data no wɔ https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
