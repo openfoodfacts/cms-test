@@ -2,8 +2,12 @@
 title: "Ngingalishintja njani ligama lami lekusebentisa?"
 order: 107
 lang: si-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-i-akhawunti yami-levulekile-yekudla
+breadcrumbs:
+  [
+    '/si-gb/',
+    '/si-gb/1-i-akhawunti-yami-yekudla-levulekile/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Ngelishwa, akunakwenteka. Nangabe ufuna kushintja mbamba, kufanele ususe i-akhawunti yakho bese udala lensha.
