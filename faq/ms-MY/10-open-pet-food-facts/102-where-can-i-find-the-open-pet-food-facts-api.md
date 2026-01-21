@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Di manakah saya boleh menemui API Fakta Makanan Haiwan Peliharaan Terbuka?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-fakta-makanan-haiwan-terbuka
+breadcrumbs: [ '/en-gb/', '/ms-gb/10-fakta-makanan-haiwan-terbuka/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+API Fakta Makanan Haiwan Peliharaan Terbuka adalah 98% sama dengan API Fakta Makanan Terbuka, jadi jika anda menggunakan dokumentasi API Fakta Makanan Terbuka, anda sepatutnya mempunyai pandangan yang agak jelas tentang API Fakta Makanan Haiwan Peliharaan Terbuka.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Ambil perhatian bahawa ciri seperti Panel Pengetahuan, Eco-Score, Nutri-Score tidak disokong (sama ada disebabkan oleh topik atau pangkalan kod lama).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
