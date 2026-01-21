@@ -1,11 +1,11 @@
 ---
-title: "How do I import my products into Open Beauty Facts?"
+title: "Kā importēt savus produktus Open Beauty Facts platformā?"
 order: 67
 lang: lv-lv
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 atklāti skaistuma fakti
+breadcrumbs: [ '/lv-lv/', '/lv-lv/11-atvērt-skaistuma-fakti/' ]
 ---
 
-Contact producteurs@openfoodfacts.org or go directly to
+Sazinieties ar mums pa e-pastu producteurs@openfoodfacts.org vai dodieties tieši uz
 
-https://world.pro.openfoodfacts.org then contact producteurs@openfoodfacts.org for a special export
+https://world.pro.openfoodfacts.org, pēc tam sazinieties ar producteurs@openfoodfacts.org, lai saņemtu īpašu eksporta piedāvājumu.
