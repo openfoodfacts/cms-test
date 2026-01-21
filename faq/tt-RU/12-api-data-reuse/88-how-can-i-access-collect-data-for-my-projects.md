@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "Проектларым өчен мәгълүматларны ничек алырга/җыярга мөмкин?"
 order: 88
 lang: en-gb
-category: 12-api-data-reuse
+category: 12-api-мәгълүматларын кабат куллану
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+"Ачык азык-төлек фактлары"ның төп битендә, экранның югары сул почмагында, скроллинг менюсы бар. Аның аскы өлешендә сез "киңәйтелгән эзләү" вариантын табарсыз, аңа басарга мөмкин. Аннары сезнең проект(лар)ыгыз өчен иң мөһим булган критерийларны билгеләү сезнең үзегездән тора. Сайланганнан соң, сез битнең аскы өлешендә аска тәгәрәтеп һәм "Нәтиҗәләрне йөкләү" төймәсенә басып, алынган нәтиҗәләрне йөкли алачаксыз.
 
-You can also consult:
+Шулай ук түбәндәгеләр белән киңәшләшергә мөмкин:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- Безнең API документациясе: https://openfoodfacts.github.io/api-documentation/
+- Open Food Facts' куллану шартлары: https://world.openfoodfacts.org/terms-of-use
+- Безнең мәгълүматлар буенча: https://world.openfoodfacts.org/data
