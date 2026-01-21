@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "តើខ្ញុំអាចចូលមើល/ប្រមូលទិន្នន័យសម្រាប់គម្រោងរបស់ខ្ញុំដោយរបៀបណា?"
+order: ៨៨
 lang: អង់គ្លេស-ជីកាបៃ
-category: 12-api-data-reuse
+category: ការប្រើប្រាស់ទិន្នន័យឡើងវិញ 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+នៅលើទំព័រមេរបស់ Open Food Facts នៅជ្រុងខាងឆ្វេងខាងលើនៃអេក្រង់ មានម៉ឺនុយរំកិលមួយ។ នៅផ្នែកខាងក្រោមរបស់វា អ្នកនឹងឃើញជម្រើស "ការស្វែងរកកម្រិតខ្ពស់" ដែលអ្នកអាចចុចលើវាបាន។ បន្ទាប់មក វាអាស្រ័យលើអ្នកក្នុងការកំណត់ថាលក្ខណៈវិនិច្ឆ័យណាដែលពាក់ព័ន្ធបំផុតចំពោះគម្រោងរបស់អ្នក។ នៅពេលជ្រើសរើសរួច អ្នកនឹងអាចទាញយកលទ្ធផលដែលទទួលបានដោយរំកិលចុះក្រោមនៅផ្នែកខាងក្រោមនៃទំព័រ ហើយចុចលើ "ទាញយកលទ្ធផល"។
 
-You can also consult:
+អ្នកក៏អាចពិគ្រោះជាមួយ៖
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- ឯកសារ API របស់យើង៖ https://openfoodfacts.github.io/api-documentation/
+- លក្ខខណ្ឌនៃការប្រើប្រាស់របស់ Open Food Facts៖ https://world.openfoodfacts.org/terms-of-use
+- លើទិន្នន័យរបស់យើង៖ https://world.openfoodfacts.org/data
