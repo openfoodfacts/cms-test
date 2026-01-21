@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "Manana tetikasa any an-tsekoly aho, te hampiasa ny angon-drakitry ny Open Food Facts aho, azoko atao ve izany?"
 order: 85
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: Tetikasa-sekoly-26
+parent_category: Mpikaroka-manam-pahaizana 25
 breadcrumbs:
   [
     '/en-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/mg-gb/mpikaroka-manam-pahaizana-25/tetikasa-sekoly-26/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Ny Open Food Facts dia tahiry misokatra, tetikasa misokatra izay miasa eo ambanin'ny fahazoan-dàlana ODbL, noho izany raha mbola manaiky ny fepetra takian'ny fahazoan-dàlana ODbL ianao dia afaka mampiasa indray ny angon-drakitray ho an'ny tetikasanao :).
