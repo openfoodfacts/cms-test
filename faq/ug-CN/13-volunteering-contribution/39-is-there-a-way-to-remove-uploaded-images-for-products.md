@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "مەھسۇلاتلارنىڭ يۈكلەنگەن رەسىملىرىنى ئۆچۈرۈشنىڭ ئۇسۇلى بارمۇ؟"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-ئىختىيارىي تۆھپە قوشۇش
+breadcrumbs: [ '/en-gb/', '/ en-gb / 13-پىدائىيلار تۆھپىسى /' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+پەقەت باشقۇرغۇچىلا سۈرەتلەرنى ئۆچۈرەلەيدۇ، بۇ ئارقىلىق بۇزغۇنچىلىقنىڭ ئالدىنى ئالغىلى بولىدۇ.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Slack دىن ياكى contact@openfoodfacts.org ئادرېسىدىن كۆچۈرۈلمە رەسىملەرنى ياكى نامۇۋاپىق رەسىملەرنى ئۆچۈرۈۋېتىشنى تەلەپ قىلىڭ (سىز ئۇنىڭغا شىتىر كود نومۇرى ياكى URL ئادرېسىنى بېرىشكە تىرىشىشىڭىز كېرەك).
 
-We also have a new image report API if you're a programmer.
+ئەگەر سىز پروگرامما تۈزۈش ماھىرى بولسىڭىز، بىزدە يېڭى رەسىم دوكلاتى API بار.
