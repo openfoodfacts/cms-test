@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
-order: 104
+title: "အက်ပ်အကြောင်း တုံ့ပြန်ချက်ကို ဘယ်ကနေ ပေးပို့နိုင်မလဲ။"
+order: ၁၀၄
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: ၂-မိုဘိုင်း-အက်ပ်
+breadcrumbs: [ '/en-gb/', '/en-gb/2-မိုဘိုင်း-အက်ပ်/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+mobile@openfoodfacts.org သို့ တုံ့ပြန်ချက်ပေးပို့နိုင်ပါသည်။
