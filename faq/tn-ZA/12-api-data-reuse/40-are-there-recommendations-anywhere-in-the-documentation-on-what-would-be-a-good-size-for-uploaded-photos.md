@@ -1,9 +1,13 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "A go na le dikgakololo gongwe le gongwe mo ditokomaneng tsa gore ke bogolo bofe jo bo siameng jwa dinepe tse di laisitsweng?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: Tiriso-gape ya tshedimosetso ya 12-api
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tsn-gb/tiriso-gape-ya-tshedimosetso ya api/'
+  ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Seo se ka ikaega ka dinaga, fa neteweke e le bonya kgotsa e tura. sengwe le sengwe se se kwa godimo ga dipiksele di le 5000 ka bokete kgotsa boleele gongwe ga se mosola thata. mme fa ka tsela nngwe o ka lemoga gore neteweke e bonya, gona le setshwantsho sa dipiksele di le 2000 se ka nna sentle thata (eleruri go botoka go na le go tlhoka setshwantsho!)
