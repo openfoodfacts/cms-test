@@ -1,13 +1,17 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Bakit walang Nutri-Score para sa mga hayop?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-bukas-na-katotohanan-tungkol-sa-pagkain-ng-alagang-hayop
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/10-bukas-na-katotohanan-tungkol-sa-pagkain-ng-alagang-hayop/'
+  ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Magkakaiba ang bawat hayop (ang ahas ay walang parehong pangangailangan sa nutrisyon gaya ng pusa o aso)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Kahit sa loob ng parehong uri ng hayop tulad ng mga aso, ang mga pangangailangan sa nutrisyon ay nag-iiba ayon sa buhay ng laging nakaupong pamumuhay, posibleng pagkakapon o mga sakit.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Samakatuwid, kumplikado ang pagkalkula ng iskor para sa pagkain ng hayop nang hindi kinasasangkutan ng dose-dosenang mga mananaliksik at lumilikha ng dose-dosenang iba't ibang mga algorithm, na hindi pa nagagawa hanggang sa kasalukuyan.
