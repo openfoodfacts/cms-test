@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Kā es varu iztulkot šo bieži uzdoto jautājumu savā valodā?"
 order: 57
 lang: lv-lv
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-uzlabo-atklātus-faktus-par-ēdienu-manā-valodā
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/lv-lv/',
+    '/lv-lv/15-uzlabo-atklātos-pārtikas-faktus-manā-valodā/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Lai saņemtu rediģēšanas piekļuvi zināšanu bāzei, lūdzu, jautājiet uz contact@openfoodfacts.org.
