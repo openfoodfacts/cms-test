@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "ايپ اسڪين نٿي ٿئي"
 order: 35
 lang: اين جي بي
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-موبائيل-ايپ
+breadcrumbs: [ '/en-gb/', '/sd-gb/2-موبائل-ايپ/' ]
 ---
 
-This may be due to
+هي شايد سبب هجي
 
-- a network problem
+- نيٽ ورڪ جو مسئلو
 
-- a permissions problem
+- اجازتن جو مسئلو
 
-- a barcode problem
+- بارڪوڊ مسئلو
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+اسان کي پروفائل ذريعي اي ميل موڪليو >> اسان سان رابطو ڪريو >> اسان کي اي ميل موڪليو.
 
-All relevant information should be attached to your request.
+سڀ لاڳاپيل معلومات توهان جي درخواست سان ڳنڍيل هجڻ گهرجي.
