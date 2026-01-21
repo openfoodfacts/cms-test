@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "چگونه می‌توانم برای پروژه‌هایم به داده‌ها دسترسی داشته باشم/داده‌ها را جمع‌آوری کنم؟"
+order: ۸۸
 lang: انگلیسی-انگلیسی
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ۱۲-استفاده مجدد از داده‌ها در API
+breadcrumbs: [ '/fa-gb/', '/fa-gb/12-api-data-reuse/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+در صفحه اصلی Open Food Facts، در گوشه سمت چپ بالای صفحه، یک منوی پیمایش وجود دارد. در پایین آن، گزینه «جستجوی پیشرفته» را پیدا خواهید کرد که می‌توانید روی آن کلیک کنید. سپس این به شما بستگی دارد که تعیین کنید کدام معیارها بیشترین ارتباط را با پروژه(های) شما دارند. پس از انتخاب، می‌توانید نتایج به‌دست‌آمده را با پیمایش به پایین صفحه و کلیک بر روی «دانلود نتایج» دانلود کنید.
 
-You can also consult:
+همچنین می‌توانید مشورت کنید:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- مستندات API ما: https://openfoodfacts.github.io/api-documentation/
+- شرایط استفاده از سایت Open Food Facts: https://world.openfoodfacts.org/terms-of-use
+- بر اساس داده‌های ما: https://world.openfoodfacts.org/data
