@@ -1,15 +1,15 @@
 ---
-title: "Finnes det noen betingelser for å bruke API-et?"
+title: "Er det betingelser å bruke API?"
 order: 94
 lang: no-no
 category: 12-api-data-gjenbruk
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+breadcrumbs: [ '/radgiver/', '/no/nb/12-api-data/' ]
 ---
 
-All dokumentasjon om API-bruk finner du på API-dokumentasjonssiden, men her er et raskt sammendrag:
+All dokumentasjon om bruk av API kan finnes på siden API dokumentasjon, men her er en rask oppsummering:
 
-- Open Food Facts-databasen er tilgjengelig som åpne data under Open Database License (ODbL). Se https://world.openfoodfacts.org/terms-of-use for juridiske detaljer. De to betingelsene er attribusjon og deling på samme vilkår. Hvis du kombinerer data fra Open Food Facts med andre databaser, krever ODbL at den resulterende databasen også må frigis som åpne data. Det betyr også at du bare kan kombinere dataene med kilder som tillater slik omfordeling.
+- Open Food Facts databasen er tilgjengelig som open data under Open Database License (ODbL), se https://world.openfoodfacts.org/terms-of-use for de juridiske detaljene. De to forholdene er attribusjon og share-alike. Dersom du kombinerer data fra Open Food Facts med andre databaser, da krever ODbL at den resulterende databasen må frigis som åpne data også. Det betyr også at man kan kombinere data kun med kilder som muliggjør slik omfordeling.
 
-- Du må alltid bruke en tilpasset brukeragent når du utfører API-kall for å identifisere appen din.
+- Du må alltid bruke en egendefinert Bruker-Agent når du utfører API-anrop for å identifisere appen.
 
-- Hastighetsgrenser håndheves for hvert API-endepunkt.
+- Raty-grenser tvinges for hvert API endepunkt.
