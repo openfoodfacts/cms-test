@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Gdje mogu poslati povratne informacije o aplikaciji?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobilna-aplikacija
+breadcrumbs: [ '/bs-gb/', '/bs-gb/2-mobilna-aplikacija/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Možete poslati povratne informacije na mobile@openfoodfacts.org
