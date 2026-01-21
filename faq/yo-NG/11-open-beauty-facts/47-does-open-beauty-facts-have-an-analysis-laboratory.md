@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
+title: "Ṣé Open Beauty Facts ní yàrá ìwádìí?"
 order: 47
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Àwọn òtítọ́ 11 nípa ẹwà tí ó ṣí sílẹ̀
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ìtàn-ẹ̀wà-ṣíṣí/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Ó bani nínú jẹ́ pé Open Beauty Facts kò ní yàrá ìwádìí: a jẹ́ ẹgbẹ́ àwọn olùyọ̀ǹda ara-ẹni tí ète wọn ni láti ṣẹ̀dá Wikipedia ti àwọn ohun ìpara.
 
-That said, if you would like to help us provide more transparency for
+Bí ó tilẹ̀ jẹ́ pé, tí ẹ bá fẹ́ ràn wá lọ́wọ́ láti pèsè àlàyé síwájú sí i fún
 
-consumers, you can use our iPhone, Android and
+awọn onibara, o le lo iPhone wa, Android ati
 
-Windows Phone to add products:
+Windows Phone láti fi àwọn ọjà kún un:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+Ati lati ṣe paṣipaarọ ati jiroro awọn lilo ti iṣẹ akanṣe naa, iwọ
 
-can join the Facebook group of contributors:
+le darapọ mọ ẹgbẹ Facebook ti awọn olukopa:
 
 https://www.facebook.com/groups/356858984359591/
