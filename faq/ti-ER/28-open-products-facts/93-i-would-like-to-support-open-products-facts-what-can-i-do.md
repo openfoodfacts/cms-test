@@ -1,20 +1,20 @@
 ---
-title: "I would like to support Open Products Facts. What can I do ?"
+title: "ኣነ Open Products Facts ክድግፍ እደሊ። እንታይ ክገብር ይኽእል ?"
 order: 93
 lang: en-gb
-category: 28-open-products-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/28-open-products-facts/' ]
+category: 28-ክፉት-ፍርያት-ሓቅታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/28-ክፉት-ፍርያት-ሓቅታት/' ]
 ---
 
-Please read our wiki page, we have listed ways to get involved: https://wiki.openfoodfacts.org/Open_Products_Facts
+በጃኹም ገጽ ዊኪና ኣንብቡ፣ ኣብዚ ክትሳተፉሉ እትኽእሉ መንገድታት ዘርዚርና ኣለና፣ https://wiki.openfoodfacts.org/Open_Products_Facts
 
-To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+ንሓቅታት ክፉት ፍርያት ንምድጋፍ፡ ነዞም ዝስዕቡ ኣማራጺታት ክትሓስበሉ ትኽእል ኢኻ፡ ነፍሲ ወከፎም ንዝተፈላለዩ ዓይነታት ኣበርክቶታት ዝተመጣጠኑ እዮም፤
 
-- Philanthropic/State Sponsors for Open Products Facts:
-  Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
-- Data Contributors Using the Open Products Facts App:
-  Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
-- Technical Contributors to Open Products Facts:
-  If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+- ግብረ ሰናይ/መንግስታዊ መወልቲ ንክፉት ፍርያት ሓቅታት:
+  ገባሪ ሰናይ ኣበርክቶታት ኣብ ምግሃድ ራእይ ኩለመዳያዊ ዓንኬላዊ ዳታ መድረኽ፣ ፍርያት ነጥቢ ምሃብን ክቢ ፍታሕ ምድማርን ወሳኒ እዩ፣ ኣብ ልዕሊ ልዕሊ 20000+ ምድባት፣ ቁልፊ ዕላማ ናይ ክፉት ፍርያት ሓቅታት። ብዙሓት ኣገደስቲ ኣካላት ናይዚ ራእይ ገና ኣይተመወሉን፣ ገንዘባዊ ደገፍኩም ድማ ርኡይ ጽልዋ ከሕድር ይኽእል እዩ። ወፈያታትኩም ንኣገደስቲ ምዕባለታትን ትሕተ ቅርጽን ንምምዋል ክሕግዝ ይኽእል። ብገንዘብ ኣበርክቶ ንምግባር፡ በጃኹም ብ contact@openfoodfacts.org ርኸቡ።
+- ኣበርከትቲ መረዳእታ ንኽፉት ፍርያት ሓቅታት ኣፕ ምጥቃም:
+  ኣበርክቶ መረዳእታ ንኽፉት ፍርያት ሓቅታት ንምዕባይ ኣዝዩ ኣገዳሲ እዩ። ሓድሽ ሓበሬታ ፍርያት ንምውሳኽ፡ ንዝጸንሑ ኣታዊታት ንምዕራፍ፡ ወይ ዳታ ንምርግጋጽ፡ ነቲ ኣንድሮይድ ኣፕ ብምጥቃም፡ ነቲ ዳታቤዝ ንምስፋሕን ንምጽራይን ትሕግዝ። እዚ ሓባራዊ ጻዕሪ ንኹሉ ዝኸውን ድልዱልን ዘተኣማምንን ጸጋ ኣብ ምህናጽ ኣበርክቶ ይገብር።
+- ቴክኒካዊ ኣበርከትቲ ሓቅታት ክፉት ፍርያት፡
+  ኣብ ከም ፕሮግራሚንግ፡ ትንተና ዳታ፡ ወይ ዲዛይን ተመኩሮ ተጠቃሚ ዝኣመሰሉ መዳያት ቴክኒካዊ ክእለት እንተሃልዩካ፡ ክእለትካ ንሓቅታት ክፉት ፍርያት ብዓቢኡ ክጠቅም ይኽእል። ኣብ ምምዕባል ናይቲ ኣፕ ምውፋር፡ ምምሕያሽ ተግባራቱ፡ ወይ ምዕባይ ናይ ተጠቃሚ መተሓላለፍቲ ክቡር ኣበርክቶ እዩ። ኣብዚ ንኽትሳተፉ፡ ናብቲ ማሕበረሰብ Open Products Facts ዝተሓባበረሉ #openproductsfacts Slack ቻነል ተጸንበሩ። ናይዚ ናይ ስላክ ናይ ስራሕ ቦታ መላግቦ ኣብ መርበብ ሓበሬታ ክፉት መግቢ ሓቅታት ክትረኽቡ ትኽእሉ ኢኹም።
 
-Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+ነፍሲ ወከፍ ዓይነት ኣበርክቶ ንዕብየትን ዓወትን ክፉት ፍርያት ሓቅታት ኣገዳሲ ኮይኑ፡ ንኹሉ ዝያዳ ዘላቕን መሃርን መድረኽ ንምፍጣር ይሕግዝ።
