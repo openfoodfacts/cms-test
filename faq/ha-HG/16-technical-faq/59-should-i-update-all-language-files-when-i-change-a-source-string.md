@@ -1,15 +1,15 @@
 ---
-title: "Should I update all language files when I change a source string?"
+title: "Shin ya kamata in sabunta duk fayilolin harshe lokacin da na canza layin tushe?"
 order: 59
 lang: en-gb
-category: 16-technical-faq
-breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
+category: 16-fasaha-tambayoyi akai-akai
+breadcrumbs: [ '/en-gb/', '/en-gb/16-fasaha-fasaha/' ]
 ---
 
-No you don't. You just need to update the English one
+A'a ba ka yi ba. Kawai kana buƙatar sabunta na Turanci
 
-- Create your PR
+- Ƙirƙiri PR ɗinka
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Da zarar an haɗa shi, za mu sake mayar da tsarin crowdin-trigger da hannu kuma tsarin fassarar Crowdin da GitHub Actions ya haifar zai yi sauran ga sauran harsuna.
 
-GitHub bot then creates a new PR automatically that we then review.
+GitHub bot ɗin zai ƙirƙiri sabon PR ta atomatik wanda muke sake dubawa.
