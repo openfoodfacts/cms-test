@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Ninaweza kupakua wapi data ya Open Beauty Facts?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: Mambo 11-ya-urembo-wazi
+breadcrumbs: [ '/sw-gb/', '/sw-gb/11-ukweli-wazi-wa-urembo/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Ukurasa wa /data kwa sasa umeharibika. Unaweza kupakua data katika https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
