@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "ئىشلىتىۋاتقان ئەپنىڭ قايسى نەشرىنى قانداق بىلىمەن؟"
 order: 34
 lang: en-gb
-category: 2-mobile-app
+category: 2-موبىل ئەپ
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+«پىروفىل» غا كىرىڭ،
+ئاندىن «سوئال-جاۋابلار» غا، ئاندىن «بۇ ئەپ ھەققىدە» گە كىرىڭ.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+سىز
+3.4.5+662 غا ئوخشاش نەشرى نومۇرىنى كۆرۈشىڭىز كېرەك. ئەگەر تېلېفونىڭىزدا مەسىلە ھەل قىلىنىۋاتقان بولسا، بىزگە ئۇنىڭ ماركىسى ۋە مودېلىنى
+دېيىشنى ئۇنتۇپ قالماڭ.
