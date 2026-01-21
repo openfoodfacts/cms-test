@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Penaos e c'hellan sikour da wellaat an arload hezoug ?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-arload-hezoug
+breadcrumbs: [ '/br-gb/', '/br-gb/2-mobile-app/' ]
 ---
 
-How can I help with improving the mobile app ?
+Penaos e c'hellan sikour da wellaat an arload hezoug ?
 
-You can do so on the Mobile app repository
+Gallout a rit ober kement-se war ar sanailh an arloadoù hezoug
