@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
-order: 105
+title: "வரலாற்றுத் தரவை நான் எவ்வாறு அணுகுவது?"
+order: 105 தமிழ்
 lang: ta-gb (ஆங்கிலம்)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-தரவு மறுபயன்பாடு
+breadcrumbs: [ '/ta-gb/', '/en-gb/12-api-தரவு-மறுபயன்பாடு/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+தற்போது, நாங்கள் வரலாற்று தரவு டம்பை (JSONL, MongoDB, CSV) வழங்குவதில்லை.
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+இருப்பினும், தனிப்பட்ட தயாரிப்புகளுக்கு, API ஐப் பயன்படுத்தி அல்லது திருத்தங்களைப் பயன்படுத்தி தயாரிப்பு பக்கத்தில் தயாரிப்பு தரவின் முந்தைய பதிப்புகளை அணுக முடியும்.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+ஒரு தயாரிப்பு புதுப்பிக்கப்படும் ஒவ்வொரு முறையும், ஒரு புதிய திருத்தம் (1 இலிருந்து தொடங்கும் அதிகரிக்கும் இலக்கம்) உருவாக்கப்படுகிறது.
 
-For example, to get the first revision (=first product version) of this product, use
+உதாரணமாக, இந்த தயாரிப்பின் முதல் திருத்தத்தை (=முதல் தயாரிப்பு பதிப்பு) பெற, பயன்படுத்தவும்
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+இதேபோல், rev அளவுருவை API உடன் பயன்படுத்தலாம்:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
