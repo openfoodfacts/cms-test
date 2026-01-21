@@ -2,18 +2,18 @@
 title: "Appen skanner ikke"
 order: 35
 lang: no-no
-category: 2-mobilapp
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobilapp/' ]
+category: 2-mobil-app
+breadcrumbs: [ '/radgiver/', '/no_NO/no' ]
 ---
 
 Dette kan skyldes
 
 - et nettverksproblem
 
-- et problem med tillatelser
+- et tillatelsesproblem
 
-- et problem med strekkoden
+- et strekkode problem
 
-Send oss en e-post via Profil >> Kontakt oss >> Send oss en e-post.
+Send oss en e-post via profil >> Kontakt oss >> Send oss en e-post.
 
-All relevant informasjon skal vedlegges forespørselen din.
+All relevant informasjon bør knyttes til din forespørsel.
