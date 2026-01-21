@@ -1,13 +1,13 @@
 ---
-title: "How do I translate Open Food Facts to my language ?"
+title: "ווי אזוי קען איך איבערזעצן \"אפֿענע פֿוד פֿאַקטן\" אויף מײַן שפּראַך?"
 order: 56
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-פאַרבעסערן-אָפענע-עסן-פאַקטן-אין-מיין-שפּראַך-לאַנד
 breadcrumbs:
   [
     '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/yi-gb/15-פארבעסערן-אפענע-עסן-פאקטן-אין-מיין-שפראך-לאנד/'
   ]
 ---
 
-Head over to https://wiki.openfoodfacts.org/Country_Support
+גייט אריבער צו https://wiki.openfoodfacts.org/Country_Support
