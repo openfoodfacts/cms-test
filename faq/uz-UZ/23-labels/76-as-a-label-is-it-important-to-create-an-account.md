@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Yorliq sifatida hisob yaratish muhimmi?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23 ta yorliq
+breadcrumbs: [ '/en-gb/', '/en-gb/23-yorliqlar/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Yorliq sifatida, siz mahsulotlarning bevosita ishlab chiqaruvchisi emasligingiz sababli, ishlab chiqaruvchi akkauntini yaratishingiz shart emas.
