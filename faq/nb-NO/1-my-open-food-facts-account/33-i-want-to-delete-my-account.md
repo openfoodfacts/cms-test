@@ -2,12 +2,12 @@
 title: "Jeg vil slette kontoen min"
 order: 33
 lang: no-no
-category: 1-min-åpne-matfakta-konto
-breadcrumbs: [ '/en-gb/', '/no-gb/1-min-åpne-matfakta-konto/' ]
+category: 1-my-open-food-facts-account
+breadcrumbs: [ '/radgiver/', '/no' ]
 ---
 
-Kontosletting skjer nå direkte i innstillingene dine.
+Konto slettingen skjer nå direkte i dine innstillinger.
 
-Etter at du har logget inn på https://world.openfoodfacts.org/, klikk på brukernavnet øverst til høyre og velg Kontoparametere. Den åpner preferansesiden din. Gå til bunnen av siden og bruk handlingen «slett bruker».
+Etter innlogging på https://world.openfoodfacts.org/, klikk på brukernavn øverst til høyre, velg kontoparametre. Det åpner din innstillingsside. Gå til bunnen av siden og bruk handlingen "slett bruker".
 
-Hvis du ikke klarer å logge inn (eller tilbakestille passordet ditt), kan du kontakte databeskyttelsesmyndighetene (dpo@openfoodfacts.org) ved å bruke e-postadressen du brukte for å registrere kontoen.
+Hvis du ikke er i stand til å logge inn (eller tilbakestille passordet ditt), kontakt dpo - på - openfoodfacts. rg, bruk e-postadressen du bruker for å registrere kontoen.
