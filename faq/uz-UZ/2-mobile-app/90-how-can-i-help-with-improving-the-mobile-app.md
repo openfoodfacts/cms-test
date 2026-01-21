@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Mobil ilovani takomillashtirishda qanday yordam bera olaman?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobil ilova
+breadcrumbs: [ '/en-gb/', '/en-gb/2-mobil-ilova/' ]
 ---
 
-How can I help with improving the mobile app ?
+Mobil ilovani takomillashtirishda qanday yordam bera olaman?
 
-You can do so on the Mobile app repository
+Buni mobil ilova omborida qilishingiz mumkin
