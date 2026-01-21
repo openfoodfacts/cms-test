@@ -2,22 +2,22 @@
 title: "Har Open Beauty Facts et analyselaboratorium?"
 order: 47
 lang: no-no
-category: 11-åpne-skjønnhetsfakta
-breadcrumbs: [ '/en-gb/', '/no-gb/11-åpne-skjønnhetsfakta/' ]
+category: 11-åpne skjønnhetsfakta
+breadcrumbs: [ '/radgiver/', '/no/nb-NO open-beauty-facts/' ]
 ---
 
-Open Beauty Facts har dessverre ikke et analyselaboratorium: vi er en forening av frivillige som har som mål å lage en Wikipedia om kosmetikk.
+Open Beauty Facts har dessverre ikke et analyselaboratorium: Vi er en sammenslutning av frivillige som har som mål å lage en Wikipedia om kosmetikk.
 
-Når det er sagt, hvis du ønsker å hjelpe oss med å skape mer åpenhet for
+Men hvis du vil hjelpe oss med å gjøre oss mer åpne for
 
-forbrukere, kan du bruke iPhone, Android og
+forbrukere, du kan bruke vår iPhone, Android og
 
 Windows Phone for å legge til produkter:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-Og for å utveksle og diskutere mulige bruksområder for prosjektet, dere
+Og til å utveksle og diskutere mulig bruk av prosjektet
 
-kan bli med i Facebook-gruppen for bidragsytere:
+kan bli med på Facebook gruppen av bidragsytere:
 
 https://www.facebook.com/groups/356858984359591/
