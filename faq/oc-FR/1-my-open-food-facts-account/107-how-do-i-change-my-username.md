@@ -2,8 +2,12 @@
 title: "Cossí cambiar mon nom d'utilizaire?"
 order: 107
 lang: es-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mon-compte-de-faches-de-alimentacion-dobèrt
+breadcrumbs:
+  [
+    '/es-gb/',
+    '/oc-gb/1-mon-compte-de-fachs-de-alimentacion-dobèrt/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Malastrosament, es pas possible. Se volètz vertadièrament cambiar, vos cal suprimir vòstre compte e ne crear un novèl.
