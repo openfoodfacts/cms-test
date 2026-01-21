@@ -1,11 +1,11 @@
 ---
-title: "How can I help with improving the mobile app ?"
+title: "Ciamar as urrainn dhomh cuideachadh le bhith a’ leasachadh an aplacaid gluasadach?"
 order: 90
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplacaid-làimhe
+breadcrumbs: [ '/en-gb/', '/en-gb/2-app-mobile/' ]
 ---
 
-How can I help with improving the mobile app ?
+Ciamar as urrainn dhomh cuideachadh le bhith a’ leasachadh an aplacaid gluasadach?
 
-You can do so on the Mobile app repository
+Faodaidh tu sin a dhèanamh air stòr-dàta nan aplacaidean gluasadach
