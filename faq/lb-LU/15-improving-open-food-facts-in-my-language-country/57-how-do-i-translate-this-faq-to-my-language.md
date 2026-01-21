@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "Wéi iwwersetzen ech dës FAQ op meng Sprooch?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-Verbesserung-vun-oppene-Liewensmëttelfakten-a-menger-Sproochland
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/lb-gb/',
+    '/lb-gb/15-verbesserung-offen-Liewensmëttelfakten-a-menger-Sproochland/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Frot w.e.g. contact@openfoodfacts.org fir Zougang zu der Wëssensbasis ze kréien.
