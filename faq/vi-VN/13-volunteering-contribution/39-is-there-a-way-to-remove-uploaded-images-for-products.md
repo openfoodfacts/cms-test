@@ -1,13 +1,13 @@
 ---
-title: "Is there a way to remove uploaded images for products?"
+title: "Có cách nào để xóa ảnh sản phẩm đã tải lên không?"
 order: 39
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-đóng góp tình nguyện
+breadcrumbs: [ '/en-gb/', '/en-gb/13-tình nguyện-đóng góp/' ]
 ---
 
-Only moderators can remove photos, to avoid potential vandalism.
+Chỉ người điều hành mới có thể xóa ảnh để tránh nguy cơ phá hoại.
 
-Just ask on Slack or at contact@openfoodfacts.org to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
+Bạn chỉ cần yêu cầu trên Slack hoặc tại contact@openfoodfacts.org để xóa các bản sao hoặc bất kỳ hình ảnh không phù hợp nào (bạn nên cố gắng cung cấp số mã vạch hoặc URL).
 
-We also have a new image report API if you're a programmer.
+Chúng tôi cũng có API báo cáo hình ảnh mới dành cho lập trình viên.
