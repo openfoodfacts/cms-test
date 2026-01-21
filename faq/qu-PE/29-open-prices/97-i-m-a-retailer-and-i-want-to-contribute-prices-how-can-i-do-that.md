@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
-order: 97
+title: "Ñuqaqa qhatuqmi kani, chaymi preciokunata yanapayta munani. ¿Imaynatataq chayta ruwayman?"
+order: 97. 97
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-kichasqa-precios
+breadcrumbs: [ '/quchqa-gb/ .', '/quch-gb/29-kichasqa-precios/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+APIykuta llamk'achispa chaninkunata yanapayta atikunki. Sichus chaninkunata escalapi yanapakuyta munanki, ama hina kaspa ñuqaykuwan rimanakuy kaypi contact@openfoodfacts.org.
