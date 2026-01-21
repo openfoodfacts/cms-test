@@ -1,13 +1,13 @@
 ---
-title: "Why is there no Nutri-Score for animals?"
+title: "Niyə heyvanlar üçün Nutri-Score yoxdur?"
 order: 38
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10 açıq ev heyvanı yeməyi faktı
+breadcrumbs: [ '/en-gb/', '/az-gb/10-açıq-ev-yeməyi-faktları/' ]
 ---
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Hər heyvan fərqlidir (ilanların qida ehtiyacları pişik və ya itlə eyni deyil)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Hətta itlər kimi eyni heyvan növündə belə, qidalanma ehtiyacları oturaq həyat tərzinə, mümkün kastrasiyaya və ya xəstəliklərə görə dəyişir.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Buna görə də, onlarla tədqiqatçını cəlb etmədən və onlarla müxtəlif alqoritm yaratmadan heyvan yemi üçün bal hesablamaq çətindir ki, bu da bu günə qədər edilməyib.
