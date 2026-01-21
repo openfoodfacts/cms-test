@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "के म API मार्फत सटीक उत्पादन नाम खोज्न सक्छु?"
+order: ६६
 lang: एनजीबी
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: १२-एपीआई-डेटा-पुनःप्रयोग
+breadcrumbs: [ '/ne-gb/', '/ne-gb/१२-api-डेटा-पुनःप्रयोग/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+दुर्भाग्यवश API मार्फत उत्पादनको नाममा मात्र र सटीक रूपमा सजिलै खोज्न सम्भव छैन।
 
-Using a filter on category might help you make your search more precise though.
+श्रेणीमा फिल्टर प्रयोग गर्नाले तपाईंको खोजलाई अझ सटीक बनाउन मद्दत गर्न सक्छ।
