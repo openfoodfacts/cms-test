@@ -2,8 +2,12 @@
 title: "¿Imaynatataq sutiyta tikrayman?"
 order: 107. 107
 lang: en-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-kichasqa-mikhuy-hechos-cuenta
+breadcrumbs:
+  [
+    '/quchqa-gb/ .',
+    '/qu-gb/1-kichasqa-mikhuy-chiqap-cuenta/'
+  ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Llakikuypaqmi, manam atikunchu. Sichus chiqamanta tikrayta munanki, yupayniyki qullunayki tiyan chaymanta musuq ruwayta ruwanayki tiyan.
