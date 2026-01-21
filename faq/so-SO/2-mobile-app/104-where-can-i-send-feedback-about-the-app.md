@@ -1,9 +1,9 @@
 ---
-title: "Where can I send feedback about the app ?"
+title: "Xaggee ayaan ka diri karaa jawaab celin ku saabsan abka?"
 order: 104
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-abka moobaylka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-abka-mobile-ka/' ]
 ---
 
-You can send feedback to mobile@openfoodfacts.org
+Waxaad jawaab celin u diri kartaa mobile@openfoodfacts.org.
