@@ -1,15 +1,15 @@
 ---
-title: "I have a school project to do, I want to use Open Food Facts’ data, can I do so?"
+title: "Mwen gen yon pwojè lekòl pou m fè, mwen vle itilize done Open Food Facts yo, èske m ka fè sa?"
 order: 85
 lang: en-gb
-category: 26-school-projects
-parent_category: 25-researchers-scholar
+category: 26-pwojè-lekòl
+parent_category: 25 chèchè-entelijan
 breadcrumbs:
   [
     '/en-gb/',
     '/en-gb/25-researchers-scholar/',
-    '/en-gb/25-researchers-scholar/26-school-projects/'
+    '/en-gb/25-chèchè-etidyan/26-pwojè-lekòl/'
   ]
 ---
 
-Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
+Open Food Facts se yon baz done ouvè, yon pwojè ouvè k ap opere anba yon lisans ODbL, kidonk osi lontan ke ou dakò ak egzijans lisans ODbL la, ou lib pou reitilize done nou yo pou pwojè ou yo :).
