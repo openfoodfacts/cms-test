@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Чӣ тавр ман метавонам донам, ки кадом версияи барномаро истифода мекунам?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: Барномаи 2-мобилӣ
+breadcrumbs: [ '/en-gb/', '/en-gb/2-барномаи мобилӣ/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Ба Профил,
+, сипас Саволҳои зуд-зуд додашаванда ва баъдан Дар бораи ин барнома равед.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Шумо бояд
+рақами версияро ба монанди 3.4.5+662 бинед. Агар телефон хатогиҳоро ислоҳ карда истода бошад, фаромӯш накунед, ки бренд ва модели
+-и онро ба мо хабар диҳед.
