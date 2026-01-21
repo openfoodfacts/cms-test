@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
-order: 54
+title: "ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್ ಕುರಿತು ಪತ್ರಿಕಾ ದೃಶ್ಯಗಳನ್ನು ನಾನು ಹೇಗೆ ಪಡೆಯಬಹುದು?"
+order: 54 (ಅನುಪಮ)
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-ಪ್ರೆಸ್-ಮೀಡಿಯಾ-ವಿನಂತಿಗಳು
+breadcrumbs: [ '/en-gb/', '/en-gb/14-ಪ್ರೆಸ್-ಮೀಡಿಯಾ-ವಿನಂತಿಗಳು/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+ದಯವಿಟ್ಟು ಸಂಪರ್ಕಿಸಿ : presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
