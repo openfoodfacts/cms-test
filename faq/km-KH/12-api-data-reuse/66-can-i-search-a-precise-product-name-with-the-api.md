@@ -1,11 +1,11 @@
 ---
-title: "Can I search a precise product name with the API?"
-order: 66
+title: "តើខ្ញុំអាចស្វែងរកឈ្មោះផលិតផលជាក់លាក់មួយដោយប្រើ API បានទេ?"
+order: ៦៦
 lang: អង់គ្លេស-ជីកាបៃ
-category: 12-api-data-reuse
+category: ការប្រើប្រាស់ទិន្នន័យឡើងវិញ 12-api
 breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
 ---
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+ជាអកុសល វាមិនទាន់អាចស្វែងរកបានយ៉ាងងាយស្រួលលើឈ្មោះផលិតផលតែប៉ុណ្ណោះ និងយ៉ាងច្បាស់លាស់តាមរយៈ API នៅឡើយទេ។
 
-Using a filter on category might help you make your search more precise though.
+ទោះជាយ៉ាងណាក៏ដោយ ការប្រើប្រាស់តម្រងលើប្រភេទអាចជួយអ្នកធ្វើឱ្យការស្វែងរករបស់អ្នកកាន់តែច្បាស់លាស់។
