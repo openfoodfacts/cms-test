@@ -1,9 +1,9 @@
 ---
-title: "Where can I download Open Beauty Facts data?"
+title: "Аз куҷо ман метавонам маълумоти Open Beauty Facts-ро зеркашӣ кунам?"
 order: 70
 lang: en-gb
-category: 11-open-beauty-facts
+category: 11-фактҳои зебоӣ
 breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
 ---
 
-The /data page is currently broken. You can download the data at https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv
+Саҳифаи /data айни замон вайрон шудааст. Шумо метавонед маълумотро аз https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv зеркашӣ кунед.
