@@ -1,13 +1,13 @@
 ---
-title: "Finnes det en måte å fjerne opplastede bilder for produkter?"
+title: "Er det en måte å fjerne opplastede bilder for produkter?"
 order: 39
 lang: no-no
-category: 13-frivilligbidrag
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-frivillige bidrag
+breadcrumbs: [ '/radgiver/', '/nb-NO /no_NO/no' ]
 ---
 
-Bare moderatorer kan fjerne bilder for å unngå potensielt hærverk.
+Kun moderatorer kan fjerne bilder, for å unngå potensiell hæralisme.
 
-Bare spør på Slack eller på contact@openfoodfacts.org om å fjerne duplikater eller upassende bilder (du bør prøve å oppgi strekkodenummeret eller URL-en for å gjøre det).
+Bare spør på Slack eller på contact@openfoodfacts. rg for å fjerne duplikatene eller eventuelle upassende bilder (du bør prøve å oppgi strekkodenummer eller nettadresse hittil).
 
-Vi har også et nytt API for bilderapporter hvis du er programmerer.
+Vi har også en ny bilderapport API hvis du er programmerer.
