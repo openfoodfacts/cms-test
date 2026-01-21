@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "ເປັນຫຍັງ Open Food Facts ຈຶ່ງເຮັດແບບນີ້ (ລາຄາເປີດ)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: ລາຄາເປີດ 29
+breadcrumbs: [ '/en-gb/', '/en-gb/29-ລາຄາເປີດ/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+ຂໍ້ມູນລາຄາແມ່ນມີຄວາມສຳຄັນທີ່ສຸດເພື່ອເຂົ້າໃຈລະບົບອາຫານ. ມັນເປັນປັດໄຈສຳຄັນໃນການເຂົ້າໃຈລາຄາອາຫານ ແລະ ເພື່ອສົ່ງເສີມອາຫານທີ່ມີສຸຂະພາບດີ. ການເປີດຂໍ້ມູນລາຄາແມ່ນວິທີໜຶ່ງທີ່ຈະເຮັດໃຫ້ນັກຄົ້ນຄວ້າ, ນັກຂ່າວ ແລະ ພົນລະເມືອງມີຄວາມເຂົ້າໃຈດີຂຶ້ນກ່ຽວກັບວ່າລາຄາອາຫານມີການປ່ຽນແປງທາງພູມສາດ ແລະ ຕາມເວລາໄດ້ແນວໃດ.
