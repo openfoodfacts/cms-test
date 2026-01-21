@@ -1,21 +1,21 @@
 ---
-title: "How can I access historical data?"
+title: "Kā es varu piekļūt vēsturiskajiem datiem?"
 order: 105
 lang: lv-lv
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-API-datu-atkārtota-izmantošana
+breadcrumbs: [ '/lv-lv/', '/lv-lv/12-api-datu-atkārtota-izmantošana/' ]
 ---
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Pašlaik mēs nepiedāvājam vēsturisko datu izgāztuvi (JSONL, MongoDB, CSV).
 
-However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+Tomēr atsevišķiem produktiem ir iespējams piekļūt iepriekšējām produktu datu versijām, izmantojot API vai produkta lapā, izmantojot pārskatītās versijas.
 
-Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+Katru reizi, kad produkts tiek atjaunināts, tiek izveidota jauna versija (palielinošs cipars, sākot no 1).
 
-For example, to get the first revision (=first product version) of this product, use
+Piemēram, lai iegūtu šī produkta pirmo pārskatīšanu (=pirmo produkta versiju), izmantojiet
 
 https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1.
 
-Similarly, the rev parameter can be used with the API:
+Līdzīgi parametru rev var izmantot ar API:
 
 https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1
