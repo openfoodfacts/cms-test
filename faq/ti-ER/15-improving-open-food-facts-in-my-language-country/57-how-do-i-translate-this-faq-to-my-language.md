@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
+title: "ነዚ FAQ ከመይ ጌረ ናብ ቋንቋይ ይትርጉሞ ?"
 order: 57
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-ምምሕያሽ-ክፉት-መግቢ-ሓቅታት-ኣብ-ቋንቋይ-ሃገር
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ትግርኛ-ግብ/',
+    '/ti-gb/15-ምምሕያሽ-ክፉት-መግቢ-ሓቅታት-ኣብ-ቋንቋይ-ሃገር/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+በጃኹም contact@openfoodfacts.org ንናይ ኣርትዖት መእተዊ ናብቲ ፍልጠት መሰረት ሕተቱ።
