@@ -1,9 +1,9 @@
 ---
-title: "I’m a retailer and I want to contribute prices. How can I do that?"
+title: "Soi un comerçant e vòli contribuir als prètzs. Cossí pòdi far aquò?"
 order: 97
 lang: es-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-prètz-dobèrts
+breadcrumbs: [ '/es-gb/', '/oc-gb/29-open-prices/' ]
 ---
 
-You can contribute prices by using our API. If you want to contribute prices at scale, please get in touch with us at contact@openfoodfacts.org.
+Podètz contribuir a de prètzs en utilizant nòstra API. Se volètz contribuir a de prètzs a l'escala, contactatz-nos a contact@openfoodfacts.org.
