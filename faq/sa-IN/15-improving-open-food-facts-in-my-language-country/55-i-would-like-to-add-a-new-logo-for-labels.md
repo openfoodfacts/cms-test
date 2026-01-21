@@ -1,19 +1,19 @@
 ---
-title: "I would like to add a new logo for labels"
-order: 55
+title: "अहं लेबल् कृते नूतनं लोगो योजयितुम् इच्छामि"
+order: ५५
 lang: en-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-मम-भाषा-देशे-मुक्त-भोजन-तथ्यानां-सुधारः
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/एन्-ग्ब/ २.',
+    '/en-gb/15-मम-भाषा-देशे-मुक्त-भोजन-तथ्य-सुधार-करणीय-/'
   ]
 ---
 
-Here is the process:
+अत्र प्रक्रिया अस्ति : १.
 
-- find the canonical name of the label in the labels' taxonomy (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
-- get the logo in a good quality: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-  label on the packaging of a product, there is no need to ask permission.
-- name the file like this:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang
+- लेबल्-वर्गीकरणे लेबलस्य कैनोनिकल् नाम अन्वेष्टुम् (लेबलस्य पर्यायवाची सूचीयां प्रथमः द्रव्यः अस्ति, उदा. en:100% vegetable)
+- लोगो उत्तमगुणवत्तायां प्राप्नुवन्तु: योगदातुः छायाचित्रस्य उपयोगं परिहरन्तु ये अस्य प्रकरणस्य कृते उपयुक्ताः न सन्ति; अधिकांशलेबलेषु आधिकारिकजालस्थलेषु उच्चगुणवत्तायुक्ताः लोगोः सन्ति, कदाचित् सदिशस्वरूपेण (अस्माकं कृते अपि उत्तमम्); यावत् वयं उत्पादस्य पॅकेजिंग् इत्यत्र
+  लेबलस्य उपस्थितेः विषये वस्तुनिष्ठरूपेण सूचयितुं लोगो इत्यस्य उपयोगं कुर्मः, तावत् अनुमतिं याचयितुम् आवश्यकता नास्ति
+- सञ्चिकायाः नाम एतादृशं कुर्वन्तु: name-of-the-label.[width]x90.png यत्र विस्तारः चिह्नस्य विस्तारः भवति यदा सः ९० पिक्सेल उच्चः भवति । सञ्चिकानामानि अउच्चारितानि, लघुवर्णेषु तथा च रिक्तस्थानानां स्थाने "-" इत्यस्य उपयोगं कर्तुं आवश्यकम् ।
+- ततः तस्य विहितनामस्य अनुरूपं निर्देशिकायां लोगो योजयन्तु । यदि विहितनाम en:something अस्ति तर्हि तेषां /en/ मध्ये भवितुं आवश्यकता अस्ति । लोगोस् कृते मूलनिर्देशिका https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang अस्ति
