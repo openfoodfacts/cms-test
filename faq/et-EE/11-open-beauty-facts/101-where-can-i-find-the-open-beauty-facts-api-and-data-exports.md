@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Kust ma leian Open Beauty Factsi API ja andmete ekspordi?"
 order: 101
 lang: et-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11 avatud ilufakti
+breadcrumbs: [ '/et-ee/', '/et-ee/11-avatud-ilufaktid/' ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Open Food Facts API on 98% ulatuses sama mis Open Beauty Facts API, seega kui kasutate Open Food Facts API dokumentatsiooni, peaksite saama Open Beauty Facts API-st üsna selge ülevaate.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Pane tähele, et selliseid funktsioone nagu teadmuspaneelid, ökoskoor ja toitumisskoor ei toetata (kas teema või vana koodibaasi tõttu).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
