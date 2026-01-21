@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Beauty Facts API and data exports ?"
+title: "Saan ko mahahanap ang Open Beauty Facts API at mga paraan ng pag-export ng datos?"
 order: 101
 lang: en-gb
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: 11-bukas-na-katotohanan-tungkol-sa-kagandahan
+breadcrumbs:
+  [
+    '/en-gb/',
+    '/en-gb/11-bukas-na-katotohanan-tungkol-sa-kagandahan/'
+  ]
 ---
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Ang Open Food Facts API ay 98% kapareho ng Open Beauty Facts API kaya kung gagamit ka ng dokumentasyon ng Open Food Facts API, dapat ay malinaw na ang iyong pananaw sa Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Tandaan na ang mga feature tulad ng Knowledge Panels, Eco-Score, at Nutri-Score ay hindi sinusuportahan (dahil sa paksa, o sa lumang codebase).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
