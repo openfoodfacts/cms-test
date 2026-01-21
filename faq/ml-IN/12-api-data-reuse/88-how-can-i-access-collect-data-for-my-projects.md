@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
+title: "എന്റെ പ്രോജക്റ്റുകൾക്കായുള്ള ഡാറ്റ എനിക്ക് എങ്ങനെ ആക്‌സസ്/ശേഖരിക്കാം?"
 order: 88
 lang: en-gb (ഇംഗ്ലീഷ്)
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-എപിഐ-ഡാറ്റ പുനരുപയോഗം
+breadcrumbs: [ '/എംഎൽ-ജിബി/', '/en-gb/12-api-ഡാറ്റ-പുനരുപയോഗം/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ഓപ്പൺ ഫുഡ് ഫാക്‌ട്‌സിന്റെ പ്രധാന പേജിൽ, സ്‌ക്രീനിന്റെ മുകളിൽ ഇടത് മൂലയിൽ, ഒരു സ്ക്രോളിംഗ് മെനു ഉണ്ട്. അതിന്റെ അടിയിൽ, നിങ്ങൾക്ക് "വിപുലമായ തിരയൽ" ഓപ്ഷൻ കാണാം, അതിൽ നിങ്ങൾക്ക് ക്ലിക്ക് ചെയ്യാം. നിങ്ങളുടെ പ്രോജക്റ്റിന് (പ്രൊജക്റ്റുകൾക്ക്) ഏറ്റവും പ്രസക്തമായ മാനദണ്ഡങ്ങൾ ഏതൊക്കെയാണെന്ന് നിർണ്ണയിക്കേണ്ടത് നിങ്ങളാണ്. തിരഞ്ഞെടുത്തുകഴിഞ്ഞാൽ, പേജിന്റെ താഴെയായി സ്ക്രോൾ ചെയ്ത് "ഡൗൺലോഡ് റിസൾട്ട്സ്" ക്ലിക്ക് ചെയ്തുകൊണ്ട് നിങ്ങൾക്ക് ലഭിച്ച ഫലങ്ങൾ ഡൗൺലോഡ് ചെയ്യാൻ കഴിയും.
 
-You can also consult:
+നിങ്ങൾക്ക് ഇതും പരിശോധിക്കാം:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- ഞങ്ങളുടെ API ഡോക്യുമെന്റേഷൻ: https://openfoodfacts.github.io/api-documentation/
+- ഓപ്പൺ ഫുഡ് ഫാക്റ്റ്സിന്റെ ഉപയോഗ നിബന്ധനകൾ: https://world.openfoodfacts.org/terms-of-use
+- ഞങ്ങളുടെ ഡാറ്റയിൽ: https://world.openfoodfacts.org/data
