@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
-order: 40
+title: "آیا در هیچ کجای مستندات توصیه‌ای در مورد اندازه مناسب برای عکس‌های آپلود شده وجود دارد؟"
+order: ۴۰
 lang: انگلیسی-انگلیسی
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: ۱۲-استفاده مجدد از داده‌ها در API
+breadcrumbs: [ '/fa-gb/', '/fa-gb/12-api-data-reuse/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+این ممکن است به کشورها بستگی داشته باشد، اگر شبکه کند یا گران باشد. هر چیزی که وزن یا ارتفاع آن بالای ۵۰۰۰ پیکسل باشد، احتمالاً خیلی مفید نخواهد بود. و اگر بتوانید به نحوی تشخیص دهید که شبکه کند است، حتی یک تصویر ۲۰۰۰ پیکسلی هم عالی خواهد بود (مطمئناً بهتر از نداشتن تصویر است!)
