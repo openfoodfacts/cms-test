@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Jiena disinjatur. Kif nista' ngħin?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-il kontribuzzjoni ta' volontarjat
+breadcrumbs: [ '/mt-gb/', '/mt-gb/13-kontribuzzjoni-volontarja/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Aħna nikkoordinaw l-attivitajiet kollha relatati mad-disinn fuq https://github.com/openfoodfacts/openfoodfacts-design u fuq kanal ta' chat iddedikat. Nagħmlu laqgħat tat-tim u brainjams regolarment dwar sfidi speċifiċi.
