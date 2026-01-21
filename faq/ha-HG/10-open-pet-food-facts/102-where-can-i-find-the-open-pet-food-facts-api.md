@@ -1,13 +1,13 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "A ina zan iya samun API ɗin Buɗe Abincin Dabbobi?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: 10-bayanan-abincin-dabbobi-buɗaɗɗen-dabbobi
+breadcrumbs: [ '/en-gb/', '/en-gb/bayanan abinci na dabbobi guda 10/' ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+API ɗin Buɗaɗɗen Abinci na Buɗaɗɗen Abinci yana da kashi 98% daidai da API ɗin Buɗaɗɗen Abinci na Buɗaɗɗen Abinci, don haka idan kuna amfani da takaddun API na Buɗaɗɗen Abinci na Buɗaɗɗen Abinci, ya kamata ku sami cikakken ra'ayi game da API ɗin Buɗaɗɗen Abinci na Buɗaɗɗen Abinci.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Lura cewa ba a tallafawa fasaloli kamar Fannin Ilimi, Eco-Score, Nutri-Score ba (ko dai saboda batun, ko kuma saboda tsohon tushen lambar).
 
 https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
