@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "యాప్ స్కాన్ చేయడం లేదు"
 order: 35
 lang: en-gb తెలుగు in లో
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-మొబైల్-యాప్
+breadcrumbs: [ '/en-gb/', '/en-gb/2-మొబైల్-యాప్/' ]
 ---
 
-This may be due to
+దీనికి కారణం కావచ్చు
 
-- a network problem
+- నెట్‌వర్క్ సమస్య
 
-- a permissions problem
+- అనుమతుల సమస్య
 
-- a barcode problem
+- బార్‌కోడ్ సమస్య
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+ప్రొఫైల్ ద్వారా మాకు ఇమెయిల్ పంపండి >> మమ్మల్ని సంప్రదించండి >> మాకు ఇమెయిల్ పంపండి.
 
-All relevant information should be attached to your request.
+సంబంధిత సమాచారం అంతా మీ అభ్యర్థనకు జతచేయబడాలి.
