@@ -1,9 +1,9 @@
 ---
-title: "Why is Open Food Facts doing this (Open Prices)?"
+title: "Nahoana ny Open Food Facts no manao izany (Open Prices)?"
 order: 100
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-vidiny-misokatra
+breadcrumbs: [ '/en-gb/', '/mg-gb/vidiny-misokatra-29/' ]
 ---
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Tena zava-dehibe ny fampahalalana momba ny vidiny mba hahatakarana ny rafitra ara-tsakafo. Antony iray lehibe amin'ny fahatakarana ny vidin'ny sakafo sy ny fampiroboroboana ny sakafo ara-pahasalamana izany. Ny angon-drakitra momba ny vidiny mirary dia fomba iray hanamorana kokoa ho an'ny mpikaroka, mpanao gazety ary olom-pirenena ny fahatakarana tsara kokoa ny fiovaovan'ny vidin-tsakafo ara-jeografika sy ara-potoana.
