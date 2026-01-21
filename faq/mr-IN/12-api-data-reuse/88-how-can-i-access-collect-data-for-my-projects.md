@@ -1,15 +1,15 @@
 ---
-title: "How can I access/collect data for my projects?"
-order: 88
+title: "मी माझ्या प्रकल्पांसाठी डेटा कसा मिळवू/संकलित करू शकतो?"
+order: ८८
 lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: १२-एपीआय-डेटा-पुनर्वापर
+breadcrumbs: [ '/en-gb/', '/en-gb/12-api-डेटा-पुनर्वापर/' ]
 ---
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+ओपन फूड फॅक्ट्सच्या मुख्य पृष्ठावर, स्क्रीनच्या वरच्या डाव्या कोपऱ्यात, एक स्क्रोलिंग मेनू आहे. त्याच्या तळाशी, तुम्हाला "प्रगत शोध" पर्याय दिसेल, ज्यावर तुम्ही क्लिक करू शकता. त्यानंतर तुमच्या प्रकल्पासाठी कोणते निकष सर्वात संबंधित आहेत हे ठरवणे तुमच्यावर अवलंबून आहे. एकदा निवडल्यानंतर, तुम्ही पृष्ठाच्या तळाशी स्क्रोल करून आणि "निकाल डाउनलोड करा" वर क्लिक करून प्राप्त झालेले निकाल डाउनलोड करू शकाल.
 
-You can also consult:
+तुम्ही हे देखील पाहू शकता:
 
-- Our API documentation: https://openfoodfacts.github.io/api-documentation/
-- Open Food Facts' Terms of Use: https://world.openfoodfacts.org/terms-of-use
-- On our data: https://world.openfoodfacts.org/data
+- आमचे API दस्तऐवजीकरण: https://openfoodfacts.github.io/api-documentation/
+- ओपन फूड फॅक्ट्सच्या वापराच्या अटी: https://world.openfoodfacts.org/terms-of-use
+- आमच्या डेटावर: https://world.openfoodfacts.org/data
