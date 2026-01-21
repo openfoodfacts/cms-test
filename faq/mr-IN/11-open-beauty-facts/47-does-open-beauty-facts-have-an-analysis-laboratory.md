@@ -1,23 +1,23 @@
 ---
-title: "Does Open Beauty Facts have an analysis laboratory?"
-order: 47
+title: "ओपन ब्युटी फॅक्ट्समध्ये विश्लेषण प्रयोगशाळा आहे का?"
+order: ४७
 lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-category: 11-open-beauty-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/11-open-beauty-facts/' ]
+category: ११-खुल्या-सौंदर्य-तथ्ये
+breadcrumbs: [ '/en-gb/', '/en-gb/11-ओपन-ब्युटी-फॅक्ट्स/' ]
 ---
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+दुर्दैवाने, ओपन ब्युटी फॅक्ट्सकडे विश्लेषण प्रयोगशाळा नाही: आम्ही स्वयंसेवकांची एक संघटना आहोत ज्यांचे ध्येय सौंदर्यप्रसाधनांचा विकिपीडिया तयार करणे आहे.
 
-That said, if you would like to help us provide more transparency for
+असं असलं तरी, जर तुम्हाला आम्हाला अधिक पारदर्शकता प्रदान करण्यास मदत करायची असेल तर
 
-consumers, you can use our iPhone, Android and
+ग्राहकांनो, तुम्ही आमचा आयफोन, अँड्रॉइड आणि वापरू शकता
 
-Windows Phone to add products:
+विंडोज फोनमध्ये उत्पादने जोडण्यासाठी:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
-And to exchange and discuss the possible uses of the project, you
+आणि प्रकल्पाच्या संभाव्य उपयोगांची देवाणघेवाण आणि चर्चा करण्यासाठी, तुम्ही
 
-can join the Facebook group of contributors:
+योगदानकर्त्यांच्या फेसबुक ग्रुपमध्ये सामील होऊ शकता:
 
 https://www.facebook.com/groups/356858984359591/
