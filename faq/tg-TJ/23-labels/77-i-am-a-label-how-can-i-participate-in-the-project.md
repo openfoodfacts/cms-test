@@ -1,9 +1,9 @@
 ---
-title: "I am a label, how can I participate in the project?"
+title: "Ман як лейбл ҳастам, чӣ гуна ман метавонам дар лоиҳа иштирок кунам?"
 order: 77
 lang: en-gb
-category: 23-labels
+category: 23-тамғакоғаз
 breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
 ---
 
-As a label the most relevant thing to do is to contact us (producers@openfoodfacts.org) and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Ҳамчун тамғагузорӣ, муҳимтарин коре, ки бояд анҷом дода шавад, ин тамос бо мо (producers@openfoodfacts.org) ва ба мо рӯйхати маҳсулотеро, ки тамғаи шумо дар онҳо нишон дода шудааст, фиристед, то мо онҳоро ба варақаҳои маҳсулоти марбута илова кунем.
