@@ -1,13 +1,17 @@
 ---
-title: "Where can I find the Open Pet Food Facts API ?"
+title: "Nka bona kae API ya Dintlha tsa Dijo tsa Diruiwa tse di Buletsweng ?"
 order: 102
 lang: en-gb
-category: 10-open-pet-food-facts
-breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
+category: Dintlha di le 10 tsa dijo tsa diruiwa tsa mo gae
+breadcrumbs:
+  [
+    '/tsn-gb/',
+    '/tn-gb/dintlha-tse-10-tsa-dijo-tsa-diruiwa-tsa-gae/'
+  ]
 ---
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+API ya Dintlha tsa Dijo tsa Diphoofolo tse Buletsweng ke 98% e tshwana le API ya Dintlha tsa Dijo tse Buletsweng kahoo haeba o sebedisa ditokomane tsa API ya Dijo tse Bulehileng o lokela ho ba le pono e hlakileng ya API ya Dintlha tsa Dijo tsa Diphoofolo tse Bulehileng.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Ela tlhoko gore ditiriso tse di jaaka Diphanele tsa Kitso, Eco-Score, Nutri-Score ga di tshegediwe (e ka tswa e le ka ntlha ya setlhogo, kgotsa ka ntlha ya khoutubase ya bogologolo).
 
-https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/
+https://dintlha tsa dijo tse di bulegileng.github.io/sefara ya dintlha tsa dijo tse di bulegileng/api/ref-v2/
