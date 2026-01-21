@@ -2,8 +2,8 @@
 title: "Mɛyɛ dɛn asesa me username?"
 order: 107 na ɛwɔ hɔ
 lang: tw-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-me-abue-aduan-nokwasɛm-akontaabu
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/1-me-bue-aduan-nokwasɛm-akonta/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Nea ɛyɛ awerɛhow no, ɛrentumi nyɛ yiye. Sɛ wopɛ sɛ wosakra ampa a, ɛsɛ sɛ wopopa wo akontaabu no na woyɛ foforo.
