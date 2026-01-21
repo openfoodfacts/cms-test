@@ -1,9 +1,9 @@
 ---
-title: "As a label, is it important to create an account ?"
+title: "Da li je važno kreirati račun za izdavačku kuću?"
 order: 76
 lang: en-gb
-category: 23-labels
-breadcrumbs: [ '/en-gb/', '/en-gb/23-labels/' ]
+category: 23-oznake
+breadcrumbs: [ '/bs-gb/', '/bs-gb/23-oznake/' ]
 ---
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Kao izdavačka kuća, budući da niste direktni proizvođač proizvoda, ne morate kreirati proizvođački račun.
