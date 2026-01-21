@@ -2,8 +2,8 @@
 title: "Hur ändrar jag mitt användarnamn?"
 order: 107
 lang: sv-gb
-category: 1-my-open-food-facts-account
-breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
+category: 1-mitt-öppna-matfakta-konto
+breadcrumbs: [ '/sv-gb/', '/sv-gb/1-mitt-öppna-matfakta-konto/' ]
 ---
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Tyvärr är det inte möjligt. Om du verkligen vill ändra dig måste du radera ditt konto och skapa ett nytt.
