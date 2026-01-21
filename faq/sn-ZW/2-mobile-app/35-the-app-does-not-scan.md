@@ -1,19 +1,19 @@
 ---
-title: "The app does not scan"
+title: "App yacho haiskeni"
 order: 35
 lang: en-gb
 category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+breadcrumbs: [ '/sn-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-This may be due to
+Izvi zvinogona kunge zvichikonzerwa ne
 
-- a network problem
+- dambudziko re network
 
-- a permissions problem
+- dambudziko remvumo
 
-- a barcode problem
+- dambudziko rebhacode
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Titumirei email kuburikidza neProfile >> Taura Nesu >> Titumirei email.
 
-All relevant information should be attached to your request.
+Ruzivo rwese rwakakosha runofanira kubatanidzwa nechikumbiro chako.
