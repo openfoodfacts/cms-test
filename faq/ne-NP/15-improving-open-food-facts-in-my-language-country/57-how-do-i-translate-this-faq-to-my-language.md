@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "यो FAQ लाई मेरो भाषामा कसरी अनुवाद गर्ने?"
+order: ५७
 lang: एनजीबी
-category: 15-improving-open-food-facts-in-my-language-country
+category: १५-मेरो-भाषा-देशमा-खुला-खाद्य-तथ्यहरू-सुधार्दै
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/ne-gb/',
+    '/ne-gb/१५-मेरो-भाषा-देशमा-खुला-खाद्य-तथ्यहरू-सुधार्ने/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+ज्ञानको आधारमा सम्पादन पहुँचको लागि कृपया contact@openfoodfacts.org लाई सोध्नुहोस्।
