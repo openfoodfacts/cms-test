@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
+title: "Mimi ni mbunifu. Ninawezaje kusaidia?"
 order: 49
 lang: en-gb
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: 13-mchango wa kujitolea
+breadcrumbs: [ '/sw-gb/', '/en-gb/13-mchango-wa-kujitolea/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+Tunaratibu shughuli zote zinazohusiana na usanifu kwenye https://github.com/openfoodfacts/openfoodfacts-design na kwenye chaneli maalum ya gumzo. Mara kwa mara tunafanya mikutano ya timu na kujadili changamoto mahususi.
