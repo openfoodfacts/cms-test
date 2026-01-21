@@ -1,10 +1,10 @@
 ---
-title: "How can I get press visuals on Open Food Facts?"
+title: "Sut alla i gael delweddau i'r wasg ar Open Food Facts?"
 order: 54
 lang: en-gb
-category: 14-press-media-requests
-breadcrumbs: [ '/en-gb/', '/en-gb/14-press-media-requests/' ]
+category: 14-ceisiadau-y-wasg-cyfryngau
+breadcrumbs: [ '/cy-gb/', '/cy-gb/14-ceisiadau-cyfryngau-y-wasg/' ]
 ---
 
-Please contact : presse@openfoodfacts.org
+Cysylltwch â: presse@openfoodfacts.org
 https://blog.openfoodfacts.org/en/press-release-new-mobile-app
