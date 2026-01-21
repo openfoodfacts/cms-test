@@ -1,13 +1,13 @@
 ---
-title: "How do I translate this FAQ to my language ?"
-order: 57
+title: "Ne bɛ se ka nin FAQ in baara cogo di n ka kan na ?"
+order: 57. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 15-improving-open-food-facts-in-my-language-country
+category: 15-dumuni dafalen-tiɲɛw-ɲɛnabɔli-n-kan-jamana kɔnɔ
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/15-improving-open-food-facts-in-my-language-country/'
+    '/bamanankan-gb/ .',
+    '/en-gb/15-ka-dumuni-da-la-ko-ɲɛnabɔli-n-kan-jamana-kɔnɔ/'
   ]
 ---
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Aw ye contact@openfoodfacts.org ɲininka walasa ka sɛgɛsɛgɛli kɛ dɔnniyada la.
