@@ -1,21 +1,21 @@
 ---
-title: "I would like to suggest improvements for the professional platform, how can I do so ?"
-order: 79
+title: "N b’a fɛ ka ɲɛtaa dɔw jira ka ɲɛsin baarakɛlaw ka plateforme ma, n bɛ se k’o kɛ cogo di ?"
+order: 79. Ɲɛjirali dɔw
 lang: bamanankan-gb
-category: 17-about-open-food-facts
-parent_category: 3-producers
+category: 17-dumuni dafalen-ko-ko-ɲɛnabɔli-fɛnw
+parent_category: 3-baarakɛlaw
 breadcrumbs:
   [
-    '/en-gb/',
-    '/en-gb/3-producers/',
-    '/en-gb/3-producers/17-about-open-food-facts/'
+    '/bamanankan-gb/ .',
+    '/en-gb/3-baarakɛlaw/ .',
+    '/en-gb/3-producers/17-dumuni dafalen-ko-ko/'
   ]
 ---
 
-Thank you for your willingness to participate in food transparency!
+Aw ni ce aw ka sɔnni na ka aw sen don dumuniko jɛlen na!
 
-The best way to share feedback is by filling in this form.
+Aw bɛ se ka hakilinaw di ɲɔgɔn ma cogo min na, o ye ka nin sɛbɛn in dafa.
 
-You can also contact us to make suggestions either via our forum or via Slack.
+Aw bɛ se fana ka kuma an fɛ walasa ka hakilinaw di an ka forobajɛkulu fɛ walima Slack fɛ.
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Aw ka fara an ka Slack kan ka don kan #producers kɔnɔ walasa ka kuma an fɛ.
