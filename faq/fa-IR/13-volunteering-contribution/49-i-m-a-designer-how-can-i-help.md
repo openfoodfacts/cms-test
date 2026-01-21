@@ -1,9 +1,9 @@
 ---
-title: "I''m a designer. How can I help ?"
-order: 49
+title: "من طراح هستم. چطور می‌توانم کمک کنم؟"
+order: ۴۹
 lang: انگلیسی-انگلیسی
-category: 13-volunteering-contribution
-breadcrumbs: [ '/en-gb/', '/en-gb/13-volunteering-contribution/' ]
+category: ۱۳-کمک داوطلبانه
+breadcrumbs: [ '/fa-gb/', '/en-gb/13-volunteering-contribution/' ]
 ---
 
-We coordinate all design related activities on https://github.com/openfoodfacts/openfoodfacts-design and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
+ما تمام فعالیت‌های مرتبط با طراحی را در https://github.com/openfoodfacts/openfoodfacts-design و در یک کانال چت اختصاصی هماهنگ می‌کنیم. ما مرتباً جلسات تیمی و جلسات ایده‌پردازی در مورد چالش‌های خاص برگزار می‌کنیم.
