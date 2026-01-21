@@ -1,11 +1,11 @@
 ---
-title: "Do you consider scraping prices from retailers’ websites?"
+title: "ካብ መርበብ ሓበሬታታት ቸርችታት ዋጋታት ምሕራር ኣብ ግምት ትኣቱ ዲኻ?"
 order: 98
 lang: en-gb
-category: 29-open-prices
-breadcrumbs: [ '/en-gb/', '/en-gb/29-open-prices/' ]
+category: 29-ክፉት-ዋጋታት
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/29-ክፉት-ዋጋታት/' ]
 ---
 
-For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
+ብሕጋውን ቴክኒካውን ምኽንያታት፡ ካብ መርበብ ሓበሬታታት ቸርችታት ዋጋታት ምሕራር ከም ቅኑዕ መገዲ ኣብ ክፉት ዋጋታት ኣበርክቶ ንምግባር ኣይንቖጽሮን ኢና። እቲ እንእክቦ ዋጋታት ቅኑዕን እዋናውን ምዃኑ ከነረጋግጽ ንደሊ፣ ካብ ኣበርከትቲ ዝተሓርደ ዋጋታት ምቕባል ድማ ከምኡ ክንገብር ኣየኽእለናን እዩ።
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
