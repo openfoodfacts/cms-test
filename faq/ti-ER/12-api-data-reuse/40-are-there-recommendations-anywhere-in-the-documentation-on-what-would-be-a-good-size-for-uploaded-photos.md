@@ -1,9 +1,9 @@
 ---
-title: "Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?"
+title: "ኣብ ዝኾነ ቦታ ናይቲ ሰነድ ንዝተሰቕሉ ስእልታት እንታይ ጽቡቕ ስፍሓት ክህልዎም ዝብል ለበዋታት ኣሎ ድዩ?"
 order: 40
 lang: en-gb
-category: 12-api-data-reuse
-breadcrumbs: [ '/en-gb/', '/en-gb/12-api-data-reuse/' ]
+category: 12-api-data-ዳግመ-ኣጠቓቕማ
+breadcrumbs: [ '/ትግርኛ-ግብ/', '/en-gb/12-api-ዳታ-ዳግመ-ኣጠቓቕማ/' ]
 ---
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+እዚ ኣብ ሃገራት ክምርኮስ ይኽእል እዩ፣ መርበብ ቀስ ኢሉ ወይ ክቡር እንተኾይኑ። ዝኾነ ልዕሊ 5000 ፒክሰል ክብደት ወይ ቁመት ዘለዎ ነገር ምናልባት ብዙሕ ጠቓሚ ኣይኮነን። ከምኡ’ውን ብገለ መንገዲ ኔትወርክ ስሉጥ ምዃኑ ክትፈልጥ እንተኽኢልካ፡ ዋላ’ውን 2000 ፒክሰል ዝምዘን ምስሊ ብሉጽ ምኾነ (ብርግጽ ካብ ምስሊ ዘይምህላው ዝሓሸ!)
