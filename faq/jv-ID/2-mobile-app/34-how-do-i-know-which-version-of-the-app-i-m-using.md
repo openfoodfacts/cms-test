@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Kepiye carane ngerti versi aplikasi sing dakgunakake?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasi-seluler
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasi-seluler/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Bukak Profil,
+banjur FAQ, banjur Babagan aplikasi iki.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Sampeyan kudune
+ndeleng nomer versi kaya 3.4.5+662. Aja lali ngandhani merek lan model
+ponsel kasebut yen lagi debugging.
