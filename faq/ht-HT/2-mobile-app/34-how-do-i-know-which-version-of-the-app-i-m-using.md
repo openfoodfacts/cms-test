@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Kijan mwen ka konnen ki vèsyon aplikasyon m ap itilize a?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-aplikasyon mobil
+breadcrumbs: [ '/en-gb/', '/en-gb/2-aplikasyon-mobil/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Ale nan Pwofil,
+apresa FAQ, epi A pwopo aplikasyon sa a.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Ou ta dwe
+wè yon nimewo vèsyon tankou 3.4.5+662. Pa bliye di nou mak ak modèl
+telefòn nan si l ap debogaj.
