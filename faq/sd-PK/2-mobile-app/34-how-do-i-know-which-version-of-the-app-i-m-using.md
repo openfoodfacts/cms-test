@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "مون کي ڪيئن خبر پوندي ته مان ايپ جو ڪهڙو ورجن استعمال ڪري رهيو آهيان؟"
 order: 34
 lang: اين جي بي
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-موبائيل-ايپ
+breadcrumbs: [ '/en-gb/', '/sd-gb/2-موبائل-ايپ/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+پروفائل ڏانهن وڃو،
+پوءِ FAQ، پوءِ هن ايپ بابت.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+توهان کي
+هڪ ورجن نمبر ڏسڻ گهرجي جيئن 3.4.5+662. جيڪڏهن فون ڊيبگ ٿي رهيو آهي ته اسان کي ان جي ٺاهيندڙ ۽ ماڊل
+بابت ٻڌائڻ نه وساريو.
