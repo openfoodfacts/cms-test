@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Sideen ku ogaan karaa nooca abka aan isticmaalayo?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-abka moobaylka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-abka-mobile-ka/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Tag Bogga,
+ka dibna Su'aalaha Badiya La Weydiiyo, ka dibna Ku saabsan barnaamijkan.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Waa inaad
+aragtaa lambar nooc ah sida 3.4.5+662. Ha iloobin inaad noo sheegto nooca iyo nooca taleefanka
+haddii uu khalad samaynayo.
