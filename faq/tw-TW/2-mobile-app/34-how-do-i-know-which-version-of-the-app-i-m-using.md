@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "Mɛyɛ dɛn ahu app no version bɛn na mede redi dwuma?"
+order: 34. Ɔde ne nsa kyerɛɛ ne so
 lang: tw-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-mobile-app a wɔde di dwuma
+breadcrumbs: [ '/twi-gb/ .', '/en-gb/2-mobile-app/ .' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Kɔ Profile,
+afei FAQ, afei About this app.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Ɛsɛ sɛ wo
+hu version nɔma te sɛ 3.4.5+662. Mma wo werɛ mmfi sɛ wobɛka telefon no make ne model
+akyerɛ yɛn sɛ ɛreyɛ debugging a.
