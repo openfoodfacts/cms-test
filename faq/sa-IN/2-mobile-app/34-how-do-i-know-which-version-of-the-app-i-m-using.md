@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "अहं कथं ज्ञास्यामि यत् अहं एप् इत्यस्य कस्य संस्करणस्य उपयोगं करोमि?"
+order: ३४
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: २-मोबाइल-एप्
+breadcrumbs: [ '/एन्-ग्ब/ २.', '/en-gb/2-मोबाइल-अनुप्रयोग/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Profile,
+ततः FAQ, ततः About this app इति गच्छन्तु ।
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+भवता
+३.४.५+६६२ इत्यादिं संस्करणसङ्ख्यां द्रष्टव्यम् । यदि सः त्रुटिनिवारणं करोति तर्हि दूरभाषस्य मेक तथा मॉडल्
+इति वक्तुं मा विस्मरन्तु ।
