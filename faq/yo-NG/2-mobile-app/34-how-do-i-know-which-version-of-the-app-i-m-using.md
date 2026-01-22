@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
+title: "Báwo ni mo ṣe lè mọ irú àpù tí mò ń lò?"
 order: 34
 lang: en-gb
-category: 2-mobile-app
-breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
+category: 2-àpù-àgbékalẹ̀ alágbéka
+breadcrumbs: [ '/en-gb/', '/en-gb/2-àpù-mobile-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Lọ sí Profaili,
+lẹ́yìn náà sí àwọn ìbéèrè tó wà nílẹ̀, lẹ́yìn náà nípa àpù yìí.
 
 You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+see a version number like 3.4.5+662. Má gbàgbé láti sọ fún wa bí fóònù náà ṣe rí àti irú rẹ̀
+tí ó bá ń ṣe àtúnṣe sí i.
