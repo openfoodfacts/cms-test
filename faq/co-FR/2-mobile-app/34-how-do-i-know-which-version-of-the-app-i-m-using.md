@@ -1,14 +1,14 @@
 ---
-title: "How do I know which version of the app I''m using?"
-order: 34
+title: "Cumu possu sapè quale versione di l'app aghju adupratu?"
+order: 34 anni
 lang: en-gb
-category: 2-mobile-app
+category: 2-app mobile
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-Go to Profile,
-then FAQ, then About this app.
+Andate à u Profilu,
+dopu FAQ, dopu À propositu di sta app.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Duvete
+vede un numeru di versione cum'è 3.4.5+662. Ùn vi scurdate di dì ci a marca è u mudellu
+di u telefunu s'ellu hè in debugging.
