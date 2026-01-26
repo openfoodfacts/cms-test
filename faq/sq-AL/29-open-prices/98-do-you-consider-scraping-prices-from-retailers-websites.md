@@ -8,4 +8,4 @@ breadcrumbs: [ '/en-gb/', '/en-gb/29-çmimet-e-hapjes/' ]
 
 Për arsye ligjore dhe teknike, ne nuk e konsiderojmë nxjerrjen e çmimeve nga faqet e internetit të shitësve me pakicë si një mënyrë të vlefshme për të kontribuar në Çmimet e Hapura. Ne duam të sigurohemi që çmimet që mbledhim janë të sakta dhe të azhurnuara, dhe marrja e çmimeve të mbledhura nga kontribuesit nuk na lejon ta bëjmë këtë.
 
-Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
+Përmbledhja e çmimeve është një opsion i konsideruar në një version të ardhshëm të Open Prices, por do të bëhet nga vetë Open Prices në mënyrë që të kemi një provë të çmimit bazuar në faqen HTML.
