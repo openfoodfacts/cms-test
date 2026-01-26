@@ -18,7 +18,7 @@ A gba gbogbo alaye ti o ba ni, lati alaye ounje si alaye apoti.
 
 Sibẹsibẹ, a ṣeduro pe ki o fi awọn aaye wọnyi si ipo akọkọ:
 
-- Nutritional information
+- Ìwífún nípa oúnjẹ
 - Ẹ̀ka ọjà (fún àpẹẹrẹ ohun mímu, wàràkàṣì, wàràkàṣì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ)
 - Orukọ ọja naa
 - Allergens
