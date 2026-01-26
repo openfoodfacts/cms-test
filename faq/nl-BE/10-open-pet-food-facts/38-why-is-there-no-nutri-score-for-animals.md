@@ -6,7 +6,7 @@ category: 10 feiten over dierenvoeding
 breadcrumbs: [ '/en-gb/', '/en-gb/10-open-pet-food-facts/' ]
 ---
 
-Elk dier is anders (een slang heeft niet dezelfde voedingsbehoeften als een kat of een hond).
+Elk dier is anders (een slang heeft niet dezelfde voedingsbehoeften als een kat of een hond)
 
 Zelfs binnen hetzelfde diertype, zoals honden, variëren de voedingsbehoeften afhankelijk van een sedentaire levensstijl, een eventuele castratie of ziekten.
 
