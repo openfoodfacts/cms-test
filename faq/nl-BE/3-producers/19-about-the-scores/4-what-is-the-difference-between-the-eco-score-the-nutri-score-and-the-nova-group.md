@@ -16,4 +16,4 @@ Het doel van deze indicatoren is om de consument gemakkelijk te begrijpen inform
 
 De NOVA-groep houdt zich bezig met de transformatie van het product, de Eco-Score met de milieu-impact en de Nutri-Score met de voedingswaarde, in de wetenschap dat hoe hoger de score van een product, hoe beter de kwaliteit ervan is.
 
-De drie partituren behandelen niet dezelfde elementen. Het is daarom niet mogelijk om ze met elkaar te vergelijken.
+De 3 scores gaan niet over dezelfde elementen. Het is daarom niet mogelijk om ze met elkaar te vergelijken.
