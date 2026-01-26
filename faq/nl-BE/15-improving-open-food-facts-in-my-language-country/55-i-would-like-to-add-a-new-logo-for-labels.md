@@ -1,5 +1,5 @@
 ---
-title: "Ik wil graag een nieuw logo voor etiketten toevoegen."
+title: "Ik wil graag een nieuw logo voor labels toevoegen"
 order: 55
 lang: en-gb
 category: 15-verbetering van open voedselfeiten in mijn taalland
