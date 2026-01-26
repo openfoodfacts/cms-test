@@ -1,5 +1,5 @@
 ---
-title: "De app scant niet."
+title: "De app scant niet"
 order: 35
 lang: en-gb
 category: 2-mobiele-app
