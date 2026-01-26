@@ -6,7 +6,7 @@ category: 1-mijn-open-voedsel-feiten-account
 breadcrumbs: [ '/en-gb/', '/en-gb/1-my-open-food-facts-account/' ]
 ---
 
-Je kunt je account nu rechtstreeks in je voorkeuren verwijderen.
+Het verwijderen van uw account gebeurt nu direct in uw voorkeuren.
 
 Na het inloggen op https://world.openfoodfacts.org/ klikt u op uw gebruikersnaam in de rechterbovenhoek en kiest u 'Accountparameters'. Het opent je voorkeurspagina. Ga naar de onderkant van de pagina en gebruik de actie "verwijder gebruiker".
 
