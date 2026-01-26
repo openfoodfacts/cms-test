@@ -1,5 +1,5 @@
 ---
-title: "Ik heb een vraag/klacht over een product."
+title: "Ik heb een vraag/klacht over een product"
 order: 46
 lang: en-gb
 category: 4 vragen over een product
