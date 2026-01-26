@@ -18,7 +18,7 @@ Fágann sé seo gur féidir comhad iomlán a bhunú, na scóir go léir a ríomh
 
 Mar sin féin, molaimid duit tosaíocht a thabhairt do na réimsí seo a leanas:
 
-- Nutritional information
+- Faisnéis chothaitheach
 - Catagóir táirge (m.sh. deochanna, cáis, iógart, srl.)
 - Ainm an táirge
 - Allergens
