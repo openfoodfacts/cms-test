@@ -6,8 +6,7 @@ category: 2-mobiele-app
 breadcrumbs: [ '/en-gb/', '/en-gb/2-mobile-app/' ]
 ---
 
-Ga naar Profiel,
-, vervolgens naar Veelgestelde vragen en daarna naar Over deze app.
+Ga naar Profiel,, vervolgens naar Veelgestelde vragen en daarna naar Over deze app.
 
 U zou
 een versienummer zoals 3.4.5+662 moeten zien. Vergeet niet het merk en model
