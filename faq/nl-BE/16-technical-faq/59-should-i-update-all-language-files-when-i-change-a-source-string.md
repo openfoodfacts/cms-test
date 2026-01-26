@@ -6,7 +6,7 @@ category: 16-technische-veelgestelde vragen
 breadcrumbs: [ '/en-gb/', '/en-gb/16-technical-faq/' ]
 ---
 
-Nee, dat doe je niet. Je hoeft alleen de Engelse versie bij te werken.
+Nee, dat doe je niet. Je hoeft alleen de Engelse versie bij te werken
 
 - Maak je eigen persbericht aan.
 
