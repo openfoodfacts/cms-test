@@ -18,7 +18,7 @@ Gant-se e c'haller sevel ur restr klok, jediñ an holl skoroù gant resisted ha 
 
 Koulskoude e kinnigomp deoc'h lakaat ar maeziennoù da-heul da gentañ :
 
-- Nutritional information
+- Titouroù diwar-benn ar boued
 - Rummad produioù (da sk. evajoù, keuz, yaourt, h.a.)
 - Anv ar produ
 - Allergens
