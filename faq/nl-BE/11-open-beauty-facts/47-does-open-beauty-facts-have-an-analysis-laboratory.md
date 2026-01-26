@@ -12,7 +12,7 @@ Mocht u ons echter willen helpen om meer transparantie te bieden voor
 
 consumenten, u kunt onze iPhone-, Android- en
 
-Windows Phone voegt producten toe:
+Windows Phone om producten toe te voegen:
 
 https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner
 
