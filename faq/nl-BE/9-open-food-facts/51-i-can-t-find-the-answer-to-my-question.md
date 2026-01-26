@@ -1,5 +1,5 @@
 ---
-title: "Ik kan het antwoord op mijn vraag niet vinden."
+title: "Ik kan het antwoord op mijn vraag niet vinden"
 order: 51
 lang: en-gb
 category: 9-open-food-facts
