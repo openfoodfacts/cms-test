@@ -22,6 +22,6 @@ We raden u echter aan om prioriteit te geven aan de volgende velden:
 - Productcategorie (bijv. dranken, kaas, yoghurt, enz.)
 - Naam van het product
 - Allergenen
-- en de ingrediënten; dit veld is niet verplicht, maar wel aanbevolen voor optimaal gebruik en het bepalen van de scores.
+- en de ingrediënten; dit veld is niet verplicht, maar wel aanbevolen voor optimaal gebruik en het bepalen van de scores
 
-→ Voor meer informatie nodigen we u uit om onze gebruikershandleiding te downloaden en/of onze videotutorials te bekijken :-)
+→ Voor meer informatie nodigen we u uit om onze gebruikershandleiding te downloaden en/of onze videotutorials te bekijken:-)
