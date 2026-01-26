@@ -11,5 +11,4 @@ Facts is een 1901 non-profit vereniging. U kunt ons helpen door deel te nemen aa
 (66% aftrekbaar) en ook door de Lilo
 zoekmachine te gebruiken.
 
-Heel erg bedankt
-!
+Heel erg bedankt!
