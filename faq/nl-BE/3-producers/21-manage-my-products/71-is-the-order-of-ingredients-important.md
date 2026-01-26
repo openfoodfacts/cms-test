@@ -12,5 +12,5 @@ breadcrumbs:
   ]
 ---
 
-De volgorde van de ingrediënten is belangrijk: deze geeft de hoeveelheid aan.
-De beste manier om de ingrediënten toe te voegen is door precies te volgen wat er op de verpakking staat. Daarom is het ook zo belangrijk om foto's van de ingrediënten te laten afdrukken.
+De volgorde van de ingrediënten**is belangrijk**: het vertegenwoordigt de volgorde per hoeveelheid.
+De beste manier om de ingrediënten op te vullen is door exact te volgen wat er op de verpakking staat. Daarom is het ook zo belangrijk om foto's van de ingrediënten te laten afdrukken.
