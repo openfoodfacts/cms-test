@@ -18,7 +18,7 @@ Kjo bën të mundur krijimin e një skedari të plotë, llogaritjen e të gjitha
 
 Megjithatë, ne ju rekomandojmë t'i jepni përparësi fushave të mëposhtme:
 
-- Nutritional information
+- Informacion ushqyes
 - Kategoria e produktit (p.sh. pije, djathë, kos, etj.)
 - Emri i produktit
 - Allergens
