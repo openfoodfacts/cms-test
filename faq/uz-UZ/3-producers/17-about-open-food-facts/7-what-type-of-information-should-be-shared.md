@@ -18,7 +18,7 @@ Bu to'liq faylni yaratish, barcha ballarni aniqlik bilan hisoblash va umuman olg
 
 Biroq, quyidagi sohalarga ustuvorlik berishingizni tavsiya qilamiz:
 
-- Nutritional information
+- Oziqlanish haqida ma'lumot
 - Mahsulot toifasi (masalan, ichimliklar, pishloq, yogurt va boshqalar)
 - Mahsulot nomi
 - Allergens
