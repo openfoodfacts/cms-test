@@ -18,7 +18,7 @@ Mae hyn yn ei gwneud hi'n bosibl sefydlu ffeil gyflawn, cyfrifo'r holl sgoriau g
 
 Fodd bynnag, rydym yn argymell eich bod yn blaenoriaethu'r meysydd canlynol:
 
-- Nutritional information
+- Gwybodaeth faethol
 - Categori cynnyrch (e.e. diodydd, caws, iogwrt, ac ati)
 - Enw'r cynnyrch
 - Allergens
