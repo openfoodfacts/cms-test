@@ -47,7 +47,7 @@ La page /data est actuellement indisponible. Vous pouvez télécharger les donn�
 
 L'API Open Food Facts est identique à 98 % à l'API Open Beauty Facts ; par conséquent, si vous consultez la documentation de l'API Open Food Facts, vous aurez une vision assez claire de l'API Open Beauty Facts.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Remarque : les fonctionnalités telles que les Panneaux de Connaissances, les Eco-Scores et Nutri-Score ne sont pas prises en charge (à cause soit du sujet soit de l'ancienne base de code).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
