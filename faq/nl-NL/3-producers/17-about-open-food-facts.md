@@ -11,9 +11,9 @@ icon: info-cirkel
 
 ## Welke soorten informatie moeten worden gedeeld?
 
-Alle informatie die u heeft is welkom, van voedingsinformatie tot informatie over de verpakking.
+Alle informatie waarover u beschikt is welkom, van voedingsinformatie tot verpakkingsinformatie
 
-Dit maakt het mogelijk om een compleet dossier op te stellen, alle scores nauwkeurig te berekenen en, meer in het algemeen, een transparantie te bieden die door consumenten wordt gewaardeerd.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
 We raden u echter aan om prioriteit te geven aan de volgende velden:
 
