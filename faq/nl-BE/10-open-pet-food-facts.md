@@ -1,5 +1,5 @@
 ---
-title: "{{< fa paw size=2x >}} Open Voedingsfeiten voor huisdieren"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
 description: "2 vragen"
 lang: en-gb
 order: 10
