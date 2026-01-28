@@ -35,9 +35,9 @@ U bent van harte welkom om:
 
 - onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) te raadplegen
 
-- Geef feedback of suggesties via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+- feedback of suggesties te delen via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
 
-- Plan een gesprek in met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+- Een gesprek in te plannen met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
 
 - Neem contact met ons op via e-mail: producers@openfoodfacts.org
 
