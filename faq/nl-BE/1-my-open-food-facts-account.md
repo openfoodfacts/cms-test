@@ -15,7 +15,7 @@ Het verwijderen van uw account gebeurt nu direct in uw voorkeuren.
 
 Na het inloggen op [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klikt u op uw gebruikersnaam in de rechterbovenhoek en kiest u 'Accountparameters'. Het opent je voorkeurspagina. Ga naar de onderkant van de pagina en gebruik de actie "verwijder gebruiker".
 
-Als u niet kunt inloggen (of uw wachtwoord niet kunt resetten), neem dan contact op met dpo - at - [openfoodfacts.org](http://openfoodfacts.org), via het e-mailadres waarmee u uw account heeft geregistreerd.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
