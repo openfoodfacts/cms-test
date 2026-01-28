@@ -33,7 +33,7 @@ can join the Facebook group of contributors:
 
 Neem contact op met producteurs@openfoodfacts.org of ga direct naar
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) neem dan contact op met **producteurs@openfoodfacts.org** voor een speciale export.
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
