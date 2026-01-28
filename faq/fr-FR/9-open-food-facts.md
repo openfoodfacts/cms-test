@@ -103,8 +103,8 @@ Facts est une association à but non lucratif de 1901. Vous pouvez nous aider en
 (66 % déductibles) et aussi en utilisant le moteur de recherche Lilo
 .
 
-**Thank
-you very much!**
+**Merci
+beaucoup !**
 
 ---
 
