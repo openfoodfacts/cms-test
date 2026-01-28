@@ -1,14 +1,17 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: ../_site/faq
 
-licence: "CC BY-SA"  # https://quarto.org/docs/authoring/front-matter.html#license
+filters:
+  - fontawesome
 
 website:
-  title: "Open Food Facts Knowledge Base"
+  title: "FAQ"
   navbar:
+    background: primary
+    logo: "https://world.openfoodfacts.org/images/logos/off-logo-horizontal-light.svg"
     left:
-      - text: '<span id="language-selector-trigger">🌐 Language <span class="dropdown-arrow">▼</span></span>'
+      - text: '<span id="language-selector-trigger">🌐 Language ▼</span>'
         href: "#"
     right:
       - icon: github
@@ -22,9 +25,7 @@ format:
     theme: cosmo
     css: custom.css
     toc: true
-    link-external-icon: true
-    include-in-header: breadcrumbs.html
+    toc-depth: 2
+    from: markdown+autolink_bare_uris
     include-after-body: language-selector.html
-    
 
-from: markdown+autolink_bare_uris

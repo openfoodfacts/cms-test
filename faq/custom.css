@@ -1,63 +1,113 @@
-/* Custom CSS for Knowledge Base */
+/* Open Food Facts color scheme */
+:root {
+    --off-brown-light: #f2e9e4;
+    --off-brown-dark: #52371e;
+    --off-orange: #ff8714;
+    --off-text: #333333;
+    --off-bg: #ffffff;
+    --off-bg-light: #f8f9fa;
+}
 
-/* Category cards: center titles */
+/* Navigation bar */
+.navbar {
+    background-color: var(--off-brown-light) !important;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+    color: black !important;
+}
+
+.navbar .nav-link:hover {
+    background-color: rgba(82, 55, 30, 0.2);
+}
+
+/* Primary buttons and links */
+a {
+    color: var(--off-brown-dark);
+}
+
+a:hover {
+    color: var(--off-orange);
+}
+
+/* Card styling with OFF colors */
+.card {
+    border: 1px solid #e0e0e0;
+    transition: all 0.3s ease;
+}
+
+.card:hover {
+    border-color: var(--off-brown-dark);
+    box-shadow: 0 4px 12px rgba(82, 55, 30, 0.15);
+}
+
 .card-title {
-    text-align: center;
+    color: var(--off-brown-dark);
 }
 
-/* Style for category icons in titles */
-.fa, .fa-solid, .fa-regular, .fa-brands {
-    margin-bottom: 0.4em;
-}
-h1.title .fa {
-    display: block;
-    margin: 0 auto 0.5em auto;
-}
-
-.listing-title {
-    font-size: 1.2em;
-}
-
-/* --------------- Simple navigation bar --------------- */
-.breadcrumb-nav {
-    display: flex;
-    gap: 1rem;
-    margin-bottom: 1.5em;
-    padding: 0.75em 1em;
-    background-color: #f8f9fa;
-    border-radius: 0.25rem;
+/* Language selector dropdown */
+.language-dropdown {
+    display: none;
+    position: fixed;
+    background: white;
+    border: 2px solid var(--off-brown-dark);
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(82, 55, 30, 0.2);
+    z-index: 1000;
+    min-width: 200px;
+    margin-top: 5px;
 }
 
-.nav-home-link {
-    color: #0d6efd;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.nav-home-link:hover {
-    color: #0a58ca;
-    text-decoration: underline;
-}
-
-.nav-back-button {
-    background: none;
+.language-dropdown input {
+    width: 100%;
+    padding: 10px;
     border: none;
-    color: #0d6efd;
-    cursor: pointer;
-    font-weight: 500;
-    font-size: 1em;
-    padding: 0;
-    font-family: inherit;
+    border-bottom: 2px solid var(--off-brown-light);
+    font-size: 14px;
 }
 
-.nav-back-button:hover {
-    color: #0a58ca;
-    text-decoration: underline;
+.language-dropdown input:focus {
+    outline: none;
+    border-bottom-color: var(--off-brown-dark);
 }
 
-/* ------------- GitHub footer links (icon only) ------------- */
+.language-list {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.language-option {
+    display: block;
+    padding: 10px 15px;
+    color: var(--off-text);
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+.language-option:hover {
+    background: var(--off-brown-light);
+    color: white;
+}
+
+.language-option.active {
+    background: var(--off-brown-dark);
+    color: white;
+    font-weight: bold;
+}
+
+/* GitHub footer links (icon only) */
+.nav-footer {
+    background-color: var(--off-bg-light);
+}
+
 .nav-footer .nav-footer-center a {
     font-size: 0 !important;
+    color: var(--off-brown-dark);
+}
+
+.nav-footer .nav-footer-center a:hover {
+    color: var(--off-orange);
 }
 
 .nav-footer .nav-footer-center a i,
@@ -65,78 +115,58 @@ h1.title .fa {
     font-size: 1.5rem !important;
 }
 
-/* ------------- Language selector dropdown ------------- */
-#language-selector-trigger {
-    cursor: pointer;
-    user-select: none;
+/* Table of contents */
+.toc-actions {
+    margin-bottom: 1em;
 }
 
-#language-dropdown {
-    display: none;
-    position: fixed;
-    top: 60px;
-    left: 20px;
-    background: white;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    z-index: 10000;
-    width: 320px;
-    max-height: 500px;
-    overflow: hidden;
+.toc-actions button {
+    border-color: var(--off-brown-dark);
+    color: var(--off-brown-dark);
 }
 
-#language-dropdown.show {
+.toc-actions button:hover {
+    background-color: var(--off-brown-dark);
+    color: white;
+}
+
+/* Search icon in navbar */
+.aa-DetachedSearchButton,
+.aa-DetachedSearchButton:hover,
+#quarto-search .aa-Autocomplete .aa-Form,
+#quarto-search .aa-DetachedSearchButton {
+    color: black !important;
+}
+
+.aa-DetachedSearchButton .aa-SubmitIcon,
+.aa-DetachedSearchButton .aa-LoadingIcon {
+    color: black !important;
+}
+
+/* FontAwesome icons in card titles - display on separate line */
+.card-title i.fa-solid,
+.card-title i.fa-brands {
     display: block;
+    margin-bottom: 0.5em;
+    color: var(--off-brown-dark);
 }
 
-#language-search {
-    width: 100%;
-    padding: 12px 16px;
-    border: none;
-    border-bottom: 1px solid #eee;
-    font-size: 14px;
-    box-sizing: border-box;
-    outline: none;
+/* Display FontAwesome icons in listing grid using data-icon attribute */
+.quarto-listing-grid .g-col-1:has(.listing-icon) {
+    text-align: center;
 }
 
-#language-search:focus {
-    border-bottom-color: #0066cc;
+.quarto-listing-grid .listing-icon::before {
+    font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands";
+    font-weight: 900;
+    font-size: 2em;
+    content: attr(data-icon);
+    display: block;
+    margin-bottom: 0.5em;
+    color: #2780e3;
 }
 
-#language-list {
-    max-height: 400px;
-    overflow-y: auto;
-    padding: 8px 0;
-}
-
-.language-item {
-    padding: 10px 16px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    transition: background-color 0.15s;
-}
-
-.language-item:hover {
-    background-color: #f5f5f5;
-}
-
-.language-item.active {
-    background-color: #e3f2fd;
-    font-weight: 600;
-}
-
-.language-flag {
-    margin-right: 12px;
-    font-size: 20px;
-}
-
-.language-name {
-    flex: 1;
-}
-
-.dropdown-arrow {
-    font-size: 10px;
-    margin-left: 4px;
+/* Hide empty icon field */
+.quarto-listing-grid .listing-icon:empty {
+    display: none;
 }
