@@ -15,7 +15,7 @@ Momenteel zijn er geen exportproducten bestemd voor specifieke landen.
 
 Er zijn veel manieren om onze verschillende exportopties te combineren met diverse tools om de gegevens te selecteren die betrekking hebben op een specifiek land.
 
-Je kunt een kijkje nemen naar [sommige van deze technieken op onze wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+
 
 ---
 
