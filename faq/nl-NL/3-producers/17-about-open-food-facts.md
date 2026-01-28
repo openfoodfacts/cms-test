@@ -13,7 +13,7 @@ icon: info-cirkel
 
 Alle informatie waarover u beschikt is welkom, van voedingsinformatie tot verpakkingsinformatie
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+
 
 We raden u echter aan om prioriteit te geven aan de volgende velden:
 
