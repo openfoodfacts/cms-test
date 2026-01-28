@@ -23,8 +23,7 @@ Om Open Products Facts te ondersteunen, kunt u de volgende opties overwegen, die
 
 -
 
-**Philanthropic/State Sponsors for Open Products Facts**:
-Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Veel essentiële onderdelen van deze visie zijn nog niet gefinancierd, en uw financiële steun kan een aanzienlijk verschil maken. Uw donaties kunnen helpen bij de financiering van cruciale ontwikkelingen en infrastructuur. Om financieel bij te dragen, kunt u contact opnemen via contact@openfoodfacts.org
+Veel essentiële onderdelen van deze visie zijn nog niet gefinancierd, en uw financiële steun kan een aanzienlijk verschil maken. Uw donaties kunnen helpen bij de financiering van cruciale ontwikkelingen en infrastructuur. Om financieel bij te dragen, kunt u contact opnemen via contact@openfoodfacts.org
 
 -
 
@@ -33,8 +32,7 @@ Data-bijdragen zijn essentieel voor de schaalvergroting van Open Products Facts.
 
 -
 
-**Technical Contributors to Open Products Facts**:
-If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Meewerken aan de ontwikkeling van de app, het verbeteren van de functionaliteit ervan of het optimaliseren van de gebruikersinterface zijn waardevolle bijdragen. Om mee te doen, word lid van het Slack-kanaal #openproductsfacts, waar de Open Products Facts-community samenwerkt. Je vindt een link naar deze Slack-werkruimte op de website van Open Food Facts.
+Meewerken aan de ontwikkeling van de app, het verbeteren van de functionaliteit ervan of het optimaliseren van de gebruikersinterface zijn waardevolle bijdragen. Om mee te doen, word lid van het Slack-kanaal #openproductsfacts, waar de Open Products Facts-community samenwerkt. Je vindt een link naar deze Slack-werkruimte op de website van Open Food Facts.
 
 Elke vorm van bijdrage is belangrijk voor de groei en het succes van Open Products Facts en helpt bij het creëren van een duurzamer en informatiever platform voor iedereen.
 
