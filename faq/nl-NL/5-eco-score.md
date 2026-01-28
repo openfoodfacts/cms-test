@@ -37,7 +37,7 @@ We hebben ook de volgende verpakkingsonderdelen nodig: 1 wegwerp plastic folie, 
 
 ## Hoe worden de waarden van de 15 indicatoren gecombineerd?
 
-**Om het PEF-systeem beter te begrijpen, kunt u de uitleg van de PEF-score lezen op de methodologische website van Eco-Score.**
+
 
 ---
 
