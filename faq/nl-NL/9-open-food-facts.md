@@ -1,5 +1,5 @@
 ---
-title: "{{< fa question-circle size=2x >}} Open Voedingsfeiten"
+title: "{{< fa vraag-cirkel size=2x >}} Open Food Facts"
 description: "9 vragen"
 lang: en-gb
 order: 9
@@ -43,9 +43,9 @@ Om juridische problemen te voorkomen, vragen we bijdragers daarom om alleen foto
 
 U kunt vragen stellen of suggesties doen op het forum of contact met ons opnemen via e-mail: contact@openfoodfacts.org
 
-Als u producent bent, kunt u ons een e-mail sturen naar [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+Als u producent bent, kunt u een e-mail sturen naar [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Als u journalist bent, kunt u ons een e-mail sturen naar [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+Als u journalist bent, kunt u een e-mail sturen naar [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
 Let op: [Open Food Facts is een gezamenlijke database van voedingsproducten](https://world.openfoodfacts.org/discover), wij verkopen geen producten en hebben geen banden met de producenten ervan. Voor een productvraag of -klacht moet je rechtstreeks contact opnemen met de producent (hun adres is op het etiket te vinden).
 
@@ -104,8 +104,7 @@ Facts is een 1901 non-profit vereniging. U kunt ons helpen door [deel te nemen a
 (66% aftrekbaar) en ook door de Lilo
 zoekmachine te gebruiken.
 
-**Hartelijk dank
-!**
+**Hartelijk dank!**
 
 ---
 
