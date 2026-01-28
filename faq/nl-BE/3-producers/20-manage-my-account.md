@@ -31,11 +31,11 @@ Er zijn een aantal hulpmiddelen beschikbaar om het Pro-platform optimaal te benu
 
 U bent van harte welkom om:
 
-- Bekijk onze [gebruikershandleiding](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we raden u aan de PDF te downloaden, zodat de links klikbaar zijn. Dit maakt de navigatie door het document eenvoudiger.
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
 
-- raadpleeg onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+- onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) te raadplegen
 
-- Geef feedback of suggesties via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+- feedback of suggesties te delen via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
 
 - Plan een gesprek in met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
 
