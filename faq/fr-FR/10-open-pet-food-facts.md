@@ -23,7 +23,7 @@ Il est donc compliqué de calculer un score pour l'alimentation animale sans imp
 
 Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Remarque : les fonctionnalités telles que les Panneaux de Connaissances, les Eco-Scores et Nutri-Score ne sont pas prises en charge (à cause soit du sujet soit de l'ancienne base de code).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
