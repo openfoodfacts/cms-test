@@ -19,11 +19,11 @@ Het is daarom ingewikkeld om een score voor diervoeding te berekenen zonder tien
 
 ---
 
-## Where can I find the Open Pet Food Facts API ?
+## Waar kan ik de Open Pet Food Facts API vinden?
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+De Open Pet Food Facts API is voor 98% hetzelfde als de Open Food Facts API, dus als je de documentatie van de Open Food Facts API gebruikt, krijg je een vrij duidelijk beeld van de Open Pet Food Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Houd er rekening mee dat functies zoals de kennispanelen, Eco-Score en Nutri-Score niet worden ondersteund (vanwege het onderwerp of de verouderde code).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
