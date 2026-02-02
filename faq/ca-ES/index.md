@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Preguntes freqüents - Anglès"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "ordre"
   fields: [ títol, descripció ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Preguntes freqüents
