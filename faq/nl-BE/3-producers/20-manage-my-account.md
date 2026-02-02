@@ -37,7 +37,7 @@ U bent van harte welkom om:
 
 - feedback of suggesties te delen via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
 
-- Plan een gesprek in met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+- Een gesprek in te plannen met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
 
 - Neem contact met ons op via e-mail: producers@openfoodfacts.org
 
