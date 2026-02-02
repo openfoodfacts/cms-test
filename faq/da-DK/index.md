@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Ofte stillede spørgsmål - Engelsk"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "bestille"
   fields: [ titel, beskrivelse ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Ofte stillede spørgsmål
