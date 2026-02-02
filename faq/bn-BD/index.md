@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী - ইংরেজি"
-lang: en-gb সম্পর্কে
+lang: "en-gb সম্পর্কে"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.এমডি"
@@ -12,6 +15,8 @@ listing:
   sort: "অর্ডার"
   fields: [ শিরোনাম, description ]
   page-size: ১০০
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
