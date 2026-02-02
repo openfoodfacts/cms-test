@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Հաճախակի տրվող հարցեր - Անգլերեն"
-lang: անգլերեն-գբ
+lang: "անգլերեն-գբ"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "կարգ"
   fields: [ վերնագիր, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
