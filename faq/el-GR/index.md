@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Συχνές ερωτήσεις - Αγγλικά"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "παραγγελία"
   fields: [ τίτλος, περιγραφή ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Συχνές Ερωτήσεις
