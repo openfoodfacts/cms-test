@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Câu hỏi thường gặp - Tiếng Anh"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "đặt hàng"
   fields: [ tiêu đề, sự miêu tả ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Câu hỏi thường gặp
