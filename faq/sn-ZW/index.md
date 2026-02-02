@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Mibvunzo Inowanzo bvunzwa - Chirungu"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "odha"
   fields: [ zita remusoro, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
