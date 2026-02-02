@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Pertanyaan yang Sering Diajukan (FAQ) - Bahasa Inggris"
-lang: bahasa Inggris
+lang: "bahasa Inggris"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "memesan"
   fields: [ judul, deskripsi ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Pertanyaan Umum
