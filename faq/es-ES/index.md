@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Preguntas frecuentes - Inglés"
-lang: es-gb
+lang: "es-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.Maryland"
@@ -12,6 +15,8 @@ listing:
   sort: "orden"
   fields: [ título, descripción ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Preguntas frecuentes
