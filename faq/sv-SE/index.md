@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Vanliga frågor - Engelska"
-lang: sv-gb
+lang: "sv-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "beställa"
   fields: [ titel, beskrivning ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Vanliga frågor (FAQ)
