@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "FAQ - English"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,7 @@ listing:
   sort: "order"
   fields: [title, description]
   page-size: 100
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
