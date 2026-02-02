@@ -9,3 +9,5 @@ files:
         es: es
         fr: fr
         it: it
+    excluded_front_matter_elements:
+      - listing
