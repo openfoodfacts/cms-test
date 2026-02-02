@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Pitakonan sing Sering Ditakoni - Basa Inggris"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "pesenan"
   fields: [ judhul, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
