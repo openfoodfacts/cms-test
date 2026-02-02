@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Mga Madalas Itanong - Ingles"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "umorder"
   fields: [ pamagat, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
