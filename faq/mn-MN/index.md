@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Түгээмэл асуултууд - Англи хэл"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "захиалга"
   fields: [ гарчиг, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
