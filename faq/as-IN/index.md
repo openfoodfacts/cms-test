@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "FAQ - ইংৰাজী"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "ক্ৰম"
   fields: [ অলপ, description ]
   page-size: ১০০
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
