@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Bieži uzdotie jautājumi — angļu valodā"
-lang: lv-lv
+lang: "lv-lv"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "pasūtījums"
   fields: [ nosaukums, apraksts ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Bieži uzdotie jautājumi
