@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Întrebări frecvente - Engleză"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "comanda"
   fields: [ titlu, descriere ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Întrebări Frecvente
