@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "សំណួរដែលសួរញឹកញាប់ - ភាសាអង់គ្លេស"
-lang: អង់គ្លេស-ជីកាបៃ
+lang: "អង់គ្លេស-ជីកាបៃ"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "លំដាប់"
   fields: [ ចំណងជើង, description ]
   page-size: ១០០
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
