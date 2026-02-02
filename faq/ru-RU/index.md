@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Часто задаваемые вопросы (FAQ) - на английском языке"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "заказ"
   fields: [ заголовок, описание ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Часто задаваемые вопросы
