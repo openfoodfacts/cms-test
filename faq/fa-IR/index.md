@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "سوالات متداول - انگلیسی"
-lang: انگلیسی-انگلیسی
+lang: "انگلیسی-انگلیسی"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "سفارش"
   fields: [ عنوان, description ]
   page-size: ۱۰۰
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
