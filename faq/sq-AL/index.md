@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Pyetje të Shpeshta - Anglisht"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "urdhër"
   fields: [ titull, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
