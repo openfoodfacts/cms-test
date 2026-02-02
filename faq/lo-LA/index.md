@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆ - ພາສາອັງກິດ"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "ສັ່ງຊື້"
   fields: [ ຫົວຂໍ້, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
