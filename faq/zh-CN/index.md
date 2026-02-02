@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "常见问题解答 - 英文版"
-lang: 英语-英国
+lang: "英语-英国"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "命令"
   fields: [ 标题, 描述 ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # 常见问题
