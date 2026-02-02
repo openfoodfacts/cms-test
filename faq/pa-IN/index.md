@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ - ਅੰਗਰੇਜ਼ੀ"
-lang: ਇੰ-ਜੀਬੀ
+lang: "ਇੰ-ਜੀਬੀ"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.ਐਮਡੀ"
@@ -12,6 +15,8 @@ listing:
   sort: "ਆਰਡਰ"
   fields: [ ਸਿਰਲੇਖ, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
