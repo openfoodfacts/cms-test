@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "KKK - inglise keel"
-lang: et-gb
+lang: "et-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "tellimus"
   fields: [ pealkiri, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
