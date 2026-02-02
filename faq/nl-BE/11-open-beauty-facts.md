@@ -47,7 +47,7 @@ De pagina /data is momenteel defect. Je kunt de gegevens downloaden via [https:/
 
 De Open Food Facts API is voor 98% hetzelfde als de Open Beauty Facts API, dus als je de documentatie van de Open Food Facts API gebruikt, krijg je een vrij duidelijk beeld van de Open Beauty Facts API.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Houd er rekening mee dat functies zoals de kennispanelen, Eco-Score en Nutri-Score niet worden ondersteund (vanwege het onderwerp of de verouderde code).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
