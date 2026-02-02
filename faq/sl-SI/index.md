@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Pogosta vprašanja - angleščina"
-lang: sl-gb
+lang: "sl-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "naročilo"
   fields: [ naslov, opis ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Pogosto zastavljena vprašanja
