@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "FAQ - Bamanankan"
-lang: bamanankan-gb
+lang: "bamanankan-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "ci"
   fields: [ titiri, description ]
   page-size: 100 ye
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
