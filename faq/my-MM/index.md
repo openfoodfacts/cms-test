@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "မကြာခဏမေးလေ့ရှိသောမေးခွန်းများ - အင်္ဂလိပ်"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "မှာယူမှု"
   fields: [ ခေါင်းစဉ်, description ]
   page-size: ၁၀၀
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
