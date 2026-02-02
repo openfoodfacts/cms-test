@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Často kladené otázky - angličtina"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md*"
@@ -12,6 +15,8 @@ listing:
   sort: "objednávka"
   fields: [ titul, popis ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Často Kladené Otázky
