@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Pirsên Pir tên Pirsîn - Îngilîzî"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "emir"
   fields: [ nav, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
