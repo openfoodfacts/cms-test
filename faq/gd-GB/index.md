@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Ceistean Cumanta - Beurla"
-lang: en-gb
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
@@ -12,6 +15,8 @@ listing:
   sort: "òrdugh"
   fields: [ tiotal, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
