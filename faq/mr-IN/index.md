@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "वारंवार विचारले जाणारे प्रश्न - इंग्रजी"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
+lang: "इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा."
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.एमडी"
@@ -12,6 +15,8 @@ listing:
   sort: "ऑर्डर करा"
   fields: [ शीर्षक, description ]
   page-size: १००
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
