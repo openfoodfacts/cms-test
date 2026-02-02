@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "اڪثر پڇيا ويندڙ سوال - انگريزي"
-lang: اين جي بي
+lang: "اين جي بي"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.ايم ڊي"
@@ -12,6 +15,8 @@ listing:
   sort: "حڪم"
   fields: [ عنوان, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
