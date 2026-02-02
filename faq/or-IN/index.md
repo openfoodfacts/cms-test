@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "FAQ - ଇଂରାଜୀ"
-lang: ଇଂ-ଜିବି
+lang: "ଇଂ-ଜିବି"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.ଏମ୍ଡି"
@@ -12,6 +15,8 @@ listing:
   sort: "କ୍ରମ"
   fields: [ ଶୀର୍ଷକ, ଵର୍ଣ୍ଣନା ]
   page-size: ୧୦୦
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
