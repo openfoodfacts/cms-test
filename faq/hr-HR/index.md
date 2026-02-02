@@ -1,6 +1,9 @@
 ---
+# To be translated (strings between quotation marks)
 title: "Često postavljana pitanja - engleski"
-lang: hr-gb
+lang: "hr-gb"
+
+# DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.doktor medicine"
@@ -12,6 +15,8 @@ listing:
   sort: "redoslijed"
   fields: [ titula, description ]
   page-size: 100
+
+# << DO NOT TRANSLATE
 ---
 
 # Frequently Asked Questions
