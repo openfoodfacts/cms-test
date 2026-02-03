@@ -77,8 +77,7 @@ platform.
 
 - Meer dan 100 mobiele applicaties
   voorzien in de behoeften van diverse doelgroepen: diabetes (VeryDiab), allergieën, voedselbalans
-  via kunstmatige intelligentie (FoodVisor), handicaps en meer. Onze
-  -database maakte ook de creatie van Yuka mogelijk.
+  via kunstmatige intelligentie (FoodVisor), handicaps en meer.
 - Tal van websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
 - Datajournalisten: Les Décodeurs du Monde, BFM
