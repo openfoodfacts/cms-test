@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} ክፍት የውበት እውነታዎች"
-description: "4 ጥያቄዎች"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: መለያዎች
+icon: tags
 ---
 
-{{< fa "መለያዎች" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## ክፍት የውበት እውነታዎች የትንታኔ ላብራቶሪ አለው?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -29,23 +29,23 @@ can join the Facebook group of contributors:
 
 ---
 
-## ምርቶቼን ወደ ክፍት የውበት እውነታዎች እንዴት ማስገባት እችላለሁ?
+## How do I import my products into Open Beauty Facts?
 
-producteurs@openfoodfacts.orgን ያነጋግሩ ወይም በቀጥታ ወደዚህ ይሂዱ
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) ከዚያም ለልዩ ኤክስፖርት \*\*producteurs@openfoodfacts.org ን ያነጋግሩ \*\*
-
----
-
-## የክፍት ውበት እውነታዎችን መረጃ የት ማውረድ እችላለሁ?
-
-የ/ውሂብ ገጹ በአሁኑ ጊዜ ተሰብሯል። መረጃውን በ[https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv) ላይ ማውረድ ይችላሉ።
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## የክፍት ውበት እውነታዎች ኤፒአይ እና የውሂብ ኤክስፖርት የት ማግኘት እችላለሁ?
+## Where can I download Open Beauty Facts data?
 
-የክፍት ምግብ እውነታዎች ኤፒአይ ከክፍት ውበት እውነታዎች ኤፒአይ ጋር 98% ተመሳሳይ ነው፣ ስለዚህ የክፍት ምግብ እውነታዎች ኤፒአይ ሰነዶችን የሚጠቀሙ ከሆነ የክፍት ውበት እውነታዎች ኤፒአይን በጣም ግልጽ የሆነ እይታ ሊኖርዎት ይገባል።
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
