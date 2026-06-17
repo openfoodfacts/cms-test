@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} טעכנישע אָפֿט געשטעלטע פֿראַגעס"
-description: "1 פראגע"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: בראַנדז גיטהאב
+icon: brands github
 ---
 
-{{< fa "brands" "גיטהאב" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## זאָל איך דערהייַנטיקן אַלע שפּראַך טעקעס ווען איך ענדער אַ קוואַל סטרינג?
+## Should I update all language files when I change a source string?
 
-ניין, דו טוסט נישט. איר דאַרפֿט נאָר דערהייַנטיקן די ענגלישע ווערסיע
+No you don't. You just need to update the English one
 
-- שאַפֿן דיין פּי-אַר
+- Create your PR
 
-אזוי שנעל ווי עס וועט ווערן צוזאמענגעמישט, וועלן מיר איבערמאכן קראודין-טריגער מיט די האנט, און די קראודין איבערזעצונג סיסטעם, וואס ווערט טריגערט דורך גיטהאב אקציעס, וועט טון די איבעריגע פאר אנדערע שפראכן.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-דער גיטהאב באָט שאַפט דעמאָלט אויטאָמאַטיש אַ נייעם פּי-אַר וואָס מיר באַטראַכטן דערנאָך.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
