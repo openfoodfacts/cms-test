@@ -1,23 +1,23 @@
 ---
-title: "{{< marika fa github size=2x >}} Fanontaniana Ara-teknika Matetika Apetraka"
-description: "Fanontaniana 1"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: marika github
+icon: brands github
 ---
 
 {{< fa "marika" "github" size=3x >}}
 
-## Tokony havaoziko ve ny rakitra fiteny rehetra rehefa manova ny tady loharano aho?
+## Should I update all language files when I change a source string?
 
-Tsia, tsy izany no izy. Mila manavao ny teny anglisy fotsiny ianao
+No you don't. You just need to update the English one
 
-- Mamoròna ny PR-nao
+- Create your PR
 
-Rehefa tafangona izy io dia haverinay amin'ny tanana ny crowdin-trigger ary ny rafitra fandikan-teny Crowdin izay ampiasain'ny GitHub Actions no hanao ny ambiny ho an'ny fiteny hafa.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Mamorona PR vaovao ho azy avy eo ny boto GitHub izay hodinihinay avy eo.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
