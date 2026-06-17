@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Presse- & Medienufroen"
-description: "1 Fro"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: Zeitung
+icon: newspaper
 ---
 
-{{< fa "Zeitung" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Wéi kréien ech Pressebiller op Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Kontaktéiert w.e.g.: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
