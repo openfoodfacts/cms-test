@@ -1,52 +1,52 @@
 ---
-title: "{{< اندازه موبایل=۲x >}} برنامه موبایل"
-description: "۴ سوال"
-lang: انگلیسی-انگلیسی
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: موبایل
+icon: mobile
 ---
 
-{{< fa "موبایل" size="۳ برابر" >}}
+{{< fa "mobile" size=3x >}}
 
-## چطور بفهمم از کدام نسخه برنامه استفاده می‌کنم؟
+## How do I know which version of the app I'm using?
 
-به **پروفایل**،
-و سپس **سوالات متداول** و در نهایت **درباره این برنامه** بروید.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-شما باید
-شماره نسخه‌ای مانند ۳.۴.۵+۶۶۲ را ببینید. فراموش نکنید که اگر گوشی در حال اشکال‌زدایی است، نام تجاری و مدل
-آن را به ما بگویید.
-
----
-
-## برنامه اسکن نمی‌کند
-
-این ممکن است به دلیل
-
-- مشکل شبکه
-
-- مشکل مجوزها
-
-- مشکل بارکد
-
-از طریق پروفایل >> تماس با ما >> برای ما ایمیل ارسال کنید.
-
-تمام اطلاعات مربوطه باید به درخواست شما پیوست شود.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## چگونه می‌توانم به بهبود اپلیکیشن موبایل کمک کنم؟
+## The app does not scan
 
-چگونه می‌توانم به بهبود اپلیکیشن موبایل کمک کنم؟
+This may be due to
 
-شما می‌توانید [این کار را در مخزن برنامه موبایل انجام دهید](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## کجا می‌توانم درباره برنامه نظر بدهم؟
+## How can I help with improving the mobile app ?
 
-می‌توانید نظرات خود را به آدرس mobile@openfoodfacts.org ارسال کنید.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
