@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} منهنجو اوپن فوڊ فيڪٽس اڪائونٽ"
-description: "2 سوال"
-lang: اين جي بي
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: استعمال ڪندڙ جو دائرو
+icon: user-circle
 ---
 
-{{< fa "استعمال ڪندڙ جو دائرو" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## مان پنهنجو اڪائونٽ ختم ڪرڻ چاهيان ٿو.
+## I want to delete my account
 
-اڪائونٽ ختم ڪرڻ هاڻي سڌو سنئون توهان جي ترجيحن ۾ ٿئي ٿو.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) تي لاگ ان ٿيڻ کان پوءِ، مٿي ساڄي ڪنڊ تي يوزر نالي تي ڪلڪ ڪريو، اڪائونٽ پيرا ميٽرز چونڊيو. اهو توهان جي ترجيحن جو صفحو کوليندو آهي. صفحي جي تري ۾ وڃو ۽ "صارف کي ختم ڪريو" عمل استعمال ڪريو.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-جيڪڏهن توهان لاگ ان نٿا ڪري سگهو (يا پنهنجو پاسورڊ ري سيٽ نٿا ڪري سگهو)، مهرباني ڪري dpo - at - [openfoodfacts.org](http://openfoodfacts.org) سان رابطو ڪريو، انهي اي ميل ايڊريس کي استعمال ڪندي جيڪو توهان اڪائونٽ رجسٽر ڪرڻ لاءِ استعمال ڪندا آهيو.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
