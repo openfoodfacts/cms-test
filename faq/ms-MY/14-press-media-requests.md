@@ -1,17 +1,17 @@
 ---
-title: "{{< saiz akhbar fa=2x >}} Permintaan Akhbar & Media"
-description: "1 soalan"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: surat khabar
+icon: newspaper
 ---
 
-{{< fa "surat khabar" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Bagaimanakah saya boleh mendapatkan visual akhbar mengenai Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Sila hubungi: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
