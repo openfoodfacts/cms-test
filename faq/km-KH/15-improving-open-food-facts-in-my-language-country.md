@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} ការកែលម្អការពិតអំពីអាហារបើកចំហជាភាសា/ប្រទេសរបស់ខ្ញុំ"
-description: "សំណួរចំនួន ៣"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ១៥
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
+order: 15
 category-level: 0
-icon: ផែនដី
+icon: globe
 ---
 
-{{< fa "ផែនដី" size=៣ដង >}}
+{{< fa "globe" size=3x >}}
 
-## ខ្ញុំចង់បន្ថែមឡូហ្គោថ្មីសម្រាប់ស្លាក
+## I would like to add a new logo for labels
 
-នេះជាដំណើរការ៖
+Here is the process:
 
-- ស្វែងរក **ឈ្មោះ​ស្តង់ដារ** នៃ​ស្លាក​នៅ​ក្នុង [ចំណាត់ថ្នាក់​ស្លាក](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (វា​ជា​ធាតុ​ដំបូង​នៅ​ក្នុង​បញ្ជី​នៃ​ពាក្យ​សទិសន័យ​នៃ​ស្លាក ឧ. en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**ទទួលបានឡូហ្គោដែលមានគុណភាពល្អ**: ជៀសវាងការប្រើប្រាស់រូបថតរបស់អ្នករួមចំណែកដែលមិនស័ក្តិសមសម្រាប់ករណីនេះ; ស្លាកភាគច្រើនមានឡូហ្គោដែលមានគុណភាពខ្ពស់របស់គេហទំព័រផ្លូវការ ជួនកាលក្នុងទម្រង់វ៉ិចទ័រ (កាន់តែល្អសម្រាប់ពួកយើង); ដរាបណាយើងប្រើឡូហ្គោដើម្បីជូនដំណឹងអំពីវត្តមាននៃស្លាក
-នៅលើការវេចខ្ចប់ផលិតផល មិនចាំបាច់សុំការអនុញ្ញាតទេ។
--------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**ដាក់ឈ្មោះឯកសារដូចនេះ**: name-of-the-label.[width]x90.png ដែល width ជាទទឹងសម្រាប់ឡូហ្គោ នៅពេលដែលវាមានកម្ពស់ 90 ភីកសែល។ ឈ្មោះឯកសារត្រូវតែមិនមានការសង្កត់សំឡេង សរសេរជាអក្សរតូច និងប្រើសញ្ញា "-" ជំនួសឲ្យចន្លោះ។
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- បន្ទាប់មកបន្ថែមឡូហ្គោនៅក្នុងថតដែលត្រូវនឹងឈ្មោះស្តង់ដាររបស់វា។ ប្រសិនបើឈ្មោះស្តង់ដារគឺ en:something នោះពួកវាត្រូវស្ថិតនៅក្នុង /en/។ ថតឯកសារដើមសម្រាប់ឡូហ្គោគឺ [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## តើខ្ញុំបកប្រែ Open Food Facts ទៅជាភាសារបស់ខ្ញុំដោយរបៀបណា?
-
-សូមចូលទៅកាន់ [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## តើខ្ញុំបកប្រែសំណួរដែលសួរញឹកញាប់នេះទៅជាភាសារបស់ខ្ញុំដោយរបៀបណា?
+## How do I translate Open Food Facts to my language ?
 
-សូមសួរ contact@openfoodfacts.org សម្រាប់ការចូលប្រើប្រាស់កែសម្រួលមូលដ្ឋានចំណេះដឹង។
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
