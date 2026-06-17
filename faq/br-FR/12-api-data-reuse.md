@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API & reimplij roadennoù"
-description: "6 goulenn"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: alc'hwez
+icon: wrench
 ---
 
-{{< fa "alc'hwez" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## Hag-eñ ez eus alioù e lec'h bennak en teuliad diwar-benn peseurt ment a vefe mat evit al luc'hskeudennoù pellgarget ?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Diouzh ar broioù e c'hallfe bezañ, ma'z eo gorrek pe koust ar rouedad. netra ouzhpenn 5000 piksel e bouez pe e uhelder n'eo ket gwall talvoudus moarvat. ha ma c'hellit detektiñ en un doare bennak eo gorrek ar rouedad, neuze e vefe mat-tre ur skeudenn 2000 piksel zoken (gwelloc'h eget chom hep kaout ur skeudenn !)
-
----
-
-## Petra 'zo gant ar boued hep kodoù-barr ?
-
-Open Food Facts n'en deus nemet titouroù diwar-benn ar boued paket. Evit talvoudoù keitat ar produioù (da skouer, tomatez pe bananez) ha produioù boued all e c'hallit implijout unan eus diaz roadennoù ofisiel ar boued broadel e-lec'h se.
-
-**Notenn :** Er roll amañ dindan e kaver lod eus diaz roadennoù boued broadel pouezusañ. Ma soñj deoc'h e rankfe un diaz roadennoù all bezañ lakaet er roll, kit e darempred ganeomp dre : [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Roll diaz roadennoù broadel ar boued**
-
--
-
-**Aostralia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Belgia** - NUBEL - Roadennoù kenaoz ar boued belgiat : [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Republik Tchek** - Diaz roadennoù kenaoz ar boued e Ensavadur Broadel ar Yec'hed Poblek : [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Danmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=br)
-
--
-
-**Estonia** - Diaz roadennoù ar boued estonian: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Finland** - Finland Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Alamagn** - Diaz roadennoù enlinenn Souci-Fachmann-Kraut : [https://www.sfk.online/#/home](https://www.sfk.online/#/home) pe an diaz roadennoù ofisiel alamanek : Bundeslebensmittelschlüssel : [https://blsdb.de/](https://⌇1⌇]> ](https://⌇0⌇]>
-
-- **Italia** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Izelvroioù** - Diaz roadennoù ar boued izelvroat : [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Norvegia** - The Norvegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Polonia** - Taolennoù kempenn ar boued : [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Spagn** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Suis** - Diaz roadennoù kenaoz ar boued e Suis : [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**Rouantelezh-Unanet** - Savadur ar boued kevredet (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Ha gallout a ran klask un anv produ resis gant an API ?
+## What about food without barcodes ?
 
-Siwazh n'eo ket posupl c'hoazh klask aes war anv ar produ hepken ha dre an API.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Implijout ur sil war ar rummad a c'hellfe sikour ac'hanoc'h da lakaat ho klask da vezañ resisoc'h avat.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Penaos e c'hellan mont e darempred/dastum roadennoù evit ma raktresoù ?
+## Can I search a precise product name with the API?
 
-War bajenn bennañ Open Food Facts, e korn kleiz uhelañ ar skramm, ez eus ur meni riklañ. E traoñ e kavoc'h an dibab "klask araokaet", a c'hallit klikañ warnañ. Deoc'h-c'hwi eo neuze da zivizout peseurt dezverkoù a zo ar re bouezusañ evit ho raktres(où). Ur wech dibabet e c'hallit pellgargañ an disoc'hoù bet tapet en ur glikañ war-zu an traoñ e traoñ ar bajenn ha klikañ war “Pellgargañ an disoc'hoù”.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Gallout a rit ivez goulenn ali :
-
-- Hon teuliadur API :[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Termenoù implij Open Food Facts:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- War hor roadennoù :[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## Hag ur c'hondisionoù zo evit implijout an API ?
+## How can I access/collect data for my projects?
 
-An holl deuliadoù diwar-benn implij an API a c'haller kavout war [pajenn teuliadoù an API](https://openfoodfacts.github.io/openfoodfacts-server/api/), met setu un diverradenn :
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- An diaz roadennoù Open Food Facts a c'haller kaout evel roadennoù digor dindan an Open Database License (ODbL), gwelit [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) evit ar munudoù lezennel. An div c'hondision a zo an deskrivadur hag ar rannañ heñvel. Ma vez kendeuzet roadennoù eus Open Food Facts gant diaz roadennoù all, neuze e c'houlenn an ODbL e rankfe an diaz roadennoù a zeu eus se bezañ embannet evel roadennoù digor ivez. Kement-se a dalvez ivez e c'hallit kendeuziñ ar roadennoù gant mammennoù a aotrefe an adskignañ-se hepken.
+You can also consult:
 
-- Ret eo deoc'h **bepred** implijout un implijer personelaet pa vez graet galvoù API evit anavezout hoc'h arload.
-
-- Lakaet e vez bevennoù ar feur da dalvezout evit pep poent dibenn API.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Penaos e c'hellan mont e darempred gant roadennoù istorel ?
+## Are there conditions to use the API?
 
-Hiziv an deiz ne ginnigomp ket un enporzhiañ roadennoù istorel (JSONL, MongoDB, CSV).
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Koulskoude, evit ar produioù hiniennel, e c'haller mont e darempred gant stummoù kent eus roadennoù ar produ dre implijout an API pe war bajenn ar produ dre implijout ar c'hemmoù.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Bep tro ma vez hizivaet ur produ e vez krouet un adwelet nevez (sifr o kreskiñ o kregiñ gant 1).
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Da skouer, evit kaout an adwelet kentañ (=stumm kentañ ar produ) eus ar produ-mañ, arverit
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Heñvel, arventenn rev a c'haller implijout gant an API :
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
