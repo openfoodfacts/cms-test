@@ -1,40 +1,40 @@
 ---
-title: "שיפור עובדות מזון פתוחות בשפה/מדינה שלי"
-description: "3 שאלות"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: גלוֹבּוּס
+icon: globe
 ---
 
-{{< fa "גלוֹבּוּס" size="פי 3" >}}
+{{< fa "globe" size=3x >}}
 
-## אני רוצה להוסיף לוגו חדש לתוויות
+## I would like to add a new logo for labels
 
-הנה התהליך:
+Here is the process:
 
-- מצא את **השם הקנוני** של התווית ב[טקסונומיית התוויות](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (זהו הפריט הראשון ברשימת המילים הנרדפות של התוויות, לדוגמה: en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**הבטיחו שהלוגו יהיה באיכות טובה**: הימנעו משימוש בתמונה של התורם, שאינה מתאימה למקרה זה; לרוב המותגים יש אתרים רשמיים עם לוגואים באיכות גבוהה, לפעמים בפורמט וקטורי (אפילו טוב יותר עבורנו); כל עוד אנו משתמשים בלוגו כדי ליידע באופן אובייקטיבי על נוכחות של תווית
-על אריזת המוצר, אין צורך לבקש רשות.
----------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**תן שם לקובץ כך**: name-of-the-label.[width]x90.png כאשר width הוא רוחב הלוגו כאשר הוא בגובה 90 פיקסלים. שמות הקבצים צריכים להיות ללא הטעמה, באותיות קטנות ובשימוש ב-"-" במקום רווחים.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- לאחר מכן הוסף את הלוגו בספרייה התואמת את שמו הקנוני. אם השם הקנוני הוא en:something, אז הוא צריך להיות ב- /en/. ספריית השורש של לוגואים היא [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## איך אני מתרגם את Open Food Facts לשפה שלי?
-
-עבור אל [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## איך אני מתרגם את השאלות הנפוצות האלה לשפה שלי?
+## How do I translate Open Food Facts to my language ?
 
-אנא בקשו מ- contact@openfoodfacts.org גישת עריכה למאגר הידע.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
