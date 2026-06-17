@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Press- och medieförfrågningar"
-description: "1 fråga"
-lang: sv-gb
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: tidning
+icon: newspaper
 ---
 
-{{< fa "tidning" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Hur kan jag få pressbilder på Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Vänligen kontakta: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
