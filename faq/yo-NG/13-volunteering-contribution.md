@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Iṣẹ́ Ìyọ̀ǹda ara ẹni / Àfikún"
-description: "Àwọn ìbéèrè mẹ́ta"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Ṣé ọ̀nà kan wà láti yọ àwọn àwòrán tí a gbé sórí ìkànnì fún àwọn ọjà kúrò?
+## Is there a way to remove uploaded images for products?
 
-Àwọn olùṣàtúnṣe nìkan ló lè yọ àwọn fọ́tò kúrò, láti yẹra fún ìbàjẹ́ tó lè ṣẹlẹ̀.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Kàn béèrè lọ́wọ́ Slack tàbí ní **contact@openfoodfacts.org** láti yọ àwọn àwòrán tí o ṣe àtúnṣe tàbí àwọn fọ́tò tí kò yẹ kúrò (o yẹ kí o gbìyànjú láti fún ọ ní nọ́mbà àmì ìdámọ̀ tàbí URL fún èyí).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-A tun ni API iroyin aworan tuntun ti o ba jẹ oluṣeto eto.
-
----
-
-## Apẹẹrẹ ni mi. Báwo ni mo ṣe lè ran lọ́wọ́?
-
-A n ṣe àkóso gbogbo àwọn iṣẹ́ tó jẹ mọ́ iṣẹ́ ọnà lórí [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) àti lórí ikanni ìfọ̀rọ̀wérọ̀ pàtó kan. A maa n se ipade egbe nigbagbogbo ati awon ero-inu lori awon ipenija kan pato.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Ní àwọn ìgbà míìrán, ọjà kan náà lè ní ìwọ̀n oúnjẹ tó yàtọ̀ síra fún orílẹ̀-èdè kọ̀ọ̀kan, báwo ni a ṣe ń ṣe èyí nínú Open Food Facts?
+## I'm a designer. How can I help ?
 
-99% ti akoko naa, awọn olupilẹṣẹ yoo ṣẹda awọn koodu barcode oriṣiriṣi fun awọn ẹya oriṣiriṣi ti awọn ọja wọn. Àpẹẹrẹ kan tó gbajúmọ̀ ni ìyàtọ̀ tó wà láàárín Nutella ti Faransé àti ti Jámánì ní ti sísanra, nítorí ìyàtọ̀ nínú búrẹ́dì káàkiri àwọn orílẹ̀-èdè. Àwọn fọ́múlá méjì tó yàtọ̀ síra, àwọn àmì ìdámọ̀ méjì tó yàtọ̀ síra.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Sibẹsibẹ, ija koodu barcode le waye lori awọn koodu kukuru (EAN-8) ti awọn ile itaja kan maa n lo ni gbogbo Yuroopu ati AMẸRIKA. A kò ṣe àkóso àwọn ìforígbárí barcode wọ̀nyẹn lọ́wọ́lọ́wọ́, ṣùgbọ́n ó yẹ kí ó ṣeé ṣe láti ṣe bẹ́ẹ̀ nípa wíwá ibi tí olùlò wà (ó ṣọ̀wọ́n láti ní ìforígbárí barcode láàárín orílẹ̀-èdè kan).
+---
 
-Ní àsìkò pípẹ́, a gba àwọn olùgbéjáde níyànjú láti lọ sí EAN-13 láti yẹra fún àwọn ìforígbárí nínú àwọn àmì ìdámọ̀ràn.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
