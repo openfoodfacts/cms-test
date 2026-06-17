@@ -1,21 +1,21 @@
 ---
-title: "{{< fa اندازه پنجه=2x >}} اطلاعات غذای حیوانات خانگی را باز کنید"
-description: "۲ سوال"
-lang: انگلیسی-انگلیسی
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: پنجه
+icon: paw
 ---
 
-{{< fa "پنجه" size="۳ برابر" >}}
+{{< fa "paw" size=3x >}}
 
-## چرا هیچ امتیاز تغذیه‌ای برای حیوانات وجود ندارد؟
+## Why is there no Nutri-Score for animals?
 
-هر حیوانی متفاوت است (یک مار نیازهای غذایی مشابه گربه یا سگ ندارد)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-حتی در حیوانات همنوع مانند سگ‌ها، نیازهای تغذیه‌ای بسته به سبک زندگی بی‌تحرک، اخته شدن احتمالی یا بیماری‌ها متفاوت است.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-بنابراین محاسبه امتیاز برای خوراک دام بدون مشارکت ده‌ها محقق و ایجاد ده‌ها الگوریتم مختلف، که تا به امروز انجام نشده است، پیچیده است.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
