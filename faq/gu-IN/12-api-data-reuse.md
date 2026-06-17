@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API અને ડેટા પુનઃઉપયોગ"
-description: "6 પ્રશ્નો"
-lang: eng-gb
-order: ૧૨
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
+lang: en-gb
+order: 12
 category-level: 0
-icon: રેન્ચ
+icon: wrench
 ---
 
-{{< fa "રેન્ચ" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## શું દસ્તાવેજોમાં ક્યાંય ભલામણો છે કે અપલોડ કરેલા ફોટા માટે કયું કદ સારું રહેશે?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-નેટવર્ક ધીમું છે કે મોંઘું છે, તે દેશો પર આધાર રાખે છે. ૫૦૦૦ પિક્સેલથી વધુ વજન કે ઊંચાઈ ધરાવતી કોઈપણ વસ્તુ કદાચ બહુ ઉપયોગી નથી. અને જો તમે કોઈક રીતે શોધી શકો કે નેટવર્ક ધીમું છે, તો 2000 પિક્સેલની છબી પણ સારી રહેશે (છબી ન હોવા કરતાં ચોક્કસપણે વધુ સારી!)
-
----
-
-## બારકોડ વગરના ખોરાકનું શું?
-
-ઓપન ફૂડ ફેક્ટ્સમાં ફક્ત પેકેજ્ડ ફૂડ વિશેની માહિતી છે. ઉત્પાદનના સરેરાશ મૂલ્યો (ઉદાહરણ તરીકે, ટામેટાં અથવા કેળા) અને અન્ય ખાદ્ય ઉત્પાદનો માટે, તમે તેના બદલે સત્તાવાર રાષ્ટ્રીય પોષણ ડેટાબેઝમાંથી એકનો ઉપયોગ કરી શકો છો.
-
-**નોંધ:** નીચેની યાદીમાં કેટલાક સૌથી મહત્વપૂર્ણ રાષ્ટ્રીય ખાદ્ય ડેટાબેઝ શામેલ છે. જો તમને લાગે કે યાદીમાં કોઈ અન્ય ડેટાબેઝનો સમાવેશ થવો જોઈએ, તો કૃપા કરીને અમારો સંપર્ક કરો: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**રાષ્ટ્રીય ખાદ્ય ડેટાબેઝની યાદી**
-
--
-
-**ઓસ્ટ્રેલિયા** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**બેલ્જિયમ** - NUBEL - બેલ્જિયન ફૂડ કમ્પોઝિશન ડેટા: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**કેનેડા** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**ચેક રિપબ્લિક** - નેશનલ ઇન્સ્ટિટ્યૂટ ઓફ પબ્લિક હેલ્થ ખાતે ફૂડ કમ્પોઝિશન ડેટાબેઝ: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**ડેનમાર્ક** - ડેનિશ ફૂડ કમ્પોઝિશન ડેટાબેંક: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**એસ્ટોનિયા** - એસ્ટોનિયન ફૂડ કમ્પોઝિશન ડેટાબેઝ: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**ફિનલેન્ડ** - ફિનિશ ફૂડ કમ્પોઝિશન ડેટાબેઝ - ફિનેલી: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**ફ્રાન્સ** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**જર્મની** - Souci-Fachmann-Kraut ઑનલાઇન ડેટાબેઝ: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) અથવા સત્તાવાર જર્મન ડેટાબેઝ: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://debls)
-
-- **ઇટાલી** - બંકા દાતી ડી કમ્પોઝિશન ડેગ્લી એલિમેન્ટી CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**નેધરલેન્ડ** - ડચ ફૂડ કમ્પોઝિશન ડેટાબેઝ: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**નોર્વે** - નોર્વેજીયન ફૂડ કમ્પોઝિશન ટેબલ 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**પોલેન્ડ** - ફૂડ કમ્પોઝિશન ટેબલ: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**સ્પેન** - સ્પેનિશ ફૂડ કમ્પોઝિશન ડેટાબેઝ - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**સ્વિટ્ઝર્લૅન્ડ** - સ્વિસ ફૂડ કમ્પોઝિશન ડેટાબેઝ: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**યુકે** - ખોરાક સંકલિત ડેટાસેટની રચના (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**યુએસએ** - યુએસડીએ: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## શું હું API વડે ચોક્કસ ઉત્પાદન નામ શોધી શકું?
+## What about food without barcodes ?
 
-કમનસીબે, API દ્વારા ફક્ત ઉત્પાદનના નામ પર સરળતાથી અને ચોક્કસ રીતે શોધવું હજુ શક્ય નથી.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-શ્રેણી પર ફિલ્ટરનો ઉપયોગ કરવાથી તમારી શોધ વધુ સચોટ બનાવવામાં મદદ મળી શકે છે.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## હું મારા પ્રોજેક્ટ્સ માટે ડેટા કેવી રીતે ઍક્સેસ/એકત્ર કરી શકું?
+## Can I search a precise product name with the API?
 
-ઓપન ફૂડ ફેક્ટ્સના મુખ્ય પૃષ્ઠ પર, સ્ક્રીનના ઉપર ડાબા ખૂણામાં, એક સ્ક્રોલિંગ મેનૂ છે. તેના તળિયે, તમને "એડવાન્સ્ડ સર્ચ" વિકલ્પ મળશે, જેના પર તમે ક્લિક કરી શકો છો. પછી તમારા પ્રોજેક્ટ(ઓ) માટે કયા માપદંડ સૌથી વધુ સુસંગત છે તે નક્કી કરવાનું તમારા પર છે. એકવાર પસંદ કર્યા પછી, તમે પૃષ્ઠના તળિયે સ્ક્રોલ કરીને અને "પરિણામો ડાઉનલોડ કરો" પર ક્લિક કરીને પ્રાપ્ત પરિણામો ડાઉનલોડ કરી શકશો.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-તમે આનો પણ સંપર્ક કરી શકો છો:
-
-- અમારા API દસ્તાવેજીકરણ:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- ઓપન ફૂડ ફેક્ટ્સની ઉપયોગની શરતો:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- અમારા ડેટા પર:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## શું API નો ઉપયોગ કરવા માટે કોઈ શરતો છે?
+## How can I access/collect data for my projects?
 
-API ઉપયોગ વિશેના બધા દસ્તાવેજો [API દસ્તાવેજીકરણ પૃષ્ઠ](https://openfoodfacts.github.io/openfoodfacts-server/api/) પર મળી શકે છે, પરંતુ અહીં એક ટૂંકો સારાંશ છે:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- ઓપન ફૂડ ફેક્ટ્સ ડેટાબેઝ ઓપન ડેટાબેઝ લાઇસન્સ (ODbL) હેઠળ ઓપન ડેટા તરીકે ઉપલબ્ધ છે, કાનૂની વિગતો માટે [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) જુઓ. બે શરતો એટ્રિબ્યુશન અને શેર-એલાઈક છે. જો તમે ઓપન ફૂડ ફેક્ટ્સમાંથી ડેટાને અન્ય ડેટાબેઝ સાથે જોડો છો, તો ODbL માટે જરૂરી છે કે પરિણામી ડેટાબેઝને ઓપન ડેટા તરીકે પણ રિલીઝ કરવામાં આવે. તેનો અર્થ એ પણ છે કે તમે ડેટાને ફક્ત એવા સ્ત્રોતો સાથે જ જોડી શકો છો જે આવા પુનઃવિતરણને મંજૂરી આપે.
+You can also consult:
 
-- તમારી એપને ઓળખવા માટે API કોલ્સ કરતી વખતે તમારે **હંમેશા** કસ્ટમ યુઝર-એજન્ટનો ઉપયોગ કરવો આવશ્યક છે.
-
-- દરેક API એન્ડપોઇન્ટ માટે રેટ-લિમિટ લાગુ કરવામાં આવે છે.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## હું ઐતિહાસિક ડેટા કેવી રીતે મેળવી શકું?
+## Are there conditions to use the API?
 
-હાલમાં, અમે ઐતિહાસિક ડેટા ડમ્પ (JSONL, MongoDB, CSV) ઓફર કરતા નથી.
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-જોકે, વ્યક્તિગત ઉત્પાદનો માટે, API નો ઉપયોગ કરીને અથવા ઉત્પાદન પૃષ્ઠ પર પુનરાવર્તનોનો ઉપયોગ કરીને ઉત્પાદન ડેટાના પાછલા સંસ્કરણોને ઍક્સેસ કરવું શક્ય છે.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-દર વખતે જ્યારે કોઈ ઉત્પાદન અપડેટ થાય છે, ત્યારે એક નવું સંસ્કરણ (૧ થી શરૂ થતો વધતો અંક) બનાવવામાં આવે છે.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-ઉદાહરણ તરીકે, આ ઉત્પાદનનું પ્રથમ સંસ્કરણ (=પ્રથમ ઉત્પાદન સંસ્કરણ) મેળવવા માટે, ઉપયોગ કરો
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-એ જ રીતે, rev પેરામીટરનો ઉપયોગ API સાથે કરી શકાય છે:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
