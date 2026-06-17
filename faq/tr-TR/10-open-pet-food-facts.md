@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Evcil Hayvan Yemi Bilgilerini Açın"
-description: "2 soru"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pençe
+icon: paw
 ---
 
-{{< fa "pençe" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Hayvanlar için neden Nutri-Score diye bir şey yok?
+## Why is there no Nutri-Score for animals?
 
-Her hayvan farklıdır (bir yılanın beslenme ihtiyaçları bir kedi veya köpeğin ihtiyaçlarıyla aynı değildir).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Köpekler gibi aynı tür hayvanlarda bile, hareketsiz yaşam tarzı, kısırlaştırma veya hastalıklar gibi faktörlere bağlı olarak beslenme ihtiyaçları değişir.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Bu nedenle, onlarca araştırmacıyı dahil etmeden ve onlarca farklı algoritma oluşturmadan hayvan yemi için bir puan hesaplamak karmaşık bir iştir ve bugüne kadar böyle bir şey yapılmamıştır.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
