@@ -1,18 +1,18 @@
 ---
-title: "{{< fa periodico sayay=2x >}} ñit'iy & Willay mast'ariy mañakuykuna"
-description: "1 tapuy"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
-order: 14. 14
+order: 14
 category-level: 0
-icon: periodico
+icon: newspaper
 ---
 
-{{< fa "periodico" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ¿Imaynatataq Open Food Facts nisqamanta prensa visualkunata tariyman?
+## How can I get press visuals on Open Food Facts?
 
-Ama hina kaspa, rimanakuy : presse@openfoodfacts.org
-[https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/prensa-musuq-movil-app)
+Please contact : presse@openfoodfacts.org
+[https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
 
