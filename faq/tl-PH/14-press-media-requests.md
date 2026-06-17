@@ -1,17 +1,17 @@
 ---
-title: "{{< fa dyaryo size=2x >}} Mga Kahilingan sa Pamamahayag at Media"
-description: "1 tanong"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: pahayagan
+icon: newspaper
 ---
 
-{{< fa "pahayagan" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Paano ako makakakuha ng mga press visual sa Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Mangyaring makipag-ugnayan sa: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
