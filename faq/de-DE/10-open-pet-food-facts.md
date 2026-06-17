@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Offene Fakten zu Tierfutter"
-description: "2 Fragen"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: Pfote
+icon: paw
 ---
 
-{{< fa "Pfote" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Warum gibt es keinen Nutri-Score für Tiere?
+## Why is there no Nutri-Score for animals?
 
-Jedes Tier ist anders (eine Schlange hat nicht die gleichen Ernährungsbedürfnisse wie eine Katze oder ein Hund).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Selbst innerhalb derselben Tierart, wie zum Beispiel bei Hunden, variieren die Ernährungsbedürfnisse je nach Lebensstil (z. B. Bewegungsmangel), möglicher Kastration oder Krankheiten.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Es ist daher kompliziert, einen Wert für Tierfutter zu berechnen, ohne Dutzende von Forschern einzubeziehen und Dutzende von verschiedenen Algorithmen zu erstellen, was bisher nicht geschehen ist.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
