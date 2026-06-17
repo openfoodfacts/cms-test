@@ -1,18 +1,18 @@
 ---
-title: "{{< fa newspaper size=2x >}} টিপক আৰু মিডিয়া অনুৰোধসমূহ"
-description: "১ টা প্ৰশ্ন"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
-order: ১৪
+order: 14
 category-level: 0
-icon: বাতৰি কাকত
+icon: newspaper
 ---
 
-{{< fa "বাতৰি কাকত" size=৩x >}}
+{{< fa "newspaper" size=3x >}}
 
-## মুক্ত খাদ্য তথ্যৰ ওপৰত প্ৰেছ ভিজুৱেল কেনেকৈ পাব পাৰি?
+## How can I get press visuals on Open Food Facts?
 
-অনুগ্ৰহ কৰি যোগাযোগ কৰক : presse@openfoodfacts.org
-[https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/as/press-release-new-mobile-app)
+Please contact : presse@openfoodfacts.org
+[https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
 
