@@ -1,23 +1,23 @@
 ---
-title: "{{< nau'ikan github size=2x >}} Tambayoyin da ake yawan yi game da fasaha"
-description: "Tambaya 1"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: samfuran github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Shin ya kamata in sabunta duk fayilolin harshe lokacin da na canza layin tushe?
+## Should I update all language files when I change a source string?
 
-A'a ba ka yi ba. Kawai kana buƙatar sabunta na Turanci
+No you don't. You just need to update the English one
 
-- Ƙirƙiri PR ɗinka
+- Create your PR
 
-Da zarar an haɗa shi, za mu sake mayar da tsarin crowdin-trigger da hannu kuma tsarin fassarar Crowdin da GitHub Actions ya haifar zai yi sauran ga sauran harsuna.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot ɗin zai ƙirƙiri sabon PR ta atomatik wanda muke sake dubawa.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
