@@ -1,52 +1,52 @@
 ---
 title: "{{< fa mobile size=2x >}} Mobile app"
-description: "4 goulenn"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: hezoug
+icon: mobile
 ---
 
-{{< fa "hezoug" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Penaos gouzout peseurt stumm eus an arload a implijan ?
+## How do I know which version of the app I'm using?
 
-Kit da **Profil**,
-goude **FAQ**, ha goude **Diwar-benn an arload-mañ.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Ret eo deoc'h
-gwelet un niverenn stumm evel 3.4.5+662. Na zisoñjit ket lâret deomp ar merk hag ar patrom
-eus ar pellgomzer ma vez difaziet.
-
----
-
-## Ne skann ket an arload
-
-Marteze eo abalamour da
-
-- ur gudenn rouedad
-
-- ur gudenn aotreoù
-
-- ur gudenn gant ur c'hod barrennoù
-
-Kasit ur postel deomp dre Profil >> Kit e darempred ganeomp >> Kasit ur postel deomp.
-
-An holl ditouroù talvoudus a rank bezañ staget ouzh ho koulenn.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Penaos e c'hellan sikour da wellaat an arload hezoug ?
+## The app does not scan
 
-Penaos e c'hellan sikour da wellaat an arload hezoug ?
+This may be due to
 
-Gallout a rit [ober kement-se war ar sanailh an arloadoù hezoug](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Pelec'h e c'hellan kas evezhiadennoù diwar-benn an arload ?
+## How can I help with improving the mobile app ?
 
-Gallout a rit kas evezhiadennoù da mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
