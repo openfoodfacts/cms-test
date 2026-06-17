@@ -1,21 +1,21 @@
 ---
-title: "{{< magnitudo pedis anterioris=2x >}} Aperi Facta de Cibo Animalium Domesticorum"
-description: "Duae quaestiones"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pes
+icon: paw
 ---
 
-{{< fa "pes" size=Ter >}}
+{{< fa "paw" size=3x >}}
 
-## Cur nullus est Nutri-Score pro animalibus?
+## Why is there no Nutri-Score for animals?
 
-Quodque animal differt (serpens non easdem necessitates nutritionis habet quam feles aut canis)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Etiam intra idem genus animalium, ut canum, necessitates nutritionis variantur secundum vitam sedentariam, castrationem possibilem, aut morbos.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ergo complicatum est puncta pro pabulo animalium calculare sine participatione plurium investigatorum et creatione plurium algorithmorum diversorum, quod adhuc non factum est.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)]
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
