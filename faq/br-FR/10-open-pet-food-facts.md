@@ -1,21 +1,21 @@
 ---
-title: "{{< ment fa paw=2x >}} Digeriñ titouroù diwar-benn boued al loened-ti"
-description: "2 c'houlenn"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pav
+icon: paw
 ---
 
-{{< fa "pav" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Perak n'eus ket a Nutri-Score evit al loened ?
+## Why is there no Nutri-Score for animals?
 
-Disheñvel eo pep loen (n'eus ket gant un naer an hevelep ezhommoù boued hag ur c'hazh pe ur c'hi)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-E-barzh ar memes seurt loened evel ar chas zoken e cheñch an ezhommoù boued hervez buhez ar mod-bevañ azezet, ur c'hastradur pe kleñvedoù posupl.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Diaes eo neuze jediñ ur skor evit boued al loened hep lakaat degadoù a enklaskerion da gemer perzh ha krouiñ degadoù a algoritmoù disheñvel, ar pezh n'eo ket bet graet betek-henn.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
