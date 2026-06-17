@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Ukuvolontiya / Ukunikela"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: edit
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Ngaba ikho indlela yokususa imifanekiso elayishiweyo kwiimveliso?
+## Is there a way to remove uploaded images for products?
 
-Ngabahloli kuphela abanokususa iifoto, ukuze kuthintelwe ukonakala okunokwenzeka.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Cela nje kuSlack okanye ku **contact@openfoodfacts.org** ukuba ususe iifoto zakho eziphindwe kabini okanye naziphi na iifoto ezingafanelekanga (kufuneka uzame ukunika inombolo yebhakhowudi okanye i-URL ukuze ifumaneke).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Sikwanayo ne-API entsha yengxelo yomfanekiso ukuba ungumhleli weenkqubo.
-
----
-
-## Ndingumyili. Ndinganceda njani?
-
-Siququzelela yonke imisebenzi enxulumene noyilo kwi [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) nakwitshaneli yencoko ezinikeleyo. Sihlala senza iintlanganiso zamaqela kwaye sithetha ngemingeni ethile.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Kwezinye iimeko imveliso efanayo inokuba nexabiso lesondlo elahlukileyo kwilizwe ngalinye, oku kusingathwa njani kwi-Open Food Facts?
+## I'm a designer. How can I help ?
 
-Kwi-99% yexesha, abavelisi baya kudala iibhakhowudi ezahlukeneyo kwiinguqulelo ezahlukeneyo zeemveliso zabo. Umzekelo odumileyo ngumahluko phakathi kweNutella yaseFransi neyaseJamani ngokubhekiselele kubukhulu bayo, ngenxa yomahluko kwisonka kumazwe ngamazwe. Iifomula ezimbini ezahlukeneyo, iibhakhowudi ezimbini ezahlukeneyo.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Nangona kunjalo, ukungqubana kwebhakhowudi kunokwenzeka kwiikhowudi ezimfutshane (i-EAN-8) ezidla ngokusetyenziswa kwakhona ziivenkile ezithile kulo lonke elaseYurophu nase-US. Okwangoku asijongani nokungqubana kweebhakhowudi, kodwa kufanele ukuba kwenzeke oko ngokufumana indawo eqhelekileyo yomsebenzisi (kunqabile nangakumbi ukuba kubekho ukungqubana kweebhakhowudi kwilizwe elithile).
+---
 
-Kwixesha elide, sikhuthaza abavelisi ukuba batshintshele kwi-EAN-13 ukuze baphephe loo ngxabano yeebhakhowudi.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
