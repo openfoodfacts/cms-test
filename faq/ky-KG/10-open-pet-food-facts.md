@@ -1,21 +1,21 @@
 ---
-title: "{{< fa pav size=2x >}} Үй жаныбарларынын тоюттары жөнүндө ачык маалымат"
-description: "2 суроо"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: таман
+icon: paw
 ---
 
-{{< fa "таман" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Эмне үчүн жаныбарлар үчүн Nutri-Score жок?
+## Why is there no Nutri-Score for animals?
 
-Ар бир жаныбар ар башка (жыландын мышык же ит сыяктуу эле азыктык муктаждыгы жок)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ал тургай иттер сыяктуу бир эле жаныбарлардын ичинде да, азыктык муктаждыктар отурукташкан жашоо образына, кастрацияга же ооруларга жараша өзгөрүп турат.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ошондуктан, ондогон изилдөөчүлөрдү тартпай жана ондогон ар кандай алгоритмдерди түзбөй туруп, мал тоютуна упай эсептөө татаал, бул бүгүнкү күнгө чейин жасалган эмес.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
