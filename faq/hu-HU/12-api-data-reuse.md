@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API és adatok újrafelhasználása"
-description: "6 kérdés"
-lang: hu-gb
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
+lang: en-gb
 order: 12
 category-level: 0
-icon: csavarkulcs
+icon: wrench
 ---
 
-{{< fa "csavarkulcs" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## Vannak-e ajánlások a dokumentációban arra vonatkozóan, hogy mi lenne a megfelelő méret a feltöltött képekhez?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Ez országonként függhet, hogy a hálózat lassú vagy drága-e. Bármi, ami 5000 pixelnél nagyobb súlyú vagy magasságú, valószínűleg nem túl hasznos. és ha valahogyan észlelhető, hogy lassú a hálózat, akkor akár egy 2000 pixeles kép is nagyszerű lenne (mindenképpen jobb, mintha nem lenne kép!).
-
----
-
-## Mi a helyzet a vonalkód nélküli ételekkel?
-
-Az Open Food Facts csak a csomagolt élelmiszerekről tartalmaz információkat. A termények (például paradicsom vagy banán) és más élelmiszerek átlagértékeinek meghatározásához használhatja a hivatalos nemzeti táplálkozási adatbázisok egyikét.
-
-**Megjegyzés:** Az alábbi lista a legfontosabb nemzeti élelmiszer-adatbázisok közül néhányat tartalmaz. Ha úgy gondolja, hogy más adatbázist is fel kellene venni a listára, kérjük, vegye fel velünk a kapcsolatot a következő címen: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Nemzeti Élelmiszer-adatbázisok listája**
-
--
-
-**Ausztrália** – FSANZ – NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Belgium** - NUBEL - Belga élelmiszer-összetételi adatok: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Kanada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Cseh Köztársaság** - Élelmiszer-összetételi adatbázis a Nemzeti Közegészségügyi Intézetben: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Dánia** - Dán Élelmiszer-összetételi Adatbank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Észtország** - Észt élelmiszer-összetétel adatbázis: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Finnország** - Finn élelmiszer-összetétel adatbázis - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**Franciaország** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Németország** - Souci-Fachmann-Kraut online adatbázis: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) vagy a hivatalos német adatbázis: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsb)
-
-- **Olaszország** – Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Hollandia** - Holland Élelmiszer-összetételi Adatbázis: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Norvégia** - A norvég élelmiszer-összetételi táblázat 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Lengyelország** - Élelmiszer-összetételi táblázatok: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Spanyolország** - Spanyol élelmiszer-összetételi adatbázis - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Svájc** - Svájci Élelmiszer-összetételi Adatbázis: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**Egyesült Királyság** - Élelmiszer-összetétel integrált adatkészlet (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**USA** – USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Rákereshetek egy pontos terméknévre az API-val?
+## What about food without barcodes ?
 
-Sajnos még nem lehetséges egyszerűen és pontosan a terméknév alapján keresni az API-n keresztül.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Egy kategória szerinti szűrő használata azonban segíthet a keresés pontosításában.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Hogyan férhetek hozzá/gyűjthetek adatokat a projektjeimhez?
+## Can I search a precise product name with the API?
 
-Az Open Food Facts főoldalán, a képernyő bal felső sarkában található egy görgethető menü. Alul találod a „Speciális keresés” opciót, amire rákattinthatsz. Ezután rajtad múlik, hogy melyik kritériumok a legrelevánsabbak a projekted(eid) szempontjából. A kiválasztás után a lap alján görgetve, majd az „Eredmények letöltése” gombra kattintva letöltheti az eredményeket.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Konzultálhat még:
-
-- API dokumentációnk:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Az Open Food Facts felhasználási feltételei:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- Az adatainkról:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## Vannak feltételei az API használatának?
+## How can I access/collect data for my projects?
 
-Az API használatával kapcsolatos összes dokumentáció megtalálható az [API dokumentációs oldalon](https://openfoodfacts.github.io/openfoodfacts-server/api/), de itt egy rövid összefoglaló:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Az Open Food Facts adatbázis nyílt adatként érhető el az Open Database License (ODbL) alatt, a jogi részletekért lásd a [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) oldalt. A két feltétel a forrásmegjelölés és a hasonló jogú felhasználás. Ha az Open Food Facts adatbázisból származó adatokat más adatbázisokkal kombinálod, akkor az ODbL előírja, hogy a kapott adatbázist is nyílt adatként kell közzétenni. Ez azt is jelenti, hogy az adatokat csak olyan forrásokkal kombinálhatja, amelyek lehetővé teszik az ilyen újraelosztást.
+You can also consult:
 
-- **Mindig** egyéni felhasználói ügynököt kell használnod, amikor API-hívásokat hajtasz végre az alkalmazásod azonosítására.
-
-- A sebességkorlátok minden API-végpontra érvényesek.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Hogyan férhetek hozzá a korábbi adatokhoz?
+## Are there conditions to use the API?
 
-Jelenleg nem kínálunk historikus adatkiírást (JSONL, MongoDB, CSV).
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Azonban az egyes termékek esetében a termékadatok korábbi verzióihoz az API-n vagy a termékoldalon a revíziók segítségével lehet hozzáférni.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Minden alkalommal, amikor egy termék frissül, új verzió jön létre (1-től növekvő számjeggyel).
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Például a termék első verziójának (=első termékverzió) lekéréséhez használja a következőt:
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Hasonlóképpen, a rev paraméter használható az API-val:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
