@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Meningkatkan Informasi Makanan Terbuka dalam bahasa/negara saya"
-description: "3 pertanyaan"
-lang: bahasa Inggris
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: bola dunia
+icon: globe
 ---
 
-{{< fa "bola dunia" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Saya ingin menambahkan logo baru untuk label.
+## I would like to add a new logo for labels
 
-Berikut prosesnya:
+Here is the process:
 
-- Temukan **nama kanonik** dari label tersebut dalam [taksonomi label](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (yaitu item pertama dalam daftar sinonim label, misalnya en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Dapatkan logo berkualitas baik**: hindari menggunakan foto kontributor yang tidak sesuai untuk kasus ini; sebagian besar label memiliki situs web resmi dengan logo berkualitas tinggi, terkadang dalam format vektor (bahkan lebih baik untuk kita); selama kita menggunakan logo untuk secara objektif menginformasikan tentang keberadaan label
-pada kemasan produk, tidak perlu meminta izin.
---------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Beri nama file seperti ini**: nama-label.[lebar]x90.png di mana lebar adalah lebar logo saat tingginya 90 piksel. Nama file harus tanpa aksen, menggunakan huruf kecil, dan menggunakan tanda "-" sebagai pengganti spasi.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- Kemudian tambahkan logo di direktori yang sesuai dengan nama kanoniknya. Jika nama kanoniknya adalah en:sesuatu, maka mereka harus berada di /en/. Direktori akar untuk logo adalah [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Bagaimana cara menerjemahkan Open Food Facts ke dalam bahasa saya?
-
-Kunjungi [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Bagaimana cara menerjemahkan FAQ ini ke dalam bahasa saya?
+## How do I translate Open Food Facts to my language ?
 
-Silakan hubungi contact@openfoodfacts.org untuk akses pengeditan ke basis pengetahuan.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
