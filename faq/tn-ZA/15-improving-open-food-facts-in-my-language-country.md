@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Go tokafatsa Dintlha tsa Dijo tse di Buletsweng mo puong/nageng ya me"
-description: "Dipotso di le 3"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: kgolokwe
+icon: globe
 ---
 
-{{< fa "kgolokwe" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Ke rata go tsenya letshwao le lesha la dileibole
+## I would like to add a new logo for labels
 
-Thulaganyo ke eno:
+Here is the process:
 
-- batla **leina le le tlwaelegileng** la leibole mo [thulaganyong ya dileibole](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (ke ntlha ya ntlha mo lenaaneng la makaelagongwe a dileibole, sk. tn:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**bona letshwao ka boleng jo bo siameng**: tila go dirisa senepe sa motsenya seabe se se sa tshwanelang kgetse eno; bontsi jwa dileibole di na le diwebosaete tsa semmuso tsa matshwao a boleng jo bo kwa godimo, ka dinako tse dingwe ka sebopego sa vector (le go feta mo go rona); fa fela re dirisa letshwao go itsise ka nepo ka ga go nna teng ga letshwao la
-mo sephuthelwaneng sa setlhagiswa, ga go tlhokege go kopa tetlelelo.
-------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**naya faele jaana**: leina-la-leibole.[bophara]x90.png fa bophara e leng bophara jwa letshwao fa le le bogodimo jwa dipiksele di le 90. Maina a difaele a tlhoka go nna a a senang ditlhaka, ka ditlhaka tse dinnye le go dirisa "-" boemong jwa diphatlha.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- ebe o eketsa letshwao ka lenaneong le tsamaellanang le lebitso la lona la kanoniki. Fa leina la kanoniki e le en:something, go raya gore di tlhoka go nna mo /en/. Lenaneo la modi la matshwao ke [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/dintlha tsa dijo tse di bulegileng/sefara ya dintlha tsa dijo tse di bulegileng/setlhare/se segolo/html/ditshwantsho/puo)
-
----
-
-## Nka ranolela jang Dintlha tsa Dijo tse di Buletsweng mo puong ya me ?
-
-Tlhogo ya [https://wiki.openfoodfacts.org/Country_Support](https://wiki.dintlha tsa dijo tse di bulegileng.org/Tshegetso_ya_Naga)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Nka ranolela jang FAQ eno mo puong ya me ?
+## How do I translate Open Food Facts to my language ?
 
-Tsweetswee kopa go ikgolaganya le@openfoodfacts.org go tseleganya phitlhelelo ya motheo wa kitso.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
