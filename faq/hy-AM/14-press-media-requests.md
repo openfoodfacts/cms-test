@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Մամուլի և լրատվամիջոցների հարցումներ"
-description: "1 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: թերթ
+icon: newspaper
 ---
 
-{{< fa "թերթ" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Ինչպե՞ս կարող եմ մամուլի համար տեսողական նյութեր ստանալ Open Food Facts-ի վերաբերյալ։
+## How can I get press visuals on Open Food Facts?
 
-Խնդրում ենք կապ հաստատել՝ presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
