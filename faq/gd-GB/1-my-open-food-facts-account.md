@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mo chunntas Open Food Facts"
-description: "2 cheist"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: cearcall-cleachdaiche
+icon: user-circle
 ---
 
-{{< fa "cearcall-cleachdaiche" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Tha mi airson mo chunntas a dhubhadh às
+## I want to delete my account
 
-Bidh cuir às do chunntas a-nis a’ tachairt gu dìreach anns na roghainnean agad.
+Account deletion now happens directly in your preferences.
 
-Às dèidh dhut logadh a-steach air [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), cliog air ainm-cleachdaiche san oisean gu h-àrd air an làimh dheis, tagh Paramadairean a’ Chunntais. Bidh e a’ fosgladh duilleag nan roghainnean agad. Rach gu bonn na duilleige agus cleachd an gnìomh “sguab às neach-cleachdaidh”.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Mura h-urrainn dhut logadh a-steach (no am facal-faire agad ath-shuidheachadh), cuir fios gu dpo - aig - [openfoodfacts.org](http://openfoodfacts.org), a’ cleachdadh an seòlaidh puist-d a chleachdas tu gus cunntas a chlàradh.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
