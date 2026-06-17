@@ -1,17 +1,17 @@
 ---
-title: "ການຮ້ອງຂໍຂອງສື່ມວນຊົນ ແລະ ສື່ມວນຊົນ {{< fa newspaper size=2x >}}"
-description: "1 ຄຳຖາມ"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: ໜັງສືພິມ
+icon: newspaper
 ---
 
-{{< fa "ໜັງສືພິມ" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ຂ້ອຍຈະໄດ້ຮູບພາບຂ່າວກ່ຽວກັບ Open Food Facts ໄດ້ແນວໃດ?
+## How can I get press visuals on Open Food Facts?
 
-ກະລຸນາຕິດຕໍ່: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
