@@ -1,17 +1,17 @@
 ---
-title: "{{< gwosè jounal fa=2x >}} Demann pou laprès ak medya"
-description: "1 kesyon"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: jounal
+icon: newspaper
 ---
 
-{{< fa "jounal" size="3 fwa" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Kijan m ka jwenn imaj pou laprès sou Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Tanpri kontakte: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
