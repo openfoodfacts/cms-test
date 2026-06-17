@@ -1,23 +1,23 @@
 ---
-title: "{{< noocyada caanka ah ee github size=2x >}} Su'aalaha Inta Badan La Isweydiiyo ee Farsamada"
-description: "1 su'aal"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: noocyada github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Ma cusbooneysiiyaa dhammaan faylasha luqadda marka aan beddelo xarigga isha?
+## Should I update all language files when I change a source string?
 
-Maya ma sameyn kartid. Kaliya waxaad u baahan tahay inaad cusboonaysiiso luqadda Ingiriisiga
+No you don't. You just need to update the English one
 
-- Samee PR-gaaga
+- Create your PR
 
-Marka la isku daro, waxaan dib u habeyn doonnaa crowdin-trigger gacanta, nidaamka turjumaadda Crowdin ee uu kiciyo GitHub Actions wuxuu inta kale u qaban doonaa luqadaha kale.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot-ka GitHub wuxuu markaa si toos ah u sameeyaa PR cusub oo aan markaa dib u eegno.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
