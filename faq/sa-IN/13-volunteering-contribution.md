@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} स्वयंसेवा / योगदानम्"
-description: "३ प्रश्नाः"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
-order: १३
+order: 13
 category-level: 0
 icon: edit
 ---
 
-{{< fa "edit" size=३x >}}
+{{< fa "edit" size=3x >}}
 
-## उत्पादानाम् अपलोड् कृतानि चित्राणि दूरीकर्तुं कोऽपि उपायः अस्ति वा?
+## Is there a way to remove uploaded images for products?
 
-केवलं संचालकाः एव छायाचित्रं हर्तुं शक्नुवन्ति, सम्भाव्यविध्वंसं परिहरितुं।
+Only moderators can remove photos, to avoid potential vandalism.
 
-केवलं Slack इत्यत्र अथवा **contact@openfoodfacts.org** इत्यत्र स्वस्य डुप्लिकेट् अथवा कस्यापि अनुचितस्य फोटो इत्यस्य निष्कासनार्थं पृच्छन्तु (भवता तदर्थं बारकोड् सङ्ख्या वा URL वा प्रदातुं प्रयतितव्यम्)।
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-अस्माकं कृते नूतनं इमेज रिपोर्ट् एपिआइ अपि अस्ति यदि भवान् प्रोग्रामरः अस्ति।
-
----
-
-## अहं डिजाइनरः अस्मि। अहं कथं साहाय्यं कर्तुं शक्नोमि ?
-
-वयं [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) इत्यत्र तथा समर्पिते गपशपचैनेल् इत्यत्र सर्वाणि डिजाइनसम्बद्धानि क्रियाकलापाः समन्वययामः। वयं नियमितरूपेण विशिष्टचुनौत्यविषये दलसमागमाः, मस्तिष्कविक्षेपं च कुर्मः।
+We also have a new image report API if you're a programmer.
 
 ---
 
-## केषुचित् सन्दर्भेषु एकस्यैव उत्पादस्य प्रत्येकस्य देशस्य कृते भिन्नानि पोषणमूल्यानि भवितुम् अर्हन्ति, Open Food Facts इत्यत्र एतत् कथं नियन्त्रितम् अस्ति ?
+## I'm a designer. How can I help ?
 
-९९% समये उत्पादकाः स्वस्य उत्पादानाम् विभिन्नसंस्करणानाम् कृते भिन्नानि बारकोड् निर्मास्यन्ति । प्रसिद्धं उदाहरणं स्थूलतायाः दृष्ट्या फ्रेंच-जर्मन-न्युटेल्-योः भेदः अस्ति, यतः देशेषु रोटिकायाः भेदः अस्ति । २ भिन्नानि सूत्राणि, २ भिन्नानि बारकोड् ।
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-तथापि लघुसङ्केतेषु (EAN-8) बारकोड्-सङ्घर्षः भवितुम् अर्हति येषां पुनः उपयोगः सामान्यतया सम्पूर्णे यूरोपे अमेरिकादेशे च केभ्यः भण्डारैः क्रियते । वयं सम्प्रति तान् बारकोड्-सङ्घर्षान् न सम्पादयामः, परन्तु उपयोक्तुः सामान्यस्थानं प्राप्य तत् कर्तुं शक्यं भवितुमर्हति (देशस्य अन्तः बारकोड्-सङ्घर्षाः भवितुं अधिकं दुर्लभम्)
+---
 
-दीर्घकालं यावत् वयं उत्पादकान् तान् बारकोड्-सङ्घर्षान् परिहरितुं EAN-13 -इत्यत्र गन्तुं प्रोत्साहयामः ।
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
