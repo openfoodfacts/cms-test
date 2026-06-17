@@ -1,21 +1,21 @@
 ---
-title: "{{< talha de la pata fa=2x >}} Dobrir los faches de la noiridura de mascotas"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
 description: "2 questions"
-lang: es-gb
+lang: en-gb
 order: 10
 category-level: 0
-icon: pata
+icon: paw
 ---
 
-{{< fa "pata" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Perqué i a pas de Nutri-Score pels animals?
+## Why is there no Nutri-Score for animals?
 
-Cada animal es diferent (una sèrp a pas los meteisses besonhs nutricionals qu'un gat o un can)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Quitament al sen del meteis tipe d'animal coma los cans, los besonhs nutricionals vàrian segon la vida de l'estil de vida sedentari, una possibla castracion o de malautiás.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Es doncas complicat de calcular una puntuacion per l'alimentacion animala sens implicar de desenats de cercaires e crear de desenats d'algoritmes diferents, çò qu'es pas estat fach fins ara.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
