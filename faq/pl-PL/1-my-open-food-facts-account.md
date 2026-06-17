@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Moje konto Open Food Facts"
-description: "2 pytania"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: krąg użytkowników
+icon: user-circle
 ---
 
-{{< fa "krąg użytkowników" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Chcę usunąć moje konto
+## I want to delete my account
 
-Usuwanie konta odbywa się teraz bezpośrednio w preferencjach.
+Account deletion now happens directly in your preferences.
 
-Po zalogowaniu się na [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), kliknij nazwę użytkownika w prawym górnym rogu i wybierz Parametry konta. Otwiera się strona preferencji. Przejdź na dół strony i użyj opcji „usuń użytkownika”.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Jeśli nie możesz się zalogować (lub zresetować hasła), skontaktuj się z dpo - at - [openfoodfacts.org](http://openfoodfacts.org), używając adresu e-mail użytego do rejestracji konta.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
