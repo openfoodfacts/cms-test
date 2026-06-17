@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} 私の言語/国におけるオープンフードファクトの改善"
-description: "3つの質問"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: グローブ
+icon: globe
 ---
 
-{{< fa "グローブ" size=3倍 >}}
+{{< fa "globe" size=3x >}}
 
-## ラベルに新しいロゴを追加したい
+## I would like to add a new logo for labels
 
-プロセスは次のとおりです。
+Here is the process:
 
-- [ラベルの分類](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) でラベルの **正規名** を見つけます (ラベルの同義語リストの最初の項目です。例: en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**高品質のロゴを入手する**: この場合に適さない投稿者の写真の使用は避けてください。ほとんどのラベルには公式 Web サイトに高品質のロゴがあり、ベクター形式になっている場合もあります (私たちにとってはさらに便利です)。製品のパッケージに
-ラベルがあることを客観的に知らせるためにロゴを使用する限り、許可を求める必要はありません。
----------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**ファイル名を次のようにします**: ラベル名.[width]x90.png。ここで、width はロゴの高さが 90 ピクセルのときの幅です。 ファイル名にはアクセントを付けず、小文字で、スペースの代わりに「-」を使用する必要があります。
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- 次に、正規名に対応するディレクトリにロゴを追加します。 正規名が en:something の場合、/en/ 内に記述する必要があります。 ロゴのルートディレクトリは[https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)です。
-
----
-
-## Open Food Facts を自分の言語に翻訳するにはどうすればいいですか?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) にアクセスしてください。
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## この FAQ を自分の言語に翻訳するにはどうすればよいですか?
+## How do I translate Open Food Facts to my language ?
 
-ナレッジベースの編集アクセスについては、contact@openfoodfacts.org にお問い合わせください。
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
