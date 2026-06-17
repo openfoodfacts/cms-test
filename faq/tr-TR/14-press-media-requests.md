@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Basın ve Medya Talepleri"
-description: "1 soru"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: gazete
+icon: newspaper
 ---
 
-{{< fa "gazete" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts hakkında basın görsellerine nasıl ulaşabilirim?
+## How can I get press visuals on Open Food Facts?
 
-Lütfen iletişime geçin: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
