@@ -1,17 +1,17 @@
 ---
-title: "{{< dimensiunea ziarului fa=2x >}} Solicitări de presă și media"
-description: "1 întrebare"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: ziar
+icon: newspaper
 ---
 
-{{< fa "ziar" size="de 3 ori" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Cum pot obține imagini de presă pe Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Vă rugăm să contactați: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
