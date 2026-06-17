@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} पाळीव प्राण्यांच्या अन्नाबद्दलचे उघड तथ्ये"
-description: "२ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: पंजा
+icon: paw
 ---
 
-{{< fa "पंजा" size=३x >}}
+{{< fa "paw" size=3x >}}
 
-## प्राण्यांसाठी न्यूट्री-स्कोअर का नाही?
+## Why is there no Nutri-Score for animals?
 
-प्रत्येक प्राणी वेगळा असतो (सापाला मांजर किंवा कुत्र्यासारख्या पोषणाच्या गरजा नसतात)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-कुत्र्यांसारख्या एकाच प्रकारच्या प्राण्यांमध्येही, पौष्टिक गरजा बैठी जीवनशैली, संभाव्य कास्ट्रेशन किंवा आजारांनुसार बदलतात.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-त्यामुळे डझनभर संशोधकांना सहभागी करून घेतल्याशिवाय आणि डझनभर वेगवेगळे अल्गोरिदम तयार केल्याशिवाय प्राण्यांच्या खाद्यासाठी गुणांची गणना करणे गुंतागुंतीचे आहे, जे आजपर्यंत केले गेले नाही.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
