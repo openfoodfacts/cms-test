@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Plibonigante Malfermajn Nutraĵajn Informojn en mia lingvo/lando"
-description: "3 demandoj"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: globo
+icon: globe
 ---
 
-{{< fa "globo" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Mi ŝatus aldoni novan emblemon por etikedoj
+## I would like to add a new logo for labels
 
-Jen la procezo:
+Here is the process:
 
-- trovu la **kanonikan nomon** de la etikedo en la [taksonomio de etikedoj](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (ĝi estas la unua ero en la listo de sinonimoj de la etikedoj, ekz. en:100% vegetaĵa)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**akiru la emblemon en bona kvalito**: evitu uzi la foton de la kontribuanto, kiu ne taŭgas por ĉi tiu kazo; plej multaj etikedoj havas oficialajn retejajn altkvalitajn emblemojn, kelkfoje en vektora formato (eĉ pli bone por ni); kondiĉe ke ni uzas emblemon por objektive informi pri la ĉeesto de etikedo
-sur la pakaĵo de produkto, ne necesas peti permeson.
---------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**nomu la dosieron jene**: nomo-de-la-etikedo.[larĝo]x90.png kie larĝo estas la larĝo de la emblemo kiam ĝi estas 90 rastrumeroj alta. La dosiernomoj devas esti senakcentaj, minusklaj kaj uzante "-" anstataŭ spacetoj.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- tiam aldonu la emblemon en la dosierujo kiu respondas al ĝia kanonika nomo. Se la kanonika nomo estas en:io, tiam ili devas esti en /en/. La radika dosierujo por logotipoj estas [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Kiel mi tradukas Open Food Facts al mia lingvo?
-
-Iru al [[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Kiel mi traduku ĉi tiun Oftajn Demandojn al mia lingvo?
+## How do I translate Open Food Facts to my language ?
 
-Bonvolu peti al contact@openfoodfacts.org redaktan aliron al la sciobazo.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
