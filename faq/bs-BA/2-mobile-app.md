@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobilna aplikacija"
-description: "4 pitanja"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobilni
+icon: mobile
 ---
 
-{{< fa "mobilni" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Kako da znam koju verziju aplikacije koristim?
+## How do I know which version of the app I'm using?
 
-Idite na **Profil**,
-zatim **Česta pitanja**, a zatim **O ovoj aplikaciji.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Trebali biste
-vidjeti broj verzije poput 3.4.5+662. Ne zaboravite nam reći marku i model
-telefona ako se vrši otklanjanje grešaka.
-
----
-
-## Aplikacija ne skenira
-
-Ovo može biti zbog
-
-- problem s mrežom
-
-- problem s dozvolama
-
-- problem s barkodom
-
-Pošaljite nam e-mail putem profila >> Kontaktirajte nas >> Pošaljite nam e-mail.
-
-Sve relevantne informacije trebaju biti priložene uz vaš zahtjev.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Kako mogu pomoći u poboljšanju mobilne aplikacije?
+## The app does not scan
 
-Kako mogu pomoći u poboljšanju mobilne aplikacije?
+This may be due to
 
-To možete [učiniti u repozitoriju mobilnih aplikacija](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Gdje mogu poslati povratne informacije o aplikaciji?
+## How can I help with improving the mobile app ?
 
-Možete poslati povratne informacije na mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
