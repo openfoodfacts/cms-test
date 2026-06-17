@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Inganta Bayanan Abinci Buɗe a Harshe/Ƙasata"
-description: "Tambayoyi 3"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: duniya
+icon: globe
 ---
 
-{{< fa "duniya" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Ina so in ƙara sabon tambari don lakabi
+## I would like to add a new logo for labels
 
-Ga tsarin:
+Here is the process:
 
-- nemo **sunan da aka yarda da shi** na lakabin a cikin [taxonomy' labels](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (shine abu na farko a cikin jerin ma'anar lakabin, misali. en:100% kayan lambu)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**sami tambarin a cikin inganci mai kyau**: a guji amfani da hoton mai ba da gudummawa wanda bai dace da wannan shari'ar ba; yawancin lakabi suna da tambarin gidan yanar gizo na hukuma, wani lokacin a cikin tsarin vector (mafi kyau a gare mu); matuƙar mun yi amfani da tambari don sanar da mu game da kasancewar alamar
-a kan marufin wani samfuri, babu buƙatar neman izini.
----------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**sunan fayil ɗin kamar haka**: name-of-the-label.[width]x90.png inda faɗi shine faɗin tambarin idan tsayinsa ya kai pixel 90. Ya kamata a yi amfani da sunayen fayil ɗin ba tare da lafazi ba, a ƙananan haruffa kuma a yi amfani da "-" maimakon sarari.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- sannan a saka tambarin a cikin kundin adireshi wanda ya yi daidai da sunan da aka yi masa na canonical. Idan sunan da aka yi amfani da shi a canonical shine en:something, to suna buƙatar kasancewa a cikin /en/. Tushen jagorar tambari shine [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Ta yaya zan fassara Buɗaɗɗen Bayani game da Abinci zuwa harshena?
-
-Je zuwa [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Ta yaya zan fassara wannan Tambayoyin da ake yawan yi zuwa harshena?
+## How do I translate Open Food Facts to my language ?
 
-Da fatan za a nemi hanyar gyara don samun damar zuwa ga tushen ilimi ta contact@openfoodfacts.org.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
