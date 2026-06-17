@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Voluntariado / Contribución"
-description: "3 preguntas"
-lang: es-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: modificar
@@ -9,29 +9,29 @@ icon: modificar
 
 {{< fa "modificar" size=3x >}}
 
-## ¿Hay alguna forma de eliminar las imágenes cargadas de los productos?
+## Is there a way to remove uploaded images for products?
 
-Sólo los moderadores pueden eliminar fotos, para evitar posibles actos vandálicos.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Simplemente pregunte en Slack o en **contact@openfoodfacts.org** para eliminar sus duplicados o cualquier foto inapropiada (debe intentar proporcionar el número de código de barras o la URL para hacerlo).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-También tenemos una nueva API de informes de imágenes si eres programador.
-
----
-
-## Soy diseñador. ¿Cómo puedo ayudar?
-
-Coordinamos todas las actividades relacionadas con el diseño en [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) y en un canal de chat dedicado. Regularmente realizamos reuniones de equipo y sesiones de reflexión sobre desafíos específicos.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## En algunos casos el mismo producto puede tener diferentes valores nutricionales para cada país, ¿cómo se gestiona esto en Open Food Facts?
+## I'm a designer. How can I help ?
 
-El 99% de las veces, los productores crearán códigos de barras diferentes para diferentes versiones de sus productos. Un ejemplo famoso es la diferencia entre la Nutella francesa y la alemana en términos de grosor, debido a las diferencias en el pan de los distintos países. 2 fórmulas diferentes, 2 códigos de barras diferentes.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Sin embargo, pueden producirse conflictos de códigos de barras en códigos más cortos (EAN-8) que suelen reutilizar algunas tiendas en Europa y Estados Unidos. Actualmente no manejamos esos conflictos de códigos de barras, pero debería ser posible hacerlo obteniendo la ubicación general del usuario (es aún más raro tener conflictos de códigos de barras dentro de un país).
+---
 
-A largo plazo, alentamos a los productores a migrar a EAN-13 para evitar conflictos de códigos de barras.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
