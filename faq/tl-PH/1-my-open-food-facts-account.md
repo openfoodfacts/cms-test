@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ang aking Open Food Facts account"
-description: "2 tanong"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: bilog ng gumagamit
+icon: user-circle
 ---
 
-{{< fa "bilog ng gumagamit" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Gusto kong burahin ang aking account
+## I want to delete my account
 
-Ang pagbura ng account ay nangyayari na ngayon nang direkta sa iyong mga kagustuhan.
+Account deletion now happens directly in your preferences.
 
-Pagkatapos mag-login sa [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), i-click ang username sa kanang sulok sa itaas, at piliin ang Account Parameters. Magbubukas ito ng pahina ng iyong mga kagustuhan. Pumunta sa ibaba ng pahina at gamitin ang aksyon na "burahin ang user".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Kung hindi ka makapag-login (o makapag-reset ng iyong password), mangyaring makipag-ugnayan sa dpo - at - [openfoodfacts.org](http://openfoodfacts.org), gamit ang email address na ginamit mo para magrehistro ng account.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
