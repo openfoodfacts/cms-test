@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Технические вопросы и ответы"
-description: "1 вопрос"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: бренды github
+icon: brands github
 ---
 
 {{< fa "марки" "github" size=3x >}}
 
-## Следует ли обновлять все языковые файлы при изменении исходной строки?
+## Should I update all language files when I change a source string?
 
-Нет, не нужно. Вам нужно просто обновить английскую версию.
+No you don't. You just need to update the English one
 
-- Создайте свой запрос на слияние (PR).
+- Create your PR
 
-После слияния мы вручную перебазируем crowdin-trigger, а система перевода Crowdin, запускаемая GitHub Actions, сделает все остальное для других языков.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Затем бот GitHub автоматически создает новый запрос на слияние, который мы затем рассматриваем.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
