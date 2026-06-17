@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Kesyon yo poze souvan (FAQ) teknik"
-description: "1 kesyon"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: mak github
+icon: brands github
 ---
 
-{{< fa "brands" "github" size="3 fwa" >}}
+{{< fa "brands" "github" size=3x >}}
 
-## Èske mwen ta dwe mete tout fichye lang yo ajou lè mwen chanje yon chèn sous?
+## Should I update all language files when I change a source string?
 
-Non, ou pa fè sa. Ou jis bezwen mete ajou sa ki nan lang angle a.
+No you don't. You just need to update the English one
 
-- Kreye PR ou a
+- Create your PR
 
-Yon fwa li fin rantre, nou pral rebaze crowdin-trigger manyèlman epi sistèm tradiksyon Crowdin ki deklanche pa GitHub Actions la pral fè rès la pou lòt lang yo.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Apre sa, bot GitHub la kreye yon nouvo PR otomatikman ke nou pral revize.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
