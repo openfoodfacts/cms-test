@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Farsímaforrit"
-description: "4 spurningar"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: farsími
+icon: mobile
 ---
 
-{{< fa "farsími" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Hvernig veit ég hvaða útgáfu af appinu ég er að nota?
+## How do I know which version of the app I'm using?
 
-Farðu í **Prófíl**,
-, síðan **Algengar spurningar** og svo **Um þetta forrit.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Þú ættir að
-sjá útgáfunúmer eins og 3.4.5+662. Ekki gleyma að láta okkur vita hvaða gerð og gerð símans er
-ef hann er að villuleita.
-
----
-
-## Forritið skannar ekki
-
-Þetta gæti verið vegna þess að
-
-- netvandamál
-
-- vandamál með heimildir
-
-- vandamál með strikamerki
-
-Sendið okkur tölvupóst í gegnum prófílinn >> Hafið samband >> Sendið okkur tölvupóst.
-
-Allar viðeigandi upplýsingar skulu fylgja beiðni þinni.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Hvernig get ég hjálpað til við að bæta farsímaforritið?
+## The app does not scan
 
-Hvernig get ég hjálpað til við að bæta farsímaforritið?
+This may be due to
 
-Þú getur [gert það í geymslu farsímaforritsins](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Hvert get ég sent ábendingar um appið?
+## How can I help with improving the mobile app ?
 
-Þú getur sent ábendingar á mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
