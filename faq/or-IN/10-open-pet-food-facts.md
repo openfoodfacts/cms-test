@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} ପୋଷା ପ୍ରାଣୀ ଖାଦ୍ୟ ତଥ୍ୟ ଖୋଲାନ୍ତୁ"
-description: "2ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: ପଞ୍ଝା
+icon: paw
 ---
 
-{{< fa "ପଞ୍ଝା" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## ପ୍ରାଣୀମାନଙ୍କ ପାଇଁ କାହିଁକି ନ୍ୟୁଟ୍ରି-ସ୍କୋର୍ ନାହିଁ?
+## Why is there no Nutri-Score for animals?
 
-ପ୍ରତ୍ୟେକ ପ୍ରାଣୀ ଭିନ୍ନ (ସାପର ବିଲେଇ କିମ୍ବା କୁକୁର ପରି ସମାନ ପୁଷ୍ଟିକର ଆବଶ୍ୟକତା ନାହିଁ)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-କୁକୁର ଭଳି ସମାନ ପ୍ରକାରର ପ୍ରାଣୀଙ୍କ ମଧ୍ୟରେ ମଧ୍ୟ, ବସି ଜୀବନଶୈଳୀ, ସମ୍ଭାବ୍ୟ କାଷ୍ଟ୍ରେସନ କିମ୍ବା ରୋଗ ଅନୁସାରେ ପୁଷ୍ଟିକର ଆବଶ୍ୟକତା ଭିନ୍ନ ହୋଇଥାଏ।
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-ତେଣୁ ଡଜନ ଡଜନ ଗବେଷକଙ୍କୁ ସାମିଲ ନକରି ଏବଂ ଡଜନ ଡଜନ ଭିନ୍ନ ଆଲଗୋରିଦମ ସୃଷ୍ଟି ନକରି ପଶୁ ଖାଦ୍ୟ ପାଇଁ ସ୍କୋର ଗଣନା କରିବା ଜଟିଳ, ଯାହା ଆଜି ପର୍ଯ୍ୟନ୍ତ କରାଯାଇ ନାହିଁ।
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
