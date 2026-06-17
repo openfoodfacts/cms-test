@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Техникийн Түгээмэл Асуултууд"
-description: "1 асуулт"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: брэндүүд github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Эх хэлний мөрийг өөрчлөхдөө бүх хэлний файлуудыг шинэчлэх ёстой юу?
+## Should I update all language files when I change a source string?
 
-Үгүй ээ, чи тэгэхгүй. Та зүгээр л Англи хэлийг нь шинэчлэх хэрэгтэй
+No you don't. You just need to update the English one
 
-- Өөрийн PR-аа бүтээгээрэй
+- Create your PR
 
-Нэгтгэсний дараа бид crowdin-trigger-ийг гараар дахин тохируулах бөгөөд GitHub Actions-ээр өдөөгдсөн Crowdin орчуулгын систем нь бусад хэлний хувьд үлдсэнийг нь хийх болно.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub бот нь автоматаар шинэ PR үүсгэдэг бөгөөд бид үүнийг хянадаг.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
