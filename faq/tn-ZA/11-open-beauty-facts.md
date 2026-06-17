@@ -1,15 +1,15 @@
 ---
-title: "{{< bogolo jwa ditheke tsa fa=2x >}} Dintlha tsa Bontle jo bo Butsweng"
-description: "Dipotso di le 4"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: ditheke
+icon: tags
 ---
 
-{{< fa "ditheke" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## A Dintlha tsa Bontle jo bo Bulegileng di na le laboratori ya tshekatsheko?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -19,37 +19,37 @@ consumers, you can use our iPhone, Android and
 
 Windows Phone to add products:
 
-[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://tshameka.google.com/lebenkele/ditiriso/dintlha?id=mokgatlho.bulela dintlha tsa bontle
+[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
 
 And to exchange and discuss the possible uses of the project, you
 
 can join the Facebook group of contributors:
 
-[https://www.facebook.com/groups/356858984359591/](ditlhopha/356858984359591/)
+[https://www.facebook.com/groups/356858984359591/](https://www.facebook.com/groups/356858984359591/)
 
 ---
 
-## Ke tsenya jang dikumo tsa me mo Dintlhang tsa Bontle jo bo Bulegileng?
+## How do I import my products into Open Beauty Facts?
 
-Ikgolaganye le batlhagisi@openfoodfacts.org kgotsa ya kwa go
+Contact producteurs@openfoodfacts.org or go directly to
 
-(https://fr.pro.openfoodfacts.org) o bo o ikgolaganya le \*\*batlhagisi@dijo tse di bulegileng.org \*\*go bona thomelontle e e kgethegileng
-
----
-
-## Nka laisolola kae tshedimosetso ya Dintlha tsa Bontle jo bo Buletsweng?
-
-Tsebe ya /data ga jaana e thubegile. O ka laisolola tshedimosetso mo go [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.dintlha tsa bontle.org/tshedimosetso/fr.dintlha tsa bontle.org.dikumo.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Nka bona kae API ya Dintlha tsa Bontle jo bo Buletsweng le diromelwantle tsa tshedimosetso ?
+## Where can I download Open Beauty Facts data?
 
-API ya Dintlha tsa Dijo tse di Buletsweng ke 98% e tshwana le API ya Dintlha tsa Bontle jo bo Buletsweng ka jalo fa o dirisa ditokomane tsa API ya Dintlha tsa Dijo tse di Buletsweng o tshwanetse go nna le pono e e tlhapileng sentle ya API ya Dintlha tsa Bontle jo bo Buletsweng.
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https/dintlha tsa dijo tse di bulegileng.github.io/sefara ya dintlha tsa dijo tse di bulegileng/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
