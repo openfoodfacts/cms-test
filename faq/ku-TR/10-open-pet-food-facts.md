@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Agahiyên Xwarina Heywanan Vekin"
-description: "2 pirs"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: lep
+icon: paw
 ---
 
-{{< fa "lep" size="3 caran" >}}
+{{< fa "paw" size=3x >}}
 
-## Çima ji bo heywanan Nutri-Score tune ye?
+## Why is there no Nutri-Score for animals?
 
-Her ajal cuda ye (mar ne xwedî heman pêdiviyên xurekî yên pisîk an kûçik e)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Tewra di heman cureyê heywanan de wekî kûçikan jî, pêdiviyên xurekî li gorî şêwaza jiyana bêçalak, kastrasyonek muhtemel, an nexweşiyan diguherin.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ji ber vê yekê, bêyî tevlîkirina bi dehan lêkolîneran û afirandina bi dehan algorîtmayên cûda, hesabkirina puanek ji bo xwarina heywanan tevlihev e, ku heta niha nehatiye kirin.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
