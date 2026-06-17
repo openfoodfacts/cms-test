@@ -1,23 +1,23 @@
 ---
-title: "{{< àwọn àmì ìtajà github size=2x >}} Àwọn ìbéèrè tó gbajúmọ̀ nípa ìmọ̀ ẹ̀rọ"
-description: "Ìbéèrè kan"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: awọn ami iyasọtọ github
+icon: brands github
 ---
 
 {{< fa "awon eya" "github" size=3x >}}
 
-## Ṣé ó yẹ kí n ṣe àtúnṣe gbogbo àwọn fáìlì èdè nígbà tí mo bá yí okùn orísun kan padà?
+## Should I update all language files when I change a source string?
 
-Rárá o kò ní ṣe bẹ́ẹ̀. O kan nilo lati ṣe imudojuiwọn ti Gẹẹsi naa
+No you don't. You just need to update the English one
 
-- Ṣẹda PR rẹ
+- Create your PR
 
-Nígbà tí a bá ti dapọ̀ mọ́ra, a ó tún ìpìlẹ̀ crowdin-trigger ṣe pẹ̀lú ọwọ́, ètò ìtumọ̀ Crowdin tí GitHub Actions ṣe yóò sì ṣe ìyókù fún àwọn èdè mìíràn.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot GitHub lẹhinna ṣẹda PR tuntun laifọwọyi ti a lẹhinna ṣe atunyẹwo.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
