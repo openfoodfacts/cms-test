@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mo chuntas Open Food Facts"
-description: "2 cheist"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: ciorcal úsáideora
+icon: user-circle
 ---
 
-{{< fa "ciorcal úsáideora" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ba mhaith liom mo chuntas a scriosadh
+## I want to delete my account
 
-Tarlaíonn scriosadh cuntais go díreach i do chuid sainroghanna anois.
+Account deletion now happens directly in your preferences.
 
-Tar éis logáil isteach ar [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), cliceáil ar ainm úsáideora sa chúinne uachtarach ar dheis, roghnaigh Paraiméadair Chuntais. Osclaíonn sé do leathanach roghanna. Téigh go bun an leathanaigh agus bain úsáid as an ngníomh "scrios úsáideoir".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Mura bhfuil tú in ann logáil isteach (nó do phasfhocal a athshocrú), déan teagmháil leis an DPO - ag - [openfoodfacts.org](http://openfoodfacts.org), ag baint úsáide as an seoladh ríomhphoist a úsáideann tú chun cuntas a chlárú.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
