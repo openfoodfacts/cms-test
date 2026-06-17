@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Atidaryti informaciją apie naminių gyvūnėlių ėdalą"
-description: "2 klausimai"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: letena
+icon: paw
 ---
 
-{{< fa "letena" size="3 kartus" >}}
+{{< fa "paw" size=3x >}}
 
-## Kodėl nėra „Nutri-Score“ gyvūnams?
+## Why is there no Nutri-Score for animals?
 
-Kiekvienas gyvūnas yra skirtingas (gyvatės mitybos poreikiai skiriasi nuo katės ar šuns)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Net ir tos pačios rūšies gyvūnams, pavyzdžiui, šunims, mitybos poreikiai skiriasi priklausomai nuo sėslaus gyvenimo būdo, galimos kastracijos ar ligų.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Todėl sudėtinga apskaičiuoti gyvulių pašarų balą neįtraukiant dešimčių tyrėjų ir nesukuriant dešimčių skirtingų algoritmų, o tai iki šiol nebuvo padaryta.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
