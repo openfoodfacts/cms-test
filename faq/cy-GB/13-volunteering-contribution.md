@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Gwirfoddoli / Cyfraniad"
-description: "3 cwestiwn"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Oes ffordd o gael gwared ar ddelweddau sydd wedi'u llwytho i fyny ar gyfer cynhyrchion?
+## Is there a way to remove uploaded images for products?
 
-Dim ond cymedrolwyr all ddileu lluniau, er mwyn osgoi fandaliaeth bosibl.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Gofynnwch ar Slack neu yn **contact@openfoodfacts.org** i gael gwared ar eich dyblygiadau neu unrhyw luniau amhriodol (dylech geisio darparu'r rhif cod bar neu'r URL i wneud hynny).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Mae gennym ni API adroddiad delwedd newydd hefyd os ydych chi'n rhaglennwr.
-
----
-
-## Dw i'n ddylunydd. Sut alla i helpu?
-
-Rydym yn cydlynu pob gweithgaredd sy'n gysylltiedig â dylunio ar [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) ac ar sianel sgwrsio bwrpasol. Rydym yn cynnal cyfarfodydd tîm ac yn trafod syniadau yn rheolaidd ar heriau penodol.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Mewn rhai achosion gall yr un cynnyrch fod â gwerthoedd maethol gwahanol ar gyfer pob gwlad, sut mae hyn yn cael ei drin yn Ffeithiau Bwyd Agored?
+## I'm a designer. How can I help ?
 
-99% o'r amser, bydd cynhyrchwyr yn creu codau bar gwahanol ar gyfer gwahanol fersiynau o'u cynhyrchion. Enghraifft enwog yw'r gwahaniaeth rhwng Nutella Ffrengig ac Almaenig o ran trwch, oherwydd y gwahaniaeth mewn bara ar draws gwledydd. 2 fformiwla wahanol, 2 god bar gwahanol.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Fodd bynnag, gall gwrthdaro cod bar ddigwydd ar godau byrrach (EAN-8) sydd fel arfer yn cael eu hailddefnyddio gan rai siopau ledled Ewrop a'r Unol Daleithiau. Ar hyn o bryd nid ydym yn ymdrin â'r gwrthdaro cod bar hynny, ond dylai fod yn bosibl gwneud hynny drwy gael lleoliad cyffredinol y defnyddiwr (mae hyd yn oed yn fwy prin cael gwrthdaro cod bar o fewn gwlad).
+---
 
-Yn y tymor hir, rydym yn annog cynhyrchwyr i symud i EAN-13 er mwyn osgoi'r gwrthdaro cod bar hynny.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
