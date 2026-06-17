@@ -1,21 +1,21 @@
 ---
-title: "{{< bogolo jwa leoto la fa=2x >}} Bula Dintlha tsa Dijo tsa Diruiwa tsa mo Gae"
-description: "Dipotso di le 2"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: leoto
+icon: paw
 ---
 
-{{< fa "leoto" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Ke eng go sena Nutri-Score ya diphologolo?
+## Why is there no Nutri-Score for animals?
 
-Phologolo nngwe le nngwe e farologane (noga ga e na ditlhokego tsa phepo tse di tshwanang le tsa katse kgotsa ntša)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Le mo teng ga mofuta o le mongwe wa phologolo jaaka dintša, ditlhokego tsa phepo di farologana go ya ka botshelo jwa mokgwa wa botshelo wa go nna fela, kgonagalo ya go kgaola kgotsa malwetse.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ka jalo go raraane go bala maduo a dijo tsa diphologolo kwa ntle ga go akaretsa babatlisisi ba le bantsintsi le go tlhama dikgatotharabololo di le dintsintsi tse di farologaneng, se se iseng se dirwe go fitlha ga jaana.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https/dintlha tsa dijo tse di bulegileng.github.io/sefara ya dintlha tsa dijo tse di bulegileng/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
