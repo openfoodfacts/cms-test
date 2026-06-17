@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mano „Open Food Facts“ paskyra"
-description: "2 klausimai"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: vartotojų ratas
+icon: user-circle
 ---
 
-{{< fa "vartotojų ratas" size="3 kartus" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Noriu ištrinti savo paskyrą
+## I want to delete my account
 
-Paskyros ištrynimas dabar atliekamas tiesiogiai jūsų nustatymuose.
+Account deletion now happens directly in your preferences.
 
-Prisijungę prie [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), spustelėkite vartotojo vardą viršutiniame dešiniajame kampe ir pasirinkite „Paskyros parametrai“. Tai atveria jūsų nuostatų puslapį. Eikite į puslapio apačią ir naudokite veiksmą „ištrinti vartotoją“.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Jei negalite prisijungti (arba atkurti slaptažodžio), susisiekite su duomenų apsaugos pareigūnu el. paštu [openfoodfacts.org](http://openfoodfacts.org), naudodami el. pašto adresą, kurį naudojote registruodami paskyrą.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
