@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} سوالات متداول فنی"
-description: "۱ سوال"
-lang: انگلیسی-انگلیسی
-order: ۱۶
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: برندها گیت‌هاب
+icon: brands github
 ---
 
-{{< fa "brands" "گیت‌هاب" size="۳ برابر" >}}
+{{< fa "brands" "github" size=3x >}}
 
-## آیا هنگام تغییر رشته منبع، باید تمام فایل‌های زبان را به‌روزرسانی کنم؟
+## Should I update all language files when I change a source string?
 
-نه، این کار را نمی‌کنی. فقط باید نسخه انگلیسی رو آپدیت کنید
+No you don't. You just need to update the English one
 
-- روابط عمومی خود را ایجاد کنید
+- Create your PR
 
-پس از ادغام، crowdin-trigger را به صورت دستی rebase می‌کنیم و سیستم ترجمه Crowdin که توسط GitHub Actions فعال می‌شود، بقیه کارها را برای زبان‌های دیگر انجام خواهد داد.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-سپس ربات گیت‌هاب به طور خودکار یک PR جدید ایجاد می‌کند که ما آن را بررسی می‌کنیم.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
