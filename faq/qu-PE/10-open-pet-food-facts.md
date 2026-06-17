@@ -1,6 +1,6 @@
 ---
-title: "{{< fa paw size=2x >}} Kichay Uywa Mikhuymanta Chiqap"
-description: "2 tapuykuna"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
@@ -9,13 +9,13 @@ icon: paw
 
 {{< fa "paw" size=3x >}}
 
-## ¿Imaraykutaq mana kanchu Nutri-Score uywakunapaq?
+## Why is there no Nutri-Score for animals?
 
-Sapa uywaqa hukniraymi (mach'aqwayqa manan misi hinachu nitaq allqu hinachu mikhunata necesitan) .
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Allqukuna hina kikin laya uywa ukhupipas, mikhuy necesitasqankuqa hukniraymi tiyasqa kawsaypa kawsayninman hina, huk posible castración utaq onqoykunaman hina.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Chayraykum sasachakun uywakunapa mikuyninpaq huk puntuacion yupayqa mana chunka chunka investigadorkunata involucraspa, chunka chunka imaymana algoritmokunata ruwaspa, kunankamaqa manam ruwasqachu.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://qu.kichasqa mikhuykuna.github.io/kichasqa mikhuykuna-servidor/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
