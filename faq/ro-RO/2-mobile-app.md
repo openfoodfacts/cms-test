@@ -1,52 +1,52 @@
 ---
-title: "{{< dimensiunea aplicației mobile=2x >}} Aplicație mobilă"
-description: "4 întrebări"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobil
+icon: mobile
 ---
 
-{{< fa "mobil" size="de 3 ori" >}}
+{{< fa "mobile" size=3x >}}
 
-## Cum știu ce versiune a aplicației utilizez?
+## How do I know which version of the app I'm using?
 
-Accesați **Profil**,
-apoi **Întrebări frecvente**, apoi **Despre această aplicație**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Ar trebui
-să vedeți un număr de versiune precum 3.4.5+662. Nu uitați să ne spuneți marca și modelul
-telefonului dacă se depanează.
-
----
-
-## Aplicația nu scanează
-
-Acest lucru se poate datora
-
-- o problemă de rețea
-
-- o problemă cu permisiunile
-
-- o problemă cu codul de bare
-
-Trimiteți-ne un e-mail prin intermediul secțiunii Profil >> Contactați-ne >> Trimiteți-ne un e-mail.
-
-Toate informațiile relevante trebuie atașate solicitării dumneavoastră.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Cum pot ajuta la îmbunătățirea aplicației mobile?
+## The app does not scan
 
-Cum pot ajuta la îmbunătățirea aplicației mobile?
+This may be due to
 
-Puteți face acest lucru [în depozitul de aplicații mobile](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Unde pot trimite feedback despre aplicație?
+## How can I help with improving the mobile app ?
 
-Puteți trimite feedback la mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
