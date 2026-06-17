@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Technikai GYIK"
-description: "1 kérdés"
-lang: hu-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: márkák github
+icon: brands github
 ---
 
 {{< fa "márkanevek" "github" size=3x >}}
 
-## Frissítsem az összes nyelvi fájlt, amikor módosítok egy forrásszöveget?
+## Should I update all language files when I change a source string?
 
-Nem, nem. Csak frissítened kell az angol verziót.
+No you don't. You just need to update the English one
 
-- Hozza létre PR-ját
+- Create your PR
 
-Miután összevontuk, manuálisan újraalapozzuk a crowdin-trigger függvényt, és a GitHub Actions által aktivált Crowdin fordítórendszer elvégzi a többit a többi nyelv esetében.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-A GitHub bot ezután automatikusan létrehoz egy új PR-t, amelyet mi felülvizsgálunk.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
