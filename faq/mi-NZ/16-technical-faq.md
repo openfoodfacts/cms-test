@@ -1,23 +1,23 @@
 ---
-title: "{{< waitohu fa github size=2x >}} Ngā Pātai Auau Hangarau"
-description: "1 pātai"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: waitohu github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Me whakahōu e au ngā kōnae reo katoa ina whakarerekētia e au te aho pūtake?
+## Should I update all language files when I change a source string?
 
-Kāore koe e pena ana. Me whakahou noa e koe te reo Ingarihi
+No you don't. You just need to update the English one
 
-- Waihangahia tō PR
+- Create your PR
 
-Kia hanumi, ka hurihia ā-ringatia te crowdin-trigger, ā, mā te pūnaha whakamāori Crowdin i whakaohokia e GitHub Actions e mahi te toenga mō ētahi atu reo.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Kātahi ka waihanga aunoatia e te karetao GitHub tētahi PR hou, ā, ka arotakehia e mātou.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
