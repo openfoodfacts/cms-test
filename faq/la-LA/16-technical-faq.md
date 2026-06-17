@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Quaestiones Frequentes Technicae"
-description: "Una quaestio"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
-order: XVI
+order: 16
 category-level: 0
-icon: notae GitHub
+icon: brands github
 ---
 
-{{< fa "brands" "GitHub" size=Ter >}}
+{{< fa "brands" "github" size=3x >}}
 
-## Num omnia documenta linguae renovare debeam cum seriem litterarum fontis muto?
+## Should I update all language files when I change a source string?
 
-Non, non habes. Anglicam tantum renovare debes.
+No you don't. You just need to update the English one
 
-- Crea tuam PR
+- Create your PR
 
-Postquam iunctum erit, `crowdin-trigger` manu rebasemus, et systema translationis `Crowdin`, quod a GitHub Actions incitatum est, reliqua pro aliis linguis curabit.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Deinde automatum GitHub novum PR automatice creat, quod nos deinde inspicimus.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
