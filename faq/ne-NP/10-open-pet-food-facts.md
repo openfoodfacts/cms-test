@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} घरपालुवा जनावरको खाना सम्बन्धी खुला तथ्यहरू"
-description: "२ प्रश्नहरू"
-lang: एनजीबी
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: पन्जा
+icon: paw
 ---
 
-{{< fa "पन्जा" size=३x >}}
+{{< fa "paw" size=3x >}}
 
-## जनावरहरूको लागि किन न्यूट्री-स्कोर छैन?
+## Why is there no Nutri-Score for animals?
 
-प्रत्येक जनावर फरक हुन्छ (सर्पलाई बिरालो वा कुकुरको जस्तो पोषण आवश्यकता हुँदैन)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-कुकुर जस्ता एउटै प्रकारका जनावरहरूमा पनि, आसीन जीवनशैली, सम्भावित कास्ट्रेशन वा रोगहरूको जीवन अनुसार पोषण आवश्यकताहरू फरक हुन्छन्।
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-त्यसैले दर्जनौं अनुसन्धानकर्ताहरूलाई संलग्न नगरी र दर्जनौं फरक एल्गोरिदमहरू सिर्जना नगरी पशु आहारको लागि स्कोर गणना गर्न जटिल छ, जुन आजसम्म गरिएको छैन।
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
