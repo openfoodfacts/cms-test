@@ -1,52 +1,52 @@
 ---
-title: "កម្មវិធីទូរស័ព្ទ {{< fa mobile size=2x >}}"
-description: "៤ សំណួរ"
-lang: អង់គ្លេស-ជីកាបៃ
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: ទូរស័ព្ទចល័ត
+icon: mobile
 ---
 
-{{< fa "ទូរស័ព្ទចល័ត" size=៣ដង >}}
+{{< fa "mobile" size=3x >}}
 
-## តើខ្ញុំដឹងដោយរបៀបណាថាខ្ញុំកំពុងប្រើកម្មវិធីកំណែណា?
+## How do I know which version of the app I'm using?
 
-ចូលទៅកាន់ **ប្រវត្តិរូប**,
-បន្ទាប់មក **សំណួរដែលសួរញឹកញាប់**, បន្ទាប់មក **អំពីកម្មវិធីនេះ**។
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-អ្នកគួរតែ
-ឃើញលេខកំណែដូចជា 3.4.5+662។ កុំភ្លេចប្រាប់យើងពីម៉ាក និងម៉ូដែល
-របស់ទូរស័ព្ទ ប្រសិនបើវាកំពុងត្រូវបានបំបាត់កំហុស។
-
----
-
-## កម្មវិធីមិនស្កេនទេ
-
-នេះអាចបណ្តាលមកពី
-
-- បញ្ហាបណ្តាញ
-
-- បញ្ហា​ការអនុញ្ញាត
-
-- បញ្ហាបាកូដ
-
-ផ្ញើអ៊ីមែលមកយើងតាមរយៈប្រវត្តិរូប >> ទំនាក់ទំនងមកយើង >> ផ្ញើអ៊ីមែលមកយើង។
-
-ព័ត៌មានពាក់ព័ន្ធទាំងអស់គួរតែត្រូវបានភ្ជាប់ទៅនឹងសំណើរបស់អ្នក។
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## តើខ្ញុំអាចជួយកែលម្អកម្មវិធីទូរស័ព្ទដោយរបៀបណា?
+## The app does not scan
 
-តើខ្ញុំអាចជួយកែលម្អកម្មវិធីទូរស័ព្ទដោយរបៀបណា?
+This may be due to
 
-អ្នកអាច [ធ្វើដូច្នេះនៅលើឃ្លាំងកម្មវិធីទូរស័ព្ទ](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## តើខ្ញុំអាចផ្ញើមតិកែលម្អអំពីកម្មវិធីនៅឯណា?
+## How can I help with improving the mobile app ?
 
-អ្នកអាចផ្ញើមតិប្រតិកម្មទៅកាន់ mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
