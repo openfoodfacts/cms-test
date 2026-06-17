@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Môj účet Open Food Facts"
-description: "2 otázky"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: používateľský kruh
+icon: user-circle
 ---
 
-{{< fa "používateľský kruh" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Chcem vymazať svoj účet
+## I want to delete my account
 
-Vymazanie účtu sa teraz deje priamo vo vašich nastaveniach.
+Account deletion now happens directly in your preferences.
 
-Po prihlásení na [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) kliknite na používateľské meno v pravom hornom rohu a vyberte možnosť Parametre účtu. Otvorí sa stránka s vašimi nastaveniami. Prejdite na spodok stránky a použite akciu „odstrániť používateľa“.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ak sa nemôžete prihlásiť (alebo obnoviť heslo), kontaktujte, prosím, dpo - na - [openfoodfacts.org](http://openfoodfacts.org) pomocou e-mailovej adresy, ktorú používate na registráciu účtu.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
