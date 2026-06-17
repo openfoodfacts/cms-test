@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} FAQ teknikel"
-description: "1 goulenn"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: merkoù github
+icon: brands github
 ---
 
 {{< fa "merkoù" "github" size=3x >}}
 
-## Ha ret eo din hizivaat an holl restroù yezh pa cheñchan un teul orin ?
+## Should I update all language files when I change a source string?
 
-Nann, n'ouzoc'h ket. N'eus nemet hizivaat an hini saoznek
+No you don't. You just need to update the English one
 
-- Krouit ho PR
+- Create your PR
 
-Ur wech kendeuzet e vo adbaset crowdin-trigger dre zorn hag ar reizhiad troidigezh Crowdin degaset gant GitHub Actions a raio ar peurrest evit yezhoù all.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Krouiñ a ra bot GitHub neuze ur PR nevez ent emgefre hag a vez adwelet ganeomp neuze.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
