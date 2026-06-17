@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} මාධ්‍ය සහ මාධ්‍ය ඉල්ලීම්"
-description: "1 ප්‍රශ්නයක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 14 යි
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
+order: 14
 category-level: 0
-icon: පුවත්පත
+icon: newspaper
 ---
 
-{{< fa "පුවත්පත" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## විවෘත ආහාර කරුණු පිළිබඳ මාධ්‍ය දර්ශන ලබා ගන්නේ කෙසේද?
+## How can I get press visuals on Open Food Facts?
 
-කරුණාකර සම්බන්ධ වන්න : presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
