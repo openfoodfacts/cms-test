@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Fɛɛrɛ Ɲininkaliw"
-description: "1 ɲininkali"
-lang: bamanankan-gb
-order: 16. 16
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: markaw github
+icon: brands github
 ---
 
-{{< fa "brands" "github (github) ye" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## Yala ne ka kan ka kanko filenw bɛɛ kuraya ni ne ye source string dɔ Changer wa?
+## Should I update all language files when I change a source string?
 
-Ayi i t'o kɛ. I ka kan ka tubabukan ta dɔrɔn de update
+No you don't. You just need to update the English one
 
-- Aw ye aw ka PR da
+- Create your PR
 
-Ni a farala ɲɔgɔn kan, an bɛna crowdin-trigger basigi kokura bolo la ani Crowdin bamanankan baarakɛcogo min bɛ daminɛ GitHub Actions fɛ, o bɛna tɔ kɛ kan wɛrɛw ye.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot bɛ sɔrɔ ka PR kura dɔ Dabɔ a yɛrɛma min bɛ sɔrɔ ka segin a kan.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
