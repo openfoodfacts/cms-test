@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Aikin sa kai / Gudummawa"
-description: "Tambayoyi 3"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Akwai hanyar cire hotunan da aka ɗora don samfura?
+## Is there a way to remove uploaded images for products?
 
-Masu tsara hotuna ne kawai za su iya cire hotuna, don guje wa ɓarna da ka iya faruwa.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Kawai ka nemi a Slack ko a **contact@openfoodfacts.org** don cire kwafi ko duk wani hotunan da ba su dace ba (ya kamata ka yi ƙoƙarin bayar da lambar barcode ko URL ɗin don haka).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Muna da sabon API na rahoton hoto idan kai mai shirye-shirye ne.
-
----
-
-## Ni mai zane ne. Ta yaya zan iya taimakawa?
-
-Muna daidaita duk ayyukan da suka shafi ƙira a kan [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) da kuma a kan wata tashar tattaunawa ta musamman. Muna yin tarurrukan ƙungiya akai-akai da kuma rikice-rikice kan takamaiman ƙalubale.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## A wasu lokuta, samfurin iri ɗaya na iya samun ƙimar abinci mai gina jiki daban-daban ga kowace ƙasa, ta yaya ake sarrafa wannan a cikin Buɗaɗɗen Bayani game da Abinci?
+## I'm a designer. How can I help ?
 
-Kashi 99% na lokaci, masu samarwa za su ƙirƙiri lambobi daban-daban na barcode don nau'ikan samfuran su daban-daban. Shahararren misali shine bambanci tsakanin Nutella na Faransa da na Jamus dangane da kauri, saboda bambancin burodi a ƙasashe daban-daban. Dabara 2 daban-daban, barcode 2 daban-daban.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Duk da haka, karo na Barcode na iya faruwa akan gajerun lambobi (EAN-8) waɗanda wasu shaguna ke sake amfani da su a faɗin Turai da Amurka. Ba mu kula da waɗannan rikice-rikicen barcode a halin yanzu ba, amma ya kamata a iya yin hakan ta hanyar samun wurin da mai amfani yake (yana da wuya a sami rikice-rikicen barcode a cikin ƙasa).
+---
 
-A cikin dogon lokaci, muna ƙarfafa masu samarwa su koma EAN-13 don guje wa waɗannan rikice-rikicen barcode.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
