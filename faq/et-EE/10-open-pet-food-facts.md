@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Ava lemmikloomatoidu faktid"
-description: "2 küsimust"
-lang: et-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: käpp
+icon: paw
 ---
 
-{{< fa "käpp" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Miks loomadele Nutri-Score'i ei ole?
+## Why is there no Nutri-Score for animals?
 
-Iga loom on erinev (maol ei ole samu toitumisvajadusi kui kassil või koeral)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Isegi sama loomaliigi, näiteks koerte, toitumisvajadused varieeruvad sõltuvalt istuvast eluviisist, võimalikust kastreerimisest või haigustest.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Seetõttu on loomasööda skoori arvutamine keeruline ilma kümneid teadlasi kaasamata ja kümneid erinevaid algoritme loomata, mida pole seni tehtud.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
