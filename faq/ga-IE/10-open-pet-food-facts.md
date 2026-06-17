@@ -1,21 +1,21 @@
 ---
-title: "{{< méid na lapa fa=2x >}} Oscail Fíricí Bia Peataí"
-description: "2 cheist"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: lapa
+icon: paw
 ---
 
-{{< fa "lapa" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Cén fáth nach bhfuil aon Nutri-Score ann d’ainmhithe?
+## Why is there no Nutri-Score for animals?
 
-Tá gach ainmhí difriúil (níl na riachtanais chothaitheacha céanna ag nathair agus atá ag cat ná madra)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Fiú laistigh den chineál céanna ainmhí amhail madraí, athraíonn na riachtanais chothaitheacha de réir an stíl mhaireachtála shuiteach, coilleadh féideartha nó galair.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Dá bhrí sin, tá sé casta scór a ríomh le haghaidh beatha ainmhithe gan mórán taighdeoirí a bheith páirteach agus mórán algartam éagsúla a chruthú, rud nach ndearnadh go dtí seo.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
