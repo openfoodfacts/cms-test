@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mening ochiq oziq-ovqat faktlari akkauntim"
-description: "2 ta savol"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: foydalanuvchi doirasi
+icon: user-circle
 ---
 
-{{< fa "foydalanuvchi doirasi" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Men hisobimni o'chirmoqchiman
+## I want to delete my account
 
-Hisobni o'chirish endi to'g'ridan-to'g'ri sizning sozlamalaringizda amalga oshiriladi.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) saytiga kirgandan so'ng, yuqori o'ng burchakdagi foydalanuvchi nomini bosing va Hisob sozlamalari-ni tanlang. Bu sizning sozlamalaringiz sahifasini ochadi. Sahifaning pastki qismiga o'ting va "foydalanuvchini o'chirish" amalidan foydalaning.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Agar tizimga kira olmasangiz (yoki parolingizni qayta tiklay olmasangiz), iltimos, hisob qaydnomasini ro'yxatdan o'tkazishda foydalangan elektron pochta manzilingizdan foydalanib, dpo bilan [openfoodfacts.org](http://openfoodfacts.org) manzili orqali bog'laning.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
