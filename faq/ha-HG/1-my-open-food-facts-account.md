@@ -1,21 +1,21 @@
 ---
-title: "{{< fa mai amfani-da'irar size=2x >}} Asusun Bayanan Abinci na Buɗe"
-description: "Tambayoyi 2"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: da'irar mai amfani
+icon: user-circle
 ---
 
-{{< fa "da'irar mai amfani" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ina so in goge asusuna
+## I want to delete my account
 
-Share asusu yanzu yana faruwa kai tsaye a cikin abubuwan da kake so.
+Account deletion now happens directly in your preferences.
 
-Bayan shiga [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), danna sunan mai amfani a kusurwar dama ta sama, zaɓi Sigogin Asusu. Yana buɗe shafin abubuwan da kake so. Je zuwa ƙasan shafin kuma yi amfani da aikin "share mai amfani".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Idan ba za ka iya shiga ba (ko sake saita kalmar sirrinka), tuntuɓi dpo - at - [openfoodfacts.org](http://openfoodfacts.org), ta amfani da adireshin imel ɗin da kake amfani da shi don yin rijistar asusun.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
