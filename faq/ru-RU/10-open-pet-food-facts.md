@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Открыть информацию о корме для домашних животных"
-description: "2 вопроса"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: лапа
+icon: paw
 ---
 
-{{< fa "лапа" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Почему для животных не существует системы Nutri-Score?
+## Why is there no Nutri-Score for animals?
 
-Каждое животное индивидуально (потребности змеи в питательных веществах отличаются от потребностей кошки или собаки).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Даже у животных одного вида, таких как собаки, потребности в питательных веществах различаются в зависимости от малоподвижного образа жизни, возможной кастрации или заболеваний.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Поэтому рассчитать оценку качества кормов для животных без привлечения десятков исследователей и создания десятков различных алгоритмов сложно, чего до настоящего времени не делалось.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
