@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} የእኔ ክፍት የምግብ እውነታዎች መለያ"
-description: "2 ጥያቄዎች"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: የተጠቃሚ-ክበብ
+icon: user-circle
 ---
 
-{{< fa "የተጠቃሚ-ክበብ" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## መለያዬን መሰረዝ እፈልጋለሁ
+## I want to delete my account
 
-የመለያ ስረዛ አሁን በቀጥታ በምርጫዎችዎ ውስጥ ይከሰታል።
+Account deletion now happens directly in your preferences.
 
-በ[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) ላይ ከገቡ በኋላ፣ በላይኛው ቀኝ ጥግ ላይ ያለውን የተጠቃሚ ስም ጠቅ ያድርጉ፣ የመለያ መለኪያዎችን ይምረጡ። የምርጫዎችዎን ገጽ ይከፍታል። ወደ ገጹ ግርጌ ይሂዱ እና "ተጠቃሚን ሰርዝ" የሚለውን እርምጃ ይጠቀሙ።
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-መግባት (ወይም የይለፍ ቃልዎን ዳግም ማስጀመር ካልቻሉ)፣ እባክዎ መለያ ለመመዝገብ የሚጠቀሙበትን የኢሜይል አድራሻ በመጠቀም dpo - at - [openfoodfacts.org](http://openfoodfacts.org) ያግኙ።
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
