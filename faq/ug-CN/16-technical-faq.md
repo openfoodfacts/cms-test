@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} تېخنىكىلىق كۆپ سورىلىدىغان سوئاللار"
-description: "1 سوئال"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: ماركىلار github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## مەنبە قۇرىنى ئۆزگەرتكەندە بارلىق تىل ھۆججەتلىرىنى يېڭىلىشىم كېرەكمۇ؟
+## Should I update all language files when I change a source string?
 
-ياق، سىز ئۇنداق قىلمايسىز. سىز پەقەت ئىنگلىزچە نۇسخىسىنى يېڭىلىشىڭىز كېرەك
+No you don't. You just need to update the English one
 
-- ئۆزىڭىزنىڭ PRىڭىزنى يارىتىڭ
+- Create your PR
 
-بىرلەشتۈرۈلگەندىن كېيىن، بىز crowdin-trigger نى قولدا قايتا قۇرۇپ چىقىمىز، GitHub Actions تەرىپىدىن قوزغىتىلغان Crowdin تەرجىمە سىستېمىسى قالغان ئىشلارنى باشقا تىللار ئۈچۈن قىلىدۇ.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-ئاندىن GitHub بوتى ئاپتوماتىك ھالدا يېڭى بىر PR ھاسىل قىلىدۇ، بىز ئۇنى تەكشۈرىمىز.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
