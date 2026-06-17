@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} คำถามที่พบบ่อยทางเทคนิค"
-description: "1 คำถาม"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: แบรนด์ GitHub
+icon: brands github
 ---
 
 {{< fa "แบรนด์" "github" size=3x >}}
 
-## ฉันควรแก้ไขไฟล์ภาษาทั้งหมดทุกครั้งที่เปลี่ยนข้อความต้นฉบับหรือไม่?
+## Should I update all language files when I change a source string?
 
-ไม่ คุณไม่จำเป็นต้องทำเช่นนั้น คุณแค่ต้องอัปเดตเวอร์ชันภาษาอังกฤษเท่านั้น
+No you don't. You just need to update the English one
 
-- สร้างข่าวประชาสัมพันธ์ของคุณ
+- Create your PR
 
-เมื่อรวมโค้ดเสร็จแล้ว เราจะทำการ rebase crowdin-trigger ด้วยตนเอง และระบบแปลภาษาของ Crowdin ที่ทำงานผ่าน GitHub Actions จะดำเนินการส่วนที่เหลือสำหรับภาษาอื่นๆ ต่อไป
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-จากนั้นบอทของ GitHub จะสร้าง Pull Request (PR) ใหม่โดยอัตโนมัติ ซึ่งเราจะทำการตรวจสอบต่อไป
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
