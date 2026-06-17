@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Pirsên Pir tên Pirsîn ên Teknîkî"
-description: "1 pirs"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: markayên github
+icon: brands github
 ---
 
-{{< fa "marke" "github" size="3 caran" >}}
+{{< fa "marke" "github" size=3x >}}
 
-## Dema ku ez rêzek çavkaniyê diguherînim, divê ez hemû pelên ziman nûve bikim?
+## Should I update all language files when I change a source string?
 
-Na hûn nakin. Tenê pêwîst e hûn zimanê Îngilîzî nûve bikin.
+No you don't. You just need to update the English one
 
-- PR-ya xwe biafirînin
+- Create your PR
 
-Dema ku ew were yekkirin, em ê crowdin-trigger bi destan ji nû ve bingeh bikin û pergala wergerandina Crowdin a ku ji hêla GitHub Actions ve tê çalak kirin dê mayî ji bo zimanên din bike.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bota GitHub dûv re bixweber PR-yek nû diafirîne ku em dûv re dinirxînin.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
