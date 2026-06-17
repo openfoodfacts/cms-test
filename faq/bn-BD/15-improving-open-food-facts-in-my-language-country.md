@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} আমার ভাষা/দেশে উন্মুক্ত খাদ্য তথ্য উন্নত করা"
-description: "৩টি প্রশ্ন"
-lang: en-gb সম্পর্কে
-order: ১৫
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
+order: 15
 category-level: 0
-icon: পৃথিবী
+icon: globe
 ---
 
-{{< fa "পৃথিবী" size="3x এর বিবরণ" >}}
+{{< fa "globe" size=3x >}}
 
-## আমি লেবেলের জন্য একটি নতুন লোগো যোগ করতে চাই।
+## I would like to add a new logo for labels
 
-এখানে প্রক্রিয়াটি রয়েছে:
+Here is the process:
 
-- [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) তে লেবেলের **প্রামাণিক নাম** খুঁজুন (এটি লেবেলের সমার্থক শব্দের তালিকার প্রথম আইটেম, যেমন en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**ভালো মানের লোগোটি নিন**: অবদানকারীর ছবি ব্যবহার করা এড়িয়ে চলুন যা এই ক্ষেত্রে উপযুক্ত নয়; বেশিরভাগ লেবেলে অফিসিয়াল ওয়েবসাইটের উচ্চ মানের লোগো থাকে, কখনও কখনও ভেক্টর ফর্ম্যাটে (আমাদের জন্য আরও ভালো); যতক্ষণ না আমরা একটি লোগো ব্যবহার করি যাতে পণ্যের প্যাকেজিংয়ে
-লেবেলের উপস্থিতি সম্পর্কে বস্তুনিষ্ঠভাবে অবহিত করা যায়, ততক্ষণ অনুমতি নেওয়ার প্রয়োজন নেই।
---------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**ফাইলের নামকরণ করুন এইভাবে**: name-of-the-label.[width]x90.png যেখানে width হল লোগোর প্রস্থ যখন এটি 90 পিক্সেল উঁচু হয়। ফাইলের নামগুলো উচ্চারণবিহীন, ছোট হাতের অক্ষরে এবং স্পেসের পরিবর্তে "-" ব্যবহার করে লিখতে হবে।
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- তারপর ডিরেক্টরিতে তার ক্যানোনিকাল নামের সাথে সঙ্গতিপূর্ণ লোগোটি যোগ করুন। যদি আদর্শ নামটি en:something হয়, তাহলে সেগুলি /en/-এ থাকা প্রয়োজন। লোগোর মূল ডিরেক্টরি হল [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## আমি কীভাবে ওপেন ফুড ফ্যাক্টস আমার ভাষায় অনুবাদ করব?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) এ যান।
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## আমি এই FAQ টি আমার ভাষায় কীভাবে অনুবাদ করব?
+## How do I translate Open Food Facts to my language ?
 
-জ্ঞান ভাণ্ডারে সম্পাদনা অ্যাক্সেসের জন্য অনুগ্রহ করে contact@openfoodfacts.org-কে জিজ্ঞাসা করুন।
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
