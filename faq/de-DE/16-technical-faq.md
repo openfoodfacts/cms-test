@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Technische FAQ"
-description: "1 Frage"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: Marken auf GitHub
+icon: brands github
 ---
 
-{{< fa "Marken" "GitHub" size=3x >}}
+{{< fa "Marken" "github" size=3x >}}
 
-## Soll ich alle Sprachdateien aktualisieren, wenn ich eine Quellzeichenfolge ändere?
+## Should I update all language files when I change a source string?
 
-Nein, das tust du nicht. Sie müssen lediglich die englische Version aktualisieren.
+No you don't. You just need to update the English one
 
-- Erstellen Sie Ihren PR
+- Create your PR
 
-Sobald die Zusammenführung abgeschlossen ist, werden wir crowdin-trigger manuell neu basieren, und das von GitHub Actions ausgelöste Crowdin-Übersetzungssystem erledigt den Rest für andere Sprachen.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Der GitHub-Bot erstellt dann automatisch einen neuen Pull Request, den wir anschließend überprüfen.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
