@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} וואלונטירן / ביישטייערונג"
-description: "3 פֿראַגעס"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## איז דא א וועג צו אראפנעמען ארויפגעלאדענע בילדער פון פראדוקטן?
+## Is there a way to remove uploaded images for products?
 
-נאָר מאַדעראַטאָרן קענען אַראָפּנעמען בילדער, כּדי צו פֿאַרמייַדן מעגלעכן וואַנדאַליזם.
+Only moderators can remove photos, to avoid potential vandalism.
 
-פרעגט נאָר אויף Slack אָדער ביי **contact@openfoodfacts.org** צו אַראָפּנעמען אייערע דופּליקאַטן אָדער יעדע נישט-פּאַסיק פאָטאָס (איר זאָלט פּרובירן צו צושטעלן די באַרקאָד נומער אָדער URL צו דעם).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-מיר האָבן אויך אַ נייע בילד באַריכט API אויב איר זענט אַ פּראָגראַמירער.
-
----
-
-## איך בין אַ דיזיינער. ווי קען איך העלפֿן?
-
-מיר קאָאָרדינירן אַלע דיזיין-פֿאַרבונדענע אַקטיוויטעטן אויף [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) און אויף אַ באַזונדערן שמועס קאַנאַל. מיר מאַכן רעגולער מאַנשאַפֿט זיצונגען און טראַכטן וועגן ספּעציפֿישע טשאַלאַנדזשיז.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## אין געוויסע פעלער קען דער זעלבער פּראָדוקט האָבן אַנדערע נוטרישאַנעלע ווערטן פֿאַר יעדן לאַנד, ווי ווערט דאָס באַהאַנדלט אין אָפן פוד פאַקס?
+## I'm a designer. How can I help ?
 
-99% פון די צייט, וועלן פּראָדוצירער שאַפֿן פֿאַרשידענע באַרקאָודז פֿאַר פֿאַרשידענע ווערסיעס פֿון זייערע פּראָדוקטן. א בארימטער ביישפּיל איז דער חילוק צווישן פראנצויזישער און דייטשער נוטעללאַ אין טערמינען פון גרעב, צוליב דעם חילוק אין ברויט צווישן לענדער. 2 פֿאַרשידענע פֿאָרמולעס, 2 פֿאַרשידענע באַרקאָודז.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-באַרקאָד קלאַש קען אָבער פּאַסירן אויף קירצערע קאָודז (EAN-8) וואָס ווערן טיפּיש ווידער גענוצט דורך עטלעכע סטאָרז איבער אייראָפּע און די פאַראייניקטע שטאַטן. מיר האַנדלען נישט איצט מיט די באַרקאָד קלאַשיז, אָבער עס זאָל זיין מעגלעך צו טאָן דאָס דורך באַקומען די באַניצער'ס אַלגעמיינע לאָקאַציע (עס איז נאָך מער זעלטן צו האָבן באַרקאָד קלאַשיז אין אַ לאַנד).
+---
 
-אויף לאַנגע טערמין, מוטיקן מיר פּראָדוצירער צו אַריבערגיין צו EAN-13 צו ויסמיידן די באַרקאָד קלאַשיז.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
