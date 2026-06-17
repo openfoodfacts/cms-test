@@ -1,17 +1,17 @@
 ---
-title: "Ceisiadau i'r Wasg a'r Cyfryngau"
-description: "1 cwestiwn"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: papur newydd
+icon: newspaper
 ---
 
-{{< fa "papur newydd" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Sut alla i gael delweddau i'r wasg ar Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Cysylltwch â: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
