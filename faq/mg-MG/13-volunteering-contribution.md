@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Asa an-tsitrapo / Fandraisana anjara"
-description: "Fanontaniana 3"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: ovana
 
 {{< fa "ovana" size=3x >}}
 
-## Misy fomba hanesorana ireo sary nakarina ho an'ny vokatra ve?
+## Is there a way to remove uploaded images for products?
 
-Ireo mpandrindra ihany no afaka manala sary, mba hisorohana ny mety ho fanimbana.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Angataho fotsiny ao amin'ny Slack na amin'ny **contact@openfoodfacts.org** mba hanesorana ireo sary mitovy aminao na ireo sary tsy mendrika (tokony hiezaka hanome ny laharan'ny kaody bara na ny URL-ny ianao).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Manana API vaovao ho an'ny tatitra sary ihany koa izahay raha toa ka mpandrindra programa ianao.
-
----
-
-## Mpamorona aho. Ahoana no ahafahako manampy?
-
-Mandrindra ny asa rehetra mifandraika amin'ny famolavolana izahay ao amin'ny [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) sy amin'ny fantsona chat natokana ho azy. Manao fivoriana sy fifanakalozan-kevitra momba ireo fanamby manokana izahay matetika.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Indraindray, mety samy hafa ny sandan'ny sakafo amidin'ny vokatra iray isaky ny firenena, ahoana no fomba fitantanana izany ao amin'ny Open Food Facts?
+## I'm a designer. How can I help ?
 
-99%-n'ny fotoana, ireo mpamokatra dia hamorona kaody bara samihafa ho an'ny dikan-teny samihafa amin'ny vokatra vokariny. Ohatra malaza ny fahasamihafana misy eo amin'ny Nutella frantsay sy alemà raha ny hateviny no jerena, noho ny fahasamihafan'ny mofo any amin'ny firenena samihafa. Raikipohy 2 samihafa, kaody bara 2 samihafa.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Mety hitranga anefa ny fifandonana amin'ny kaody bar amin'ny kaody fohy kokoa (EAN-8) izay matetika ampiasain'ny fivarotana sasany manerana an'i Eoropa sy Etazonia. Tsy miatrika ireo fifandonana amin'ny kaody bara izahay amin'izao fotoana izao, fa tokony ho azo atao izany amin'ny alàlan'ny fahazoana ny toerana misy ny mpampiasa amin'ny ankapobeny (mahalana kokoa ny misy fifandonana amin'ny kaody bara ao anatin'ny firenena iray).
+---
 
-Amin'ny fotoana maharitra, amporisihinay ireo mpamokatra hifindra amin'ny EAN-13 mba hisorohana ireo fifandonana amin'ny kaody bara.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
