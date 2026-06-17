@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} আমার ওপেন ফুড ফ্যাক্টস অ্যাকাউন্ট"
-description: "২টি প্রশ্ন"
-lang: en-gb সম্পর্কে
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: ব্যবহারকারী-বৃত্ত
+icon: user-circle
 ---
 
-{{< fa "ব্যবহারকারী-বৃত্ত" size="3x এর বিবরণ" >}}
+{{< fa "user-circle" size=3x >}}
 
-## আমি আমার অ্যাকাউন্ট মুছে ফেলতে চাই।
+## I want to delete my account
 
-অ্যাকাউন্ট মুছে ফেলা এখন সরাসরি আপনার পছন্দ অনুসারে করা হবে।
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) এ লগইন করার পর, উপরের ডান কোণায় ব্যবহারকারীর নামের উপর ক্লিক করুন, অ্যাকাউন্ট প্যারামিটার নির্বাচন করুন। এটি আপনার পছন্দের পৃষ্ঠাটি খুলবে। পৃষ্ঠার নীচে যান এবং "ব্যবহারকারী মুছুন" ক্রিয়াটি ব্যবহার করুন।
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-যদি আপনি লগইন করতে (অথবা আপনার পাসওয়ার্ড রিসেট করতে) অক্ষম হন, তাহলে অনুগ্রহ করে dpo - at - [openfoodfacts.org](http://openfoodfacts.org) এ যোগাযোগ করুন, যে ইমেল ঠিকানাটি আপনি অ্যাকাউন্ট নিবন্ধন করতে ব্যবহার করেন।
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
