@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} يانفون ئەپ"
-description: "4 سوئال"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: мобил
+icon: mobile
 ---
 
-{{< fa "мобил" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## ئەپنىڭ قايسى نەشرىنى ئىشلىتىۋاتقانلىقىمنى قانداق بىلەلەيمەن؟
+## How do I know which version of the app I'm using?
 
-**پىروفىل**،
-، ئاندىن **كۆپ سورىلىدىغان سوئاللار**، ئاندىن **بۇ ئەپ ھەققىدە** غا كىرىڭ.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-سىز
-3.4.5+662 غا ئوخشاش نەشرى نومۇرىنى كۆرۈشىڭىز كېرەك. ئەگەر تېلېفونىڭىزدا مەسىلە ھەل قىلىنىۋاتقان بولسا، بىزگە ئۇنىڭ ماركىسى ۋە مودېلىنى
-دېيىشنى ئۇنتۇپ قالماڭ.
-
----
-
-## ئەپ سىكانىرلىمايدۇ
-
-بۇنىڭ سەۋەبى بولۇشى مۇمكىن
-
-- تور مەسىلىسى
-
-- ئىجازەت مەسىلىسى
-
-- شىتىركود مەسىلىسى
-
-بىزگە ئارخىپ ئارقىلىق ئېلخەت ئەۋەتىڭ >> بىز بىلەن ئالاقىلىشىڭ >> بىزگە ئېلخەت ئەۋەتىڭ.
-
-بارلىق ئالاقىدار ئۇچۇرلار سىزنىڭ تەلىپىڭىزگە قوشۇلۇشى كېرەك.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## يانفون ئەپنى ياخشىلاشقا قانداق ياردەم قىلالايمەن؟
+## The app does not scan
 
-يانفون ئەپنى ياخشىلاشقا قانداق ياردەم قىلالايمەن؟
+This may be due to
 
-سىز [بۇنى يانفون ئەپ ئامبىرىدا قىلالايسىز](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## ئەپ ھەققىدە قەيەرگە پىكىر-تەكلىپ يوللىسام بولىدۇ؟
+## How can I help with improving the mobile app ?
 
-پىكىر-تەكلىپلىرىڭىزنى mobile@openfoodfacts.org غا ئەۋەتسىڭىز بولىدۇ.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
