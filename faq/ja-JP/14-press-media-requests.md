@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} 報道関係のお問い合わせ"
-description: "1件の質問"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: 新聞
+icon: newspaper
 ---
 
-{{< fa "新聞" size=3倍 >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts のプレスビジュアルを入手するにはどうすればいいですか?
+## How can I get press visuals on Open Food Facts?
 
-お問い合わせはこちらまで：presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
