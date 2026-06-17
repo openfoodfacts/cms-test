@@ -1,23 +1,23 @@
 ---
-title: "Ceistean Cumanta Teicnigeach {{< fa brands github size=2x >}}"
-description: "1 ceist"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: suaicheantasan github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Am bu chòir dhomh na faidhlichean cànain uile ùrachadh nuair a dh’atharraicheas mi sreang tùsail?
+## Should I update all language files when I change a source string?
 
-Chan eil, chan eil. Chan eil agad ach an tè Bheurla ùrachadh.
+No you don't. You just need to update the English one
 
-- Cruthaich do PR
+- Create your PR
 
-Cho luath ‘s a bhios e air a chur còmhla, ath-stèidhichidh sinn crowdin-trigger le làimh agus nì siostam eadar-theangachaidh Crowdin, air a bhrosnachadh le GitHub Actions, a’ chòrr airson chànanan eile.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bidh bot GitHub an uairsin a’ cruthachadh PR ùr gu fèin-ghluasadach agus bidh sinn ga ath-sgrùdadh an uairsin.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
