@@ -1,52 +1,52 @@
 ---
-title: "{{< fa finday size=2x >}} Fampiharana finday"
-description: "Fanontaniana 4"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: Mobile
+icon: mobile
 ---
 
-{{< fa "Mobile" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ahoana no ahafantarako ny dikan-tenin'ny fampiharana ampiasaiko?
+## How do I know which version of the app I'm using?
 
-Mandehana any amin'ny **Profile**,
-dia **FAQ**, dia **Momba ity fampiharana ity.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Tokony hahita laharan'ny dikan-teny toy ny 3.4.5+662 ianao ao amin'ny
-. Aza adino ny milaza aminay ny marika sy ny modely
-an'ilay finday raha toa ka misy olana amin'ny "debug".
-
----
-
-## Tsy afaka mijery ny fampiharana
-
-Mety ho vokatry ny
-
-- olana amin'ny tambajotra
-
-- olana amin'ny fahazoan-dàlana
-
-- olana amin'ny kaody bara
-
-Alefaso mailaka aminay amin'ny alàlan'ny piraofilina >> Mifandraisa aminay >> Alefaso mailaka aminay.
-
-Tokony hampiarahina amin'ny fangatahanao ny fampahalalana rehetra mifandraika amin'izany.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ahoana no ahafahako manampy amin'ny fanatsarana ny fampiharana finday?
+## The app does not scan
 
-Ahoana no ahafahako manampy amin'ny fanatsarana ny fampiharana finday?
+This may be due to
 
-Azonao atao [manao izany ao amin'ny tahiry fampiharana finday](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Aiza no ahafahako mandefa valin-kevitra momba ny fampiharana?
+## How can I help with improving the mobile app ?
 
-Azonao alefa any amin'ny mobile@openfoodfacts.org ny valin-teninao.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
