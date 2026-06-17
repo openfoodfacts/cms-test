@@ -1,23 +1,23 @@
 ---
-title: "שאלות נפוצות טכניות"
-description: "שאלה אחת"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: מותגים גיטהאב
+icon: brands github
 ---
 
-{{< fa "מותגים" "גיטהאב" size="פי 3" >}}
+{{< fa "מותגים" "github" size=3x >}}
 
-## האם עליי לעדכן את כל קבצי השפה כשאני משנה מחרוזת מקור?
+## Should I update all language files when I change a source string?
 
-לא, אתה לא. אתה רק צריך לעדכן את הגרסה האנגלית
+No you don't. You just need to update the English one
 
-- צור את יחסי הציבור שלך
+- Create your PR
 
-לאחר שימוזג, נבנה מחדש את crowdin-trigger באופן ידני ומערכת התרגום של Crowdin, המופעלת על ידי GitHub Actions, תעשה את השאר עבור שפות אחרות.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-לאחר מכן, בוט GitHub יוצר באופן אוטומטי PR חדש שאותו אנו בודקים.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
