@@ -1,21 +1,21 @@
 ---
-title: "{{< velikost šape fa=2x >}} Odprta dejstva o hrani za hišne ljubljenčke"
-description: "2 vprašanji"
-lang: sl-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: šapa
+icon: paw
 ---
 
-{{< fa "šapa" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Zakaj ni Nutri-Score za živali?
+## Why is there no Nutri-Score for animals?
 
-Vsaka žival je drugačna (kača nima enakih prehranskih potreb kot mačka ali pes)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Tudi znotraj iste vrste živali, kot so psi, se prehranske potrebe razlikujejo glede na sedeči način življenja, morebitno kastracijo ali bolezni.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Zato je zapleteno izračunati oceno za živalsko krmo brez vključevanja več deset raziskovalcev in ustvarjanja več deset različnih algoritmov, kar do danes še ni bilo storjeno.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
