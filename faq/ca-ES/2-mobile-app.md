@@ -1,52 +1,52 @@
 ---
-title: "{{< mida mòbil fa=2x >}} Aplicació mòbil"
-description: "4 preguntes"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mòbil
+icon: mobile
 ---
 
-{{< fa "mòbil" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Com puc saber quina versió de l'aplicació estic utilitzant?
+## How do I know which version of the app I'm using?
 
-Ves a **Perfil**,
-després **Preguntes freqüents** i, a continuació, **Sobre aquesta aplicació**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Hauries de veure
-un número de versió com ara 3.4.5+662. No us oblideu de dir-nos la marca i el model
-del telèfon si s'està depurant.
-
----
-
-## L'aplicació no escaneja
-
-Això pot ser degut a
-
-- un problema de xarxa
-
-- un problema de permisos
-
-- un problema de codi de barres
-
-Envia'ns un correu electrònic a través de Perfil >> Contacta amb nosaltres >> Envia'ns un correu electrònic.
-
-Tota la informació rellevant s'ha d'adjuntar a la vostra sol·licitud.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Com puc ajudar a millorar l'aplicació mòbil?
+## The app does not scan
 
-Com puc ajudar a millorar l'aplicació mòbil?
+This may be due to
 
-Pots fer-ho [al repositori d'aplicacions mòbils](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## On puc enviar comentaris sobre l'aplicació?
+## How can I help with improving the mobile app ?
 
-Podeu enviar comentaris a mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
