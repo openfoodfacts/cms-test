@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Texniki Tez-tez Verilən Suallar"
-description: "1 sual"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: brendlər github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Mənbə sətrini dəyişdirərkən bütün dil fayllarını yeniləməliyəmmi?
+## Should I update all language files when I change a source string?
 
-Xeyr, etmirsən. Sadəcə ingilis dilini yeniləməlisiniz
+No you don't. You just need to update the English one
 
-- PR-ınızı yaradın
+- Create your PR
 
-Birləşdirildikdən sonra, crowdin-trigger-i əl ilə yenidən bazaya salacağıq və GitHub Actions tərəfindən tetiklenen Crowdin tərcümə sistemi qalanını digər dillər üçün edəcək.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub botu avtomatik olaraq nəzərdən keçirdiyimiz yeni bir PR yaradır.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
