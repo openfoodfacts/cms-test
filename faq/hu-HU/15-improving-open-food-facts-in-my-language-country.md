@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} A nyílt élelmiszer-információk fejlesztése az én nyelvemen/országomban"
-description: "3 kérdés"
-lang: hu-gb
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: földgolyó
+icon: globe
 ---
 
-{{< fa "földgolyó" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Szeretnék új logót hozzáadni a címkékhez
+## I would like to add a new logo for labels
 
-Íme a folyamat:
+Here is the process:
 
-- Keresd meg a címke **kanonikus nevét** a [címkék taxonómiájában](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (ez az első elem a címke szinonimáinak listájában, pl. hu:100% zöldség)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Jó minőségű logót használj**: kerüld a közreműködő fotójának használatát, mivel az nem alkalmas erre az esetre; a legtöbb címkének hivatalos weboldalán kiváló minőségű logók találhatók, néha vektoros formátumban (ez számunkra még jobb); amennyiben a logót arra használjuk, hogy objektíven tájékoztassuk a termék csomagolásán található
-címke meglétéről, nem kell engedélyt kérned.
-------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Nevezd el a fájlt így**: címke-neve.[szélesség]x90.png ahol a szélesség a logó szélessége 90 képpont magas állapotban. A fájlneveknek ékezet nélkülieknek, kisbetűseknek és szóközök helyett "-" karaktert kell használniuk.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- majd adja hozzá a logót a kanonikus nevének megfelelő könyvtárhoz. Ha a kanonikus név en:valami, akkor /en/-ben kell lenniük. A logók gyökérkönyvtára a [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Hogyan fordíthatom le az Open Food Facts-et a saját nyelvemre?
-
-Látogass el ide: [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Hogyan fordíthatom le ezt a GYIK-et a saját nyelvemre?
+## How do I translate Open Food Facts to my language ?
 
-A tudásbázishoz való szerkesztési hozzáférésért kérjük, forduljon a contact@openfoodfacts.org címhez.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
