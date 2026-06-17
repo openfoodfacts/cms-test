@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Taarifa Huria za Chakula cha Wanyama Kipenzi"
-description: "Maswali 2"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: mguu
+icon: paw
 ---
 
-{{< fa "mguu" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Kwa nini hakuna Nutri-Score kwa wanyama?
+## Why is there no Nutri-Score for animals?
 
-Kila mnyama ni tofauti (nyoka hana mahitaji sawa ya lishe kama paka au mbwa)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Hata ndani ya aina moja ya mnyama kama vile mbwa, mahitaji ya lishe hutofautiana kulingana na maisha ya kukaa tu, uwezekano wa kuhasiwa au magonjwa.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Kwa hivyo ni vigumu kukokotoa alama ya chakula cha wanyama bila kuwashirikisha watafiti kadhaa na kuunda algoriti nyingi tofauti, ambazo hazijafanywa hadi sasa.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
