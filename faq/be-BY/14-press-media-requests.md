@@ -1,17 +1,17 @@
 ---
-title: "{{< памер газеты fa=2x >}} Запыты прэсы і СМІ"
-description: "1 пытанне"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: газета
+icon: newspaper
 ---
 
-{{< fa "газета" size="3 разы" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Як я магу атрымаць візуальныя матэрыялы для прэсы на Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Калі ласка, звяжыцеся з намі па адрасе: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
