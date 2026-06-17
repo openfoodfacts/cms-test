@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} પાલતુ ખોરાકના ખુલ્લા તથ્યો"
-description: "૨ પ્રશ્નો"
-lang: eng-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: પંજા
+icon: paw
 ---
 
-{{< fa "પંજા" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## પ્રાણીઓ માટે ન્યુટ્રી-સ્કોર કેમ નથી?
+## Why is there no Nutri-Score for animals?
 
-દરેક પ્રાણી અલગ હોય છે (સાપને બિલાડી કે કૂતરા જેટલી પોષણની જરૂરિયાતો હોતી નથી)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-કૂતરા જેવા એક જ પ્રકારના પ્રાણીઓમાં પણ, બેઠાડુ જીવનશૈલી, સંભવિત કાસ્ટ્રેશન અથવા રોગોના આધારે પોષણની જરૂરિયાતો બદલાય છે.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-તેથી, ડઝનેક સંશોધકોને સામેલ કર્યા વિના અને ડઝનેક વિવિધ અલ્ગોરિધમ્સ બનાવ્યા વિના પશુ આહાર માટે સ્કોરની ગણતરી કરવી જટિલ છે, જે આજ સુધી કરવામાં આવ્યું નથી.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
