@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Informatiounen iwwer Hausdéierfudder opmaachen"
-description: "2 Froen"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: Patt
+icon: paw
 ---
 
-{{< fa "Patt" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Firwat gëtt et keen Nutri-Score fir Déieren?
+## Why is there no Nutri-Score for animals?
 
-All Déier ass anescht (eng Schlaang huet net déiselwecht Nährstoffer wéi eng Kaz oder en Hond)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Och bannent der selwechter Déieraart, wéi zum Beispill Hënn, variéiert den Ernärungsbedarf jee no der Aart vu sëtzendem Liewensstil, enger méiglecher Kastratioun oder Krankheeten.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Et ass dofir komplizéiert, e Score fir Déierefudder ze berechnen, ouni Dosende vu Fuerscher anzebannen an Dosende vu verschiddenen Algorithmen ze kreéieren, wat bis elo nach net gemaach gouf.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
