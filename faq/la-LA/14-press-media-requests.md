@@ -1,17 +1,17 @@
 ---
-title: "{{< magnitudo diarii fa=2x >}} Petitiones pro Prelo et Instrumentis Communicationis Socialis"
-description: "Una quaestio"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
-order: XIV
+order: 14
 category-level: 0
-icon: diarium
+icon: newspaper
 ---
 
-{{< fa "diarium" size=Ter >}}
+{{< fa "newspaper" size=3x >}}
 
-## Quomodo imagines pro prelo in Open Food Facts accipere possum?
+## How can I get press visuals on Open Food Facts?
 
-Quaeso contactum fac cum: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
