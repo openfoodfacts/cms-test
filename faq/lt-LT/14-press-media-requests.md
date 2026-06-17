@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Spaudos ir žiniasklaidos užklausos"
-description: "1 klausimas"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: laikraštis
+icon: newspaper
 ---
 
-{{< fa "laikraštis" size="3 kartus" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Kaip gauti spaudos vaizdinę medžiagą „Open Food Facts“ svetainėje?
+## How can I get press visuals on Open Food Facts?
 
-Prašome susisiekti: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
