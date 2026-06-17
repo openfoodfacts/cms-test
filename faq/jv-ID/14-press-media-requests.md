@@ -1,17 +1,17 @@
 ---
-title: "{{< fa ukuran koran=2x >}} Panjaluk Pers & Media"
-description: "1 pitakonan"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: koran
+icon: newspaper
 ---
 
-{{< fa "koran" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Kepriye carane supaya aku bisa entuk visual pers ing Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Hubungi: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
