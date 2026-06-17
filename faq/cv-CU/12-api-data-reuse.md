@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API & даннӑйсене тепӗр хут усӑ курасси"
-description: "6 ыйту"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: гаечный ключ
+icon: wrench
 ---
 
-{{< fa "гаечный ключ" size=3х >}}
+{{< fa "wrench" size=3x >}}
 
-## Документацире ӑҫта та пулин ҫырса хунӑ сӑнӳкерчӗксем валли мӗнле виҫе лайӑх пулмалли ҫинчен сӗнӳсем пур-и?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Ку ҫӗршывсенчен килет, сеть йӑваш е хаклӑ пулсан. йывӑрӑшӗпе е ҫӳллӗшӗпе 5000 пиксельрен пысӑкрах япала питех усӑллӑ мар пулӗ. енчен те эсир ҫав сеть ерипен ӗҫленине мӗнле те пулин тупса палӑртма пултаратӑр пулсан, 2000 пиксельлӗ ӳкерчӗк те питӗ лайӑх пулӗччӗ (паллах, ӳкерчӗк ҫуккинчен лайӑхрах!)
-
----
-
-## Штрих-кодсӑр апат-ҫимӗҫ пирки мӗн калама пулать?
-
-Open Food Facts -ра ҫыхса хунӑ апат-ҫимӗҫ ҫинчен ҫеҫ информаци пур. Продукци (сӑмахран, помидор е банан) тата ытти апат-ҫимӗҫ продукчӗсен вӑтам хакӗсене пӗлес тесен, ун вырӑнне наци апатланӑвӗн официаллӑ базисенчен пӗринпе усӑ курма пулать.
-
-**Асӑрхаттару:** Аялти списокра наци апат-ҫимӗҫӗн чи пӗлтерӗшлӗ базисенчен хӑшӗ-пӗрисем пур. Енчен те эсир ҫак списокра урӑх мӗнле те пулин базӑна кӗртмелле тесе шутлатӑр пулсан, пирӗнпе ҫак адреспа ҫыхӑнма пултаратӑр: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Наци апат-ҫимӗҫ базисен списокӗ**
-
--
-
-**Австрали** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Бельги** - NUBEL - Бельги апат-ҫимӗҫӗн составӗ даннӑйӗсем: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Канада** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Чех Республики** - Наци сывлӑх сыхлавӗн институтӗнчи апат-ҫимӗҫ составӗн базине: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Дания** - Дани апат-ҫимӗҫ составӗн даннӑйӗсен банкӗ: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Эстони** - Эстони апат-ҫимӗҫ составӗн бази: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Финлянди** - Финлянди апат-ҫимӗҫ составӗн базине - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**Франци** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20cтан](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Германи** - Souci-Fachmann-Kraut онлайн-бази: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) е нимӗҫсен официаллӑ бази: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://⌇1⌇]> ](https://⌇0⌇]>
-
-- **Итали** - Банка Дати ди Композиционе деглименти CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Нидерланды** - Голланди апат-ҫимӗҫ составӗн базине: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Норвеги** - Норвеги апат-ҫимӗҫ составӗн таблици 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Польша** - Апат-ҫимӗҫ составӗн таблицисем: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Испани** - Испани апат-ҫимӗҫ составӗн базине - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Швейцари** - Швейцари апат-ҫимӗҫ составӗн базине: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**Великобритани** - Апат-ҫимӗҫӗн пӗрлештернӗ даннӑйсен пуххи (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**АПШ** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Эпӗ API-па тӗрӗс продукт ятне шырама пултаратӑп-и?
+## What about food without barcodes ?
 
-Шел пулин те, хальлӗхе продукт ячӗпе кӑна тата API урлӑ тӗрӗс шырама май ҫук-ха.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Категори тӑрӑх фильтрпа усӑ курни шырава тӗрӗсрех тума пулӑшӗ.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Хамӑн проектсем валли даннӑйсене мӗнле кӗме/пуҫтарма пулать?
+## Can I search a precise product name with the API?
 
-Open Food Facts тӗп страницинче, экранӑн ҫӳлти сулахай кӗтессинче, ҫаврӑнакан меню пур. Унӑн тӗпӗнче эсир «анлӑ шырав» опцие тупатӑр, ун ҫине пусма пултаратӑр. Унтан сирӗн проект(сем) валли хӑш критерисем ытларах вырӑнлӑ пулнине палӑртмалла. Суйласа илсен, эсир илнӗ результатсене страницӑн аял енче аялалла анса «Результатсене скачать ту» ҫине пусса скачать тума пултаратӑр.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Эсир ҫавӑн пекех канашлама пултаратӑр:
-
-- Пирӗн API документацийӗ:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Open Food Facts' Усӑ курмалли условисем:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- Пирӗн даннӑйсем тӑрӑх:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## API-па усӑ курма условисем пур-и?
+## How can I access/collect data for my projects?
 
-API-па усӑ курасси ҫинчен ҫырнӑ мӗнпур документацие [API документацийӗн страницинче](https://openfoodfacts.github.io/openfoodfacts-server/api/) тупма пулать, анчах ҫакӑнта хӑвӑрт пӗтӗмлетӳ:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Уҫӑ апат-ҫимӗҫ факчӗсен базине уҫӑ даннӑйсем пек уҫӑ даннӑйсен базине лицензипе (ODbL) илме пулать, саккунлӑ даннӑйсемшӗн [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) пайне пӑхӑр. Икӗ услови те — атрибуци тата пай-пӗр пек. Енчен те эсир Open Food Facts даннӑйӗсене ытти базӑсемпе пӗрлештеретӗр пулсан, вара ODbL ҫакна ыйтать: результат базине те уҫӑ даннӑйсем пек кӑлармалла. Ҫавӑн пекех вӑл даннӑйсене ҫавӑн пек ҫӗнӗрен валеҫме май паракан ҫӑлкуҫсемпе ҫеҫ пӗрлештерме пултарнине пӗлтерет.
+You can also consult:
 
-- Хӑвӑрӑн приложенине палӑртма API чӗнӗвӗсене пурнӑҫланӑ чухне **яланах** ятарлӑ User-Agentпа усӑ курмалла.
-
-- Кашни API вӗҫӗ валли ставкӑсен чиккисем пурнӑҫланаҫҫӗ.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Историллӗ даннӑйсене мӗнле кӗме пулать?
+## Are there conditions to use the API?
 
-Хальхи вӑхӑтра эпир историллӗ даннӑйсен дампне (JSONL, MongoDB, CSV) сӗнместпӗр.
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Анчах та уйрӑм продуктсемшӗн API-па усӑ курса продукт даннӑйӗсен малтанхи версийӗсене е продукт страницинче тӳрлетӳсемпе усӑ курса кӗме пулать.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Продукта ҫӗнетнӗ чухне кашнинчех ҫӗнӗ ревизи (1-рен пуҫласа ӳсекен цифра) пулать.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Сӑмахран, ҫак продуктӑн пӗрремӗш версине (=пӗрремӗш продукт версине) илме
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Ҫавӑн пекех rev параметрпа API-па усӑ курма пулать:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
