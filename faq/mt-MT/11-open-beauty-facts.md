@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} Iftaħ Fatti dwar is-Sbuħija"
-description: "4 mistoqsijiet"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: tikketti
+icon: tags
 ---
 
-{{< fa "tikketti" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## Open Beauty Facts għandu laboratorju tal-analiżi?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -19,37 +19,37 @@ consumers, you can use our iPhone, Android and
 
 Windows Phone to add products:
 
-[[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)]
+[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
 
 And to exchange and discuss the possible uses of the project, you
 
 can join the Facebook group of contributors:
 
-[[https://www.facebook.com/groups/356858984359591/](https://www.facebook.com/groups/356858984359591/)
+[https://www.facebook.com/groups/356858984359591/](https://www.facebook.com/groups/356858984359591/)
 
 ---
 
-## Kif nista' nimporta l-prodotti tiegħi f'Open Beauty Facts?
+## How do I import my products into Open Beauty Facts?
 
-Ikkuntattja lil producteurs@openfoodfacts.org jew mur direttament fuq
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) imbagħad ikkuntattja \*\*producteurs@openfoodfacts.org \*\*għal esportazzjoni speċjali
-
----
-
-## Fejn nista' niżżel id-dejta ta' Open Beauty Facts?
-
-Il-paġna /data bħalissa mhix taħdem sew. Tista' tniżżel id-dejta minn [[https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Fejn nista' nsib l-Open Beauty Facts API u l-esportazzjonijiet tad-dejta?
+## Where can I download Open Beauty Facts data?
 
-L-Open Food Facts API hija 98% l-istess bħall-Open Beauty Facts API, allura jekk tuża d-dokumentazzjoni tal-Open Food Facts API għandu jkollok stampa pjuttost ċara tal-Open Beauty Facts API.
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)]
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
