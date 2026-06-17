@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} ቴክኒካዊ ሕቶታት"
-description: "1 ሕቶ"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: ምልክታት ንግዲ github
+icon: brands github
 ---
 
-{{< fa "brands" "github ዝብል ጽሑፍ ኣሎ።" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## ምንጪ ሕብረ-ቁጽሪ ክቕይር ከለኹ ኩሎም ናይ ቋንቋ ፋይላት ከዘምኖም ድየ ዘለኒ?
+## Should I update all language files when I change a source string?
 
-ኣይፋልካን ኣይትገብርን ኢኻ። እቲ ናይ እንግሊዝኛ ጥራይ update ክትገብሮ ኣለካ
+No you don't. You just need to update the English one
 
-- PR ናትካ ፍጠር
+- Create your PR
 
-ምስ ተዋሃሃደ፡ crowdin-trigger ብኢድና ዳግማይ መሰረት ክንገብሮ ኢና፡ እቲ ብGitHub Actions ዝተበገሰ ስርዓተ ትርጉም Crowdin ድማ ዝተረፈ ንኻልኦት ቋንቋታት ክገብሮ እዩ።
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-ድሕሪኡ GitHub bot ብኣውቶማቲክ ሓድሽ PR ይፈጥር እሞ ድሕሪኡ ንገምግሞ።
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
