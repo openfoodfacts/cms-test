@@ -1,6 +1,6 @@
 ---
-title: "स्वयंसेवा / योगदान"
-description: "3 प्रश्न"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## क्या उत्पादों के लिए अपलोड की गई छवियों को हटाने का कोई तरीका है?
+## Is there a way to remove uploaded images for products?
 
-संभावित तोड़फोड़ से बचने के लिए, केवल मॉडरेटर ही तस्वीरें हटा सकते हैं।
+Only moderators can remove photos, to avoid potential vandalism.
 
-डुप्लिकेट पोस्ट या किसी भी अनुचित फोटो को हटाने के लिए स्लैक पर या **contact@openfoodfacts.org** पर संपर्क करें (इसके लिए आपको बारकोड नंबर या यूआरएल प्रदान करने का प्रयास करना चाहिए)।
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-यदि आप प्रोग्रामर हैं तो हमारे पास एक नया इमेज रिपोर्ट एपीआई भी है।
-
----
-
-## मैं एक डिजाइनर हूँ। मैं आपकी कैसे मदद कर सकता हूँ ?
-
-हम [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) और एक समर्पित चैट चैनल पर सभी डिज़ाइन संबंधी गतिविधियों का समन्वय करते हैं। हम नियमित रूप से टीम मीटिंग और विशिष्ट चुनौतियों पर विचार-विमर्श करते हैं।
+We also have a new image report API if you're a programmer.
 
 ---
 
-## कुछ मामलों में एक ही उत्पाद के पोषण मूल्य प्रत्येक देश में भिन्न हो सकते हैं, ओपन फूड फैक्ट्स में इसे कैसे संभाला जाता है?
+## I'm a designer. How can I help ?
 
-99% मामलों में, निर्माता अपने उत्पादों के विभिन्न संस्करणों के लिए अलग-अलग बारकोड बनाते हैं। इसका एक प्रसिद्ध उदाहरण फ्रेंच और जर्मन न्यूटेला की मोटाई में अंतर है, जो विभिन्न देशों में ब्रेड की गुणवत्ता में अंतर के कारण होता है। दो अलग-अलग फॉर्मूले, दो अलग-अलग बारकोड।
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-हालांकि, छोटे कोड (ईएएन-8) पर बारकोड का टकराव हो सकता है, जिनका आमतौर पर यूरोप और अमेरिका के कुछ स्टोरों द्वारा पुन: उपयोग किया जाता है। हम फिलहाल बारकोड के टकराव को नहीं संभालते हैं, लेकिन उपयोगकर्ता के सामान्य स्थान का पता लगाकर ऐसा करना संभव होना चाहिए (किसी देश के भीतर बारकोड का टकराव होना और भी दुर्लभ है)।
+---
 
-दीर्घकाल में, हम उत्पादकों को बारकोड के टकराव से बचने के लिए EAN-13 पर स्विच करने के लिए प्रोत्साहित करते हैं।
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
