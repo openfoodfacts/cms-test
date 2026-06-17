@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} ክፉት ሓቅታት ጽባቐ"
-description: "4 ሕቶታት"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: መለለዪታት (tags)
+icon: tags
 ---
 
-{{< fa "መለለዪታት (tags)" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## ክፉት ጽባቐ ሓቅታት ናይ ትንተና ቤተ ፈተነ ኣለዎ ድዩ?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -19,37 +19,37 @@ consumers, you can use our iPhone, Android and
 
 Windows Phone to add products:
 
-[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/ድኳን/ኣፕስ/ዝርዝር?id=org.openbeautyfacts.scanner)
+[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
 
 And to exchange and discuss the possible uses of the project, you
 
 can join the Facebook group of contributors:
 
-[https://www.facebook.com/groups/356858984359591/](ኣብ መርበብ ሓበሬታ ፌስቡክ/ጉጅለታት/356858984359591/)
+[https://www.facebook.com/groups/356858984359591/](https://www.facebook.com/groups/356858984359591/)
 
 ---
 
-## ከመይ ጌረ ፍርያተይ ናብ Open Beauty Facts ከእትዎ እኽእል?
+## How do I import my products into Open Beauty Facts?
 
-producteurs@openfoodfacts.org ተወከሱ ወይ ብቐጥታ ናብ...
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) ድሕሪኡ ንፍሉይ ሰደድ \*\*producteurs@openfoodfacts.org \*\*ርኸብዎ።
-
----
-
-## ዳታ ክፉት ጽባቐ ሓቅታት ኣበይ ከውርድ ይኽእል?
-
-ኣብዚ እዋን እዚ እቲ /data ዝብል ገጽ ተሰቢሩ ኣሎ። ነቲ ዳታ ኣብ [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv) ከተውርድዎ ትኽእሉ ኢኹም)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## ኣበይ ክረኽቦ ይኽእል Open Beauty Facts APIን ዳታ ሰደድን ?
+## Where can I download Open Beauty Facts data?
 
-Open Food Facts API 98% ምስ Open Beauty Facts API ሓደ እዩ ስለዚ Open Food Facts API documentation እንተተጠቒምካ ብዛዕባ Open Beauty Facts API ቁሩብ ንጹር ኣረኣእያ ክህልወካ ይግባእ።
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://ክፉት ምግቢ ሓቅታት.github.io/ክፉት ምግቢ-ኣገልጋሊ/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
