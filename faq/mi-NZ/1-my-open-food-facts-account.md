@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Taku pūkete Open Food Facts"
-description: "2 ngā pātai"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: porowhita-kaiwhakamahi
+icon: user-circle
 ---
 
-{{< fa "porowhita-kaiwhakamahi" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## E hiahia ana ahau ki te muku i taku pūkete
+## I want to delete my account
 
-Ka mukua te pūkete i roto tonu i ō manakohanga.
+Account deletion now happens directly in your preferences.
 
-Whai muri i te takiuru ki [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), pāwhiritia te ingoa kaiwhakamahi kei te kokonga matau o runga, kātahi ka whiriwhiria ngā Tawhā Pūkete. Ka huaki i te whārangi o ō manakohanga. Haere ki te raro o te whārangi ka whakamahi i te mahi "muku kaiwhakamahi".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Mena kāore e taea e koe te takiuru (te tautuhi anō rānei i tō kupuhipa), whakapā atu ki te dpo - i - [openfoodfacts.org](http://openfoodfacts.org), mā te whakamahi i te wāhitau īmēra e whakamahia ana e koe hei rēhita i tō pūkete.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
