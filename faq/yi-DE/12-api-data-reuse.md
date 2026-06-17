@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API און דאטן ווידער-ניצן"
-description: "6 פֿראַגעס"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: שליסל
+icon: wrench
 ---
 
-{{< fa "שליסל" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## זענען דא רעקאמענדאציעס ערגעץ אין די דאקומענטאציע וואס וואלט געווען א גוטע גרייס פאר ארויפגעלאדענע בילדער?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-דאָס קען אָפענגען פון לענדער, אויב די נעץ איז פּאַמעלעך אָדער טייַער. עפּעס העכער 5000 פּיקסעלס אין וואָג אָדער הייך איז מיסטאָמע נישט זייער נוצלעך. און אויב איר קענט עפעס דעטעקטירן אז די נעץ איז שטייט, דעמאלט וואלט אפילו א 2000 פיקסעלס בילד געווען גרויסארטיג (זיכער בעסער ווי נישט האבן קיין בילד!).
-
----
-
-## וואָס וועגן עסן אָן באַרקאָודז?
-
-אָפן פוד פאַקס כּולל בלויז אינפֿאָרמאַציע וועגן פּאַקידזשד עסנוואַרג. פֿאַר דורכשניטלעכע ווערטן פֿון פּראָדוקטן (למשל, פּאָמידאָרן אָדער באַנאַנעס) און אַנדערע עסן פּראָדוקטן, קענט איר אַנשטאָט נוצן איינע פֿון די אָפֿיציעלע נאַציאָנאַלע דערנערונג דאַטאַבייסעס.
-
-**נאטיץ:** די ליסטע אונטן אנטהאלט עטלעכע פון די וויכטיגסטע נאציאנאלע עסן דאטאבאזעס. אויב איר מיינט אז אן אנדער דאטאבאזע זאל זיין אריינגערעכנט אין דער ליסטע, ביטע קאנטאקטירט אונז ביי: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**ליסטע פון נאציאנאלע עסן דאטאבאזעס**
-
--
-
-\*\* אויסטראַליע\*\* - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Cאויף%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**בעלגיע** - נובעל - בעלגישע עסן צוזאמענשטעלונג דאטן: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**קאַנאַדע** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**טשעכיי** - עסן צוזאמענשטעלונג דאטאבאזע ביים נאציאנאלן אינסטיטוט פון פובליק געזונט: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**דענמאַרק** - דענישע עסן צוזאַמענשטעלונג דאַטאַבאַנק: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**עסטלאנד** - עסטישע עסן צוזאמענשטעלונג דאטאבאזע: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**פינלאַנד** - פינישע עסן צוזאַמענשטעלונג דאַטאַבאַזע - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**פֿראַנקרײַך** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**דייטשלאנד** - Souci-Fachmann-Kraut אָנליין דאַטאַבאַסע: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) אָדער דער באַאַמטער דייַטש דאַטאַבאַסע: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
-
-- **איטאליע** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**האלאנד** - האלענדישע עסן צוזאמענשטעלונג דאטאבאזע: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**נאָרוועגיע** - די נאָרוועגישע עסן צוזאַמענשטעלונג טאַבעלע 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**פוילן** - עסן צוזאמענשטעל טאבעלעס: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**שפּאַניע** - שפּאַנישע עסן צוזאַמענשטעלונג דאַטאַבייס - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**שווייץ** - שווייצער עסן צוזאמענשטעלונג דאטאבאזע: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**בריטאניע** - צוזאמענשטעלונג פון עסן אינטעגרירטע דאטאסעט (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## קען איך זוכן א גענויע פראדוקט נאמען מיטן API?
+## What about food without barcodes ?
 
-ליידער איז עס נאך נישט מעגלעך צו גרינג זוכן נאר אויף פראדוקט נאמען און גענוי דורך די API.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-ניצן אַ פילטער אויף קאַטעגאָריע קען אפשר העלפֿן מאַכן אייער זוכן מער פּינקטלעך.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## ווי קען איך צוקומען/זאמלען דאטן פאר מײַנע פראיעקטן?
+## Can I search a precise product name with the API?
 
-אויף Open Food Facts' הויפּט בלאַט, אין דער אויבערשטער לינקער ווינקל פון דעם עקראַן, איז דאָ אַ סקראָלינג מעניו. אין אונטערשטן טייל דערפון, וועט איר געפֿינען די "אַוואַנסירטע זוכן" אָפּציע, אויף וועלכע איר קענט קליקן. עס איז דעמאָלט אייער אַרבעט צו באַשטימען וועלכע קריטעריאַ זענען די מערסט באַטייַטיק פֿאַר אייער פּראָיעקט(ן). אַמאָל אויסגעקליבן, וועט איר קענען אראָפּלאָדן די באַקומענע רעזולטאַטן דורך סקראָלן אַראָפּ אין די דנאָ פון דער בלאַט און קליקינג אויף "אראָפּלאָדן רעזולטאַטן".
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-איר קענט אויך קאָנסולטירן:
-
-- אונדזער API דאָקומענטאַציע:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- אָפן פוד פאַקס'ס תּנאים פון באַניץ:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- אויף אונדזערע דאַטן:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## זענען דא באדינגונגען צו ניצן די API?
+## How can I access/collect data for my projects?
 
-אלע דאקומענטאציע וועגן API באנוץ קען מען געפינען אויף דער [API דאקומענטאציע בלאט](https://openfoodfacts.github.io/openfoodfacts-server/api/), אבער דא איז א שנעלע צוזאמענפאסונג:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- די אָפן פוד פאַקס דאַטאַבייס איז בנימצא ווי אָפן דאַטן אונטער די אָפן דאַטאַבייס ליסענסע (ODbL), זען [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) פֿאַר די לעגאַלע פרטים. די צוויי באדינגונגען זענען צושרייבונג און טיילן-גלייך. אויב איר קאָמבינירט דאַטן פֿון Open Food Facts מיט אַנדערע דאַטאַבייסעס, דאַן פֿאָדערט די ODbL אַז די רעזולטאַטן דאַטאַבייס מוז אויך אַרויסגעגעבן ווערן ווי אָפֿענע דאַטן. דאָס מיינט אויך אַז איר קענט קאָמבינירן די דאַטן נאָר מיט קוועלער וואָס וואָלטן דערלויבט אַזאַ ווידער-פאַרשפּרייטונג.
+You can also consult:
 
-- איר מוזט **שטענדיק** ניצן אַ מנהג-געמאַכטן באַניצער-אַגענט ווען איר דורכפירט API רופן צו ידענטיפיצירן אייער אַפּ.
-
-- ראַטע-לימאַץ ווערן דורכגעפירט פֿאַר יעדן API ענדפּוינט.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## ווי קען איך צוקומען צו היסטארישע דאטן?
+## Are there conditions to use the API?
 
-איצט, פאָרשלאָגן מיר נישט היסטאָרישע דאַטן דאַמפּ (JSONL, MongoDB, CSV).
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-אבער, פאר יחידישע פראדוקטן, איז עס מעגלעך צו צוקומען צו פריערדיגע ווערסיעס פון די פראדוקט דאטן ניצנדיג די API אדער אויף דער פראדוקט בלאט ניצנדיג רעוויזיעס.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-יעדעס מאל וואס א פראדוקט ווערט אפדעיטעד, ווערט באשאפן א נייע רעוויזיע (א וואקסנדיקע ציפער אנפאנגענדיג פון 1).
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-למשל, צו באַקומען די ערשטע רעוויזיע (= ערשטע פּראָדוקט ווערסיע) פֿון דעם פּראָדוקט, ניצט
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-אזוי אויך, קען מען ניצן דעם rev פאראמעטער מיטן API:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
