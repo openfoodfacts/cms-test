@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} פֿאַרבעסערן אָפֿענע פֿוד פֿאַקטן אין מײַן שפּראַך/לאַנד"
-description: "3 פֿראַגעס"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: גלאָבוס
+icon: globe
 ---
 
-{{< fa "גלאָבוס" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## איך וואָלט געוואָלט צולייגן אַ נײַעם לאָגאָ פֿאַר עטיקעטן
+## I would like to add a new logo for labels
 
-דאָ איז דער פּראָצעס:
+Here is the process:
 
-- זוכט דעם **קאנאנישן נאמען** פון דער לייבל אין דער [לייבלס' טאקסאנאמיע](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (עס איז דער ערשטער זאך אין דער ליסטע פון די לייבלס' סינאנימען, למשל. en:100% וועגעטאַריש)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**באַקומען דעם לאָגאָ אין אַ גוטער קוואַליטעט**: פֿאַרמייַדן ניצן דעם מיטאַרבעטער'ס פֿאָטאָ וואָס זענען נישט פּאַסיק פֿאַר דעם פֿאַל; רובֿ עטיקעטן האָבן אָפֿיציעלע וועבזײַטן הויך-קוואַליטעט לאָגאָס, מאל אין וועקטאָר פֿאָרמאַט (נאָך בעסער פֿאַר אונדז); ווי לאַנג ווי מיר ניצן אַ לאָגאָ צו אָביעקטיוו מיטטיילן וועגן דער עקזיסטענץ פֿון אַ
-עטיקעט אויף דער פּאַקאַדזשינג פֿון אַ פּראָדוקט, איז נישטאָ קיין נויט צו בעטן דערלויבעניש.
-----------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**געבט דעם טעקע דעם נאמען אזוי**: name-of-the-label.[width]x90.png וואו width איז די ברייט פארן לאגא ווען עס איז 90 פיקסעלס הויך. די טעקע נעמען דאַרפֿן זײַן אָן אַקצענטן, אין קליינע אותיות און ניצנדיק "-" אַנשטאָט לעכער.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- דערנאך לייג צו דעם לאָגאָ אין דעם דירעקטאָרי וואָס קאָראַספּאַנדז צו זיין קאַנאָנישן נאָמען. אויב דער קאַנאָנישער נאָמען איז en:something, דאַן דאַרפֿן זיי זײַן אין /en/. דער וואָרצל דירעקטאָרי פֿאַר לאָגאָס איז [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## ווי אזוי קען איך איבערזעצן "אפֿענע פֿוד פֿאַקטן" אויף מײַן שפּראַך?
-
-גייט אריבער צו [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## ווי אזוי קען איך איבערזעצן די FAQ אויף מיין שפראך?
+## How do I translate Open Food Facts to my language ?
 
-ביטע פרעגט contact@openfoodfacts.org פאר רעדאַקטיר-צוטריט צו דער וויסן-באזע.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
