@@ -1,52 +1,52 @@
 ---
-title: "Taupānga pūkoro {{< fa rahi waea pūkoro=2x >}}"
-description: "4 ngā pātai"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: waea pūkoro
+icon: mobile
 ---
 
-{{< fa "waea pūkoro" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Me pēhea taku mōhio ko tēhea putanga o te taupānga e whakamahia ana e au?
+## How do I know which version of the app I'm using?
 
-Haere ki **Profile**,
-kātahi ki **FAQ**, kātahi ki **Mō tēnei taupānga.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Me kite koe i tētahi tau putanga pēnei i te 3.4.5+662 i roto i te
-. Kaua e wareware ki te whakamōhio mai i te waitohu me te tauira
-o te waea mēnā kei te whakatikahia ngā hapa.
-
----
-
-## Kāore te taupānga e matawai
-
-Tērā pea nā te
-
-- he raruraru whatunga
-
-- he raruraru whakaaetanga
-
-- he raruraru waehere pae
-
-Tukuna mai he īmēra mā te Kōtaha >> Whakapā mai >> Tukuna mai he īmēra.
-
-Me tāpiri atu ngā mōhiohio katoa e tika ana ki tāu tono.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Me pēhea taku āwhina i te whakapai ake i te taupānga pūkoro?
+## The app does not scan
 
-Me pēhea taku āwhina i te whakapai ake i te taupānga pūkoro?
+This may be due to
 
-Ka taea e koe [te mahi i tēnei i runga i te putunga taupānga pūkoro](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Kei hea ahau e tuku urupare ai mō te taupānga?
+## How can I help with improving the mobile app ?
 
-Ka taea e koe te tuku urupare ki mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
