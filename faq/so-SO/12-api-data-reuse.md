@@ -1,141 +1,141 @@
 ---
-title: "{{< fa kiyaawo size=2x >}} API & dib u isticmaal xogta"
-description: "6 su'aalood"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: furayaasha
+icon: wrench
 ---
 
-{{< fa "furayaasha" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## Ma jiraan talooyin ku jira dukumeentiyada oo ku saabsan cabbirka wanaagsan ee sawirrada la soo geliyay?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Taasi waxay ku xirnaan kartaa waddamada, haddii shabakadu gaabis tahay ama qaali tahay. wax kasta oo ka sarreeya 5000 pixels oo miisaan ama dherer ah malaha faa'iido badan ma laha. haddii aad si uun u ogaan karto in shabakadu gaabis tahay, markaa xitaa sawirka 2000 pixels wuu fiicnaan lahaa (hubaal wuu ka fiican yahay inaadan sawir lahayn!)
-
----
-
-## Ka warran cuntada aan lahayn barcode-yada?
-
-Xaqiiqooyinka Cuntada Furan waxay ka kooban yihiin oo keliya macluumaad ku saabsan cuntada baakadaysan. Qiimaha celceliska wax soo saarka (tusaale ahaan, yaanyada ama muuska) iyo cuntooyinka kale, waxaad isticmaali kartaa mid ka mid ah xogta rasmiga ah ee nafaqada qaranka.
-
-**Fiiro gaar ah:** Liiska hoose waxa uu ka kooban yahay qaar ka mid ah keydka cuntada qaranka ee ugu muhiimsan. Haddii aad u malaynayso in xog kale lagu daro liiska, fadlan nagala soo xiriir: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Liiska Kaydka Cuntada Qaranka**
-
--
-
-**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Belgium** - NUBEL - Xogta Halabuurka Cuntada Belgian: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Kanada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Jamhuuriyadda Czech** - Xogta Isku-dhafka Cuntada ee Machadka Qaranka ee Caafimaadka Dadweynaha: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Denmark** - Kaydka Xogta Cuntada ee Denmark: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Estonia** - Xogta Kaydka Cuntada Istooniyaanka: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Finland** - Xogta Kaydka Cuntada Finnishka - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**Faransiiska** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Jarmalka** - Souci-Fachmann-Kraut Xogta Khadka Tooska ah: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) ama Xogta rasmiga ah ee Jarmalka: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
-
-- **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Netherlands** - Kaydka Xogta Cuntada Nederland: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Norway** - Shaxda Isku-dhafka Cuntada Noorway 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Poland** - Miisaska Cuntada ee Isku-dhafka ah: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Isbaanish** - Xogta Isku-dhafka Cuntada Isbaanishka - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Switzerland** - Kaydka Xogta Cuntada Swiss: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**UK** - Halabuurka xogta isku dhafan ee cuntooyinka (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-\*\* USA\*\* - USDA: [https://ndb.nal.usda.gov/] (https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Ma ka raadin karaa magac badeecad oo sax ah API-ga?
+## What about food without barcodes ?
 
-Nasiib darro weli suurtagal ma aha in si fudud looga raadiyo magaca badeecada oo keliya iyo si sax ah iyada oo loo marayo API-ga.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Isticmaalka shaandhada qaybta ku jirta waxay kaa caawin kartaa inaad raadintaada ka dhigto mid sax ah in kastoo.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Sideen u heli karaa/u ururin karaa xogta mashaariicdayda?
+## Can I search a precise product name with the API?
 
-Bogga ugu weyn ee Furan ee Xaqiiqooyinka Cuntada, geeska bidix ee sare ee shaashadda, waxaa ku yaal liiska rogrogmada. Qeybta hoose, waxaad ka heli doontaa ikhtiyaarka "raadinta sare", kaas oo aad gujin karto. Markaas adiga ayay kugu xiran tahay inaad go'aamiso shuruudaha ugu habboon mashruucaaga (mashruucyadaada). Marka aad doorato, waxaad awoodi doontaa inaad soo dejiso natiijooyinka la helay adigoo hoos ugu dhaadhacaya xagga hoose ee bogga oo gujinaya "Soo dejiso natiijooyinka".
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Waxaad sidoo kale la tashan kartaa:
-
-- Dukumentiyadayada API:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Shuruudaha Isticmaalka Xaqiiqooyinka Cuntada Furan:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- Xogtayada:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## Ma jiraan shuruudo lagu isticmaalo API-ga?
+## How can I access/collect data for my projects?
 
-Dhammaan dukumentiyada ku saabsan isticmaalka API waxaa laga heli karaa [bogga dukumeentiyada API](https://openfoodfacts.github.io/openfoodfacts-server/api/), laakiin halkan waa soo koobid degdeg ah:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Kaydka Xogta Cuntada Furan waxaa laga heli karaa xog furan oo hoos timaada Ruqsadda Kaydka Xogta Furan (ODbL), fiiri [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) si aad u hesho faahfaahinta sharciga. Labada shuruudood waa isku-xirnaan iyo wadaag. Haddii aad xogta ka soo baxda Xaqiiqooyinka Cuntada Furan ku darto xog kaydin kale, markaa ODbL waxay u baahan tahay in xogta ka soo baxda la sii daayo xog furan sidoo kale. Waxay sidoo kale ka dhigan tahay inaad xogta ku dari karto oo keliya ilo u oggolaanaya dib-u-qaybintaas.
+You can also consult:
 
-- Waa inaad **had iyo jeer** isticmaashaa Wakiil Isticmaale gaar ah marka aad sameyneyso wicitaanada API si aad u aqoonsato abkaaga.
-
-- Xadka heerka ayaa lagu dhaqan geliyaa dhammaadka API kasta.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Sideen u heli karaa xogta taariikhiga ah?
+## Are there conditions to use the API?
 
-Waqtigan xaadirka ah, ma bixinno kaydin xog taariikhi ah (JSONL, MongoDB, CSV).
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Si kastaba ha ahaatee, alaabada shaqsiga ah, waxaa suurtogal ah in la galo noocyadii hore ee xogta badeecada iyadoo la adeegsanayo API-ga ama bogga badeecada iyadoo la adeegsanayo dib-u-eegisyo.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Mar kasta oo badeecad la cusbooneysiiyo, dib-u-eegis cusub (tiro sii kordheysa oo ka bilaabmaysa 1) ayaa la sameeyaa.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Tusaale ahaan, si aad u hesho dib-u-eegista koowaad (= nooca badeecada koowaad) ee badeecadan, isticmaal
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Sidoo kale, halbeegga rev waxaa loo isticmaali karaa API-ga:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
