@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Îmbunătățirea informațiilor despre alimentele deschise în limba/țara mea"
-description: "3 întrebări"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: glob
+icon: globe
 ---
 
-{{< fa "glob" size="de 3 ori" >}}
+{{< fa "globe" size=3x >}}
 
-## Aș dori să adaug un logo nou pentru etichete
+## I would like to add a new logo for labels
 
-Iată procesul:
+Here is the process:
 
-- găsiți **denumirea canonic** a etichetei în [taxonomia etichetelor](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (este primul element din lista de sinonime ale etichetelor, de ex. ro:100% vegetal)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Obțineți logo-ul de bună calitate**: evitați să folosiți fotografiile contribuitorului, care nu sunt potrivite pentru acest caz; majoritatea etichetelor au logo-uri oficiale de înaltă calitate, uneori în format vectorial (și mai bine pentru noi); atâta timp cât folosim un logo pentru a informa obiectiv despre prezența unei etichete
-pe ambalajul unui produs, nu este nevoie să cereți permisiunea.
--------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**denumiți fișierul astfel**: numele-etichetei.[lățime]x90.png unde lățimea este lățimea logo-ului atunci când are 90 de pixeli înălțime. Numele fișierelor trebuie să fie neaccentuate, cu litere mici și folosind „-” în loc de spații.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- apoi adăugați sigla în directorul care corespunde numelui său canonic. Dacă numele canonic este en:something, atunci trebuie să fie în /en/. Directorul rădăcină pentru logo-uri este [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Cum traduc Open Food Facts în limba mea?
-
-Accesați [[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Cum traduc aceste întrebări frecvente în limba mea?
+## How do I translate Open Food Facts to my language ?
 
-Vă rugăm să solicitați acces de editare la baza de cunoștințe de la contact@openfoodfacts.org.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
