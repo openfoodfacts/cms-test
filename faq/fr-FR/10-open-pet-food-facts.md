@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Ouvrir les informations sur les aliments pour animaux de compagnie"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
 description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: patte
+icon: paw
 ---
 
-{{< fa "patte" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Pourquoi n'existe-t-il pas de Nutri-Score pour les animaux ?
+## Why is there no Nutri-Score for animals?
 
-Chaque animal est différent (un serpent n'a pas les mêmes besoins nutritionnels qu'un chat ou un chien).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Même au sein d'une même espèce animale, comme les chiens, les besoins nutritionnels varient en fonction du mode de vie sédentaire, d'une éventuelle castration ou de maladies.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Il est donc compliqué de calculer un score pour l'alimentation animale sans impliquer des dizaines de chercheurs et sans créer des dizaines d'algorithmes différents, ce qui n'a pas été fait jusqu'à présent.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -23,7 +23,7 @@ Il est donc compliqué de calculer un score pour l'alimentation animale sans imp
 
 Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
 
-Remarque : les fonctionnalités telles que les Panneaux de Connaissances, les Eco-Scores et Nutri-Score ne sont pas prises en charge (à cause soit du sujet soit de l'ancienne base de code).
+Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
