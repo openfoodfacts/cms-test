@@ -1,52 +1,52 @@
 ---
-title: "{{< fa మొబైల్ పరిమాణం=2x >}} మొబైల్ యాప్"
-description: "4 ప్రశ్నలు"
-lang: en-gb తెలుగు in లో
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: మొబైల్
+icon: mobile
 ---
 
-{{< fa "మొబైల్" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## నేను ఏ యాప్ వెర్షన్ ఉపయోగిస్తున్నానో నాకు ఎలా తెలుస్తుంది?
+## How do I know which version of the app I'm using?
 
-**ప్రొఫైల్**కి,
-కి వెళ్లి, ఆపై **తరచుగా అడిగే ప్రశ్నలు**కి, ఆపై **ఈ యాప్ గురించి**కి వెళ్లండి.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-మీరు
-3.4.5+662 వంటి వెర్షన్ నంబర్‌ను చూడాలి. ఒకవేళ ఫోన్ డీబగ్గింగ్ అయితే దాని తయారీ మరియు మోడల్
-మాకు చెప్పడం మర్చిపోవద్దు.
-
----
-
-## యాప్ స్కాన్ చేయడం లేదు
-
-దీనికి కారణం కావచ్చు
-
-- నెట్‌వర్క్ సమస్య
-
-- అనుమతుల సమస్య
-
-- బార్‌కోడ్ సమస్య
-
-ప్రొఫైల్ ద్వారా మాకు ఇమెయిల్ పంపండి >> మమ్మల్ని సంప్రదించండి >> మాకు ఇమెయిల్ పంపండి.
-
-సంబంధిత సమాచారం అంతా మీ అభ్యర్థనకు జతచేయబడాలి.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## మొబైల్ యాప్‌ను మెరుగుపరచడంలో నేను ఎలా సహాయం చేయగలను?
+## The app does not scan
 
-మొబైల్ యాప్‌ను మెరుగుపరచడంలో నేను ఎలా సహాయం చేయగలను?
+This may be due to
 
-మీరు [మొబైల్ యాప్ రిపోజిటరీలో అలా చేయవచ్చు](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## యాప్ గురించి నేను ఎక్కడ అభిప్రాయాన్ని పంపగలను?
+## How can I help with improving the mobile app ?
 
-మీరు mobile@openfoodfacts.org కు అభిప్రాయాన్ని పంపవచ్చు.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
