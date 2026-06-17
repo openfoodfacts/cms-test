@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Tekniset usein kysytyt kysymykset"
-description: "1 kysymys"
-lang: fi-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: tuotemerkit github
+icon: brands github
 ---
 
-{{< fa "tuotemerkit" "github" size="3 kertaa" >}}
+{{< fa "tuotemerkit" "github" size=3x >}}
 
-## Pitäisikö minun päivittää kaikki kielitiedostot, kun muutan lähdekoodimerkkijonoa?
+## Should I update all language files when I change a source string?
 
-Et kai. Sinun tarvitsee vain päivittää englanninkielinen versio.
+No you don't. You just need to update the English one
 
-- Luo oma PR-profiilisi
+- Create your PR
 
-Kun se on yhdistetty, uudelleenpohjustamme crowdin-triggerin manuaalisesti ja GitHub Actionsin käynnistämä Crowdin-käännösjärjestelmä hoitaa loput muille kielille.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub-botti luo sitten automaattisesti uuden PR:n, jonka me sitten tarkistamme.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
