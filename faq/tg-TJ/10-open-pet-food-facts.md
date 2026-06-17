@@ -1,21 +1,21 @@
 ---
-title: "{{< fa pav size=2x >}} Маълумоти кушода дар бораи хӯроки ҳайвоноти хонагӣ"
-description: "2 савол"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: панҷа
+icon: paw
 ---
 
-{{< fa "панҷа" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Чаро барои ҳайвонот Nutri-Score вуҷуд надорад?
+## Why is there no Nutri-Score for animals?
 
-Ҳар як ҳайвон гуногун аст (мор ниёзҳои ғизоии якхела ба монанди гурба ё саг надорад)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ҳатто дар дохили як намуди ҳайвонот, ба монанди сагҳо, ниёзҳои ғизоӣ вобаста ба тарзи ҳаёти нишаста, эҳтимолан кастрация ё бемориҳо фарқ мекунанд.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Аз ин рӯ, ҳисоб кардани хол барои хӯроки чорво бе ҷалби даҳҳо муҳаққиқон ва эҷоди даҳҳо алгоритмҳои гуногун, ки то имрӯз анҷом дода нашудаанд, душвор аст.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
