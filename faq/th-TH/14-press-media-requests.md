@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} คำขอจากสื่อมวลชน"
-description: "1 คำถาม"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: หนังสือพิมพ์
+icon: newspaper
 ---
 
-{{< fa "หนังสือพิมพ์" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ฉันจะขอภาพประกอบสำหรับสื่อมวลชนเกี่ยวกับ Open Food Facts ได้อย่างไร?
+## How can I get press visuals on Open Food Facts?
 
-กรุณาติดต่อ : presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
