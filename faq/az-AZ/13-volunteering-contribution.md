@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Könüllülük / Töhfə"
-description: "3 sual"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: düzəliş et
 
 {{< fa "düzəliş et" size=3x >}}
 
-## Məhsullar üçün yüklənmiş şəkilləri silməyin bir yolu varmı?
+## Is there a way to remove uploaded images for products?
 
-Potensial vandalizmdən qaçınmaq üçün yalnız moderatorlar şəkilləri silə bilər.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Dublikatlarınızı və ya uyğun olmayan şəkillərinizi silmək üçün Slack-da və ya **contact@openfoodfacts.org** ünvanında soruşun (bunun üçün barkod nömrəsini və ya URL-ni təqdim etməyə çalışmalısınız).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Əgər proqramçısınızsa, yeni bir şəkil hesabatı API-miz da var.
-
----
-
-## Mən dizaynerəm. Necə kömək edə bilərəm?
-
-Biz bütün dizaynla bağlı fəaliyyətləri [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) saytında və xüsusi söhbət kanalında əlaqələndiririk. Biz müntəzəm olaraq komanda görüşləri və konkret tapşırıqlar üzrə beyin məşqləri keçiririk.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Bəzi hallarda eyni məhsul hər ölkə üçün fərqli qida dəyərlərinə malik ola bilər, bu, Açıq Qida Faktlarında necə əks olunur?
+## I'm a designer. How can I help ?
 
-İstehsalçılar məhsullarının müxtəlif versiyaları üçün vaxtın 99%-də fərqli barkodlar yaradırlar. Məşhur bir nümunə, ölkələr arasında çörəyin qalınlığına görə Fransız və Alman Nutellaları arasındakı fərqdir. 2 fərqli düstur, 2 fərqli barkod.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Lakin, barkod toqquşması, adətən Avropa və ABŞ-dakı bəzi mağazalar tərəfindən təkrar istifadə edilən daha qısa kodlarda (EAN-8) baş verə bilər. Hazırda bu barkod toqquşmalarını idarə etmirik, lakin bunu istifadəçinin ümumi yerini əldə etməklə etmək mümkün olmalıdır (bir ölkə daxilində barkod toqquşmalarının olması daha nadir haldır).
+---
 
-Uzunmüddətli perspektivdə istehsalçıları barkod toqquşmalarının qarşısını almaq üçün EAN-13-ə keçməyə təşviq edirik.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
