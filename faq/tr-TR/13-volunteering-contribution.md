@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Gönüllülük / Katkı"
-description: "3 soru"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: düzenle
 
 {{< fa "düzenle" size=3x >}}
 
-## Ürünlere yüklenen görselleri kaldırmanın bir yolu var mı?
+## Is there a way to remove uploaded images for products?
 
-Olası vandalizmi önlemek için fotoğrafları yalnızca moderatörler kaldırabilir.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Yinelenen içeriklerinizi veya uygunsuz fotoğraflarınızı kaldırmak için Slack üzerinden veya **contact@openfoodfacts.org** adresinden iletişime geçebilirsiniz (bunu yaparken barkod numarasını veya URL'yi de belirtmeniz faydalı olacaktır).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Programcıysanız, yeni bir görüntü raporlama API'miz de mevcut.
-
----
-
-## Ben bir tasarımcıyım. Nasıl yardımcı olabilirim?
-
-Tasarım ile ilgili tüm faaliyetleri [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) adresinde ve özel bir sohbet kanalında koordine ediyoruz. Belirli zorluklar üzerinde düzenli olarak ekip toplantıları ve beyin fırtınası seansları yapıyoruz.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Bazı durumlarda aynı ürünün besin değerleri ülkelere göre farklılık gösterebilir, Open Food Facts'te bu durum nasıl ele alınıyor?
+## I'm a designer. How can I help ?
 
-Üreticiler, %99 oranında, ürünlerinin farklı versiyonları için farklı barkodlar oluştururlar. Bunun ünlü bir örneği, ülkeler arasındaki ekmek farklılıklarından dolayı Fransız ve Alman Nutella'larının kıvamındaki farklılıktır. 2 farklı formül, 2 farklı barkod.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Ancak, Avrupa ve ABD'deki bazı mağazalar tarafından sıklıkla yeniden kullanılan daha kısa kodlarda (EAN-8) barkod çakışması yaşanabilir. Şu anda bu barkod çakışmalarını ele almıyoruz, ancak kullanıcının genel konumunu alarak bunu yapmak mümkün olmalı (bir ülke içinde barkod çakışması olması daha da nadirdir).
+---
 
-Uzun vadede, barkod çakışmalarını önlemek için üreticileri EAN-13'e geçmeye teşvik ediyoruz.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
