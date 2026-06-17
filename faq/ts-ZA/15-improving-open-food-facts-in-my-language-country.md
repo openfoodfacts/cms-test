@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Ku antswisa Tinhla ta Swakudya leswi Pfulekeke eka ririmi/tiko ra mina"
-description: "Swivutiso swa 3"
-lang: ts-gb
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: globe ya misava
+icon: globe
 ---
 
-{{< fa "globe ya misava" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Ndzi tsakela ku engetela logo leyintshwa ya malebvu
+## I would like to add a new logo for labels
 
-Hi leyi endlelo:
+Here is the process:
 
-- kuma **vito ra canonical** ra lebula eka [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (i nchumu wo sungula eka nxaxamelo wa swihlawulekisi swa malebvu, xikombiso en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**kuma logo hi khwalithi ya kahle**: papalata ku tirhisa xifaniso xa muhoxa xandla leswi nga ringanelangiki eka mhaka leyi; malebvu yo tala ya na tiwebsite ta ximfumo tilogo ta xiyimo xa le henhla, minkarhi yin’wana hi xivumbeko xa vector (swi antswa ngopfu eka hina); ntsena loko hi tirhisa logo ku tivisa hi xikongomelo hi vukona bya lebula ya
-eka ku pakiwa ka xitirhisiwa, a swi bohi ku kombela mpfumelelo.
--------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**vito ra fayili hi ndlela leyi**: name-of-the-label.[width]x90.png laha ku anama ku nga ku anama ka logo loko yi ri 90 wa tipikseli hi ku leha. Mavito ya tifayela ya lava ku va ya nga ri na switwari, hi maletere lamatsongo naswona ya tirhisa "-" ematshan'wini ya swivandla.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- kutani u engetela logo eka xikombo lexi fambisanaka ni vito ra yona ra canonical. Loko vito ra canonical ri ri en:something, kutani va fanele ku va eka /en/. Xikombo xa timitsu xa tilogo i [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Xana ndzi nga hundzuluxela njhani Tinhla ta Swakudya leswi Pfulekeke eka ririmi ra mina ?
-
-Nhloko ya le henhla eka [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Nseketelo_wa_Tiko)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Xana ndzi nga hundzuluxela njhani FAQ leyi eka ririmi ra mina ?
+## How do I translate Open Food Facts to my language ?
 
-Hi kombela u vutisa contact@openfoodfacts.org ku kuma mfikelelo wo hlela eka xisekelo xa vutivi.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
