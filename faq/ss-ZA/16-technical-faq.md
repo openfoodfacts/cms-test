@@ -1,23 +1,23 @@
 ---
-title: "{{< fa tinhlobo github usayizi=2x >}} FAQ lobuchwepheshe"
-description: "1 umbuto"
-lang: si-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: imikhicito ye github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Kufanele ngibuyekete onkhe emafayela elulwimi nangishintja intfo yemtfombo?
+## Should I update all language files when I change a source string?
 
-Cha awukwenti loko. Udzinga nje kubuyeketa leyo yesiNgisi .
+No you don't. You just need to update the English one
 
-- Dala i-PR yakho
+- Create your PR
 
-Uma sekuhlanganisiwe, sitawuphindze sibeke i-crowdin-trigger ngesandla futsi luhlelo lwekuhumusha lwe-Crowdin loluvuswa yi-GitHub Actions lutawenta konkhe lokunye kuletinye tilwimi.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot ke idala PR entsha ngokuzenzakalela kutsi ke sibuyeketa.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
