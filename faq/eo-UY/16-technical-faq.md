@@ -1,23 +1,23 @@
 ---
-title: "{{< fa markoj github grandeco=2x >}} Teknikaj Oftaj Demandoj"
-description: "1 demando"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: markoj github
+icon: brands github
 ---
 
 {{< fa "varomarkoj" "github" size=3x >}}
 
-## Ĉu mi ĝisdatigu ĉiujn lingvodosierojn kiam mi ŝanĝas fontan ĉenon?
+## Should I update all language files when I change a source string?
 
-Ne, vi ne faras tion. Vi nur bezonas ĝisdatigi la anglan.
+No you don't. You just need to update the English one
 
-- Kreu vian PR-on
+- Create your PR
 
-Post kiam ĝi estos kunfandita, ni permane rebazigos crowdin-trigger kaj la traduksistemo de Crowdin, ekigita per GitHub Actions, faros la reston por aliaj lingvoj.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-La GitHub-roboto tiam aŭtomate kreas novan PR-on, kiun ni poste revizias.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
