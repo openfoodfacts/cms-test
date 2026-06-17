@@ -1,6 +1,6 @@
 ---
-title: "{{< fa mobile size=2x >}} Applicazione mobile"
-description: "4 domande"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
@@ -9,44 +9,44 @@ icon: mobile
 
 {{< fa "mobile" size=3x >}}
 
-## Come faccio a sapere quale versione dell'app sto utilizzando?
+## How do I know which version of the app I'm using?
 
-Vai su **Profilo**,
-, poi **FAQ**, poi **Informazioni su questa app.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Dovresti
-vedere un numero di versione come 3.4.5+662. Non dimenticare di comunicarci la marca e il modello
-del telefono se è in fase di debug.
-
----
-
-## L'app non esegue la scansione
-
-Ciò potrebbe essere dovuto a
-
-- un problema di rete
-
-- un problema di permessi
-
-- un problema con il codice a barre
-
-Inviaci un'e-mail tramite Profilo >> Contattaci >> Inviaci un'e-mail.
-
-Tutte le informazioni rilevanti devono essere allegate alla richiesta.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Come posso contribuire a migliorare l'app mobile?
+## The app does not scan
 
-Come posso contribuire a migliorare l'app mobile?
+This may be due to
 
-Puoi [farlo sul repository dell'app mobile](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Dove posso inviare un feedback sull'app?
+## How can I help with improving the mobile app ?
 
-Puoi inviare feedback a mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
