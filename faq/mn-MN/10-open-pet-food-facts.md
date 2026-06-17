@@ -1,21 +1,21 @@
 ---
-title: "{{< fa pav size=2x >}} Гэрийн тэжээвэр амьтдын хоолны талаарх нээлттэй мэдээлэл"
-description: "2 асуулт"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: сарвуу
+icon: paw
 ---
 
-{{< fa "сарвуу" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Амьтдад зориулсан Nutri-Score яагаад байдаггүй вэ?
+## Why is there no Nutri-Score for animals?
 
-Амьтан бүр өөр өөр байдаг (могой муур эсвэл нохойтой адил тэжээллэг хэрэгцээтэй байдаггүй)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Нохой гэх мэт ижил төрлийн амьтдын дотор ч гэсэн тэжээллэг чанарын хэрэгцээ нь амьдралын хэв маяг, суурин амьдралын хэв маяг, тайралт эсвэл өвчний зэргээс хамааран харилцан адилгүй байдаг.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Тиймээс олон арван судлаачдыг оролцуулж, олон арван өөр алгоритм боловсруулалгүйгээр малын тэжээлийн оноог тооцоолоход төвөгтэй бөгөөд өнөөг хүртэл хийгдээгүй байна.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
