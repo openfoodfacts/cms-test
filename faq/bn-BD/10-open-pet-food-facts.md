@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} পোষা প্রাণীর খাদ্যের তথ্য প্রকাশ করুন"
-description: "২টি প্রশ্ন"
-lang: en-gb সম্পর্কে
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: থাবা
+icon: paw
 ---
 
-{{< fa "থাবা" size="3x এর বিবরণ" >}}
+{{< fa "paw" size=3x >}}
 
-## পশুদের জন্য কেন কোন নিউট্রি-স্কোর নেই?
+## Why is there no Nutri-Score for animals?
 
-প্রতিটি প্রাণী আলাদা (একটি সাপের বিড়াল বা কুকুরের মতো পুষ্টির চাহিদা একই রকম থাকে না)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-এমনকি কুকুরের মতো একই ধরণের প্রাণীর মধ্যেও, পুষ্টির চাহিদা বসে থাকা জীবনযাত্রা, সম্ভাব্য খোজাকরণ বা রোগের উপর নির্ভর করে পরিবর্তিত হয়।
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-তাই কয়েক ডজন গবেষককে জড়িত না করে এবং কয়েক ডজন বিভিন্ন অ্যালগরিদম তৈরি না করে পশুখাদ্যের জন্য স্কোর গণনা করা জটিল, যা আজ পর্যন্ত করা হয়নি।
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
