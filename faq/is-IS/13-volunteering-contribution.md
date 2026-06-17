@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Sjálfboðaliðastarf / Framlag"
-description: "3 spurningar"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Er til leið til að fjarlægja myndir sem hafa verið hlaðið inn af vörum?
+## Is there a way to remove uploaded images for products?
 
-Aðeins umsjónarmenn geta fjarlægt myndir til að koma í veg fyrir hugsanlegt skemmdarverk.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Spyrjið bara á Slack eða á **contact@openfoodfacts.org** um að fjarlægja tvíteknar myndir eða óviðeigandi myndir (reynið að gefa upp strikamerkið eða vefslóðina til að gera það).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Við höfum líka nýtt forritaskil fyrir myndskýrslur ef þú ert forritari.
-
----
-
-## Ég er hönnuður. Hvernig get ég hjálpað?
-
-Við samhæfum allar hönnunartengdar aðgerðir á [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) og á sérstöku spjallrás. Við höldum reglulega teymisfundi og hugleiðum verkefni um ákveðin verkefni.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Í sumum tilfellum getur sama vara haft mismunandi næringargildi fyrir hvert land, hvernig er þessu háttað í Open Food Facts?
+## I'm a designer. How can I help ?
 
-Í 99% tilfella búa framleiðendur til mismunandi strikamerki fyrir mismunandi útgáfur af vörum sínum. Frægt dæmi er munurinn á frönsku og þýsku Nutella hvað varðar þykkt, vegna mismunandi brauðtegunda eftir löndum. Tvær mismunandi formúlur, 2 mismunandi strikamerki.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Árekstrar í strikamerkjum geta þó komið fyrir á styttri kóðum (EAN-8) sem eru venjulega endurnýttir af sumum verslunum í Evrópu og Bandaríkjunum. Við tökum ekki á við þessi strikamerkjaárekstra eins og er, en það ætti að vera mögulegt að gera það með því að fá almenna staðsetningu notandans (það er enn sjaldgæfara að strikamerkjaárekstrar komi upp innan lands).
+---
 
-Til lengri tíma litið hvetjum við framleiðendur til að færa sig yfir í EAN-13 til að forðast þessar árekstrar með strikamerkjum.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
