@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} افتح حقائق طعام الحيوانات الأليفة"
-description: "سؤالان"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: مخلب
+icon: paw
 ---
 
-{{< fa "مخلب" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## لماذا لا يوجد نظام Nutri-Score للحيوانات؟
+## Why is there no Nutri-Score for animals?
 
-كل حيوان يختلف عن الآخر (فالثعبان لا يملك نفس الاحتياجات الغذائية التي يملكها القط أو الكلب).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-حتى ضمن نفس نوع الحيوان مثل الكلاب، تختلف الاحتياجات الغذائية وفقًا لنمط الحياة الخامل، أو احتمالية الخصي، أو الأمراض.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-لذلك، من المعقد حساب درجة علف الحيوانات دون إشراك عشرات الباحثين وإنشاء عشرات الخوارزميات المختلفة، وهو أمر لم يتم القيام به حتى الآن.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
