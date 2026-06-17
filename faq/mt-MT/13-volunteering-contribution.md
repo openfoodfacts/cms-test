@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Volontarjat / Kontribuzzjoni"
-description: "3 mistoqsijiet"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Hemm xi mod kif tneħħi l-immaġini mtella' għall-prodotti?
+## Is there a way to remove uploaded images for products?
 
-Il-moderaturi biss jistgħu jneħħu r-ritratti, biex jevitaw vandaliżmu potenzjali.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Staqsi biss fuq Slack jew fuq **contact@openfoodfacts.org** biex tneħħi d-duplikati tiegħek jew kwalunkwe ritratt mhux xieraq (għandek tipprova tipprovdi n-numru tal-barcode jew il-URL għal dan).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Għandna wkoll API ġdida għar-rapporti tal-immaġni jekk int programmatur.
-
----
-
-## Jiena disinjatur. Kif nista' ngħin?
-
-Aħna nikkoordinaw l-attivitajiet kollha relatati mad-disinn fuq [[https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) u fuq kanal ta' chat dedikat. Nagħmlu laqgħat tat-tim u brainjams regolarment dwar sfidi speċifiċi.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## F'xi każijiet l-istess prodott jista' jkollu valuri nutrizzjonali differenti għal kull pajjiż, dan kif jiġi ttrattat f'Open Food Facts?
+## I'm a designer. How can I help ?
 
-99% tal-ħin, il-produtturi joħolqu barcodes differenti għal verżjonijiet differenti tal-prodotti tagħhom. Eżempju famuż huwa d-differenza bejn in-Nutella Franċiża u dik Ġermaniża f'termini ta' ħxuna, minħabba d-differenza fil-ħobż bejn il-pajjiżi. 2 formuli differenti, 2 barcodes differenti.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Madankollu, jista' jkun hemm kunflitt bejn il-barcodes fuq kodiċijiet iqsar (EAN-8) li tipikament jerġgħu jintużaw minn xi ħwienet madwar l-Ewropa u l-Istati Uniti. Bħalissa ma nittrattawx dawk il-kunflitti tal-barcodes, iżda għandu jkun possibbli li nagħmlu dan billi niksbu l-post ġenerali tal-utent (huwa saħansitra aktar rari li jkun hemm kunflitti tal-barcodes f'pajjiż wieħed).
+---
 
-Fit-tul, inħeġġu lill-produtturi biex jaqilbu għall-EAN-13 biex jevitaw dawk il-kunflitti tal-barcode.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
