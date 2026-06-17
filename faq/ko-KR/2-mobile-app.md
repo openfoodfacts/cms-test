@@ -1,18 +1,18 @@
 ---
-title: "{{< fa mobile size=2x >}} 모바일 앱"
-description: "4개의 질문"
-lang: 영어-영국
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: 이동하는
+icon: mobile
 ---
 
-{{< fa "이동하는" size=3배 >}}
+{{< fa "mobile" size=3x >}}
 
-## 내가 사용하고 있는 앱 버전이 무엇인지 어떻게 알 수 있나요?
+## How do I know which version of the app I'm using?
 
-**프로필**,
-, **자주 묻는 질문**, 그리고 **이 앱에 대하여**로 이동하세요.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
 You should
 see a version number like 3.4.5+662. Don't forget to tell us the make and model
@@ -20,33 +20,33 @@ of the phone if it's debugging.
 
 ---
 
-## 이 앱은 스캔 기능을 지원하지 않습니다.
+## The app does not scan
 
-이는 다음과 같은 이유 때문일 수 있습니다.
+This may be due to
 
-- 네트워크 문제
+- a network problem
 
-- 권한 문제
+- a permissions problem
 
-- 바코드 문제
+- a barcode problem
 
-프로필 >> 문의하기 >> 이메일 보내기를 통해 이메일을 보내주세요.
+Send us an email via Profile >> Contact Us >> Send us an email.
 
-요청서에는 모든 관련 정보를 첨부해야 합니다.
-
----
-
-## 모바일 앱 개선에 어떻게 도움을 드릴 수 있을까요?
-
-모바일 앱 개선에 어떻게 도움을 드릴 수 있을까요?
-
-모바일 앱 저장소에서 [이 작업을 수행할 수 있습니다](https://github.com/openfoodfacts/smooth-app)
+All relevant information should be attached to your request.
 
 ---
 
-## 앱에 대한 의견은 어디로 보내면 되나요?
+## How can I help with improving the mobile app ?
 
-의견이 있으시면 mobile@openfoodfacts.org로 보내주세요.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
