@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Мобилно приложение"
-description: "4 въпроса"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: мобилен
+icon: mobile
 ---
 
-{{< fa "мобилен" size="3 пъти" >}}
+{{< fa "mobile" size=3x >}}
 
-## Как да разбера коя версия на приложението използвам?
+## How do I know which version of the app I'm using?
 
-Отидете на **Профил**,
-, след това **Често задавани въпроси**, след това **За това приложение**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Трябва да
-видите номер на версията, например 3.4.5+662. Не забравяйте да ни кажете марката и модела
-на телефона, ако се извършва дебъгване.
-
----
-
-## Приложението не сканира
-
-Това може да се дължи на
-
-- проблем с мрежата
-
-- проблем с разрешенията
-
-- проблем с баркод
-
-Изпратете ни имейл през профила >> Свържете се с нас >> Изпратете ни имейл.
-
-Цялата съответна информация трябва да бъде приложена към вашето искане.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Как мога да помогна за подобряването на мобилното приложение?
+## The app does not scan
 
-Как мога да помогна за подобряването на мобилното приложение?
+This may be due to
 
-Можете [да го направите в хранилището за мобилни приложения](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Къде мога да изпратя обратна връзка за приложението?
+## How can I help with improving the mobile app ?
 
-Можете да изпратите обратна връзка на mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
