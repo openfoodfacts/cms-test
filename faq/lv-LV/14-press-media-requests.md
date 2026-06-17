@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Preses un mediju pieprasījumi"
-description: "1 jautājums"
-lang: lv-lv
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: avīze
+icon: newspaper
 ---
 
-{{< fa "avīze" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Kā es varu iegūt preses vizuālos materiālus vietnē Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Lūdzu, sazinieties ar mums, rakstot uz e-pasta adresi: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
