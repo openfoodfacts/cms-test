@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mitt Open Food Facts-konto"
-description: "2 frågor"
-lang: sv-gb
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: användarkrets
+icon: user-circle
 ---
 
-{{< fa "användarkrets" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Jag vill radera mitt konto
+## I want to delete my account
 
-Kontoborttagning sker nu direkt i dina inställningar.
+Account deletion now happens directly in your preferences.
 
-Efter inloggning på [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klicka på användarnamnet i det övre högra hörnet och välj Kontoparametrar. Det öppnar din inställningssida. Gå till botten av sidan och använd åtgärden "ta bort användare".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Om du inte kan logga in (eller återställa ditt lösenord) vänligen kontakta dataskyddsmyndigheten - på - [openfoodfacts.org](http://openfoodfacts.org) med hjälp av den e-postadress du använde för att registrera ditt konto.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
