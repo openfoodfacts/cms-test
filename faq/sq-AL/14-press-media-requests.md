@@ -1,17 +1,17 @@
 ---
-title: "Kërkesa për Shtyp dhe Media"
-description: "1 pyetje"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: gazetë
+icon: newspaper
 ---
 
-{{< fa "gazetë" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Si mund të marr pamje nga shtypi mbi Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Ju lutemi të kontaktoni: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
