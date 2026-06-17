@@ -1,141 +1,141 @@
 ---
-title: "Ji nû ve bikaranîna API û daneyan"
-description: "6 pirs"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: badanvekir
+icon: wrench
 ---
 
-{{< fa "badanvekir" size="3 caran" >}}
+{{< fa "wrench" size=3x >}}
 
-## Ma di belgeyan de pêşniyar hene ka mezinahiyek baş ji bo wêneyên barkirî çi ye?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Ew dibe ku bi welatan ve girêdayî be, gelo tor hêdî an biha ye. tiştek ku giranî an bilindahiya wê ji 5000 pixelan zêdetir be, dibe ku ne pir bikêr be. û heke hûn bi awayekî bibînin ku tor hêdî ye, wê hingê wêneyek 2000 pixel jî dê pir baş be (bê guman ji nebûna wêneyek çêtir e!)
-
----
-
-## Xwarina bê barkod çawa ye?
-
-Open Food Facts tenê agahiyên li ser xwarinên pakêtkirî dihewîne. Ji bo nirxên navînî yên berheman (mînak, tomato an mûz) û berhemên din ên xwarinê, hûn dikarin li şûna wê yek ji databasa xurekê ya fermî ya neteweyî bikar bînin.
-
-**Têbînî:** Lîsteya li jêr hin ji girîngtirîn daneyên xwarinê yên neteweyî dihewîne. Heke hûn difikirin ku divê databeseke din jî di navnîşê de hebe, ji kerema xwe bi me re têkilî daynin li: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Lîsteya Databasên Xwarinê yên Neteweyî**
-
--
-
-**Australya** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Cli ser%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Belçîka** - NUBEL - Daneyên Pêkhatina Xwarinê ya Belçîkî: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Kanada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Komara Çek** - Databasa Pêkhatina Xwarinê li Enstîtuya Neteweyî ya Tenduristiya Giştî: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Danîmarka** - Daneyên Pêkhatina Xwarinê ya Danîmarkî: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Estonya** - Databasa Pêkhatina Xwarinê ya Estonî: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Fînlanda** - Databasa Pêkhatina Xwarinê ya Fînlandî - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**Fransa** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Almanya** - Souci-Fachmann-Kraut Database Serhêl: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) an Daneya fermî ya Almanî: Bundeslebensmittelschlüssel: [https://blsdb.de/](s)
-
-- **Îtalya** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Holenda** - Databasa Pêkhatina Xwarinê ya Holendî: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Norwêc** - Tabloya Pêkhatina Xwarinên Norwêcî 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Polonya** - Tabloyên Pêkhatina Xwarinê: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Spanya** - Databasa Pêkhatina Xwarinê ya Spanyayî - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Swîsre** - Databasa Pêkhatina Xwarinê ya Swîsreyê: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**BK** - Daneyên yekgirtî yên pêkhateya xwarinan (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**DYA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Ma ez dikarim bi API-ê navekî rastîn ê hilberê bigerim?
+## What about food without barcodes ?
 
-Mixabin hîn ne mimkûn e ku bi hêsanî û bi awayekî rast tenê bi navê hilberê bi rêya API-ê were lêgerîn.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Lêbelê, karanîna fîlterek li ser kategoriyê dibe ku ji we re bibe alîkar ku hûn lêgerîna xwe rasttir bikin.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Ez çawa dikarim ji bo projeyên xwe bigihîjim/daneyan berhev bikim?
+## Can I search a precise product name with the API?
 
-Li ser rûpela sereke ya Open Food Facts, li quncikê jorîn ê çepê yê ekranê, menuyek heye ku meriv dikare bizivire. Li binê wê, hûn ê vebijarka "lêgerîna pêşketî" bibînin, ku hûn dikarin li ser bikirtînin. Dûvre ew bi we ve girêdayî ye ku hûn diyar bikin ka kîjan pîvan ji bo projeya(ên) we herî têkildar in. Piştî hilbijartinê, hûn dikarin encaman dakêşin bi gerandina li jêrê rûpelê û bi tikandina "Encamên Dakêşanê" re.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Her wiha hûn dikarin şêwir bikin:
-
-- Belgeya API-ya me:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Mercên Bikaranînê yên Open Food Facts:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- Li ser daneyên me:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## Ma şert û mercên bikaranîna API-ê hene?
+## How can I access/collect data for my projects?
 
-Hemû belgekirinên derbarê karanîna API-yê de li ser [rûpela belgekirina API-yê](https://openfoodfacts.github.io/openfoodfacts-server/api/) têne dîtin, lê li vir kurteyek kurt heye:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Databasa Rastiyên Xwarinê yên Vekirî wekî daneya vekirî di bin Lîsansa Databasa Vekirî (ODbL) de peyda dibe, ji bo hûrguliyên yasayî li [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) binêre. Herdu şert jî îspatkirin û parvekirina wekhev in. Eger hûn daneyên ji Open Food Facts bi databasên din re bikin yek, wê demê ODbL hewce dike ku databasa encam jî wekî daneyên vekirî were weşandin. Ev jî tê vê wateyê ku hûn dikarin daneyan tenê bi çavkaniyên ku destûrê didin ji nû ve belavkirinê re bikin yek.
+You can also consult:
 
-- Divê hûn **her gav** dema ku hûn bangên API-yê dikin da ku sepanê xwe nas bikin, ajana-bikarhêner a xwerû bikar bînin.
-
-- Sînorên rêjeyê ji bo her xala dawî ya API-ê têne sepandin.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Ez çawa dikarim bigihîjim daneyên dîrokî?
+## Are there conditions to use the API?
 
-Niha, em daneyên dîrokî (JSONL, MongoDB, CSV) pêşkêş nakin.
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Lêbelê, ji bo hilberên takekesî, gengaz e ku meriv bi karanîna API-ê an jî li ser rûpela hilberê bi karanîna revîzyonan bigihîje guhertoyên berê yên daneyên hilberê.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Her cara ku berhemek tê nûvekirin, guhertoyek nû (reqemeke zêdebûyî ji 1ê dest pê dike) tê çêkirin.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Bo nimûne, ji bo bidestxistina guhertoya yekem (=guhertoya yekem a hilberê) ya vê hilberê, bikar bînin
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Bi heman rengî, parametreya rev dikare bi API-yê re were bikar anîn:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
