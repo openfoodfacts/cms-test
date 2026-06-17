@@ -1,17 +1,17 @@
 ---
-title: "{{< fa የጋዜጣ መጠን=2x >}} የፕሬስ እና የሚዲያ ጥያቄዎች"
-description: "1 ጥያቄ"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: ጋዜጣ
+icon: newspaper
 ---
 
-{{< fa "ጋዜጣ" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## በክፍት የምግብ እውነታዎች ላይ የፕሬስ ምስሎችን እንዴት ማግኘት እችላለሁ?
+## How can I get press visuals on Open Food Facts?
 
-እባክዎ ያነጋግሩን፦ presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
