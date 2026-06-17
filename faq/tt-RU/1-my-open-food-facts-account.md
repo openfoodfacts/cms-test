@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Минем Ачык Азык-төлек Фактлары аккаунтым"
-description: "2 сорау"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: кулланучы даирәсе
+icon: user-circle
 ---
 
-{{< fa "кулланучы даирәсе" size=3х >}}
+{{< fa "user-circle" size=3x >}}
 
-## Мин аккаунтымны бетерергә телим
+## I want to delete my account
 
-Хәзер хисап язмасын бетерү турыдан-туры сезнең көйләүләрегездә башкарыла.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) сайтына кергәннән соң, өске уң почмактагы кулланучы исеменә басыгыз һәм "Хисап параметрлары"н сайлагыз. Ул сезнең көйләүләр битен ача. Битнең аскы өлешенә күчегез һәм "кулланучыны бетерү" гамәлен кулланыгыз.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Әгәр дә сез системага керә алмасагыз (яки серсүзегезне яңарта алмасагыз), зинһар, хисап язмасын теркәү өчен кулланган электрон почта адресыгыз аша dpo белән элемтәгә керегез - [openfoodfacts.org](http://openfoodfacts.org).
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
