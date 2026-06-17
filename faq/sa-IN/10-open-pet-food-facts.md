@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} पालतूपजीविनां खाद्यतथ्यानि उद्घाटयन्तु"
-description: "२ प्रश्नाः"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: पवः
+icon: paw
 ---
 
-{{< fa "पवः" size=३x >}}
+{{< fa "paw" size=3x >}}
 
-## पशूनां कृते Nutri-Score किमर्थं नास्ति ?
+## Why is there no Nutri-Score for animals?
 
-प्रत्येकं पशुः भिन्नः भवति (सर्पस्य पोषणस्य आवश्यकता बिडालस्य वा श्वस्य वा समाना नास्ति) ।
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-श्वादिषु समानप्रकारस्य पशुस्य अन्तः अपि निषण्णजीवनशैल्याः, सम्भाव्यस्य क्षयस्य वा रोगानाम् अनुसारं पोषणस्य आवश्यकताः भिन्नाः भवन्ति
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-अतः दर्जनशः शोधकर्तृणां संलग्नतां विना दर्जनशः भिन्नानां एल्गोरिदम्-निर्माणं विना पशुभोजनस्य स्कोरस्य गणना जटिला अस्ति, यत् अद्यपर्यन्तं न कृतम्
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
