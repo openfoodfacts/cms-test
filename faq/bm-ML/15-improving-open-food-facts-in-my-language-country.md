@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Dumuni dafalenw tiɲɛniw ɲɛnabɔli ne ka kan/jamana kɔnɔ"
-description: "3 ɲininkaliw"
-lang: bamanankan-gb
-order: 15. Ɲɛjirali dɔw
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
+order: 15
 category-level: 0
-icon: globe (dugukolo-yɔrɔ) ye
+icon: globe
 ---
 
-{{< fa "globe (dugukolo-yɔrɔ) ye" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## N b’a fɛ ka logo kura dɔ fara a kan ka ɲɛsin labeliw ma
+## I would like to add a new logo for labels
 
-A kɛcogo filɛ nin ye:
+Here is the process:
 
-- labeli **kanon tɔgɔ** sɔrɔ [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) kɔnɔ (o ye fɛn fɔlɔ ye labeliw kɔrɔɲɔgɔnmaw lisɛli kɔnɔ, misali la en:100% nakɔfɛn)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**ka logo sɔrɔ cogo ɲuman na** : i kana baara kɛ ni dɛmɛbaga ka foto ye minnu ma bɛn nin ko in ma ; labeli fanba bɛ ni websiste ofisiyaliw ye logo ɲumanw na, tuma dɔw la, u bɛ kɛ vektɔri cogo la (hali ka fisa an ma); ni an bɛ baara kɛ ni logo ye walasa ka kunnafoni di ni hakili ye ko
-sɛbɛn bɛ fɛn dɔ foroko kan, kun t’a la ka yamaruya ɲini.
-------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**filen tɔgɔ da nin cogo la**: name-of-the-label.[width]x90.png yɔrɔ min na bonya ye logo bonya ye n'a janya ye pixel 90 ye. Dosiyɛri tɔgɔw ka kan ka kɛ ni fɔcogo tɛ, ni sɛbɛnni fitininw ye ani ka baara kɛ ni "-" ye yɔrɔw nɔ na.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- o kɔfɛ, logo fara a kan ɲɛbilasɛbɛn kɔnɔ min bɛ bɛn a tɔgɔ kanon ma. Ni kanon tɔgɔ ye en:fɛn ye, o tuma na u ka kan ka kɛ /en/ kɔnɔ. Logow jusigilan ye [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Ne bɛ se ka dumuni dafalenw baara cogo di n ka kan na ?
-
-Aw bɛ taa [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Jamana_Dɛmɛ)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Ne bɛ se ka nin FAQ in baara cogo di n ka kan na ?
+## How do I translate Open Food Facts to my language ?
 
-Aw ye contact@openfoodfacts.org ɲininka walasa ka sɛgɛsɛgɛli kɛ dɔnniyada la.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
