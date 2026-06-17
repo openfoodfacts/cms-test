@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Akun Open Food Facts-ku"
-description: "2 pitakonan"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: bunderan pangguna
+icon: user-circle
 ---
 
-{{< fa "bunderan pangguna" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Aku pengin mbusak akunku
+## I want to delete my account
 
-Pambusakan akun saiki kedadeyan langsung ing preferensi sampeyan.
+Account deletion now happens directly in your preferences.
 
-Sawisé mlebu log ing [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klik jeneng panganggo ing pojok tengen ndhuwur, pilih Parameter Akun. Iku bakal mbukak kaca preferensi sampeyan. Pindhah menyang sisih ngisor kaca lan gunakake tumindak "busak pangguna".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Menawi panjenengan boten saged mlebet (utawi ngreset sandhi), sumangga hubungi dpo - at - [openfoodfacts.org](http://openfoodfacts.org), ngginakaken alamat email ingkang panjenengan gunakake kangge ndhaftar akun.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
