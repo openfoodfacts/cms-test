@@ -1,23 +1,23 @@
 ---
-title: "{{<fa brands github size=2x >}} තාක්ෂණික නිතර අසන ප්‍රශ්න"
-description: "1 ප්‍රශ්නයක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 16 16
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: ගිතුබ් වෙළඳ නාම
+icon: brands github
 ---
 
-{{< fa "brands" "ගිතුබ්" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## මූලාශ්‍ර පෙළක් වෙනස් කරන විට සියලුම භාෂා ගොනු යාවත්කාලීන කළ යුතුද?
+## Should I update all language files when I change a source string?
 
-නෑ, ඔයා එහෙම කරන්නේ නෑ. ඔබට අවශ්‍ය වන්නේ ඉංග්‍රීසි එක යාවත්කාලීන කිරීම පමණි.
+No you don't. You just need to update the English one
 
-- ඔබේ PR නිර්මාණය කරන්න
+- Create your PR
 
-එය ඒකාබද්ධ කළ පසු, අපි ක්‍රවුඩින්-ට්‍රිගර් අතින් නැවත පාදක කරන්නෙමු, ඉතිරිය GitHub Actions මඟින් ක්‍රියාත්මක කරන ලද ක්‍රවුඩින් පරිවර්තන පද්ධතිය අනෙකුත් භාෂා සඳහා කරනු ඇත.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot පසුව ස්වයංක්‍රීයව නව PR එකක් නිර්මාණය කරන අතර එය අපි සමාලෝචනය කරමු.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
