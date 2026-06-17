@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} FAQ ya xithekiniki"
-description: "1 xivutiso"
-lang: ts-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: swikoweto swa github
+icon: brands github
 ---
 
-{{< fa "brands" "github ya xirhendzevutani" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## Xana ndzi fanele ku pfuxeta tifayela hinkwato ta ririmi loko ndzi cinca nxaxamelo wa xihlovo?
+## Should I update all language files when I change a source string?
 
-Hayi a wu swi endli. U lava ntsena ku update ya Xinghezi
+No you don't. You just need to update the English one
 
-- Endla PR ya wena
+- Create your PR
 
-Loko se yi hlanganisiwile, hi ta tlhela hi veka crowdin-trigger hi voko naswona sisiteme ya vuhundzuluxi ya Crowdin leyi hlohloteriweke hi GitHub Actions yi ta endla leswi seleke eka tindzimi tin’wana.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot yi tlhela yi tumbuluxa PR leyintshwa hi ku tisungulela leyi hi nga ta yi kambisisa.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
