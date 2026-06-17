@@ -1,17 +1,17 @@
 ---
-title: "សំណើសុំព័ត៌មាន និងប្រព័ន្ធផ្សព្វផ្សាយ {{< fa newspaper size=2x >}}"
-description: "សំណួរ ១"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ១៤
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
+order: 14
 category-level: 0
-icon: កាសែត
+icon: newspaper
 ---
 
-{{< fa "កាសែត" size=៣ដង >}}
+{{< fa "newspaper" size=3x >}}
 
-## តើខ្ញុំអាចទទួលបានរូបភាពសារព័ត៌មាននៅលើ Open Food Facts យ៉ាងដូចម្តេច?
+## How can I get press visuals on Open Food Facts?
 
-សូមទាក់ទង៖ presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
