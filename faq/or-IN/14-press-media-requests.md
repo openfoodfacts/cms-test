@@ -1,17 +1,17 @@
 ---
-title: "{{< fa ଖବରକାଗଜ ଆକାର=2x >}} ପ୍ରେସ୍ ଏବଂ ମିଡିଆ ଅନୁରୋଧ"
-description: "1ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
-order: ୧୪
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
+order: 14
 category-level: 0
-icon: ଖବରକାଗଜ
+icon: newspaper
 ---
 
-{{< fa "ଖବରକାଗଜ" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ଓପନ ଫୁଡ୍ ଫ୍ୟାକ୍ଟସ୍ ଉପରେ ମୁଁ ପ୍ରେସ୍ ଭିଜୁଆଲ୍ କିପରି ପାଇପାରିବି?
+## How can I get press visuals on Open Food Facts?
 
-ଦୟାକରି ଯୋଗାଯୋଗ କରନ୍ତୁ : presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
