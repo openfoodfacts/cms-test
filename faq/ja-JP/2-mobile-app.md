@@ -1,51 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} モバイルアプリ"
-description: "4つの質問"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: 携帯
+icon: mobile
 ---
 
-{{< fa "携帯" size=3倍 >}}
+{{< fa "mobile" size=3x >}}
 
-## 使用しているアプリのバージョンを確認するにはどうすればいいですか?
+## How do I know which version of the app I'm using?
 
-**プロフィール**、
-、**よくある質問**、**このアプリについて** の順に移動します。
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-3.4.5+662 のようなバージョン番号が表示されるはずです。 デバッグの場合は、携帯電話のメーカーとモデル
-を忘れずにお知らせください。
-
----
-
-## アプリがスキャンしない
-
-これは、
-
-- ネットワークの問題
-
-- 権限の問題
-
-- バーコードの問題
-
-プロフィール >> お問い合わせ >> メールを送信からメールをお送りください。
-
-関連するすべての情報をリクエストに添付する必要があります。
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## モバイル アプリの改善に協力するにはどうすればいいですか?
+## The app does not scan
 
-モバイル アプリの改善に協力するにはどうすればいいですか?
+This may be due to
 
-[モバイルアプリリポジトリでこれを行う](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## アプリに関するフィードバックはどこに送れば良いですか？
+## How can I help with improving the mobile app ?
 
-フィードバックはmobile@openfoodfacts.orgまでお送りください。
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
