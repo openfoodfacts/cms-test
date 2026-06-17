@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Önkéntesség / Hozzájárulás"
-description: "3 kérdés"
-lang: hu-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: szerkesztés
@@ -9,29 +9,29 @@ icon: szerkesztés
 
 {{< fa "szerkesztés" size=3x >}}
 
-## Van mód a termékekhez feltöltött képek eltávolítására?
+## Is there a way to remove uploaded images for products?
 
-Csak a moderátorok távolíthatnak el fotókat a vandalizmus elkerülése érdekében.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Csak kérdezz a Slacken vagy a **contact@openfoodfacts.org** címen, hogy eltávolíthassuk a másolatokat vagy a nem megfelelő fotókat (próbáld meg megadni a vonalkód számát vagy URL-címét).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Új képjelentés API-t is kínálunk programozóknak.
-
----
-
-## Tervező vagyok. Hogyan segíthetek?
-
-Minden tervezéssel kapcsolatos tevékenységünket a [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) oldalon és egy erre a célra létrehozott csevegőcsatornán koordináljuk. Rendszeresen tartunk csapatmegbeszéléseket és ötleteléseket konkrét kihívásokról.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Bizonyos esetekben ugyanazon termék tápértéke országonként eltérő lehet. Hogyan kezeli ezt az Open Food Facts?
+## I'm a designer. How can I help ?
 
-Az esetek 99%-ában a gyártók különböző vonalkódokat hoznak létre termékeik különböző verzióihoz. Egy híres példa erre a francia és a német Nutella vastagságbeli különbsége, ami az országok közötti kenyerek eltérő minőségének köszönhető. 2 különböző formula, 2 különböző vonalkód.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Vonalkódütközés azonban előfordulhat rövidebb kódok (EAN-8) esetén, amelyeket jellemzően újra használnak egyes európai és amerikai üzletekben. Jelenleg nem kezeljük ezeket a vonalkód-ütközéseket, de a felhasználó hozzávetőleges tartózkodási helyének lekérésével megoldhatónak kellene lennie (még ritkábbak az országon belüli vonalkód-ütközések).
+---
 
-Hosszú távon arra ösztönözzük a gyártókat, hogy térjenek át az EAN-13 szabványra a vonalkód-ütközések elkerülése érdekében.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
