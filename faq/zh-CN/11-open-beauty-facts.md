@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} 打开美容秘诀"
-description: "4个问题"
-lang: 英语-英国
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
+lang: en-gb
 order: 11
 category-level: 0
-icon: 标签
+icon: tags
 ---
 
-{{< fa "标签" size=3倍 >}}
+{{< fa "tags" size=3x >}}
 
-## Open Beauty Facts 是否有分析实验室？
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -29,23 +29,23 @@ can join the Facebook group of contributors:
 
 ---
 
-## 如何将我的产品导入Open Beauty Facts？
+## How do I import my products into Open Beauty Facts?
 
-请联系 producteurs@openfoodfacts.org 或直接访问
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org)，然后联系 \*\*producteurs@openfoodfacts.org \*\* 以进行特殊出口
-
----
-
-## 我可以在哪里下载Open Beauty Facts的数据？
-
-/data 页面目前无法正常访问。 您可以从以下链接下载数据：[https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## 在哪里可以找到 Open Beauty Facts API 和数据导出功能？
+## Where can I download Open Beauty Facts data?
 
-Open Food Facts API 与 Open Beauty Facts API 有 98% 的相似度，因此，如果您使用 Open Food Facts API 文档，您应该对 Open Beauty Facts API 有一个相当清晰的了解。
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
