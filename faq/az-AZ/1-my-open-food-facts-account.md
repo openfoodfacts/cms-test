@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Açıq Qida Faktları hesabım"
-description: "2 sual"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: istifadəçi dairəsi
+icon: user-circle
 ---
 
-{{< fa "istifadəçi dairəsi" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Hesabımı silmək istəyirəm
+## I want to delete my account
 
-Hesabın silinməsi artıq birbaşa seçimlərinizdə baş verir.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) səhifəsinə daxil olduqdan sonra yuxarı sağ küncdəki istifadəçi adını klikləyin və Hesab Parametrləri bölməsini seçin. Bu, seçimlər səhifənizi açır. Səhifənin alt hissəsinə keçin və "istifadəçini sil" əməliyyatından istifadə edin.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Əgər daxil ola bilmirsinizsə (və ya şifrənizi sıfırlaya bilmirsinizsə), zəhmət olmasa, hesabınızı qeydiyyatdan keçirmək üçün istifadə etdiyiniz e-poçt ünvanından istifadə edərək dpo ilə [openfoodfacts.org](http://openfoodfacts.org) ünvanı vasitəsilə əlaqə saxlayın.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
