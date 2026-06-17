@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} מאָביל אַפּ"
-description: "4 פֿראַגעס"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: מאָביל
+icon: mobile
 ---
 
-{{< fa "מאָביל" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## ווי אזוי ווייס איך וועלכע ווערסיע פון דער אפליקאציע איך ניץ?
+## How do I know which version of the app I'm using?
 
-גיי צו **פּראָפיל**,
-דערנאָך **FAQ**, דערנאָך **וועגן דעם אַפּ.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-איר זאָלט
-זען אַ ווערסיע נומער ווי 3.4.5+662. פארגעסט נישט צו זאגן אונז די מאַרקע און מאָדעל
-פון דעם טעלעפאָן אויב עס דיבאַגינג.
-
----
-
-## די אַפּ סקענט נישט
-
-דאָס קען זײַן צוליב
-
-- אַ נעץ פּראָבלעם
-
-- אַ פּראָבלעם מיט פּערמישאַנז
-
-- אַ באַרקאָד פּראָבלעם
-
-שיקט אונדז אַן אימעיל דורך פּראָפיל >> קאָנטאַקט אונדז >> שיקט אונדז אַן אימעיל.
-
-אַלע באַטייַטיקע אינפֿאָרמאַציע זאָל זיין אַטאַטשט צו אייער בקשה.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## ווי קען איך העלפֿן מיטן פֿאַרבעסערן די מאָביל אַפּ?
+## The app does not scan
 
-ווי קען איך העלפֿן מיטן פֿאַרבעסערן די מאָביל אַפּ?
+This may be due to
 
-איר קענט [טאָן דאָס אויף די מאָביל אַפּ ריפּאַזאַטאָרי](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## וואו קען איך שיקן באַמערקונגען וועגן דער אַפּ?
+## How can I help with improving the mobile app ?
 
-איר קענט שיקן באַמערקונגען צו mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
