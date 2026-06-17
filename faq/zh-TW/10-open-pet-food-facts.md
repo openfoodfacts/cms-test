@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} 打開寵物食品訊息"
-description: "2 個問題"
-lang: 英語-英國
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: 爪子
+icon: paw
 ---
 
-{{< fa "爪子" size=3倍 >}}
+{{< fa "paw" size=3x >}}
 
-## 為什麼沒有針對動物的營養評分體系？
+## Why is there no Nutri-Score for animals?
 
-每種動物的情況都不一樣（蛇的營養需求與貓或狗不同）。
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-即使是同一種動物，例如狗，其營養需求也會因久坐不動的生活方式、是否閹割或疾病而有所不同。
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-因此，要計算動物飼料的評分，需要數十名研究人員的參與和數十種不同演算法的創建，而這至今還沒有人做到。
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
