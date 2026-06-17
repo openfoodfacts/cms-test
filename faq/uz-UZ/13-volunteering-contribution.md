@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Ko'ngillilik / Hissa qo'shish"
-description: "3 ta savol"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: tahrirlash
 
 {{< fa "tahrirlash" size=3x >}}
 
-## Mahsulotlar uchun yuklangan rasmlarni olib tashlashning bir yo'li bormi?
+## Is there a way to remove uploaded images for products?
 
-Vandalizmning oldini olish uchun faqat moderatorlar fotosuratlarni o'chirishi mumkin.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Dublikatlaringizni yoki noo'rin fotosuratlaringizni olib tashlash uchun Slack’da yoki **contact@openfoodfacts.org** manzilida so'rang (shtrix-kod raqamini yoki URL manzilini ko'rsatishga harakat qilishingiz kerak).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Agar siz dasturchi bo'lsangiz, bizda yangi tasvir hisoboti API ham mavjud.
-
----
-
-## Men dizaynerman. Qanday yordam bera olaman?
-
-Biz dizayn bilan bog'liq barcha faoliyatlarni [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) saytida va maxsus chat kanalida muvofiqlashtiramiz. Biz muntazam ravishda jamoaviy uchrashuvlar va muayyan vazifalar bo'yicha fikr almashishlar o'tkazamiz.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Ba'zi hollarda, bir xil mahsulot har bir mamlakat uchun turli xil ozuqaviy qiymatlarga ega bo'lishi mumkin, bu Ochiq Oziq-ovqat Faktlarida qanday ko'rib chiqiladi?
+## I'm a designer. How can I help ?
 
-Vaqtning 99% hollarda, ishlab chiqaruvchilar o'z mahsulotlarining turli versiyalari uchun turli xil shtrix-kodlarni yaratadilar. Mashhur misol sifatida, turli mamlakatlardagi non miqdoridagi farq tufayli, fransuz va nemis Nutellalari o'rtasidagi qalinlik jihatidan farqni keltirish mumkin. 2 xil formula, 2 xil shtrixkod.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Biroq, shtrix-kod to'qnashuvi odatda Yevropa va AQShdagi ba'zi do'konlar tomonidan qayta ishlatiladigan qisqaroq kodlarda (EAN-8) sodir bo'lishi mumkin. Hozirda biz shtrix-kod to'qnashuvlarini hal qilmayapmiz, lekin buni foydalanuvchining umumiy joylashuvini olish orqali amalga oshirish mumkin bo'lishi kerak (mamlakat ichida shtrix-kod to'qnashuvlari yanada kam uchraydi).
+---
 
-Uzoq muddatda biz ishlab chiqaruvchilarni shtrix-kod to'qnashuvlarining oldini olish uchun EAN-13 ga o'tishga undaymiz.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
