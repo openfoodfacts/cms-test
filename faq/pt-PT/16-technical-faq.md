@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Perguntas frequentes técnicas"
-description: "1 pergunta"
-lang: pt-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: marcas github
+icon: brands github
 ---
 
 {{< fa "marcas" "github" size=3x >}}
 
-## Devo atualizar todos os ficheiros de idioma quando altero uma string de origem?
+## Should I update all language files when I change a source string?
 
-Não, não precisa. Só precisa de atualizar a versão em inglês.
+No you don't. You just need to update the English one
 
-- Crie o seu RP
+- Create your PR
 
-Assim que a integração estiver concluída, faremos o rebase do crowdin-trigger manualmente e o sistema de tradução do Crowdin, acionado pelo GitHub Actions, tratará do restante para os outros idiomas.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-O bot do GitHub cria então um novo PR automaticamente, que depois revemos.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
