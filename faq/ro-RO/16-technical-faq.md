@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Întrebări frecvente tehnice"
-description: "1 întrebare"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: mărci github
+icon: brands github
 ---
 
-{{< fa "marci" "GitHub" size="de 3 ori" >}}
+{{< fa "marci" "github" size=3x >}}
 
-## Ar trebui să actualizez toate fișierele de limbă când modific un șir sursă?
+## Should I update all language files when I change a source string?
 
-Nu, nu trebuie. Trebuie doar să o actualizezi pe cea în limba engleză.
+No you don't. You just need to update the English one
 
-- Creează-ți propria PR
+- Create your PR
 
-Odată ce este fuzionat, vom reface manual baza crowdin-trigger, iar sistemul de traducere Crowdin declanșat de GitHub Actions va face restul pentru celelalte limbi.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Botul GitHub creează apoi automat un nou PR pe care îl revizuim.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
