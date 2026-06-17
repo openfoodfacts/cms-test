@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} প্রযুক্তিগত প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী"
-description: "১টি প্রশ্ন"
-lang: en-gb সম্পর্কে
-order: ১৬
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: ব্র্যান্ড গিথুব
+icon: brands github
 ---
 
-{{< fa "মার্কা গুলো" "গিথুব" size="3x এর বিবরণ" >}}
+{{< fa "মার্কা গুলো" "github" size=3x >}}
 
-## সোর্স স্ট্রিং পরিবর্তন করার সময় কি আমার সব ভাষার ফাইল আপডেট করা উচিত?
+## Should I update all language files when I change a source string?
 
-না, তুমি করবে না। তোমাকে শুধু ইংরেজিটা আপডেট করতে হবে।
+No you don't. You just need to update the English one
 
-- আপনার জনসংযোগ তৈরি করুন
+- Create your PR
 
-একবার এটি মার্জ হয়ে গেলে, আমরা ক্রাউডিন-ট্রিগারকে ম্যানুয়ালি রিবেস করব এবং GitHub Actions দ্বারা ট্রিগার করা ক্রাউডিন অনুবাদ সিস্টেম অন্যান্য ভাষার জন্য বাকি কাজ করবে।
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-এরপর GitHub বট স্বয়ংক্রিয়ভাবে একটি নতুন PR তৈরি করে যা আমরা পর্যালোচনা করি।
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
