@@ -1,21 +1,21 @@
 ---
-title: "{{< fa bogolo jwa sediko sa modirisi=2x >}} Akhaonto ya me ya Dintlha tsa Dijo tse di Buletsweng"
-description: "Dipotso di le 2"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: sediko sa modirisi
+icon: user-circle
 ---
 
-{{< fa "sediko sa modirisi" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ke batla go phimola akhaonto ya me
+## I want to delete my account
 
-Go phimola akhaonto jaanong go diragala ka tlhamalalo mo ditlhophong tsa gago.
+Account deletion now happens directly in your preferences.
 
-Morago ga go tsena mo [https://world.openfoodfacts.org/](https://lefatshe.openfoodfacts.org/), tobetsa mo leineng la modirisi mo sekhutlong se se kwa godimo sa moja, tlhopha Dipharametara tsa Akhaonto. E bula tsebe ya ditlhopho tsa gago. Eya kwa tlase ga tsebe mme o dirise tiro ya "phimola modirisi".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Fa o sa kgone go tsena (kgotsa go seta sešwa nomoro ya gago ya sephiri), tsweetswee ikgolaganye le dpo - kwa - [openfoodfacts.org](http://openfoodfacts.org), o dirisa aterese ya imeile e o e dirisang go kwadisa akhaonto.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
