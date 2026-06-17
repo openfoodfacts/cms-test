@@ -1,52 +1,52 @@
 ---
-title: "{{< mobilna velikost fa=2x >}} Mobilna aplikacija"
-description: "4 vprašanja"
-lang: sl-gb
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: mobilni telefon
+icon: mobile
 ---
 
-{{< fa "mobilni telefon" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Kako vem, katero različico aplikacije uporabljam?
+## How do I know which version of the app I'm using?
 
-Pojdite na **Profil**,
-, nato **Pogosta vprašanja** in nato **O tej aplikaciji**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Videti bi morali
-številko različice, kot je 3.4.5+662. Ne pozabite nam povedati znamke in modela
-telefona, če gre za odpravljanje napak.
-
----
-
-## Aplikacija ne skenira
-
-To je lahko posledica
-
-- težava z omrežjem
-
-- težava z dovoljenji
-
-- težava s črtno kodo
-
-Pošljite nam e-pošto prek profila >> Kontaktirajte nas >> Pošljite nam e-pošto.
-
-Vse ustrezne informacije je treba priložiti vaši zahtevi.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Kako lahko pomagam pri izboljšanju mobilne aplikacije?
+## The app does not scan
 
-Kako lahko pomagam pri izboljšanju mobilne aplikacije?
+This may be due to
 
-To lahko [storite v repozitoriju mobilnih aplikacij](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Kam lahko pošljem povratne informacije o aplikaciji?
+## How can I help with improving the mobile app ?
 
-Povratne informacije lahko pošljete na mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
