@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ne ka dumuni dafalenw jatebɔsɛbɛn"
-description: "2 ɲininkaliw"
-lang: bamanankan-gb
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: baarakɛla-sɛrɛkili
+icon: user-circle
 ---
 
-{{< fa "baarakɛla-sɛrɛkili" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## N b’a fɛ ka n ka jatebɔsɛbɛn bɔ yen
+## I want to delete my account
 
-Jatebɔsɛbɛn bɔli bɛ kɛ sisan i ka fɛɛrɛw la k’a ɲɛsin i yɛrɛ ma.
+Account deletion now happens directly in your preferences.
 
-Don kɔfɛ [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) kan, i ka baarakɛla tɔgɔ digi sanfɛ kininbolo fɛ, i ka Account Parameters sugandi. A bɛ i ka fɛɛrɛw ɲɛ da wuli. Taga ɲɛ jukɔrɔ ka baara kɛ ni "delete user" wale ye.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ni i ma se ka don (walima ka i ka tɔgɔlasɛbɛn labɛn kokura), i bɛ se ka dpo - at - [openfoodfacts.org](http://openfoodfacts.org), i bɛ baara kɛ ni imayili ladɛrɛsi ye i bɛ baara kɛ ni min ye walasa ka jatebɔsɛbɛn tɔgɔ sɛbɛn.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
