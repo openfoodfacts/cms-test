@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Fy nghyfrif Open Food Facts"
-description: "2 gwestiwn"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: cylch-defnyddiwr
+icon: user-circle
 ---
 
-{{< fa "cylch-defnyddiwr" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Rwyf am ddileu fy nghyfrif
+## I want to delete my account
 
-Mae dileu cyfrif bellach yn digwydd yn uniongyrchol yn eich dewisiadau.
+Account deletion now happens directly in your preferences.
 
-Ar ôl mewngofnodi i [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), cliciwch ar enw defnyddiwr yn y gornel dde uchaf, dewiswch Paramedrau'r Cyfrif. Mae'n agor eich tudalen dewisiadau. Ewch i waelod y dudalen a defnyddiwch y weithred "dileu defnyddiwr".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Os na allwch fewngofnodi (neu ailosod eich cyfrinair), cysylltwch â dpo - yn - [openfoodfacts.org](http://openfoodfacts.org), gan ddefnyddio'r cyfeiriad e-bost a ddefnyddiwch i gofrestru cyfrif.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
