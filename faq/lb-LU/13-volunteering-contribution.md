@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Fräiwëllegen Asaz / Bäitrag"
-description: "3 Froen"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: Beaarbechten
 
 {{< fa "Beaarbechten" size=3x >}}
 
-## Gëtt et eng Méiglechkeet fir eropgeluede Biller vu Produkter ze läschen?
+## Is there a way to remove uploaded images for products?
 
-Nëmme Moderatore kënnen Fotoen ewechhuelen, fir potenziell Vandalismus ze vermeiden.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Frot einfach op Slack oder op **contact@openfoodfacts.org** fir Är Duplikater oder all onpassend Fotoen ze läschen (Dir sollt probéieren d'Barcode-Nummer oder d'URL dofir unzeginn).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Mir hunn och eng nei Bildbericht-API, wann Dir e Programméierer sidd.
-
----
-
-## Ech sinn Designer. Wéi kann ech hëllefen?
-
-Mir koordinéieren all Aktivitéiten am Zesummenhang mam Design op [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) an op engem speziellen Chatkanal. Mir hale reegelméisseg Teamsëtzungen a Brainjams zu spezifeschen Erausfuerderungen.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## A verschiddene Fäll kann dat selwecht Produkt fir all Land ënnerschiddlech Ernärungswäerter hunn, wéi gëtt dat an Open Food Facts behandelt?
+## I'm a designer. How can I help ?
 
-An 99% vun de Fäll erstellen d'Produzenten ënnerschiddlech Barcoden fir ënnerschiddlech Versioune vun hire Produkter. E bekannt Beispill ass den Ënnerscheed tëscht franséischer an däitscher Nutella wat d'Déckt ugeet, wéinst den Ënnerscheeder am Brout tëscht de Länner. 2 verschidde Formelen, 2 verschidde Barcoden.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Barcode-Konflikte kënnen awer bei méi kuerze Coden (EAN-8) optrieden, déi typescherweis vu verschiddene Geschäfter an Europa an den USA nei benotzt ginn. Mir behandelen dës Barcode-Konflikter de Moment net, awer et sollt machbar sinn, andeems mir déi allgemeng Positioun vum Benotzer kréien (et ass nach méi rar, datt et Barcode-Konflikter bannent engem Land gëtt).
+---
 
-Laangfristeg encouragéiere mir d'Produzenten, op EAN-13 ëmzestellen, fir dës Barcode-Konflikter ze vermeiden.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
