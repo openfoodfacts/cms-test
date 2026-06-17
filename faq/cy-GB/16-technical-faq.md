@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Cwestiynau Cyffredin Technegol"
-description: "1 cwestiwn"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: brandiau github
+icon: brands github
 ---
 
 {{< fa "brandiau" "github" size=3x >}}
 
-## A ddylwn i ddiweddaru pob ffeil iaith pan fyddaf yn newid llinyn ffynhonnell?
+## Should I update all language files when I change a source string?
 
-Na, dydych chi ddim. Dim ond angen i chi ddiweddaru'r un Saesneg.
+No you don't. You just need to update the English one
 
-- Creu eich cysylltiadau cyhoeddus
+- Create your PR
 
-Unwaith y bydd wedi'i uno, byddwn yn ail-sylfaenu crowdin-trigger â llaw a bydd system gyfieithu Crowdin a sbardunir gan GitHub Actions yn gwneud y gweddill ar gyfer ieithoedd eraill.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Yna mae bot GitHub yn creu PR newydd yn awtomatig yr ydym yn ei adolygu wedyn.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
