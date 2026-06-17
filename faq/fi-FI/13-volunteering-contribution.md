@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Vapaaehtoistyö / Lahjoitus"
-description: "3 kysymystä"
-lang: fi-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: muokkaa
 ---
 
-{{< fa "muokkaa" size="3 kertaa" >}}
+{{< fa "muokkaa" size=3x >}}
 
-## Onko olemassa tapa poistaa tuotteisiin ladattuja kuvia?
+## Is there a way to remove uploaded images for products?
 
-Vain moderaattorit voivat poistaa kuvia ilkivallan välttämiseksi.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Pyydä Slackissa tai sähköpostitse osoitteeseen **contact@openfoodfacts.org** poistaaksesi kaksoiskuvat tai sopimattomat kuvat (yritä antaa viivakoodin numero tai URL-osoite).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Meillä on myös uusi kuvaraportointirajapinta ohjelmoijille.
-
----
-
-## Olen suunnittelija. Kuinka voin auttaa?
-
-Koordinoimme kaikkea suunnitteluun liittyvää toimintaa [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) -sivustolla ja omalla chat-kanavalla. Pidämme säännöllisesti tiimikokouksia ja ideointipalavereita erityisistä haasteista.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Joissakin tapauksissa samalla tuotteella voi olla eri ravintoarvot eri maissa. Miten tämä käsitellään Open Food Factsissa?
+## I'm a designer. How can I help ?
 
-99 % ajasta tuottajat luovat eri viivakoodeja tuotteidensa eri versioille. Kuuluisa esimerkki on ranskalaisen ja saksalaisen Nutellan paksuuden ero, joka johtuu leipien eroista eri maissa. Kaksi erilaista kaavaa, kaksi erilaista viivakoodia.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Viivakoodien yhteentörmäyksiä voi kuitenkin esiintyä lyhyempien koodien (EAN-8) kanssa, joita tyypillisesti käytetään uudelleen joissakin kaupoissa Euroopassa ja Yhdysvalloissa. Emme tällä hetkellä käsittele näitä viivakoodien törmäyksiä, mutta sen pitäisi olla mahdollista tehdä hankkimalla käyttäjän summittainen sijainti (viivakoodien törmäykset saman maan sisällä ovat vielä harvinaisempia).
+---
 
-Pitkällä aikavälillä kannustamme tuottajia siirtymään EAN-13-koodijärjestelmään viivakoodien yhteentörmäysten välttämiseksi.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
