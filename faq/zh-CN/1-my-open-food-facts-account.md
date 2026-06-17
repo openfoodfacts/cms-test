@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} 我的 Open Food Facts 帐户"
-description: "2 个问题"
-lang: 英语-英国
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: 用户圈
+icon: user-circle
 ---
 
-{{< fa "用户圈" size=3倍 >}}
+{{< fa "user-circle" size=3x >}}
 
-## 我想删除我的账户
+## I want to delete my account
 
-现在可以直接在您的设置中删除帐户。
+Account deletion now happens directly in your preferences.
 
-登录 [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) 后，点击右上角的用户名，选择帐户参数。 它会打开您的偏好设置页面。 转到页面底部，使用“删除用户”操作。
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-如果您无法登录（或重置密码），请使用您注册帐户时使用的电子邮件地址联系 dpo - at - [openfoodfacts.org](http://openfoodfacts.org)。
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
