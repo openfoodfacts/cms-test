@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Bayanin Abincin Dabbobi Buɗe"
-description: "Tambayoyi 2"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: tafin hannu
+icon: paw
 ---
 
-{{< fa "tafin hannu" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Me yasa babu Nutri-Score ga dabbobi?
+## Why is there no Nutri-Score for animals?
 
-Kowace dabba ta bambanta (maciji ba shi da irin buƙatun abinci mai gina jiki kamar kyanwa ko kare)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ko da a cikin irin wannan dabba kamar karnuka, buƙatun abinci mai gina jiki sun bambanta dangane da rayuwar mutum mai zaman gida, ko kuma yiwuwar kamuwa da cuta.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Saboda haka yana da wahala a ƙididdige maki don abincin dabbobi ba tare da haɗa masu bincike da dama ba tare da ƙirƙirar dozin algorithms daban-daban, wanda har yanzu ba a yi ba.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
