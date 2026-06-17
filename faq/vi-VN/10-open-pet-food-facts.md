@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Thông tin về thức ăn cho thú cưng"
-description: "2 câu hỏi"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: bàn chân
+icon: paw
 ---
 
-{{< fa "bàn chân" size="3 lần" >}}
+{{< fa "paw" size=3x >}}
 
-## Tại sao không có chỉ số Nutri-Score dành cho động vật?
+## Why is there no Nutri-Score for animals?
 
-Mỗi loài động vật đều khác nhau (rắn không có nhu cầu dinh dưỡng giống như mèo hoặc chó).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ngay cả trong cùng một loài động vật như chó, nhu cầu dinh dưỡng cũng khác nhau tùy thuộc vào lối sống ít vận động, việc thiến hoạn hoặc bệnh tật.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Do đó, việc tính điểm cho thức ăn chăn nuôi rất phức tạp nếu không có sự tham gia của hàng chục nhà nghiên cứu và việc tạo ra hàng chục thuật toán khác nhau, điều mà cho đến nay vẫn chưa được thực hiện.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
