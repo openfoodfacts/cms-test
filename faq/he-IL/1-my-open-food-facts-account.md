@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} חשבון Open Food Facts שלי"
-description: "2 שאלות"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: מעגל משתמשים
+icon: user-circle
 ---
 
-{{< fa "מעגל משתמשים" size="פי 3" >}}
+{{< fa "user-circle" size=3x >}}
 
-## אני רוצה למחוק את החשבון שלי
+## I want to delete my account
 
-מחיקת חשבון מתבצעת כעת ישירות בהעדפות שלך.
+Account deletion now happens directly in your preferences.
 
-לאחר הכניסה ל-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), לחצו על שם המשתמש בפינה הימנית העליונה, בחרו "פרמטרי חשבון". זה פותח את דף ההעדפות שלך. עבור לתחתית העמוד והשתמש בפעולה "מחק משתמש".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-אם אינך מצליח להתחבר (או לאפס את הסיסמה שלך), אנא צור קשר עם משרד התפוצה (dpo) בכתובת [openfoodfacts.org](http://openfoodfacts.org), באמצעות כתובת הדוא"ל בה השתמשת ליצירת חשבון.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
