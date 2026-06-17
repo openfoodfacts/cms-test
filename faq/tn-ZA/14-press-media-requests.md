@@ -1,18 +1,18 @@
 ---
-title: "{{< fa bogolo jwa lekwalodikgang=2x >}} Dikopo tsa Bobegadikgang le Bobegakgang"
-description: "potso e le 1"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: lekwalodikgang
+icon: newspaper
 ---
 
-{{< fa "lekwalodikgang" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Nka bona jang ditshwantsho tsa bobegadikgang ka ga Dintlha tsa Dijo tse di Buletsweng?
+## How can I get press visuals on Open Food Facts?
 
-Tsweetswee ikgolaganye le : tobetsa@dintlha tsa dijo tse di bulegileng.org
-[https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.dintlha tsa dijo tse di bulegileng.org/tn/kgololo-ya-bobegadikgang-tiriso-e-ntšha-ya-selulafouno)
+Please contact : presse@openfoodfacts.org
+[https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
 
