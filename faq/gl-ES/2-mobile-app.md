@@ -1,52 +1,52 @@
 ---
-title: "{{< tamaño móbil fa=2x >}} Aplicación móbil"
-description: "4 preguntas"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: móbil
+icon: mobile
 ---
 
-{{< fa "móbil" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Como sei que versión da aplicación estou a usar?
+## How do I know which version of the app I'm using?
 
-Vai a **Perfil**,
-despois **Preguntas frecuentes** e despois **Acerca desta aplicación**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Deberías
-ver un número de versión como 3.4.5+662. Non esquezas indicarnos a marca e o modelo
-do teléfono se está a depurar.
-
----
-
-## A aplicación non escanea
-
-Isto pode deberse a
-
-- un problema de rede
-
-- un problema de permisos
-
-- un problema de código de barras
-
-Envíanos un correo electrónico a través do Perfil >> Contacta connosco >> Envíanos un correo electrónico.
-
-Toda a información relevante debe ir adxunta á súa solicitude.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Como podo axudar a mellorar a aplicación móbil?
+## The app does not scan
 
-Como podo axudar a mellorar a aplicación móbil?
+This may be due to
 
-Podes facelo no repositorio da aplicación móbil](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Onde podo enviar comentarios sobre a aplicación?
+## How can I help with improving the mobile app ?
 
-Podes enviar os teus comentarios a mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
