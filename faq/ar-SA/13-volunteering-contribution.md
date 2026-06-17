@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} التطوع / المساهمة"
-description: "ثلاثة أسئلة"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: تحرير
 
 {{< fa "تحرير" size=3x >}}
 
-## هل توجد طريقة لإزالة الصور التي تم تحميلها للمنتجات؟
+## Is there a way to remove uploaded images for products?
 
-لا يمكن إزالة الصور إلا من قبل المشرفين، وذلك لتجنب التخريب المحتمل.
+Only moderators can remove photos, to avoid potential vandalism.
 
-ما عليك سوى السؤال على Slack أو على **contact@openfoodfacts.org** لإزالة النسخ المكررة أو أي صور غير لائقة (يجب أن تحاول تقديم رقم الباركود أو عنوان URL لذلك).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-لدينا أيضًا واجهة برمجة تطبيقات جديدة لتقارير الصور إذا كنت مبرمجًا.
-
----
-
-## أنا مصمم. كيف يمكنني المساعدة؟
-
-نقوم بتنسيق جميع الأنشطة المتعلقة بالتصميم على [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) وعلى قناة دردشة مخصصة. نعقد بانتظام اجتماعات الفريق وجلسات العصف الذهني حول تحديات محددة.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## في بعض الحالات، قد يكون للمنتج نفسه قيم غذائية مختلفة لكل بلد، فكيف يتم التعامل مع هذا الأمر في Open Food Facts؟
+## I'm a designer. How can I help ?
 
-في 99% من الحالات، يقوم المنتجون بإنشاء رموز شريطية مختلفة لإصدارات مختلفة من منتجاتهم. ومن الأمثلة الشهيرة على ذلك الفرق بين نوتيلا الفرنسية والألمانية من حيث السماكة، وذلك بسبب اختلاف أنواع الخبز بين البلدان. صيغتان مختلفتان، ورمزان شريطيان مختلفان.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-لكن يمكن أن يحدث تضارب في الرموز الشريطية على الرموز الأقصر (EAN-8) التي عادة ما يتم إعادة استخدامها من قبل بعض المتاجر في جميع أنحاء أوروبا والولايات المتحدة. لا نقوم حاليًا بمعالجة تعارضات الرموز الشريطية هذه، ولكن ينبغي أن يكون من الممكن القيام بذلك من خلال الحصول على الموقع العام للمستخدم (من النادر جدًا حدوث تعارضات في الرموز الشريطية داخل بلد واحد).
+---
 
-على المدى الطويل، نشجع المنتجين على الانتقال إلى EAN-13 لتجنب تعارضات الرموز الشريطية هذه.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
