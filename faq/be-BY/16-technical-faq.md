@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Тэхнічныя пытанні і адказы"
-description: "1 пытанне"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: брэнды github
+icon: brands github
 ---
 
-{{< fa "брэнды" "гітхаб" size="3 разы" >}}
+{{< fa "брэнды" "github" size=3x >}}
 
-## Ці варта абнаўляць усе моўныя файлы пры змене зыходнага радка?
+## Should I update all language files when I change a source string?
 
-Не, не трэба. Вам проста трэба абнавіць англійскую версію
+No you don't. You just need to update the English one
 
-- Стварыце свой піяр
+- Create your PR
 
-Пасля аб'яднання мы ўручную перабазуем crowdin-trigger, а сістэма перакладу Crowdin, якая запускаецца з дапамогай GitHub Actions, зробіць астатняе для іншых моў.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Затым бот GitHub аўтаматычна стварае новы PR, які мы потым разглядаем.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
