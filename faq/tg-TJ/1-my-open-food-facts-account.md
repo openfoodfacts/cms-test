@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ҳисоби ман дар бораи далелҳои хӯрокворӣ кушода аст"
-description: "2 савол"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: доираи корбарон
+icon: user-circle
 ---
 
-{{< fa "доираи корбарон" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ман мехоҳам ҳисоби худро нест кунам
+## I want to delete my account
 
-Нест кардани ҳисоб акнун мустақиман дар танзимоти шумо сурат мегирад.
+Account deletion now happens directly in your preferences.
 
-Пас аз ворид шудан ба [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), номи корбарро дар кунҷи рости боло клик кунед ва Параметрҳои ҳисобро интихоб кунед. Он саҳифаи афзалиятҳои шуморо мекушояд. Ба поёни саҳифа равед ва аз амали "нест кардани корбар" истифода баред.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Агар шумо натавонед ворид шавед (ё пароли худро аз нав танзим кунед), лутфан бо dpo - тавассути - [openfoodfacts.org](http://openfoodfacts.org) бо истифода аз суроғаи почтаи электроние, ки барои сабти ном кардани ҳисоб истифода мебаред, тамос гиред.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
