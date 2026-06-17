@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} मोबाईल अॅप"
-description: "४ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: मोबाईल
+icon: mobile
 ---
 
-{{< fa "मोबाईल" size=३x >}}
+{{< fa "mobile" size=3x >}}
 
-## मी अ‍ॅपची कोणती आवृत्ती वापरत आहे हे मला कसे कळेल?
+## How do I know which version of the app I'm using?
 
-**प्रोफाइल** वर जा,
-नंतर **FAQ**, नंतर **या अॅपबद्दल**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-तुम्हाला
-३.४.५+६६२ सारखा आवृत्ती क्रमांक दिसला पाहिजे. जर फोन डीबग होत असेल तर त्याचा मेक आणि मॉडेल
-आम्हाला सांगायला विसरू नका.
-
----
-
-## अ‍ॅप स्कॅन होत नाही.
-
-हे कदाचित यामुळे असू शकते
-
-- नेटवर्क समस्या
-
-- परवानग्यांमधील समस्या
-
-- बारकोड समस्या
-
-प्रोफाइल >> आमच्याशी संपर्क साधा >> आम्हाला ईमेल पाठवा द्वारे आम्हाला ईमेल पाठवा.
-
-तुमच्या विनंतीसोबत सर्व संबंधित माहिती जोडली पाहिजे.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## मोबाईल अॅप सुधारण्यासाठी मी कशी मदत करू शकतो?
+## The app does not scan
 
-मोबाईल अॅप सुधारण्यासाठी मी कशी मदत करू शकतो?
+This may be due to
 
-तुम्ही [मोबाइल अ‍ॅप रिपॉझिटरीमध्ये असे करू शकता](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## मी अॅपबद्दल अभिप्राय कुठे पाठवू शकतो?
+## How can I help with improving the mobile app ?
 
-तुम्ही mobile@openfoodfacts.org वर अभिप्राय पाठवू शकता.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
