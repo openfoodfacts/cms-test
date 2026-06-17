@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Brīvprātīgais darbs / ieguldījums"
-description: "3 jautājumi"
-lang: lv-lv
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: rediģēt
@@ -9,29 +9,29 @@ icon: rediģēt
 
 {{< fa "rediģēt" size=3x >}}
 
-## Vai ir kāds veids, kā noņemt augšupielādētos produktu attēlus?
+## Is there a way to remove uploaded images for products?
 
-Tikai moderatori var noņemt fotoattēlus, lai novērstu iespējamu vandālismu.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Vienkārši jautājiet pakalpojumā Slack vai pa e-pastu **contact@openfoodfacts.org**, lai noņemtu dublikātus vai nepiemērotus fotoattēlus (mēģiniet norādīt svītrkoda numuru vai URL).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Mums ir arī jauna attēlu pārskatu API, ja esat programmētājs.
-
----
-
-## Esmu dizainers. Kā es varu palīdzēt?
-
-Visas ar dizainu saistītās aktivitātes mēs koordinējam vietnē [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) un īpašā tērzēšanas kanālā. Mēs regulāri rīkojam komandas sanāksmes un prāta sesijas par konkrētiem izaicinājumiem.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Dažos gadījumos vienam un tam pašam produktam katrā valstī var būt atšķirīgas uzturvērtības, kā tas tiek risināts Open Food Facts platformā?
+## I'm a designer. How can I help ?
 
-99% gadījumu ražotāji dažādām savu produktu versijām izveidos atšķirīgus svītrkodus. Slavens piemērs ir atšķirība starp franču un vācu Nutella biezumu, ko izraisa maizes atšķirības dažādās valstīs. 2 dažādas formulas, 2 dažādi svītrkodi.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Tomēr svītrkodu sadursmes var rasties, izmantojot īsākus kodus (EAN-8), kurus parasti atkārtoti izmanto daži veikali visā Eiropā un ASV. Pašlaik mēs neapstrādājam šīs svītrkodu sadursmes, bet tam vajadzētu būt iespējamam, iegūstot lietotāja vispārīgo atrašanās vietu (svītrkodu sadursmes vienas valsts ietvaros ir vēl retāk sastopamas).
+---
 
-Ilgtermiņā mēs mudinām ražotājus pāriet uz EAN-13, lai izvairītos no šīm svītrkodu sadursmēm.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
