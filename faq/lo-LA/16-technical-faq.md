@@ -1,23 +1,23 @@
 ---
-title: "ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆທາງດ້ານເຕັກນິກ {{< fa brands github size=2x >}}"
-description: "1 ຄຳຖາມ"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: ຍີ່ຫໍ້ GitHub
+icon: brands github
 ---
 
-{{< fa "brands" "ຈິທັບ" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## ຂ້ອຍຄວນອັບເດດໄຟລ໌ພາສາທັງໝົດເມື່ອຂ້ອຍປ່ຽນສະຕຣິງແຫຼ່ງຂໍ້ມູນບໍ?
+## Should I update all language files when I change a source string?
 
-ບໍ່ເຈົ້າບໍ່ເຮັດ. ເຈົ້າພຽງແຕ່ຕ້ອງອັບເດດພາສາອັງກິດເທົ່ານັ້ນ
+No you don't. You just need to update the English one
 
-- ສ້າງ PR ຂອງທ່ານ
+- Create your PR
 
-ເມື່ອມັນຖືກລວມເຂົ້າກັນແລ້ວ, ພວກເຮົາຈະປ່ຽນ crowdin-trigger ດ້ວຍຕົນເອງ ແລະ ລະບົບການແປພາສາ Crowdin ທີ່ຖືກກະຕຸ້ນໂດຍ GitHub Actions ຈະເຮັດສ່ວນທີ່ເຫຼືອສຳລັບພາສາອື່ນໆ.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-ຫຼັງຈາກນັ້ນ, bot GitHub ຈະສ້າງ PR ໃໝ່ໂດຍອັດຕະໂນມັດ ເຊິ່ງພວກເຮົາຈະກວດສອບຄືນໃໝ່.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
