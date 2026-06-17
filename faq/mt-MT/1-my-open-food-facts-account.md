@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Il-kont Open Food Facts tiegħi"
-description: "2 mistoqsijiet"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: ċirku tal-utent
+icon: user-circle
 ---
 
-{{< fa "ċirku tal-utent" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Irrid inħassar il-kont tiegħi
+## I want to delete my account
 
-It-tħassir tal-kont issa jseħħ direttament fil-preferenzi tiegħek.
+Account deletion now happens directly in your preferences.
 
-Wara li tidħol fuq [[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), ikklikkja fuq l-isem tal-utent fir-rokna ta' fuq tal-lemin, agħżel Account Parameters. Jiftaħ il-paġna tal-preferenzi tiegħek. Mur fil-qiegħ tal-paġna u uża l-azzjoni "ħassar l-utent".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Jekk ma tistax tidħol (jew tirrisettja l-password tiegħek), jekk jogħġbok ikkuntattja lid-dpo - fuq - [openfoodfacts.org](http://openfoodfacts.org), billi tuża l-indirizz elettroniku li tuża biex tirreġistra kont.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
