@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Yêu cầu báo chí & truyền thông"
-description: "1 câu hỏi"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: báo
+icon: newspaper
 ---
 
-{{< fa "báo" size="3 lần" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Tôi có thể lấy hình ảnh báo chí về Open Food Facts bằng cách nào?
+## How can I get press visuals on Open Food Facts?
 
-Vui lòng liên hệ: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
