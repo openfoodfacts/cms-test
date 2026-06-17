@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Amaqiniso Okudla Kwezilwane Ezifuywayo Avulekile"
-description: "Imibuzo emi-2"
-lang: i-en-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: isidladla
+icon: paw
 ---
 
-{{< fa "isidladla" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Kungani kungekho Nutri-Score yezilwane?
+## Why is there no Nutri-Score for animals?
 
-Isilwane ngasinye sihlukile (inyoka ayinazo izidingo zokudla okunempilo ezifana nezekati noma inja)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ngisho nangaphakathi kohlobo olufanayo lwesilwane njengezinja, izidingo zokudla ziyahlukahluka kuye ngokuthi impilo yokuphila kokungahlali, ukuthenwa okungenzeka noma izifo.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ngakho-ke kunzima ukubala amaphuzu okudla kwezilwane ngaphandle kokubandakanya abacwaningi abaningi nokudala ama-algorithm amaningi ahlukene, okungakaze kwenziwe kuze kube manje.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
