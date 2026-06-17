@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} ئاخبارات ۋە تاراتقۇلارنىڭ تەلىپى"
-description: "1 سوئال"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: گېزىت
+icon: newspaper
 ---
 
-{{< fa "گېزىت" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## «ئوچۇق يېمەكلىك پاكىتلىرى» توغرىسىدىكى ئاخبارات كۆرۈنۈشلىرىنى قانداق ئالسام بولىدۇ؟
+## How can I get press visuals on Open Food Facts?
 
-ئالاقىلىشىڭ: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
