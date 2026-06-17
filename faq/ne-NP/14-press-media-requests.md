@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} प्रेस र मिडिया अनुरोधहरू"
-description: "१ प्रश्न"
-lang: एनजीबी
-order: १४
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
+order: 14
 category-level: 0
-icon: अखबार
+icon: newspaper
 ---
 
-{{< fa "अखबार" size=३x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ओपन फूड फ्याक्ट्समा म कसरी प्रेस भिजुअलहरू प्राप्त गर्न सक्छु?
+## How can I get press visuals on Open Food Facts?
 
-कृपया सम्पर्क गर्नुहोस्: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
