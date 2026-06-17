@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} မိုဘိုင်းအက်ပ်"
-description: "မေးခွန်း ၄ ခု"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: မိုဘိုင်း
+icon: mobile
 ---
 
-{{< fa "မိုဘိုင်း" size="၃ ဆ" >}}
+{{< fa "mobile" size=3x >}}
 
-## ကျွန်တော်/ကျွန်မသုံးနေတဲ့ app ရဲ့ version က ဘယ်ဟာလဲဆိုတာ ဘယ်လိုသိနိုင်မလဲ။
+## How do I know which version of the app I'm using?
 
-**ပရိုဖိုင်**၊
-ကိုသွားပါ၊ ထို့နောက် **FAQ**၊ ထို့နောက် **About this app** ကိုသွားပါ။
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-3.4.5+662 ကဲ့သို့သော ဗားရှင်းနံပါတ်ကို
-တွင် သင်တွေ့မြင်ရပါမည်။ ဖုန်းက debugging လုပ်နေရင် ဖုန်းရဲ့ အမှတ်တံဆိပ်နဲ့ မော်ဒယ်
-ကို ပြောပြဖို့ မမေ့ပါနဲ့။
-
----
-
-## အက်ပ်က စကင်ဖတ်လို့မရဘူး
-
-၎င်းကြောင့်ဖြစ်နိုင်သည်
-
-- ကွန်ရက်ပြဿနာတစ်ခု
-
-- ခွင့်ပြုချက်ပြဿနာ
-
-- ဘားကုဒ်ပြဿနာ
-
-ပရိုဖိုင် >> ဆက်သွယ်ရန် >> အီးမေးလ်ပို့ပါ။
-
-သက်ဆိုင်ရာ အချက်အလက်အားလုံးကို သင့်တောင်းဆိုချက်နှင့်အတူ ပူးတွဲထားသင့်သည်။
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## မိုဘိုင်းအက်ပ်ကို တိုးတက်အောင် ဘယ်လိုကူညီပေးနိုင်မလဲ။
+## The app does not scan
 
-မိုဘိုင်းအက်ပ်ကို တိုးတက်အောင် ဘယ်လိုကူညီပေးနိုင်မလဲ။
+This may be due to
 
-သင်လုပ်နိုင်သည် [မိုဘိုင်းအက်ပ် repository တွင် ပြုလုပ်နိုင်သည်](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## အက်ပ်အကြောင်း တုံ့ပြန်ချက်ကို ဘယ်ကနေ ပေးပို့နိုင်မလဲ။
+## How can I help with improving the mobile app ?
 
-mobile@openfoodfacts.org သို့ တုံ့ပြန်ချက်ပေးပို့နိုင်ပါသည်။
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
