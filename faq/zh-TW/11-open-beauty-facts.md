@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} 打開美容秘訣"
-description: "4個問題"
-lang: 英語-英國
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
+lang: en-gb
 order: 11
 category-level: 0
-icon: 標籤
+icon: tags
 ---
 
-{{< fa "標籤" size=3倍 >}}
+{{< fa "tags" size=3x >}}
 
-## Open Beauty Facts 是否有分析實驗室？
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -29,23 +29,23 @@ can join the Facebook group of contributors:
 
 ---
 
-## 如何將我的產品導入Open Beauty Facts？
+## How do I import my products into Open Beauty Facts?
 
-請聯絡 producteurs@openfoodfacts.org 或直接訪問
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org)，然後聯絡 \*\*producteurs@openfoodfacts.org \*\* 進行特殊出口
-
----
-
-## 我可以在哪裡下載Open Beauty Facts的資料？
-
-/data 頁面目前無法正常存取。 您可以從以下連結下載資料：[https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## 在哪裡可以找到 Open Beauty Facts API 和資料匯出功能？
+## Where can I download Open Beauty Facts data?
 
-Open Food Facts API 與 Open Beauty Facts API 有 98% 的相似度，因此，如果您使用 Open Food Facts API 文件，您應該對 Open Beauty Facts API 有一個相當清晰的了解。
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
