@@ -1,52 +1,52 @@
 ---
-title: "{{< fa usayizi weselula=2x >}} Uhlelo lokusebenza lweselula"
-description: "Imibuzo emi-4"
-lang: i-en-gb
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: iselula
+icon: mobile
 ---
 
-{{< fa "iselula" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ngingazi kanjani ukuthi iyiphi inguqulo yohlelo lokusebenza engiyisebenzisayo?
+## How do I know which version of the app I'm using?
 
-Iya ku-**Iphrofayela**,
-bese kuba yi-**FAQ**, bese kuba yi-\*\*Mayelana nalolu hlelo lokusebenza.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Kufanele
-ubone inombolo yenguqulo efana no-3.4.5+662. Ungakhohlwa ukusitshela uhlobo kanye nomodeli
-wefoni uma ilungisa amaphutha.
-
----
-
-## Uhlelo lokusebenza aluskena
-
-Lokhu kungase kube ngenxa
-
-- inkinga yenethiwekhi
-
-- inkinga yezimvume
-
-- inkinga yebhakhodi
-
-Sithumelele i-imeyili ngephrofayela >> Xhumana Nathi >> Sithumelele i-imeyili.
-
-Lonke ulwazi olufanele kufanele lufakwe esicelweni sakho.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ngingasiza kanjani ekuthuthukiseni uhlelo lokusebenza lweselula?
+## The app does not scan
 
-Ngingasiza kanjani ekuthuthukiseni uhlelo lokusebenza lweselula?
+This may be due to
 
-Ungakwazi [ukwenza kanjalo endaweni yokugcina izinhlelo zokusebenza zeselula](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ngingathumela kuphi impendulo mayelana nohlelo lokusebenza?
+## How can I help with improving the mobile app ?
 
-Ungathumela impendulo ku-mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
