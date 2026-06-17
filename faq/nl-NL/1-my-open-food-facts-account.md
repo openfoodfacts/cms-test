@@ -1,19 +1,19 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mijn Open Food Facts-account"
-description: "2 vragen"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: gebruikerscirkel
+icon: user-circle
 ---
 
-{{< fa "gebruikerscirkel" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ik wil mijn account verwijderen.
+## I want to delete my account
 
-Je kunt je account nu rechtstreeks in je voorkeuren verwijderen.
+Account deletion now happens directly in your preferences.
 
-Na het inloggen op [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klikt u op uw gebruikersnaam in de rechterbovenhoek en kiest u 'Accountparameters'. Hiermee wordt je voorkeurenpagina geopend. Ga naar de onderkant van de pagina en gebruik de actie "gebruiker verwijderen".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
 If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
