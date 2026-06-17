@@ -1,6 +1,6 @@
 ---
-title: "{{< bogolo jwa tseleganyo ya fa=2x >}} Boithaopo / Seabe"
-description: "Dipotso di le 3"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## A go na le tsela ya go tlosa ditshwantsho tse di laisitsweng tsa dikumo?
+## Is there a way to remove uploaded images for products?
 
-Ke batsamaisi fela ba ba ka tlosang dinepe, go tila tshenyo e e ka nnang teng.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Botsa fela mo Slack kgotsa mo go **contact@openfoodfacts.org** go tlosa dipoeletso tsa gago kgotsa dinepe dipe tse di sa tshwanelang (o tshwanetse go leka go tlamela ka nomoro ya khoutu ya dibara kgotsa URL go dira jalo).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Gape re na le API e ntšha ya pegelo ya ditshwantsho fa e le gore o motlhami wa diporokeramo.
-
----
-
-## Ke motlhami. Nka thusa jang ?
-
-Re gokaganya ditiro tsotlhe tse di amanang le go tlhama mo [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/ditlhamo tsa dijo tse di bulegileng/ditlhamo tsa dijo tse di bulegileng) le mo kanaleng e e kgethegileng ya motlotlo. Re dira dikopano tsa setlhopha ka metlha le di-brainjam ka dikgwetlho tse di rileng.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Mo mabakeng a mangwe setlhagiswa se le sengwe se ka nna le boleng jo bo farologaneng jwa phepo mo nageng nngwe le nngwe, se se tshwarwa jang mo Open Food Facts ?
+## I'm a designer. How can I help ?
 
-99% ya nako, bahlahisi ba tla etsa di-barcode tse fapaneng bakeng sa mefuta e fapaneng ya dihlahiswa tsa bona. Sekao se se tumileng ke pharologano magareng ga Nutella ya Fora le ya Jeremane go ya ka bokima, ka ntlha ya pharologano ya borotho go ralala dinaga. 2 difomula tse di farologaneng, 2 dikhoutu tsa dibara tse di farologaneng.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Barcode thulano e ka Leha ho le joalo etsahala ka dikhoutu tse khutšoanyane (EAN-8) tseo ka tlwaelo sebediswang hape ke mabenkele a mang ho pholletsa le Europe le US. Ga jaanong jaana ga re tshware dikgotlhang tseo tsa dikhoutu tsa dibara, mme go tshwanetse ga kgonega go dira jalo ka go bona lefelo la kakaretso la modirisi (go sewelo le go feta go nna le dikgotlhang tsa dikhoutu tsa dibara mo teng ga naga).
+---
 
-Mo pakeng e telele, re rotloetsa batlhagisi go fudugela kwa EAN-13 go tila dikgotlhang tseo tsa dikhoutu tsa dibara.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
