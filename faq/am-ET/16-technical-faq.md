@@ -1,23 +1,23 @@
 ---
-title: "{{< fa ብራንዶች github size=2x >}} ቴክኒካል ተደጋጋሚ ጥያቄዎች"
-description: "1 ጥያቄ"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: ብራንዶች github
+icon: brands github
 ---
 
-{{< fa "brands" "ጊትሁብ" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## የምንጭ ሕብረቁምፊ ስቀይር ሁሉንም የቋንቋ ፋይሎች ማዘመን አለብኝ?
+## Should I update all language files when I change a source string?
 
-አይ፣ አታደርገውም። የእንግሊዝኛውን ማዘመን ብቻ ያስፈልግዎታል
+No you don't. You just need to update the English one
 
-- የእርስዎን የህዝብ ግንኙነት ግንኙነት ይፍጠሩ
+- Create your PR
 
-አንዴ ከተዋሃደ በኋላ፣ crowdin-triggerን በእጅ እናስተካክለዋለን እና በGitHub Actions የተቀሰቀሰው የCrowdin የትርጉም ስርዓት የቀረውን ለሌሎች ቋንቋዎች ያደርጋል።
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-የጂትሆብ ቦት ከዚያም አዲስ የህዝብ ግንኙነት (PR) በራስ-ሰር ይፈጥራል፤ ከዚያም የምንገመግመው ነው።
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
