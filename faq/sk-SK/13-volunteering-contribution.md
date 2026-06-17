@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Dobrovoľníctvo / Príspevok"
-description: "3 otázky"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: upraviť
 
 {{< fa "upraviť" size=3x >}}
 
-## Existuje spôsob, ako odstrániť nahrané obrázky produktov?
+## Is there a way to remove uploaded images for products?
 
-Fotografie môžu odstrániť iba moderátori, aby sa predišlo možnému vandalizmu.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Stačí požiadať na Slacku alebo na adrese **contact@openfoodfacts.org** o odstránenie duplikátov alebo akýchkoľvek nevhodných fotografií (mali by ste sa pokúsiť poskytnúť číslo čiarového kódu alebo URL adresu).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Ak ste programátor, máme tiež nové API pre tvorbu obrázkov.
-
----
-
-## Som dizajnér. Ako môžem pomôcť?
-
-Všetky aktivity súvisiace s dizajnom koordinujeme na [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) a na vyhradenom chatovacom kanáli. Pravidelne organizujeme tímové stretnutia a brainjamy na špecifické výzvy.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## V niektorých prípadoch môže mať ten istý produkt v každej krajine odlišné nutričné hodnoty. Ako sa s tým zaobchádza v Open Food Facts?
+## I'm a designer. How can I help ?
 
-V 99 % prípadov výrobcovia vytvárajú rôzne čiarové kódy pre rôzne verzie svojich produktov. Známym príkladom je rozdiel medzi francúzskou a nemeckou Nutellou v hrúbke, ktorý je spôsobený rozdielmi v chlebe v rôznych krajinách. 2 rôzne vzorce, 2 rôzne čiarové kódy.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Ku konfliktu čiarových kódov však môže dôjsť pri kratších kódoch (EAN-8), ktoré zvyčajne opätovne používajú niektoré obchody v Európe a USA. Momentálne sa týmito kolíziami čiarových kódov nezaoberáme, ale malo by to byť možné získať všeobecnú polohu používateľa (ešte zriedkavejšie sú kolízie čiarových kódov v rámci jednej krajiny).
+---
 
-Z dlhodobého hľadiska povzbudzujeme výrobcov, aby prešli na EAN-13, aby sa predišlo konfliktom s čiarovými kódmi.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
