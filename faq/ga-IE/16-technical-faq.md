@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Ceisteanna Coitianta Teicniúla"
-description: "1 cheist"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: brandaí github
+icon: brands github
 ---
 
 {{< fa "brandaí" "github" size=3x >}}
 
-## Ar cheart dom gach comhad teanga a nuashonrú nuair a athraím teaghrán foinse?
+## Should I update all language files when I change a source string?
 
-Ní dhéanann tú. Ní gá ach an ceann Béarla a nuashonrú
+No you don't. You just need to update the English one
 
-- Cruthaigh do PR
+- Create your PR
 
-Nuair a bheidh sé cumasctha, déanfaimid crowdin-trigger a athbhunú de láimh agus déanfaidh an córas aistriúcháin Crowdin, arna spreagadh ag GitHub Actions, an chuid eile do theangacha eile.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Cruthaíonn bot GitHub PR nua go huathoibríoch agus déanaimid athbhreithniú air ina dhiaidh sin.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
