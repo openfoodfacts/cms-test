@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Բացել կենդանիների կերերի մասին տեղեկություններ"
-description: "2 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: թաթ
+icon: paw
 ---
 
-{{< fa "թաթ" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Ինչո՞ւ կենդանիների համար Nutri-Score չկա։
+## Why is there no Nutri-Score for animals?
 
-Յուրաքանչյուր կենդանի տարբեր է (օձը նույն սննդային կարիքները չունի, ինչ կատուն կամ շունը):
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Նույնիսկ նույն տեսակի կենդանու մոտ, ինչպիսին են շները, սննդային կարիքները տարբերվում են՝ կախված կյանքի տևողությունից, նստակյաց ապրելակերպից, հնարավոր կաստրացիայից կամ հիվանդություններից։
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Հետևաբար, բարդ է կենդանիների կերերի համար միավոր հաշվարկել առանց տասնյակ հետազոտողների ներգրավման և տասնյակ տարբեր ալգորիթմներ ստեղծելու, ինչը մինչ օրս չի արվել։
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
