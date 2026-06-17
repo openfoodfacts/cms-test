@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} حساب کاربری من در مورد حقایق غذایی عمومی"
-description: "۲ سوال"
-lang: انگلیسی-انگلیسی
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: دایره کاربر
+icon: user-circle
 ---
 
-{{< fa "دایره کاربر" size="۳ برابر" >}}
+{{< fa "user-circle" size=3x >}}
 
-## می‌خواهم حساب کاربری‌ام را حذف کنم
+## I want to delete my account
 
-حذف حساب کاربری اکنون مستقیماً در تنظیمات برگزیده شما اتفاق می‌افتد.
+Account deletion now happens directly in your preferences.
 
-پس از ورود به سیستم [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/)، روی نام کاربری در گوشه بالا سمت راست کلیک کنید، پارامترهای حساب را انتخاب کنید. صفحه تنظیمات برگزیده شما را باز می‌کند. به پایین صفحه بروید و از عمل «حذف کاربر» استفاده کنید.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-اگر نمی‌توانید وارد شوید (یا رمز عبور خود را تنظیم مجدد کنید)، لطفاً با استفاده از آدرس ایمیلی که برای ثبت حساب کاربری استفاده می‌کنید، با dpo - در - [openfoodfacts.org](http://openfoodfacts.orgتماس بگیرید.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
