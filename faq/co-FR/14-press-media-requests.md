@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Richieste di stampa è media"
-description: "1 dumanda"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
-order: 14 anni
+order: 14
 category-level: 0
-icon: ghjurnale
+icon: newspaper
 ---
 
-{{< fa "ghjurnale" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Cumu possu ottene immagini di stampa nantu à Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Per piacè cuntattate: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
