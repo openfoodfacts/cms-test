@@ -1,17 +1,17 @@
 ---
-title: "Daxwazên Çapemenî û Medyayê"
-description: "1 pirs"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: rojname
+icon: newspaper
 ---
 
-{{< fa "rojname" size="3 caran" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Ez çawa dikarim dîmenên çapemeniyê li ser Open Food Facts bistînim?
+## How can I get press visuals on Open Food Facts?
 
-Ji kerema xwe têkilî daynin: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
