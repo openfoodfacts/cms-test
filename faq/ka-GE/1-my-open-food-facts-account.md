@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} ჩემი ღია კვების ფაქტების ანგარიში"
-description: "2 კითხვა"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: მომხმარებლის წრე
+icon: user-circle
 ---
 
-{{< fa "მომხმარებლის წრე" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## მსურს ჩემი ანგარიშის წაშლა
+## I want to delete my account
 
-ანგარიშის წაშლა ახლა პირდაპირ თქვენს პარამეტრებში ხდება.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/)-ზე შესვლის შემდეგ, ზედა მარჯვენა კუთხეში დააწკაპუნეთ მომხმარებლის სახელზე და აირჩიეთ ანგარიშის პარამეტრები. ეს გახსნის თქვენი პარამეტრების გვერდს. გადადით გვერდის ბოლოში და გამოიყენეთ „მომხმარებლის წაშლა“ ფუნქცია.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-თუ ვერ შეხვალთ სისტემაში (ან ვერ ახერხებთ პაროლის შეცვლას), გთხოვთ, დაუკავშირდეთ მონაცემთა დაცვის ცენტრს - [openfoodfacts.org](http://openfoodfacts.org), ელექტრონული ფოსტის მისამართის გამოყენებით, რომელსაც იყენებთ ანგარიშის რეგისტრაციისთვის.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
