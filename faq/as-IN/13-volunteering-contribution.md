@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} স্বেচ্ছাসেৱী / অৱদান"
-description: "৩ টা প্ৰশ্ন"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
-order: ১৩
+order: 13
 category-level: 0
 icon: edit
 ---
 
-{{< fa "edit" size=৩x >}}
+{{< fa "edit" size=3x >}}
 
-## প্ৰডাক্টৰ বাবে আপলোড কৰা ছবি আঁতৰোৱাৰ উপায় আছেনে?
+## Is there a way to remove uploaded images for products?
 
-কেৱল মডাৰেটৰসকলেহে ফটো আঁতৰাব পাৰে, সম্ভাৱ্য ভাঙি-ছিঙি যোৱাৰ পৰা হাত সাৰিবলৈ।
+Only moderators can remove photos, to avoid potential vandalism.
 
-আপোনাৰ ডুপ্লিকেট বা কোনো অনুপযুক্ত ফটো আঁতৰাবলৈ মাত্ৰ Slack বা **contact@openfoodfacts.org** ত সুধিব (আপুনি তেনেকৈয়ে বাৰক'ড নম্বৰ বা URL প্ৰদান কৰিবলৈ চেষ্টা কৰিব লাগে)।
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-আপুনি যদি এজন প্ৰগ্ৰেমাৰ হয় তেন্তে আমাৰ এটা নতুন ইমেজ ৰিপৰ্ট এপিআইও আছে।
-
----
-
-## মই এজন ডিজাইনাৰ। মই কেনেকৈ সহায় কৰিব পাৰো ?
-
-আমি [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) আৰু এটা নিৰ্দিষ্ট আড্ডা চেনেলত ডিজাইন সম্পৰ্কীয় সকলো কাৰ্য্যকলাপ সমন্বয় কৰোঁ। আমি নিয়মিতভাৱে দলীয় সভা আৰু নিৰ্দিষ্ট প্ৰত্যাহ্বানৰ ওপৰত ব্ৰেইনজেম কৰো।
+We also have a new image report API if you're a programmer.
 
 ---
 
-## কিছুমান ক্ষেত্ৰত একেটা সামগ্ৰীৰ প্ৰতিখন দেশৰ বাবে বিভিন্ন পুষ্টিকৰ মূল্য থাকিব পাৰে, মুক্ত খাদ্যৰ তথ্যত ইয়াক কেনেকৈ চম্ভালিব পাৰি ?
+## I'm a designer. How can I help ?
 
-৯৯% সময়ত উৎপাদকসকলে তেওঁলোকৰ সামগ্ৰীৰ বিভিন্ন সংস্কৰণৰ বাবে বিভিন্ন বাৰক’ড তৈয়াৰ কৰিব। এটা বিখ্যাত উদাহৰণ হ’ল ফৰাচী আৰু জাৰ্মান নুটেলাৰ ডাঠতাৰ ক্ষেত্ৰত পাৰ্থক্য, কাৰণ দেশসমূহৰ মাজত ৰুটিৰ পাৰ্থক্য। ২টা ভিন্ন সূত্ৰ, ২টা ভিন্ন বাৰক'ড।
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-বাৰক'ডৰ সংঘৰ্ষ অৱশ্যে চুটি ক'ডত (EAN-8) হ'ব পাৰে যিবোৰ সাধাৰণতে সমগ্ৰ ইউৰোপ আৰু আমেৰিকাৰ কিছুমান ষ্ট'ৰে পুনৰ ব্যৱহাৰ কৰে। আমি বৰ্তমান সেই বাৰক'ড সংঘৰ্ষসমূহ চম্ভালিব নোৱাৰো, কিন্তু ব্যৱহাৰকাৰীৰ সাধাৰণ অৱস্থান পাই ইয়াক কৰিব পৰা উচিত (এখন দেশৰ ভিতৰত বাৰক'ড সংঘৰ্ষ হোৱাটো আৰু অধিক বিৰল)।
+---
 
-দীৰ্ঘম্যাদীভাৱে আমি উৎপাদকসকলক সেই বাৰক’ডৰ সংঘৰ্ষৰ পৰা হাত সাৰিবলৈ ইএএন-১৩লৈ যাবলৈ উৎসাহিত কৰোঁ।
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
