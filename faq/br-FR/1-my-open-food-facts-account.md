@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ma gont Open Food Facts"
-description: "2 c'houlenn"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: kelc'h implijer
+icon: user-circle
 ---
 
-{{< fa "kelc'h implijer" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Fellout a ra din dilemel ma c'hont
+## I want to delete my account
 
-Dilemel ar gont a c'hoarvez bremañ war-eeun en ho penndibaboù.
+Account deletion now happens directly in your preferences.
 
-Goude bezañ kevreet ouzh [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klikit war an anv implijer e korn uhelañ an tu dehou, dibabit Parametroù ar gont. Digeriñ a ra ho pajenn dibaboù. Kit betek traoñ ar bajenn hag implijit an ober "diverkañ an implijer".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ma n'oc'h ket evit kevreañ (pe adderaouekaat ho ker-tremen), kit e darempred gant dpo - e - [openfoodfacts.org](http://openfoodfacts.org), en ur implijout ar chomlec'h postel a implijit evit enrollañ ho kont.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
