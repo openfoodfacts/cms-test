@@ -1,21 +1,21 @@
 ---
-title: "{{< tamaño da pata da man=2x >}} Información sobre a comida para mascotas"
-description: "2 preguntas"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pata
+icon: paw
 ---
 
-{{< fa "pata" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Por que non hai Nutri-Score para animais?
+## Why is there no Nutri-Score for animals?
 
-Cada animal é diferente (unha serpe non ten as mesmas necesidades nutricionais que un gato ou un can)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Mesmo dentro dun mesmo tipo de animal como os cans, as necesidades nutricionais varían segundo o estilo de vida sedentario, unha posible castración ou enfermidades.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Polo tanto, é complicado calcular unha puntuación para a alimentación animal sen involucrar a ducias de investigadores e crear ducias de algoritmos diferentes, o que non se fixo ata a data.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
