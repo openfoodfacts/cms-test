@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Oma Open Food Facts -tilini"
-description: "2 kysymystä"
-lang: fi-gb
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: käyttäjäpiiri
+icon: user-circle
 ---
 
-{{< fa "käyttäjäpiiri" size="3 kertaa" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Haluan poistaa tilini
+## I want to delete my account
 
-Tilin poistaminen tapahtuu nyt suoraan asetuksistasi.
+Account deletion now happens directly in your preferences.
 
-Kirjaudu sisään osoitteessa [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), napsauta käyttäjätunnusta oikeassa yläkulmassa ja valitse Tilin parametrit. Se avaa asetussivusi. Siirry sivun alareunaan ja käytä "Poista käyttäjä" -toimintoa.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Jos et pysty kirjautumaan sisään (tai palauttamaan salasanaasi), ota yhteyttä tietosuojavaltuutettuun osoitteeseen [openfoodfacts.org](http://openfoodfacts.org) käyttämällä sähköpostiosoitetta, jota käytit tilin rekisteröitymiseen.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
