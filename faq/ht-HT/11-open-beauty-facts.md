@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} Louvri Enfòmasyon sou Bote"
-description: "4 kesyon"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: etikèt
+icon: tags
 ---
 
-{{< fa "etikèt" size="3 fwa" >}}
+{{< fa "tags" size=3x >}}
 
-## Èske Open Beauty Facts gen yon laboratwa analiz?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -19,7 +19,7 @@ consumers, you can use our iPhone, Android and
 
 Windows Phone to add products:
 
-[[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
+[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
 
 And to exchange and discuss the possible uses of the project, you
 
@@ -29,27 +29,27 @@ can join the Facebook group of contributors:
 
 ---
 
-## Kouman pou m enpòte pwodwi m yo nan Open Beauty Facts?
+## How do I import my products into Open Beauty Facts?
 
-Kontakte producteur@openfoodfacts.org oubyen ale dirèkteman nan
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) apre sa kontakte \*\*producteurs@openfoodfacts.org \*\*pou yon ekspòtasyon espesyal
-
----
-
-## Ki kote m ka telechaje done Open Beauty Facts yo?
-
-Paj /data a pa fonksyone kounye a. Ou ka telechaje done yo nan [[https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Ki kote m ka jwenn API Open Beauty Facts la ak ekspòtasyon done yo?
+## Where can I download Open Beauty Facts data?
 
-API Open Food Facts la 98% menm jan ak API Open Beauty Facts la, kidonk si w itilize dokimantasyon API Open Food Facts la, ou ta dwe gen yon vizyon byen klè sou API Open Beauty Facts la.
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
