@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Voluntariatum / Contributio"
-description: "Tres quaestiones"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
-order: XIII
+order: 13
 category-level: 0
 icon: edit
 ---
 
-{{< fa "edit" size=Ter >}}
+{{< fa "edit" size=3x >}}
 
-## Estne via imagines immissas pro productis removendi?
+## Is there a way to remove uploaded images for products?
 
-Moderatores soli imagines removere possunt, ne forte vandalismus fiat.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Simpliciter per Slack vel per inscriptionem electronicam **contact@openfoodfacts.org** roga ut imagines duplicatas vel quaslibet imagines ineptas removeas (numerum codicis linearis vel URL huic rei praebere conare debes).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Novam quoque API ad relationes imaginum creandas habemus, si programmator es.
-
----
-
-## Designator sum. Quomodo adiuvare possum?
-
-Omnes actiones ad designium pertinentes coordinamus in [[https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) et in canali colloquii dedicato. Conventus turmae et discussiones de certis provocationibus regulariter habemus.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Interdum idem productum valores nutritionales diversos pro singulis terris habere potest; quomodo hoc in "Open Food Facts" tractatur?
+## I'm a designer. How can I help ?
 
-Nonaginta novem ex centum temporis, fabri codices lineares diversos pro diversis versionibus productorum suorum creabunt. Exemplum celebre est differentia inter Nutellam Gallicam et Germanicam quod ad crassitudinem attinet, propter differentiam panis inter nationes. Duae formulae diversae, duo codices lineares diversi.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Conflictus codicum linearium tamen fieri potest in codicibus brevioribus (EAN-8) qui typice a quibusdam tabernis per Europam et Civitates Foederatas Americae denuo adhibentur. Collisiones codicum linearium in praesenti non tractamus, sed fieri potest ut hoc fiat per locum generalem usoris obtinendum (rarius etiam fit ut collisiones codicum linearium intra unam regionem habeantur).
+---
 
-Longo termino, productores ut ad EAN-13 transeant ad vitandos illos conflictus codicum linearum hortamur.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
