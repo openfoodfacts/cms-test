@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Миний хэл/улс оронд хүнсний талаарх нээлттэй мэдээллийг сайжруулах"
-description: "3 асуулт"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: бөмбөрцөг
+icon: globe
 ---
 
-{{< fa "бөмбөрцөг" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Би шошгоны шинэ лого нэмэхийг хүсэж байна
+## I would like to add a new logo for labels
 
-Энэ бол үйл явц юм:
+Here is the process:
 
-- [шошгоны ангилал](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) дахь шошгоны **каноник нэрийг** олоорой (энэ нь шошгоны синонимуудын жагсаалтын эхний зүйл юм, жишээ нь: en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**логог чанартайгаар авах**: энэ тохиолдолд тохиромжгүй хувь нэмэр оруулагчийн зургийг ашиглахаас зайлсхий; ихэнх шошго нь албан ёсны вэбсайтуудын өндөр чанартай логотой байдаг, заримдаа вектор хэлбэрээр байдаг (бидний хувьд бүр ч сайн); бүтээгдэхүүний сав баглаа боодол дээр
-шошго байгаа эсэхийг бодитойгоор мэдээлэхийн тулд лого ашиглаж байгаа л бол зөвшөөрөл авах шаардлагагүй.
-------------------------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**файлыг ингэж нэрлэнэ**: name-of-the-label.[width]x90.png энд width нь лого 90 пиксел өндөр байх үеийн өргөн юм. Файлын нэрсийг өргөлтгүй, жижиг үсгээр бичиж, зайны оронд "-" тэмдэгтийг ашиглах шаардлагатай.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- дараа нь түүний каноник нэртэй тохирох логог санд нэмнэ үү. Хэрэв каноник нэр нь en:something бол тэдгээр нь /en/ дотор байх шаардлагатай. Логоны үндсэн сан нь [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang) юм.
-
----
-
-## Нээлттэй хоолны баримтуудыг би өөрийн хэл рүү хэрхэн орчуулах вэ?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) руу очно уу
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Энэ Түгээмэл Асуултуудыг би өөрийн хэл рүү хэрхэн орчуулах вэ?
+## How do I translate Open Food Facts to my language ?
 
-Мэдлэгийн санд засвар оруулах эрх авахын тулд contact@openfoodfacts.org хаягаар холбогдоно уу.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
