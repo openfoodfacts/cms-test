@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Nire Open Food Facts kontua"
-description: "2 galdera"
-lang: eu-gb
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: erabiltzaile-zirkulua
+icon: user-circle
 ---
 
-{{< fa "erabiltzaile-zirkulua" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Nire kontua ezabatu nahi dut
+## I want to delete my account
 
-Kontua ezabatzea orain zuzenean zure lehentasunetan gertatzen da.
+Account deletion now happens directly in your preferences.
 
-[[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) webgunean saioa hasi ondoren, egin klik goiko eskuineko izkinan dagoen erabiltzaile-izenaren gainean eta aukeratu Kontuaren parametroak. Zure lehentasunen orria irekitzen du. Joan orriaren behealdera eta erabili "erabiltzailea ezabatu" ekintza.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Saioa hasteko gai ez bazara (edo pasahitza berrezarri), jarri harremanetan dpo-rekin - at - [openfoodfacts.org](http://openfoodfacts.org), kontua erregistratzeko erabili duzun helbide elektronikoa erabiliz.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
