@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API et réutilisation des données"
+title: "{{< fa wrench size=2x >}} API & data reuse"
 description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: clé
+icon: wrench
 ---
 
-{{< fa "clé" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## Existe-t-il dans la documentation des recommandations concernant la taille appropriée des photos téléchargées ?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Cela peut dépendre des pays, si le réseau est lent ou coûteux. Tout ce qui dépasse 5000 pixels en poids ou en hauteur n'est probablement pas très utile. Et si vous parvenez d'une manière ou d'une autre à détecter que le réseau est lent, alors même une image de 2000 pixels serait formidable (certainement mieux que de ne pas avoir d'image du tout !).
-
----
-
-## Qu’en est-il des aliments sans code-barres ?
-
-Open Food Facts ne contient que des informations sur les aliments emballés. Pour connaître les valeurs moyennes des fruits et légumes (par exemple, des tomates ou des bananes) et autres produits alimentaires, vous pouvez utiliser l'une des bases de données nutritionnelles nationales officielles.
-
-**Remarque :** La liste ci-dessous contient quelques-unes des bases de données alimentaires nationales les plus importantes. Si vous pensez qu'une autre base de données devrait être incluse dans la liste, veuillez nous contacter à l'adresse suivante : [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Liste des bases de données alimentaires nationales**
-
--
-
-**Australie** - FSANZ - NUTTAB 2006 : [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Belgique** - NUBEL - Données sur la composition des aliments belges : [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Canada** - FCEN : [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**République tchèque** - Base de données sur la composition des aliments de l'Institut national de santé publique : [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Danemark** - Base de données danoise sur la composition des aliments : [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Estonie** - Base de données estonienne sur la composition des aliments : [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Finlande** - Base de données finlandaise sur la composition des aliments - FINELI : [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**France** - CIQUAL : [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Allemagne** - Base de données en ligne Souci-Fachmann-Kraut : [https://www.sfk.online/#/home](https://www.sfk.online/#/home) ou la base de données officielle allemande : Bundeslebensmittelschlüssel : [https://blsdb.de/](https://blsdb.de/)
-
-- **Italie** - Banca Dati di Composizione degli Alimenti CREA : [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Pays-Bas** - Base de données néerlandaise sur la composition des aliments : [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Norvège** - Tableau de composition des aliments norvégiens 2006 : [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Pologne** - Tables de composition des aliments : [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Espagne** - Base de données espagnole sur la composition des aliments - BEDCA : [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Suisse** - Base de données suisse sur la composition des aliments : [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**Royaume-Uni** - Ensemble de données intégré sur la composition des aliments (CoFID) : [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**États-Unis** - USDA : [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Puis-je rechercher un produit par son nom précis via l'API ?
+## What about food without barcodes ?
 
-Malheureusement, il n'est pas encore possible de rechercher facilement et précisément un produit uniquement par son nom via l'API.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-L'utilisation d'un filtre par catégorie peut toutefois vous aider à affiner votre recherche.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Comment puis-je accéder aux données de mes projets et les collecter ?
+## Can I search a precise product name with the API?
 
-Sur la page principale d'Open Food Facts, en haut à gauche de l'écran, se trouve un menu déroulant. En bas de la page, vous trouverez l'option « recherche avancée », sur laquelle vous pouvez cliquer. Il vous appartient ensuite de déterminer quels critères sont les plus pertinents pour votre ou vos projets. Une fois votre choix effectué, vous pourrez télécharger les résultats obtenus en faisant défiler la page vers le bas et en cliquant sur « Télécharger les résultats ».
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Vous pouvez également consulter :
-
-- Notre documentation API : [ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Conditions d'utilisation d'Open Food Facts : [ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- D'après nos données : [ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## Existe-t-il des conditions pour utiliser l'API ?
+## How can I access/collect data for my projects?
 
-Toute la documentation relative à l'utilisation de l'API se trouve sur la [page de documentation de l'API](https://openfoodfacts.github.io/openfoodfacts-server/api/), mais voici un bref résumé :
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- La base de données Open Food Facts est disponible en tant que données ouvertes sous la licence Open Database License (ODbL), voir [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) pour les détails juridiques. Les deux conditions sont l'attribution et le partage à l'identique. Si vous combinez des données d'Open Food Facts avec d'autres bases de données, l'ODbL exige que la base de données résultante soit également publiée en tant que données ouvertes. Cela signifie également que vous ne pouvez combiner les données qu'avec des sources qui autoriseraient une telle redistribution.
+You can also consult:
 
-- Vous devez **toujours** utiliser un User-Agent personnalisé lors des appels API pour identifier votre application.
-
-- Des limites de débit sont appliquées à chaque point de terminaison d'API.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Comment puis-je accéder aux données historiques ?
+## Are there conditions to use the API?
 
-Actuellement, nous ne proposons pas l'exportation de données historiques (JSONL, MongoDB, CSV).
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Toutefois, pour chaque produit, il est possible d'accéder aux versions précédentes des données produit via l'API ou sur la page produit en utilisant les révisions.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-À chaque mise à jour d'un produit, une nouvelle révision (numérotée de 1 à 10) est créée.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Par exemple, pour obtenir la première révision (ou première version du produit) de ce produit, utilisez
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-De même, le paramètre rev peut être utilisé avec l'API :
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
