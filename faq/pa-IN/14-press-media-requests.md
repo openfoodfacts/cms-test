@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} ਪ੍ਰੈਸ ਅਤੇ ਮੀਡੀਆ ਬੇਨਤੀਆਂ"
-description: "1 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: ਅਖ਼ਬਾਰ
+icon: newspaper
 ---
 
-{{< fa "ਅਖ਼ਬਾਰ" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ਮੈਂ ਓਪਨ ਫੂਡ ਫੈਕਟਸ 'ਤੇ ਪ੍ਰੈਸ ਵਿਜ਼ੂਅਲ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+## How can I get press visuals on Open Food Facts?
 
-ਕਿਰਪਾ ਕਰਕੇ ਸੰਪਰਕ ਕਰੋ: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
