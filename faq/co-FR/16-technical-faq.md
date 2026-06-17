@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} FAQ tecniche"
-description: "1 dumanda"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
-order: 16 anni
+order: 16
 category-level: 0
-icon: marche github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Devu aghjurnà tutti i fugliali di lingua quandu cambiu una stringa di fonte?
+## Should I update all language files when I change a source string?
 
-Innò, ùn la fate micca. Basta à aghjurnà quellu inglese
+No you don't. You just need to update the English one
 
-- Crea u vostru PR
+- Create your PR
 
-Una volta chì hè fusionatu, ribaseremu crowdin-trigger manualmente è u sistema di traduzzione Crowdin attivatu da GitHub Actions farà u restu per l'altre lingue.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-U bot GitHub crea tandu automaticamente una nova PR chì dopu rivedemu.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
