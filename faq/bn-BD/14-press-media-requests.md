@@ -1,17 +1,17 @@
 ---
-title: "{{< fa সংবাদপত্রের আকার=2x >}} প্রেস ও মিডিয়া অনুরোধ"
-description: "১টি প্রশ্ন"
-lang: en-gb সম্পর্কে
-order: ১৪
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
+order: 14
 category-level: 0
-icon: সংবাদপত্র
+icon: newspaper
 ---
 
-{{< fa "সংবাদপত্র" size="3x এর বিবরণ" >}}
+{{< fa "newspaper" size=3x >}}
 
-## ওপেন ফুড ফ্যাক্টস-এর প্রেস ভিজ্যুয়াল আমি কীভাবে পেতে পারি?
+## How can I get press visuals on Open Food Facts?
 
-অনুগ্রহ করে যোগাযোগ করুন: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
