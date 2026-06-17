@@ -1,141 +1,141 @@
 ---
-title: "{{< fa የመፍቻ መጠን=2x >}} ኤፒአይ እና የውሂብ ዳግም ጥቅም ላይ ማዋል"
-description: "6 ጥያቄዎች"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: መፍቻ
+icon: wrench
 ---
 
-{{< fa "መፍቻ" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## ለተሰቀሉ ፎቶዎች ምን ያህል መጠን እንደሚያስፈልግ በሰነዱ ውስጥ ምክሮች አሉ?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-ይህ በአገሮች ላይ የተመሰረተ ሊሆን ይችላል፣ አውታረ መረቡ ቀርፋፋ ወይም ውድ ከሆነ። ከ5000 ፒክስል በላይ የሆነ ክብደት ወይም ቁመት ምናልባት ብዙም ጠቃሚ ላይሆን ይችላል። እና አውታረ መረቡ ቀርፋፋ መሆኑን በሆነ መንገድ ማወቅ ከቻሉ፣ የ2000 ፒክስል ምስል እንኳን በጣም ጥሩ ይሆናል (ምስል ከሌለው በእርግጠኝነት የተሻለ ነው!)
-
----
-
-## ባርኮድ የሌላቸው ምግቦችስ?
-
-ክፍት የምግብ እውነታዎች ስለ የታሸገ ምግብ መረጃ ብቻ ይይዛሉ። ለአማካይ የምርት ዋጋዎች (ለምሳሌ ቲማቲም ወይም ሙዝ) እና ለሌሎች የምግብ ምርቶች፣ በምትኩ ከብሔራዊ የአመጋገብ ዳታቤዞች አንዱን መጠቀም ይችላሉ።
-
-**ማሳሰቢያ፡** ከታች ያለው ዝርዝር በጣም አስፈላጊ የሆኑትን አንዳንድ ብሔራዊ የምግብ ዳታቤዞችን ይዟል። ሌላ የውሂብ ጎታ በዝርዝሩ ውስጥ መካተት አለበት ብለው የሚያስቡ ከሆነ፣ እባክዎን በሚከተለው አድራሻ ያግኙን፦ [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**የብሔራዊ የምግብ ዳታቤዞች ዝርዝር**
-
--
-
-**አውስትራሊያ** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**ቤልጂየም** - ኑቤል - የቤልጂየም የምግብ ቅንብር መረጃ፡ [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**ካናዳ** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**ቼክ ሪፐብሊክ** - የምግብ ቅንብር የውሂብ ጎታ በብሔራዊ የህዝብ ጤና ተቋም፡ [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**ዴንማርክ** - የዴንማርክ የምግብ ቅንብር የውሂብ ባንክ፦ [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**ኢስቶኒያ** - የኢስቶኒያ የምግብ ቅንብር የውሂብ ጎታ፦ [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**ፊንላንድ** - የፊንላንድ የምግብ ቅንብር የውሂብ ጎታ - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**ፈረንሳይ** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**ጀርመን** - Souci-Fachmann-Kraut የመስመር ላይ ዳታቤዝ፡ [https://www.sfk.online/#/home](https://www.sfk.online/#/home) ወይም ኦፊሴላዊው የጀርመን ዳታቤዝ፡ Bundeslebensmittelschlüssel፡ [https://blsdb.de/](https://blsdb.de/)
-
-- **ጣሊያን** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**ኔዘርላንድስ** - የደች የምግብ ቅንብር የውሂብ ጎታ፦ [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**ኖርዌይ** - የኖርዌይ የምግብ ቅንብር ሰንጠረዥ 2006፡ [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**ፖላንድ** - የምግብ ቅንብር ጠረጴዛዎች፡ [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**ስፔን** - የስፔን የምግብ ቅንብር የውሂብ ጎታ - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**ስዊዘርላንድ** - የስዊዘርላንድ የምግብ ቅንብር የውሂብ ጎታ፡ [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**ዩኬ** - የምግብ የተዋሃደ የውሂብ ስብስብ (CoFID)፦ [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-\*\* USA\*\* - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## በኤፒአይ ትክክለኛ የምርት ስም መፈለግ እችላለሁን?
+## What about food without barcodes ?
 
-በሚያሳዝን ሁኔታ፣ በምርት ስም ብቻ እና በኤፒአይ በኩል በትክክል መፈለግ ገና አይቻልም።
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-በምድብ ላይ ማጣሪያ መጠቀም ፍለጋዎን የበለጠ ትክክለኛ ለማድረግ ሊረዳዎት ይችላል።
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## ለፕሮጀክቶቼ ውሂብ እንዴት ማግኘት/መሰብሰብ እችላለሁ?
+## Can I search a precise product name with the API?
 
-በክፍት የምግብ እውነታዎች ዋና ገጽ ላይ፣ በማያ ገጹ የላይኛው ግራ ጥግ ላይ፣ የማሸብለል ምናሌ አለ። ከታች በኩል “የላቀ ፍለጋ” የሚለውን አማራጭ ያገኛሉ፣ በዚህ ላይ ጠቅ ማድረግ ይችላሉ። ከዚያ ለፕሮጀክትዎ(ዎችዎ) በጣም ተገቢ የሆኑት የትኞቹ መመዘኛዎች እንደሆኑ መወሰን የእርስዎ ኃላፊነት ነው። አንዴ ከመረጡ በኋላ፣ በገጹ ግርጌ ላይ ወደታች በማሸብለል እና “ውጤቶችን አውርድ” ላይ ጠቅ በማድረግ የተገኙትን ውጤቶች ማውረድ ይችላሉ።
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-እንዲሁም የሚከተሉትን ማማከር ይችላሉ፦
-
-- የኛ የኤፒአይ ሰነድ፦[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- የክፍት ምግብ እውነታዎች የአጠቃቀም ውል፡[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- በእኛ መረጃ ላይ፦[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## ኤፒአይን ለመጠቀም ሁኔታዎች አሉ?
+## How can I access/collect data for my projects?
 
-ስለ ኤፒአይ አጠቃቀም ሁሉም ሰነዶች በ [የኤፒአይ ሰነድ ገጽ](https://openfoodfacts.github.io/openfoodfacts-server/api/ላይ ይገኛሉ፣ ነገር ግን አጭር ማጠቃለያ እነሆ፡
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- የክፍት የምግብ እውነታዎች ዳታቤዝ በክፍት የውሂብ ጎታ ፈቃድ (ODbL) ስር እንደ ክፍት መረጃ ይገኛል፣ ለህጋዊ ዝርዝሮች [https://world.openfoodfacts.org/terms-of-useን ይመልከቱ። ሁለቱ ሁኔታዎች የባለቤትነት መብት እና የአክሲዮን ድርሻ ናቸው። ከ Open Food Facts የተገኘውን መረጃ ከሌሎች የውሂብ ጎታዎች ጋር ካዋሃዱት፣ ODbL የሚመነጨው የውሂብ ጎታ እንደ ክፍት መረጃ መለቀቅ እንዳለበት ይጠይቃል። እንዲሁም ውሂቡን እንዲህ ዓይነቱን ዳግም ስርጭት ከሚፈቅዱ ምንጮች ጋር ብቻ ማዋሃድ ይችላሉ ማለት ነው።
+You can also consult:
 
-- መተግበሪያዎን ለመለየት የኤፒአይ ጥሪዎችን ሲያደርጉ **ሁልጊዜም** ብጁ የተጠቃሚ ወኪል መጠቀም አለብዎት።
-
-- ለእያንዳንዱ የኤፒአይ የመጨረሻ ነጥብ የተመን ገደቦች ተፈጻሚ ይሆናሉ።
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## ታሪካዊ መረጃዎችን እንዴት ማግኘት እችላለሁ?
+## Are there conditions to use the API?
 
-በአሁኑ ጊዜ፣ ታሪካዊ የውሂብ ዱፕ (JSONL፣ MongoDB፣ CSV) አናቀርብም።
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-ሆኖም ግን፣ ለግለሰብ ምርቶች፣ ቀደም ሲል የምርት መረጃውን ስሪቶች በኤፒአይ ወይም በምርት ገጹ ላይ ክለሳዎችን በመጠቀም ማግኘት ይቻላል።
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-አንድ ምርት በተዘመነ ቁጥር፣ አዲስ ማሻሻያ (ከ1 ጀምሮ የሚጨምር አሃዝ) ይፈጠራል።
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-ለምሳሌ፣ የዚህን ምርት የመጀመሪያ ክለሳ (=የመጀመሪያው የምርት ስሪት) ለማግኘት፣ ይጠቀሙ
+- Rate-limits are enforced for each API endpoint.
 
-[https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1)።
+---
 
-በተመሳሳይ፣ የ rev መለኪያ ከኤፒአይ ጋር ጥቅም ላይ ሊውል ይችላል፦
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
+
+[https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
+
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
