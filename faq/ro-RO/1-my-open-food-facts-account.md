@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Contul meu Open Food Facts"
-description: "2 întrebări"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: cerc de utilizatori
+icon: user-circle
 ---
 
-{{< fa "cerc de utilizatori" size="de 3 ori" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Vreau să-mi șterg contul
+## I want to delete my account
 
-Ștergerea contului se face acum direct în preferințele tale.
+Account deletion now happens directly in your preferences.
 
-După autentificare pe [[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), faceți clic pe numele de utilizator din colțul din dreapta sus, selectați Parametri cont. Deschide pagina ta de preferințe. Mergeți în partea de jos a paginii și utilizați acțiunea „șterge utilizatorul”.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Dacă nu vă puteți conecta (sau nu vă puteți reseta parola), vă rugăm să contactați dpo - la - [openfoodfacts.org](http://openfoodfacts.org), folosind adresa de e-mail pe care ați utilizat-o pentru a vă înregistra contul.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
