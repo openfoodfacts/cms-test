@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} तकनीकी प्रश्नोत्तर"
-description: "१ प्रश्नः"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: ब्राण्ड् github
+icon: brands github
 ---
 
-{{< fa "brands" "गिथुब" size=३x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## यदा अहं स्रोतः तारं परिवर्तयामि तदा सर्वाणि भाषासञ्चिकाः अद्यतनीकर्तव्यानि वा?
+## Should I update all language files when I change a source string?
 
-न त्वं न करोषि। भवद्भिः केवलं आङ्ग्लभाषायाः अद्यतनं कर्तव्यम्
+No you don't. You just need to update the English one
 
-- स्वस्य जनसम्पर्कं रचयन्तु
+- Create your PR
 
-एकदा विलीनं जातं चेत्, वयं crowdin-trigger इत्यस्य पुनः आधारं मैन्युअल् रूपेण करिष्यामः तथा च GitHub Actions इत्यनेन ट्रिगर कृता Crowdin अनुवादप्रणाली अन्यभाषायाः कृते शेषं करिष्यति ।
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-ततः GitHub bot स्वयमेव नूतनं PR निर्माति यस्य वयं ततः समीक्षां कुर्मः ।
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
