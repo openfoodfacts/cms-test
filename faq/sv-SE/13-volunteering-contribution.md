@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Volontärarbete / Bidrag"
-description: "3 frågor"
-lang: sv-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: redigera
@@ -9,29 +9,29 @@ icon: redigera
 
 {{< fa "redigera" size=3x >}}
 
-## Finns det något sätt att ta bort uppladdade bilder för produkter?
+## Is there a way to remove uploaded images for products?
 
-Endast moderatorer kan ta bort foton för att undvika potentiell vandalism.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Fråga bara på Slack eller på **contact@openfoodfacts.org** för att ta bort dina dubbletter eller olämpliga foton (försök att ange streckkodsnumret eller URL:en för att göra det).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Vi har också ett nytt API för bildrapporter om du är programmerare.
-
----
-
-## Jag är designer. Hur kan jag hjälpa till?
-
-Vi koordinerar alla designrelaterade aktiviteter på [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) och på en dedikerad chattkanal. Vi har regelbundet teammöten och diskuterar specifika utmaningar.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## I vissa fall kan samma produkt ha olika näringsvärden för varje land, hur hanteras detta i Open Food Facts?
+## I'm a designer. How can I help ?
 
-99 % av tiden skapar producenter olika streckkoder för olika versioner av sina produkter. Ett känt exempel är skillnaden mellan fransk och tysk Nutella vad gäller tjocklek, på grund av skillnader i bröd mellan länder. 2 olika formler, 2 olika streckkoder.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Streckkodskrockar kan dock inträffa på kortare koder (EAN-8) som vanligtvis återanvänds av vissa butiker i Europa och USA. Vi hanterar för närvarande inte sådana streckkodskrockar, men det borde vara möjligt att göra det genom att hämta användarens allmänna plats (det är ännu mer ovanligt med streckkodskrockar inom ett land).
+---
 
-På lång sikt uppmuntrar vi producenter att övergå till EAN-13 för att undvika dessa streckkodskrockar.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
