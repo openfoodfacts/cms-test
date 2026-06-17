@@ -1,17 +1,17 @@
 ---
-title: "{{< fa koranta ea boholo=2x >}} Likopo tsa Boralitaba le Mecha ea Litaba"
-description: "Potso e le 'ngoe"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: koranta
+icon: newspaper
 ---
 
-{{< fa "koranta" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Nka fumana litšoantšo tsa boralitaba joang ho Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Ka kopo ikopanye le: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
