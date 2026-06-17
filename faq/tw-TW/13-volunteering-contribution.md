@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Atuhoama / Ntoboa"
-description: "3 nsɛmmisa"
-lang: tw-gb
-order: 13. Nsɛm a wɔka kyerɛ
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
+order: 13
 category-level: 0
 icon: edit
 ---
 
-{{< fa "edit" size="3x na ɛyɛ" >}}
+{{< fa "edit" size=3x >}}
 
-## So ɔkwan bi wɔ hɔ a wobɛfa so ayi mfonini ahorow a wɔde ahyɛ so ama nneɛma?
+## Is there a way to remove uploaded images for products?
 
-Wɔn a wɔhwɛ so nkutoo na wobetumi ayi mfonini ahorow afi hɔ, na wɔakwati sɛ wɔbɛsɛe nneɛma a ebetumi aba.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Bisa kɛkɛ wɔ Slack anaa **contact@openfoodfacts.org** sɛ yi wo duplicates anaa mfonini biara a ɛmfata (ɛsɛ sɛ wobɔ mmɔden sɛ wode barcode nɔma anaa URL bɛma saa).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Yɛwɔ mfonini amanneɛbɔ API foforo nso sɛ woyɛ programmer a.
-
----
-
-## Meyɛ obi a ɔyɛ mfoniniyɛfo. Mɛyɛ dɛn aboa ?
-
-Yɛhyehyɛ dwumadi ahorow a ɛfa nhyehyɛe ho nyinaa wɔ [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) ne nkɔmmɔbɔ kwan a wɔatu ho ama so. Yɛtaa yɛ kuw nhyiam ne adwene mu nhwehwɛmu wɔ nsɛnnennen pɔtee bi ho.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Wɔ tebea horow bi mu no ade koro no ara betumi anya aduannuru ahorow ama ɔman biara, ɔkwan bɛn so na wodi eyi ho dwuma wɔ Open Food Facts ?
+## I'm a designer. How can I help ?
 
-99% bere no, wɔn a wɔyɛ no bɛyɛ barcode ahorow ama wɔn nneɛma ahorow no nkyerɛase ahorow. Nhwɛsoɔ a agye din ne nsonsonoeɛ a ɛda Fransefoɔ ne German Nutella ntam wɔ ne kɛseɛ mu, ɛnam nsonsonoeɛ a ɛwɔ paanoo mu wɔ aman ahodoɔ mu nti. 2 formula ahorow, 2 barcode ahorow.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Nanso barcode ntawntawdi betumi asi wɔ code ntiantiaa (EAN-8) a sotɔɔ ahorow bi a ɛwɔ Europa ne U.S. nyinaa taa san de di dwuma no so. Mprempren yɛnni saa barcode ntawntawdi no ho dwuma, nanso ɛsɛ sɛ ɛyɛ nea wotumi yɛ de yɛ saa denam beae a ɔde di dwuma no nyinaa a yebenya so (ɛtaa mma mpo sɛ wubenya barcode ntawntawdi wɔ ɔman bi mu).
+---
 
-Wɔ bere tenten mu no, yɛhyɛ wɔn a wɔyɛ nneɛma no nkuran sɛ wɔntu nkɔ EAN-13 na wɔakwati saa barcode ntawntawdi no.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
