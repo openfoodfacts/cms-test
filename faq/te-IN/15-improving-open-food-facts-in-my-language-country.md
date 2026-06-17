@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} నా భాష/దేశంలో ఓపెన్ ఫుడ్ వాస్తవాలను మెరుగుపరచడం"
-description: "3 ప్రశ్నలు"
-lang: en-gb తెలుగు in లో
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: భూగోళం
+icon: globe
 ---
 
-{{< fa "భూగోళం" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## నేను లేబుల్స్ కోసం కొత్త లోగోను జోడించాలనుకుంటున్నాను.
+## I would like to add a new logo for labels
 
-ఇక్కడ ప్రక్రియ ఉంది:
+Here is the process:
 
-- [లేబుల్స్' వర్గీకరణ](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) లో లేబుల్ యొక్క **కానానికల్ పేరు** ను కనుగొనండి (ఇది లేబుల్స్' పర్యాయపదాల జాబితాలో మొదటి అంశం, ఉదా. en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**లోగోను మంచి నాణ్యతతో పొందండి**: ఈ సందర్భానికి సరిపోని సహకారి ఫోటోను ఉపయోగించకుండా ఉండండి; చాలా లేబుల్‌లు అధికారిక వెబ్‌సైట్‌ల అధిక నాణ్యత గల లోగోలను కలిగి ఉంటాయి, కొన్నిసార్లు వెక్టర్ ఫార్మాట్‌లో (మాకు ఇంకా మంచిది); ఉత్పత్తి ప్యాకేజింగ్‌పై
-లేబుల్ ఉనికి గురించి నిష్పాక్షికంగా తెలియజేయడానికి మేము లోగోను ఉపయోగించినంత వరకు, అనుమతి అడగవలసిన అవసరం లేదు.
------------------------------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**ఫైల్ కు ఇలా పేరు పెట్టండి**: name-of-the-label.[width]x90.png ఇక్కడ వెడల్పు అంటే లోగో 90 పిక్సెల్స్ ఎత్తు ఉన్నప్పుడు దాని వెడల్పు. ఫైల్ పేర్లు ఉచ్ఛారణ లేకుండా, చిన్న అక్షరాలలో ఉండాలి మరియు ఖాళీలకు బదులుగా "-"ని ఉపయోగించాలి.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- తరువాత దాని కానానికల్ పేరుకు అనుగుణంగా ఉన్న డైరెక్టరీలో లోగోను జోడించండి. కానానికల్ పేరు en:something అయితే, అవి /en/ లో ఉండాలి. లోగోల కోసం రూట్ డైరెక్టరీ [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ని నా భాషలోకి ఎలా అనువదించాలి?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) కు వెళ్ళండి.
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## ఈ తరచుగా అడిగే ప్రశ్నలను నా భాషలోకి ఎలా అనువదించాలి?
+## How do I translate Open Food Facts to my language ?
 
-నాలెడ్జ్ బేస్ కు సవరణ యాక్సెస్ కోసం దయచేసి contact@openfoodfacts.org ని అడగండి.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
