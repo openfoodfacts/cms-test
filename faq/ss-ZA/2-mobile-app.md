@@ -1,52 +1,52 @@
 ---
-title: "{{< fa usayizi weselula=2x >}} I-app yeselula"
-description: "4 imibuto"
-lang: si-gb
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: hambako
+icon: mobile
 ---
 
-{{< fa "hambako" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ngingati njani kutsi nguyiphi i-app lengiyisebentisako?
+## How do I know which version of the app I'm using?
 
-Iya ku **Iphrofayili**,
-bese kuba **IMIBUTO**, bese kuba **Mayelana nale-app.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Kufanele
-ubone inombolo yenguqulo njenge 3.4.5+662. Ungakhohlwa kusitjela make nemodeli
-yefoni uma ngabe iyalungisa emaphutsa.
-
----
-
-## Le app ayiskeni
-
-Loku kungenteka kutsi kungenca yekutsi
-
-- Inkinga yenethiwekhi
-
-- Inkinga yetimvume
-
-- inkinga yebhakhodi
-
-Sitfumelele imeyili nge Profile >> Xhumana Natsi >> Sitfumelele imeyili.
-
-Lonkhe lwati lolufanele kufanele lunamatsele esicelweni sakho.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ngingasita njani ngekutfutfukisa i-app yeselula ?
+## The app does not scan
 
-Ngingasita njani ngekutfutfukisa i-app yeselula ?
+This may be due to
 
-Unga [kwenta njalo endzaweni yekugcina i-app yeselula](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ngingatfumela kuphi imphendvulo mayelana ne-app ?
+## How can I help with improving the mobile app ?
 
-Ungatfumela imibono yakho ku mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
