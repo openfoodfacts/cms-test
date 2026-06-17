@@ -1,52 +1,52 @@
 ---
-title: "{{< fa ජංගම ප්‍රමාණය=2x >}} ජංගම යෙදුම"
-description: "ප්‍රශ්න 4ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: ජංගම
+icon: mobile
 ---
 
-{{< fa "ජංගම" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## මම භාවිතා කරන යෙදුමේ කුමන අනුවාදයදැයි දැන ගන්නේ කෙසේද?
+## How do I know which version of the app I'm using?
 
-**පැතිකඩ** වෙත යන්න,
-පසුව **නිතර අසන ප්‍රශ්න**, පසුව **මෙම යෙදුම ගැන**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-ඔබ
-3.4.5+662 වැනි අනුවාද අංකයක් දැකිය යුතුය. දුරකථනය දෝෂහරණය කරන්නේ නම් එහි වෙළඳ නාමය සහ මාදිලිය
-අපට කියන්න අමතක කරන්න එපා.
-
----
-
-## යෙදුම ස්කෑන් නොකරයි
-
-මෙයට හේතුව විය හැක්කේ
-
-- ජාල ගැටළුවක්
-
-- අවසර ගැටළුවක්
-
-- තීරු කේත ගැටළුවක්
-
-පැතිකඩ >> අප අමතන්න >> හරහා අපට විද්‍යුත් තැපෑලක් එවන්න.
-
-අදාළ සියලු තොරතුරු ඔබගේ ඉල්ලීමට අමුණා තිබිය යුතුය.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## ජංගම යෙදුම වැඩිදියුණු කිරීමට මට උදව් කළ හැක්කේ කෙසේද?
+## The app does not scan
 
-ජංගම යෙදුම වැඩිදියුණු කිරීමට මට උදව් කළ හැක්කේ කෙසේද?
+This may be due to
 
-ඔබට [ජංගම යෙදුම් ගබඩාවෙන් එසේ කළ හැක](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## යෙදුම පිළිබඳ ප්‍රතිපෝෂණ මට යැවිය හැක්කේ කොතැනින්ද?
+## How can I help with improving the mobile app ?
 
-ඔබට mobile@openfoodfacts.org වෙත ප්‍රතිපෝෂණ යැවිය හැක.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
