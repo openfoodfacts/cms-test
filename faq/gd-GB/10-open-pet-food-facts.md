@@ -1,21 +1,21 @@
 ---
-title: "{{< meud spòg fa=2x >}} Fosgail Fiosrachadh mu Bhiadh Pheataichean"
-description: "2 cheist"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: spòg
+icon: paw
 ---
 
-{{< fa "spòg" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Carson nach eil Nutri-Score ann airson bheathaichean?
+## Why is there no Nutri-Score for animals?
 
-Tha gach beathach eadar-dhealaichte (chan eil na h-aon fheumalachdan beathachaidh aig nathair ri cat no cù)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Fiù 's taobh a-staigh an aon sheòrsa beathach leithid coin, bidh na feumalachdan beathachaidh ag atharrachadh a rèir beatha dòigh-beatha shuidhichte, castration no galairean a dh'fhaodadh a bhith ann.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Mar sin tha e iom-fhillte sgòr obrachadh a-mach airson biadh bheathaichean gun a bhith a’ toirt a-steach dusanan de luchd-rannsachaidh agus a’ cruthachadh dusanan de dhiofar algairidhean, rud nach deach a dhèanamh gu ruige seo.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
