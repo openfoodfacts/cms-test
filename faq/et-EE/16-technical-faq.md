@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Tehniline KKK"
-description: "1 küsimus"
-lang: et-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: brändid github
+icon: brands github
 ---
 
 {{< fa "kaubamärgid" "github" size=3x >}}
 
-## Kas peaksin lähteteksti muutmisel kõiki keelefaile värskendama?
+## Should I update all language files when I change a source string?
 
-Ei, sa ei tee seda. Pead lihtsalt ingliskeelse versiooni uuendama.
+No you don't. You just need to update the English one
 
-- Loo oma PR
+- Create your PR
 
-Kui see on ühendatud, muudame crowdin-triggeri baasi käsitsi ja GitHub Actionsi käivitatud Crowdini tõlkesüsteem teeb ülejäänu teiste keelte jaoks.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Seejärel loob GitHubi bot automaatselt uue PR-i, mille me seejärel üle vaatame.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
