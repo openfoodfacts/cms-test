@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Cải thiện thông tin thực phẩm công khai bằng ngôn ngữ/quốc gia của tôi"
-description: "3 câu hỏi"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: khối cầu
+icon: globe
 ---
 
-{{< fa "khối cầu" size="3 lần" >}}
+{{< fa "globe" size=3x >}}
 
-## Tôi muốn thêm một logo mới cho nhãn sản phẩm.
+## I would like to add a new logo for labels
 
-Đây là quy trình:
+Here is the process:
 
-- tìm **tên chính tắc** của nhãn trong [phân loại nhãn](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (đó là mục đầu tiên trong danh sách các từ đồng nghĩa của nhãn, ví dụ: en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Hãy lấy logo với chất lượng tốt**: tránh sử dụng ảnh của người đóng góp không phù hợp trong trường hợp này; hầu hết các nhãn hiệu đều có trang web chính thức với logo chất lượng cao, đôi khi ở định dạng vector (càng tốt hơn cho chúng ta); miễn là chúng ta sử dụng logo để thông báo một cách khách quan về sự hiện diện của nhãn
-trên bao bì sản phẩm, thì không cần phải xin phép.
-------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Đặt tên tệp theo định dạng này:**: tên-của-nhãn-hình.[chiều-rộng]x90.png trong đó chiều rộng là chiều rộng của logo khi cao 90 pixel. Tên tập tin cần viết thường, không có dấu và sử dụng dấu gạch ngang ("-") thay vì dấu cách.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- Sau đó, thêm logo vào thư mục tương ứng với tên chính thức của nó. Nếu tên chuẩn là en:something, thì chúng cần phải ở định dạng /en/. Thư mục gốc chứa logo là [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Tôi có thể dịch Open Food Facts sang ngôn ngữ của mình như thế nào?
-
-Hãy truy cập vào [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Tôi có thể dịch phần Hỏi đáp này sang ngôn ngữ của mình như thế nào?
+## How do I translate Open Food Facts to my language ?
 
-Vui lòng liên hệ contact@openfoodfacts.org để được cấp quyền chỉnh sửa cơ sở kiến thức.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
