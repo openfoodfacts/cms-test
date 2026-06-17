@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} 志愿服务/贡献"
-description: "3个问题"
-lang: 英语-英国
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: 编辑
 ---
 
-{{< fa "编辑" size=3倍 >}}
+{{< fa "编辑" size=3x >}}
 
-## 有没有办法删除已上传的产品图片？
+## Is there a way to remove uploaded images for products?
 
-为避免潜在的破坏行为，只有版主才能删除照片。
+Only moderators can remove photos, to avoid potential vandalism.
 
-只需在 Slack 上或通过 **contact@openfoodfacts.org** 提出请求，即可删除重复内容或任何不合适的照片（您应该尝试提供条形码编号或 URL）。
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-如果您是程序员，我们还提供了一个新的图像报告 API。
-
----
-
-## 我是一名设计师。 我能帮上什么忙？
-
-我们在 [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) 和一个专门的聊天频道上协调所有与设计相关的活动。 我们定期召开团队会议，就具体挑战进行头脑风暴。
+We also have a new image report API if you're a programmer.
 
 ---
 
-## 在某些情况下，同一产品在不同国家/地区的营养价值可能不同，Open Food Facts 是如何处理这种情况的？
+## I'm a designer. How can I help ?
 
-99%的情况下，生产商会为其产品的不同版本创建不同的条形码。 一个著名的例子是法国和德国的Nutella巧克力酱在浓稠度上的差异，这是由于不同国家的面包不同造成的。 两种不同的配方，两种不同的条形码。
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-但是，条形码冲突可能会发生在较短的条形码（EAN-8）上，这种条形码通常会被欧洲和美国的一些商店重复使用。 我们目前无法处理条形码冲突，但可以通过获取用户的大致位置来解决这个问题（在一个国家内出现条形码冲突的情况就更罕见了）。
+---
 
-从长远来看，我们鼓励生产商改用 EAN-13 条形码，以避免条形码冲突。
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
