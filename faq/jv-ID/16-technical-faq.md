@@ -1,23 +1,23 @@
 ---
-title: "{{< merek fa ukuran github=2x >}} FAQ Teknis"
-description: "1 pitakonan"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: merek github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Apa aku kudu nganyari kabeh file basa nalika ngganti string sumber?
+## Should I update all language files when I change a source string?
 
-Ora, kowé ora. Sampeyan mung perlu nganyari sing basa Inggris
+No you don't. You just need to update the English one
 
-- Gawe PR-mu
+- Create your PR
 
-Sawise digabung, kita bakal ngowahi basis crowdin-trigger kanthi manual lan sistem terjemahan Crowdin sing dipicu dening GitHub Actions bakal nindakake liyane kanggo basa liyane.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot GitHub banjur nggawe PR anyar kanthi otomatis sing banjur ditinjau.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
