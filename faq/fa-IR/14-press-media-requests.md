@@ -1,17 +1,17 @@
 ---
-title: "{{< اندازه روزنامه=۲x >}} درخواست‌های مطبوعاتی و رسانه‌ای"
-description: "۱ سوال"
-lang: انگلیسی-انگلیسی
-order: ۱۴
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
+order: 14
 category-level: 0
-icon: روزنامه
+icon: newspaper
 ---
 
-{{< fa "روزنامه" size="۳ برابر" >}}
+{{< fa "newspaper" size=3x >}}
 
-## چگونه می‌توانم تصاویر مطبوعاتی مربوط به Open Food Facts را دریافت کنم؟
+## How can I get press visuals on Open Food Facts?
 
-لطفا با ما تماس بگیرید: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
