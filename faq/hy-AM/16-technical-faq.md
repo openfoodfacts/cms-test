@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Տեխնիկական Հաճախակի տրվող հարցեր"
-description: "1 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: ապրանքանիշեր GitHub-ում
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Արդյո՞ք պետք է թարմացնեմ բոլոր լեզվական ֆայլերը, երբ փոխում եմ սկզբնաղբյուրի տողը։
+## Should I update all language files when I change a source string?
 
-Ոչ, դուք չունեք։ Դուք պարզապես պետք է թարմացնեք անգլերենը
+No you don't. You just need to update the English one
 
-- Ստեղծեք ձեր PR-ը
+- Create your PR
 
-Միավորվելուց հետո մենք ձեռքով կվերափոխենք crowdin-trigger-ի հիմքը, իսկ GitHub Actions-ի կողմից ակտիվացվող Crowdin թարգմանչական համակարգը կանի մնացածը մյուս լեզուների համար։
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub բոտը այնուհետև ավտոմատ կերպով ստեղծում է նոր PR, որը մենք վերանայում ենք։
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
