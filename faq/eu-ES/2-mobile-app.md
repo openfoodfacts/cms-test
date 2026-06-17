@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mugikorreko tamaina=2x >}} Mugikorretarako aplikazioa"
-description: "4 galdera"
-lang: eu-gb
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: mugikorra
+icon: mobile
 ---
 
-{{< fa "mugikorra" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Nola jakin dezaket erabiltzen ari naizen aplikazioaren zein bertsio?
+## How do I know which version of the app I'm using?
 
-Joan **Profilera**,
-ondoren **FAQ** atalera eta, azkenik, **Aplikazio honi buruz** atalera.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-3.4.5+662 bezalako bertsio zenbaki bat ikusi beharko zenuke
-. Ez ahaztu telefonoaren marka eta modeloa
-esatea, akatsak konpontzen ari bada.
-
----
-
-## Aplikazioak ez du eskaneatzen
-
-Honen ondorioz izan daiteke
-
-- sareko arazo bat
-
-- baimen arazo bat.
-
-- barra-kode arazo bat
-
-Bidali mezu elektroniko bat Profila >> Jarri gurekin harremanetan >> Bidali mezu elektroniko bat atalaren bidez.
-
-Eskaerari erantsi behar zaio informazio garrantzitsu guztia.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Nola lagundu dezaket mugikorretarako aplikazioa hobetzen?
+## The app does not scan
 
-Nola lagundu dezaket mugikorretarako aplikazioa hobetzen?
+This may be due to
 
-[Mugikorretarako aplikazioen biltegian egin dezakezu](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Nora bidal dezaket aplikazioari buruzko iritzia?
+## How can I help with improving the mobile app ?
 
-Zure iritzia mobile@openfoodfacts.org helbidera bidal dezakezu.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
