@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Techniniai DUK"
-description: "1 klausimas"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: prekių ženklai „GitHub“
+icon: brands github
 ---
 
-{{< fa "prekės ženklai" "github" size="3 kartus" >}}
+{{< fa "prekės ženklai" "github" size=3x >}}
 
-## Ar turėčiau atnaujinti visus kalbos failus, kai keičiu šaltinio eilutę?
+## Should I update all language files when I change a source string?
 
-Ne, tu ne. Jums tereikia atnaujinti anglišką versiją
+No you don't. You just need to update the English one
 
-- Sukurkite savo PR
+- Create your PR
 
-Kai jis bus sujungtas, mes rankiniu būdu pakeisime „crowdin-trigger“ bazę, o „GitHub Actions“ suaktyvinta „Crowdin“ vertimo sistema atliks visa kita kitoms kalboms.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Tada „GitHub“ robotas automatiškai sukuria naują PR, kurį mes peržiūrime.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
