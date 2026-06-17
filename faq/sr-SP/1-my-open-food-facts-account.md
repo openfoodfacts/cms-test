@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Мој налог Open Food Facts"
-description: "2 питања"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: кориснички круг
+icon: user-circle
 ---
 
-{{< fa "кориснички круг" size="3 пута" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Желим да обришем свој налог
+## I want to delete my account
 
-Брисање налога се сада дешава директно у вашим подешавањима.
+Account deletion now happens directly in your preferences.
 
-Након пријаве на [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), кликните на корисничко име у горњем десном углу, изаберите Параметри налога. Отвара вашу страницу са подешавањима. Идите на дно странице и користите акцију „обриши корисника“.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ако не можете да се пријавите (или ресетујете лозинку), контактирајте dpo - на - [openfoodfacts.org](http://openfoodfacts.org), користећи адресу е-поште коју користите за регистрацију налога.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
