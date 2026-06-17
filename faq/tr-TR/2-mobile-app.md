@@ -1,51 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobil uygulama"
-description: "4 soru"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobil
+icon: mobile
 ---
 
-{{< fa "mobil" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Kullandığım uygulamanın hangi sürümünü kullandığımı nasıl anlarım?
+## How do I know which version of the app I'm using?
 
-**Profil**'e, ardından
-simgesine, sonra **SSS**'ye ve son olarak **Bu uygulama hakkında**'ya gidin.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-3.4.5+662 gibi bir sürüm numarası görmelisiniz. Hata ayıklama yapıyorsanız, telefonun marka ve modelini
-bize bildirmeyi unutmayın.
-
----
-
-## Uygulama tarama yapmıyor.
-
-Bunun sebebi şu olabilir:
-
-- bir ağ sorunu
-
-- bir izin sorunu
-
-- bir barkod sorunu
-
-Profil >> Bize Ulaşın >> Bize e-posta gönderin bölümünden bize e-posta gönderin.
-
-İlgili tüm bilgileri talebinize eklemelisiniz.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Mobil uygulamanın geliştirilmesine nasıl yardımcı olabilirim?
+## The app does not scan
 
-Mobil uygulamanın geliştirilmesine nasıl yardımcı olabilirim?
+This may be due to
 
-Bunu [Mobil uygulama deposunda](https://github.com/openfoodfacts/smooth-app) yapabilirsiniz.
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Uygulama hakkında geri bildirimimi nereye gönderebilirim?
+## How can I help with improving the mobile app ?
 
-Geri bildirimlerinizi mobile@openfoodfacts.org adresine gönderebilirsiniz.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
