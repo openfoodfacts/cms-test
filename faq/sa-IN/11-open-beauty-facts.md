@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} सौन्दर्यतथ्यानि उद्घाटयन्तु"
-description: "४ प्रश्नाः"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
-order: ११
+order: 11
 category-level: 0
-icon: टैग्स
+icon: tags
 ---
 
-{{< fa "टैग्स" size=३x >}}
+{{< fa "tags" size=3x >}}
 
-## किं Open Beauty Facts इत्यस्य विश्लेषणप्रयोगशाला अस्ति ?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -29,23 +29,23 @@ can join the Facebook group of contributors:
 
 ---
 
-## अहं मम उत्पादान् Open Beauty Facts इत्यत्र कथं आयातयामि?
+## How do I import my products into Open Beauty Facts?
 
-producteurs@openfoodfacts.org इत्यत्र सम्पर्कं कुर्वन्तु अथवा प्रत्यक्षतया गच्छन्तु
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) ततः \*\*producteurs@openfoodfacts.org \*\*विशेषनिर्यातार्थं सम्पर्कं कुर्वन्तु
-
----
-
-## Open Beauty Facts data कुत्र डाउनलोड् कर्तुं शक्नोमि?
-
-/data पृष्ठं सम्प्रति भग्नम् अस्ति । भवान् [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv) इत्यत्र आँकडान् डाउनलोड् कर्तुं शक्नोति।
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Open Beauty Facts API तथा data exports कुत्र प्राप्नुयाम् ?
+## Where can I download Open Beauty Facts data?
 
-Open Food Facts API 98% Open Beauty Facts API इत्यस्य समानम् अस्ति अतः यदि भवान् Open Food Facts API दस्तावेजीकरणस्य उपयोगं करोति तर्हि भवतां Open Beauty Facts API इत्यस्य सुन्दरं स्पष्टं दृश्यं भवितुमर्हति।
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
