@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} پالتو جانورن جي کاڌي جا کليل حقيقتون"
-description: "2 سوال"
-lang: اين جي بي
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: پنجو
+icon: paw
 ---
 
-{{< fa "پنجو" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## جانورن لاءِ نيوٽري اسڪور ڇو ناهي؟
+## Why is there no Nutri-Score for animals?
 
-هر جانور مختلف آهي (سانپ کي ٻلي يا ڪتي وانگر غذائي ضرورتون نه هونديون آهن)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-جيتوڻيڪ ساڳئي قسم جي جانورن جهڙوڪ ڪتن ۾، غذائي ضرورتون بيچيني طرز زندگي، ممڪن طور تي ڪاسٽريشن يا بيمارين جي مطابق مختلف هونديون آهن.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-تنهن ڪري، جانورن جي کاڌ خوراڪ لاءِ اسڪور ڳڻڻ پيچيده آهي بغير درجنين محققن کي شامل ڪرڻ ۽ درجنين مختلف الگورتھم ٺاهڻ جي، جيڪو اڄ تائين نه ڪيو ويو آهي.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
