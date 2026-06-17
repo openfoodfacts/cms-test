@@ -1,40 +1,40 @@
 ---
-title: "{{< magnitudo globi fa=2x >}} Emendatio Factorum Ciborum Apertorum in lingua/patria mea"
-description: "Tres quaestiones"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
-order: XV
+order: 15
 category-level: 0
-icon: globus
+icon: globe
 ---
 
-{{< fa "globus" size=Ter >}}
+{{< fa "globe" size=3x >}}
 
-## Novum logo pro inscriptionibus addere velim.
+## I would like to add a new logo for labels
 
-Hic est processus:
+Here is the process:
 
-- In [taxonomia inscriptionum](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) nomen **canonicum** inscriptionis inveni (primum elementum in indice synonymorum inscriptionum est, e.g. en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Insigne bonae qualitatis accipe**: Vitanda est photographia auctoris, quae huic casui non apta est; pleraeque notae in paginis interretialibus officialibus logos altae qualitatis habent, interdum in forma vectorali (nobis etiam melius); dummodo logo utimur ad objective indicandum de praesentia notae
-in involucro producti, non opus est permissionem petere.
-------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Nomina fasciculum hoc modo:** nomen-inscriptionis.[latitudo]x90.png ubi latitudo est latitudo logo cum 90 pixelorum altum est. Nomina fasciculorum sine accentu, litteris minusculis scripta et "-" loco spatiorum utenda esse debent.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- deinde logo in directorio adde quod nomini canonico respondet. Si nomen canonicum est "en:something", tunc in "/en/" esse debent. Directorium principale logorum est [[https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Quomodo "Open Food Facts" in linguam meam converto?
-
-Perge ad [[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)]
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Quomodo hanc Quaestionem Frequenter Interrogatam (FAQ) in linguam meam convertam?
+## How do I translate Open Food Facts to my language ?
 
-Quaeso roga contact@openfoodfacts.org ut ad basim scientiae pervenias et eam recenseas.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
