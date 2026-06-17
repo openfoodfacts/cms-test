@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Саволҳои зуд-зуд додашавандаи техникӣ"
-description: "1 савол"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: брендҳо github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Оё ҳангоми иваз кардани сатри сарчашма бояд ҳамаи файлҳои забонро навсозӣ кунам?
+## Should I update all language files when I change a source string?
 
-Не, шумо ин корро намекунед. Шумо танҳо бояд забони англисиро навсозӣ кунед
+No you don't. You just need to update the English one
 
-- PR-и худро эҷод кунед
+- Create your PR
 
-Пас аз муттаҳид шудан, мо crowdin-trigger-ро дастӣ аз нав ба кор медарорем ва системаи тарҷумаи Crowdin, ки аз ҷониби GitHub Actions фаъол карда мешавад, боқимондаро барои забонҳои дигар анҷом медиҳад.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Сипас боти GitHub ба таври худкор PR-и нав эҷод мекунад, ки мо онро баррасӣ мекунем.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
