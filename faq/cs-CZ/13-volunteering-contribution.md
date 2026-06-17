@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Dobrovolnictví / Příspěvek"
-description: "3 otázky"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: upravit
 
 {{< fa "upravit" size=3x >}}
 
-## Existuje způsob, jak odstranit nahrané obrázky produktů?
+## Is there a way to remove uploaded images for products?
 
-Fotografie mohou mazat pouze moderátoři, aby se předešlo možnému vandalismu.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Stačí se zeptat na Slacku nebo na adrese **contact@openfoodfacts.org**, aby odstranili duplikáty nebo jakékoli nevhodné fotografie (měli byste se pokusit poskytnout číslo čárového kódu nebo URL adresu).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Také máme nové API pro tvorbu reportů obrázků, pokud jste programátor.
-
----
-
-## Jsem designér. Jak mohu pomoci?
-
-Veškeré aktivity související s designem koordinujeme na [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) a na vyhrazeném chatovacím kanálu. Pravidelně pořádáme týmové schůzky a brainjamy na konkrétní výzvy.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## V některých případech může mít stejný produkt v jednotlivých zemích různé nutriční hodnoty. Jak je to řešeno v Open Food Facts?
+## I'm a designer. How can I help ?
 
-V 99 % případů výrobci vytvářejí různé čárové kódy pro různé verze svých produktů. Slavným příkladem je rozdíl mezi francouzskou a německou Nutellou v tloušťce, což je způsobeno rozdíly v chlebu v různých zemích. 2 různé vzorce, 2 různé čárové kódy.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Ke kolizi čárových kódů však může docházet u kratších kódů (EAN-8), které obvykle opakovaně používají některé obchody v Evropě a USA. V současné době se s těmito kolizemi čárových kódů nezabýváme, ale mělo by to být možné zjištěním obecné polohy uživatele (ještě vzácnější jsou kolize čárových kódů v rámci jedné země).
+---
 
-Z dlouhodobého hlediska doporučujeme výrobcům, aby přešli na EAN-13, a vyhnuli se tak těmto kolizím s čárovými kódy.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
