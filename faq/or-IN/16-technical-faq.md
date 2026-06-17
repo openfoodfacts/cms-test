@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} ବୈଷୟିକ ପ୍ରଶ୍ନ"
-description: "1ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
-order: ୧୬
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: ବ୍ରାଣ୍ଡ ଗିଥବ
+icon: brands github
 ---
 
-{{< fa "brands" "ଗିଥବ୍‌" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## ମୁଁ ଏକ ସୋର୍ସ ଷ୍ଟ୍ରିଙ୍ଗ ପରିବର୍ତ୍ତନ କରିବା ସମୟରେ ସମସ୍ତ ଭାଷା ଫାଇଲଗୁଡ଼ିକୁ ଅପଡେଟ୍ କରିବା ଉଚିତ କି?
+## Should I update all language files when I change a source string?
 
-ନା, ତୁମେ କରିବ ନାହିଁ। ତୁମକୁ କେବଳ ଇଂରାଜୀକୁ ଅପଡେଟ୍ କରିବାକୁ ପଡିବ।
+No you don't. You just need to update the English one
 
-- ଆପଣଙ୍କର ଜନସଂସ୍ଥା ସୃଷ୍ଟି କରନ୍ତୁ
+- Create your PR
 
-ଏହା ମିଶ୍ରଣ ହେବା ପରେ, ଆମେ ମାନୁଆଲୀ crowdin-trigger କୁ ପୁନଃସ୍ଥାପନ କରିବୁ ଏବଂ GitHub Actions ଦ୍ୱାରା ଟ୍ରିଗର ହୋଇଥିବା Crowdin ଅନୁବାଦ ସିଷ୍ଟମ ଅନ୍ୟ ଭାଷା ପାଇଁ ବାକି କାମ କରିବ।
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub ବଟ୍ ତା'ପରେ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଏକ ନୂତନ PR ସୃଷ୍ଟି କରେ ଯାହାକୁ ଆମେ ତା'ପରେ ସମୀକ୍ଷା କରୁ।
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
