@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} แอปพลิเคชันมือถือ"
-description: "4 คำถาม"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: มือถือ
+icon: mobile
 ---
 
-{{< fa "มือถือ" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## ฉันจะรู้ได้อย่างไรว่าฉันกำลังใช้แอปเวอร์ชันใดอยู่?
+## How do I know which version of the app I'm using?
 
-ไปที่ **โปรไฟล์**,
-จากนั้น **คำถามที่พบบ่อย**, จากนั้น **เกี่ยวกับแอปนี้**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-คุณควรจะเห็นหมายเลขเวอร์ชันเช่น 3.4.5+662
-อย่าลืมบอกยี่ห้อและรุ่นของโทรศัพท์
-ให้เราทราบด้วยนะคะ ถ้ากำลังทำการดีบั๊กอยู่
-
----
-
-## แอปไม่ทำการสแกน
-
-นี่อาจเป็นเพราะ
-
-- ปัญหาเครือข่าย
-
-- ปัญหาเรื่องสิทธิ์การเข้าถึง
-
-- ปัญหาเกี่ยวกับบาร์โค้ด
-
-ส่งอีเมลถึงเราได้ที่ โปรไฟล์ >> ติดต่อเรา >> ส่งอีเมลถึงเรา
-
-โปรดแนบข้อมูลที่เกี่ยวข้องทั้งหมดมาพร้อมกับคำขอของคุณ
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## ฉันจะช่วยปรับปรุงแอปพลิเคชันมือถือได้อย่างไร?
+## The app does not scan
 
-ฉันจะช่วยปรับปรุงแอปพลิเคชันมือถือได้อย่างไร?
+This may be due to
 
-คุณสามารถ [ทำเช่นนั้นได้ในคลังแอปมือถือ](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## ฉันสามารถส่งข้อเสนอแนะเกี่ยวกับแอปได้ที่ไหน?
+## How can I help with improving the mobile app ?
 
-คุณสามารถส่งข้อเสนอแนะได้ที่ mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
