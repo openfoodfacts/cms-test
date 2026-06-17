@@ -1,21 +1,21 @@
 ---
-title: "{{< памер лапы fa=2x >}} Адкрытая інфармацыя пра корм для хатніх жывёл"
-description: "2 пытанні"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: лапа
+icon: paw
 ---
 
-{{< fa "лапа" size="3 разы" >}}
+{{< fa "paw" size=3x >}}
 
-## Чаму няма Nutri-Score для жывёл?
+## Why is there no Nutri-Score for animals?
 
-Кожная жывёла адрозніваецца (змяя мае розныя патрэбы ў харчаванні, як котка ці сабака)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Нават у аднаго і таго ж тыпу жывёл, такіх як сабакі, патрэбы ў харчаванні адрозніваюцца ў залежнасці ад маларухомага ладу жыцця, магчымай кастрацыі або хвароб.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Таму складана разлічыць бал для корму для жывёл без удзелу дзясяткаў даследчыкаў і стварэння дзясяткаў розных алгарытмаў, чаго дагэтуль не рабілася.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
