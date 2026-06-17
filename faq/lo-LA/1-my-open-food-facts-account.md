@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} ບັນຊີ Open Food Facts ຂອງຂ້ອຍ"
-description: "2 ຄຳຖາມ"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: ວົງມົນຜູ້ໃຊ້
+icon: user-circle
 ---
 
-{{< fa "ວົງມົນຜູ້ໃຊ້" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## ຂ້ອຍຕ້ອງການລຶບບັນຊີຂອງຂ້ອຍ
+## I want to delete my account
 
-ການລຶບບັນຊີດຽວນີ້ເກີດຂຶ້ນໂດຍກົງໃນການຕັ້ງຄ່າຂອງທ່ານ.
+Account deletion now happens directly in your preferences.
 
-ຫຼັງຈາກເຂົ້າສູ່ລະບົບໃນ [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), ໃຫ້ຄລິກໃສ່ຊື່ຜູ້ໃຊ້ຢູ່ແຈຂວາເທິງ, ເລືອກ Account Parameters. ມັນເປີດໜ້າຄວາມມັກຂອງທ່ານ. ໄປທີ່ສ່ວນລຸ່ມສຸດຂອງໜ້າ ແລະ ໃຊ້ຄຳສັ່ງ "ລຶບຜູ້ໃຊ້".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-ຖ້າທ່ານບໍ່ສາມາດເຂົ້າສູ່ລະບົບ (ຫຼື ຕັ້ງລະຫັດຜ່ານຂອງທ່ານຄືນໃໝ່), ກະລຸນາຕິດຕໍ່ຫາ dpo - ທີ່ - [openfoodfacts.org](http://openfoodfacts.org) ໂດຍໃຊ້ທີ່ຢູ່ອີເມວທີ່ທ່ານໃຊ້ເພື່ອລົງທະບຽນບັນຊີ.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
