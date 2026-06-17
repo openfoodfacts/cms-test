@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Дархостҳои матбуот ва ВАО"
-description: "1 савол"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: рӯзнома
+icon: newspaper
 ---
 
-{{< fa "рӯзнома" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Чӣ тавр ман метавонам видеоҳои матбуотиро дар бораи Open Food Facts дастрас кунам?
+## How can I get press visuals on Open Food Facts?
 
-Лутфан, бо суроғаи зерин тамос гиред: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
