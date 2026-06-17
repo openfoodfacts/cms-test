@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} ٽيڪنيڪل سوال"
-description: "1 سوال"
-lang: اين جي بي
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: برانڊز گيٿب
+icon: brands github
 ---
 
-{{< fa "brands" "گِٽ هب" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## ڇا مون کي سڀني ٻولين جي فائلن کي اپڊيٽ ڪرڻ گهرجي جڏهن مان سورس اسٽرنگ تبديل ڪريان؟
+## Should I update all language files when I change a source string?
 
-نه، توهان نٿا ڪريو. توهان کي صرف انگريزي کي اپڊيٽ ڪرڻ جي ضرورت آهي.
+No you don't. You just need to update the English one
 
-- پنهنجو پي آر ٺاهيو
+- Create your PR
 
-هڪ دفعو ان کي ضم ڪيو ويندو، اسان ڪراؤڊن-ٽريگر کي دستي طور تي ري بيس ڪنداسين ۽ گٽ هب ايڪشنز پاران ٽرگر ڪيل ڪراؤڊن ترجمو سسٽم باقي ٻين ٻولين لاءِ ڪندو.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-پوءِ GitHub بوٽ پاڻمرادو هڪ نئون PR ٺاهيندو آهي جنهن جو اسين پوءِ جائزو وٺندا آهيون.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
