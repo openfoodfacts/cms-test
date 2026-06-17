@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Tehniskie bieži uzdotie jautājumi"
-description: "1 jautājums"
-lang: lv-lv
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: zīmoli github
+icon: brands github
 ---
 
 {{< fa "zīmoli" "github" size=3x >}}
 
-## Vai man jāatjaunina visi valodas faili, mainot avota virkni?
+## Should I update all language files when I change a source string?
 
-Nē, tu to nedari. Tev tikai jāatjaunina angļu valoda
+No you don't. You just need to update the English one
 
-- Izveidojiet savu PR
+- Create your PR
 
-Kad tas būs apvienots, mēs manuāli pārveidosim crowdin-trigger bāzi, un GitHub Actions aktivizētā Crowdin tulkošanas sistēma paveiks pārējo citām valodām.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Pēc tam GitHub robots automātiski izveido jaunu PR, kuru mēs pēc tam pārskatām.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
