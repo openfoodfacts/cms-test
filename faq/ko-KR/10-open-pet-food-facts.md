@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} 반려동물 사료 정보 보기"
-description: "질문 2개"
-lang: 영어-영국
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: 발
+icon: paw
 ---
 
-{{< fa "발" size=3배 >}}
+{{< fa "paw" size=3x >}}
 
-## 동물용 뉴트리스코어가 없는 이유는 무엇인가요?
+## Why is there no Nutri-Score for animals?
 
-각 동물은 모두 다릅니다 (뱀은 고양이나 개와 같은 영양 요구량을 가지고 있지 않습니다).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-개와 같은 같은 동물이라도 활동량이 적은 생활 방식, 거세 여부, 질병 유무에 따라 영양 요구량이 달라집니다.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-따라서 수십 명의 연구원을 동원하고 수십 가지의 서로 다른 알고리즘을 개발하지 않고서는 동물 사료에 대한 점수를 계산하는 것은 복잡하며, 현재까지 그러한 작업은 수행되지 않았습니다.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
