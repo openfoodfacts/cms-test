@@ -1,52 +1,52 @@
 ---
-title: "{{< fa բջջային չափս=2x >}} Բջջային հավելված"
-description: "4 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: բջջային
+icon: mobile
 ---
 
-{{< fa "բջջային" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ինչպե՞ս իմանամ, թե հավելվածի որ տարբերակն եմ օգտագործում։
+## How do I know which version of the app I'm using?
 
-Անցեք **Պրոֆիլ**,
-, այնուհետև **Հաճախակի տրվող հարցեր**, այնուհետև **Այս հավելվածի մասին**:
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Դուք պետք է տեսնեք
-տարբերակի համարը, օրինակ՝ 3.4.5+662: Մի մոռացեք մեզ ասել հեռախոսի մակնիշը և մոդելը
-, եթե այն վրիպազերծման խնդիր ունի։
-
----
-
-## Հավելվածը չի սկանավորում
-
-Սա կարող է պայմանավորված լինել
-
-- ցանցի խնդիր
-
-- թույլտվությունների խնդիր
-
-- շտրիխ կոդի խնդիր
-
-Ուղարկեք մեզ էլ. նամակ «Պրոֆիլ» բաժնում >> Կապ մեզ հետ >> Ուղարկեք մեզ էլ. նամակ։
-
-Ձեր հարցմանը պետք է կցված լինեն բոլոր համապատասխան տեղեկությունները։
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ինչպե՞ս կարող եմ օգնել բջջային հավելվածի բարելավմանը։
+## The app does not scan
 
-Ինչպե՞ս կարող եմ օգնել բջջային հավելվածի բարելավմանը։
+This may be due to
 
-Դուք կարող եք [դա անել բջջային հավելվածի պահոցում](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ու՞ր կարող եմ ուղարկել հավելվածի վերաբերյալ իմ կարծիքը։
+## How can I help with improving the mobile app ?
 
-Կարող եք արձագանք ուղարկել mobile@openfoodfacts.org հասցեին։
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
