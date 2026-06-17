@@ -1,21 +1,21 @@
 ---
-title: "{{< fa pav size=2x >}} Хайваннар азыгы турында ачык мәгълүмат"
-description: "2 сорау"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: тырнак
+icon: paw
 ---
 
-{{< fa "тырнак" size=3х >}}
+{{< fa "paw" size=3x >}}
 
-## Ни өчен хайваннар өчен Nutri-Score юк?
+## Why is there no Nutri-Score for animals?
 
-Һәр хайван төрле (еланның мәче яки эт кебек туклыклы матдәләргә ихтыяҗы юк)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Хәтта этләр кебек бер үк төр хайваннарның да туклыклы матдәләргә ихтыяҗы утырык тормыш рәвешенә, кастрациягә яки авыруларга карап үзгәрә.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Шуңа күрә, дистәләгән тикшеренүчеләрне җәлеп итмичә һәм дистәләгән төрле алгоритмнар булдырмыйча, терлек азыгы өчен баллны исәпләү катлаулы, ә бүгенге көнгә кадәр бу эш башкарылмаган.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
