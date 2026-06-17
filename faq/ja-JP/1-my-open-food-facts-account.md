@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} 私のOpen Food Factsアカウント"
-description: "2つの質問"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: ユーザーサークル
+icon: user-circle
 ---
 
-{{< fa "ユーザーサークル" size=3倍 >}}
+{{< fa "user-circle" size=3x >}}
 
-## アカウントを削除したい
+## I want to delete my account
 
-アカウントの削除は設定で直接実行されるようになりました。
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) にログイン後、右上隅のユーザー名をクリックし、アカウントパラメータを選択します。 設定ページが開きます。 ページの下部に移動し、「ユーザーの削除」アクションを使用します。
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-ログインできない場合（またはパスワードをリセットできない場合）は、アカウント登録に使用したメールアドレスを使用して、dpo - at - [openfoodfacts.org](http://openfoodfacts.org) までご連絡ください。
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
