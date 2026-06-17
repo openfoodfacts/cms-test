@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ak'haonte ea ka ea Open Food Facts"
-description: "Lipotso tse 2"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: selikalikoe sa basebelisi
+icon: user-circle
 ---
 
-{{< fa "selikalikoe sa basebelisi" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ke batla ho hlakola ak'haonte ea ka
+## I want to delete my account
 
-Ho hlakoloa ha ak'haonte hona joale ho etsahala ka kotloloho likhethong tsa hau.
+Account deletion now happens directly in your preferences.
 
-Kamora ho kena ho [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), tobetsa lebitso la mosebelisi le ka hodimo ho le letona, kgetha Diparamitha tsa Akhaonto. E bula leqephe la dikgetho tsa hao. Eya tlase leqepheng 'me u sebelise ketso ea "hlakola mosebelisi".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Haeba o sa kgone ho kena (kapa ho seta phasewete ya hao botjha), ka kopo ikopanye le dpo - ho - [openfoodfacts.org](http://openfoodfacts.org), o sebedisa aterese ya imeile eo o e sebedisang ho ngodisa ak'haonte.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
