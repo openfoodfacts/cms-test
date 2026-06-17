@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobilā lietotne"
-description: "4 jautājumi"
-lang: lv-lv
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: mobilais
+icon: mobile
 ---
 
-{{< fa "mobilais" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Kā es varu zināt, kuru lietotnes versiju es izmantoju?
+## How do I know which version of the app I'm using?
 
-Dodieties uz **Profils**,
-, tad uz **BUJ** un tad uz **Par šo lietotni**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Jums vajadzētu
-redzēt versijas numuru, piemēram, 3.4.5+662. Neaizmirstiet norādīt tālruņa ražotāju un modeli
-, ja tas veic atkļūdošanu.
-
----
-
-## Lietotne neveic skenēšanu
-
-Tas var būt saistīts ar
-
-- tīkla problēma
-
-- atļauju problēma
-
-- svītrkoda problēma
-
-Sūtiet mums e-pastu, izmantojot profilu >> Sazinieties ar mums >> Sūtiet mums e-pastu.
-
-Visa attiecīgā informācija jāpievieno jūsu pieprasījumam.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Kā es varu palīdzēt uzlabot mobilo lietotni?
+## The app does not scan
 
-Kā es varu palīdzēt uzlabot mobilo lietotni?
+This may be due to
 
-To var [izdarīt mobilo lietotņu krātuvē](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Kur es varu nosūtīt atsauksmes par lietotni?
+## How can I help with improving the mobile app ?
 
-Atsauksmes varat sūtīt uz mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
