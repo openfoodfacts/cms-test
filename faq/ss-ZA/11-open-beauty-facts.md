@@ -1,15 +1,15 @@
 ---
-title: "{{< fa emathegi usayizi=2x >}} Vula Emaciniso Ebuhle"
-description: "4 imibuto"
-lang: si-gb
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
+lang: en-gb
 order: 11
 category-level: 0
-icon: emathegi
+icon: tags
 ---
 
-{{< fa "emathegi" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## Ingabe Emaciniso Ebuhle Lavulekile anelabhorethri yekuhlatiya?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -19,33 +19,33 @@ consumers, you can use our iPhone, Android and
 
 Windows Phone to add products:
 
-[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](idlala.google.com/sitolo/tinhlelo tekusebenta/imininingwane?id=org.vula emaciniso ebuhle.sikena)
+[https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
 
 And to exchange and discuss the possible uses of the project, you
 
 can join the Facebook group of contributors:
 
-[https://www.facebook.com/groups/356858984359591/](emacembu/356858984359591/)
+[https://www.facebook.com/groups/356858984359591/](https://www.facebook.com/groups/356858984359591/)
 
 ---
 
-## Ngiyingenisa njani imikhicito yami ku-Open Beauty Facts?
+## How do I import my products into Open Beauty Facts?
 
-Xhumana nebakhiciti@openfoodfacts.org noma uye ngco ku
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.lokuvulekile.org](https://fr.pro.openfoodfacts.org) bese utsintsa \*\*bakhiciti@lokuvulekile.org \*\*kute utfole kutfunyelwa lokukhetsekile
-
----
-
-## Ngingayilandaphi idatha yeMaciniso eBuhle Lavulekile?
-
-Likhasi le /data njengamanje liphukile. Ungalanda lemininingwane ku [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.lobuhle lobuvulekile.org/datha/fr.lobuhle lobuvulekile.org.imikhicito.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Ngingatfolaphi i-API Yemaciniso Ebuhle Lavulekile kanye nekutfunyelwa kwemininingwane ngaphandle ?
+## Where can I download Open Beauty Facts data?
 
-I-API Yemaciniso Ekudla Lavulekile i-98% iyafana ne-API Yemaciniso Ebuhle Lavulekile ngako-ke uma usebentisa imibhalo ye-API Yemaciniso Ekudla Lavulekile kufanele ube nembono locacile kakhulu we-API Yemaciniso Ebuhle Lavulekile.
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
