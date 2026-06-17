@@ -1,52 +1,52 @@
 ---
-title: "{{< fa poŝtelefona grandeco=2x >}} Poŝtelefona aplikaĵo"
-description: "4 demandoj"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: poŝtelefono
+icon: mobile
 ---
 
-{{< fa "poŝtelefono" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Kiel mi scios, kiun version de la aplikaĵo mi uzas?
+## How do I know which version of the app I'm using?
 
-Iru al **Profilo**,
-poste **Oftaj Demandoj**, poste **Pri ĉi tiu aplikaĵo.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Vi devus
-vidi versionumeron kiel 3.4.5+662. Ne forgesu diri al ni la markon kaj modelon
-de la telefono se ĝi sencimigas.
-
----
-
-## La aplikaĵo ne skanas
-
-Tio eble ŝuldiĝas al
-
-- problemo de reto
-
-- problemo pri permesoj
-
-- problemo pri strekkodo
-
-Sendu al ni retpoŝton per Profilo >> Kontaktu nin >> Sendu al ni retpoŝton.
-
-Ĉiuj koncernaj informoj estu aldonitaj al via peto.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Kiel mi povas helpi plibonigi la poŝtelefonan aplikaĵon?
+## The app does not scan
 
-Kiel mi povas helpi plibonigi la poŝtelefonan aplikaĵon?
+This may be due to
 
-Vi povas [fari tion en la deponejo de la poŝtelefona aplikaĵo](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Kien mi povas sendi rimarkojn pri la aplikaĵo?
+## How can I help with improving the mobile app ?
 
-Vi povas sendi rimarkojn al mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
