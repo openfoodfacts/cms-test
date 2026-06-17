@@ -1,17 +1,17 @@
 ---
-title: "{{< fa dagblaðsstærð=2x >}} Beiðnir frá fjölmiðlum"
-description: "1 spurning"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: dagblað
+icon: newspaper
 ---
 
-{{< fa "dagblað" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Hvernig get ég fengið myndefni fyrir fjölmiðla á Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Vinsamlegast hafið samband við: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
