@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Technische FAQ"
-description: "1 vraag"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: merken github
+icon: brands github
 ---
 
 {{< fa "merken" "github" size=3x >}}
 
-## Moet ik alle taalbestanden bijwerken wanneer ik een brontekst wijzig?
+## Should I update all language files when I change a source string?
 
-Nee, dat doe je niet. Je hoeft alleen de Engelse versie bij te werken
+No you don't. You just need to update the English one
 
-- Maak je eigen persbericht aan.
+- Create your PR
 
-Zodra de wijzigingen zijn samengevoegd, zullen we crowdin-trigger handmatig opnieuw baseren en het Crowdin-vertalingssysteem, geactiveerd door GitHub Actions, zal de rest voor de andere talen doen.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-De GitHub-bot maakt vervolgens automatisch een nieuwe pull request aan, die wij vervolgens beoordelen.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
