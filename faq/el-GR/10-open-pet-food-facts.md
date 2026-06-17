@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Ανοίξτε τις πληροφορίες για την τροφή για κατοικίδια"
-description: "2 ερωτήσεις"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: πόδι ζώου
+icon: paw
 ---
 
-{{< fa "πόδι ζώου" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Γιατί δεν υπάρχει Nutri-Score για τα ζώα;
+## Why is there no Nutri-Score for animals?
 
-Κάθε ζώο είναι διαφορετικό (ένα φίδι δεν έχει τις ίδιες διατροφικές ανάγκες με μια γάτα ή έναν σκύλο)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ακόμα και στον ίδιο τύπο ζώου, όπως οι σκύλοι, οι διατροφικές ανάγκες ποικίλλουν ανάλογα με τον τρόπο ζωής, την καθιστική ζωή, τον πιθανό ευνουχισμό ή ασθένειες.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Επομένως, είναι περίπλοκο να υπολογιστεί μια βαθμολογία για τις ζωοτροφές χωρίς να εμπλακούν δεκάδες ερευνητές και να δημιουργηθούν δεκάδες διαφορετικοί αλγόριθμοι, κάτι που δεν έχει γίνει μέχρι σήμερα.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
