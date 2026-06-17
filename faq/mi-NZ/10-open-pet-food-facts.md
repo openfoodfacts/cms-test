@@ -1,21 +1,21 @@
 ---
-title: "{{< rahi o te waewae=2x >}} Whakatuwheratia ngā Mōhiohio mō te Kai Mōkai"
-description: "2 ngā pātai"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: waewae
+icon: paw
 ---
 
-{{< fa "waewae" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## He aha i kore ai he Nutri-Score mō ngā kararehe?
+## Why is there no Nutri-Score for animals?
 
-He rerekē ia kararehe (kāore te nakahi i te rite ngā kai e hiahiatia ana e te ngeru, e te kurī rānei)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ahakoa i roto i te momo kararehe kotahi pērā i te kurī, ka rerekē ngā hiahia kai i runga i te oranga o te tangata e noho noa ana, te pea o te tango i te makawe, te mate rānei.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Nō reira, he uaua ki te tatau i tētahi kaute mō te whāngai kararehe me te kore e whakauru i ngā tini kairangahau me te kore e waihanga i ngā tini rauropi rerekē, kāore anō kia mahia tae noa ki tēnei rā.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
