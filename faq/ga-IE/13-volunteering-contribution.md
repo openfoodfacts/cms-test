@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Obair Dheonach / Ranníocaíocht"
-description: "3 cheist"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## An bhfuil bealach ann chun íomhánna uaslódáilte a bhaint de tháirgí?
+## Is there a way to remove uploaded images for products?
 
-Ní féidir ach le modhnóirí grianghraif a bhaint, chun loitiméireacht fhéideartha a sheachaint.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Níl le déanamh ach fiafraí ar Slack nó ag **contact@openfoodfacts.org** chun do dhúblaigh nó aon ghrianghraif mhíchuí a bhaint (ba chóir duit iarracht a dhéanamh an uimhir chód barra nó an URL a sholáthar chuige sin).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Tá API nua tuairisce íomhá againn freisin más ríomhchláraitheoir thú.
-
----
-
-## Is dearthóir mé. Conas is féidir liom cabhrú?
-
-Déanaimid comhordú ar gach gníomhaíocht a bhaineann le dearadh ar [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) agus ar chainéal comhrá tiomnaithe. Bíonn cruinnithe foirne agus plé againn go rialta ar dhúshláin shonracha.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## I gcásanna áirithe, is féidir luachanna cothaitheacha difriúla a bheith ag an táirge céanna do gach tír, conas a láimhseáiltear é seo in Open Food Facts?
+## I'm a designer. How can I help ?
 
-99% den am, cruthóidh táirgeoirí barrachóid éagsúla do leaganacha éagsúla dá dtáirgí. Sampla cáiliúil is ea an difríocht idir Nutella na Fraince agus na Gearmáine ó thaobh tiús de, mar gheall ar an difríocht san arán idir tíortha. 2 fhoirmle éagsúla, 2 chód barra éagsúla.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Is féidir imbhualadh cód barra tarlú, áfach, ar chóid níos giorra (EAN-8) a athúsáideann roinnt siopaí ar fud na hEorpa agus na Stát Aontaithe de ghnáth. Ní láimhseálaimid na coinbhleachtaí cód barra sin faoi láthair, ach ba cheart go mbeadh sé indéanta é sin a dhéanamh trí shuíomh ginearálta an úsáideora a fháil (is annamh fós go mbíonn coinbhleachtaí cód barra laistigh de thír).
+---
 
-San fhadtéarma, molaimid do tháirgeoirí bogadh go EAN-13 chun na coinbhleachtaí cód barra sin a sheachaint.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
