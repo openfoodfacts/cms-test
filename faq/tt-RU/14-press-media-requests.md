@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Матбугат һәм мәгълүмат чаралары сораулары"
-description: "1 сорау"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: газета
+icon: newspaper
 ---
 
-{{< fa "газета" size=3х >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts турында матбугат визуаль материалларын ничек алырга мөмкин?
+## How can I get press visuals on Open Food Facts?
 
-Зинһар, элемтәгә керегез: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
