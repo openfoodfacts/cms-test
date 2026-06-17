@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Манӑн уҫӑ апат-ҫимӗҫ факчӗсен шучӗ"
-description: "2 ыйту"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: пользователь-ҫаврашка
+icon: user-circle
 ---
 
-{{< fa "пользователь-ҫаврашка" size=3х >}}
+{{< fa "user-circle" size=3x >}}
 
-## Эпӗ хамӑн аккаунта пӗтересшӗн
+## I want to delete my account
 
-Аккаунта пӗтересси халӗ тӳрех сирӗн преференцисенче пулса пырать.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) ҫине кӗнӗ хыҫҫӑн ҫӳлти сылтӑм кӗтесри пользователь ячӗ ҫине пусӑр та Аккаунт параметрӗсем ҫине пусӑр. Вӑл сирӗн кӑмӑл-туйӑмсен страницине уҫать. Страницӑн аялти пайне кайӑр та «пользователе кӑларса пӑрахӑр» ӗҫпе усӑ курӑр.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Енчен те эсир кӗме пултараймастӑр пулсан (е парольне ҫӗнӗрен лартма пултараймастӑр пулсан), тархасшӑн, dpo - at - [openfoodfacts.org](http://openfoodfacts.org) ҫыхӑнӑр, эсир аккаунт регистрацилеме усӑ куракан электронлӑ почта адресӗпе усӑ курӑр.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
