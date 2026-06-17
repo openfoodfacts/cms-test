@@ -1,15 +1,15 @@
 ---
-title: "{{< fa tags size=2x >}} Ffeithiau Harddwch Agored"
-description: "4 cwestiwn"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: tagiau
+icon: tags
 ---
 
-{{< fa "tagiau" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## Oes gan Open Beauty Facts labordy dadansoddi?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -29,23 +29,23 @@ can join the Facebook group of contributors:
 
 ---
 
-## Sut ydw i'n mewnforio fy nghynhyrchion i Open Beauty Facts?
+## How do I import my products into Open Beauty Facts?
 
-Cysylltwch â producteurs@openfoodfacts.org neu ewch yn uniongyrchol i
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) yna cysylltwch â \*\*producteurs@openfoodfacts.org \*\*am allforio arbennig
-
----
-
-## Ble alla i lawrlwytho data Ffeithiau Harddwch Agored?
-
-Mae'r dudalen /data wedi torri ar hyn o bryd. Gallwch lawrlwytho'r data yn [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Ble alla i ddod o hyd i'r API Ffeithiau Harddwch Agored ac allforion data?
+## Where can I download Open Beauty Facts data?
 
-Mae API Ffeithiau Bwyd Agored 98% yr un fath ag API Ffeithiau Harddwch Agored felly os ydych chi'n defnyddio dogfennaeth API Ffeithiau Bwyd Agored dylech chi gael golwg eithaf clir ar API Ffeithiau Harddwch Agored.
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
