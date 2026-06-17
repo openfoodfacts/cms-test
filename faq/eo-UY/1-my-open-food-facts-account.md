@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mia konto de Open Food Facts"
-description: "2 demandoj"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: uzanto-cirklo
+icon: user-circle
 ---
 
-{{< fa "uzanto-cirklo" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Mi volas forigi mian konton
+## I want to delete my account
 
-Forigo de konto nun okazas rekte en viaj preferoj.
+Account deletion now happens directly in your preferences.
 
-Post ensaluto ĉe [[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klaku la uzantnomon en la supra dekstra angulo, elektu Konto-Parametrojn. Ĝi malfermas vian paĝon de preferoj. Iru al la fino de la paĝo kaj uzu la agon "forigi uzanton".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Se vi ne povas ensaluti (aŭ restarigi vian pasvorton), bonvolu kontakti dpo - ĉe - [openfoodfacts.org](http://openfoodfacts.org), uzante la retpoŝtadreson, kiun vi uzis por registri konton.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
