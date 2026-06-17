@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} എന്റെ ഭാഷയിലോ രാജ്യത്തിലോ ഓപ്പൺ ഫുഡ് വസ്തുതകൾ മെച്ചപ്പെടുത്തൽ"
-description: "3 ചോദ്യങ്ങൾ"
-lang: en-gb (ഇംഗ്ലീഷ്)
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: ഗ്ലോബ്
+icon: globe
 ---
 
-{{< fa "ഗ്ലോബ്" size="3x (3x)" >}}
+{{< fa "globe" size=3x >}}
 
-## ലേബലുകൾക്കായി ഒരു പുതിയ ലോഗോ ചേർക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു.
+## I would like to add a new logo for labels
 
-പ്രക്രിയ ഇതാ:
+Here is the process:
 
-- [ലേബലുകളുടെ ടാക്സോണമി](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) എന്നതിൽ ലേബലിന്റെ **കാനോനിക്കൽ നാമം** കണ്ടെത്തുക (ലേബലുകളുടെ പര്യായപദങ്ങളുടെ പട്ടികയിലെ ആദ്യ ഇനമാണിത്, ഉദാ. en:100% പച്ചക്കറി)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**ലോഗോ നല്ല നിലവാരത്തിൽ എടുക്കുക**: ഈ സാഹചര്യത്തിന് അനുയോജ്യമല്ലാത്ത സംഭാവകന്റെ ഫോട്ടോ ഉപയോഗിക്കുന്നത് ഒഴിവാക്കുക; മിക്ക ലേബലുകളിലും ഔദ്യോഗിക വെബ്‌സൈറ്റുകളുടെ ഉയർന്ന നിലവാരമുള്ള ലോഗോകൾ ഉണ്ടാകും, ചിലപ്പോൾ വെക്റ്റർ ഫോർമാറ്റിൽ (ഞങ്ങൾക്ക് ഇതിലും മികച്ചത്); ഒരു ഉൽപ്പന്നത്തിന്റെ പാക്കേജിംഗിൽ ഒരു
-ലേബലിന്റെ സാന്നിധ്യത്തെക്കുറിച്ച് വസ്തുനിഷ്ഠമായി അറിയിക്കാൻ ഞങ്ങൾ ഒരു ലോഗോ ഉപയോഗിക്കുന്നിടത്തോളം, അനുമതി ചോദിക്കേണ്ട ആവശ്യമില്ല.
-------------------------------------------------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**ഫയലിന് ഇങ്ങനെ പേര് നൽകുക**: name-of-the-label.[width]x90.png ഇവിടെ width എന്നത് ലോഗോ 90 പിക്സൽ ഉയരത്തിലായിരിക്കുമ്പോൾ അതിന്റെ വീതിയാണ്. ഫയൽ നാമങ്ങൾ ഉച്ചാരണരഹിതമായിരിക്കണം, ചെറിയക്ഷരത്തിലായിരിക്കണം, സ്‌പെയ്‌സുകൾക്ക് പകരം "-" ഉപയോഗിക്കണം.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- തുടർന്ന് അതിന്റെ കാനോനിക്കൽ നാമത്തിന് അനുയോജ്യമായ ലോഗോ ഡയറക്ടറിയിൽ ചേർക്കുക. കാനോനിക്കൽ പേര് en:something ആണെങ്കിൽ, അവ /en/ ൽ ആയിരിക്കണം. ലോഗോകൾക്കുള്ള റൂട്ട് ഡയറക്ടറി [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang) ആണ്.
-
----
-
-## ഓപ്പൺ ഫുഡ് ഫാക്‌ട്‌സ് എന്റെ ഭാഷയിലേക്ക് എങ്ങനെ വിവർത്തനം ചെയ്യാം?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) എന്നതിലേക്ക് പോകുക.
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## ഈ പതിവ് ചോദ്യങ്ങൾ എന്റെ ഭാഷയിലേക്ക് എങ്ങനെ വിവർത്തനം ചെയ്യാം?
+## How do I translate Open Food Facts to my language ?
 
-നോളജ് ബേസിലേക്കുള്ള എഡിറ്റ് ആക്‌സസിനായി contact@openfoodfacts.org എന്ന വിലാസത്തിൽ ബന്ധപ്പെടുക.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
