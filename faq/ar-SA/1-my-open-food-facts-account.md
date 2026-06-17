@@ -1,21 +1,21 @@
 ---
-title: "حسابي على Open Food Facts"
-description: "سؤالان"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: دائرة المستخدم
+icon: user-circle
 ---
 
-{{< fa "دائرة المستخدم" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## أريد حذف حسابي
+## I want to delete my account
 
-أصبح حذف الحساب يتم الآن مباشرة من خلال تفضيلاتك.
+Account deletion now happens directly in your preferences.
 
-بعد تسجيل الدخول على [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/)، انقر على اسم المستخدم في الزاوية العلوية اليمنى، ثم اختر معلمات الحساب. يفتح ذلك صفحة تفضيلاتك. انتقل إلى أسفل الصفحة واستخدم إجراء "حذف المستخدم".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-إذا لم تتمكن من تسجيل الدخول (أو إعادة تعيين كلمة المرور الخاصة بك)، فيرجى الاتصال بـ dpo - at - [openfoodfacts.org](http://openfoodfacts.org)، باستخدام عنوان البريد الإلكتروني الذي استخدمته لتسجيل الحساب.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
