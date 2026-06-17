@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Τεχνικές Συχνές Ερωτήσεις"
-description: "1 ερώτηση"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: μάρκες στο GitHub
+icon: brands github
 ---
 
 {{< fa "μαρκες" "github" size=3x >}}
 
-## Πρέπει να ενημερώνω όλα τα αρχεία γλώσσας όταν αλλάζω μια συμβολοσειρά πηγαίου κώδικα;
+## Should I update all language files when I change a source string?
 
-Όχι, δεν το κάνεις. Απλά πρέπει να ενημερώσεις το αγγλικό
+No you don't. You just need to update the English one
 
-- Δημιουργήστε τις δημόσιες σχέσεις σας
+- Create your PR
 
-Μόλις συγχωνευθεί, θα αλλάξουμε τη βάση δεδομένων του crowdin-trigger χειροκίνητα και το σύστημα μετάφρασης Crowdin που ενεργοποιείται από το GitHub Actions θα κάνει τα υπόλοιπα για τις άλλες γλώσσες.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Το bot GitHub δημιουργεί στη συνέχεια αυτόματα ένα νέο PR το οποίο εξετάζουμε.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
