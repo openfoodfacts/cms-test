@@ -1,7 +1,7 @@
 ---
-title: "{{< fa hlela usayizi=2x >}} Kutitsandzela / Umnikelo"
-description: "3 imibuto"
-lang: si-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: edit
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Ingabe ikhona indlela yekususa titfombe letilayishiwe temikhicito?
+## Is there a way to remove uploaded images for products?
 
-Baphatsi kuphela labangasusa titfombe, kugwema kucekela phansi lokungenteka.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Vele ubute ku Slack noma ku **contact@openfoodfacts.org** kususa titfombe takho letiphindvwe kabili noma ngutiphi titfombe letingakafaneli (kufanele uzame kuniketa inombolo yebhakhodi noma i-URL kuloko).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Siphindze futsi sibe ne-API lensha yembiko wesitfombe uma ungumhleli.
-
----
-
-## Ngingumklami. Ngingasita njani ?
-
-Sihlanganisa yonkhe imisebenti lephatselene nekuklama ku [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/kuvuleka-kuklama) kanye nasesiteshini sekucoca lesitinikele. Sivame kwenta imihlangano yemacembu kanye ne-brainjams ngetinsayeya letitsite.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Ngalesinye sikhatsi umkhicito munye ungaba nemanani ekudla lehlukene eveni ngalinye, loku kuphatfwa njani ku Open Food Facts ?
+## I'm a designer. How can I help ?
 
-99% wesikhatsi, bakhiciti batawudala ema barcode lehlukene etinhlobo letehlukene temikhicito yabo. Sibonelo lesidvumile ngumehluko emkhatsini we French kanye ne German Nutella ngekuya ngebukhulu, ngenca yemehluko wesinkhwa emaveni onkhe. 2 emafomula lehlukene, 2 emabhakhodi lehlukene.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Kungcubutana kwe Barcode nomakunjalo kungenteka kumakhodi lamafishane (EAN-8) lavame kusetjentiswa kabusha nguletinye titolo kulo lonkhe lase Europe nase US. Asiphatsi njengamanje leto tingxabano te-barcode, kepha kufanele kutsi kwenteke kwenta kanjalo ngekutfola indzawo jikelele yemsebentisi (kuyavela kakhulu kuba nekungcubutana kwe-barcode ngaphakatsi kwelive).
+---
 
-Esikhatsini lesidze, sikhutsata bakhiciti kutsi batfutsele ku-EAN-13 kugwema leto tingxabano te-barcode.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
