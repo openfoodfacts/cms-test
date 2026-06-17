@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} ସ୍ୱେଚ୍ଛାସେବା / ଅବଦାନ"
-description: "3ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
-order: ୧୩
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
+order: 13
 category-level: 0
 icon: edit
 ---
 
 {{< fa "edit" size=3x >}}
 
-## ଉତ୍ପାଦ ପାଇଁ ଅପଲୋଡ୍ ହୋଇଥିବା ଛବିଗୁଡ଼ିକୁ ହଟାଇବାର କୌଣସି ଉପାୟ ଅଛି କି?
+## Is there a way to remove uploaded images for products?
 
-ସମ୍ଭାବ୍ୟ ଭଙ୍ଗାରୁଜାକୁ ଏଡାଇବା ପାଇଁ କେବଳ ମଡରେଟରମାନେ ଫଟୋଗୁଡ଼ିକୁ ହଟାଇ ପାରିବେ।
+Only moderators can remove photos, to avoid potential vandalism.
 
-ଆପଣଙ୍କର ଡୁପ୍ଲିକେଟ୍ କିମ୍ବା ଯେକୌଣସି ଅନୁପଯୁକ୍ତ ଫଟୋ ହଟାଇବାକୁ କେବଳ Slack କିମ୍ବା **contact@openfoodfacts.org** ରେ ପଚାରନ୍ତୁ (ଆପଣ ଏଥିପାଇଁ ବାରକୋଡ୍ ନମ୍ବର କିମ୍ବା URL ପ୍ରଦାନ କରିବାକୁ ଚେଷ୍ଟା କରିବା ଉଚିତ)।
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-ଯଦି ଆପଣ ଜଣେ ପ୍ରୋଗ୍ରାମର, ତେବେ ଆମର ଏକ ନୂତନ ପ୍ରତିଛବି ରିପୋର୍ଟ API ମଧ୍ୟ ଅଛି।
-
----
-
-## ମୁଁ ଜଣେ ଡିଜାଇନର୍। ମୁଁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି ?
-
-We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. ଆମେ ନିୟମିତ ଭାବରେ ଦଳ ବୈଠକ ଏବଂ ନିର୍ଦ୍ଦିଷ୍ଟ ଚ୍ୟାଲେଞ୍ଜ ଉପରେ ବ୍ରେନ୍‌ଜାମ୍ କରୁ।
+We also have a new image report API if you're a programmer.
 
 ---
 
-## କିଛି କ୍ଷେତ୍ରରେ ପ୍ରତ୍ୟେକ ଦେଶ ପାଇଁ ସମାନ ଉତ୍ପାଦର ପୁଷ୍ଟିକର ମୂଲ୍ୟ ଭିନ୍ନ ହୋଇପାରେ, ଏହାକୁ Open Food Facts ରେ କିପରି ପରିଚାଳନା କରାଯାଏ?
+## I'm a designer. How can I help ?
 
-୯୯% ସମୟରେ, ଉତ୍ପାଦକମାନେ ସେମାନଙ୍କ ଉତ୍ପାଦର ବିଭିନ୍ନ ସଂସ୍କରଣ ପାଇଁ ଭିନ୍ନ ଭିନ୍ନ ବାରକୋଡ୍ ତିଆରି କରିବେ। ଦେଶର ବିଭିନ୍ନ ସ୍ଥାନରେ ରୁଟିର ପାର୍ଥକ୍ୟ ଯୋଗୁଁ ଫରାସୀ ଏବଂ ଜର୍ମାନ ନୁଟେଲାର ଘନତା ଏକ ପ୍ରସିଦ୍ଧ ଉଦାହରଣ। ୨ଟି ଭିନ୍ନ ସୂତ୍ର, ୨ଟି ଭିନ୍ନ ବାରକୋଡ୍।
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-ତଥାପି, ବାରକୋଡ୍ ସଂଘର୍ଷ ଛୋଟ କୋଡ୍ (EAN-8) ରେ ହୋଇପାରେ ଯାହା ସାଧାରଣତଃ ୟୁରୋପ ଏବଂ ଆମେରିକାର କିଛି ଷ୍ଟୋରରେ ପୁନଃବ୍ୟବହୃତ ହୁଏ। ଆମେ ବର୍ତ୍ତମାନ ସେହି ବାରକୋଡ୍ ସଂଘର୍ଷଗୁଡ଼ିକୁ ପରିଚାଳନା କରୁନାହୁଁ, କିନ୍ତୁ ଉପଭୋକ୍ତାଙ୍କ ସାଧାରଣ ସ୍ଥାନ ପାଇ ଏହା କରିବା ସମ୍ଭବ ହେବା ଉଚିତ (ଏକ ଦେଶ ମଧ୍ୟରେ ବାରକୋଡ୍ ସଂଘର୍ଷ ହେବା ଆହୁରି ବିରଳ)।
+---
 
-ଦୀର୍ଘକାଳୀନ ଭାବରେ, ଆମେ ଉତ୍ପାଦକମାନଙ୍କୁ ସେହି ବାରକୋଡ୍ ସଂଘର୍ଷକୁ ଏଡାଇବା ପାଇଁ EAN-13 କୁ ଯିବାକୁ ଉତ୍ସାହିତ କରୁଛୁ।
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
