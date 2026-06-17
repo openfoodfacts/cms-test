@@ -1,21 +1,21 @@
 ---
-title: "{{< daqs tas-sieq fa=2x >}} Fatti miftuħa dwar l-Ikel tal-Annimali Domestiċi"
-description: "2 mistoqsijiet"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: sieq
+icon: paw
 ---
 
-{{< fa "sieq" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Għaliex m'hemm l-ebda Nutri-Score għall-annimali?
+## Why is there no Nutri-Score for animals?
 
-Kull annimal huwa differenti (serp m'għandux l-istess bżonnijiet nutrizzjonali bħal qattus jew kelb)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Anke fl-istess tip ta' annimal bħall-klieb, il-bżonnijiet nutrittivi jvarjaw skont l-istil ta' ħajja sedentarju, kastrazzjoni possibbli jew mard.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Għalhekk huwa kkumplikat li tikkalkula punteġġ għall-għalf tal-annimali mingħajr ma tinvolvi għexieren ta’ riċerkaturi u toħloq għexieren ta’ algoritmi differenti, li sal-lum għadu ma sarx.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)]
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
