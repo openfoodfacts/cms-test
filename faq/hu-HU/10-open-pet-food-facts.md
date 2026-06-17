@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Nyissa meg az Állateledel Tények Nyílt Helyszínét"
-description: "2 kérdés"
-lang: hu-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: mancs
+icon: paw
 ---
 
-{{< fa "mancs" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Miért nincs Nutri-Score az állatok számára?
+## Why is there no Nutri-Score for animals?
 
-Minden állat más (egy kígyónak nem ugyanazok a tápanyagigényei, mint egy macskának vagy egy kutyának)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Még ugyanazon állatfajtán belül is, mint például a kutyák, a táplálkozási igények változnak az ülő életmód, az esetleges kasztráció vagy betegségek függvényében.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ezért bonyolult az állati takarmányok pontszámának kiszámítása több tucat kutató bevonása és több tucat különböző algoritmus létrehozása nélkül, amit eddig még nem tettek meg.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
