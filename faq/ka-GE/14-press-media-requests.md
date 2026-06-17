@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} პრესისა და მედიის მოთხოვნები"
-description: "1 კითხვა"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: გაზეთი
+icon: newspaper
 ---
 
-{{< fa "გაზეთი" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## როგორ შემიძლია მივიღო პრესისთვის განკუთვნილი ვიზუალი Open Food Facts-ის შესახებ?
+## How can I get press visuals on Open Food Facts?
 
-გთხოვთ, დაუკავშირდეთ: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
