@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Baştirkirina Agahiyên Xwarinê yên Vekirî li ziman/welatê min"
-description: "3 pirs"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: dinyagog
+icon: globe
 ---
 
-{{< fa "dinyagog" size="3 caran" >}}
+{{< fa "globe" size=3x >}}
 
-## Ez dixwazim logoyek nû ji bo etîketan zêde bikim
+## I would like to add a new logo for labels
 
-Ev pêvajo ye:
+Here is the process:
 
-- **navê kanonîk** yê etîketê di taksonomiya [labels](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) de bibîne (ew yekem tişt di navnîşa hevwateyên etîketan de ye, mînak. en:100% sebze)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**logo bi kalîteyek baş bistînin**: ji bikaranîna wêneyên beşdar dûr bisekinin, yên ku ji bo vê rewşê ne guncaw in; piraniya etîketan logoyên bi kalîte yên malperên fermî hene, carinan bi formata vektor (ji bo me hîn çêtir); heya ku em logoyek bikar bînin da ku bi awayekî objektîf hebûna etîketek
-li ser pakêta hilberekê agahdar bikin, ne hewce ye ku destûr were xwestin.
-------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**navê pelê wiha lê bike**: name-of-the-label.[width]x90.png ku firehî firehiya logoyê ye dema ku bilindahiya wê 90 pîksel be. Navên pelan divê bê leksans, bi tîpên biçûk û bi karanîna "-" li şûna valahiyan bin.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- dûv re logoyê li pelrêça ku bi navê wê yê kanonîk re têkildar e zêde bike. Eger navê kanonîk en:something be, wê demê divê ew di /en/ de bin. Pelrêça sereke ya logoyan ev e [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Ez çawa dikarim Open Food Facts wergerînim zimanê xwe?
-
-Serî li [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) bide.
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Ez çawa dikarim vê FAQê wergerînim zimanê xwe? (Ez çawa dikarim vê FAQê wergerînim zimanê xwe?)
+## How do I translate Open Food Facts to my language ?
 
-Ji bo gihîştina sererastkirinê ya bingeha zanînê, ji kerema xwe ji contact@openfoodfacts.org bipirsin.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
