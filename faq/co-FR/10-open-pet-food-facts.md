@@ -1,21 +1,21 @@
 ---
-title: "{{< taglia di a zampa fa=2x >}} Apri i fatti nantu à l'alimentu per animali domestici"
-description: "2 dumande"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: zampa
+icon: paw
 ---
 
-{{< fa "zampa" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Perchè ùn ci hè micca Nutri-Score per l'animali ?
+## Why is there no Nutri-Score for animals?
 
-Ogni animale hè diversu (un serpente ùn hà micca i stessi bisogni nutrizionali cum'è un gattu o un cane)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Ancu in u listessu tipu d'animale cum'è i cani, i bisogni nutrizionali varianu secondu a vita di u modu di vita sedentariu, una pussibile castrazione o malatie.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Hè dunque cumplicatu di calculà un puntuatu per l'alimentazione animale senza implicà decine di circadori è creà decine di algoritmi diversi, ciò chì ùn hè statu fattu finu à oghje.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
