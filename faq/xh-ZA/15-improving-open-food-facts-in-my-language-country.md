@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Ukuphucula iiNkcukacha zokutya ezivulekileyo kulwimi/ilizwe lam"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: iglobhu
+icon: globe
 ---
 
-{{< fa "iglobhu" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Ndingathanda ukongeza ilogo entsha yeeleyibhile
+## I would like to add a new logo for labels
 
-Nantsi inkqubo:
+Here is the process:
 
-- fumana igama elibhalwe _canonical_\* leleyibhile kwi-[labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (yinto yokuqala kuluhlu lwamagama afanayo eeleyibhile, umz. en:100% yemifuno)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**fumana ilogo isemgangathweni olungileyo**: kuphephe ukusebenzisa ifoto yomntu onikelayo engafanelanga eli tyala; uninzi lweeleyibhile luneelogo ezisemgangathweni ophezulu zewebhusayithi, ngamanye amaxesha zikwifomathi yevektha (ingcono nangakumbi kuthi); lo gama nje sisebenzisa ilogo ukwazisa ngokwenyani malunga nokuba khona kweleyibhile ye-
-kwiphakheji yemveliso, akukho mfuneko yokucela imvume.
-----------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**nika ifayile igama ngolu hlobo**: name-of-the-label.[width]x90.png apho ububanzi bububanzi belogo xa iphezulu ngama-90 pixels. Amagama efayile kufuneka angagxininiswa, abhalwe ngoonobumba abancinci aze asebenzise u-"-" endaweni yezithuba.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- uze wongeze ilogo kwifolda ehambelana negama layo elisemthethweni. Ukuba igama elisemthethweni liyi-en:something, ngoko ke kufuneka libe kwi-/en/. Isiseko seelogo yi [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Ndingayiguqulela njani i-Open Food Facts kulwimi lwam?
-
-Yiya ku [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Ndingayiguqulela njani le mibuzo ibuzwa rhoqo kulwimi lwam?
+## How do I translate Open Food Facts to my language ?
 
-Nceda ubuze ku-contact@openfoodfacts.org ukuze ufumane ulwazi oluthe vetshe.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
