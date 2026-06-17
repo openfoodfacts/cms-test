@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Ku tirha hi ku tirhandzela / Ku hoxa xandla"
-description: "Swivutiso swa 3"
-lang: ts-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: edit
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Xana yi kona ndlela yo susa swifaniso leswi layichiweke swa swilo leswi endliweke?
+## Is there a way to remove uploaded images for products?
 
-I vafambisi ntsena lava nga susaka swifaniso, ku papalata ku onhiwa loku nga ha vaka kona.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Kombela ntsena eka Slack kumbe eka **contact@openfoodfacts.org** ku susa swifaniso swa wena leswi phindhiweke kumbe swifaniso swihi na swihi leswi nga fanelangiki (u fanele ku ringeta ku nyika nomboro ya barkhodi kumbe URL eka sweswo).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Hi tlhela hi va na API leyintshwa ya xiviko xa swifaniso loko u ri muendli wa tiprogreme.
-
----
-
-## Ndzi muendli wa swifaniso. Ndzi nga pfuna njhani ?
-
-Hi hlanganisa migingiriko hinkwayo leyi fambelanaka na dizayini eka [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) na le ka xitichi xa mbulavurisano lexi tinyiketeleke. Nkarhi na nkarhi hi endla minhlangano ya swipano na ku hlanganisa miehleketo eka mintlhontlho yo karhi.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Eka swiyimo swin’wana xiendliwa xin’we xi nga va na mimpimo yo hambana ya swakudya eka tiko rin’wana na rin’wana, xana leswi swi khomiwa njhani eka Open Food Facts ?
+## I'm a designer. How can I help ?
 
-99% wa nkarhi, vahumelerisi vata tumbuluxa ti barcode to hambana eka ti version to hambana ta switirhisiwa swa vona. Xikombiso lexi dumeke i ku hambana exikarhi ka French na German Nutella hiku enta, hikokwalaho ka ku hambana ka xinkwa eka matiko hinkwawo. 2 wa tifomula to hambana, 2 wa tibarkhodi to hambana.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Ku lwisana ka ti barcode hambiswiritano swinga humelela eka tikhodi to koma (EAN-8) leti hi ntolovelo ti tirhisiwaka nakambe hi switolo swin’wana e Europe hinkwayo nale US. Sweswi a hi khomi ku lwisana koloko ka tibarkhodi, kambe swi fanele ku koteka ku endla tano hi ku kuma ndhawu ya mutirhisi hi ku angarhela (swi nga tala ngopfu ku va na ku lwisana ka tibarkhodi endzeni ka tiko).
+---
 
-Eka nkarhi wo leha, hi khutaza vahumelerisi ku rhurhela eka EAN-13 ku papalata ku lwisana koloko ka tibarkhodi.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
