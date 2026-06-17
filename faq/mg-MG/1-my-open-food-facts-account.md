@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ny kaontiko Open Food Facts"
-description: "Fanontaniana 2"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: faribolan'ny mpampiasa
+icon: user-circle
 ---
 
-{{< fa "faribolan'ny mpampiasa" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Te-hamafa ny kaontiko aho
+## I want to delete my account
 
-Ny famafana kaonty dia atao mivantana ao amin'ny safidinao.
+Account deletion now happens directly in your preferences.
 
-Rehefa avy miditra amin'ny [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) ianao, tsindrio ny anaran'ny mpampiasa eo amin'ny zoro ambony havanana, safidio ny "Cash Settings". Manokatra ny pejy safidinao izany. Mandehana any amin'ny faran'ny pejy ary ampiasao ny fihetsika "mamafa mpampiasa".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Raha tsy afaka miditra (na mamerina ny tenimiafinao) ianao dia mifandraisa amin'ny dpo - at - [openfoodfacts.org](http://openfoodfacts.org), amin'ny fampiasana ny adiresy mailaka ampiasainao hisoratana anarana kaonty.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
