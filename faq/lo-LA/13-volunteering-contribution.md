@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} ການເປັນອາສາສະໝັກ / ການປະກອບສ່ວນ"
-description: "3 ຄຳຖາມ"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## ມີວິທີໃດແດ່ທີ່ຈະລຶບຮູບພາບທີ່ອັບໂຫຼດສຳລັບຜະລິດຕະພັນອອກ?
+## Is there a way to remove uploaded images for products?
 
-ມີແຕ່ຜູ້ດູແລລະບົບເທົ່ານັ້ນທີ່ສາມາດລຶບຮູບພາບອອກໄດ້ ເພື່ອຫຼີກເວັ້ນການທຳລາຍຊັບສິນທີ່ອາດເກີດຂຶ້ນ.
+Only moderators can remove photos, to avoid potential vandalism.
 
-ພຽງແຕ່ຖາມໃນ Slack ຫຼື ທີ່ **contact@openfoodfacts.org** ເພື່ອລຶບຮູບພາບທີ່ຊໍ້າກັນ ຫຼື ຮູບພາບທີ່ບໍ່ເໝາະສົມຂອງທ່ານອອກ (ທ່ານຄວນພະຍາຍາມໃຫ້ເລກບາໂຄດ ຫຼື URL ສຳລັບຂໍ້ມູນດັ່ງກ່າວ).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-ພວກເຮົາຍັງມີ API ລາຍງານຮູບພາບໃໝ່ ຖ້າທ່ານເປັນນັກຂຽນໂປຣແກຣມ.
-
----
-
-## ຂ້ອຍເປັນນັກອອກແບບ. ຂ້ອຍສາມາດຊ່ວຍໄດ້ແນວໃດ?
-
-ພວກເຮົາປະສານງານກິດຈະກຳທີ່ກ່ຽວຂ້ອງກັບການອອກແບບທັງໝົດໃນ [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) ແລະ ໃນຊ່ອງທາງການສົນທະນາສະເພາະ. ພວກເຮົາຈັດກອງປະຊຸມທີມ ແລະ ລະດົມສະໝອງກ່ຽວກັບສິ່ງທ້າທາຍສະເພາະເປັນປະຈຳ.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## ໃນບາງກໍລະນີ, ຜະລິດຕະພັນດຽວກັນອາດມີຄຸນຄ່າທາງໂພຊະນາການທີ່ແຕກຕ່າງກັນສຳລັບແຕ່ລະປະເທດ, ເລື່ອງນີ້ຈະຖືກຈັດການແນວໃດໃນ Open Food Facts?
+## I'm a designer. How can I help ?
 
-99% ຂອງເວລາ, ຜູ້ຜະລິດຈະສ້າງບາໂຄດທີ່ແຕກຕ່າງກັນສຳລັບຜະລິດຕະພັນລຸ້ນຕ່າງໆຂອງພວກເຂົາ. ຕົວຢ່າງທີ່ມີຊື່ສຽງແມ່ນຄວາມແຕກຕ່າງລະຫວ່າງ Nutella ຂອງຝຣັ່ງ ແລະ ເຢຍລະມັນ ໃນແງ່ຂອງຄວາມໜາ ເນື່ອງຈາກຄວາມແຕກຕ່າງຂອງເຂົ້າຈີ່ໃນແຕ່ລະປະເທດ. 2 ສູດທີ່ແຕກຕ່າງກັນ, 2 ບາໂຄດທີ່ແຕກຕ່າງກັນ.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-ຢ່າງໃດກໍຕາມ, ການຂັດກັນຂອງບາໂຄດສາມາດເກີດຂຶ້ນໄດ້ໃນລະຫັດສັ້ນ (EAN-8) ເຊິ່ງປົກກະຕິແລ້ວຈະຖືກນຳໃຊ້ຄືນໂດຍບາງຮ້ານຄ້າທົ່ວເອີຣົບ ແລະ ສະຫະລັດ. ປະຈຸບັນພວກເຮົາຍັງບໍ່ທັນໄດ້ຈັດການກັບການຂັດແຍ່ງຂອງບາໂຄດເຫຼົ່ານັ້ນ, ແຕ່ມັນຄວນຈະເປັນໄປໄດ້ໂດຍການໄດ້ຮັບສະຖານທີ່ທົ່ວໄປຂອງຜູ້ໃຊ້ (ມັນຫາຍາກກວ່າທີ່ຈະມີການຂັດແຍ່ງຂອງບາໂຄດພາຍໃນປະເທດ).
+---
 
-ໃນໄລຍະຍາວ, ພວກເຮົາຊຸກຍູ້ໃຫ້ຜູ້ຜະລິດປ່ຽນໄປໃຊ້ EAN-13 ເພື່ອຫຼີກລ່ຽງການຂັດແຍ້ງກັນລະຫວ່າງລະຫັດບາໂຄດເຫຼົ່ານັ້ນ.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
