@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Mon compte Open Food Facts"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
 description: "2 questions"
-lang: es-gb
+lang: en-gb
 order: 1
 category-level: 0
-icon: cercle d'utilizaire
+icon: user-circle
 ---
 
-{{< fa "cercle d'utilizaire" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Vòli suprimir mon compte
+## I want to delete my account
 
-La supression del compte se passa ara dirèctament dins vòstras preferéncias.
+Account deletion now happens directly in your preferences.
 
-Aprèp connexion sus [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), clicatz sul nom d'utilizaire dins lo canton naut drech, causissètz Paramètres del compte. Dobrís vòstra pagina de preferéncias. Anatz en bas de la pagina e utilizatz l'accion "suprimir l'utilizaire".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Se podètz pas vos connectar (o reïnicializar vòstre senhal), contactatz dpo - a - [openfoodfacts.org](http://openfoodfacts.org), en utilizant l'adreça electronica qu'utilizatz per enregistrar un compte.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
