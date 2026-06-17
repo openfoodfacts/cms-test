@@ -1,52 +1,52 @@
 ---
-title: "{{< fa ukubwa wa simu=2x >}} Programu ya simu"
-description: "Maswali 4"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: simu ya mkononi
+icon: mobile
 ---
 
-{{< fa "simu ya mkononi" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ninawezaje kujua ni toleo gani la programu ninayotumia?
+## How do I know which version of the app I'm using?
 
-Nenda kwenye **Wasifu**,
-kisha **Maswali Yanayoulizwa Mara kwa Mara**, kisha **Kuhusu programu hii.**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Unapaswa
-kuona nambari ya toleo kama 3.4.5+662. Usisahau kutuambia aina na modeli
-ya simu ikiwa ina hitilafu.
-
----
-
-## Programu haichanganui
-
-Hii inaweza kuwa kutokana na
-
-- tatizo la mtandao
-
-- tatizo la ruhusa
-
-- tatizo la msimbopau
-
-Tutumie barua pepe kupitia Wasifu >> Wasiliana Nasi >> Tutumie barua pepe.
-
-Taarifa zote muhimu zinapaswa kuambatanishwa na ombi lako.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ninawezaje kusaidia katika kuboresha programu ya simu?
+## The app does not scan
 
-Ninawezaje kusaidia katika kuboresha programu ya simu?
+This may be due to
 
-Unaweza [kufanya hivyo kwenye hazina ya programu ya Simu](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ninaweza kutuma maoni wapi kuhusu programu?
+## How can I help with improving the mobile app ?
 
-Unaweza kutuma maoni kwa mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
