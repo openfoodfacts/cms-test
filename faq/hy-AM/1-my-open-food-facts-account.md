@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Իմ բաց սննդի փաստերի հաշիվը"
-description: "2 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: օգտատիրոջ շրջանակ
+icon: user-circle
 ---
 
-{{< fa "օգտատիրոջ շրջանակ" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ես ուզում եմ ջնջել իմ հաշիվը
+## I want to delete my account
 
-Հաշվի ջնջումն այժմ տեղի է ունենում անմիջապես ձեր կարգավորումներում։
+Account deletion now happens directly in your preferences.
 
-Մուտք գործելուց հետո [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) կայքում, սեղմեք վերին աջ անկյունում գտնվող օգտատիրոջ անվան վրա, ընտրեք Հաշվի պարամետրեր։ Այն բացում է ձեր նախընտրությունների էջը։ Գնացեք էջի ներքևի մասը և օգտագործեք «ջնջել օգտատիրոջը» գործողությունը։
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Եթե չեք կարողանում մուտք գործել (կամ վերականգնել ձեր գաղտնաբառը), խնդրում ենք կապվել dpo-ի հետ՝ [openfoodfacts.org](http://openfoodfacts.org) հասցեով՝ օգտագործելով հաշիվ գրանցելու համար օգտագործած էլեկտրոնային փոստի հասցեն։
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
