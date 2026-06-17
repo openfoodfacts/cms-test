@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Fanatsarana ny Open Food Facts amin'ny fiteniko/fireneko"
-description: "Fanontaniana 3"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: izao tontolo izao
+icon: globe
 ---
 
-{{< fa "izao tontolo izao" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Te-hanampy logo vaovao ho an'ny marika aho
+## I would like to add a new logo for labels
 
-Ity ny dingana arahina:
+Here is the process:
 
-- Tadiavo ao amin'ny [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) ny **anarana kanonika** an'ilay marika (labels' taxonomy) (io no zavatra voalohany ao amin'ny lisitry ny mitovy dika amin'ireo marika, ohatra: en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Alaivo sary tsara kalitao ny logo**: aza mampiasa ny sarin'ny mpandray anjara izay tsy mety amin'ity tranga ity; ny ankamaroan'ny marika dia manana logo avo lenta amin'ny tranonkala ofisialy, indraindray amin'ny endrika vector (tsara kokoa ho antsika); raha mbola mampiasa logo isika mba hampahafantarana amin'ny fomba tsy miangatra ny fisian'ny marika
-eo amin'ny fonosan'ny vokatra iray, dia tsy ilaina ny mangataka alalana.
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
 ----------------------------------------------------------------------------------------
 
-**Omeo anarana toy izao ny rakitra**: anaran'ny marika.[width]x90.png izay ny sakany dia ny sakanyn'ny logo rehefa 90 piksela ny haavony. Tsy mila asiana tsindrim-peo ny anaran-drakitra, fa soratana amin'ny litera kely ary ampiasao "-" fa tsy elanelana.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- dia ampio ao amin'ny lahatahiry mifanaraka amin'ny anarany kanonika ny logo. Raha en:something no anarana kanonika, dia tsy maintsy ao amin'ny /en/ izy ireo. Ny lahatahiry fototra ho an'ny logos dia [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Ahoana no fomba handikako ny Open Food Facts amin'ny fiteniko?
-
-Mandehana any amin'ny [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Ahoana no fomba handikako ity FAQ ity amin'ny fiteniko?
+## How do I translate Open Food Facts to my language ?
 
-Azafady mba anontanio amin'ny contact@openfoodfacts.org raha mila fanovana ny fahalalana fototra.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
