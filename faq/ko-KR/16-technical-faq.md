@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} 기술 FAQ"
-description: "질문 1개"
-lang: 영어-영국
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: 브랜드 깃허브
+icon: brands github
 ---
 
-{{< fa "브랜드" "깃허브" size=3배 >}}
+{{< fa "브랜드" "github" size=3x >}}
 
-## 소스 문자열을 변경할 때 모든 언어 파일을 업데이트해야 할까요?
+## Should I update all language files when I change a source string?
 
-아니요, 그렇지 않습니다. 영어 버전만 업데이트하면 됩니다.
+No you don't. You just need to update the English one
 
-- PR을 작성하세요
+- Create your PR
 
-병합이 완료되면 crowdin-trigger를 수동으로 리베이스하고, GitHub Actions에 의해 실행되는 Crowdin 번역 시스템이 다른 언어에 대한 번역을 자동으로 처리할 것입니다.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-그러면 GitHub 봇이 자동으로 새로운 PR을 생성하고, 저희는 그 PR을 검토합니다.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
