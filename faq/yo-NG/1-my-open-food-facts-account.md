@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Àkọọ́lẹ̀ Àwọn Ìròyìn Oúnjẹ Ṣíṣí Mi"
-description: "Àwọn ìbéèrè méjì"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: àyíká olùlò
+icon: user-circle
 ---
 
-{{< fa "àyíká olùlò" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Mo fẹ́ pa àkọọ́lẹ̀ mi rẹ́
+## I want to delete my account
 
-Ìparẹ́ àkọọ́lẹ̀ ń ṣẹlẹ̀ ní tààrà nínú àwọn ìfẹ́ ọkàn rẹ.
+Account deletion now happens directly in your preferences.
 
-Lẹ́yìn tí o bá ti wọlé sí [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), tẹ orúkọ olùlò ní igun ọ̀tún òkè, yan Àwọn Ìlànà Àkọ́ọ́lù. Ó ṣí ojú ìwé àwọn ohun tí o fẹ́. Lọ sí ìsàlẹ̀ ojú ìwé náà kí o sì lo ìgbésẹ̀ "paarẹ olùlò".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Tí o kò bá le wọlé (tàbí tún ọ̀rọ̀ìpamọ́ rẹ ṣe), jọ̀wọ́ kàn sí dpo - at - [openfoodfacts.org](http://openfoodfacts.org), nípa lílo àdírẹ́sì ìmeeli tí o lò láti forúkọ sílẹ̀ àkọọ́lẹ̀.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
