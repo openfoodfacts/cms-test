@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Najczęściej zadawane pytania techniczne"
-description: "1 pytanie"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: marki githuba
+icon: brands github
 ---
 
-{{< fa "marki" "GitHub" size=3x >}}
+{{< fa "marki" "github" size=3x >}}
 
-## Czy powinienem aktualizować wszystkie pliki językowe po zmianie ciągu źródłowego?
+## Should I update all language files when I change a source string?
 
-Nie, nie zrobisz tego. Wystarczy zaktualizować wersję angielską
+No you don't. You just need to update the English one
 
-- Utwórz swój PR
+- Create your PR
 
-Po scaleniu ręcznie zmienimy bazę crowdin-trigger, a system tłumaczeń Crowdin uruchomiony przez GitHub Actions zajmie się resztą w przypadku innych języków.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot GitHub automatycznie tworzy nowe żądanie żądania, które następnie sprawdzamy.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
