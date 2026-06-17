@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Ихтиёрӣ / Саҳмгузорӣ"
-description: "3 савол"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Оё роҳе барои нест кардани тасвирҳои боршуда барои маҳсулот вуҷуд дорад?
+## Is there a way to remove uploaded images for products?
 
-Танҳо модераторҳо метавонанд аксҳоро нест кунанд, то аз вандализми эҳтимолӣ пешгирӣ карда шавад.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Танҳо дар Slack ё тавассути почтаи электронии **contact@openfoodfacts.org** пурсед, ки нусхаҳои худ ё ҳама гуна аксҳои номуносибро нест кунанд (шумо бояд кӯшиш кунед, ки рақами штрих-код ё URL-и онро ба он пешниҳод кунед).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Агар шумо барномасоз бошед, мо инчунин API-и нави гузориши тасвирӣ дорем.
-
----
-
-## Ман тарроҳ ҳастам. Чӣ тавр ман метавонам кумак кунам?
-
-Мо ҳама фаъолиятҳои марбут ба тарроҳиро дар [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) ва дар канали чати махсус ҳамоҳанг мекунем. Мо мунтазам вохӯриҳои дастаҷамъӣ ва машваратҳои интеллектуалӣ оид ба масъалаҳои мушаххас баргузор мекунем.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Дар баъзе ҳолатҳо, ҳамон як маҳсулот метавонад барои ҳар як кишвар арзишҳои ғизоии гуногун дошта бошад, ин дар "Фактҳои хӯроквории кушода" чӣ гуна баррасӣ мешавад?
+## I'm a designer. How can I help ?
 
-Дар 99% ҳолатҳо, истеҳсолкунандагон барои версияҳои гуногуни маҳсулоти худ штрих-кодҳои гуногун эҷод мекунанд. Мисоли машҳури он фарқияти байни Nutella-и фаронсавӣ ва олмонӣ аз ҷиҳати ғафсӣ аст, ки аз сабаби фарқияти нон дар саросари кишварҳо ба вуҷуд омадааст. 2 формулаи гуногун, 2 штрих-коди гуногун.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Аммо, бархӯрди штрих-код метавонад дар рамзҳои кӯтоҳтар (EAN-8), ки одатан аз ҷониби баъзе мағозаҳо дар саросари Аврупо ва ИМА дубора истифода мешаванд, рух диҳад. Мо айни замон бо ин бархӯрдҳои штрих-код сарукор надорем, аммо ин корро бояд тавассути гирифтани макони умумии корбар анҷом дод (ин боз ҳам кам ба назар мерасад, ки дар дохили кишвар бархӯрдҳои штрих-код вуҷуд доранд).
+---
 
-Дар муддати тӯлонӣ, мо истеҳсолкунандагонро ташвиқ мекунем, ки ба EAN-13 гузаранд, то аз ин бархӯрдҳои штрих-код пешгирӣ карда шаванд.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
