@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Llogaria ime e Hapur e Fakte Ushqimore"
-description: "2 pyetje"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: rrethi i përdoruesve
+icon: user-circle
 ---
 
-{{< fa "rrethi i përdoruesve" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Dua ta fshij llogarinë time
+## I want to delete my account
 
-Fshirja e llogarisë tani ndodh direkt në preferencat tuaja.
+Account deletion now happens directly in your preferences.
 
-Pasi të keni hyrë në [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klikoni mbi emrin e përdoruesit në këndin e sipërm të djathtë, zgjidhni Parametrat e Llogarisë. Hap faqen e preferencave tuaja. Shko në fund të faqes dhe përdor veprimin "fshij përdoruesin".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Nëse nuk mund të identifikoheni (ose të rivendosni fjalëkalimin tuaj), ju lutemi kontaktoni dpo-në - në - [openfoodfacts.org](http://openfoodfacts.org), duke përdorur adresën e email-it që përdorni për të regjistruar llogarinë.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
