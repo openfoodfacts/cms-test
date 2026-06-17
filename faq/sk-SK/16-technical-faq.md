@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Technické otázky"
-description: "1 otázka"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: značky na GitHube
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Mám aktualizovať všetky jazykové súbory, keď zmením zdrojový reťazec?
+## Should I update all language files when I change a source string?
 
-Nie, nemusíš. Stačí aktualizovať tú anglickú.
+No you don't. You just need to update the English one
 
-- Vytvorte si svoj PR
+- Create your PR
 
-Po zlúčení manuálne preložíme crowdin-trigger a prekladový systém Crowdin spúšťaný pomocou GitHub Actions urobí zvyšok pre ostatné jazyky.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot GitHub potom automaticky vytvorí novú žiadosť o prijatie (PR), ktorú potom skontrolujeme.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
