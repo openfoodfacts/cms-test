@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Prostovoljno delo / Prispevek"
-description: "3 vprašanja"
-lang: sl-gb
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: uredi
@@ -9,29 +9,29 @@ icon: uredi
 
 {{< fa "uredi" size=3x >}}
 
-## Ali obstaja način za odstranitev naloženih slik izdelkov?
+## Is there a way to remove uploaded images for products?
 
-Samo moderatorji lahko odstranijo fotografije, da se izognemo morebitnemu vandalizmu.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Preprosto prosite na Slacku ali na **contact@openfoodfacts.org**, da odstranijo vaše podvojene fotografije ali morebitne neprimerne fotografije (poskusite posredovati številko črtne kode ali URL).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Če ste programer, imamo tudi nov API za poročila o slikah.
-
----
-
-## Sem oblikovalec. Kako lahko pomagam?
-
-Vse dejavnosti, povezane z oblikovanjem, usklajujemo na [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) in na namenskem klepetalnem kanalu. Redno organiziramo skupinske sestanke in možganske vaje o specifičnih izzivih.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## V nekaterih primerih ima lahko isti izdelek različne hranilne vrednosti za vsako državo. Kako je to obravnavano v Open Food Facts?
+## I'm a designer. How can I help ?
 
-V 99 % primerov bodo proizvajalci ustvarili različne črtne kode za različne različice svojih izdelkov. Znan primer je razlika med francosko in nemško Nutello v debelini, kar je posledica razlik v kruhu med državami. 2 različni formuli, 2 različni črtni kodi.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Do navzkrižja črtnih kod pa lahko pride pri krajših kodah (EAN-8), ki jih običajno ponovno uporabljajo nekatere trgovine po Evropi in ZDA. Trenutno ne obravnavamo teh navzkrižij črtnih kod, vendar bi to moralo biti izvedljivo z pridobitvijo splošne lokacije uporabnika (še redkeje pride do navzkrižij črtnih kod znotraj države).
+---
 
-Dolgoročno spodbujamo proizvajalce, da preidejo na EAN-13, da bi se izognili tem sporom s črtnimi kodami.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
