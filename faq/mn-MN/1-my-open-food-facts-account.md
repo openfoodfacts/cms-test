@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Миний Нээлттэй Хүнсний Мэдээллийн бүртгэл"
-description: "2 асуулт"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: хэрэглэгчийн хүрээлэл
+icon: user-circle
 ---
 
-{{< fa "хэрэглэгчийн хүрээлэл" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Би бүртгэлээ устгахыг хүсэж байна
+## I want to delete my account
 
-Одоо бүртгэлийг устгах нь таны тохиргоонд шууд хийгдэнэ.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) хаягаар нэвтэрсний дараа баруун дээд буланд байрлах хэрэглэгчийн нэр дээр дарж, Акаунтын параметрүүдийг сонгоно уу. Энэ нь таны тохиргооны хуудсыг нээнэ. Хуудасны доод хэсэгт очоод "хэрэглэгчийг устгах" үйлдлийг ашиглана уу.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Хэрэв та нэвтэрч чадахгүй (эсвэл нууц үгээ дахин тохируулж чадахгүй) бол бүртгэлээ бүртгүүлэхдээ ашигладаг имэйл хаягаа ашиглан dpo-той [openfoodfacts.org](http://openfoodfacts.org) хаягаар холбогдоно уу.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
