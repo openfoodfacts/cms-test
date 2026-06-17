@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Мобиль кушымта"
-description: "4 сорау"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: мобиль
+icon: mobile
 ---
 
-{{< fa "мобиль" size=3х >}}
+{{< fa "mobile" size=3x >}}
 
-## Кушымтаның кайсы версиясен куллануымны ничек белергә?
+## How do I know which version of the app I'm using?
 
-**Профиль** бүлегенә керегез,
-, аннары **Еш бирелә торган сораулар**, аннары **Бу кушымтаның турында** бүлегенә керегез.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Сез
-3.4.5+662 кебек версия номерын күрергә тиеш. Әгәр телефонда төзәлү процессы бара икән, аның маркасын һәм моделен
-әйтергә онытмагыз.
-
----
-
-## Кушымта сканерламый
-
-Моның сәбәбе булырга мөмкин
-
-- челтәр проблемасы
-
-- рөхсәтләр проблемасы
-
-- штрих-код проблемасы
-
-Безгә Профиль аша электрон хат җибәрегез >> Безнең белән элемтәгә керегез >> Безгә электрон хат җибәрегез.
-
-Сезнең соравыгызга барлык кирәкле мәгълүмат та кушылырга тиеш.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Мобиль кушымтаны яхшыртуда ничек ярдәм итә алам?
+## The app does not scan
 
-Мобиль кушымтаны яхшыртуда ничек ярдәм итә алам?
+This may be due to
 
-Сез [моны мобиль кушымта репозиторийында эшли аласыз](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Кушымта турында фикерләрегезне кая җибәрергә мөмкин?
+## How can I help with improving the mobile app ?
 
-Фикерләрегезне mobile@openfoodfacts.org адресына җибәрә аласыз
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
