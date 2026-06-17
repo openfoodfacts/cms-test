@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} ናይ ፕረስን ሚድያን ሕቶታት"
-description: "1 ሕቶ"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: ጋዜጣ
+icon: newspaper
 ---
 
-{{< fa "ጋዜጣ" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## ከመይ ጌረ ኣብ Open Food Facts ናይ ፕረስ ቪዥዋል ክረክብ ይኽእል?
+## How can I get press visuals on Open Food Facts?
 
-በጃኹም ተወከሱ : presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
