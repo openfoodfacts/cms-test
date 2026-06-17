@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} გახსენით შინაური ცხოველების საკვების შესახებ ფაქტები"
-description: "2 კითხვა"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: თათი
+icon: paw
 ---
 
-{{< fa "თათი" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## რატომ არ არსებობს ცხოველებისთვის Nutri-Score?
+## Why is there no Nutri-Score for animals?
 
-თითოეული ცხოველი განსხვავებულია (გველს არ აქვს იგივე კვებითი მოთხოვნილებები, რაც კატას ან ძაღლს)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-ერთი და იგივე ტიპის ცხოველებშიც კი, როგორიცაა ძაღლები, კვების მოთხოვნილებები განსხვავდება ცხოვრების წესის, უმოძრაო ცხოვრების წესის, შესაძლო კასტრაციის ან დაავადებების მიხედვით.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-ამიტომ, ცხოველთა საკვების ქულის გამოთვლა ათობით მკვლევრის ჩართვისა და ათობით სხვადასხვა ალგორითმის შექმნის გარეშე რთულია, რაც დღემდე არ გაკეთებულა.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
