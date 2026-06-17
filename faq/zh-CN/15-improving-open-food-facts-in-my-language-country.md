@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} 改进我所在语言/国家的公开食品信息"
-description: "3个问题"
-lang: 英语-英国
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: 地球
+icon: globe
 ---
 
-{{< fa "地球" size=3倍 >}}
+{{< fa "globe" size=3x >}}
 
-## 我想为标签添加一个新的徽标。
+## I would like to add a new logo for labels
 
-流程如下：
+Here is the process:
 
-- 在[标签分类](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt)中查找标签的**规范名称**（它是标签同义词列表中的第一个项目，例如 en:100% vegetable）。
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**获取高质量的标志**：避免使用不适合此情况的投稿人照片；大多数品牌都有官方网站提供高质量的标志，有时甚至是矢量格式（这对我们来说更好）；只要我们使用标志客观地告知产品包装上存在
-标签，就无需征得许可。
------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**文件命名方式如下**：标签名称.[宽度]x90.png 其中宽度为徽标高度为 90 像素时的宽度。 文件名必须不带重音符号，全部小写，并且使用“-”代替空格。
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- 然后将徽标添加到与其规范名称对应的目录中。 如果规范名称是 en:something，那么它们必须位于 /en/ 中。 logo 的根目录是 [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## 如何将 Open Food Facts 翻译成我的语言？
-
-前往 [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## 我该如何将此常见问题解答翻译成我的语言？
+## How do I translate Open Food Facts to my language ?
 
-如需获得知识库的编辑权限，请联系 contact@openfoodfacts.org。
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
