@@ -1,23 +1,23 @@
 ---
-title: "{{< jenama fa saiz github=2x >}} Soalan Lazim Teknikal"
-description: "1 soalan"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: jenama github
+icon: brands github
 ---
 
 {{< fa "jenama" "github" size=3x >}}
 
-## Perlukah saya mengemas kini semua fail bahasa apabila saya menukar rentetan sumber?
+## Should I update all language files when I change a source string?
 
-Tidak, awak tidak. Anda hanya perlu mengemas kini versi Bahasa Inggeris
+No you don't. You just need to update the English one
 
-- Cipta PR anda
+- Create your PR
 
-Sebaik sahaja ia digabungkan, kami akan menggunakan semula pencetus crowdin secara manual dan sistem terjemahan Crowdin yang dicetuskan oleh GitHub Actions akan melakukan selebihnya untuk bahasa lain.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot GitHub kemudian mencipta PR baharu secara automatik yang kemudiannya kami semak.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
