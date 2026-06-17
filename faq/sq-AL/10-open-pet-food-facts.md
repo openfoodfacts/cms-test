@@ -1,21 +1,21 @@
 ---
-title: "{{< fa puth size=2x >}} Hapni Fakte mbi Ushqimin e Kafshëve Shtëpiake"
-description: "2 pyetje"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: puthë
+icon: paw
 ---
 
-{{< fa "puthë" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Pse nuk ka Nutri-Score për kafshët?
+## Why is there no Nutri-Score for animals?
 
-Çdo kafshë është e ndryshme (një gjarpër nuk ka të njëjtat nevoja ushqyese si një mace ose një qen)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Edhe brenda të njëjtit lloj kafshe, siç janë qentë, nevojat ushqyese ndryshojnë në varësi të stilit të jetesës sedentare, një kastrimi të mundshëm ose sëmundjeve.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Prandaj, është e ndërlikuar të llogaritet një rezultat për ushqimin e kafshëve pa përfshirë dhjetëra studiues dhe pa krijuar dhjetëra algoritme të ndryshme, gjë që nuk është bërë deri më sot.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
