@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API және деректерді қайта пайдалану"
-description: "6 сұрақ"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: кілт
+icon: wrench
 ---
 
-{{< fa "кілт" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## Жүктелген фотосуреттер үшін қандай өлшем жақсы болатыны туралы құжаттамада ұсыныстар бар ма?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Бұл желінің баяу немесе қымбат болуы елдерге байланысты болуы мүмкін. Салмағы немесе бойы 5000 пиксельден асатын кез келген нәрсе өте пайдалы болмауы мүмкін. және егер сіз желінің баяу екенін анықтай алсаңыз, онда тіпті 2000 пиксельдік кескін де керемет болар еді (суреттің болмауынан әрине жақсы!)
-
----
-
-## Штрих-кодсыз тағам туралы не деуге болады?
-
-Ашық тағам туралы ақпарат тек қапталған тағам туралы ақпаратты қамтиды. Өнімдердің (мысалы, қызанақ немесе банан) және басқа да азық-түлік өнімдерінің орташа мәндері үшін сіз ресми ұлттық тамақтану дерекқорларының бірін пайдалана аласыз.
-
-**Ескерту:** Төмендегі тізімде ең маңызды ұлттық азық-түлік дерекқорларының кейбірі келтірілген. Егер сіз тізімге басқа дерекқорды қосу керек деп ойласаңыз, бізбен мына мекенжай бойынша хабарласыңыз: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Ұлттық азық-түлік дерекқорларының тізімі**
-
--
-
-**Австралия** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf
-
--
-
-**Бельгия** - NUBEL - Бельгиялық тағам құрамы туралы деректер: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Канада** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Чехия Республикасы** - Ұлттық денсаулық сақтау институтының тағам құрамы туралы дерекқор: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Дания** - Дания тағамының құрамы туралы деректер қоры: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Эстония** - Эстон тағам құрамының дерекқоры: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Финляндия** - Фин тағамының құрамы туралы дерекқор - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**Франция** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Германия** - Souci-Fachmann-Kraut онлайн дерекқоры: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) немесе ресми неміс дерекқоры: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://bl/s)
-
-- **Италия** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Нидерланды** - Нидерланд тағамдарының құрамы туралы дерекқор: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Норвегия** - Норвегия тағамдарының құрамы кестесі 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Польша** - Тағам құрамы кестелері: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Испания** - Испан тағамдарының құрамы туралы дерекқор - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Швейцария** - Швейцариялық тағам құрамының дерекқоры: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**Ұлыбритания** - Азық-түлік құрамының интеграцияланған деректер жиынтығы (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**АҚШ** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## API арқылы нақты өнім атауын іздей аламын ба?
+## What about food without barcodes ?
 
-Өкінішке орай, тек өнім атауы бойынша және API арқылы оңай іздеу мүмкін емес.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Дегенмен, санат бойынша сүзгіні пайдалану іздеуді дәлірек етуге көмектеседі.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Жобаларым үшін деректерге қалай қол жеткізе/жинай аламын?
+## Can I search a precise product name with the API?
 
-Open Food Facts басты бетінде, экранның жоғарғы сол жақ бұрышында айналдыру мәзірі бар. Оның төменгі жағында сіз басуға болатын «кеңейтілген іздеу» опциясын табасыз. Содан кейін сіздің жобаңызға (жобаларыңызға) қай критерийлер ең сәйкес келетінін анықтау сізге байланысты. Таңдағаннан кейін, сіз алынған нәтижелерді беттің төменгі жағында төмен айналдырып, «Нәтижелерді жүктеу» түймесін басу арқылы жүктей аласыз.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Сіз сондай-ақ мыналармен кеңесе аласыз:
-
-- Біздің API құжаттамасы:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Open Food Facts пайдалану шарттары:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- Біздің деректеріміз бойынша:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## API пайдалану шарттары бар ма?
+## How can I access/collect data for my projects?
 
-API пайдалану туралы барлық құжаттаманы [API құжаттамасы бетінде](https://openfoodfacts.github.io/openfoodfacts-server/api/) табуға болады, бірақ міне, қысқаша мазмұны:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Open Food Facts дерекқоры Open Database лицензиясы (ODbL) бойынша ашық деректер ретінде қолжетімді, заңды мәліметтерді [https://world.openfoodfacts.org/terms-of-use[https://world.openfoodfacts.org/terms-of-use] сайтынан қараңыз. Екі шарт - атрибуция және тең үлес. Егер сіз Open Food Facts деректерін басқа дерекқорлармен біріктірсеңіз, онда ODbL алынған дерекқордың ашық деректер ретінде де жариялануын талап етеді. Бұл сондай-ақ деректерді тек осындай қайта бөлуге мүмкіндік беретін көздермен біріктіруге болатынын білдіреді.
+You can also consult:
 
-- Қолданбаңызды анықтау үшін API шақыруларын орындаған кезде сіз әрқашан арнайы пайдаланушы агентін пайдалануыңыз керек.
-
-- Әрбір API соңғы нүктесі үшін тарифтік шектеулер қолданылады.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Тарихи деректерге қалай қол жеткізе аламын?
+## Are there conditions to use the API?
 
-Қазіргі уақытта біз тарихи деректердің (JSONL, MongoDB, CSV) көшірмесін ұсынбаймыз.
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Дегенмен, жеке өнімдер үшін өнім деректерінің алдыңғы нұсқаларына API арқылы немесе өнім бетінде түзетулер арқылы кіруге болады.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Өнім жаңартылған сайын жаңа редакция (1-ден бастап өсетін сан) жасалады.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Мысалы, осы өнімнің бірінші нұсқасын (=бірінші өнім нұсқасын) алу үшін пайдаланыңыз
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Сол сияқты, rev параметрін API-мен бірге пайдалануға болады:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
