@@ -1,21 +1,21 @@
 ---
-title: "{{< velikost tlapky fa=2x >}} Fakta o krmivu pro domácí mazlíčky"
-description: "2 otázky"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: tlapka
+icon: paw
 ---
 
-{{< fa "tlapka" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Proč neexistuje Nutri-Score pro zvířata?
+## Why is there no Nutri-Score for animals?
 
-Každé zvíře je jiné (had nemá stejné nutriční potřeby jako kočka nebo pes)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-I v rámci stejného druhu zvířete, jako jsou psi, se nutriční potřeby liší v závislosti na sedavém způsobu života, případné kastraci nebo nemocech.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Je proto složité vypočítat skóre pro krmivo pro zvířata bez zapojení desítek výzkumníků a vytvoření desítek různých algoritmů, což dosud nebylo provedeno.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
