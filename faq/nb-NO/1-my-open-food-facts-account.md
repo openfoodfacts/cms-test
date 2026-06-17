@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} My Open Food Facts konto"
-description: "2 spørsmål"
-lang: no-no
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: bruker-sirkel
+icon: user-circle
 ---
 
-{{< fa "bruker-sirkel" size="3 x" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Jeg vil slette kontoen min
+## I want to delete my account
 
-Konto slettingen skjer nå direkte i dine innstillinger.
+Account deletion now happens directly in your preferences.
 
-Etter innlogging [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klikk på brukernavn øverst til høyre, velg kontoparametre. Det åpner din innstillingsside. Gå til bunnen av siden og bruk handlingen "slett bruker".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Hvis du ikke er i stand til å logge inn (eller tilbakestille passordet ditt), vennligst kontakt dpo - på - [openfoodfacts.org](http://openfoodfacts.org), med e-postadressen du bruker for å registrere kontoen.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
