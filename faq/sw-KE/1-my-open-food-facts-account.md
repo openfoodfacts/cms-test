@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ukubwa wa mduara wa mtumiaji=2x >}} Akaunti yangu ya Ukweli wa Chakula Huria"
-description: "Maswali 2"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: mduara wa mtumiaji
+icon: user-circle
 ---
 
-{{< fa "mduara wa mtumiaji" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Nataka kufuta akaunti yangu
+## I want to delete my account
 
-Kufutwa kwa akaunti sasa kunatokea moja kwa moja katika mapendeleo yako.
+Account deletion now happens directly in your preferences.
 
-Baada ya kuingia kwenye [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), bofya jina la mtumiaji kwenye kona ya juu kulia, chagua Vigezo vya Akaunti. Inafungua ukurasa wa mapendeleo yako. Nenda chini ya ukurasa na utumie kitendo cha "futa mtumiaji".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ikiwa huwezi kuingia (au kuweka upya nenosiri lako), tafadhali wasiliana na dpo - kwa - [openfoodfacts.org](http://openfoodfacts.org), ukitumia anwani ya barua pepe unayotumia kusajili akaunti.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
