@@ -1,23 +1,23 @@
 ---
-title: "{{<fa பிராண்டுகள் github size=2x >}} தொழில்நுட்ப கேள்விகள்"
-description: "1 கேள்வி"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: பிராண்டுகள் கிட்ஹப்
+icon: brands github
 ---
 
-{{< fa "brands" "கிட்ஹப்" size="3x (3x)" >}}
+{{< fa "brands" "github" size=3x >}}
 
-## நான் ஒரு மூல சரத்தை மாற்றும்போது எல்லா மொழி கோப்புகளையும் புதுப்பிக்க வேண்டுமா?
+## Should I update all language files when I change a source string?
 
-இல்லை, நீ வேண்டாம். நீங்கள் ஆங்கில மொழியைப் புதுப்பிக்க வேண்டும்.
+No you don't. You just need to update the English one
 
-- உங்கள் PR-ஐ உருவாக்குங்கள்.
+- Create your PR
 
-இது இணைக்கப்பட்டவுடன், நாங்கள் க்ரவுடின்-டிரிகரை கைமுறையாக மறுசீரமைப்போம், மேலும் கிட்ஹப் செயல்களால் தூண்டப்பட்ட க்ரவுடின் மொழிபெயர்ப்பு அமைப்பு மீதமுள்ளவற்றை மற்ற மொழிகளுக்குச் செய்யும்.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub பாட் பின்னர் ஒரு புதிய PR ஐ தானாகவே உருவாக்குகிறது, அதை நாங்கள் மதிப்பாய்வு செய்கிறோம்.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
