@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Беҳтар кардани далелҳои ошкорои ғизоӣ бо забон/кишвари ман"
-description: "3 савол"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: кураи замин
+icon: globe
 ---
 
-{{< fa "кураи замин" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Ман мехоҳам логотипи навро барои тамғакоғазҳо илова кунам
+## I would like to add a new logo for labels
 
-Ин раванд аст:
+Here is the process:
 
-- номи **каноникии** тамғаро дар [таксономияи тамғаҳо](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) пайдо кунед (ин аввалин банди рӯйхати синонимҳои тамғаҳо аст, масалан, en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**логотипро бо сифати хуб гиред**: аз истифодаи акси саҳмгузор, ки барои ин ҳолат мувофиқ нест, худдорӣ кунед; аксари тамғакоғазҳо логотипҳои баландсифати вебсайтҳои расмӣ доранд, баъзан дар формати векторӣ (ҳатто барои мо беҳтар); то он даме, ки мо логотипро барои огоҳ кардани объективӣ дар бораи мавҷудияти тамғаи
-дар бастабандии маҳсулот истифода мебарем, зарурати пурсидани иҷозат вуҷуд надорад.
----------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**файлро чунин номгузорӣ кунед**: name-of-the-label.[width]x90.png, ки дар он width паҳнои логотип ҳангоми баландии 90 пиксел аст. Номи файлҳо бояд бе лаҳҷа, бо ҳарфҳои хурд ва ба ҷои фосила бо аломати "-" навишта шаванд.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- сипас логотипро дар директорияе илова кунед, ки ба номи каноникии он мувофиқат мекунад. Агар номи канонӣ en:something бошад, пас онҳо бояд дар /en/ бошанд. Феҳристи решавии логотипҳо [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang) мебошад.
-
----
-
-## Чӣ тавр ман метавонам "Фактҳои хӯроквории кушода"-ро ба забони худам тарҷума кунам?
-
-Ба [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) равед
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Чӣ тавр ман ин саволҳои зуд-зуд додашавандаро ба забони худам тарҷума кунам?
+## How do I translate Open Food Facts to my language ?
 
-Лутфан, барои дастрасӣ ба таҳрири пойгоҳи дониш аз contact@openfoodfacts.org пурсед.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
