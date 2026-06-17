@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Opna upplýsingar um gæludýrafóður"
-description: "2 spurningar"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: lopp
+icon: paw
 ---
 
-{{< fa "lopp" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Af hverju er ekkert næringargildi fyrir dýr?
+## Why is there no Nutri-Score for animals?
 
-Hvert dýr er ólíkt (snákur hefur ekki sömu næringarþarfir og köttur eða hundur)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Jafnvel innan sömu dýrategundar eins og hunda, er næringarþörfin mismunandi eftir kyrrsetu, mögulegri geldingu eða sjúkdómum.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Það er því flókið að reikna út einkunn fyrir fóður dýra án þess að fá tugi vísindamanna til að taka þátt og búa til tugi mismunandi reiknirita, sem hefur ekki verið gert hingað til.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
