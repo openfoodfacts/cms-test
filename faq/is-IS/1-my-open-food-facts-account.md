@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Aðgangurinn minn að Open Food Facts"
-description: "2 spurningar"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: notendahringur
+icon: user-circle
 ---
 
-{{< fa "notendahringur" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ég vil eyða aðganginum mínum
+## I want to delete my account
 
-Eyðing reiknings gerist nú beint í stillingunum þínum.
+Account deletion now happens directly in your preferences.
 
-Eftir innskráningu á [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), smelltu á notandanafnið efst í hægra horninu og veldu Reikningsfæribreytur. Það opnar stillingasíðuna þína. Farðu neðst á síðuna og notaðu aðgerðina „eyða notanda“.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ef þú getur ekki skráð þig inn (eða endurstillt lykilorðið þitt), vinsamlegast hafðu samband við persónuverndarstofnunina - á - [openfoodfacts.org](http://openfoodfacts.org), með því að nota netfangið sem þú notar til að stofna aðgang.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
