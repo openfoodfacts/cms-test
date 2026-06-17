@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} तांत्रिक वारंवार विचारले जाणारे प्रश्न"
-description: "१ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: १६
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: ब्रँड्स गिटहब
+icon: brands github
 ---
 
-{{< fa "brands" "गिटहब" size=३x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## जेव्हा मी सोर्स स्ट्रिंग बदलतो तेव्हा मी सर्व भाषा फाइल्स अपडेट कराव्यात का?
+## Should I update all language files when I change a source string?
 
-नाही, तुम्ही नाही. तुम्हाला फक्त इंग्रजी अपडेट करायचे आहे.
+No you don't. You just need to update the English one
 
-- तुमचा जनसंपर्क तयार करा
+- Create your PR
 
-एकदा ते विलीन झाल्यानंतर, आम्ही क्राउडिन-ट्रिगर मॅन्युअली रीबेस करू आणि गिटहब अॅक्शन्सद्वारे ट्रिगर केलेली क्राउडिन भाषांतर प्रणाली इतर भाषांसाठी उर्वरित काम करेल.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-त्यानंतर गिटहब बॉट आपोआप एक नवीन पीआर तयार करतो ज्याचे आम्ही पुनरावलोकन करतो.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
