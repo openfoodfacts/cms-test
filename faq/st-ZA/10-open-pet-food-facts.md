@@ -1,21 +1,21 @@
 ---
-title: "Lintlha tse Bulehileng tsa Lijo tsa Liphoofolo tse Ruuoang"
-description: "Lipotso tse 2"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: leoto
+icon: paw
 ---
 
-{{< fa "leoto" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Hobaneng ha ho se na Nutri-Score bakeng sa diphoofolo?
+## Why is there no Nutri-Score for animals?
 
-Phoofolo e 'ngoe le e 'ngoe e fapane (noha ha e na litlhoko tse tšoanang tsa phepo e nepahetseng le tsa katse kapa ntja)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Esita le ka har'a mofuta o tšoanang oa phoofolo joalo ka lintja, litlhoko tsa phepo lia fapana ho latela bophelo ba bophelo ba ho lula fatše, ho faola ho ka bang teng kapa mafu.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Ka hona ho rarahane ho bala lintlha bakeng sa lijo tsa liphoofolo ntle le ho kenyelletsa bafuputsi ba bangata le ho theha li-algorithms tse ngata tse fapaneng, tse e-so etsoe ho fihlela joale.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
