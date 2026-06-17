@@ -1,17 +1,17 @@
 ---
-title: "בקשות לעיתונות ולמדיה {{< גודל עיתון fa=2x >}}"
-description: "שאלה אחת"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: עִתוֹן
+icon: newspaper
 ---
 
-{{< fa "עִתוֹן" size="פי 3" >}}
+{{< fa "newspaper" size=3x >}}
 
-## איך אני יכול לקבל תמונות לעיתונות ב-Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-אנא צרו קשר: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
