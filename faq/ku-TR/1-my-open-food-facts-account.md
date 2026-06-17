@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Hesabê min ê Rastiyên Xwarinê yên Vekirî"
-description: "2 pirs"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: çembera bikarhêner
+icon: user-circle
 ---
 
-{{< fa "çembera bikarhêner" size="3 caran" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ez dixwazim hesabê xwe jê bibim
+## I want to delete my account
 
-Jêbirina hesabê niha rasterast di tercîhên we de çêdibe.
+Account deletion now happens directly in your preferences.
 
-Piştî têketina li ser [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), li quncikê jorîn ê rastê li ser navê bikarhêner bikirtînin, Parametreyên Hesabê hilbijêrin. Ew rûpela tercîhên we vedike. Biçe binê rûpelê û çalakiya "bikarhêner jê bibe" bikar bîne.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Heke hûn nekarin têkevinê (an şîfreya xwe ji nû ve saz bikin), ji kerema xwe bi navnîşana e-nameya ku hûn ji bo qeydkirina hesabê bikar tînin bi dpo re têkilî daynin - li - [openfoodfacts.org](http://openfoodfacts.org),.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
