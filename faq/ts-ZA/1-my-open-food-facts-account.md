@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Akhawunti ya mina ya Tinhla ta Swakudya leti Pfulekeke"
-description: "2 swivutiso"
-lang: ts-gb
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: mutirhisi-xirhendzevutani
+icon: user-circle
 ---
 
-{{< fa "mutirhisi-xirhendzevutani" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ndzi lava ku susa akhawunti ya mina
+## I want to delete my account
 
-Ku susiwa ka akhawunti sweswi ku humelela hi ku kongoma eka swihlawulekisi swa wena.
+Account deletion now happens directly in your preferences.
 
-Endzhaku ko nghena eka [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), tinya eka vito ra mutirhisi ekhonweni ya le henhla ya xinene, hlawula Account Parameters. Yi pfula tluka ra swihlawulekisi swa wena. Yana ehansi ka pheji u tirhisa xiendlo xa "delete user".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Loko u nga swi koti ku nghena (kumbe ku tlhela u veka phaswedi ya wena), hi kombela u tihlanganisa na dpo - eka - [openfoodfacts.org](http://openfoodfacts.org), hi ku tirhisa adirese ya imeyili leyi u yi tirhisaka ku tsarisa akhawunti.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
