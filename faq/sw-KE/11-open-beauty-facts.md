@@ -1,15 +1,15 @@
 ---
-title: "{{< fa lebo size=2x >}} Mambo ya Urembo Yaliyo wazi"
-description: "Maswali 4"
+title: "{{< fa tags size=2x >}} Open Beauty Facts"
+description: "4 questions"
 lang: en-gb
 order: 11
 category-level: 0
-icon: lebo
+icon: tags
 ---
 
-{{< fa "lebo" size=3x >}}
+{{< fa "tags" size=3x >}}
 
-## Je, Open Beauty Facts ina maabara ya uchambuzi?
+## Does Open Beauty Facts have an analysis laboratory?
 
 Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
 
@@ -29,23 +29,23 @@ can join the Facebook group of contributors:
 
 ---
 
-## Ninawezaje kuingiza bidhaa zangu katika Open Beauty Facts?
+## How do I import my products into Open Beauty Facts?
 
-Wasiliana na producteurs@openfoodfacts.org au nenda moja kwa moja kwa
+Contact producteurs@openfoodfacts.org or go directly to
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) kisha wasiliana na \*\*producteurs@openfoodfacts.org \*\*kwa usafirishaji maalum
-
----
-
-## Ninaweza kupakua wapi data ya Open Beauty Facts?
-
-Ukurasa wa /data kwa sasa umeharibika. Unaweza kupakua data katika [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
 
 ---
 
-## Ninaweza kupata wapi API ya Open Beauty Facts na mauzo ya data nje ya nchi?
+## Where can I download Open Beauty Facts data?
 
-API ya Ukweli wa Chakula Huria ni sawa na 98% na API ya Ukweli wa Urembo Huria kwa hivyo ukitumia hati ya API ya Ukweli wa Chakula Huria unapaswa kuwa na mtazamo wazi wa API ya Ukweli wa Urembo Huria.
+The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+
+---
+
+## Where can I find the Open Beauty Facts API and data exports ?
+
+Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
