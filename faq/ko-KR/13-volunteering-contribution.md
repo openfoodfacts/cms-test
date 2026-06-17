@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} 자원봉사/기여"
-description: "3개의 질문"
-lang: 영어-영국
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: 편집
 ---
 
-{{< fa "편집" size=3배 >}}
+{{< fa "편집" size=3x >}}
 
-## 제품에 업로드된 이미지를 삭제하는 방법이 있나요?
+## Is there a way to remove uploaded images for products?
 
-악의적인 행위를 방지하기 위해 관리자만 사진을 삭제할 수 있습니다.
+Only moderators can remove photos, to avoid potential vandalism.
 
-중복된 사진이나 부적절한 사진을 삭제하려면 Slack이나 **contact@openfoodfacts.org**로 문의해 주세요(바코드 번호 또는 URL을 함께 제공해 주시면 더욱 좋습니다).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-프로그래머라면 새로운 이미지 보고서 API도 이용할 수 있습니다.
-
----
-
-## 저는 디자이너입니다. 어떻게 도와드릴까요?
-
-저희는 디자인 관련 모든 활동을 [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) 및 전용 채팅 채널에서 조율합니다. 저희는 정기적으로 팀 회의를 열고 특정 과제에 대해 브레인스토밍을 진행합니다.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## 경우에 따라 동일한 제품이라도 국가별로 영양 성분이 다를 수 있는데, Open Food Facts에서는 이러한 경우를 어떻게 처리하나요?
+## I'm a designer. How can I help ?
 
-대부분의 경우(99%), 제조업체는 제품의 각기 다른 버전에 대해 서로 다른 바코드를 생성합니다. 프랑스와 독일의 누텔라의 점도 차이는 각국의 빵 종류 차이에서 비롯된 것으로, 이는 널리 알려진 사례입니다. 두 가지 다른 제조법, 두 가지 다른 바코드.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-하지만 바코드 충돌은 유럽과 미국의 일부 매장에서 재사용되는 짧은 코드(EAN-8)에서 발생할 수 있습니다. 현재는 바코드 충돌 문제를 처리하지 않지만, 사용자의 대략적인 위치 정보를 활용하면 해결 가능할 것으로 예상됩니다 (한 국가 내에서 바코드 충돌이 발생하는 경우는 더욱 드뭅니다).
+---
 
-장기적으로는 바코드 충돌을 피하기 위해 생산자들이 EAN-13으로 전환할 것을 권장합니다.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
