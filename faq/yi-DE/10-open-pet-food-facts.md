@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} עפֿענען אינפֿאָרמאַציע וועגן ליבלינג-עסן"
-description: "2 פֿראַגעס"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: לאַפּע
+icon: paw
 ---
 
-{{< fa "לאַפּע" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## פארוואס איז נישטא קיין נוטרי-סקאָר פאר בעלי חיים?
+## Why is there no Nutri-Score for animals?
 
-יעדע חיה איז אַנדערש (אַ שלאַנג האט נישט די זעלבע נוטרישאַנעלע באדערפענישן ווי אַ קאַץ אָדער אַ הונט)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-אפילו אינערהאלב דעם זעלבן טיפ חיה ווי הינט, ווערייִרן די נוטרישאַנעלע באדערפענישן לויטן זיצנדיקן לייפסטייל, אַ מעגלעכער קאַסטראַציע אָדער קראַנקייטן.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-עס איז דעריבער קאָמפּליצירט צו רעכענען אַ כעזשבן פֿאַר כייַע פֿיטער אָן צו באַטייליקן דאַזאַנז פון פֿאָרשער און שאַפֿן דאַזאַנז פון פֿאַרשידענע אַלגעריטמען, וואָס איז ביז איצט נישט געטאָן געוואָרן.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
