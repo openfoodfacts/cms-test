@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} FAQ tecnica"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
 description: "1 question"
-lang: es-gb
+lang: en-gb
 order: 16
 category-level: 0
-icon: marcas github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Deuriái metre a jorn totes los fichièrs de lenga quand cambi una cadena font?
+## Should I update all language files when I change a source string?
 
-Non o fasètz pas. Vos cal pas que metre a jorn l'anglés
+No you don't. You just need to update the English one
 
-- Creatz vòstre PR
+- Create your PR
 
-Un còp fusionat, tornarem basar crowdin-trigger manualament e lo sistèma de traduccion Crowdin activat per GitHub Actions farà lo rèsta per d'autras lengas.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Lo robòt GitHub crea alara automaticament un novèl PR que revisam alara.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
