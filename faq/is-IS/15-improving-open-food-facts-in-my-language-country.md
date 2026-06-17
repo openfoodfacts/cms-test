@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Að bæta Open Food Facts á mínu tungumáli/landi"
-description: "3 spurningar"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: hnöttur
+icon: globe
 ---
 
-{{< fa "hnöttur" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Ég vil bæta við nýju merki fyrir merkimiða
+## I would like to add a new logo for labels
 
-Hér er ferlið:
+Here is the process:
 
-- finndu **viðurkennt heiti** merkisins í [flokkun merkja](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (það er fyrsta atriðið í listanum yfir samheiti merkisins, t.d. en:100% grænmeti)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Fáðu merkið í góðum gæðum**: forðastu að nota ljósmynd frá framlagi sem hentar ekki í þessu tilfelli; flest vörumerki eru með opinber vefmerki í hágæða lógó, stundum í vektorformi (enn betra fyrir okkur); svo lengi sem við notum merki til að upplýsa hlutlægt um tilvist
-merkimiða á umbúðum vöru, er engin þörf á að biðja um leyfi.
-----------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Nefndu skrána svona**: name-of-the-label.[width]x90.png þar sem width er breiddin á merkinu þegar það er 90 pixlar á hæð. Skráarnafnin þurfa að vera án áherslu, með lágstöfum og með „-“ í stað bila.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- bætið síðan við merkinu í möppuna sem samsvarar kanónísku nafni þess. Ef kanóníska heitið er en:something, þá þurfa það að vera í /en/. Rótarmöppan fyrir lógó er [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Hvernig þýði ég Open Food Facts yfir á mitt tungumál?
-
-Farðu á [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Hvernig þýði ég þessar algengu spurningar yfir á mitt tungumál?
+## How do I translate Open Food Facts to my language ?
 
-Vinsamlegast biðjið contact@openfoodfacts.org um aðgang að þekkingargrunninum.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
