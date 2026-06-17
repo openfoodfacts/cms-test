@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Te Tūao / Te Takoha"
-description: "3 ngā pātai"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## He ara hei tango i ngā whakaahua kua tukuna ake mō ngā hua?
+## Is there a way to remove uploaded images for products?
 
-Ko ngā kaiwhakahaere anake ka taea te tango i ngā whakaahua, kia kore ai e tūkinotia.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Pātai atu ki a Slack, ki te **contact@openfoodfacts.org** rānei kia tangohia ō whakaahua tāruarua, ō whakaahua hē rānei (me ngana koe ki te tuku i te nama waehere pae, te URL rānei ki tēnā).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-He API pūrongo whakaahua hou tā mātou mēnā he kaihōtaka koe.
-
----
-
-## He kaihoahoa ahau. Me pēhea taku āwhina?
-
-Ka whakarite mātou i ngā mahi hoahoa katoa i runga i [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) me tētahi hongere kōrerorero motuhake. He auau ā mātou hui tīma, ā, he maha ā mātou wānanga mō ngā wero motuhake.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## I ētahi wā, he rerekē ngā uara kai o te hua kotahi mō ia whenua, me pēhea te whakahaere i tēnei i roto i te Open Food Facts?
+## I'm a designer. How can I help ?
 
-99% o te wā, ka waihangahia e ngā kaihanga he waehere pae rerekē mō ngā putanga rerekē o ā rātou hua. Ko tētahi tauira rongonui ko te rerekētanga o te matotoru o te Nutella Wīwī me te Nutella Tiamana, nā te rerekētanga o te taro i waenga i ngā whenua. E rua ngā tātai rerekē, e rua ngā waehere pae rerekē.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Heoi, ka pā te taupatupatu waehere pae i ngā waehere poto ake (EAN-8) e whakamahia ana e ētahi toa puta noa i Ūropi me te US. Kāore mātou e whakahaere ana i aua taupatupatu waehere pae i tēnei wā, engari me taea pea mā te tiki i te tauwāhi whānui o te kaiwhakamahi (he onge ake te kite i ngā taupatupatu waehere pae i roto i te whenua).
+---
 
-Mō te wā roa, ka akiaki mātou i ngā kaihanga kia neke ki te EAN-13 hei karo i aua taupatupatu waeherepae.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
