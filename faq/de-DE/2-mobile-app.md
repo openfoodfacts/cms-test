@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile App"
-description: "4 Fragen"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: Mobile
+icon: mobile
 ---
 
-{{< fa "Mobile" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Wie finde ich heraus, welche Version der App ich verwende?
+## How do I know which version of the app I'm using?
 
-Gehe zu **Profil**,
-, dann zu **FAQ** und anschließend zu **Über diese App**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Sie sollten
-eine Versionsnummer wie 3.4.5+662 sehen. Vergessen Sie nicht, uns die Marke und das Modell
-des Telefons mitzuteilen, falls es sich um einen Debugger handelt.
-
----
-
-## Die App scannt nicht.
-
-Dies könnte daran liegen, dass
-
-- ein Netzwerkproblem
-
-- ein Berechtigungsproblem
-
-- ein Barcode-Problem
-
-Senden Sie uns eine E-Mail über Profil >> Kontakt >> E-Mail senden.
-
-Alle relevanten Informationen sollten Ihrer Anfrage beigefügt werden.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Wie kann ich zur Verbesserung der mobilen App beitragen?
+## The app does not scan
 
-Wie kann ich zur Verbesserung der mobilen App beitragen?
+This may be due to
 
-Sie können dies [im Repository der mobilen App](https://github.com/openfoodfacts/smooth-app) tun.
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Wo kann ich Feedback zur App senden?
+## How can I help with improving the mobile app ?
 
-Sie können Ihr Feedback an mobile@openfoodfacts.org senden.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
