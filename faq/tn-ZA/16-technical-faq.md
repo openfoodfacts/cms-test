@@ -1,23 +1,23 @@
 ---
-title: "{{< bogolo jwa github jwa matshwaokgwebo=2x >}} Dipotso tse di bodiwang thata tsa setegeniki"
-description: "potso e le 1"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: matshwaokgwebo a github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## A ke tshwanetse go tlhabolola difaele tsotlhe tsa puo fa ke fetola mogala wa motswedi?
+## Should I update all language files when I change a source string?
 
-Nnyaa ga o itse. O tlhoka fela go tlhabolola ya Seesemane
+No you don't. You just need to update the English one
 
-- Tlhama PR ya gago
+- Create your PR
 
-Fa e sena go kopanngwa, re tla tlhoma gape crowdin-trigger ka seatla mme tsamaiso ya thanolo ya Crowdin e e tlhotlhelediwang ke Ditiro tsa GitHub e tla dira tsotlhe mo dipuong tse dingwe.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot e bo e tlhama PR e ntšha ka go itirisa e re tla e sekasekang.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
