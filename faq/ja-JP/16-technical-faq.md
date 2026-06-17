@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} 技術的なよくある質問"
-description: "1件の質問"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: ブランド github
+icon: brands github
 ---
 
-{{< fa "ブランド" "ギットハブ" size=3倍 >}}
+{{< fa "ブランド" "github" size=3x >}}
 
-## ソース文字列を変更するときに、すべての言語ファイルを更新する必要がありますか?
+## Should I update all language files when I change a source string?
 
-いいえ、そうではありません。 英語版を更新するだけでいい
+No you don't. You just need to update the English one
 
-- PRを作成する
+- Create your PR
 
-マージが完了したら、crowdin-trigger を手動でリベースし、GitHub Actions によってトリガーされた Crowdin 翻訳システムが他の言語の残りの作業を実行します。
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-その後、GitHub ボットが自動的に新しい PR を作成し、それをレビューします。
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
