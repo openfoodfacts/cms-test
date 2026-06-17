@@ -1,17 +1,17 @@
 ---
-title: "{{< fa iwe iroyin iwọn=2x >}} Awọn ibeere fun atẹjade ati media"
-description: "Ìbéèrè kan"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: ìwé ìròyìn
+icon: newspaper
 ---
 
-{{< fa "ìwé ìròyìn" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Báwo ni mo ṣe lè rí àwọn àwòrán lórí àwọn ìròyìn nípa Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Jọ̀wọ́ kàn sí: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
