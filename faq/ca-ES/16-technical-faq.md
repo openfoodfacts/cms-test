@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Preguntes freqüents tècniques"
-description: "1 pregunta"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: marques github
+icon: brands github
 ---
 
-{{< fa "marques" "GitHub" size=3x >}}
+{{< fa "marques" "github" size=3x >}}
 
-## He d'actualitzar tots els fitxers d'idioma quan canvio una cadena d'origen?
+## Should I update all language files when I change a source string?
 
-No, no ho fas. Només cal actualitzar l'anglès.
+No you don't. You just need to update the English one
 
-- Crea el teu PR
+- Create your PR
 
-Un cop fusionat, rebaserem crowdin-trigger manualment i el sistema de traducció Crowdin activat per GitHub Actions farà la resta per a altres idiomes.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-El bot de GitHub crea automàticament una nova PR que després revisem.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
