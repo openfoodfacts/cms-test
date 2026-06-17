@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Migliurà i fatti alimentari aperti in a mo lingua/paese"
-description: "3 dumande"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: globu
+icon: globe
 ---
 
-{{< fa "globu" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Vogliu aghjunghje un novu logò per l'etichette
+## I would like to add a new logo for labels
 
-Eccu hè u prucessu:
+Here is the process:
 
-- Truvà u **nome canonicu** di l'etichetta in a [tassonomia di l'etichette](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (hè u primu elementu in a lista di i sinonimi di l'etichette, per esempiu en:100% vegetale)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Ottene u logu di bona qualità**: evitate d'utilizà a foto di u cuntributore chì ùn hè micca adatta per questu casu; a maiò parte di l'etichette anu loghi di alta qualità in siti web ufficiali, qualchì volta in furmatu vettoriale (ancu megliu per noi); basta chì usemu un logu per informà obiettivamente di a presenza di un'etichetta
-nantu à l'imballu di un pruduttu, ùn ci hè bisognu di dumandà permessu.
----------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**chjamate u schedariu cusì**: nome-di-l'etichetta.[larghezza]x90.png induve larghezza hè a larghezza di u logu quandu hè altu 90 pixel. I nomi di i fugliali devenu esse senza accentu, in minuscule è aduprendu "-" invece di spazii.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- dopu aghjunghje u logu in u cartulare chì currisponde à u so nome canonicu. Sè u nome canonicu hè en:something, allora devenu esse in /en/. U cartulare principale per i loghi hè [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Cumu possu traduce Open Food Facts in a mo lingua ?
-
-Andate à [[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Cumu possu traduce sta FAQ in a mo lingua ?
+## How do I translate Open Food Facts to my language ?
 
-Per piacè dumandate à contact@openfoodfacts.org per l'accessu di mudificazione à a basa di cunniscenza.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
