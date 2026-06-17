@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Мабільная праграма"
-description: "4 пытанні"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: мабільны
+icon: mobile
 ---
 
-{{< fa "мабільны" size="3 разы" >}}
+{{< fa "mobile" size=3x >}}
 
-## Як даведацца, якую версію праграмы я выкарыстоўваю?
+## How do I know which version of the app I'm using?
 
-Перайдзіце ў **Профіль**,
-, затым **FAQ**, а потым **Аб гэтым дадатку**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Вы павінны
-убачыць нумар версіі, напрыклад, 3.4.5+662. Не забудзьцеся паведаміць нам марку і мадэль
-тэлефона, калі ён адладжваецца.
-
----
-
-## Праграма не скануе
-
-Гэта можа быць звязана з
-
-- праблема з сеткай
-
-- праблема з дазволамі
-
-- праблема са штрых-кодам
-
-Дашліце нам ліст праз профіль >> Звязацца з намі >> Дашліце нам ліст.
-
-Да вашага запыту неабходна прыкласці ўсю адпаведную інфармацыю.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Як я магу дапамагчы ў паляпшэнні мабільнага прыкладання?
+## The app does not scan
 
-Як я магу дапамагчы ў паляпшэнні мабільнага прыкладання?
+This may be due to
 
-Вы можаце [зрабіць гэта ў рэпазітарыі мабільных праграм](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Куды я магу адправіць водгук аб дадатку?
+## How can I help with improving the mobile app ?
 
-Вы можаце адправіць водгук на адрас mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
