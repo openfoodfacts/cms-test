@@ -1,52 +1,52 @@
 ---
-title: "{{< fa மொபைல் அளவு=2x >}} மொபைல் பயன்பாடு"
-description: "4 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: மொபைல்
+icon: mobile
 ---
 
-{{< fa "மொபைல்" size="3x (3x)" >}}
+{{< fa "mobile" size=3x >}}
 
-## நான் பயன்படுத்தும் பயன்பாட்டின் எந்தப் பதிப்பை எப்படி அறிவது?
+## How do I know which version of the app I'm using?
 
-**சுயவிவரம்** என்பதற்குச் சென்று,
-பின்னர் **FAQ** என்பதற்குச் சென்று, பின்னர் **இந்த பயன்பாட்டைப் பற்றி** என்பதற்குச் செல்லவும்.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-நீங்கள்
-3.4.5+662 போன்ற பதிப்பு எண்ணைப் பார்க்க வேண்டும். பிழைத்திருத்தம் என்றால், தொலைபேசியின் தயாரிப்பு மற்றும் மாடலை
-எங்களிடம் சொல்ல மறக்காதீர்கள்.
-
----
-
-## பயன்பாடு ஸ்கேன் செய்யவில்லை.
-
-இது காரணமாக இருக்கலாம்
-
-- நெட்வொர்க் பிரச்சனை
-
-- அனுமதி சிக்கல்
-
-- ஒரு பார்கோடு சிக்கல்
-
-சுயவிவரம் வழியாக எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள் >> எங்களைத் தொடர்பு கொள்ளுங்கள் >> எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள்.
-
-உங்கள் கோரிக்கையுடன் தொடர்புடைய அனைத்து தகவல்களும் இணைக்கப்பட வேண்டும்.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## மொபைல் செயலியை மேம்படுத்த நான் எவ்வாறு உதவ முடியும்?
+## The app does not scan
 
-மொபைல் செயலியை மேம்படுத்த நான் எவ்வாறு உதவ முடியும்?
+This may be due to
 
-நீங்கள் [மொபைல் பயன்பாட்டு களஞ்சியத்தில் அவ்வாறு செய்யலாம்](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## பயன்பாட்டைப் பற்றிய கருத்துக்களை நான் எங்கே அனுப்ப முடியும்?
+## How can I help with improving the mobile app ?
 
-நீங்கள் mobile@openfoodfacts.org என்ற முகவரிக்கு கருத்துகளை அனுப்பலாம்.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
