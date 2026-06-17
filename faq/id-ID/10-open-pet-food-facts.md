@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Buka Fakta Makanan Hewan Peliharaan"
-description: "2 pertanyaan"
-lang: bahasa Inggris
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: mengais
+icon: paw
 ---
 
-{{< fa "mengais" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Mengapa tidak ada Nutri-Score untuk hewan?
+## Why is there no Nutri-Score for animals?
 
-Setiap hewan berbeda (ular tidak memiliki kebutuhan nutrisi yang sama dengan kucing atau anjing).
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Bahkan dalam jenis hewan yang sama seperti anjing, kebutuhan nutrisinya bervariasi tergantung pada gaya hidup yang kurang aktif, kemungkinan pengebirian, atau penyakit.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Oleh karena itu, sangat rumit untuk menghitung skor pakan ternak tanpa melibatkan puluhan peneliti dan menciptakan puluhan algoritma berbeda, yang belum dilakukan hingga saat ini.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
