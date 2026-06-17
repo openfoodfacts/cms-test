@@ -1,17 +1,17 @@
 ---
-title: "{{< fa ukubwa wa gazeti=2x >}} Maombi ya Vyombo vya Habari na Vyombo vya Habari"
-description: "Swali 1"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: gazeti
+icon: newspaper
 ---
 
-{{< fa "gazeti" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Ninawezaje kupata taswira za vyombo vya habari kuhusu Ukweli wa Chakula Huria?
+## How can I get press visuals on Open Food Facts?
 
-Tafadhali wasiliana na: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
