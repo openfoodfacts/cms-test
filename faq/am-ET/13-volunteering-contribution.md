@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} በጎ ፈቃደኝነት / አስተዋጽዖ ማድረግ"
-description: "3 ጥያቄዎች"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## ለምርቶች የተሰቀሉ ምስሎችን ለማስወገድ መንገድ አለ?
+## Is there a way to remove uploaded images for products?
 
-አወያዮች ብቻ ፎቶዎችን ማስወገድ ይችላሉ፣ ይህም ሊከሰት የሚችል ውድመትን ለማስወገድ ነው።
+Only moderators can remove photos, to avoid potential vandalism.
 
-የተባዙ ወይም ተገቢ ያልሆኑ ፎቶዎችን ለማስወገድ በSlack ወይም በ **contact@openfoodfacts.org** ላይ ብቻ ይጠይቁ (ለዚህ የባርኮድ ቁጥሩን ወይም ዩአርኤሉን ለማቅረብ መሞከር አለብዎት)።
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-ፕሮግራመር ከሆኑ አዲስ የምስል ሪፖርት ኤፒአይም አለን።
-
----
-
-## እኔ ዲዛይነር ነኝ። እንዴት መርዳት እችላለሁ?
-
-በ[https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) እና በተወሰነ የውይይት ቻናል ላይ ከዲዛይን ጋር የተያያዙ ሁሉንም እንቅስቃሴዎች እናስተባብራለን። በየጊዜው የቡድን ስብሰባዎችን እናደርጋለን እና በተወሰኑ ተግዳሮቶች ላይ የአእምሮ መጨናነቅ እናደርጋለን።
+We also have a new image report API if you're a programmer.
 
 ---
 
-## በአንዳንድ ሁኔታዎች አንድ አይነት ምርት ለእያንዳንዱ ሀገር የተለያዩ የአመጋገብ እሴቶች ሊኖሩት ይችላል፣ ይህ በክፍት የምግብ እውነታዎች ውስጥ እንዴት ይስተናገዳል?
+## I'm a designer. How can I help ?
 
-99% የሚሆነው ጊዜ አምራቾች ለተለያዩ የምርቶቻቸው ስሪቶች የተለያዩ ባርኮዶችን ይፈጥራሉ። አንድ ታዋቂ ምሳሌ በፈረንሳይኛ እና በጀርመንኛ ኑቴላ መካከል ያለው የውፍረት ልዩነት ሲሆን ይህም በተለያዩ አገሮች ውስጥ ባለው የዳቦ ልዩነት ምክንያት ነው። 2 የተለያዩ ቀመሮች፣ 2 የተለያዩ ባርኮዶች።
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-ሆኖም ግን፣ ባርኮድ ግጭት በአብዛኛው በአውሮፓ እና በአሜሪካ በሚገኙ አንዳንድ መደብሮች እንደገና ጥቅም ላይ በሚውሉ አጫጭር ኮዶች (EAN-8) ላይ ሊከሰት ይችላል። በአሁኑ ጊዜ እነዚያን የባርኮድ ግጭቶች አናስተናግድም፣ ነገር ግን የተጠቃሚውን አጠቃላይ ቦታ በማግኘት ይህንን ማድረግ የሚቻል መሆን አለበት (በአገር ውስጥ የባርኮድ ግጭቶች መኖራቸው የበለጠ ብርቅ ነው)።
+---
 
-በረጅም ጊዜ ውስጥ፣ አምራቾች እነዚያን የባርኮድ ግጭቶች ለማስወገድ ወደ EAN-13 እንዲሸጋገሩ እናበረታታለን።
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
