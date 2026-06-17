@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Sajtó- és médiamegkeresések"
-description: "1 kérdés"
-lang: hu-gb
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: újság
+icon: newspaper
 ---
 
-{{< fa "újság" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Hogyan juthatok sajtóanyagokhoz az Open Food Facts oldalon?
+## How can I get press visuals on Open Food Facts?
 
-Kérjük, vegye fel velünk a kapcsolatot a következő címen: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
