@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Boloci / Dɛmɛ"
-description: "3 ɲininkaliw"
-lang: bamanankan-gb
-order: 13. 13
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
+order: 13
 category-level: 0
 icon: edit
 ---
 
 {{< fa "edit" size=3x >}}
 
-## Yala fɛɛrɛ bɛ yen ka ja minnu bilala sen kan, olu bɔ yen fɛnw kama wa?
+## Is there a way to remove uploaded images for products?
 
-Labɛnbagaw dɔrɔn de bɛ se ka fotow bɔ, walasa ka u yɛrɛ tanga tiɲɛni ma min bɛ se ka kɛ.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Aw ye ɲininkali kɛ dɔrɔn Slack kan walima **contact@openfoodfacts.org** kan walasa k’aw ka duplicates walima fotow bɔ minnu ma bɛn (aw ka kan k’a ɲini ka barcode nimɔrɔ walima URL di o ma).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-An fana ye ja rapɔɔri API kura sɔrɔ n’i ye porogaramukɛla ye.
-
----
-
-## Ne ye dilanbaga ye. Ne bɛ se ka dɛmɛ don cogo di ?
-
-An bɛ baara bɛɛ labɛn min ɲɛsinnen bɛ dilancogo ma [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) kan ani barokɛyɔrɔ kɛrɛnkɛrɛnnen dɔ kan. An bɛ to ka ekipu lajɛw kɛ ani ka hakilijagabɔ kɛ gɛlɛya kɛrɛnkɛrɛnnenw kan.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Tuma dɔw la, fura kelen bɛ se ka balo nafa wɛrɛw sɔrɔ jamana kelen-kelen bɛɛ la, o bɛ ɲɛnabɔ cogo di Open Food Facts kɔnɔ ?
+## I'm a designer. How can I help ?
 
-99% waati la, fɛn dilannikɛlaw bɛna barɔdi suguya wɛrɛw dilan u ka fɛn dilannenw suguya wɛrɛw kama. Misali tɔgɔba dɔ ye danfara ye Faransi ni Aliman Nutella cɛ u bonya siratigɛ la, k’a sababu kɛ buru danfara ye jamanaw ni ɲɔgɔn cɛ. Formula 2 danfaralenw, barɔdi 2 danfaralenw.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Barcode clash bɛ se ka kɛ kɔni code surunw kan (EAN-8) minnu bɛ baara kɛ kokura magan dɔw fɛ Erɔpu ani Ameriki jamana bɛɛ la. An t’o barɔdi-kὲlɛw ɲɛnabɔ sisan, nka a ka kan ka Kɛ k’o Kɛ ni baarakɛla ka yɔrɔ bɛɛ lajɛlen sɔrɔli ye (a ka teli ka Kɛ kosɛbɛ ka barɔdi-kὲlɛw Kɛ jamana dɔ kɔnɔ).
+---
 
-Kuntaalajan kɔnɔ, an bɛ dusu don fɛn dilannikɛlaw kɔnɔ u ka taa EAN-13 la walasa k’u yɛrɛ tanga o barɔdi ɲɔgɔndanw ma.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
