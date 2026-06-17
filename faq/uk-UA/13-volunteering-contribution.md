@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Волонтерство / Внесок"
-description: "3 питання"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
 icon: редагувати
 ---
 
-{{< fa "редагувати" size="3 рази" >}}
+{{< fa "редагувати" size=3x >}}
 
-## Чи є спосіб видалити завантажені зображення для товарів?
+## Is there a way to remove uploaded images for products?
 
-Видаляти фотографії можуть лише модератори, щоб уникнути потенційного вандалізму.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Просто попросіть у Slack або на **contact@openfoodfacts.org** видалити дублікати або будь-які невідповідні фотографії (вам слід спробувати надати номер штрих-коду або URL-адресу для цього).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Також у нас є новий API для звітів про зображення, якщо ви програміст.
-
----
-
-## Я дизайнер. Як я можу допомогти?
-
-Ми координуємо всі дії, пов'язані з дизайном, на [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) та у спеціальному каналі чату. Ми регулярно проводимо командні зустрічі та мозкові джеми з конкретних завдань.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## У деяких випадках один і той самий продукт може мати різну харчову цінність для кожної країни, як це вирішується у Open Food Facts?
+## I'm a designer. How can I help ?
 
-У 99% випадків виробники створюють різні штрих-коди для різних версій своєї продукції. Відомим прикладом є різниця між французькою та німецькою Нутеллою в товщині, що пов'язано з різницею в хлібі в різних країнах. 2 різні формули, 2 різні штрих-коди.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Однак конфлікт штрих-кодів може траплятися на коротших кодах (EAN-8), які зазвичай повторно використовуються деякими магазинами в Європі та США. Наразі ми не обробляємо ці зіткнення штрих-кодів, але це має бути можливо зробити, отримавши загальне місцезнаходження користувача (ще рідше зіткнення штрих-кодів трапляються в межах країни).
+---
 
-У довгостроковій перспективі ми закликаємо виробників перейти на EAN-13, щоб уникнути зіткнень зі штрих-кодами.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
