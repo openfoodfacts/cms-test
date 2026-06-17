@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Maiz egiten diren galdera teknikoak"
-description: "galdera 1"
-lang: eu-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: markak github
+icon: brands github
 ---
 
 {{< fa "markak" "github" size=3x >}}
 
-## Hizkuntza-fitxategi guztiak eguneratu behar ditut iturburu-kate bat aldatzen dudanean?
+## Should I update all language files when I change a source string?
 
-Ez, ez duzu. Ingelesezkoa eguneratu besterik ez duzu egin behar.
+No you don't. You just need to update the English one
 
-- Sortu zure PR
+- Create your PR
 
-Behin batu ondoren, crowdin-trigger eskuz berbaseatuko dugu eta GitHub Actions-ek abiarazitako Crowdin itzulpen sistemak egingo du gainerakoa beste hizkuntzetarako.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub botak automatikoki PR berri bat sortzen du, eta guk berrikusten dugu.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
