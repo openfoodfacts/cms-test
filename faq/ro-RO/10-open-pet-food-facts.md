@@ -1,21 +1,21 @@
 ---
-title: "{{< dimensiunea lăbuței fa=2x >}} Informații despre hrana pentru animale de companie"
-description: "2 întrebări"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: labă
+icon: paw
 ---
 
-{{< fa "labă" size="de 3 ori" >}}
+{{< fa "paw" size=3x >}}
 
-## De ce nu există un Nutri-Score pentru animale?
+## Why is there no Nutri-Score for animals?
 
-Fiecare animal este diferit (un șarpe nu are aceleași nevoi nutriționale ca o pisică sau un câine)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Chiar și în cadrul aceluiași tip de animal, cum ar fi câinii, nevoile nutriționale variază în funcție de stilul de viață sedentar, o posibilă castrare sau boli.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Prin urmare, este complicat să se calculeze un scor pentru hrana animalelor fără a implica zeci de cercetători și a crea zeci de algoritmi diferiți, ceea ce nu s-a mai făcut până în prezent.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
