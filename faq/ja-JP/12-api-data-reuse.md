@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} APIとデータの再利用"
-description: "6つの質問"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: レンチ
+icon: wrench
 ---
 
-{{< fa "レンチ" size=3倍 >}}
+{{< fa "wrench" size=3x >}}
 
-## アップロードする写真の適切なサイズに関する推奨事項はドキュメントのどこかに記載されていますか?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-ネットワークが遅いか高価かは国によって異なる可能性があります。 幅または高さが 5000 ピクセルを超えるものは、おそらくあまり役に立ちません。 そして、ネットワークが遅いことを何らかの方法で検出できる場合は、2000 ピクセルの画像でも十分です (画像がないよりは間違いなく優れています!)
-
----
-
-## バーコードのない食品はどうなりますか？
-
-Open Food Facts には、パッケージ化された食品に関する情報のみが含まれています。 農産物（トマトやバナナなど）やその他の食品の平均値については、代わりに公式の国家栄養データベースのいずれかを使用できます。
-
-**注:** 以下のリストには、最も重要な国の食品データベースがいくつか含まれています。 他のデータベースをリストに含めるべきだと思う場合は、[https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact) までご連絡ください。
-
-**国立食品データベースのリスト**
-
--
-
-**オーストラリア** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**ベルギー** - NUBEL - ベルギーの食品成分データ: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**カナダ** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**チェコ共和国** - 国立公衆衛生研究所の食品成分データベース: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**デンマーク** - デンマーク食品成分データバンク: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**エストニア** - エストニアの食品成分データベース: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**フィンランド** - フィンランド食品成分データベース - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**フランス** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**ドイツ** - Souci-Fachmann-Kraut オンライン データベース: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) または公式ドイツ語データベース: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
-
-- **イタリア** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**オランダ** - オランダの食品成分データベース: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**ノルウェー** - ノルウェー食品成分表 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**ポーランド** - 食品成分表: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**スペイン** - スペイン食品成分データベース - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**スイス** - スイス食品成分データベース: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**英国** - 食品成分統合データセット (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**米国** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## API を使用して正確な製品名を検索できますか?
+## What about food without barcodes ?
 
-残念ながら、API を介して製品名のみを簡単に正確に検索することはまだできません。
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-ただし、カテゴリのフィルターを使用すると、検索をより正確に行うことができます。
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## プロジェクトのデータにアクセスしたり収集するにはどうすればよいですか?
+## Can I search a precise product name with the API?
 
-Open Food Facts のメインページの画面左上には、スクロール メニューがあります。 その下部に「詳細検索」オプションがあり、クリックすることができます。 どの基準がプロジェクトに最も関連しているかを判断するのはあなた次第です。 選択すると、ページの下部までスクロールして「結果をダウンロード」をクリックすると、取得した結果をダウンロードできるようになります。
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-以下も参照してください:
-
-- 当社の API ドキュメント:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Open Food Factsの利用規約:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- 当社のデータについて:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## API を使用するための条件はありますか?
+## How can I access/collect data for my projects?
 
-API の使用に関するすべてのドキュメントは [API ドキュメント ページ](https://openfoodfacts.github.io/openfoodfacts-server/api/) にありますが、ここでは簡単に要約します。
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Open Food Facts データベースは、Open Database License (ODbL) に基づくオープンデータとして利用できます。法的詳細については、[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) を参照してください。 2 つの条件とは、帰属と均等分配です。 Open Food Facts のデータを他のデータベースと組み合わせる場合、ODbL では、結果のデータベースもオープンデータとして公開する必要があることが規定されています。 また、このような再配布を許可するソースとのみデータを組み合わせることができることも意味します。
+You can also consult:
 
-- アプリを識別するために API 呼び出しを実行するときは、**常に** カスタム ユーザー エージェントを使用する必要があります。
-
-- レート制限は API エンドポイントごとに適用されます。
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## 履歴データにアクセスするにはどうすればいいですか?
+## Are there conditions to use the API?
 
-現在、履歴データ ダンプ (JSONL、MongoDB、CSV) は提供していません。
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-ただし、個々の製品については、API を使用するか、製品ページのリビジョンを使用して、以前のバージョンの製品データにアクセスすることが可能です。
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-製品が更新されるたびに、新しいリビジョン (1 から始まる数字が増加) が作成されます。
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-例えば、この製品の最初のリビジョン（最初の製品バージョン）を取得するには、
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-同様に、 rev パラメータを API で使用できます。
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
