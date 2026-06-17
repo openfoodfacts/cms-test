@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Техника FAQ"
-description: "1 ыйту"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: брендсем github
+icon: brands github
 ---
 
-{{< fa "brands" "github" size=3х >}}
+{{< fa "brands" "github" size=3x >}}
 
-## Эпӗ ҫӑлкуҫ йӗркине улӑштарнӑ чухне пур чӗлхе файлӗсене те ҫӗнетмелле-и?
+## Should I update all language files when I change a source string?
 
-Ҫук, эсир ҫук. Акӑлчанла ҫеҫ ҫӗнетмелле
+No you don't. You just need to update the English one
 
-- Хӑвӑрӑн PR-а йӗркелӗр
+- Create your PR
 
-Ӑна пӗрлештерсен, эпир crowdin-trigger-а алӑпа ҫӗнӗрен никӗслетпӗр, ытти чӗлхесем валли вара GitHub Actions ӗҫлеттернӗ Crowdin куҫару системи ытти ӗҫе тӑвӗ.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub бот вара автоматла майпа ҫӗнӗ PR тӑвать, ӑна эпир пӑхса тухатпӑр.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
