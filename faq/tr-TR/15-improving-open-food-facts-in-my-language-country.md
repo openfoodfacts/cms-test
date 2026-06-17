@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Open Food Facts'i kendi dilimde/ülkemde geliştirme"
-description: "3 soru"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: küre
+icon: globe
 ---
 
-{{< fa "küre" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Etiketler için yeni bir logo eklemek istiyorum.
+## I would like to add a new logo for labels
 
-İşte süreç:
+Here is the process:
 
-- [Etiketlerin taksonomisinde](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) etiketin **kanonik adını** bulun (etiketlerin eş anlamlıları listesindeki ilk öğedir, örneğin en:%100 sebze)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Logoyu kaliteli bir şekilde edinin**: Bu duruma uygun olmayan katkıda bulunanın fotoğrafını kullanmaktan kaçının; çoğu markanın resmi web sitelerinde yüksek kaliteli logoları vardır, bazen vektör formatında (bizim için daha da iyi); bir ürünün ambalajında
-etiketinin varlığı hakkında objektif olarak bilgi vermek için bir logo kullandığımız sürece, izin istemeye gerek yoktur.
-----------------------------------------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Dosyayı şu şekilde adlandırın:**: etiket-adı.[genişlik]x90.png burada genişlik, logonun 90 piksel yüksekliğindeki genişliğidir. Dosya adları aksansız, küçük harfli ve boşluk yerine "-" işareti kullanılarak yazılmalıdır.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- Ardından logoyu, kanonik adına karşılık gelen dizine ekleyin. Eğer resmi ad en:something ise, o zaman /en/ dilinde olmaları gerekir. Logoların kök dizini [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Open Food Facts'i kendi dilime nasıl çevirebilirim?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) adresine gidin.
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Bu SSS'yi kendi dilime nasıl çevirebilirim?
+## How do I translate Open Food Facts to my language ?
 
-Bilgi tabanına düzenleme erişimi için lütfen contact@openfoodfacts.org adresine başvurunuz.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
