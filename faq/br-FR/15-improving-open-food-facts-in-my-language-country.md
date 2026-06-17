@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Gwellaat ar fedoù diwar-benn ar boued digor e ma yezh/ma bro"
-description: "3 goulenn"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: bed
+icon: globe
 ---
 
-{{< fa "bed" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Fellout a rafe din ouzhpennañ ul logo nevez evit an tikedennoù
+## I would like to add a new logo for labels
 
-Setu an argerzh :
+Here is the process:
 
-- kavout **anv kanonikel** an dikedenn e [rummad an tikedennoù](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (elfenn gentañ roll keñveriadurioù an tikedennoù eo, sk. br:100% legumaj)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**kaout al logo en ur c'halloud mat**: chom hep implijout luc'hskeudennoù ar c'henlabourer ha n'int ket dereat evit an degouezh-mañ ; an darn vrasañ eus an tikedennoù o deus logoioù a c'halloud uhel war lec'hiennoù ofisiel, a-wechoù e stumm vektorel (gwelloc'h c'hoazh evidomp); keit ha ma implijomp ul logo evit kelaouiñ en un doare reizh diwar-benn bezañs un dikedenn
-war pakad ur produ, n'eus ket ezhomm da c'houlenn aotre.
-------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**anv ar restr evel-henn**: name-of-the-label.[width]x90.png ma'z eo width al ledander evit al logodenn pa vez 90 piksel uhelder. Ret eo d'an anvioù restroù bezañ hep pouez-mouezh, e lizherennoù bihan ha "-" e-lec'h esaouennoù.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- goude-se ouzhpennit al logodenn er c'havlec'h a glot gant e anv kanonikel. Mard eo en:something an anv kanonikel, e rankont bezañ e /en/. Ar renkell gwrizienn evit al logoioù eo [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Penaos treiñ Open Food Facts d'am yezh ?
-
-Kit da [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Penaos treiñ ar FAQ-mañ en ma yezh ?
+## How do I translate Open Food Facts to my language ?
 
-Goulennit digant contact@openfoodfacts.org evit kemmañ an diaz anaoudegezh.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
