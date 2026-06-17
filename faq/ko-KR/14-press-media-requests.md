@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} 언론 및 미디어 문의"
-description: "질문 1개"
-lang: 영어-영국
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: 신문
+icon: newspaper
 ---
 
-{{< fa "신문" size=3배 >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts에서 보도 자료를 어떻게 구할 수 있나요?
+## How can I get press visuals on Open Food Facts?
 
-문의 사항은 presse@openfoodfacts.org로 연락주세요.
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
