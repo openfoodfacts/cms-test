@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Matbuot va ommaviy axborot vositalari so'rovlari"
-description: "1 ta savol"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: gazeta
+icon: newspaper
 ---
 
-{{< fa "gazeta" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts haqida matbuot vizuallarini qanday olishim mumkin?
+## How can I get press visuals on Open Food Facts?
 
-Iltimos, quyidagi manzilga murojaat qiling: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
