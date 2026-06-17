@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} နည်းပညာဆိုင်ရာ မကြာခဏမေးလေ့ရှိသောမေးခွန်းများ"
-description: "မေးခွန်း ၁ ခု"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
-order: ၁၆
+order: 16
 category-level: 0
-icon: အမှတ်တံဆိပ်များ github
+icon: brands github
 ---
 
-{{< fa "brands" "github" size="၃ ဆ" >}}
+{{< fa "brands" "github" size=3x >}}
 
-## ရင်းမြစ်စာကြောင်းကို ပြောင်းလဲတဲ့အခါ ဘာသာစကားဖိုင်အားလုံးကို အပ်ဒိတ်လုပ်သင့်ပါသလား။
+## Should I update all language files when I change a source string?
 
-မဟုတ်ဘူး မင်းမလုပ်ဘူး။ အင်္ဂလိပ်လို အပ်ဒိတ်လုပ်ရုံပဲ လိုတော့တယ်
+No you don't. You just need to update the English one
 
-- သင့်ရဲ့ PR ကို ဖန်တီးပါ
+- Create your PR
 
-ပေါင်းစည်းပြီးသည်နှင့် crowdin-trigger ကို ကိုယ်တိုင်ပြန်လည်ပြုပြင်ပြီး GitHub Actions မှ trigger လုပ်ထားသော Crowdin ဘာသာပြန်စနစ်က အခြားဘာသာစကားများအတွက် ကျန်တာကို လုပ်ဆောင်ပေးပါမည်။
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot သည် PR အသစ်တစ်ခုကို အလိုအလျောက်ဖန်တီးပေးပြီး ၎င်းကို ကျွန်ုပ်တို့ ပြန်လည်သုံးသပ်ပါသည်။
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
