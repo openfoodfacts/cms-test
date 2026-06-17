@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Munasqa llamk'ay / Yanapakuy"
-description: "3 tapuykuna"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
-order: 13. 13
+order: 13
 category-level: 0
 icon: edit
 ---
 
 {{< fa "edit" size=3x >}}
 
-## ¿Kanchu huk ñan rurukunapaq kargasqa siq'ikunata hurqunapaq?
+## Is there a way to remove uploaded images for products?
 
-Moderadorkunallam fotokunata hurquyta atinku, mana imapas thuñisqa kananpaq.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Slack kaqpi utaq **contact@openfoodfacts.org** kaqpi mañakuylla iskay kuti ruwasqaykikunata utaq ima mana allin fotokunatapas hurqunaykipaq (chayman código de barras yupayta utaq URL quyta kallpachakunayki tiyan).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Hinallataq huk musuq siq'i willakuy APIyuq kayku sichus huk programaq kanki.
-
----
-
-## Ñuqaqa diseñadormi kani. ¿Imaynatataq yanapayman ?
-
-Llapan diseñowan tupaq ruwaykunata [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) kaqpi chaymanta huk dedicado rimanakuy kanal kaqpi kuskanchayku. Sapa kutim equipo huñunakuykunata ruwayku hinaspa ima sasachakuykunamantapas cerebrokunata ruwayku.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Wakin kutikunapiqa kikin ruruqa sapa suyupaq hukniray valores nutricionales nisqayuq kanman, ¿imaynatataq kayta qhawarinku Kichasqa Mikhuy Hechos nisqapi ?
+## I'm a designer. How can I help ?
 
-99% kutipiqa, ruruchiqkunam hukniray código de barras nisqakunata ruwanqaku, rurunkunapa hukniray versionninkunapaq. Huk riqsisqa ejemploqa francés hinaspa alemán Nutella nisqapa rakhu kayninmanta hukniray kayninmi, suyukunapi t’anta hukniray kasqanrayku. 2 imaymana fórmulas, 2 imaymana códigos de barras.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Código de barras ch'aqway ichaqa aswan pisi códigokunapi (EAN-8) ruwakunman mayqinkunachus wakin tiendakuna tukuy Europa kaqpi chaymanta EE.UU. kaqpi wakmanta llamk'achinku. Kunan pacha mana chay código barras ch'aqwaykunata ruwaykuchu, ichaqa chayta ruwanapaq ruwanapaq kanan tiyan userpa general tarikuyninta jap'ispa (aswan pisilla kan huk suyu ukhupi código barras ch'aqwayniyuq kay).
+---
 
-Unay pachapaq, ruruchiqkunata kallpachayku EAN-13 nisqaman astakunankupaq, chay código de barras nisqa ch’aqwaykunamanta mana kananpaq.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
