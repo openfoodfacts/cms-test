@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Tài khoản Open Food Facts của tôi"
-description: "2 câu hỏi"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: vòng tròn người dùng
+icon: user-circle
 ---
 
-{{< fa "vòng tròn người dùng" size="3 lần" >}}
+{{< fa "user-circle" size=3x >}}
 
-## Tôi muốn xóa tài khoản của mình.
+## I want to delete my account
 
-Việc xóa tài khoản giờ đây được thực hiện trực tiếp trong phần cài đặt của bạn.
+Account deletion now happens directly in your preferences.
 
-Sau khi đăng nhập vào [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), hãy nhấp vào tên người dùng ở góc trên bên phải, chọn Thông số tài khoản. Thao tác này sẽ mở trang tùy chọn của bạn. Cuộn xuống cuối trang và sử dụng chức năng "xóa người dùng".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Nếu bạn không thể đăng nhập (hoặc đặt lại mật khẩu), vui lòng liên hệ với dpo - tại - [openfoodfacts.org](http://openfoodfacts.org), sử dụng địa chỉ email bạn dùng để đăng ký tài khoản.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
