@@ -1,21 +1,21 @@
 ---
-title: "{{< fa hank size=2x >}} Maskoten janariari buruzko informazioa ireki"
-description: "2 galdera"
-lang: eu-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: hanka
+icon: paw
 ---
 
-{{< fa "hanka" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Zergatik ez dago Nutri-Scorerik animalientzat?
+## Why is there no Nutri-Score for animals?
 
-Animalia bakoitza desberdina da (sugeak ez ditu katu edo txakur batek bezalako nutrizio-beharrak)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Txakurrak bezalako animalia mota beraren barruan ere, nutrizio-beharrak aldatu egiten dira bizimodu sedentarioaren, kastrazio posiblearen edo gaixotasunen arabera.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Beraz, konplikatua da animalien pentsuetarako puntuazio bat kalkulatzea dozenaka ikertzaile inplikatu eta dozenaka algoritmo desberdin sortu gabe, eta hori ez da orain arte egin.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
