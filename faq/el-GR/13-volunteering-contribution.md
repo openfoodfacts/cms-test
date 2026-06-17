@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Εθελοντισμός / Συνεισφορά"
-description: "3 ερωτήσεις"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: επεξεργασία
 
 {{< fa "επεξεργασία" size=3x >}}
 
-## Υπάρχει τρόπος να καταργήσω τις εικόνες που έχουν ανεβάσει προϊόντα;
+## Is there a way to remove uploaded images for products?
 
-Μόνο οι συντονιστές μπορούν να αφαιρέσουν φωτογραφίες, για να αποφύγουν πιθανούς βανδαλισμούς.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Απλώς ζητήστε από το Slack ή στο **contact@openfoodfacts.org** να αφαιρέσετε τα διπλότυπα ή τυχόν ακατάλληλες φωτογραφίες σας (θα πρέπει να προσπαθήσετε να δώσετε τον αριθμό γραμμωτού κώδικα ή τη διεύθυνση URL).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Έχουμε επίσης ένα νέο API αναφοράς εικόνων αν είστε προγραμματιστής.
-
----
-
-## Είμαι σχεδιαστής. Πώς μπορώ να βοηθήσω;
-
-Συντονίζουμε όλες τις δραστηριότητες που σχετίζονται με το σχεδιασμό στο [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) και σε ένα ειδικό κανάλι συνομιλίας. Κάνουμε τακτικά ομαδικές συναντήσεις και συζητήσεις για συγκεκριμένες προκλήσεις.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Σε ορισμένες περιπτώσεις, το ίδιο προϊόν μπορεί να έχει διαφορετική θρεπτική αξία για κάθε χώρα. Πώς αντιμετωπίζεται αυτό στο Open Food Facts;
+## I'm a designer. How can I help ?
 
-Στο 99% των περιπτώσεων, οι παραγωγοί δημιουργούν διαφορετικούς γραμμωτούς κώδικες για διαφορετικές εκδόσεις των προϊόντων τους. Ένα διάσημο παράδειγμα είναι η διαφορά μεταξύ της γαλλικής και της γερμανικής Nutella όσον αφορά το πάχος, λόγω της διαφοράς στο ψωμί μεταξύ των χωρών. 2 διαφορετικοί τύποι, 2 διαφορετικοί γραμμωτοί κώδικες.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Ωστόσο, μπορεί να προκύψει σύγκρουση γραμμωτού κώδικα σε μικρότερους κωδικούς (EAN-8) που συνήθως επαναχρησιμοποιούνται από ορισμένα καταστήματα σε όλη την Ευρώπη και τις ΗΠΑ. Προς το παρόν δεν χειριζόμαστε αυτές τις συγκρούσεις γραμμωτών κωδίκων, αλλά θα πρέπει να είναι εφικτό να το κάνουμε αυτό λαμβάνοντας τη γενική τοποθεσία του χρήστη (είναι ακόμη πιο σπάνιο να υπάρχουν συγκρούσεις γραμμωτών κωδίκων εντός μιας χώρας).
+---
 
-Μακροπρόθεσμα, ενθαρρύνουμε τους παραγωγούς να στραφούν στο EAN-13 για να αποφύγουν αυτές τις συγκρούσεις γραμμωτών κωδίκων.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
