@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Менин тилимде/өлкөмдө ачык тамак-аш фактыларын жакшыртуу"
-description: "3 суроо"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: глобус
+icon: globe
 ---
 
-{{< fa "глобус" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Мен энбелгилер үчүн жаңы логотип кошкум келет
+## I would like to add a new logo for labels
 
-Бул жерде процесс төмөнкүдөй:
+Here is the process:
 
-- [этикеткалардын таксономиясынан](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) этикетканын **канондук аталышын** табыңыз (бул этикеткалардын синонимдеринин тизмесиндеги биринчи пункт, мисалы, en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**логотипти жакшы сапатта алыңыз**: бул учурга ылайыктуу эмес сүрөттү колдонуудан алыс болуңуз; көпчүлүк энбелгилерде расмий веб-сайттардын жогорку сапаттагы логотиптери бар, кээде вектордук форматта (биз үчүн андан да жакшы); эгерде биз логотипти продуктунун таңгагында
-энбелгисинин бар экендиги жөнүндө объективдүү түрдө маалымат берүү үчүн колдонсок, уруксат суроонун кажети жок.
--------------------------------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**файлдын атын мындайча жазыңыз**: name-of-the-label.[width]x90.png мында width - логотиптин бийиктиги 90 пиксель болгондо анын туурасы. Файлдардын аттары басымсыз, кичине тамгалар менен жазылып, боштуктардын ордуна "-" колдонулушу керек.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- андан кийин анын канондук аталышына туура келген каталогго логотипти кошуңуз. Эгерде канондук аталыш en:something болсо, анда алар /en/ ичинде болушу керек. Логотиптердин түпкү каталогу [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## "Ачык тамак-аш фактыларын" өз тилиме кантип котором?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) дарегине өтүңүз.
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Бул Көп берилүүчү суроолорду өз тилиме кантип котором?
+## How do I translate Open Food Facts to my language ?
 
-Маалымат базасын түзөтүү мүмкүнчүлүгү үчүн contact@openfoodfacts.org дарегине кайрылыңыз.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
