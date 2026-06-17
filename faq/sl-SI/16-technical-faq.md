@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Tehnična vprašanja"
-description: "1 vprašanje"
-lang: sl-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: blagovne znamke github
+icon: brands github
 ---
 
 {{< fa "blagovne znamke" "github" size=3x >}}
 
-## Ali naj posodobim vse jezikovne datoteke, ko spremenim izvorni niz?
+## Should I update all language files when I change a source string?
 
-Ne, ne. Samo angleško različico moraš posodobiti.
+No you don't. You just need to update the English one
 
-- Ustvarite svoj odnos z javnostmi
+- Create your PR
 
-Ko bo združeno, bomo ročno ponovno podali bazo crowdin-triggerja, prevajalski sistem Crowdin, ki ga sprožijo GitHub Actions, pa bo za ostale jezike opravil ostalo.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Bot GitHub nato samodejno ustvari nov PR, ki ga nato pregledamo.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
