@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Iinkcukacha Ezivulekileyo Zokutya Kwezilwanyana Zasekhaya"
-description: "Imibuzo emi-2"
-lang: i-en-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: unyawo
+icon: paw
 ---
 
-{{< fa "unyawo" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Kutheni kungekho Nutri-Score kwizilwanyana?
+## Why is there no Nutri-Score for animals?
 
-Isilwanyana ngasinye sahlukile (inyoka ayinazo iimfuno zesondlo ezifanayo nezekati okanye zenja)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Nokuba ngaphakathi kohlobo olufanayo lwesilwanyana esifana nezinja, iimfuno zesondlo ziyahluka ngokwendlela yokuphila ubomi bokuhlala phantsi, ukuthenwa okunokwenzeka okanye izifo.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Kunzima ke ngoko ukubala amanqaku okutya kwezilwanyana ngaphandle kokubandakanya abaphandi abaninzi kunye nokudala ii-algorithms ezininzi ezahlukeneyo, ezingakhange zenziwe ukuza kuthi ga ngoku.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
