@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} מיין אפענע פוד פאקטן אקאונט"
-description: "2 פֿראַגעס"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: באַניצער-קרייז
+icon: user-circle
 ---
 
-{{< fa "באַניצער-קרייז" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## איך וויל אויסמעקן מיין אקאונט
+## I want to delete my account
 
-אקאונט אויסמעקן פאסירט יעצט גלייך אין אייערע פרעפערענצן.
+Account deletion now happens directly in your preferences.
 
-נאכדעם וואס איר לאגט זיך איין אויף [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), דריקט אויפן באניצער נאמען אין דער אויבערשטער רעכטער ווינקל, און קלייבט "אקאונט פאראמעטערס". עס עפֿנט אייער פּרעפֿערענצן בלאַט. גיי צום אונטערשטן טייל פון דער בלאַט און נוץ די "אויסמעקן באַניצער" אַקציע.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-אויב איר קענט זיך נישט אריינלאגירן (אדער נישט צוריקשטעלן אייער פאסווארט), ביטע קאנטאקטירט דעם dpo - ביי - [openfoodfacts.org](http://openfoodfacts.org), ניצנדיג די אימעיל אדרעס וואס איר ניצט צו רעגיסטרירן אייער אקאונט.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
