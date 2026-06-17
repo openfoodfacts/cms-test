@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Pers- en mediaverzoeken"
-description: "1 vraag"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: krant
+icon: newspaper
 ---
 
-{{< fa "krant" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Hoe kan ik persmateriaal over Open Food Facts verkrijgen?
+## How can I get press visuals on Open Food Facts?
 
-Neem contact op met: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
