@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} ការងារស្ម័គ្រចិត្ត / ការចូលរួមចំណែក"
-description: "សំណួរចំនួន ៣"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ១៣
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
+order: 13
 category-level: 0
 icon: edit
 ---
 
-{{< fa "edit" size=៣ដង >}}
+{{< fa "edit" size=3x >}}
 
-## តើមានវិធីដើម្បីលុបរូបភាពដែលបានបង្ហោះសម្រាប់ផលិតផលទេ?
+## Is there a way to remove uploaded images for products?
 
-មានតែអ្នកសម្របសម្រួលទេដែលអាចលុបរូបថតចេញ ដើម្បីជៀសវាងការបំផ្លិចបំផ្លាញដែលអាចកើតមាន។
+Only moderators can remove photos, to avoid potential vandalism.
 
-គ្រាន់តែសួរនៅលើ Slack ឬតាមរយៈ **contact@openfoodfacts.org** ដើម្បីលុបរូបថតស្ទួនរបស់អ្នក ឬរូបថតមិនសមរម្យណាមួយ (អ្នកគួរតែព្យាយាមផ្តល់លេខបាកូដ ឬ URL ដើម្បីលុបវាចោល)។
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-យើងក៏មាន API របាយការណ៍រូបភាពថ្មីផងដែរ ប្រសិនបើអ្នកជាអ្នកសរសេរកម្មវិធី។
-
----
-
-## ខ្ញុំជាអ្នករចនា។ តើខ្ញុំអាចជួយដោយរបៀបណា?
-
-យើងសម្របសម្រួលសកម្មភាពទាក់ទងនឹងការរចនាទាំងអស់នៅលើ [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) និងនៅលើឆានែលជជែកដែលឧទ្ទិសដល់។ យើងធ្វើកិច្ចប្រជុំក្រុម និងពិភាក្សាជាទៀងទាត់លើបញ្ហាប្រឈមជាក់លាក់។
+We also have a new image report API if you're a programmer.
 
 ---
 
-## ក្នុងករណីខ្លះ ផលិតផលដូចគ្នាអាចមានតម្លៃអាហារូបត្ថម្ភខុសៗគ្នាសម្រាប់ប្រទេសនីមួយៗ តើរឿងនេះត្រូវបានដោះស្រាយយ៉ាងដូចម្តេចនៅក្នុង Open Food Facts?
+## I'm a designer. How can I help ?
 
-៩៩% នៃពេលវេលា អ្នកផលិតនឹងបង្កើតបាកូដផ្សេងៗគ្នាសម្រាប់ផលិតផលរបស់ពួកគេក្នុងកំណែផ្សេងៗគ្នា។ ឧទាហរណ៍ដ៏ល្បីល្បាញមួយគឺភាពខុសគ្នារវាង Nutella របស់បារាំង និងអាល្លឺម៉ង់ ទាក់ទងនឹងកម្រាស់ ដោយសារតែភាពខុសគ្នានៃនំប៉័ងនៅទូទាំងប្រទេស។ រូបមន្ត ២ ផ្សេងគ្នា បាកូដ ២ ផ្សេងគ្នា។
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-ទោះជាយ៉ាងណាក៏ដោយ ការប៉ះទង្គិចគ្នានៃបាកូដអាចកើតឡើងលើលេខកូដខ្លីៗ (EAN-8) ដែលជាធម្មតាត្រូវបានប្រើប្រាស់ឡើងវិញដោយហាងមួយចំនួននៅទូទាំងអឺរ៉ុប និងសហរដ្ឋអាមេរិក។ បច្ចុប្បន្នយើងមិនទាន់ដោះស្រាយការប៉ះទង្គិចគ្នានៃបាកូដទាំងនោះនៅឡើយទេ ប៉ុន្តែវាគួរតែអាចធ្វើទៅបានដោយទទួលបានទីតាំងទូទៅរបស់អ្នកប្រើប្រាស់ (វាកាន់តែកម្រមានក្នុងការមានការប៉ះទង្គិចគ្នានៃបាកូដនៅក្នុងប្រទេសមួយ)។
+---
 
-ក្នុងរយៈពេលវែង យើងលើកទឹកចិត្តអ្នកផលិតឱ្យប្តូរទៅប្រើ EAN-13 ដើម្បីជៀសវាងការប៉ះទង្គិចគ្នានៃបាកូដទាំងនោះ។
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
