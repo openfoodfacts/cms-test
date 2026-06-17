@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} A’ leasachadh Fiosrachadh Biadh Fosgailte nam chànan/dhùthaich"
-description: "3 ceistean"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: cruinne-cè
+icon: globe
 ---
 
-{{< fa "cruinne-cè" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Bu mhath leam suaicheantas ùr a chur ris airson bileagan
+## I would like to add a new logo for labels
 
-Seo am pròiseas:
+Here is the process:
 
-- lorg **ainm canònach** an leubail ann an [tacsonamaidh nan leubail](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (is e seo a’ chiad rud ann an liosta nan co-fhaclan aig na leubail, m.e. en:100% vegetable)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**faigh an suaicheantas ann an deagh chàileachd**: seachain dealbh an neach-tabhartais a chleachdadh nach eil freagarrach airson a’ chùis seo; tha suaicheantasan oifigeil àrd-inbhe aig a’ mhòr-chuid de leubail air an làrach-lìn, uaireannan ann an cruth vectar (eadhon nas fheàrr dhuinne); fhad ‘s a bhios sinn a’ cleachdadh suaicheantas gus fiosrachadh reusanta a thoirt seachad mu làthaireachd leubail
-air pacaigeadh toraidh, chan eil feum air cead iarraidh.
-------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**Ainmich am faidhle mar seo**: name-of-the-label.[width]x90.png far a bheil width na leud airson an suaicheantas nuair a tha e 90 piogsail a dh’àirde. Feumaidh ainmean nam faidhlichean a bhith gun stràc, ann an litrichean beaga agus a’ cleachdadh “-” an àite beàrnan.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- an uairsin cuir an suaicheantas san eòlaire a tha a’ freagairt ris an ainm canònach aige. Mas e en:something an t-ainm canònach, feumaidh iad a bhith ann an /en/. Is e am prìomh chlàr-stiùiridh airson suaicheantasan [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Ciamar a dh’eadar-theangaicheas mi Open Food Facts dhan chànan agam fhìn?
-
-Rach gu [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Ciamar a dh’eadar-theangaicheas mi an Ceistean Cumanta seo dhan chànan agam?
+## How do I translate Open Food Facts to my language ?
 
-Feuch an iarr thu cothrom deasachaidh air an stòr-dàta eòlais bho contact@openfoodfacts.org.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
