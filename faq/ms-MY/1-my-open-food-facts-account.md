@@ -1,21 +1,21 @@
 ---
-title: "{{< fa saiz bulatan pengguna=2x >}} Akaun Fakta Makanan Terbuka saya"
-description: "2 soalan"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: bulatan pengguna
+icon: user-circle
 ---
 
-{{< fa "bulatan pengguna" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Saya mahu memadam akaun saya
+## I want to delete my account
 
-Pemadaman akaun kini berlaku terus dalam pilihan anda.
+Account deletion now happens directly in your preferences.
 
-Selepas log masuk pada [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klik pada nama pengguna di penjuru kanan sebelah atas, pilih Parameter Akaun. Ia membuka halaman pilihan anda. Pergi ke bahagian bawah halaman dan gunakan tindakan "padam pengguna".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Jika anda tidak dapat log masuk (atau menetapkan semula kata laluan anda), sila hubungi dpo - di - [openfoodfacts.org](http://openfoodfacts.org), menggunakan alamat e-mel yang anda gunakan untuk mendaftar akaun.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
