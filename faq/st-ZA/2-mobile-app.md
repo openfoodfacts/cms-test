@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Sesebelisoa sa mohala"
-description: "Lipotso tse 4"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: selefouno
+icon: mobile
 ---
 
-{{< fa "selefouno" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Nka tseba joang hore na ke sebelisa mofuta ofe oa sesebelisoa?
+## How do I know which version of the app I'm using?
 
-Eya ho **Profaele**,
-ebe u **Lipotso Tse Botsoang Khafetsa**, ebe u **Mabapi le sesebelisoa sena.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
 You should
-see a version number like 3.4.5+662. Se lebale ho re bolella mofuta le mohlala wa fono
-haeba e hloleha ho lokisa diphoso.
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Sesebelisoa ha se skena
+## The app does not scan
 
-Sena se ka bakoa ke
+This may be due to
 
-- bothata ba marang-rang
+- a network problem
 
-- bothata ba tumello
+- a permissions problem
 
-- bothata ba khoutu
+- a barcode problem
 
-Re romelle imeile ka Profaele >> Ikopanye le Rona >> Re romelle imeile.
+Send us an email via Profile >> Contact Us >> Send us an email.
 
-Tlhahisoleseding yohle e amehang e lokela ho hokelwa kopong ya hao.
-
----
-
-## Nka thusa joang ho ntlafatsa sesebelisoa sa mohala?
-
-Nka thusa joang ho ntlafatsa sesebelisoa sa mohala?
-
-O ka [etsa jwalo polokelong ya di-app tsa Selefouno](https://github.com/openfoodfacts/smooth-app)
+All relevant information should be attached to your request.
 
 ---
 
-## Nka romela maikutlo a ka mabapi le sesebelisoa hokae?
+## How can I help with improving the mobile app ?
 
-O ka romela maikutlo ho mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
