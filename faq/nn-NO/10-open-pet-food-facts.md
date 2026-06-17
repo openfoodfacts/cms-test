@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Åpne fakta om kjæledyrfôr"
-description: "2 spørsmål"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pote
+icon: paw
 ---
 
-{{< fa "pote" size="3 ganger" >}}
+{{< fa "paw" size=3x >}}
 
-## Hvorfor finnes det ingen Nutri-Score for dyr?
+## Why is there no Nutri-Score for animals?
 
-Hvert dyr er forskjellig (en slange har ikke de samme ernæringsbehovene som en katt eller en hund)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Selv innenfor samme dyretype, som hunder, varierer ernæringsbehovene avhengig av stillesittende livsstil, mulig kastrering eller sykdommer.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Det er derfor komplisert å beregne en poengsum for dyrefôr uten å involvere dusinvis av forskere og lage dusinvis av forskjellige algoritmer, noe som ikke har blitt gjort til dags dato.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
