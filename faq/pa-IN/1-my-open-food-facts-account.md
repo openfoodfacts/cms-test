@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} ਮੇਰਾ ਓਪਨ ਫੂਡ ਫੈਕਟਸ ਖਾਤਾ"
-description: "2 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: ਉਪਭੋਗਤਾ-ਸਰਕਲ
+icon: user-circle
 ---
 
-{{< fa "ਉਪਭੋਗਤਾ-ਸਰਕਲ" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## ਮੈਂ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।
+## I want to delete my account
 
-ਖਾਤਾ ਮਿਟਾਉਣਾ ਹੁਣ ਸਿੱਧਾ ਤੁਹਾਡੀਆਂ ਤਰਜੀਹਾਂ ਵਿੱਚ ਹੁੰਦਾ ਹੈ।
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) 'ਤੇ ਲੌਗਇਨ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਉੱਪਰ ਸੱਜੇ ਕੋਨੇ 'ਤੇ ਯੂਜ਼ਰ ਨਾਮ 'ਤੇ ਕਲਿੱਕ ਕਰੋ, ਖਾਤਾ ਪੈਰਾਮੀਟਰ ਚੁਣੋ। ਇਹ ਤੁਹਾਡਾ ਪਸੰਦੀਦਾ ਪੰਨਾ ਖੋਲ੍ਹਦਾ ਹੈ। ਪੰਨੇ ਦੇ ਹੇਠਾਂ ਜਾਓ ਅਤੇ "ਉਪਭੋਗਤਾ ਨੂੰ ਮਿਟਾਓ" ਕਿਰਿਆ ਦੀ ਵਰਤੋਂ ਕਰੋ।
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-ਜੇਕਰ ਤੁਸੀਂ ਲੌਗਇਨ (ਜਾਂ ਆਪਣਾ ਪਾਸਵਰਡ ਰੀਸੈਟ) ਨਹੀਂ ਕਰ ਸਕਦੇ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ dpo - at - [openfoodfacts.org](http://openfoodfacts.org) ਨਾਲ ਸੰਪਰਕ ਕਰੋ, ਉਸ ਈਮੇਲ ਪਤੇ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਜੋ ਤੁਸੀਂ ਖਾਤਾ ਰਜਿਸਟਰ ਕਰਨ ਲਈ ਵਰਤਦੇ ਹੋ।
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
