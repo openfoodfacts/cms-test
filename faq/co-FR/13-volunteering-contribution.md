@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Vuluntariatu / Cuntribuzione"
-description: "3 dumande"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
-order: 13 anni
+order: 13
 category-level: 0
 icon: edit
 ---
 
 {{< fa "edit" size=3x >}}
 
-## Ci hè un modu per caccià l'imagine caricate per i prudutti?
+## Is there a way to remove uploaded images for products?
 
-Solu i moderatori ponu caccià e foto, per evità un putenziale vandalismu.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Basta à dumandà nant'à Slack o à **contact@openfoodfacts.org** per caccià i vostri duplicati o qualsiasi foto inappropriata (duvete pruvà à furnisce u numeru di codice à barre o l'URL).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Avemu dinò una nova API di rapportu d'imagine sè site un prugrammatore.
-
----
-
-## Sò un designer. Cumu possu aiutà ?
-
-Coordinemu tutte l'attività relative à u disignu nant'à [[https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) è nant'à un canale di chat dedicatu. Facemu regularmente riunioni di squadra è brainjams nantu à sfide specifiche.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## In certi casi, u listessu pruduttu pò avè valori nutrizionali diversi per ogni paese, cumu hè trattatu questu in Open Food Facts?
+## I'm a designer. How can I help ?
 
-99% di u tempu, i pruduttori creanu codici à barre diversi per diverse versioni di i so prudutti. Un esempiu famosu hè a differenza trà a Nutella francese è tedesca in termini di spessore, per via di a differenza di pane trà i paesi. 2 formule diverse, 2 codici à barre diversi.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Tuttavia, i cunflitti di codici à barre ponu accade nantu à i codici più corti (EAN-8) chì sò tipicamente riutilizati da certi magazini in Europa è in i Stati Uniti. Attualmente ùn gestimu micca sti scontri di codici à barre, ma duverebbe esse pussibule di fà lu ottenendu a pusizione generale di l'utilizatore (hè ancu più raru avè scontri di codici à barre in un paese).
+---
 
-À longu andà, incuraghjemu i pruduttori à passà à l'EAN-13 per evità quelli scontri cù i codici à barre.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
