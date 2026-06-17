@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Mfiridwuma ho FAQ"
-description: "1 asɛmmisa"
-lang: tw-gb
-order: 16. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: ahyɛnsode ahorow github
+icon: brands github
 ---
 
-{{< fa "brands" "github a wɔde kyerɛw nsɛm" size="3x na ɛyɛ" >}}
+{{< fa "brands" "github" size=3x >}}
 
-## So ɛsɛ sɛ meyɛ kasa fael nyinaa foforo bere a mesesa source string no?
+## Should I update all language files when I change a source string?
 
-Dabi wo nnyɛ saa. Ɛsɛ sɛ wo update Engiresi de no ara kwa
+No you don't. You just need to update the English one
 
-- Yɛ wo PR no
+- Create your PR
 
-Sɛ wɔka bom wie a, yɛbɛsan de nsa asi crowdin-trigger so na Crowdin nkyerɛaseɛ nhyehyɛeɛ a GitHub Actions ahyɛ aseɛ no bɛyɛ nea aka no ama kasa foforɔ.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Afei GitHub bot yɛ PR foforo a ɛyɛ ne ho a afei yɛsan hwɛ mu.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
