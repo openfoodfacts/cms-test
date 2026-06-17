@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Волонтерлык / Өлеш кертү"
-description: "3 сорау"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
 icon: үзгәртү
 ---
 
-{{< fa "үзгәртү" size=3х >}}
+{{< fa "үзгәртү" size=3x >}}
 
-## Продукцияләр өчен йөкләнгән рәсемнәрне бетерү ысулы бармы?
+## Is there a way to remove uploaded images for products?
 
-Вандализмны булдырмас өчен, фотоларны бары тик модераторлар гына бетерә ала.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Дубликатларыгызны яки теләсә нинди яраксыз фотоларны бетерү өчен Slack'та яки **contact@openfoodfacts.org** адресы буенча сорагыз (штрих-код номерын яки URLны күрсәтергә тырышыгыз).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Әгәр сез программист булсагыз, бездә яңа рәсем отчеты API да бар.
-
----
-
-## Мин дизайнер. Мин ничек ярдәм итә алам?
-
-Без дизайн белән бәйле барлык эшчәнлекләрне [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) сайтында һәм махсус чат каналында координациялибез. Без даими рәвештә команда очрашулары һәм конкрет бурычлар буенча фикер алышулар үткәрәбез.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Кайбер очракларда бер үк продукт һәр ил өчен төрле туклыклы кыйммәтләргә ия булырга мөмкин, бу "Ачык азык-төлек фактлары"нда ничек хәл ителә?
+## I'm a designer. How can I help ?
 
-Вакытның 99% ында җитештерүчеләр үз продуктларының төрле версияләре өчен төрле штрих-кодлар булдыралар. Мәсәлән, төрле илләрдәге икмәк төрле булу сәбәпле, француз һәм немец Nutella калынлыгы ягыннан аерманы китерергә мөмкин. 2 төрле формула, 2 төрле штрих-код.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Шулай да, штрих-кодлар белән бәрелеш кыскарак кодларда (EAN-8) килеп чыгарга мөмкин, аларны гадәттә Европа һәм АКШтагы кайбер кибетләр кабат кулланалар. Хәзерге вакытта без бу штрих-код каршылыкларын эшкәртмибез, ләкин моны кулланучының гомуми урнашуын алу юлы белән эшләп була (ил эчендә штрих-код каршылыклары тагын да сирәк очрый).
+---
 
-Озак вакытлы перспективада без җитештерүчеләрне штрих-код каршылыкларыннан котылу өчен EAN-13кә күчәргә чакырабыз.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
