@@ -1,141 +1,141 @@
 ---
-title: "{{<fa wrench size=2x >}} API ۽ ڊيٽا ٻيهر استعمال"
-description: "6 سوال"
-lang: اين جي بي
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
+lang: en-gb
 order: 12
 category-level: 0
-icon: رينچ
+icon: wrench
 ---
 
-{{< fa "رينچ" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## ڇا دستاويزن ۾ ڪٿي به سفارشون آهن ته اپلوڊ ڪيل تصويرن لاءِ ڪهڙي سائيز سٺي هوندي؟
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-اهو ملڪن تي منحصر ٿي سگهي ٿو، جيڪڏهن نيٽ ورڪ سست آهي يا مهانگو. 5000 پڪسلز کان مٿي وزن يا اوچائي شايد تمام گهڻي مفيد نه آهي. ۽ جيڪڏهن توهان ڪنهن طرح اهو معلوم ڪري سگهو ٿا ته نيٽ ورڪ سست آهي، ته پوءِ 2000 پڪسل جي تصوير به بهترين هوندي (يقيناً تصوير نه هجڻ کان بهتر!)
-
----
-
-## بارڪوڊ کان سواءِ کاڌي بابت ڇا؟
-
-اوپن فوڊ فيڪٽس ۾ صرف پيڪيج ٿيل کاڌي بابت معلومات شامل آهي. پيداوار جي سراسري قدرن لاءِ (مثال طور، ٽماٽا يا ڪيلا) ۽ ٻين کاڌي جي شين لاءِ، توهان ان جي بدران سرڪاري قومي غذائيت ڊيٽابيس مان هڪ استعمال ڪري سگهو ٿا.
-
-**نوٽ:** هيٺ ڏنل فهرست ۾ ڪجهه اهم قومي خوراڪ ڊيٽابيس شامل آهن. جيڪڏهن توهان سوچيو ٿا ته فهرست ۾ ڪو ٻيو ڊيٽابيس شامل ڪيو وڃي، مهرباني ڪري اسان سان رابطو ڪريو: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**قومي کاڌي جي ڊيٽابيس جي فهرست**
-
--
-
-**آسٽريليا** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**بيلجيم** - نوبل - بيلجيم جي کاڌي جي جوڙجڪ جو ڊيٽا: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**ڪينيڊا** - ايف سي اي اين: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**چيڪ ريپبلڪ** - نيشنل انسٽيٽيوٽ آف پبلڪ هيلٿ ۾ کاڌي جي جوڙجڪ جو ڊيٽابيس: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**ڊنمارڪ** - ڊينش کاڌي جي جوڙجڪ ڊيٽا بينڪ: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**ايسٽونيا** - ايسٽونين کاڌي جي جوڙجڪ جو ڊيٽابيس: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**فنلينڊ** - فنلينڊ کاڌي جي جوڙجڪ جو ڊيٽابيس - فنيلي: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**فرانس** - سيڪوال: [https://www.anses.fr/en/search/site/Table%20cبرابر](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**جرمني** - Souci-Fachmann-Kraut آن لائن ڊيٽابيس: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) يا سرڪاري جرمن ڊيٽابيس: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://bls/d)
-
-- **اٽلي** - Banca Dati di Compositione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**هالينڊ** - ڊچ کاڌي جي جوڙجڪ جو ڊيٽابيس: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**ناروي** - نارويجي کاڌي جي جوڙجڪ جو جدول 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**پولينڊ** - کاڌي جي جوڙجڪ جا جدول: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**اسپين** - اسپيني کاڌي جي جوڙجڪ جو ڊيٽابيس - بي اي ڊي سي اي: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**سوئٽزرلينڊ** - سوئس کاڌي جي جوڙجڪ جو ڊيٽابيس: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**برطانيه** - کاڌي جي انٽيگريٽيڊ ڊيٽاسيٽ جي جوڙجڪ (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## ڇا مان API سان هڪ صحيح پراڊڪٽ جو نالو ڳولي سگهان ٿو؟
+## What about food without barcodes ?
 
-بدقسمتي سان اڃا تائين API ذريعي صرف پراڊڪٽ جي نالي تي آساني سان ڳولا ڪرڻ ممڪن ناهي.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-جيتوڻيڪ ڪيٽيگري تي فلٽر استعمال ڪرڻ سان توهان جي ڳولا کي وڌيڪ صحيح بڻائڻ ۾ مدد ملندي.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## مان پنهنجي منصوبن لاءِ ڊيٽا ڪيئن رسائي/گڏ ڪري سگهان ٿو؟
+## Can I search a precise product name with the API?
 
-اوپن فوڊ فيڪٽس جي مکيه صفحي تي، اسڪرين جي مٿين کاٻي ڪنڊ تي، هڪ اسڪرولنگ مينيو آهي. ان جي تري ۾، توهان کي "ايڊوانسڊ سرچ" آپشن ملندو، جنهن تي توهان ڪلڪ ڪري سگهو ٿا. پوءِ اهو توهان تي منحصر آهي ته توهان اهو طئي ڪريو ته ڪهڙا معيار توهان جي منصوبي (منصوبن) لاءِ سڀ کان وڌيڪ لاڳاپيل آهن. هڪ دفعو چونڊ ڪرڻ کان پوءِ، توهان صفحي جي تري ۾ اسڪرول ڪندي ۽ "نتيجا ڊائون لوڊ ڪريو" تي ڪلڪ ڪندي حاصل ڪيل نتيجا ڊائون لوڊ ڪري سگهندا.
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-توهان پڻ صلاح ڪري سگهو ٿا:
-
-- اسان جا API دستاويز: [ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- اوپن فوڊ فيڪٽس جي استعمال جون شرطون:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- اسان جي ڊيٽا تي: [ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## ڇا API استعمال ڪرڻ لاءِ ڪي شرط آهن؟
+## How can I access/collect data for my projects?
 
-API جي استعمال بابت سڀ دستاويز [API دستاويزي صفحي] (https://openfoodfacts.github.io/openfoodfacts-server/api/) تي ملي سگهن ٿا، پر هتي هڪ مختصر خلاصو آهي:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- اوپن فوڊ فيڪٽس ڊيٽابيس اوپن ڊيٽابيس لائسنس (ODbL) جي تحت اوپن ڊيٽا جي طور تي موجود آهي، قانوني تفصيلن لاءِ [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) ڏسو. ٻہ شرطون آهن انتساب ۽ حصيداري هڪجهڙا. جيڪڏهن توهان اوپن فوڊ فيڪٽس مان ڊيٽا کي ٻين ڊيٽابيس سان گڏ ڪريو ٿا، ته پوءِ ODbL جي ضرورت آهي ته نتيجي ۾ ڊيٽابيس کي پڻ اوپن ڊيٽا جي طور تي جاري ڪيو وڃي. ان جو مطلب اهو پڻ آهي ته توهان ڊيٽا کي صرف انهن ذريعن سان گڏ ڪري سگهو ٿا جيڪي اهڙي ٻيهر ورڇ جي اجازت ڏين ٿا.
+You can also consult:
 
-- توهان کي پنهنجي ايپ جي سڃاڻپ لاءِ API ڪالون ڪرڻ وقت **هميشه** هڪ ڪسٽم يوزر-ايجنٽ استعمال ڪرڻ گهرجي.
-
-- هر API اينڊ پوائنٽ لاءِ شرح جون حدون لاڳو ڪيون وينديون آهن.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## مان تاريخي ڊيٽا ڪيئن رسائي ڪري سگهان ٿو؟
+## Are there conditions to use the API?
 
-في الحال، اسان تاريخي ڊيٽا ڊمپ (JSONL، MongoDB، CSV) پيش نٿا ڪريون.
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-جڏهن ته، انفرادي پراڊڪٽس لاءِ، API استعمال ڪندي يا پراڊڪٽ پيج تي نظرثانيون استعمال ڪندي پراڊڪٽ ڊيٽا جي پوئين ورزن تائين رسائي ممڪن آهي.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-هر ڀيري جڏهن ڪا پراڊڪٽ اپڊيٽ ڪئي ويندي آهي، هڪ نئون جائزو (1 کان شروع ٿيندڙ وڌندڙ انگ) ٺاهيو ويندو آهي.
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-مثال طور، هن پراڊڪٽ جي پهرين نظرثاني (=پهريون پراڊڪٽ ورزن) حاصل ڪرڻ لاءِ، استعمال ڪريو
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-ساڳئي طرح، rev پيرا ميٽر API سان استعمال ڪري سگھجي ٿو:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
