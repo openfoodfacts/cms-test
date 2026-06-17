@@ -1,21 +1,21 @@
 ---
-title: "{{< ukuran sikil fa=2x >}} Fakta Panganan Kewan sing Bisa Dibukak"
-description: "2 pitakonan"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: cakar
+icon: paw
 ---
 
-{{< fa "cakar" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Yèn kéwan kok ora ana Nutri-Score, ya apa sebabé?
+## Why is there no Nutri-Score for animals?
 
-Saben kewan iku beda-beda (ula ora duwe kabutuhan nutrisi sing padha karo kucing utawa asu)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Sanajan ing jinis kéwan sing padha kaya asu, kabutuhan nutrisi beda-beda miturut gaya urip sing ora aktif, kemungkinan pengebirian utawa penyakit.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Mulane, ngetung skor kanggo pakan kewan tanpa nglibatake puluhan peneliti lan nggawe puluhan algoritma sing beda-beda, sing durung ditindakake nganti saiki.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
