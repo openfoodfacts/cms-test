@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} ክፍት የቤት እንስሳት ምግብ እውነታዎች"
-description: "2 ጥያቄዎች"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: መዳፍ
+icon: paw
 ---
 
-{{< fa "መዳፍ" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## ለእንስሳት የኑትሪ-ስኮር ውጤት ለምን የለም?
+## Why is there no Nutri-Score for animals?
 
-እያንዳንዱ እንስሳ የተለየ ነው (እባብ እንደ ድመት ወይም ውሻ ተመሳሳይ የአመጋገብ ፍላጎቶች የሉትም)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-እንደ ውሾች ባሉ ተመሳሳይ የእንስሳት ዓይነቶች ውስጥ እንኳን፣ የአመጋገብ ፍላጎቱ እንደ እንቅስቃሴ-አልባ የአኗኗር ዘይቤ፣ ሊከሰት በሚችል የጡት መቁሰል ወይም በሽታዎች ይለያያል።
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-ስለዚህ እስከዛሬ ድረስ እስካሁን ድረስ ያልተሰራ በደርዘን የሚቆጠሩ ተመራማሪዎችን ሳያሳትፍ እና በደርዘን የሚቆጠሩ የተለያዩ ስልተ ቀመሮችን ሳይፈጥር የእንስሳት መኖን ውጤት ማስላት አስቸጋሪ ነው።
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
