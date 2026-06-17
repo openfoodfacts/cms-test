@@ -1,17 +1,17 @@
 ---
-title: "Iarratais Preasa & Meán {{< méid nuachtáin fa=2x >}}"
-description: "1 cheist"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: nuachtán
+icon: newspaper
 ---
 
-{{< fa "nuachtán" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Conas is féidir liom íomhánna preasa a fháil ar Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Téigh i dteagmháil le: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
