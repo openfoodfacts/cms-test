@@ -1,21 +1,21 @@
 ---
-title: "{{< גודל כפה של fa=2x >}} פתח מידע על מזון לחיות מחמד"
-description: "2 שאלות"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: רֶגֶל
+icon: paw
 ---
 
-{{< fa "רֶגֶל" size="פי 3" >}}
+{{< fa "paw" size=3x >}}
 
-## למה אין ציון נוטרי לבעלי חיים?
+## Why is there no Nutri-Score for animals?
 
-כל חיה שונה (לנחש אין את אותם צרכים תזונתיים כמו לחתול או לכלב)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-אפילו בתוך אותו סוג של בעל חיים כמו כלבים, הצרכים התזונתיים משתנים בהתאם לאורח חיים יושבני, סירוס אפשרי או מחלות.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-לכן מסובך לחשב ציון למזון לבעלי חיים מבלי לערב עשרות חוקרים וליצור עשרות אלגוריתמים שונים, דבר שלא נעשה עד היום.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
