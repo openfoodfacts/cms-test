@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} បើក​ព័ត៌មាន​អំពី​អាហារ​សត្វ​ចិញ្ចឹម"
-description: "សំណួរចំនួន ២"
-lang: អង់គ្លេស-ជីកាបៃ
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: ក្រញាំ
+icon: paw
 ---
 
-{{< fa "ក្រញាំ" size=៣ដង >}}
+{{< fa "paw" size=3x >}}
 
-## ហេតុអ្វីបានជាមិនមាន Nutri-Score សម្រាប់សត្វ?
+## Why is there no Nutri-Score for animals?
 
-សត្វនីមួយៗគឺខុសគ្នា (ពស់មិនមានតម្រូវការអាហារូបត្ថម្ភដូចឆ្មា ឬឆ្កែទេ)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-សូម្បីតែនៅក្នុងសត្វប្រភេទដូចគ្នាដូចជាសត្វឆ្កែក៏ដោយ តម្រូវការអាហារូបត្ថម្ភក៏ខុសគ្នាទៅតាមអាយុជីវិត របៀបរស់នៅមិនសូវសកម្ម ការវះកាត់យកមេជីវិតឈ្មោលចេញ ឬជំងឺដែលអាចកើតមាន។
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-ដូច្នេះវាមានភាពស្មុគស្មាញក្នុងការគណនាពិន្ទុសម្រាប់ចំណីសត្វដោយមិនពាក់ព័ន្ធនឹងអ្នកស្រាវជ្រាវរាប់សិបនាក់ និងបង្កើតក្បួនដោះស្រាយផ្សេងៗគ្នារាប់សិប ដែលមិនទាន់ត្រូវបានធ្វើរហូតមកដល់បច្ចុប្បន្ន។
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
