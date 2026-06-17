@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Atklātās pārtikas informācijas uzlabošana manā valodā/valstī"
-description: "3 jautājumi"
-lang: lv-lv
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
 order: 15
 category-level: 0
-icon: globuss
+icon: globe
 ---
 
-{{< fa "globuss" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Es vēlētos pievienot jaunu logotipu etiķetēm
+## I would like to add a new logo for labels
 
-Lūk, process:
+Here is the process:
 
-- Atrodiet etiķetes **kanonisko nosaukumu** [etiķešu taksonomijā](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (tas ir pirmais elements etiķešu sinonīmu sarakstā, piem., en:100% dārzeņu)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Iegūstiet logotipu labā kvalitātē**: izvairieties no līdzautora fotoattēla izmantošanas, jo tas šim gadījumam nav piemērots; lielākajai daļai etiķešu ir oficiālu tīmekļa vietņu augstas kvalitātes logotipi, dažreiz vektoru formātā (mums tas ir vēl labāk); ja vien mēs izmantojam logotipu, lai objektīvi informētu par
-etiķetes klātbūtni uz produkta iepakojuma, nav nepieciešams lūgt atļauju.
------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**nosauciet failu šādi**: etiķetes-nosaukums.[platums]x90.png, kur platums ir logotipa platums, ja tā augstums ir 90 pikseļi. Failu nosaukumiem jābūt bez akcentiem, ar mazajiem burtiem un atstarpju vietā izmantojot "-".
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- pēc tam pievienojiet logotipu direktorijā, kas atbilst tā kanoniskajam nosaukumam. Ja kanoniskais nosaukums ir en:something, tad tiem jābūt /en/. Logotipu saknes direktorijs ir [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Kā es varu iztulkot Open Food Facts savā valodā?
-
-Dodieties uz [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Kā es varu iztulkot šo bieži uzdoto jautājumu savā valodā?
+## How do I translate Open Food Facts to my language ?
 
-Lai saņemtu rediģēšanas piekļuvi zināšanu bāzei, lūdzu, jautājiet uz contact@openfoodfacts.org.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
