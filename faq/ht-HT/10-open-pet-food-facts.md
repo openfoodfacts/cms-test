@@ -1,21 +1,21 @@
 ---
-title: "{{< gwosè pat fa=2x >}} Enfòmasyon sou Manje Bèt Kay Ouvri"
-description: "2 kesyon"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pat
+icon: paw
 ---
 
-{{< fa "pat" size="3 fwa" >}}
+{{< fa "paw" size=3x >}}
 
-## Poukisa pa gen Nutri-Score pou bèt yo?
+## Why is there no Nutri-Score for animals?
 
-Chak bèt diferan (yon koulèv pa gen menm bezwen nitrisyonèl ak yon chat oswa yon chen)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Menm nan menm kalite bèt tankou chen, bezwen nitrisyonèl yo varye selon mòd vi sedantè a, yon posib kastrasyon oswa maladi.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Se poutèt sa, li konplike pou kalkile yon nòt pou manje bèt san yo pa enplike plizyè douzèn chèchè epi kreye plizyè douzèn algoritm diferan, sa ki poko fèt jouk jounen jodi a.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
