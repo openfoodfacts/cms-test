@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} Ratio mea Aperta de Cibis Factis"
-description: "Duae quaestiones"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: circulus usorum
+icon: user-circle
 ---
 
-{{< fa "circulus usorum" size=Ter >}}
+{{< fa "user-circle" size=3x >}}
 
-## Rationem meam delere volo.
+## I want to delete my account
 
-Ratio delebitur nunc directe in praeferentiis tuis.
+Account deletion now happens directly in your preferences.
 
-Post inscriptionem apud [[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), nomen usoris in angulo dextro superiore preme, deinde "Account Parameters" elige. Paginam praeferentiarum tuarum aperit. Ad imum paginae vade et actione "usorem delere" utere.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Si initium sessionis (aut tesserae tuae restitutio) non potes, quaeso inscriptionem electronicam qua rationem tuam inscribere uteris, cum dpo apud [openfoodfacts.org](http://openfoodfacts.org) pete.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
