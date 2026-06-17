@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} အိမ်မွေးတိရစ္ဆာန်အစားအစာဆိုင်ရာ အချက်အလက်များ"
-description: "မေးခွန်း ၂ ခု"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: ခြေသည်း
+icon: paw
 ---
 
-{{< fa "ခြေသည်း" size="၃ ဆ" >}}
+{{< fa "paw" size=3x >}}
 
-## တိရစ္ဆာန်တွေအတွက် Nutri-Score ဘာကြောင့် မရှိတာလဲ။
+## Why is there no Nutri-Score for animals?
 
-တိရစ္ဆာန်တစ်ကောင်ချင်းစီဟာ မတူညီကြပါဘူး (မြွေတစ်ကောင်ဟာ ကြောင် ဒါမှမဟုတ် ခွေးတစ်ကောင်လို အာဟာရလိုအပ်ချက်တွေ တူညီမှာမဟုတ်ပါဘူး)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-ခွေးတွေလို တိရစ္ဆာန်အမျိုးအစားတူထဲမှာတောင် အာဟာရလိုအပ်ချက်တွေက ထိုင်ပြီးနေထိုင်တဲ့ ဘဝနေထိုင်မှုပုံစံ၊ ဖြစ်နိုင်ချေရှိတဲ့ သင်းကွပ်ခြင်း ဒါမှမဟုတ် ရောဂါတွေပေါ်မူတည်ပြီး ကွဲပြားပါတယ်။
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-ထို့ကြောင့် သုတေသီများစွာပါဝင်ခြင်းမရှိဘဲ ယနေ့အထိ မလုပ်ဆောင်ရသေးသော မတူညီသော အယ်လဂိုရီသမ်များစွာကို မဖန်တီးဘဲ တိရစ္ဆာန်အစာအတွက် ရမှတ်တွက်ချက်ရန်မှာ ရှုပ်ထွေးပါသည်။
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
