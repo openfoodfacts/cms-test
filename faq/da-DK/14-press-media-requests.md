@@ -1,17 +1,17 @@
 ---
-title: "{{< fa avisstørrelse=2x >}} Presse- og medieanmodninger"
-description: "1 spørgsmål"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: avis
+icon: newspaper
 ---
 
-{{< fa "avis" size="3 gange" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Hvordan kan jeg få pressemateriale på Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Kontakt venligst: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
