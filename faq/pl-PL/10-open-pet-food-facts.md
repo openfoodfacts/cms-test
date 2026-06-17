@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Otwórz informacje o karmie dla zwierząt"
-description: "2 pytania"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: łapa
+icon: paw
 ---
 
-{{< fa "łapa" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Dlaczego nie ma wskaźnika Nutri-Score dla zwierząt?
+## Why is there no Nutri-Score for animals?
 
-Każde zwierzę jest inne (wąż nie ma takich samych potrzeb żywieniowych jak kot czy pies)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Nawet w obrębie tego samego gatunku zwierząt, na przykład psów, zapotrzebowanie na składniki odżywcze zmienia się w zależności od siedzącego trybu życia, ewentualnej kastracji lub chorób.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-W związku z tym obliczenie punktacji dla paszy dla zwierząt jest skomplikowane bez zaangażowania dziesiątek badaczy i stworzenia dziesiątek różnych algorytmów, czego do tej pory nie zrobiono.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
