@@ -1,17 +1,17 @@
 ---
-title: "{{< fa хаҫат калӑпӑшӗ=2x >}} Пресс тата медиа ыйтӑвӗсем"
-description: "1 ыйту"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: хаҫат
+icon: newspaper
 ---
 
-{{< fa "хаҫат" size=3х >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts ҫинче пресс-визуалсене мӗнле илме пулать?
+## How can I get press visuals on Open Food Facts?
 
-Ҫакӑнпа ҫыхӑнма ыйтатпӑр: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
