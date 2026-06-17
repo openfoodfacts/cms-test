@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} API me te whakamahinga anō raraunga"
-description: "6 ngā pātai"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: kī
+icon: wrench
 ---
 
-{{< fa "kī" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## He taunakitanga kei roto i ngā tuhinga mō te rahi pai mō ngā whakaahua kua tukuatu?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-Tērā pea kei runga i te whenua te utu nui o te whatunga, mena he puhoi, he nui rānei te utu. kāore pea i te tino whai hua te nui ake o te taumaha, o te teitei rānei i te 5000 pika. ā, ki te taea e koe te kite i te puhoi o te whatunga, he pai rawa atu te ahua o te 2000 pika (he pai ake i te kore he ahua!)
-
----
-
-## Ā, me pēhea te kai kāore he waehere pae?
-
-Ko ngā kōrero anake mō ngā kai kua takaihia kei roto i ngā Open Food Facts. Mō ngā uara toharite o ngā hua (hei tauira, te tōmato, te panana rānei) me ētahi atu hua kai, ka taea e koe te whakamahi i tētahi o ngā pātengi raraunga kai totika ā-motu.
-
-**Tuhipoka:** Kei roto i te rārangi i raro nei ētahi o ngā pātengi raraunga kai nui rawa atu o te motu. Ki te whakaaro koe me tāpiri atu tētahi atu pātengi raraunga ki te rārangi, tēnā whakapā mai ki a mātou i: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**Rārangi o ngā Pūtake Raraunga Kai ā-Motu**
-
--
-
-**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**Belgium** - NUBEL - Raraunga Hanganga Kai o Belgian: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**Kānata** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**Repupirika Czech** - Pūtake Raraunga Hanganga Kai i te National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**Tenemāka** - Pūnaha Raraunga Hanga Kai Tenemāka: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**Ētonia** - Pūtake Raraunga Hanganga Kai o Ētonia: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**Pīnirana** - Pūtake Raraunga Hanga Kai o Pinirana - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**Wīwī** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**Germany** - Souci-Fachmann-Kraut Raraunga Raraunga Ipurangi: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) ranei te Raraunga Raraunga Tiamana mana: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
-
-- **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**Hōrana** - Pūtake Raraunga Hanganga Kai Hōrana: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**Norwei** - Te Ripanga Hanga Kai o Norwei 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**Pōrana** - Ngā Ripanga Hanganga Kai: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**Pāniora** - Pūtake Raraunga Hanganga Kai Pāniora - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**Huiterei** - Pūtake Raraunga Hanganga Kai o Huiterangi: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**UK** - Te hanganga o ngā huinga raraunga whakauru kai (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## Ka taea e au te rapu i tētahi ingoa hua tika mā te API?
+## What about food without barcodes ?
 
-Engari, kāore anō kia taea te rapu ngāwari i te ingoa hua anake, me te rapu tika mā te API.
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-Mā te whakamahi i tētahi tātari mō te kāwai ka āwhina pea i a koe ki te whakarite kia tika ake tō rapunga.
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## Me pēhea taku uru atu/kohikohi raraunga mō aku kaupapa?
+## Can I search a precise product name with the API?
 
-Kei te whārangi matua o Open Food Facts, kei te kokonga maui o runga o te mata, he tahua panuku. Kei raro iho, ka kitea e koe te kōwhiringa "rapu matatau", ka taea e koe te pāwhiri i reira. Nāu anō te whakatau ko ēhea ngā paearu e tino hāngai ana ki tō kaupapa. Kia whiriwhiria, ka taea e koe te tango i ngā hua kua whiwhi mā te panuku ki raro i te whārangi ka pāwhiri i te "Tangohia ngā hua".
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-Ka taea hoki e koe te kōrero ki:
-
-- Ko ā mātou tuhinga API:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Ngā Ture Whakamahi a Open Food Facts:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- Mō ā mātou raraunga:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## He tikanga kei reira hei whakamahi i te API?
+## How can I access/collect data for my projects?
 
-Kei te [whārangi tuhinga API](https://openfoodfacts.github.io/openfoodfacts-server/api/) ngā tuhinga katoa mō te whakamahinga o te API, engari anei tētahi whakarāpopototanga poto:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- Kei te wātea te pātengi raraunga Open Food Facts hei raraunga tuwhera i raro i te Raihana Pātengi Raraunga Tuwhera (ODbL), tirohia [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) mō ngā taipitopito ture. Ko ngā tikanga e rua ko te tohutoro me te tohatoha-rite. Ki te whakakotahi koe i ngā raraunga mai i ngā Open Food Facts me ētahi atu pātengi raraunga, ka hiahiatia e te ODbL kia tukuna anō hoki te pātengi raraunga e puta mai ana hei raraunga tuwhera. Ko tōna tikanga hoki, ka taea anake te whakakotahi i ngā raraunga me ngā pūtake e āhei ai te tohatoha anō.
+You can also consult:
 
-- Me **whakamahi tonu** koe i tētahi Kaihoko-Kaiwhakamahi ritenga ina mahi ana koe i ngā karangatanga API hei tautuhi i tō taupānga.
-
-- Ka whakatinanahia ngā herenga tere mō ia pūwāhi API.
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## Me pēhea taku uru atu ki ngā raraunga hītori?
+## Are there conditions to use the API?
 
-I tēnei wā, kāore mātou e tuku ana i te tuku raraunga hītori (JSONL, MongoDB, CSV).
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-Heoi, mō ngā hua takitahi, ka taea te uru atu ki ngā putanga o mua o ngā raraunga hua mā te whakamahi i te API, i te whārangi hua rānei mā te whakamahi i ngā whakatikatika.
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-Ia wā ka whakahoutia he hua, ka hangaia he whakahoutanga hou (he mati e piki haere ana mai i te 1).
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-Hei tauira, hei tiki i te putanga tuatahi (=putanga hua tuatahi) o tēnei hua, whakamahia
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-Waihoki, ka taea te whakamahi i te tawhā rev me te API:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
