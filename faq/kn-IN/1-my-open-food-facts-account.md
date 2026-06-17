@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} ನನ್ನ ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್ ಖಾತೆ"
-description: "2 ಪ್ರಶ್ನೆಗಳು"
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
 lang: en-gb
 order: 1
 category-level: 0
-icon: ಬಳಕೆದಾರ-ವಲಯ
+icon: user-circle
 ---
 
-{{< fa "ಬಳಕೆದಾರ-ವಲಯ" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## ನನ್ನ ಖಾತೆಯನ್ನು ಅಳಿಸಲು ನಾನು ಬಯಸುತ್ತೇನೆ.
+## I want to delete my account
 
-ಖಾತೆ ಅಳಿಸುವಿಕೆಯು ಈಗ ನಿಮ್ಮ ಆದ್ಯತೆಗಳಲ್ಲಿ ನೇರವಾಗಿ ಸಂಭವಿಸುತ್ತದೆ.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) ನಲ್ಲಿ ಲಾಗಿನ್ ಆದ ನಂತರ, ಮೇಲಿನ ಬಲ ಮೂಲೆಯಲ್ಲಿರುವ ಬಳಕೆದಾರ ಹೆಸರಿನ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ, ಖಾತೆ ನಿಯತಾಂಕಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಇದು ನಿಮ್ಮ ಆದ್ಯತೆಗಳ ಪುಟವನ್ನು ತೆರೆಯುತ್ತದೆ. ಪುಟದ ಕೆಳಭಾಗಕ್ಕೆ ಹೋಗಿ "ಬಳಕೆದಾರರನ್ನು ಅಳಿಸಿ" ಕ್ರಿಯೆಯನ್ನು ಬಳಸಿ.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-ನೀವು ಲಾಗಿನ್ ಆಗಲು (ಅಥವಾ ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಮರುಹೊಂದಿಸಲು) ಸಾಧ್ಯವಾಗದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಖಾತೆಯನ್ನು ನೋಂದಾಯಿಸಲು ನೀವು ಬಳಸುವ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಬಳಸಿಕೊಂಡು dpo - at - [openfoodfacts.org](http://openfoodfacts.orgನಲ್ಲಿ) ಸಂಪರ್ಕಿಸಿ.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
