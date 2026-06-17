@@ -1,23 +1,23 @@
 ---
-title: "{{< fa markakuna github sayay=2x >}} Técnico FAQ"
-description: "1 tapuy"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: markakuna github
+icon: brands github
 ---
 
-{{< fa "brands" "github nisqa" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## ¿Llapa simi willañiqikunatachu musuqchanay tiyan, pukyuta kaskaqta tikraspa?
+## Should I update all language files when I change a source string?
 
-Manam mana. Inglés simipi kaqllatam musuqyachinayki
+No you don't. You just need to update the English one
 
-- PR nisqaykitaqa paqarichiy
+- Create your PR
 
-Huk kuti hukllachasqa kaqtin, crowdin-trigger makiwan musuqmanta sayachisaqku chaymanta Crowdin tikray sistema GitHub Ruwaykunawan llamk'achisqa puchuqninta wak simikunapaq ruwanqa.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub bot chaymanta huk musuq PR kikinmanta ruwan chaymanta chaymanta qhawayku.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
