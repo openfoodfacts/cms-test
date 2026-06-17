@@ -1,52 +1,52 @@
 ---
-title: "{{< fa sayizi ya movha=2x >}} App ya movha"
-description: "Swivutiso swa 4"
-lang: ts-gb
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: famba-famba
+icon: mobile
 ---
 
-{{< fa "famba-famba" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Xana ndzi swi tivisa ku yini leswaku ndzi tirhisa version yihi ya app?
+## How do I know which version of the app I'm using?
 
-Yana eka **Profile**,
-kutani **FAQ**, kutani **Malunghana na app leyi.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-U fanele ku
-vona nomboro ya vuhundzuluxeri ku fana na 3.4.5+662. U nga rivali ku hi byela make na model
-ya foni loko yi ri debugging.
-
----
-
-## App a yi skeni
-
-Leswi swi nga ha va swi vangiwa hi
-
-- xiphiqo xa netiweke
-
-- xiphiqo xa mpfumelelo
-
-- xiphiqo xa tibarakhodi
-
-Hi rhumeleni email hi ku tirhisa Profile >> Tihlanganise na Hina >> Hi rhumele email.
-
-Rungula hinkwaro leri faneleke ri fanele ku namarhetiwa eka xikombelo xa wena.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Xana ndzi nga pfuneta njhani ku antswisa app ya mobile ?
+## The app does not scan
 
-Xana ndzi nga pfuneta njhani ku antswisa app ya mobile ?
+This may be due to
 
-U nga [endla tano eka vuhlayiselo bya app ya Mobile](https://github.com/openfoodfacts/smooth-app) .
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Xana ndzi nga rhumela kwihi vuxokoxoko mayelana na app ?
+## How can I help with improving the mobile app ?
 
-U nga rhumela vuxokoxoko eka mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
