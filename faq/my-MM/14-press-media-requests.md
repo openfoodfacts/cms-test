@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} စာနယ်ဇင်းနှင့် မီဒီယာ တောင်းဆိုချက်များ"
-description: "မေးခွန်း ၁ ခု"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
-order: ၁၄
+order: 14
 category-level: 0
-icon: သတင်းစာ
+icon: newspaper
 ---
 
-{{< fa "သတင်းစာ" size="၃ ဆ" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Open Food Facts မှာ စာနယ်ဇင်းပုံရိပ်တွေကို ဘယ်လိုရနိုင်မလဲ။
+## How can I get press visuals on Open Food Facts?
 
-ကျေးဇူးပြု၍ ဆက်သွယ်ရန် : presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
