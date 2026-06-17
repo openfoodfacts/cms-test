@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} Tình nguyện / Đóng góp"
-description: "3 câu hỏi"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
 icon: chỉnh sửa
 ---
 
-{{< fa "chỉnh sửa" size="3 lần" >}}
+{{< fa "chỉnh sửa" size=3x >}}
 
-## Có cách nào để xóa ảnh sản phẩm đã tải lên không?
+## Is there a way to remove uploaded images for products?
 
-Chỉ người điều hành mới có thể xóa ảnh để tránh nguy cơ phá hoại.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Bạn chỉ cần liên hệ qua Slack hoặc địa chỉ **contact@openfoodfacts.org** để yêu cầu xóa các hình ảnh trùng lặp hoặc không phù hợp (cố gắng cung cấp số mã vạch hoặc URL).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Chúng tôi cũng có API báo cáo hình ảnh mới dành cho lập trình viên.
-
----
-
-## Tôi là một nhà thiết kế. Tôi có thể giúp gì?
-
-Chúng tôi phối hợp tất cả các hoạt động liên quan đến thiết kế trên [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) và trên một kênh trò chuyện chuyên dụng. Chúng tôi thường xuyên tổ chức các cuộc họp nhóm và thảo luận để tìm ra giải pháp cho những thách thức cụ thể.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Trong một số trường hợp, cùng một sản phẩm có thể có giá trị dinh dưỡng khác nhau ở mỗi quốc gia, vậy Open Food Facts xử lý vấn đề này như thế nào?
+## I'm a designer. How can I help ?
 
-Trong 99% trường hợp, nhà sản xuất sẽ tạo ra các mã vạch khác nhau cho các phiên bản khác nhau của sản phẩm. Một ví dụ nổi tiếng là sự khác biệt về độ đặc giữa Nutella của Pháp và Nutella của Đức, do sự khác biệt về loại bánh mì giữa các quốc gia. 2 công thức khác nhau, 2 mã vạch khác nhau.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Tuy nhiên, hiện tượng xung đột mã vạch có thể xảy ra với các mã ngắn hơn (EAN-8) thường được một số cửa hàng ở châu Âu và Mỹ sử dụng lại. Hiện tại chúng tôi chưa xử lý các trường hợp xung đột mã vạch, nhưng việc này hoàn toàn có thể thực hiện được bằng cách lấy vị trí chung của người dùng (việc xung đột mã vạch trong cùng một quốc gia thậm chí còn hiếm gặp hơn).
+---
 
-Về lâu dài, chúng tôi khuyến khích các nhà sản xuất chuyển sang sử dụng EAN-13 để tránh xung đột mã vạch.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
