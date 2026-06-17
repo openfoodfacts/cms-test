@@ -1,23 +1,23 @@
 ---
-title: "សំណួរ​ដែល​សួរ​ញឹកញាប់​ផ្នែក​បច្ចេកទេស {{< fa brands github size=2x >}}"
-description: "សំណួរ ១"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ១៦
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
+order: 16
 category-level: 0
-icon: ម៉ាកយីហោ github
+icon: brands github
 ---
 
-{{< fa "brands" "ជីតហាប" size=៣ដង >}}
+{{< fa "brands" "github" size=3x >}}
 
-## តើខ្ញុំគួរធ្វើបច្ចុប្បន្នភាពឯកសារភាសាទាំងអស់នៅពេលខ្ញុំផ្លាស់ប្តូរខ្សែអក្សរប្រភពដែរឬទេ?
+## Should I update all language files when I change a source string?
 
-ទេ អ្នក​មិន​ធ្វើ​ទេ។ អ្នកគ្រាន់តែត្រូវធ្វើបច្ចុប្បន្នភាពភាសាអង់គ្លេស
+No you don't. You just need to update the English one
 
-- បង្កើត PR របស់អ្នក
+- Create your PR
 
-នៅពេលដែលវាត្រូវបានបញ្ចូលគ្នា យើងនឹងរៀបចំ crowdin-trigger ឡើងវិញដោយដៃ ហើយប្រព័ន្ធបកប្រែ Crowdin ដែលបង្កឡើងដោយ GitHub Actions នឹងធ្វើអ្វីៗដែលនៅសល់សម្រាប់ភាសាផ្សេងទៀត។
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-បន្ទាប់មក GitHub bot បង្កើត PR ថ្មីដោយស្វ័យប្រវត្តិ ដែលយើងពិនិត្យឡើងវិញ។
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
