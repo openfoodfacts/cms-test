@@ -1,7 +1,7 @@
 ---
-title: "{{< fa edit size=2x >}} Կամավորական աշխատանք / Նվիրատվություն"
-description: "3 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: edit
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## Կա՞ արդյոք ապրանքների վերբեռնված պատկերները հեռացնելու միջոց։
+## Is there a way to remove uploaded images for products?
 
-Միայն մոդերատորները կարող են հեռացնել լուսանկարներ՝ հնարավոր վանդալիզմից խուսափելու համար։
+Only moderators can remove photos, to avoid potential vandalism.
 
-Պարզապես խնդրեք Slack-ում կամ **contact@openfoodfacts.org** հասցեով՝ հեռացնելու ձեր կրկնօրինակները կամ անպատշաճ լուսանկարները (պետք է փորձեք տրամադրել շտրիխ կոդի համարը կամ URL-ը):
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Մենք նաև ունենք նոր պատկերի հաշվետվության API, եթե դուք ծրագրավորող եք։
-
----
-
-## Ես դիզայներ եմ։ Ինչպե՞ս կարող եմ օգնել։
-
-Մենք համակարգում ենք դիզայնի հետ կապված բոլոր գործողությունները [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) կայքում և հատուկ չաթի միջոցով։ Մենք պարբերաբար թիմային հանդիպումներ ենք անցկացնում և քննարկումներ ենք անցկացնում կոնկրետ մարտահրավերների շուրջ։
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Որոշ դեպքերում նույն ապրանքը կարող է տարբեր սննդային արժեք ունենալ յուրաքանչյուր երկրի համար, ինչպե՞ս է սա կարգավորվում «Բաց սննդի փաստեր»-ում։
+## I'm a designer. How can I help ?
 
-99%-ում արտադրողները ստեղծում են տարբեր շտրիխ կոդեր իրենց արտադրանքի տարբեր տարբերակների համար։ Հայտնի օրինակ է ֆրանսիական և գերմանական Նուտելլայի միջև հաստության տարբերությունը, որը պայմանավորված է տարբեր երկրներում հացի տարբերությամբ։ 2 տարբեր բանաձևեր, 2 տարբեր շտրիխ կոդեր։
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Սակայն շտրիխ կոդերի բախում կարող է տեղի ունենալ ավելի կարճ կոդերի (EAN-8) դեպքում, որոնք սովորաբար վերօգտագործվում են Եվրոպայի և ԱՄՆ-ի որոշ խանութների կողմից։ Մենք ներկայումս չենք զբաղվում շտրիխ կոդերի այդ բախումներով, բայց դա հնարավոր կլինի անել՝ ստանալով օգտատիրոջ ընդհանուր գտնվելու վայրը (մեկ երկրի ներսում շտրիխ կոդերի բախումներ ունենալն ավելի հազվադեպ է լինում):
+---
 
-Երկարաժամկետ հեռանկարում մենք խրախուսում ենք արտադրողներին անցնել EAN-13-ի՝ շտրիխ կոդերի այդ բախումներից խուսափելու համար։
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
