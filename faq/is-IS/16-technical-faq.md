@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Algengar tæknilegar spurningar"
-description: "1 spurning"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
-order: 16 ára
+order: 16
 category-level: 0
-icon: vörumerki github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Ætti ég að uppfæra allar tungumálaskrár þegar ég breyti frumstreng?
+## Should I update all language files when I change a source string?
 
-Nei, það gerir þú ekki. Þú þarft bara að uppfæra ensku útgáfuna
+No you don't. You just need to update the English one
 
-- Búðu til almannatengsl þín
+- Create your PR
 
-Þegar því hefur verið sameinað munum við endurskipuleggja crowdin-trigger handvirkt og þýðingarkerfið Crowdin, sem GitHub Actions kveikir á, mun sjá um restina fyrir önnur tungumál.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-GitHub spjallþjónninn býr síðan sjálfkrafa til nýjan PR sem við skoðum síðan.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
