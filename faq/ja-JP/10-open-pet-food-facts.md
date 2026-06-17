@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} ペットフードの豆知識"
-description: "2つの質問"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: 足
+icon: paw
 ---
 
-{{< fa "足" size=3倍 >}}
+{{< fa "paw" size=3x >}}
 
-## なぜ動物用の Nutri-Score がないのですか?
+## Why is there no Nutri-Score for animals?
 
-動物はそれぞれ異なります（ヘビは猫や犬と同じ栄養ニーズを持っていません）
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-犬のような同じ種類の動物であっても、運動不足の生活、去勢の可能性、病気の有無などによって栄養の必要量は異なります。
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-したがって、数十人の研究者を関与させ、数十種類の異なるアルゴリズムを作成せずに動物飼料のスコアを計算するのは複雑であり、これはこれまで行われていません。
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
