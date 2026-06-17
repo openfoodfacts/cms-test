@@ -1,52 +1,52 @@
 ---
-title: "Ứng dụng di động {{< fa mobile size=2x >}}"
-description: "4 câu hỏi"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: điện thoại di động
+icon: mobile
 ---
 
-{{< fa "điện thoại di động" size="3 lần" >}}
+{{< fa "mobile" size=3x >}}
 
-## Làm sao tôi biết mình đang sử dụng phiên bản ứng dụng nào?
+## How do I know which version of the app I'm using?
 
-Vào **Trang cá nhân**,
-rồi **Câu hỏi thường gặp**, sau đó **Giới thiệu về ứng dụng này.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
 You should
-see a version number like 3.4.5+662. Đừng quên cho chúng tôi biết hãng và kiểu máy
-của điện thoại nếu bạn đang gỡ lỗi.
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ứng dụng này không quét được.
+## The app does not scan
 
-Điều này có thể là do
+This may be due to
 
-- sự cố mạng
+- a network problem
 
-- vấn đề về quyền truy cập
+- a permissions problem
 
-- vấn đề mã vạch
+- a barcode problem
 
-Hãy gửi email cho chúng tôi qua mục Trang cá nhân >> Liên hệ >> Gửi email.
+Send us an email via Profile >> Contact Us >> Send us an email.
 
-Vui lòng đính kèm tất cả thông tin liên quan vào yêu cầu của bạn.
-
----
-
-## Tôi có thể giúp cải thiện ứng dụng di động bằng cách nào?
-
-Tôi có thể giúp cải thiện ứng dụng di động bằng cách nào?
-
-Bạn có thể [thực hiện việc này trên kho ứng dụng di động](https://github.com/openfoodfacts/smooth-app)
+All relevant information should be attached to your request.
 
 ---
 
-## Tôi có thể gửi phản hồi về ứng dụng ở đâu?
+## How can I help with improving the mobile app ?
 
-Bạn có thể gửi phản hồi đến địa chỉ mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
