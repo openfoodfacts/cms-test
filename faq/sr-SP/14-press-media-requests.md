@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Захтеви за штампу и медије"
-description: "1 питање"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: новине
+icon: newspaper
 ---
 
-{{< fa "новине" size="3 пута" >}}
+{{< fa "newspaper" size=3x >}}
 
-## Како могу да добијем визуелне материјале за штампу на Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Молимо контактирајте: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
