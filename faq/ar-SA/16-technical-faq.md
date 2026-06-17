@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} الأسئلة التقنية"
-description: "سؤال واحد"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: العلامات التجارية على جيت هاب
+icon: brands github
 ---
 
-{{< fa "العلامات التجارية" "جيت هاب" size=3x >}}
+{{< fa "العلامات التجارية" "github" size=3x >}}
 
-## هل يجب عليّ تحديث جميع ملفات اللغة عند تغيير سلسلة المصدر؟
+## Should I update all language files when I change a source string?
 
-لا، ليس عليك ذلك. كل ما عليك فعله هو تحديث النسخة الإنجليزية
+No you don't. You just need to update the English one
 
-- أنشئ علاقاتك العامة
+- Create your PR
 
-بمجرد دمجها، سنقوم بإعادة ضبط crowdin-trigger يدويًا وسيقوم نظام ترجمة Crowdin الذي يتم تشغيله بواسطة GitHub Actions بالباقي للغات الأخرى.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-ثم يقوم برنامج GitHub bot بإنشاء طلب سحب جديد تلقائيًا نقوم بمراجعته بعد ذلك.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
