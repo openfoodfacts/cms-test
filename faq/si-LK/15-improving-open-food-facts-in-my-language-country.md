@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} මගේ භාෂාවෙන්/රටෙන් විවෘත ආහාර කරුණු වැඩිදියුණු කිරීම"
-description: "ප්‍රශ්න 3ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 15 15 මාලා
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
+lang: en-gb
+order: 15
 category-level: 0
-icon: ගෝලය
+icon: globe
 ---
 
-{{< fa "ගෝලය" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## ලේබල් සඳහා නව ලාංඡනයක් එක් කිරීමට මම කැමතියි.
+## I would like to add a new logo for labels
 
-මෙන්න ක්‍රියාවලිය:
+Here is the process:
 
-- [ලේබල් වර්ගීකරණය](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) හි ලේබලයේ **කැනොනිකල් නම** සොයා ගන්න (එය ලේබලවල සමාන පද ලැයිස්තුවේ පළමු අයිතමයයි, උදා. en:100% එළවළු)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**ලාංඡනය හොඳ තත්ත්වයේ ලබා ගන්න**: මෙම අවස්ථාවට නොගැලපෙන දායකයාගේ ඡායාරූපය භාවිතා කිරීමෙන් වළකින්න; බොහෝ ලේබල්වල නිල වෙබ් අඩවිවල උසස් තත්ත්වයේ ලාංඡන ඇත, සමහර විට දෛශික ආකෘතියෙන් (අපට ඊටත් වඩා හොඳයි); නිෂ්පාදනයක ඇසුරුම්කරණයේ
-ලේබලයක් තිබීම පිළිබඳව වෛෂයිකව දැනුම් දීමට අපි ලාංඡනයක් භාවිතා කරන තාක් කල්, අවසර ඉල්ලීමට අවශ්‍ය නොවේ.
----------------------------------------------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**ගොනුව මේ ආකාරයට නම් කරන්න**: name-of-the-label.[width]x90.png මෙහි පළල යනු ලාංඡනය පික්සල 90 ක් උස වන විට එහි පළලයි. ගොනු නාම උච්චාරණය නොකර, කුඩා අකුරින් සහ හිස්තැන් වෙනුවට "-" භාවිතා කළ යුතුය.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- ඉන්පසු එහි කැනොනිකල් නාමයට අනුරූප වන නාමාවලියෙහි ලාංඡනය එක් කරන්න. කැනොනිකල් නාමය en:something නම්, ඒවා /en/ හි තිබිය යුතුය. ලාංඡන සඳහා මූල නාමාවලිය [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang) වේ.
-
----
-
-## විවෘත ආහාර කරුණු මගේ භාෂාවට පරිවර්තනය කරන්නේ කෙසේද?
-
-[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support) වෙත යන්න.
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## මෙම නිතර අසන ප්‍රශ්න මගේ භාෂාවට පරිවර්තනය කරන්නේ කෙසේද?
+## How do I translate Open Food Facts to my language ?
 
-දැනුම් පදනමට සංස්කරණ ප්‍රවේශය සඳහා contact@openfoodfacts.org අමතන්න.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
