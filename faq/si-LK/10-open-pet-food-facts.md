@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} සුරතල් සතුන්ගේ ආහාර පිළිබඳ විවෘත කරුණු"
-description: "ප්‍රශ්න 2ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: පාද
+icon: paw
 ---
 
-{{< fa "පාද" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## සතුන් සඳහා Nutri-Score නැත්තේ ඇයි?
+## Why is there no Nutri-Score for animals?
 
-සෑම සතෙකුම වෙනස් ය (සර්පයෙකුට බළලෙකුට හෝ බල්ලෙකුට ඇති පෝෂණ අවශ්‍යතා සමාන නොවේ)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-බල්ලන් වැනි එකම වර්ගයේ සතුන් තුළ වුවද, පෝෂණ අවශ්‍යතා උදාසීන ජීවන රටාව, විය හැකි කැස්ට්‍රේෂන් හෝ රෝග අනුව වෙනස් වේ.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-එබැවින්, පර්යේෂකයින් දුසිම් ගනනක් සම්බන්ධ කර නොගෙන සහ අද දක්වා සිදු කර නොමැති විවිධ ඇල්ගොරිතම දුසිම් ගනනක් නිර්මාණය නොකර සත්ව ආහාර සඳහා ලකුණු ගණනය කිරීම සංකීර්ණ වේ.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
