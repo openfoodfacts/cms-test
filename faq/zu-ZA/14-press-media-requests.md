@@ -1,17 +1,17 @@
 ---
-title: "{{< fa iphephandaba size=2x >}} Izicelo Zabezindaba Nabezindaba"
-description: "Umbuzo ongu-1"
-lang: i-en-gb
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: iphephandaba
+icon: newspaper
 ---
 
-{{< fa "iphephandaba" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Ngingazithola kanjani izithombe zabezindaba ku-Open Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Sicela uxhumane no: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
