@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} 新聞媒體垂詢"
-description: "1 個問題"
-lang: 英語-英國
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
+lang: en-gb
 order: 14
 category-level: 0
-icon: 報紙
+icon: newspaper
 ---
 
-{{< fa "報紙" size=3倍 >}}
+{{< fa "newspaper" size=3x >}}
 
-## 我如何才能獲得關於“開放食品事實”的新聞圖片？
+## How can I get press visuals on Open Food Facts?
 
-請洽：presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
