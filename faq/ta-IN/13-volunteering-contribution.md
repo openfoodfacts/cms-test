@@ -1,37 +1,37 @@
 ---
-title: "{{< fa edit size=2x >}} தன்னார்வத் தொண்டு / பங்களிப்பு"
-description: "3 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
+lang: en-gb
 order: 13
 category-level: 0
 icon: edit
 ---
 
-{{< fa "edit" size="3x (3x)" >}}
+{{< fa "edit" size=3x >}}
 
-## தயாரிப்புகளுக்கு பதிவேற்றப்பட்ட படங்களை அகற்ற ஏதாவது வழி இருக்கிறதா?
+## Is there a way to remove uploaded images for products?
 
-சாத்தியமான காழ்ப்புணர்ச்சியைத் தவிர்க்க, மதிப்பீட்டாளர்கள் மட்டுமே புகைப்படங்களை அகற்ற முடியும்.
+Only moderators can remove photos, to avoid potential vandalism.
 
-உங்கள் நகல்களையோ அல்லது ஏதேனும் பொருத்தமற்ற புகைப்படங்களையோ நீக்க ஸ்லாக் அல்லது **contact@openfoodfacts.org** இல் கேளுங்கள் (நீங்கள் பார்கோடு எண் அல்லது URL ஐ வழங்க முயற்சிக்க வேண்டும்).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-நீங்கள் ஒரு புரோகிராமராக இருந்தால், எங்களிடம் ஒரு புதிய பட அறிக்கை API உள்ளது.
-
----
-
-## நான் ஒரு வடிவமைப்பாளர். நான் எப்படி உதவ முடியும்?
-
-நாங்கள் [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) மற்றும் ஒரு பிரத்யேக அரட்டை சேனலில் வடிவமைப்பு தொடர்பான அனைத்து செயல்பாடுகளையும் ஒருங்கிணைக்கிறோம். குறிப்பிட்ட சவால்கள் குறித்து நாங்கள் தொடர்ந்து குழு கூட்டங்களையும், மூளைச்சலவைகளையும் மேற்கொள்கிறோம்.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## சில சந்தர்ப்பங்களில் ஒரே தயாரிப்பு ஒவ்வொரு நாட்டிற்கும் வெவ்வேறு ஊட்டச்சத்து மதிப்புகளைக் கொண்டிருக்கலாம், இது திறந்த உணவு உண்மைகளில் எவ்வாறு கையாளப்படுகிறது?
+## I'm a designer. How can I help ?
 
-99% நேரங்களில், உற்பத்தியாளர்கள் தங்கள் தயாரிப்புகளின் வெவ்வேறு பதிப்புகளுக்கு வெவ்வேறு பார்கோடுகளை உருவாக்குவார்கள். ஒரு பிரபலமான உதாரணம், நாடுகளுக்கு இடையே ரொட்டியில் உள்ள வேறுபாடு காரணமாக, தடிமன் அடிப்படையில் பிரெஞ்சு மற்றும் ஜெர்மன் நுடெல்லா இடையே உள்ள வேறுபாடு ஆகும். 2 வெவ்வேறு சூத்திரங்கள், 2 வெவ்வேறு பார்கோடுகள்.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-இருப்பினும், ஐரோப்பா மற்றும் அமெரிக்கா முழுவதும் சில கடைகளால் பொதுவாக மீண்டும் பயன்படுத்தப்படும் குறுகிய குறியீடுகளில் (EAN-8) பார்கோடு மோதல் ஏற்படலாம். அந்த பார்கோடு மோதல்களை நாங்கள் தற்போது கையாள்வதில்லை, ஆனால் பயனரின் பொதுவான இருப்பிடத்தைப் பெறுவதன் மூலம் அவ்வாறு செய்ய முடியும் (ஒரு நாட்டிற்குள் பார்கோடு மோதல்கள் இருப்பது இன்னும் அரிதானது).
+---
 
-நீண்ட காலத்திற்கு, பார்கோடு மோதல்களைத் தவிர்க்க உற்பத்தியாளர்கள் EAN-13 க்கு மாற நாங்கள் ஊக்குவிக்கிறோம்.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
