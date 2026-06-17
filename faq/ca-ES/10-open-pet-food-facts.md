@@ -1,21 +1,21 @@
 ---
-title: "{{< mida de la pota fa=2x >}} Informació sobre aliments per a mascotes"
-description: "2 preguntes"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: pota
+icon: paw
 ---
 
-{{< fa "pota" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Per què no hi ha Nutri-Score per a animals?
+## Why is there no Nutri-Score for animals?
 
-Cada animal és diferent (una serp no té les mateixes necessitats nutricionals que un gat o un gos)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Fins i tot dins d'un mateix tipus d'animal com els gossos, les necessitats nutricionals varien segons la vida sedentària, una possible castració o malalties.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Per tant, és complicat calcular una puntuació per a l'alimentació animal sense involucrar desenes d'investigadors i crear desenes d'algoritmes diferents, cosa que no s'ha fet fins ara.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
@@ -25,7 +25,7 @@ Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Ope
 
 Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
 
-[[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
