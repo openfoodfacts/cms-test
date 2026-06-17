@@ -1,21 +1,21 @@
 ---
-title: "{{< fa user-circle size=2x >}} මගේ විවෘත ආහාර කරුණු ගිණුම"
-description: "ප්‍රශ්න 2ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: පරිශීලක-කවය
+icon: user-circle
 ---
 
-{{< fa "පරිශීලක-කවය" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## මට මගේ ගිණුම මකා දැමීමට අවශ්‍යයි.
+## I want to delete my account
 
-ගිණුම් මකා දැමීම දැන් ඔබගේ මනාපයන් තුළ කෙලින්ම සිදු වේ.
+Account deletion now happens directly in your preferences.
 
-[https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) වෙත පිවිසීමෙන් පසු, ඉහළ දකුණු කෙළවරේ ඇති පරිශීලක නාමය මත ක්ලික් කර, ගිණුම් පරාමිතීන් තෝරන්න. එය ඔබගේ මනාප පිටුව විවෘත කරයි. පිටුවේ පහළට ගොස් "පරිශීලකයා මකන්න" ක්‍රියාව භාවිතා කරන්න.
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-ඔබට පුරනය වීමට (හෝ ඔබගේ මුරපදය නැවත සැකසීමට) නොහැකි නම්, කරුණාකර ගිණුම ලියාපදිංචි කිරීමට ඔබ භාවිතා කරන විද්‍යුත් තැපැල් ලිපිනය භාවිතා කර dpo - at - [openfoodfacts.org](http://openfoodfacts.org) අමතන්න.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
