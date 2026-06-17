@@ -1,21 +1,21 @@
 ---
-title: "{{< fa pav size=2x >}} Үй жануарларына арналған тағам туралы ашық деректер"
-description: "2 сұрақ"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: табан
+icon: paw
 ---
 
-{{< fa "табан" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## Неліктен жануарларға арналған Nutri-Score жоқ?
+## Why is there no Nutri-Score for animals?
 
-Әрбір жануар әртүрлі (жыланның мысық немесе ит сияқты қоректік қажеттіліктері жоқ)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Тіпті иттер сияқты бір жануарлардың ішінде де, тамақтану қажеттіліктері отырықшы өмір салтына, кастрацияға немесе ауруларға байланысты өзгеріп отырады.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Сондықтан, ондаған зерттеушілерді тартпай және ондаған түрлі алгоритмдерді жасамай, мал азығына арналған баллды есептеу қиын, бұл бүгінгі күнге дейін жасалмаған.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
