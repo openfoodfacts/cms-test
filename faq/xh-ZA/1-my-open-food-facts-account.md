@@ -1,21 +1,21 @@
 ---
-title: "{{< fa umsebenzisi-circle size=2x >}} Iakhawunti yam ye-Open Food Facts"
-description: "Imibuzo emi-2"
-lang: i-en-gb
+title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+description: "2 questions"
+lang: en-gb
 order: 1
 category-level: 0
-icon: isangqa somsebenzisi
+icon: user-circle
 ---
 
-{{< fa "isangqa somsebenzisi" size=3x >}}
+{{< fa "user-circle" size=3x >}}
 
-## Ndifuna ukucima iakhawunti yam
+## I want to delete my account
 
-Ukucinywa kweakhawunti ngoku kwenzeka ngqo kwiindlela ozikhethayo.
+Account deletion now happens directly in your preferences.
 
-Emva kokungena kwi [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), cofa igama lomsebenzisi kwikona ephezulu ngasekunene, ukhethe iiAkhawunti zeParamitha. Ivula iphepha lakho lokukhetha. Yiya ezantsi kwephepha kwaye usebenzise isenzo esithi "cima umsebenzisi".
+After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
-Ukuba awukwazi ukungena (okanye ukuseta kwakhona igama lakho eliyimfihlo), nceda unxibelelane ne-dpo - ku- [openfoodfacts.org](http://openfoodfacts.org), usebenzisa idilesi ye-imeyile oyisebenzisela ukubhalisa iakhawunti.
+If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
