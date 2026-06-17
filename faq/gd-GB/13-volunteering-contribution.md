@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Obair Shaor-thoileach / Tabhartas"
-description: "3 ceistean"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: edit
 
 {{< fa "edit" size=3x >}}
 
-## A bheil dòigh ann dealbhan a chaidh a luchdachadh suas a thoirt air falbh airson thoraidhean?
+## Is there a way to remove uploaded images for products?
 
-Chan fhaod ach luchd-riaghlaidh dealbhan a thoirt air falbh, gus casg a chur air milleadh a dh’ fhaodadh a bhith ann.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Faighnich air Slack no aig **contact@openfoodfacts.org** gus na dealbhan dùblaichte agad no dealbhan mì-iomchaidh sam bith a thoirt air falbh (bu chòir dhut feuchainn ri àireamh a’ chòd-barra no an URL a thoirt seachad airson sin).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Tha API aithisg ìomhaigh ùr againn cuideachd ma tha thu nad phrògramadair.
-
----
-
-## Tha mi nam dhealbhadair. Ciamar as urrainn dhomh cuideachadh?
-
-Bidh sinn a’ co-òrdanachadh a h-uile gnìomhachd co-cheangailte ri dealbhadh air [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) agus air seanal cabadaich sònraichte. Bidh sinn gu cunbhalach a’ cumail choinneamhan sgioba agus a’ beachdachadh air dùbhlain sònraichte.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## Ann an cuid de chùisean faodaidh luachan beathachaidh eadar-dhealaichte a bhith aig an aon toradh airson gach dùthaich, ciamar a thèid seo a làimhseachadh ann am Fiosrachadh Bidhe Fosgailte?
+## I'm a designer. How can I help ?
 
-99% den ùine, cruthaichidh riochdairean còdan-barra eadar-dhealaichte airson diofar dhreachan de na toraidhean aca. Is e eisimpleir ainmeil an diofar eadar Nutella Frangach agus Gearmailteach a thaobh tighead, air sgàth an eadar-dhealachaidh ann an aran thar dhùthchannan. 2 fhoirmle eadar-dhealaichte, 2 chòd-barra eadar-dhealaichte.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-Faodaidh còmhstri còd-barra tachairt ge-tà, air còdan nas giorra (EAN-8) a bhios mar as trice air an ath-chleachdadh le cuid de stòran air feadh na Roinn Eòrpa agus nan SA. Chan eil sinn a’ dèiligeadh ris na còmhstri còd-barra sin an-dràsta, ach bu chòir gum biodh e comasach sin a dhèanamh le bhith a’ faighinn àite coitcheann an neach-cleachdaidh (tha e eadhon nas ainneamh còmhstri còd-barra a bhith ann taobh a-staigh dùthaich).
+---
 
-San fhad-ùine, tha sinn a’ brosnachadh riochdairean gluasad gu EAN-13 gus na còmhstri sin eadar còd-barra a sheachnadh.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
