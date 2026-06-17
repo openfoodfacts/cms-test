@@ -1,141 +1,141 @@
 ---
-title: "{{< fa wrench size=2x >}} การนำ API และการใช้ข้อมูลซ้ำ"
-description: "6 คำถาม"
+title: "{{< fa wrench size=2x >}} API & data reuse"
+description: "6 questions"
 lang: en-gb
 order: 12
 category-level: 0
-icon: ประแจ
+icon: wrench
 ---
 
-{{< fa "ประแจ" size=3x >}}
+{{< fa "wrench" size=3x >}}
 
-## ในเอกสารมีคำแนะนำใดๆ เกี่ยวกับขนาดที่เหมาะสมสำหรับการอัปโหลดรูปภาพหรือไม่?
+## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
-นั่นอาจขึ้นอยู่กับแต่ละประเทศ หากเครือข่ายช้าหรือมีราคาแพง อะไรก็ตามที่มีขนาดหรือความสูงเกิน 5000 พิกเซลนั้น อาจจะไม่ค่อยมีประโยชน์เท่าไหร่ และหากคุณสามารถตรวจจับได้ว่าเครือข่ายช้า ภาพขนาด 2000 พิกเซลก็ยังดีมาก (ดีกว่าไม่มีภาพเลยแน่นอน!)
-
----
-
-## แล้วอาหารที่ไม่มีบาร์โค้ดล่ะ?
-
-เว็บไซต์ Open Food Facts มีข้อมูลเฉพาะเกี่ยวกับอาหารบรรจุภัณฑ์เท่านั้น สำหรับค่าเฉลี่ยของผลผลิตทางการเกษตร (เช่น มะเขือเทศหรือกล้วย) และผลิตภัณฑ์อาหารอื่นๆ คุณสามารถใช้ฐานข้อมูลโภชนาการอย่างเป็นทางการของประเทศแทนได้
-
-**หมายเหตุ:** รายชื่อด้านล่างนี้ประกอบด้วยฐานข้อมูลอาหารระดับชาติที่สำคัญที่สุดบางส่วน หากคุณคิดว่าฐานข้อมูลอื่นๆ ควรถูกรวมอยู่ในรายการ โปรดติดต่อเราได้ที่: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
-
-**รายชื่อฐานข้อมูลอาหารระดับชาติ**
-
--
-
-**ออสเตรเลีย** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
-
--
-
-**เบลเยียม** - NUBEL - ข้อมูลองค์ประกอบอาหารของเบลเยียม: [https://www.internubel.be](https://www.internubel.be/)
-
--
-
-**แคนาดา** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
-
--
-
-**สาธารณรัฐเช็ก** - ฐานข้อมูลองค์ประกอบอาหารที่สถาบันสาธารณสุขแห่งชาติ: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
-
--
-
-**เดนมาร์ก** - ฐานข้อมูลองค์ประกอบอาหารของเดนมาร์ก: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
-
--
-
-**เอสโตเนีย** - ฐานข้อมูลองค์ประกอบอาหารของเอสโตเนีย: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
-
--
-
-**ฟินแลนด์** - ฐานข้อมูลองค์ประกอบอาหารของฟินแลนด์ - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
-
--
-
-**ฝรั่งเศส** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
-
--
-
-**เยอรมนี** - ฐานข้อมูลออนไลน์ Souci-Fachmann-Kraut: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) หรือฐานข้อมูลอย่างเป็นทางการของเยอรมัน: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
-
-- **อิตาลี** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
-
--
-
-**เนเธอร์แลนด์** - ฐานข้อมูลองค์ประกอบอาหารของเนเธอร์แลนด์: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
-
--
-
-**นอร์เวย์** - ตารางองค์ประกอบอาหารของนอร์เวย์ ปี 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
-
--
-
-**โปแลนด์** - ตารางองค์ประกอบอาหาร: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
-
--
-
-**สเปน** - ฐานข้อมูลส่วนประกอบอาหารของสเปน - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
-
--
-
-**สวิตเซอร์แลนด์** - ฐานข้อมูลส่วนประกอบอาหารของสวิตเซอร์แลนด์: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
-
--
-
-**สหราชอาณาจักร** - ชุดข้อมูลแบบบูรณาการองค์ประกอบของอาหาร (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
-
--
-
-**สหรัฐอเมริกา** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
 
 ---
 
-## ฉันสามารถค้นหาชื่อสินค้าที่เจาะจงโดยใช้ API ได้หรือไม่?
+## What about food without barcodes ?
 
-น่าเสียดายที่ขณะนี้ยังไม่สามารถค้นหาโดยใช้เพียงชื่อผลิตภัณฑ์อย่างง่ายและแม่นยำผ่าน API ได้
+Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
 
-การใช้ตัวกรองตามหมวดหมู่อาจช่วยให้การค้นหาของคุณแม่นยำยิ่งขึ้น
+**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+
+**List of National Food Databases**
+
+-
+
+**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+
+-
+
+**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+
+-
+
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+
+-
+
+**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+
+-
+
+**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+
+-
+
+**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+
+-
+
+**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+
+-
+
+**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+
+-
+
+**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+-  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+
+-
+
+**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+
+-
+
+**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+
+-
+
+**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+
+-
+
+**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+
+-
+
+**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+
+-
+
+**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
-## ฉันจะเข้าถึง/รวบรวมข้อมูลสำหรับโครงการของฉันได้อย่างไร?
+## Can I search a precise product name with the API?
 
-บนหน้าหลักของ Open Food Facts บริเวณมุมซ้ายบนของหน้าจอ จะมีเมนูแบบเลื่อนได้ ด้านล่างสุด คุณจะพบตัวเลือก "ค้นหาขั้นสูง" ซึ่งคุณสามารถคลิกได้ จากนั้น คุณจะต้องพิจารณาว่าเกณฑ์ใดมีความเกี่ยวข้องมากที่สุดกับโครงการของคุณ เมื่อเลือกเสร็จแล้ว คุณจะสามารถดาวน์โหลดผลลัพธ์ได้โดยเลื่อนลงไปด้านล่างของหน้าและคลิกที่ “ดาวน์โหลดผลลัพธ์”
+Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
 
-คุณสามารถดูข้อมูลเพิ่มเติมได้ที่:
-
-- เอกสารประกอบ API ของเรา: [ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- ข้อกำหนดการใช้งานของ Open Food Facts:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- ข้อมูลของเรา: [ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Using a filter on category might help you make your search more precise though.
 
 ---
 
-## มีเงื่อนไขใดบ้างในการใช้งาน API?
+## How can I access/collect data for my projects?
 
-เอกสารทั้งหมดเกี่ยวกับการใช้งาน API สามารถดูได้ที่ [หน้าเอกสาร API](https://openfoodfacts.github.io/openfoodfacts-server/api/) แต่ต่อไปนี้เป็นบทสรุปโดยย่อ:
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
-- ฐานข้อมูล Open Food Facts สามารถเข้าถึงได้ในรูปแบบข้อมูลเปิดภายใต้ Open Database License (ODbL) โปรดดู [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) สำหรับรายละเอียดทางกฎหมาย เงื่อนไขสองประการคือ การระบุแหล่งที่มาและการแบ่งปันอย่างเท่าเทียมกัน หากคุณนำข้อมูลจาก Open Food Facts ไปรวมกับฐานข้อมูลอื่น ๆ ODbL กำหนดให้ฐานข้อมูลที่ได้นั้นต้องเผยแพร่เป็นข้อมูลเปิดด้วยเช่นกัน นอกจากนี้ยังหมายความว่าคุณสามารถรวมข้อมูลได้เฉพาะกับแหล่งข้อมูลที่อนุญาตให้มีการเผยแพร่ซ้ำในลักษณะดังกล่าวเท่านั้น
+You can also consult:
 
-- คุณต้องใช้ User-Agent ที่กำหนดเองเสมอเมื่อทำการเรียกใช้ API เพื่อระบุแอปของคุณ
-
-- มีการกำหนดขีดจำกัดอัตราการใช้งานสำหรับแต่ละเอนด์พอยต์ของ API
+- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
 
 ---
 
-## ฉันจะเข้าถึงข้อมูลในอดีตได้อย่างไร?
+## Are there conditions to use the API?
 
-ขณะนี้เรายังไม่มีบริการสำรองข้อมูลประวัติ (JSONL, MongoDB, CSV)
+All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
-อย่างไรก็ตาม สำหรับสินค้าแต่ละรายการ สามารถเข้าถึงข้อมูลสินค้าเวอร์ชันก่อนหน้าได้โดยใช้ API หรือบนหน้าสินค้าโดยใช้การแก้ไข
+- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
 
-ทุกครั้งที่มีการอัปเดตผลิตภัณฑ์ จะมีการสร้างเวอร์ชันใหม่ (ตัวเลขเพิ่มขึ้นเรื่อยๆ เริ่มจาก 1)
+- You must **always** use a custom User-Agent when performing API calls to identify your app.
 
-ตัวอย่างเช่น หากต้องการดาวน์โหลดเวอร์ชันแรก (=เวอร์ชันผลิตภัณฑ์แรกสุด) ของผลิตภัณฑ์นี้ ให้ใช้คำสั่งต่อไปนี้
+- Rate-limits are enforced for each API endpoint.
+
+---
+
+## How can I access historical data?
+
+Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+
+However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
+
+Every time a product is updated, a new revision (increasing digit starting from 1) is created.
+
+For example, to get the first revision (=first product version) of this product, use
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
-ในทำนองเดียวกัน พารามิเตอร์ rev สามารถใช้ร่วมกับ API ได้:
+Similarly, the rev parameter can be used with the API:
 
 [https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1](https://world.openfoodfacts.org/api/v2/product/7623186089763?rev=1)
 
