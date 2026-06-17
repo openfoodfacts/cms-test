@@ -1,6 +1,6 @@
 ---
-title: "{{< fa kemmañ ment=2x >}} Kefridioù a-youl vat / Kenlabour"
-description: "3 goulenn"
+title: "{{< fa edit size=2x >}} Volunteering / Contribution"
+description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
@@ -9,29 +9,29 @@ icon: aozañ
 
 {{< fa "aozañ" size=3x >}}
 
-## Hag un doare zo da lemel ar skeudennoù pellgarget evit ar produioù ?
+## Is there a way to remove uploaded images for products?
 
-N'eus nemet ar verourien a c'hell lemel al luc'hskeudennoù, evit mirout ouzh ar gwalldaolioù da c'hoarvezout.
+Only moderators can remove photos, to avoid potential vandalism.
 
-Goulennit war Slack pe war **contact@openfoodfacts.org** lemel ho skouerennoù pe ho luc'hskeudennoù dizereat (klask a rit reiñ an niverenn barrennoù pe an URL dezho).
+Just ask on Slack or at **contact@openfoodfacts.org** to remove your duplicates or any inappropriate photos (you should try to provide the barcode number or URL to so).
 
-Un API nevez evit danevellañ skeudennoù hon eus ivez ma'z oc'h ur programmer.
-
----
-
-## Tresour on. Penaos e c'hellan sikour ?
-
-Kenurzhiañ a reomp an holl obererezhioù liammet ouzh an tresañ war [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) hag war ur chadenn flapañ gouestlet. Reoliek e vez aozet emvodoù skipailh ha prederioù war taolioù-arnod resis.
+We also have a new image report API if you're a programmer.
 
 ---
 
-## E lod degouezhioù e c'hall ar memes produ kaout talvoudoù boued disheñvel evit pep bro, penaos e vez meret an dra-se e Open Food Facts ?
+## I'm a designer. How can I help ?
 
-99% eus an amzer e krou ar produerien kodennoù barrennoù disheñvel evit stummoù disheñvel eus o produioù. Ur skouer brudet eo an diforc'h etre an Nutella gall hag an Nutella alaman evit a sell ouzh an tevder, abalamour d'an diforc'h etre ar bara etre ar broioù. 2 formulenn disheñvel, 2 c'hod barrennoù disheñvel.
+We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
-C'hoarvezout a ra ar c'hrogad kodoù barrennoù avat war kodoù berroc'h (EAN-8) a vez adimplijet peurliesañ gant stalioù zo en Europa hag er Stadoù-Unanet. N'eo ket evit ober war-dro an emgannoù kodoù barrennoù-se ganeomp evit ar mare, met gallout a rafe bezañ graet dre gaout lec'hiadur hollek an implijer (raloc'h c'hoazh eo kaout emgannoù kodoù barrennoù en ur vro).
+---
 
-A-hed an amzer e broudomp ar produerien da vont war-zu EAN-13 evit mirout ouzh an emgannoù-se war ar c'hod barrennoù.
+## In some cases the same product can have different nutritional values for each country, how is this handled in Open Food Facts ?
+
+99% of the time, producers will create different barcodes for different versions of their products. A famous example is the difference between French and German Nutella in terms of thickness, due to difference in bread across countries. 2 different formulas, 2 different barcodes.
+
+Barcode clash can however happen on shorter codes (EAN-8) that are typically reused by some stores across Europe and the US. We don't currently handle those barcode clashes, but it should be doable to do so by getting the user's general location (it's even more rare to have barcode clashes within a country).
+
+In the long term, we encourage producers to move to EAN-13 to avoid those barcode clashes.
 
 ---
 
