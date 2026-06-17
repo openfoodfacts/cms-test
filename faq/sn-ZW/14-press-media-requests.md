@@ -1,17 +1,17 @@
 ---
-title: "Zvikumbiro zvepepanhau nevezvenhau {{< fa size=2x >}}"
-description: "Mubvunzo 1"
+title: "{{< fa newspaper size=2x >}} Press & Media Requests"
+description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: bepanhau
+icon: newspaper
 ---
 
-{{< fa "bepanhau" size=3x >}}
+{{< fa "newspaper" size=3x >}}
 
-## Ndingawana sei mifananidzo yevatori venhau paOpen Food Facts?
+## How can I get press visuals on Open Food Facts?
 
-Ndapota taurai ne: presse@openfoodfacts.org
+Please contact : presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
