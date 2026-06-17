@@ -1,23 +1,23 @@
 ---
-title: "{{< fa brands github size=2x >}} Mistoqsijiet Frekwenti Tekniċi"
-description: "mistoqsija waħda"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: marki github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Għandi naġġorna l-fajls kollha tal-lingwa meta nibdel string tas-sors?
+## Should I update all language files when I change a source string?
 
-Le, m'għandekx. Inti sempliċiment għandek bżonn taġġorna dik bl-Ingliż.
+No you don't. You just need to update the English one
 
-- Oħloq il-PR tiegħek
+- Create your PR
 
-Ladarba jingħaqad, se nibdlu l-bażi ta' crowdin-trigger manwalment u s-sistema ta' traduzzjoni Crowdin attivata minn GitHub Actions se tagħmel il-bqija għal-lingwi l-oħra.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Il-bot ta' GitHub imbagħad joħloq PR ġdid awtomatikament li mbagħad nirrevedu.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
