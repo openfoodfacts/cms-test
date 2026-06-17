@@ -1,23 +1,23 @@
 ---
-title: "Imibuzo Evame Ukubuzwa Yobuchwepheshe {{< fa brand github size=2x >}}"
-description: "Umbuzo ongu-1"
-lang: i-en-gb
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
+lang: en-gb
 order: 16
 category-level: 0
-icon: imikhiqizo github
+icon: brands github
 ---
 
-{{< fa "brands" "i-github" size=3x >}}
+{{< fa "brands" "github" size=3x >}}
 
-## Ingabe kufanele ngibuyekeze wonke amafayela olimi uma ngishintsha umucu womthombo?
+## Should I update all language files when I change a source string?
 
-Cha awukwenzi lokho. Udinga nje ukuvuselela eyesiNgisi
+No you don't. You just need to update the English one
 
-- Dala i-PR yakho
+- Create your PR
 
-Uma isihlanganisiwe, sizophinda sisebenzise i-crowdin-trigger ngesandla bese uhlelo lokuhumusha lwe-Crowdin oluqaliswe yi-GitHub Actions luzokwenza okusele kwezinye izilimi.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-I-GitHub bot bese idala i-PR entsha ngokuzenzakalelayo esizoyibuyekeza.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
