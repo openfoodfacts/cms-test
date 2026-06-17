@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} Avaa lemmikkieläinten ruokatiedot"
-description: "2 kysymystä"
-lang: fi-gb
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
+lang: en-gb
 order: 10
 category-level: 0
-icon: tassu
+icon: paw
 ---
 
-{{< fa "tassu" size="3 kertaa" >}}
+{{< fa "paw" size=3x >}}
 
-## Miksi eläimille ei ole Nutri-Score-pistettä?
+## Why is there no Nutri-Score for animals?
 
-Jokainen eläin on erilainen (käärmeellä ei ole samoja ravitsemuksellisia tarpeita kuin kissalla tai koiralla)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-Jopa saman eläintyypin, kuten koiran, ravitsemukselliset tarpeet vaihtelevat istuvan elämäntavan, mahdollisen kastraation tai sairauksien mukaan.
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-Siksi eläinten rehun pisteytyksen laskeminen on monimutkaista ilman kymmenien tutkijoiden osallistumista ja kymmenien eri algoritmien luomista, mitä ei ole tähän mennessä tehty.
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
