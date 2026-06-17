@@ -1,21 +1,21 @@
 ---
-title: "{{< fa paw size=2x >}} เปิดดูข้อมูลอาหารสัตว์เลี้ยง"
-description: "2 คำถาม"
+title: "{{< fa paw size=2x >}} Open Pet Food Facts"
+description: "2 questions"
 lang: en-gb
 order: 10
 category-level: 0
-icon: อุ้งเท้า
+icon: paw
 ---
 
-{{< fa "อุ้งเท้า" size=3x >}}
+{{< fa "paw" size=3x >}}
 
-## ทำไมจึงไม่มีระบบประเมินคุณค่าทางโภชนาการ (Nutri-Score) สำหรับสัตว์?
+## Why is there no Nutri-Score for animals?
 
-สัตว์แต่ละชนิดแตกต่างกัน (งูมีความต้องการสารอาหารไม่เหมือนกับแมวหรือสุนัข)
+Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
-แม้แต่ในสัตว์ประเภทเดียวกัน เช่น สุนัข ความต้องการทางโภชนาการก็แตกต่างกันไปตามวิถีชีวิตที่ไม่ค่อยเคลื่อนไหว การทำหมัน หรือโรคต่างๆ
+Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
 
-ดังนั้น การคำนวณคะแนนสำหรับอาหารสัตว์จึงเป็นเรื่องซับซ้อน หากไม่เกี่ยวข้องกับนักวิจัยหลายสิบคนและสร้างอัลกอริทึมที่แตกต่างกันหลายสิบแบบ ซึ่งยังไม่มีใครทำมาก่อนจนถึงปัจจุบัน
+It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
 
 ---
 
