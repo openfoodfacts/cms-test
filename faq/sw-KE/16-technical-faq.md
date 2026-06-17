@@ -1,23 +1,23 @@
 ---
-title: "{{< fa chapa github size=2x >}} Maswali Yanayoulizwa Mara kwa Mara ya Kiufundi"
-description: "Swali 1"
+title: "{{< fa brands github size=2x >}} Technical FAQ"
+description: "1 question"
 lang: en-gb
 order: 16
 category-level: 0
-icon: chapa github
+icon: brands github
 ---
 
 {{< fa "brands" "github" size=3x >}}
 
-## Je, ninapaswa kusasisha faili zote za lugha ninapobadilisha mfuatano chanzo?
+## Should I update all language files when I change a source string?
 
-Hapana hufanyi hivyo. Unahitaji tu kusasisha ile ya Kiingereza
+No you don't. You just need to update the English one
 
-- Unda uhusiano wako wa umma
+- Create your PR
 
-Mara tu itakapounganishwa, tutabadilisha crowdin-trigger kwa mikono na mfumo wa tafsiri wa Crowdin unaosababishwa na GitHub Actions utafanya mengine kwa lugha zingine.
+Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
 
-Kisha boti ya GitHub huunda PR mpya kiotomatiki ambayo tunaikagua.
+GitHub bot then creates a new PR automatically that we then review.
 
 ---
 
