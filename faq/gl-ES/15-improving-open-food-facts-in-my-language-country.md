@@ -1,40 +1,40 @@
 ---
-title: "{{< tamaño do globo fa=2x >}} Mellorar a información aberta sobre alimentos na miña lingua/país"
-description: "3 preguntas"
+title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
+description: "3 questions"
 lang: en-gb
 order: 15
 category-level: 0
-icon: globo
+icon: globe
 ---
 
-{{< fa "globo" size=3x >}}
+{{< fa "globe" size=3x >}}
 
-## Gustaríame engadir un novo logotipo para as etiquetas
+## I would like to add a new logo for labels
 
-Aquí está o proceso:
+Here is the process:
 
-- Atopar o **nome canónico** da etiqueta na [taxonomía das etiquetas](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (é o primeiro elemento na lista de sinónimos das etiquetas, por exemplo: en:100% vexetal)
+- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
 
-**Consigue un logotipo de boa calidade**: evita usar a foto do colaborador, que non é axeitada para este caso; a maioría das etiquetas teñen logotipos de alta calidade en sitios web oficiais, ás veces en formato vectorial (aínda mellor para nós); sempre que usemos un logotipo para informar obxectivamente sobre a presenza dunha etiqueta
-na embalaxe dun produto, non hai necesidade de pedir permiso.
------------------------------------------------------------------------------
+**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
+label on the packaging of a product, there is no need to ask permission.
+----------------------------------------------------------------------------------------
 
-**nomea o ficheiro así**: nome-da-etiqueta.[ancho]x90.png onde ancho é o ancho do logotipo cando ten 90 píxeles de alto. Os nomes dos ficheiros deben estar sen acento, en minúsculas e usando "-" en lugar de espazos.
+**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
 
-- despois engade o logotipo no directorio que corresponde ao seu nome canónico. Se o nome canónico é en:something, entón deben estar en /en/. O directorio raíz dos logotipos é [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## Como podo traducir Open Food Facts ao meu idioma?
-
-Vaia a [[https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## Como podo traducir estas preguntas frecuentes ao meu idioma?
+## How do I translate Open Food Facts to my language ?
 
-Solicite acceso para editar a base de coñecementos a contact@openfoodfacts.org.
+Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## How do I translate this FAQ to my language ?
+
+Please ask contact@openfoodfacts.org for edit access to the knowledge base.
 
 ---
 
