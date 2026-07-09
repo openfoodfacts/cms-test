@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Babagan skor"
-description: "3 pitakonan"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: garis grafik
+icon: chart-line
 ---
 
-{{< fa "garis grafik" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Sapa sing tanggung jawab ngetung jejak kaki lan/utawa skor?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score, grup NOVA, lan Eco-Score diitung adhedhasar data sing ana ing Open Food Facts. Algoritma kita kanthi ketat ngetutake metodologi resmi skor iki.
-
----
-
-## Apa bedane Eco-Score, Nutri-Score, lan grup NOVA?
-
-Ancas saka indikator-indikator iki yaiku kanggo menehi informasi sing gampang dingerteni dening konsumen.
-
-Grup [NOVA](https://fr.openfoodfacts.org/nova) ngrembug babagan transformasi produk, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) karo dampak lingkungan lan [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) karo unsur nutrisi, ngerti yen luwih akeh produk sing duwe skor cedhak karo A, luwih kualitatif produk kasebut.
-
-Skor 3 kasebut ora ngrembug unsur sing padha. Mulane, ora bisa dibandhingake karo siji liyane.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Apa produkku isa disimulasikake nganggo Eco-Score utawa Nutri-Score?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Kanthi ndhaftar ing platform produsen lan ngunggah data produk sampeyan, sampeyan bisa ngetung Nutri-Score lan Eco-Score sing ana gandhengane karo produk sampeyan.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Nanging, sampeyan kudu mbusak sawise simulasi ditindakake supaya ora diekspor menyang platform umum karo produk sing wis dipasarake ing kisaran sampeyan.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
