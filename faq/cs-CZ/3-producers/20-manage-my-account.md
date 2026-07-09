@@ -1,13 +1,13 @@
 ---
-title: "{{< fa user size=2x >}} Spravovat můj účet"
+title: "{{< fa user size=2x >}} Správa mého účtu"
 description: "3 otázky"
-lang: en-gb
+lang: cs
 order: 20
 category-level: 1
 icon: uživatel
 ---
 
-{{< fa "uživatel" size=3x >}}
+{{< fa "uživatel" size=3× >}}
 
 ## Lze propojit více účtů Open Food Facts s jednou společností?
 
@@ -17,7 +17,7 @@ Ano, prosím, napište e-mail na adresu [producers@openfoodfacts.org](mailto:sup
 
 ## Jak převedu svůj účet Open Food Facts na účet Pro?
 
-K platformě [Pro](https://world.pro.openfoodfacts.org/) se dostanete pomocí stávajících přihlašovacích údajů k účtu.
+K platformě [Pro](https://world.pro.openfoodfacts.org/) se dostanete pomocí přihlašovacích údajů k vašemu stávajícímu účtu.
 
 Pokud jste profesionál, budete muset použít svou profesionální e-mailovou adresu, abychom mohli ověřit váš účet.
 
