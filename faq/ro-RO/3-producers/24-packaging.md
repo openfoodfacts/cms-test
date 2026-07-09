@@ -1,49 +1,49 @@
 ---
-title: "{{< dimensiunea cubului fa=2x >}} Ambalaj"
-description: "3 întrebări"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: cub
+icon: cube
 ---
 
-{{< fa "cub" size="de 3 ori" >}}
+{{< fa "cube" size=3x >}}
 
-## Cum pot adăuga datele mele de ambalaj în Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Ca producător, cea mai eficientă modalitate de a adăuga date despre ambalaje la produsele dvs. este completarea în această [foaie de calcul Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) a informațiilor necesare, din coloana „AU”.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Pentru fiecare componentă a ambalajului, va trebui să introduceți:
+For each packaging component, you will need to enter:
 
-- Numărul de unități (ex: **4** cutii de iaurturi)
+- The number of units (ex: **4** pots of yogurts)
 
-- Forma (ex: **oală, capac, cutie etc.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materialul (ex: **PET, hârtie, sticlă etc.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Instrucțiunile de reciclare (ex: **a recicla, a arunca etc.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Greutatea unei unități goale (în gr)
+- The weight of one empty unit (in gr)
 
-- Cantitatea netă de produs conținută per unitate
+- The net quantity of product contained per unit
 
-Această foaie de calcul poate fi apoi importată în platforma noastră dedicată profesioniștilor.
-
----
-
-## Ce este proiectul „Combaterea ambalajelor alimentare”?
-
-Proiectul „Combaterea ambalajelor alimentare” constă în colectarea de informații detaliate despre ambalajele produselor cele mai consumate (formă, material, instrucțiuni de sortare, greutate, capacitate).
-
-Bazat pe o abordare științifică participativă, se va baza atât pe acordul companiilor de a-și partaja datele privind ambalajele și de a juca jocul transparenței, cât și pe permisiunea cetățenilor de a colecta informații despre produse. Aceste informații vor fi reutilizabile în mod liber („date deschise”).
-
-**Pentru mai multe informații:** [[https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Chiar și după încheierea proiectului „Tackling Food Packaging”, pot adăuga în continuare datele despre ambalajele mele?
+## What is the Tackling Food Packaging project?
 
-Chiar și după finalizarea proiectului, este posibilă adăugarea de date despre ambalare, deoarece câmpurile de ambalare vor rămâne pe site-ul nostru web.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
