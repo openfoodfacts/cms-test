@@ -1,10 +1,10 @@
 ---
-title: "{{< girman masana'antu=2x >}} Masu samarwa"
-description: "Ƙananan rukunoni 6"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: masana'antu
+icon: industry
 listing:
   contents:
     - "*.md"
@@ -12,10 +12,10 @@ listing:
     category-level: 1
   type: grid
   grid-columns: 4
-  sort: "oda"
-  fields: [ take, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "masana'antu" size=3x >}}
+{{< fa "industry" size=3x >}}
 
