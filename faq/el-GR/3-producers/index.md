@@ -1,21 +1,21 @@
 ---
-title: "{{< μέγεθος βιομηχανίας fa=2x >}} Παραγωγοί"
-description: "6 υποκατηγορίες"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: βιομηχανία
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: πλέγμα
+  type: grid
   grid-columns: 4
-  sort: "παραγγελία"
-  fields: [ τίτλος, περιγραφή ]
+  sort: "order"
+  fields: [ title, περιγραφή ]
   page-size: 100
 ---
 
-{{< fa "βιομηχανία" size=3x >}}
+{{< fa "industry" size=3x >}}
 
