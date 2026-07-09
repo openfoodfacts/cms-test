@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Domande su un prodotto"
-description: "1 domanda"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: carrello della spesa
+icon: shopping-basket
 ---
 
-{{< fa "carrello della spesa" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ho una domanda/reclamo su un prodotto
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) è un sito collaborativo creato e alimentato dai consumatori per poter decifrare le etichette e confrontare i prodotti.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Per maggiori informazioni su un prodotto o un reclamo, scrivere al produttore. Non abbiamo i recapiti dei produttori, ma nella maggior parte dei casi sono riportati sulla confezione.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Se vuoi aiutarci a garantire maggiore trasparenza ai consumatori come te o noi, puoi utilizzare la nostra app per iPhone o Android per aggiungere prodotti: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Per discutere del progetto, puoi unirti al gruppo Facebook dei collaboratori: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) oppure chattare con gli altri collaboratori su Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
