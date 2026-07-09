@@ -1,49 +1,49 @@
 ---
-title: "{{< cabbirka saddexjibbaaran = 2x >}} Baakad"
-description: "3 su'aalood"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: xabad
+icon: cube
 ---
 
-{{< fa "xabad" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Sideen xogta baakadeyda ugu dari karaa Xaqiiqooyinka Cuntada Furan?
+## How can I add my packaging data to Open Food Facts?
 
-Soo-saare ahaan, habka ugu waxtarka badan ee xogta baakadaha loogu daro alaabtaada waa adigoo buuxinaya [sheekada excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) macluumaadka lagama maarmaanka ah, laga bilaabo tiirka "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Qayb kasta oo baakad ah, waxaad u baahan doontaa inaad geliso:
+For each packaging component, you will need to enter:
 
-- Tirada cutubyada (tusaale ahaan: **4** dheriyo caano fadhi ah)
+- The number of units (ex: **4** pots of yogurts)
 
-- Qaabka (tusaale: **dheriga, daboolka, sanduuqa, iwm**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Agabka (tusaale ahaan: **PET, warqad, galaas, iwm**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Tilmaamaha dib-u-warshadaynta (tusaale ahaan: **dib-u-warshadaynta, tuurista, iwm.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Miisaanka hal cutub oo madhan (gr)
+- The weight of one empty unit (in gr)
 
-- Tirada saafiga ah ee badeecada ku jirta cutubkiiba
+- The net quantity of product contained per unit
 
-Xaashidan waxaa markaa loo soo gelin karaa goobtayada loogu talagalay xirfadlayaasha.
-
----
-
-## Waa maxay mashruuca Baakadaha Cuntada ee Tackling?
-
-Mashruuca "Wax ka qabashada Baakadaha Cuntada" wuxuu ka kooban yahay ururinta macluumaad faahfaahsan oo ku saabsan baakadaha alaabada ugu isticmaalka badan (qaabka, agabka, tilmaamaha kala soocidda, miisaanka, awoodda).
-
-Iyada oo ku saleysan hab cilmiyeed oo ka-qaybgal ah, waxay ku tiirsanaan doontaa shirkadaha oo ku heshiiya inay wadaagaan xogtooda baakadaha iyo inay ciyaaraan ciyaarta hufnaanta, iyo muwaadiniinta oo u oggolaanaya ururinta macluumaadka ku saabsan alaabada. Macluumaadkan si xor ah ayaa dib loo isticmaali karaa ("xog furan").
-
-**Macluumaad dheeraad ah:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Xitaa ka dib dhammaadka mashruuca Baakadaha Cuntada ee Tackling, weli ma ku dari karaa xogta baakadahayga?
+## What is the Tackling Food Packaging project?
 
-Xitaa ka dib dhammaadka mashruuca, waa suurtogal in lagu daro xogta baakadaha maadaama meelaha baakadaha lagu ridi doono ay ku sii jiri doonaan boggayaga internetka.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
