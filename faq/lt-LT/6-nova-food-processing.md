@@ -1,15 +1,15 @@
 ---
-title: "{{< fa kolbos dydis=2x >}} NOVA / Maisto perdirbimas"
-description: "1 klausimas"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: kolba
+icon: flask
 ---
 
-{{< fa "kolba" size="3 kartus" >}}
+{{< fa "flask" size=3x >}}
 
-## Kas yra NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
