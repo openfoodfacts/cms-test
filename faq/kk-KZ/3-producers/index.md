@@ -1,21 +1,21 @@
 ---
-title: "{{< fa индустриясының өлшемі=2x >}} Өндірушілер"
-description: "6 кіші санат"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: өнеркәсіп
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: тор
+  type: grid
   grid-columns: 4
-  sort: "тапсырыс"
-  fields: [ атау, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "өнеркәсіп" size=3x >}}
+{{< fa "industry" size=3x >}}
 
