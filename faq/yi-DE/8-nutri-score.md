@@ -1,31 +1,31 @@
 ---
-title: "{{< פֿאַ האַרץ־קלאַפּ גרייס=2x >}} נוטרי־סקאָר"
-description: "3 פֿראַגעס"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: האַרץ־קלאַפּ
+icon: heartbeat
 ---
 
-{{< fa "האַרץ־קלאַפּ" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## וואָס זאָל איך טאָן אויב דער נוטרי-סקאָר פֿון מײַנע פּראָדוקטן איז נישט ריכטיק?
+## What should I do if the Nutri-Score of my products is not correct?
 
-אין פאַל פון אַ פּראָבלעם מיט אייער נוטרי-סקאָר, קאָנטראָלירט אַז אייער אינפֿאָרמאַציע איז ריכטיק אויף דער "מאָדיפיצירן" קוויטל פון אייער פּראָדוקט בויגן. אויב עפעס אינפארמאציע פעלט אדער איז נישט ריכטיג, צווייפלט נישט צו קאנטאקטירן אונז ביי producers@openfoodfacts.org
-
----
-
-## וואָסערע אינפֿאָרמאַציע זאָל איך צושטעלן כּדי דער נוטרי-סקאָר זאָל אויסגערעכנט ווערן אַזוי גענוי ווי מעגלעך?
-
-די קאַלקולאַציע פון די נוטרי-סקאָר וועט געטאָן ווערן מיט דער נוטרישאַנאַל טאַבעלע פון דיין פּראָדוקט.
-
-פֿאַרגעסט נישט צו אַרײַננעמען דעם פּראָצענט פֿון פֿרוכטן, גרינסן און ניסלעך אין אײַער טאַבעלע, כּדי דער אויסגערעכנטער נוטרי-סקאָר זאָל נישט זײַן פֿאַלש.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## פון וואנעט קומט דער נוטרי-סקאָר?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-די Nutri-Score איז געראטן דורך Santé Publique France. עס סאַמערייזט די טאַבעלע פון ​​נוטרישאַנאַל ווערטן אַזוי אַז אַלעמען קען עס פֿאַרשטיין. די ציל איז צו צושטעלן צוטריט צו קלארע און פארשטענדלעכע דערנערונג אינפארמאציע פאר יעדן.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
