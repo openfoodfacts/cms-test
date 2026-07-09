@@ -1,23 +1,23 @@
 ---
-title: "{{< fa בוקמאַרק גרייס=2x >}} עטיקעטן"
-description: "2 פֿראַגעס"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: בוך-צייכן
+icon: bookmark
 ---
 
-{{< fa "בוך-צייכן" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## אלס א פירמע, איז עס וויכטיג צו שאַפֿן אַן אַקאַונט?
+## As a label, is it important to create an account ?
 
-אלס א פירמע, ווייל איר זענט נישט דער דירעקטער פראדוצירער פון די פראדוקטן, דארפט איר נישט שאפן א פראדוצירער'ס אקאונט.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## איך בין אַ פירמע, ווי קען איך זיך באַטייליקן אין דעם פּראָיעקט?
+## I am a label, how can I participate in the project?
 
-אלס אן עטיקעט, איז די מערסט וויכטיגע זאך צו טון איז אונז צו קאנטאקטירן **(producers@openfoodfacts.org)** און אונז שיקן די ליסטע פון די פראדוקטן אויף וועלכע אייער עטיקעט ווערט געוויזן, אזוי אז מיר קענען זיי צולייגן צו די פארבינדענע פראדוקט בלעטער.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
