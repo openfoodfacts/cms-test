@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} អ្នកផលិត"
-description: "ប្រភេទរងចំនួន ៦"
-lang: អង់គ្លេស-ជីកាបៃ
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: ឧស្សាហកម្ម
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ក្រឡាចត្រង្គ
+  type: grid
   grid-columns: 4
-  sort: "លំដាប់"
-  fields: [ ចំណងជើង, description ]
-  page-size: ១០០
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "ឧស្សាហកម្ម" size=៣ដង >}}
+{{< fa "industry" size=3x >}}
 
