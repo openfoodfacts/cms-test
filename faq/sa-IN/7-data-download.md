@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} आँकडा अवतरणं"
-description: "१ प्रश्नः"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: मेघ-अवलोकनम्
+icon: cloud-download
 ---
 
-{{< fa "मेघ-अवलोकनम्" size=३x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## विशिष्टदेशस्य दत्तांशः कुतः प्राप्तुं शक्यते ?
+## Where to get the data for a specific country?
 
-सम्प्रति विशिष्टदेशेभ्यः समर्पिताः निर्याताः न सन्ति ।
+Currently, there are no exports dedicated to specific countries.
 
-अस्माकं भिन्ननिर्यातानां उपयोगेन विभिन्नैः साधनैः सह मिलित्वा विशिष्टदेशसम्बद्धदत्तांशस्य चयनस्य अनेकाः उपायाः सन्ति ।
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-भवान् [अस्माकं विकि-मध्ये एतानि कानिचन युक्तयः](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) अवलोकयितुं शक्नोति ।
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
