@@ -1,45 +1,45 @@
 ---
-title: "{{< fa user size=2x >}} アカウントを管理する"
-description: "3つの質問"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
 icon: ユーザー
 ---
 
-{{< fa "ユーザー" size=3倍 >}}
+{{< fa "ユーザー" size=3x >}}
 
-## 複数の Open Food Facts アカウントを 1 つの会社にリンクできますか?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-はい、すべてのアカウントを同じ会社にリンクできるように、[producers@openfoodfacts.org](mailto:support@openfoodfacts.org) にメールを送信してください。
-
----
-
-## Open Food Facts アカウントを Pro アカウントに変換するにはどうすればいいですか?
-
-既存のアカウントの資格情報を使用して、[Pro プラットフォーム](https://world.pro.openfoodfacts.org/) にアクセスできます。
-
-プロフェッショナルの場合、アカウントを検証できるようにプロフェッショナルのメール アドレスを使用する必要があります。
-
-→ 詳細については、[ユーザーガイド](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)をダウンロードするか、[ビデオチュートリアル](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)を参照してください:-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Pro プラットフォームの使用に役立つドキュメントはどこで見つかりますか?
+## How to convert my Open Food Facts account into a Pro account?
 
-Pro プラットフォームを最大限に活用するのに役立つリソースがいくつかあります。
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-以下のことを歓迎します:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- [ユーザー ガイド](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) を確認してください。リンクがクリック可能になり、ドキュメント内のナビゲーションが容易になるため、PDF をダウンロードすることをお勧めします。
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- [ビデオチュートリアル](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)を参照してください
+---
 
-- [このフォーム](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)からフィードバックや提案を共有してください
+## Where can I find documentation to help me use the Pro platform?
 
-- さらに質問がある場合は、パートナーシップ マネージャーの Manon との電話をスケジュールしてください: [こちら](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- メールでお問い合わせください: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
