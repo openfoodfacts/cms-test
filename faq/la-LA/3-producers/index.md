@@ -1,21 +1,21 @@
 ---
-title: "{{< magnitudo industriae fa=2x >}} Productores"
-description: "Sex subcategoriae"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industria
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: reticulum
+  type: grid
   grid-columns: 4
-  sort: "ordo"
-  fields: [ titulus, description ]
-  page-size: centum
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "industria" size=Ter >}}
+{{< fa "industry" size=3x >}}
 
