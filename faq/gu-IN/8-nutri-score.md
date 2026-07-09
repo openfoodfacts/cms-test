@@ -1,31 +1,31 @@
 ---
-title: "{{< fa હૃદયના ધબકારાના કદ=2x >}} ન્યુટ્રી-સ્કોર"
-description: "૩ પ્રશ્નો"
-lang: eng-gb
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: ધબકારા
+icon: heartbeat
 ---
 
-{{< fa "ધબકારા" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## જો મારા ઉત્પાદનોનો ન્યુટ્રી-સ્કોર યોગ્ય ન હોય તો મારે શું કરવું જોઈએ?
+## What should I do if the Nutri-Score of my products is not correct?
 
-તમારા ન્યુટ્રી-સ્કોરમાં કોઈ સમસ્યા હોય તો, તમારી પ્રોડક્ટ શીટના "મોડિફાઇ" ટેબ પર તપાસો કે તમારી માહિતી સાચી છે. જો કોઈ માહિતી ખૂટે છે કે ખોટી છે, તો અમારો સંપર્ક કરવામાં અચકાશો નહીં \*\* producers@openfoodfacts.org\*\*
-
----
-
-## ન્યુટ્રી-સ્કોરની ગણતરી શક્ય તેટલી સચોટ રીતે થાય તે માટે મારે કયા પ્રકારની માહિતી આપવી જોઈએ?
-
-ન્યુટ્રી-સ્કોરની ગણતરી તમારા ઉત્પાદનના પોષણ કોષ્ટક સાથે કરવામાં આવશે.
-
-તમારા ટેબલમાં ફળો, શાકભાજી અને બદામની ટકાવારી શામેલ કરવાનું ભૂલશો નહીં, જેથી ગણતરી કરેલ ન્યુટ્રી-સ્કોર ખોટો ન હોય.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## ન્યુટ્રી-સ્કોર ક્યાંથી આવે છે?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-ન્યુટ્રી-સ્કોરનું સંચાલન સાન્ટે પબ્લિક ફ્રાન્સ દ્વારા કરવામાં આવે છે. તે પોષક મૂલ્યોના કોષ્ટકનો સારાંશ આપે છે જેથી દરેક વ્યક્તિ તેને સમજી શકે. ધ્યેય દરેક માટે સ્પષ્ટ અને સમજી શકાય તેવી પોષણ માહિતીની ઍક્સેસ પ્રદાન કરવાનો છે.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
