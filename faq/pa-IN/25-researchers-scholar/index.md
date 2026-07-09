@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} ਖੋਜਕਰਤਾ/ਵਿਦਵਾਨ"
-description: "1 ਉਪ-ਸ਼੍ਰੇਣੀ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: ਗ੍ਰੈਜੂਏਸ਼ਨ-ਕੈਪ
+icon: graduation-cap
 listing:
   contents:
-    - "*.ਐਮਡੀ"
+    - "*.md"
   include:
     category-level: 1
-  type: ਗਰਿੱਡ
+  type: grid
   grid-columns: 4
-  sort: "ਆਰਡਰ"
-  fields: [ ਸਿਰਲੇਖ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ਗ੍ਰੈਜੂਏਸ਼ਨ-ਕੈਪ" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
