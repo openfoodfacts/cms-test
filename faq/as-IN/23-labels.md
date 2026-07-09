@@ -1,23 +1,23 @@
 ---
-title: "{{< fa বুকমাৰ্ক আকাৰ=2x >}} লেবেলসমূহ"
-description: "২ টা প্ৰশ্ন"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: ২৩
+order: 23
 category-level: 0
-icon: বুকমাৰ্ক
+icon: bookmark
 ---
 
-{{< fa "বুকমাৰ্ক" size=৩x >}}
+{{< fa "bookmark" size=3x >}}
 
-## লেবেল হিচাপে, এটা একাউণ্ট সৃষ্টি কৰাটো গুৰুত্বপূৰ্ণ নেকি ?
+## As a label, is it important to create an account ?
 
-লেবেল হিচাপে যিহেতু আপুনি সামগ্ৰীসমূহৰ প্ৰত্যক্ষ উৎপাদক নহয়, সেয়েহে আপুনি উৎপাদকৰ একাউণ্ট সৃষ্টি কৰাৰ প্ৰয়োজন নাই।
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## মই এটা লেবেল, মই কেনেকৈ প্ৰজেক্টত অংশগ্ৰহণ কৰিব পাৰো?
+## I am a label, how can I participate in the project?
 
-লেবেল হিচাপে আটাইতকৈ প্ৰাসংগিক কামটো হ'ল আমাৰ সৈতে যোগাযোগ কৰা **(producers@openfoodfacts.org)** আৰু আপোনাৰ লেবেল প্ৰদৰ্শিত হোৱা সামগ্ৰীসমূহৰ তালিকা আমালৈ প্ৰেৰণ কৰা যাতে আমি সেইবোৰ সম্পৰ্কীয় সামগ্ৰীৰ পত্ৰিকাত যোগ কৰিব পাৰো।
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
