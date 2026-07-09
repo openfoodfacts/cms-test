@@ -1,23 +1,23 @@
 ---
-title: "{{< gwosè makè paj fa=2x >}} Etikèt"
-description: "2 kesyon"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: makè paj
+icon: bookmark
 ---
 
-{{< fa "makè paj" size="3 fwa" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Kòm yon etikèt, èske li enpòtan pou kreye yon kont?
+## As a label, is it important to create an account ?
 
-Antanke yon etikèt, piske ou pa pwodiktè dirèk pwodwi yo, ou pa bezwen kreye yon kont pwodiktè.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Mwen se yon label, kijan mwen ka patisipe nan pwojè a?
+## I am a label, how can I participate in the project?
 
-Kòm yon etikèt, bagay ki pi enpòtan pou fè se kontakte nou **(producers@openfoodfacts.org)** epi voye nou lis pwodwi kote etikèt ou a parèt pou nou ka ajoute yo sou fèy pwodwi ki gen rapò yo.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
