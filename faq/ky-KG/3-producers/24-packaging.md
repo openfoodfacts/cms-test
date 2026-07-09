@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Таңгактоо"
-description: "3 суроо"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: куб
+icon: cube
 ---
 
-{{< fa "куб" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Open Food Facts маалыматына таңгактоо маалыматтарымды кантип кошо алам?
+## How can I add my packaging data to Open Food Facts?
 
-Өндүрүүчү катары, өнүмдөрүңүзгө таңгактоо маалыматтарын кошуунун эң натыйжалуу жолу - бул [excel электрондук жадыбалына](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) "AU" тилкесинен керектүү маалыматты толтуруу.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Ар бир таңгактоочу компонент үчүн сиз төмөнкүлөрдү киргизишиңиз керек:
+For each packaging component, you will need to enter:
 
-- Бирдиктердин саны (мисалы: **4** идиш йогурт)
+- The number of units (ex: **4** pots of yogurts)
 
-- Формасы (мисалы: **идиш, капкак, куту ж.б.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Материал (мисалы: **ПЭТ, кагаз, айнек ж.б.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Кайра иштетүү боюнча нускама (мисалы: **кайра иштетүүгө, таштандыга ыргытууга ж.б.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Бир бош бирдиктин салмагы (гр менен)
+- The weight of one empty unit (in gr)
 
-- Бир бирдикке кирген продукциянын таза көлөмү
+- The net quantity of product contained per unit
 
-Андан кийин бул электрондук жадыбалды адистерге арналган платформабызга импорттоого болот.
-
----
-
-## "Тамак-аш таңгактоо маселесин чечүү" долбоору деген эмне?
-
-"Азык-түлүк таңгактоо маселесин чечүү" долбоору эң көп керектелүүчү азыктардын таңгагы (формасы, материалы, сорттоо боюнча көрсөтмөлөрү, салмагы, сыйымдуулугу) боюнча толук маалымат чогултуудан турат.
-
-Илимий катышуу ыкмасына таянып, ал компаниялардын таңгактоо маалыматтарын бөлүшүүгө жана ачык-айкындуулук оюнун ойноого макулдугуна, ошондой эле жарандардын продукциялар жөнүндө маалымат чогултууга уруксат беришине таянат. Бул маалымат эркин кайра колдонууга болот ("ачык маалыматтар").
-
-**Көбүрөөк маалымат алуу үчүн:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Тамак-аш таңгактоо долбоору аяктагандан кийин дагы, мен таңгактоо маалыматтарымды кошо аламбы?
+## What is the Tackling Food Packaging project?
 
-Долбоор аяктагандан кийин да, таңгактоо талаалары биздин веб-сайтта кала бергендиктен, таңгактоо маалыматтарын кошууга болот.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
