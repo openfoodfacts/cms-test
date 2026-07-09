@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Pwojè lekòl yo"
-description: "2 kesyon"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: dosye-o
+icon: file-o
 ---
 
-{{< fa "dosye-o" size="3 fwa" >}}
+{{< fa "file-o" size=3x >}}
 
-## Mwen gen yon pwojè lekòl pou m fè, mwen vle itilize done Open Food Facts yo, èske m ka fè sa?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts se yon baz done ouvè, yon pwojè ouvè k ap opere anba yon lisans ODbL, kidonk osi lontan ke ou dakò ak egzijans lisans ODbL la, ou lib pou reitilize done nou yo pou pwojè ou yo :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Kijan mwen ka jwenn aksè a/kolekte done pou pwojè mwen yo?
+## How can I access/collect data for my projects ?
 
-Sou paj prensipal Open Food Facts la, nan kwen anwo gòch ekran an, gen yon meni defile. Anba paj la, w ap jwenn opsyon "rechèch avanse" a, ou ka klike sou li. Apre sa, se ou menm ki pou detèmine ki kritè ki pi enpòtan pou pwojè ou yo. Yon fwa ou fin chwazi li, ou ka telechaje rezilta yo lè w desann nan pati anba paj la epi klike sou "Telechaje rezilta yo".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
