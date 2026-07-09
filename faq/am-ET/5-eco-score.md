@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} ኢኮ-Score"
-description: "5 ጥያቄዎች"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: ተጠቃሚ-ፕላስ
+icon: user-plus
 ---
 
-{{< fa "ተጠቃሚ-ፕላስ" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## የኢኮ-ውጤት ዘዴ ምንድነው?
+## What is the Eco-Score methodology?
 
-የኢኮ-ስኬር የተመሰረተው በADEME (የሥነ-ምህዳር ሽግግር ኤጀንሲ) እና INRAE (የግብርና ምርምር ብሔራዊ ተቋም) በተዘጋጁት የህይወት ዑደት ትንተና ስሌት ላይ ነው። የPEF ውጤት ለመፍጠር ወደ አስራ አምስት የሚጠጉ ክፍሎች ተሰልተው ተገናኝተዋል።
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-ለዚህ የPEF ነጥብ ተጨማሪ ጉርሻዎች እና ተንኮልዎች (የምርት ሁኔታ፣ የመነሻው) ተጨምረዋል።
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-የኢኮ-ነጥብ ውጤትን ለማስላት ግብዓቶች፣ ለአደጋ የተጋለጡ ዝርያዎች፣ ማሸጊያዎች)።
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-ለተጨማሪ መረጃ፣ የማጠቃለያ ገጹን [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) በክፍት የምግብ እውነታዎች ላይ እንዲሁም በኢኮ-ስኮር ኮንሰርቴሽን ድህረ ገጽ ላይ ይመልከቱ። (የኢኮ-ውጤት አቀራረብ [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## የኢኮ-ውጤት በተቻለ መጠን በትክክል እንዲሰላ ምን አይነት መረጃ መሰጠት አለበት?
-
-የኢኮ-ስኬር በትክክል እንዲሰላ፣ የእያንዳንዱ ንጥረ ነገር መቶኛ እና አመጣጡ መገለጽ አለበት።
-
-ይህ መረጃ አስቀድሞ በንጥረ ነገሮች ዝርዝር ውስጥ ካልተገለጸ፣ በሚከተለው ቅርጸት ለመጥቀስ አምድ ማከል ይችላሉ፡
-
-የስንዴ ዱቄት 16% (ፈረንሳይ)
-
-ቸኮሌት 8% (አይቮሪ ኮስት፣ ኢኳዶር)
-
-የማሸጊያው ክፍሎችም የሚከተሉትን ያካትታሉ፡ 1 የፕላስቲክ ፊልም ለመጣል፣ 1 የFSC ካርቶን ሳጥን ለዳግም ጥቅም ላይ ለማዋል፣ 6 የPET ግልጽ የፕላስቲክ ጠርሙሶች ለዳግም ጥቅም ላይ ለማዋል፣ 6 ግልጽ ያልሆኑ የፕላስቲክ ክዳኖች፣ 12 የፕላስቲክ ጣሳዎች 33 ክሎር አሉሚኒየም።
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## የ15ቱ አመልካቾች እሴቶች እንዴት ይጣመራሉ?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**የPEF ስርዓቱን በተሻለ ለመረዳት የሚከተሉትን ማንበብ ይችላሉ፡- የPEF ውጤት ማብራሪያ በኢኮ-ስኮር ዘዴ ጣቢያ ላይ**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## የአካባቢው ገጽታ የጥሬ ዕቃዎቹ የሚመረቱበትን ቦታ ወይም የማምረቻ ቦታን ይመለከታል?
+## How are the values ​​of the 15 indicators combined?
 
-**የአካባቢው ገጽታ የጥሬ ዕቃዎቹን አመጣጥ ይመለከታል። ለዚህም ነው መቶኛዎቻቸውን እንዲሁም ምንጫቸውን በምርት ግብዓቶች ዝርዝር ውስጥ ወይም ለግብዓቶች አመጣጥ በተዘጋጀው መስክ ውስጥ ማስገባት አስፈላጊ የሆነው።**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ለኢኮ-ስኬር የንጥረ ነገሮች አመጣጥ እንዴት ማስገባት እንደሚቻል?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-በወረቀቶችዎ ላይ ስለ ጥሬ እቃዎቹ አመጣጥ መረጃ ለማካፈል ከፈለጉ፣ በግብዓቶች ዝርዝር ውስጥ እንዲያካትቱ እንጋብዝዎታለን።
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
