@@ -1,21 +1,21 @@
 ---
-title: "{{< fa bogolo jwa go laisolola ga maru=2x >}} Laisolola tshedimosetso"
-description: "potso e le 1"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: laisolola kwa marung
+icon: cloud-download
 ---
 
-{{< fa "laisolola kwa marung" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## O ka bona kae tshedimosetso ya naga e e rileng?
+## Where to get the data for a specific country?
 
-Ga jaana, ga go na diromelwantle tse di diretsweng dinaga tse di rileng.
+Currently, there are no exports dedicated to specific countries.
 
-Ho na le ditsela tse ngata tsa ho sebedisa diromelwantle tsa rona tse fapaneng tse kopantsweng le disebediswa tse fapaneng ho kgetha data e amanang le naha e itseng.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-O ka leba [dingwe tsa dithekeniki tseno mo wiki ya rona](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
