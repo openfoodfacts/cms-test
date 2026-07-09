@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Câu hỏi thường gặp - Tiếng Anh"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: lưới
+  type: grid
   grid-columns: 4
-  sort: "đặt hàng"
-  fields: [ tiêu đề, sự miêu tả ]
+  sort: "order"
+  fields: [ title, sự miêu tả ]
   page-size: 100
 
 # << DO NOT TRANSLATE
