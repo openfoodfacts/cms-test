@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Maiz egiten diren galderak - Ingelesa"
-lang: "eu-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: sareta
+  type: grid
   grid-columns: 4
-  sort: "eskaera"
-  fields: [ titulua, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
