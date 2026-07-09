@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Tentang Open Food Facts"
-description: "4 pertanyaan"
-lang: bahasa Inggris
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: lingkaran informasi
+icon: info-circle
 ---
 
-{{< fa "lingkaran informasi" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Jenis informasi apa yang sebaiknya dibagikan?
+## What type of information should be shared?
 
-Segala informasi yang Anda miliki sangat kami hargai, mulai dari informasi nutrisi hingga informasi kemasan.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Hal ini memungkinkan untuk membuat berkas yang lengkap, menghitung semua skor dengan tepat, dan secara umum memberikan transparansi yang dihargai oleh konsumen.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Namun, kami menyarankan Anda untuk memprioritaskan bidang-bidang berikut:
+However we do recommend you prioritize the following fields:
 
-- Informasi nutrisi
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kategori produk (misalnya minuman, keju, yogurt, dll.)
-
-- Nama produk
-
-- Alergen
-
-- dan bahan-bahannya, kolom ini tidak wajib tetapi disarankan untuk penggunaan optimal dan penentuan skor.
-
-→ Untuk detail lebih lanjut, kami mengundang Anda untuk mengunduh [panduan pengguna](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) dan/atau melihat [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Bisakah saya mengunduh data Open Food Facts?
+## Can I download Open Food Facts data?
 
-Anda dapat mengunduh semua data yang tersedia di Open Food Facts. Hati-hati, ini membutuhkan banyak ruang disk, komputer yang mumpuni jika Anda ingin menggunakan spreadsheet, atau pengetahuan tentang R atau Python jika tidak.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Anda juga dapat mengunduh sebagian data (misalnya merek Anda) berkat pencarian lanjutan.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Untuk detail lebih lanjut, kami mengundang Anda untuk mengunduh [panduan pengguna](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) dan/atau melihat [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Apakah akses ke platform Pro dan impor data gratis?
-
-Tentu saja, dan akan selamanya.Semua layanan yang disediakan oleh Open Food Facts tidak dipungut biaya.  
-Kami sangat senang Anda telah memutuskan untuk menyumbangkan data produk Anda untuk transparansi pangan, dan kami berterima kasih atas hal ini.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Saya ingin menyarankan perbaikan untuk platform profesional, bagaimana caranya?
+## Is access to the Pro platform and the import of data free?
 
-Terima kasih atas kesediaan Anda untuk berpartisipasi dalam transparansi pangan!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Cara terbaik untuk memberikan masukan adalah dengan mengisi [formulir ini](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Anda juga dapat menghubungi kami untuk memberikan saran melalui [forum kami](https://forum.openfoodfacts.org/) atau melalui [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Gabung ke Slack kami dan masuk ke saluran #producers untuk menghubungi kami.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
