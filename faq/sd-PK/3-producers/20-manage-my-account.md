@@ -1,7 +1,7 @@
 ---
-title: "{{< fa user size=2x >}} منهنجو اڪائونٽ منظم ڪريو"
-description: "3 سوال"
-lang: اين جي بي
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
+lang: en-gb
 order: 20
 category-level: 1
 icon: user
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## ڇا هڪ ئي ڪمپني سان ڪيترائي اوپن فوڊ فيڪٽس اڪائونٽس لنڪ ڪري سگهجن ٿا؟
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-ها، مهرباني ڪري [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) تي اي ميل ڪريو، ته جيئن اسان سڀني اڪائونٽس کي ساڳئي ڪمپني سان ڳنڍي سگهون.
-
----
-
-## منهنجي اوپن فوڊ فيڪٽس اڪائونٽ کي پرو اڪائونٽ ۾ ڪيئن بدلجي؟
-
-توهان پنهنجي موجوده اڪائونٽ جي سند سان [پرو پليٽ فارم](https://world.pro.openfoodfacts.org/) تائين رسائي حاصل ڪري سگهو ٿا.
-
-جيڪڏهن توهان پيشه ور آهيو، ته توهان کي پنهنجو پيشه ور اي ميل پتو استعمال ڪرڻو پوندو ته جيئن اسان توهان جي اڪائونٽ جي تصديق ڪري سگهون.
-
-→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي [صارف گائيڊ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ڊائون لوڊ ڪرڻ جي دعوت ڏيون ٿا ۽/يا اسان جي [وڊيو سبق](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) سان صلاح ڪريو :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## مون کي پرو پليٽ فارم استعمال ڪرڻ ۾ مدد لاءِ دستاويز ڪٿان ملندا؟
+## How to convert my Open Food Facts account into a Pro account?
 
-پرو پليٽ فارم مان وڌ کان وڌ فائدو حاصل ڪرڻ ۾ توهان جي مدد لاءِ ڪجھ وسيلا آهن.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-توهان کي ڀليڪار آهي:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- اسان جي [صارف گائيڊ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) چيڪ ڪريو - اسان توهان کي PDF ڊائون لوڊ ڪرڻ جي دعوت ڏيون ٿا ته جيئن لنڪ ڪلڪ ڪري سگهجن، جيڪو دستاويز ذريعي توهان جي نيويگيشن کي آسان بڻائيندو.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- اسان جي [وڊيو سبق] سان صلاح ڪريو (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- [هن فارم] ذريعي راءِ يا تجويزون شيئر ڪريو (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- جيڪڏهن توهان وٽ وڌيڪ سوال آهن ته اسان جي پارٽنرشپ مئنيجر، مينون سان ڪال شيڊول ڪريو: [هتي](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- اسان سان اي ميل ذريعي رابطو ڪريو: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
