@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} સંશોધકો/વિદ્વાન"
-description: "1 ઉપશ્રેણી"
-lang: eng-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: ગ્રેજ્યુએશન-ટોપી
+icon: graduation-cap
 listing:
   contents:
-    - "*.એમડી"
+    - "*.md"
   include:
     category-level: 1
-  type: ગ્રીડ
+  type: grid
   grid-columns: 4
-  sort: "ઓર્ડર"
-  fields: [ શીર્ષક, description ]
-  page-size: ૧૦૦
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "ગ્રેજ્યુએશન-ટોપી" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
