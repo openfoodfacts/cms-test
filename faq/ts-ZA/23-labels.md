@@ -1,23 +1,23 @@
 ---
-title: "{{< fa sayizi ya bukumaka=2x >}} Tilebhele"
-description: "2 swivutiso"
-lang: ts-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: buku-mfungho
+icon: bookmark
 ---
 
-{{< fa "buku-mfungho" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Tanihi lebula, xana i swa nkoka ku endla akhawunti ?
+## As a label, is it important to create an account ?
 
-Tanihi lebula, tani hileswi unga riki muhumelerisi wo kongoma wa switirhisiwa, aswi bohi leswaku u endla akhawunti ya muhumelerisi.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ndzi lebula, ndzi nga nghenelela njhani eka phurojeke?
+## I am a label, how can I participate in the project?
 
-Tanihi lebula nchumu lowu faneleke swinene ku wu endla i ku tihlanganisa na hina **(producers@openfoodfacts.org)** no hi rhumela nxaxamelo wa switirhisiwa leswi lebula ya wena yi kombisiweke eka swona leswaku hi ta kota ku swi engetela eka maphepha ya swikumiwa leswi fambelanaka.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
