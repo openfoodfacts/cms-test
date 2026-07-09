@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Mō Ngā Mea Tūturu mō te Kai Tuwhera"
-description: "4 ngā pātai"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: porowhita-mōhiohio
+icon: info-circle
 ---
 
-{{< fa "porowhita-mōhiohio" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## He aha te momo mōhiohio e tika ana kia tohaina?
+## What type of information should be shared?
 
-Nau mai haere mai ki ngā mōhiohio katoa kei a koe, mai i ngā mōhiohio kai tae atu ki ngā mōhiohio mō te takai.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Mā tēnei ka taea te whakatū i tētahi kōnae katoa, te tatau i ngā kaute katoa me te tika, ā, i te nuinga o te wā, ka taea te whakaatu i tētahi māramatanga e maiohahia ana e ngā kaihoko.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Heoi, ka tūtohu mātou kia whakarite koe i ngā āpure e whai ake nei hei kaupapa matua:
+However we do recommend you prioritize the following fields:
 
-- Ngā mōhiohio kai
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kāwai hua (hei tauira, inu, tiihi, miraka kawa, me ētahi atu)
-
-- Ingoa o te hua
-
-- Ngā mate pāwera
-
-- me ngā kai, ehara tēnei āpure i te mea whakahau engari e taunakihia ana mō te whakamahinga tino pai me te whakatau i ngā kaute
-
-→ Mō ētahi atu kōrero, ka tono atu mātou kia tikiake koe i tā mātou [aratohu kaiwhakamahi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) me/ranei tirohia ā mātou [akoranga ataata](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ka taea e au te tango i ngā raraunga o Open Food Facts?
+## Can I download Open Food Facts data?
 
-Ka taea e koe te tango i ngā raraunga katoa e wātea ana i runga i te Open Food Facts. Kia tūpato, he nui te wāhi kōpae e hiahiatia ana mō tēnei, me tētahi rorohiko kaha anō hoki mēnā kei te hiahia koe ki te whakamahi i tētahi ripanga tātai, i te mōhiotanga rānei ki a R, ki a Python rānei.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Ka taea hoki e koe te tango i tētahi huinga raraunga (tō waitohu hei tauira) nā te rapu matatau.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Mō ētahi atu kōrero, ka tono atu mātou kia tikiake koe i tā mātou [aratohu kaiwhakamahi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) me/ranei tirohia ā mātou [akoranga ataata](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## He kore utu te urunga atu ki te tūāpapa Pro me te kawemai raraunga?
-
-Ae ra, ā, ake tonu atu.Kāore he utu mō ngā ratonga katoa e tukuna ana e Open Food Facts.  
-Nui atu tō mātou hari kua whakatau koe ki te tuku mai i ō raraunga hua hei tautoko i te māramatanga o te kai, ā, ka mihi nui ki a koe mō tēnei.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kei te hiahia ahau ki te whakaaro i ētahi whakapainga mō te tūāpapa ngaio, me pēhea taku mahi i tēnā?
+## Is access to the Pro platform and the import of data free?
 
-Ngā mihi nui ki a koutou mō tō koutou hiahia ki te whai wāhi mai ki te kaupapa o te māramatanga kai!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ko te huarahi pai ki te whakapuaki urupare ko te whakakī i [tēnei puka](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Ka taea hoki e koe te whakapā mai ki a mātou ki te tuku whakaaro mā [tā mātou huinga kōrero](https://forum.openfoodfacts.org/) mā [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Hono mai ki tō mātou Slack ka tomo ki te hongere #producers hei whakapā mai ki a mātou.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
