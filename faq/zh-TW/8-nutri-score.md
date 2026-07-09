@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartbeat size=2x >}} 營養評分"
-description: "3個問題"
-lang: 英語-英國
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: 心跳
+icon: heartbeat
 ---
 
-{{< fa "心跳" size=3倍 >}}
+{{< fa "heartbeat" size=3x >}}
 
-## 如果我的產品營養評分不正確，我該怎麼辦？
+## What should I do if the Nutri-Score of my products is not correct?
 
-如果您的營養評分出現問題，請在產品說明書的「修改」標籤上檢查您的資訊是否正確。 如果任何資訊缺失或錯誤，請隨時透過 producer@openfoodfacts.org 與我們聯繫。
-
----
-
-## 我應該提供哪些類型的信息才能盡可能準確地計算營養評分？
-
-營養評分的計算將使用您產品的營養成分錶。
-
-別忘了在表格中註明水果、蔬菜和堅果的百分比，以免計算出的營養評分出現錯誤。
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## 營養評分是怎麼來的？
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score 由法國 Santé Publique 管理。 它匯總了營養成分錶，以便每個人都能看懂。 我們的目標是讓每個人都能獲得清晰易懂的營養資訊。
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
