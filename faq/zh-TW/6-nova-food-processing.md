@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / 食品加工"
-description: "1 個問題"
-lang: 英語-英國
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: 燒瓶
+icon: flask
 ---
 
-{{< fa "燒瓶" size=3倍 >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA是什麼？
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
