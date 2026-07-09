@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "คำถามที่พบบ่อย - ภาษาอังกฤษ"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/ดัชนี.ม."
+    - "*/index.md"
   include:
     category-level: 0
-  type: ตาราง
+  type: grid
   grid-columns: 4
-  sort: "คำสั่ง"
-  fields: [ ชื่อ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
