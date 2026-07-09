@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} นักวิจัย/นักวิชาการ"
-description: "1 หมวดหมู่ย่อย"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: หมวกรับปริญญา
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ตาราง
+  type: grid
   grid-columns: 4
-  sort: "คำสั่ง"
-  fields: [ ชื่อ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "หมวกรับปริญญา" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
