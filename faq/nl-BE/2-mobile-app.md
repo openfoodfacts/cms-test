@@ -1,7 +1,7 @@
 ---
 title: "{{< fa mobile size=2x >}} Mobiele app"
 description: "4 vragen"
-lang: en-gb
+lang: nl-nl
 order: 2
 category-level: 0
 icon: mobiel
@@ -11,12 +11,11 @@ icon: mobiel
 
 ## Hoe weet ik welke versie van de app ik gebruik?
 
-Ga naar **Profiel**,
-, vervolgens naar **FAQ** en daarna naar **Over deze app.**
+Ga naar Profiel,
+, vervolgens naar Veelgestelde vragen en daarna naar Over deze app.
 
 U zou
-een versienummer zoals 3.4.5+662 moeten zien. Vergeet niet het merk en model
-van de telefoon door te geven als je aan het debuggen bent.
+een versienummer zoals 3.4.5+662 moeten zien. Vergeet niet het merk en model\nvan de telefoon door te geven als je aan het debuggen bent.
 
 ---
 
@@ -40,7 +39,7 @@ Alle relevante informatie dient bij uw aanvraag te worden gevoegd.
 
 Hoe kan ik helpen bij het verbeteren van de mobiele app?
 
-U kunt [dit doen op de Mobiele app repository](https://github.com/openfoodfacts/smooth-app)
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
 
 ---
 
