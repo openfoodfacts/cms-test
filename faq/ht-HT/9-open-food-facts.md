@@ -1,33 +1,33 @@
 ---
-title: "{{< kesyon fa gwosè sèk=2x >}} Enfòmasyon Ouvè sou Manje"
-description: "9 kesyon"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: sèk kesyon
+icon: question-circle
 ---
 
-{{< fa "sèk kesyon" size="3 fwa" >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Nan prèske tout ka, kondisyon sèvis yo entèdi eksplisitman nenpòt itilizasyon ki pa pèsonèl ak nenpòt ekstraksyon tout done yo oswa pati nan done yo.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Kidonk, lè nou te kòmanse pwojè Open Food Facts la ak aplikasyon mobil lan, an 2012, nou te deside fè egzakteman opoze a: non sèlman nou pèmèt itilizasyon ak reyitilizasyon baz done nou an, lib e san frè, pou tout moun e pou tout itilizasyon (ki gen ladan komèsyal), men nou ankouraje li tou!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Lè nou rann done yo disponib pou piblik la (sa yo rele _done ouvè_), sa pèmèt moun, asosyasyon, konpayi, chèchè elatriye toupatou nan mond lan panse epi devlope aplikasyon pou done yo ke nou sètènman pa t ap janm panse.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (gade [Kondisyon pou reyitilize](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Tout moun (ki gen ladan men pa limite a kontribitè ak kreyatè Open Food Facts) ka konsa redistribye ak/oswa reitilize done yo pou konstwi sit entènèt, sèvis, lojisyèl, aplikasyon mobil, oswa pou ekri atik ak etid. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Pa egzanp, Platfòm nou an pou Pwodiktè yo totalman gratis, epi nou pi kontan toujou ak sa paske nou panse li ta ka ede yo amelyore pwodwi yo.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,78 +41,79 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Ou ka poze kesyon oswa fè sijesyon sou fowòm nan oswa kontakte nou pa imèl: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Si ou se yon pwodiktè, tanpri voye yon imèl ba nou nan [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Si ou se yon jounalis, tanpri voye yon imèl ba nou nan [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Tanpri sonje: [Open Food Facts se yon baz done kolaboratif sou pwodui alimantè](https://world.openfoodfacts.org/discover), nou pa vann okenn pwodui epi nou pa gen lyen ak pwodiktè yo. Pou yon kesyon oswa pote plent sou yon pwodwi, ou dwe ekri dirèkteman pwodiktè a (adrès sou etikèt pwodwi a).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Se kontribitè Open Food Facts yo ki soumèt enfòmasyon ak done yo. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. Pa egzanp, si enfòmasyon nitrisyonèl yon pwodwi trè diferan de pwodwi nan menm kategori a, sa ka yon erè. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Si ou se yon pwodiktè, tanpri [kontakte nou](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (gade [Kondisyon kontribisyon yo](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Nou devlope yon platfòm gratis pou pèmèt ou enpòte foto ak done sou pwodwi ou yo fasilman, kèlkeswa gwosè ou. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Kontakte nou pou diskite kijan nou ka kontinye: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Ki moun ki itilize done Open Food Facts yo?
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- Plis pase 100 aplikasyon mobil
-  adrese bezwen plizyè odyans: dyabèt (VeryDiab), alèji, balans alimantè
-  atravè entèlijans atifisyèl (FoodVisor), andikap, ak plis ankò. Baz done
-  nou an te pèmèt kreyasyon Yuka tou.
-- Anpil sit entènèt: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
 - Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Chèchè nan prèske 100 atik syantifik
-- Bank manje ak magazen solidarite: yon pwojè
-  Data For Good nan kontinwite yon pwojè pilòt inisye pa Lakwa Wouj Fransèz
-  la, entegrasyon nan jesyon lajan kach yon ti koperativ alimantè
-  .
-- Konpayi yo: Terraillon itilize done nou yo
-  pou bay balans konekte li yo lavi.
-- Lekòl pwogramasyon yo (Simplon, Open
-  Classrooms) entegre Open Food Facts kòm yon pwojè motivasyon nan kourikoulòm
-  yo a.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Kijan m ka sipòte Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts se yon asosyasyon san bi likratif ki te kòmanse an 1901. Ou ka ede nou lè w [patisipe nan pwojè a](https://fr-en.openfoodfacts.org/contribute) epi lè w sipòte nou finansyèman avèk [don] ou yo](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(franchisab 66%) epi tou lè w itilize motè rechèch Lilo
-la.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Mèsi
-anpil anpil!**
+**Thank
+you very much!**
 
 ---
 
-## Mwen pa ka jwenn repons pou kesyon mwen an
+## I can't find the answer to my question
 
-Si ou pa jwenn repons pou kesyon ou yo, pa ezite kontakte nou atravè:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack nou an: [[https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
 - Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
