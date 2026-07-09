@@ -1,17 +1,17 @@
 ---
-title: "{{<fa book size=2x >}} ഫോക്സോണമി എഞ്ചിൻ"
-description: "1 ചോദ്യം"
-lang: en-gb (ഇംഗ്ലീഷ്)
-order: 31 മാസം
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: പുസ്തകം
+icon: book
 ---
 
-{{< fa "പുസ്തകം" size="3x (3x)" >}}
+{{< fa "book" size=3x >}}
 
-## ഫോക്ക്‌സോണമി എഞ്ചിൻ എന്താണ്?
+## What is the Folksonomy Engine ?
 
-ലോകത്തിലെ ഏറ്റവും വലിയ ഓപ്പൺ-ഫുഡ് ഡാറ്റാബേസായ ഓപ്പൺ ഫുഡ് ഫാക്‌ട്‌സിൽ ഭക്ഷ്യ ഉൽപ്പന്നങ്ങളിൽ ഇഷ്ടാനുസൃത ടാഗുകൾ അല്ലെങ്കിൽ പ്രോപ്പർട്ടികൾ ചേർക്കാൻ ഉപയോക്താക്കളെ അനുവദിക്കുന്ന ഒരു സംവിധാനമാണ് ഫോക്‌സോണമി എഞ്ചിൻ. ഇത് നിലവിലുള്ള മുൻനിർവചിക്കപ്പെട്ട ഗുണങ്ങൾക്കപ്പുറം, പുതിയ രീതികളിൽ ഭക്ഷണത്തെ തരംതിരിക്കാനും വിവരിക്കാനും ആളുകളെ അനുവദിക്കുന്നു.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
