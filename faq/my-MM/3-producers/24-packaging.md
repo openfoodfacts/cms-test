@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} ထုပ်ပိုးမှု"
-description: "မေးခွန်း ၃ ခု"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
-order: ၂၄
+order: 24
 category-level: 1
-icon: ကုဗတုံး
+icon: cube
 ---
 
-{{< fa "ကုဗတုံး" size="၃ ဆ" >}}
+{{< fa "cube" size=3x >}}
 
-## Open Food Facts မှာ ကျွန်တော့်ရဲ့ ထုပ်ပိုးမှုဒေတာကို ဘယ်လိုထည့်ရမလဲ။
+## How can I add my packaging data to Open Food Facts?
 
-ထုတ်လုပ်သူတစ်ယောက်အနေနဲ့ သင့်ထုတ်ကုန်တွေမှာ ထုပ်ပိုးမှုဒေတာတွေထည့်ဖို့ အထိရောက်ဆုံးနည်းလမ်းကတော့ "AU" ကော်လံကနေ လိုအပ်တဲ့အချက်အလက်တွေကို [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) မှာ ဖြည့်သွင်းပေးဖို့ပါပဲ။
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-ထုပ်ပိုးမှု အစိတ်အပိုင်းတစ်ခုစီအတွက်၊ သင်ထည့်သွင်းရန် လိုအပ်သည်-
+For each packaging component, you will need to enter:
 
-- ယူနစ်အရေအတွက် (ဥပမာ- ဒိန်ချဉ်အိုး ၄ လုံး)
+- The number of units (ex: **4** pots of yogurts)
 
-- ပုံသဏ္ဍာန် (ဥပမာ- အိုး၊ အဖုံး၊ သေတ္တာ စသည်ဖြင့်)
+- The shape (ex: **pot, lid, box, etc**)
 
-- ပစ္စည်း (ဥပမာ- **PET၊ စက္ကူ၊ ဖန်၊ စသည်ဖြင့်**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- ပြန်လည်အသုံးပြုခြင်း ညွှန်ကြားချက် (ဥပမာ- **ပြန်လည်အသုံးပြုရန်၊ စွန့်ပစ်ရန် စသည်ဖြင့်**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ဗလာယူနစ်တစ်ခု၏ အလေးချိန် (ဂရမ်)
+- The weight of one empty unit (in gr)
 
-- တစ်ယူနစ်လျှင် ပါဝင်သော ထုတ်ကုန်၏ အသားတင်ပမာဏ
+- The net quantity of product contained per unit
 
-ထို့နောက် ဤ spreadsheet ကို ကျွမ်းကျင်ပညာရှင်များအတွက် ရည်စူးထားသော ကျွန်ုပ်တို့၏ ပလပ်ဖောင်းထဲသို့ ထည့်သွင်းနိုင်ပါသည်။
-
----
-
-## အစားအသောက်ထုပ်ပိုးမှုပြဿနာကို ဖြေရှင်းတဲ့ စီမံကိန်းက ဘာလဲ။
-
-"အစားအသောက်ထုပ်ပိုးမှုများကို ကိုင်တွယ်ဖြေရှင်းခြင်း" ပရောဂျက်တွင် အများဆုံးစားသုံးသော ထုတ်ကုန်များ၏ ထုပ်ပိုးမှုဆိုင်ရာ အသေးစိတ်အချက်အလက်များကို စုဆောင်းခြင်း (ပုံသဏ္ဍာန်၊ ပစ္စည်း၊ စီခြင်းညွှန်ကြားချက်များ၊ အလေးချိန်၊ စွမ်းရည်) ပါဝင်သည်။
-
-ပါဝင်ဆောင်ရွက်သော သိပ္ပံနည်းကျချဉ်းကပ်မှုအပေါ် အခြေခံ၍ ၎င်းသည် ၎င်းတို့၏ထုပ်ပိုးမှုဒေတာကို မျှဝေရန် သဘောတူသော ကုမ္ပဏီများနှင့် ပွင့်လင်းမြင်သာမှုဂိမ်းကို ကစားရန်အပြင် ထုတ်ကုန်များဆိုင်ရာ အချက်အလက်များ စုဆောင်းခြင်းကို နိုင်ငံသားများ ခွင့်ပြုခြင်းအပေါ်တွင်ပါ မူတည်မည်ဖြစ်သည်။ ဤအချက်အလက်ကို အခမဲ့ပြန်လည်အသုံးပြုနိုင်ပါမည် ("open data")။
-
-**နောက်ထပ်အချက်အလက်များအတွက်-** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Tackling Food Packaging ပရောဂျက်ပြီးဆုံးသွားရင်တောင် ကျွန်တော့်ရဲ့ ထုပ်ပိုးမှုဒေတာကို ထည့်သွင်းလို့ရပါသလား။
+## What is the Tackling Food Packaging project?
 
-ပရောဂျက်ပြီးဆုံးပြီးနောက်ပင်၊ ထုပ်ပိုးမှုအကွက်များသည် ကျွန်ုပ်တို့၏ ဝဘ်ဆိုက်တွင် ရှိနေမည်ဖြစ်သောကြောင့် ထုပ်ပိုးမှုဒေတာကို ထည့်သွင်းနိုင်ပါသည်။
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
