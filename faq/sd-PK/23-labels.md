@@ -1,23 +1,23 @@
 ---
-title: "{{< fa بُڪ مارڪ سائيز=2x >}} ليبل"
-description: "2 سوال"
-lang: اين جي بي
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: بُڪ مارڪ
+icon: bookmark
 ---
 
-{{< fa "بُڪ مارڪ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ليبل جي طور تي، ڇا اڪائونٽ ٺاهڻ ضروري آهي؟
+## As a label, is it important to create an account ?
 
-ليبل جي طور تي، جيئن ته توهان شين جا سڌو سنئون پيدا ڪندڙ نه آهيو، توهان کي پيدا ڪندڙ جو اڪائونٽ ٺاهڻ جي ضرورت ناهي.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## مان هڪ ليبل آهيان، مان منصوبي ۾ ڪيئن حصو وٺي سگهان ٿو؟
+## I am a label, how can I participate in the project?
 
-هڪ ليبل جي طور تي سڀ کان وڌيڪ لاڳاپيل ڪم اهو آهي ته اسان سان رابطو ڪريو **(producers@openfoodfacts.org)** ۽ اسان کي انهن شين جي فهرست موڪليو جن تي توهان جو ليبل ڏيکاريل آهي ته جيئن اسان انهن کي لاڳاپيل پراڊڪٽ شيٽ تي شامل ڪري سگهون.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
