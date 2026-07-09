@@ -1,13 +1,13 @@
 ---
 title: "{{< fa flask size=2x >}} NOVA / Transformation des aliments"
 description: "1 question"
-lang: en-gb
+lang: fr-fr
 order: 6
 category-level: 0
-icon: ballon
+icon: fiole
 ---
 
-{{< fa "ballon" size=3x >}}
+{{< fa "flacon" size=3x >}}
 
 ## Qu'est-ce que NOVA ?
 
