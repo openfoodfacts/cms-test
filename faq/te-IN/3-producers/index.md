@@ -1,21 +1,21 @@
 ---
-title: "{{<fa పరిశ్రమ పరిమాణం=2x >}} నిర్మాతలు"
-description: "6 ఉపవర్గాలు"
-lang: en-gb తెలుగు in లో
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: పరిశ్రమ
+icon: industry
 listing:
   contents:
-    - "*.ఎండీ"
+    - "*.md"
   include:
     category-level: 1
-  type: గ్రిడ్
+  type: grid
   grid-columns: 4
-  sort: "ఆర్డర్"
-  fields: [ శీర్షిక, వివరణ ]
-  page-size: 100 లు
+  sort: "order"
+  fields: [ title, వివరణ ]
+  page-size: 100
 ---
 
-{{< fa "పరిశ్రమ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
