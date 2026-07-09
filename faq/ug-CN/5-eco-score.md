@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} ئېكولوگىيىلىك نومۇر"
-description: "5 سوئال"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: ئىشلەتكۈچى قوشۇمچە
+icon: user-plus
 ---
 
-{{< fa "ئىشلەتكۈچى قوشۇمچە" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## ئېكو-نومۇر ئۇسۇلى دېگەن نېمە؟
+## What is the Eco-Score methodology?
 
-ئېكولوگىيىلىك نومۇر ADEME (ئېكولوگىيەلىك ئۆتكۈنچى ئورگان) ۋە INRAE (دۆلەتلىك دېھقانچىلىق تەتقىقات ئىنستىتۇتى) تەرىپىدىن ئىشلەنگەن ھاياتلىق دەۋرىيلىكى ئانالىزىنى ھېسابلاش ئاساسىدا ھېسابلىنىدۇ. PEF نومۇرىنى يارىتىش ئۈچۈن تەخمىنەن ئون بەش تەركىب ھېسابلىنىدۇ ۋە باغلىنىدۇ.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-بۇ PEF نومۇرىغا قوشۇمچە ۋە زىيانلار (ئىشلەپچىقىرىش ئۇسۇلى، كېلىپ چىقىشى) قوشۇلىدۇ.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ئېكولوگىيىلىك نومۇرنى ھېسابلاش ئۈچۈن تەركىبلەر، يوقىلىش گىردابىغا بېرىپ قالغان تۈرلەر، ئورالما).
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-تېخىمۇ كۆپ ئۇچۇرغا ئېرىشمەكچى بولسىڭىز، Open Food Facts تور بېتىدىكى [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) ۋە Eco-Score كونسورتسىيۇمى تور بېتىدىكى قىسقىچە مەزمۇن بېتىگە قاراڭ. (ئېكولوگىيىلىك نومۇر كۆرسىتىش [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## ئېكولوگىيىلىك نومۇرنى ئەڭ توغرا ھېسابلاش ئۈچۈن قانداق ئۇچۇرلارنى بېرىش كېرەك؟
-
-ئېكولوگىيىلىك نومۇرنى توغرا ھېسابلاش ئۈچۈن، ھەر بىر تەركىبنىڭ نىسبىتى ۋە ئۇنىڭ كېلىش مەنبەسى ئېنىق بولۇشى كېرەك.
-
-ئەگەر بۇ ئۇچۇر تەركىبلەر تىزىملىكىدە كۆرسىتىلمىگەن بولسا، ئۇنى تىلغا ئېلىش ئۈچۈن تۆۋەندىكى فورماتتىكى بىر ئىستون قوشسىڭىز بولىدۇ:
-
-بۇغداي ئۇنى %16 (فىرانسىيە)
-
-شوكلات 8% (پىل چىشى قىرغىقى، ئېكۋادور)
-
-بىزگە يەنە ئورالمىنىڭ تەركىبلىرى كېرەك: تاشلىۋېتىشكە بولىدىغان 1 سۇلياۋ يوپۇق، قايتا ئىشلەتكىلى بولىدىغان 1 FSC كارتون قۇتا، قايتا ئىشلەتكىلى بولىدىغان 6 دانە 1.5 لىتىرلىق PET سۈزۈك سۇلياۋ بوتۇلكا، 6 دانە تۇتۇق رەڭلىك سۇلياۋ قاپاق، 12 دانە 33 كالورىيەلىك ئاليۇمىن سۇلياۋ قۇتا.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15 كۆرسەتكۈچنىڭ قىممىتى قانداق بىرلەشتۈرۈلىدۇ؟
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF سىستېمىسىنى تېخىمۇ ياخشى چۈشىنىش ئۈچۈن، سىز Eco-Score ئۇسۇلى تور بېتىدىكى PEF نومۇرىنىڭ چۈشەندۈرۈشىنى ئوقۇيالايسىز**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## يەرلىك ئامىل خام ئەشيانىڭ ئىشلەپچىقىرىلىش ئورنىغا ياكى كېلىش ئورنىغا مۇناسىۋەتلىكمۇ؟
+## How are the values ​​of the 15 indicators combined?
 
-يەرلىك تەرەپ خام ئەشيانىڭ كېلىش مەنبەسى بىلەن مۇناسىۋەتلىك. شۇڭلاشقا، مەھسۇلات تەركىبى تىزىملىكىگە ياكى تەركىبلەرنىڭ كېلىپ چىقىشىغا بېغىشلانغان بوشلۇققا ئۇلارنىڭ نىسبىتى ۋە كېلىش مەنبەسىنى كىرگۈزۈش مۇھىم.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ئېكولوگىيىلىك نومۇر ئۈچۈن ماتېرىياللارنىڭ كېلىش مەنبەسىنى قانداق كىرگۈزۈش كېرەك؟
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-ئەگەر سىز خام ماتېرىياللارنىڭ كېلىش مەنبەسى توغرىسىدىكى ئۇچۇرلارنى قەغەزلىرىڭىزدە ئورتاقلىشىشنى خالىسىڭىز، ئۇلارنى تەركىبلەر تىزىملىكىگە قوشۇشىڭىزنى تەۋسىيە قىلىمىز.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
