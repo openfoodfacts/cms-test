@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} مەھسۇلاتلىرىمنى باشقۇرۇش"
-description: "16 سوئال"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: قۇتا
+icon: box
 ---
 
-{{< fa "قۇتا" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## «ئوچۇق يېمەكلىك پاكىتلىرى»دىكى سانلىق مەلۇماتلارنىڭ سۈپىتىگە نېمە كاپالەتلىك قىلىدۇ؟
+## What guarantees the quality of the data in Open Food Facts?
 
-**سانلىق مەلۇماتلارنىڭ سۈپىتىنى ئۈزلۈكسىز ياخشىلاش ئۈچۈن، بىز 4 تۈۋرۈككە تايىنىمىز:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. بۇ مەھەللە ئۈزلۈكسىز سانلىق مەلۇمات ۋە سۈرەتلەرنى قوشۇپ تۇرىدۇ، ھەمدە باھالىغۇچىلارنىڭ ھەقىقىي كۆزىتىش گۇرۇپپىسىغا ئايلىنىدۇ.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. بىز مەھسۇلات جەدۋىلىدىكى خاتالىقلارنى ئېنىقلاش ئۈچۈن مەنتىقە قائىدىلىرىنى بېكىتتۇق.مەسىلەن: ئەگەر تەركىبلەرنىڭ ئېغىرلىقىنىڭ يىغىندىسى مەھسۇلاتنىڭ ئومۇمىي ئېغىرلىقىدىن چوڭ بولسا، بۇ نورمالسىزلىقنىڭ بارلىقىنى كۆرسىتىدۇ. بىزدە يەنە 50 گە يېقىن سۈپەت تەكشۈرۈشى بار.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. ماشىنا ئۆگىنىشى ئارقىلىق، بىز كىرگۈزۈش خاتالىقىنىڭ خەۋپ-خەتىرىنى چەكلەيمىز. بىزنىڭ تېخنىكىمىز بىزگە تۆھپە قوشقۇچىلار تارتقان سۈرەتلەردىن تېكىست سانلىق مەلۇماتلىرىنى چىقىرىشقا يول قويىدۇ
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France نىڭ قوللىشى بىلەن، بىز ئىشلەپچىقارغۇچىلارنىڭ كۆپ مىقداردا ئىشلەپچىقىرىلغان سانلىق مەلۇماتلىرىنى يۈكلەپ، شۇ ئارقىلىق جەمئىيەتنىڭ تۆھپىلىرىنى تۈزىتىش/تولۇقلاش ئىمكانىيىتىگە ئىگە بىر تور بېكەت ياسىدۇق.
-
----
-
-## مەھسۇلاتلارنى قانداق قوشۇش كېرەك؟
-
-سۇپىمىزغا مەھسۇلات قوشۇش ئۈچۈن، ئالدى بىلەن قانداق داۋاملاشتۇرۇشنى قارار قىلىشىڭىز كېرەك. 4 خىل تاللاش بار:
-
-- **قولدا**: ئەگەر سىزدە ئاز مىقداردا مەھسۇلات بولسا، Pro سۇپىسىدا ھەر بىر مەھسۇلات جەدۋىلىنى قولدا ياسىغىلى بولىدۇ.
-
-- **جەدۋەل ئىمپورت قىلىش ئارقىلىق**: سىز Open Food Facts تەمىنلىگەن جەدۋەل [شەبلون](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) نى چۈشۈرەلەيسىز ياكى IT سىستېمىڭىزدىن بىۋاسىتە Pro سۇپىسىغا بىر پارچە پارچىنى ئىمپورت قىلالايسىز.
-
-- **مەھسۇلات كاتالوگىنىڭ ئۇلىغۇچلىرى ئارقىلىق**. ئەگەر سىز EQUADIS، AGENA3000 ياكى BAYARD نىڭ خېرىدارى بولسىڭىز، بىر چېكىش ئارقىلىق «ئوچۇق يېمەكلىك پاكىتلىرى» غا سانلىق مەلۇمات يوللىيالايسىز. ئەگەر سىز باشقا PIM (مەھسۇلات ئۇچۇرى باشقۇرۇش) بىلەن ئىشلەۋاتقان بولسىڭىز، بىز بىلەن ئالاقىلىشىڭ: producers@openfoodfacts.org
-
-- شىركىتىڭىز بىلەن Open Food Facts ئوتتۇرىسىدىكى خاسلاشتۇرۇلغان ئالاقە ئارقىلىق\*\*. ئەگەر سىز مەھسۇلات تىزىملىكىڭىزدە 1000 دىن ئارتۇق مەھسۇلات بولسا، سانلىق مەلۇمات يەتكۈزۈشنى ئاسانلاشتۇرۇش ئۈچۈن مەخسۇس ئۇلىغۇچ قۇرۇش پۇرسىتىنى مۇزاكىرە قىلالايمىز.
-
-تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## ئاممىۋى سانلىق مەلۇمات ئامبىرىغا مەھسۇلات يېڭىلاشنى ئاپتوماتىكلاشتۇرۇشنىڭ ئۇسۇلى بارمۇ؟
+## How to add products?
 
-شۇنداق، ئەگەر سىز EQUADIS، AGENA3000 ياكى BAYARD مەھسۇلات كاتالوگىنى ئىشلەتسىڭىز ۋە توغرا سەپلىمىنى تەڭشىسىڭىز، ئىمپورت قىلىش ئاپتوماتىك ھالدا ئېلىپ بېرىلىدۇ، شۇڭا ئوچۇق يېمەكلىك پاكىتلىرىدىكى مەھسۇلات سانلىق مەلۇماتلىرىنى يېڭىلىيالايسىز.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## قوشۇلغان مەھسۇلاتلارنىڭ سانى چەكلىكمۇ؟
+## Is there a way to automate product updates to the public database?
 
-چەكلىمە يوق، سىز بىزنىڭ سۇپىمىزغا ئۆزىڭىز خالىغان مەھسۇلاتلارنىڭ سانىنى يوللىيالايسىز.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-ئەگەر بازاردا يوق بولغان مەھسۇلاتنى ئۆچۈرمەكچى بولسىڭىز، مەھسۇلات جەدۋىلىڭىزنى تەھرىرلىگەندە «بۇ مەھسۇلات ئەمدى سېتىلمايدۇ» دېگەن قۇتىنى بەلگىلىسىڭىزلا بولىدۇ.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-ئەگەر بىر قانچە مەھسۇلاتنى ئۆچۈرمەكچى بولسىڭىز، 18-بەتتىكى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf) دا كۆرسىتىلگەن تەرتىپ بويىچە ئىشلىشىڭىزنى تەۋسىيە قىلىمىز.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-سوئالىڭىز بولسا، producers@openfoodfacts.org ئارقىلىق بىز بىلەن ئالاقىلاشسىڭىزمۇ بولىدۇ.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-بۇ مەھسۇلات ئارخىپلانغاندىن كېيىن، ئۇ ئەمدى ئوچۇق يېمەكلىك پاكىتلىرى ئىچىدە كۆرۈنمەيدۇ.قانداقلا بولمىسۇن، ئۇ بىزنىڭ سانلىق مەلۇمات ئامبىرىمىزدا ساقلىنىدۇ، شۇڭا بىز ۋاقىتنىڭ ئۆتۈشىگە ئەگىشىپ سېتىلغان مەھسۇلاتلارنىڭ تارىخىنى ساقلىيالايمىز.
-
----
-
-## شىركەت ئۇچۇرلىرى سۇپىدا مەۋجۇت بولغان ئۇچۇرلاردىن ئۈستۈن تۇرامدۇ؟
-
-ئىشلەپچىقارغۇچى ئۆزىنىڭ ئىشلەپچىقارغۇچى ھېساباتى ئارقىلىق مەھسۇلاتلىرىنىڭ بىرىنى تورغا قويغاندا ۋە مەھسۇلات جەدۋىلى ئاللىبۇرۇن مەۋجۇت بولغاندا، بۇ ئۇنى تاماملايدۇ.
-
-ئىشلەپچىقارغۇچى ئېلان قىلغان ئۇچۇرلار ھەمىشە ئالدىنقى ئورۇندا تۇرىدۇ، ئۇچۇرلار تولدۇرۇلغاندىن كېيىن، ئۆزىلا مەھسۇلاتلىرىنى ئۆزگەرتەلەيدۇ.
-
-ئەگەر سۇپا ئارقىلىق ئەۋەتىلگەن سانلىق مەلۇماتلار پارچىلىنىپ كەتسە، مەھەللە تەرىپىدىن ئورالمىدىن قوشۇلغان ئۇچۇرلار ئۇنى تولۇقلىشى مۇمكىن.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## سانلىق مەلۇماتلىرىمنى قايسى فورماتتا ئەۋەتىشىم كېرەك؟
+## Does company information take precedence over information already present on the platform?
 
-Open Food Facts تەرىپىدىن [شەبلون](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) تەمىنلەندى.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-قانداقلا بولمىسۇن، ھەر قانداق جەدۋەل فورماتى (xlsx، csv) بۇ سۇپىغا ئىمپورت قىلىنالايدۇ.  
-بىزنىڭ ئالگورىزىمىمىز ھۆججىتىڭىزدىكى ئالاھىدىلىكلەرنى «ئوچۇق يېمەكلىك پاكىتلىرى»دىكى ئالاھىدىلىكلەر بىلەن ئاپتوماتىك ماسلاشتۇرۇش ئۈچۈن لايىھەلەنگەن. ماس كېلىدىغان باسقۇچنى ھەمىشە قايتا تەكشۈرۈپ تۇرۇشقا دىققەت قىلىڭ، چۈنكى بەزىلىرىنى قولدا تەڭشەشكە توغرا كېلىشى مۇمكىن.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-ئەگەر ئۇچۇرلىرىڭىز بىر قانچە جەدۋەلگە پارچىلىنىپ كەتكەن بولسا، ئۇلارنى ئارقا-ئارقىدىن ئىمپورت قىلالايسىز - ئەگەر فورمات ئۆزگەرسە، ماسلاشتۇرۇشنى قىلىشقا دىققەت قىلىڭ.
-
-ئەگەر سانلىق مەلۇماتلار تېخى ئۇچۇر سىستېمىڭىزدا بولمىسا، EQUADIS ياكى AGENA3000 ئىمپورت قىلىشتىن باشقا، يەنە بىر Excel ھۆججىتىنىمۇ ئىمپورت قىلالايسىز. بۇ خىل ئەھۋاللاردا، ئىنتېرفېيستىن ئاممىۋى سانلىق مەلۇمات ئامبىرىغا ئېكسپورت قىلىشنى تەلەپ قىلىشنى ئۇنتۇپ قالماڭ.
-
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## قايسى مەھسۇلات كاتالوگلىرى بىلەن بىرلەشتۈرۈلگەن؟
+## In what format should I send my data?
 
-ئىشلەپچىقارغۇچىلار ھازىر مەھسۇلات سانلىق مەلۇماتلىرى ۋە رەسىملىرىنى **Equadis**،**AGENA3000 ۋە BAYARD consulting** دىن Open Food Facts غا ھەقىقىي ۋاقىت ئىچىدە ئەۋەتەلەيدۇ.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-ئەلۋەتتە، سىز يەنە قايتا تۈزۈش تەكلىپلىرى ۋە سۇپىنىڭ بارلىق ئىقتىدارلىرىدىن پايدىلىنىسىز.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[بىزنىڭ بىلوگ يازمىمىز](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) ئەگەر سىز EQUADIS خېرىدارى بولسىڭىز، تۆۋەندىكى قەدەملەرنى چۈشىنىسىز.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-ئەگەر سىز AGENA3000 خېرىدارى بولسىڭىز (مەھسۇلات A3 PIM INDUSTRY)، مەھسۇلات جەدۋىلىڭىزنى ئەۋەتكەندە «ئوچۇق يېمەكلىك ئۇچۇرلىرى» نى قوبۇل قىلغۇچىنى تاللىسىڭىزلا بولىدۇ. [بۇ بىلوگ يازمىسىدىن تېخىمۇ كۆپ ئۇچۇر](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-ئەگەر سىز باشقا مەھسۇلات سانلىق مەلۇمات كاتالوگىنىڭ خېرىدارى بولسىڭىز (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks قاتارلىقلار) بىزگە [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) ئارقىلىق خەۋەر قىلىڭ.
-
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Pro سۇپىسى ئارقىلىق شىتىركودسىز مەھسۇلاتلارنى قانداق قوشقىلى بولىدۇ؟
+## With which product catalogs are you integrated?
 
-تور بېتىدە ياكى ئىشلەپچىقارغۇچى سۇپىسىدا شىتىركودسىز مەھسۇلاتلار ئۈچۈن، سول تەرەپتىكى ئىستوندا «شىتىركودسىز مەھسۇلات» كۇنۇپكىسى بار، بۇ كۇنۇپكىنى قوشۇپ قويسىڭىز بولىدۇ. ئاندىن ئاپتوماتىك ھالدا بىر ئىدېنتىفىكاتور ھاسىل قىلىنىدۇ.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-بىز گىرىم بۇيۇملىرى، ھايۋانات يەم-خەشىكى ۋە باشقا مەھسۇلاتلار ئۈچۈن مەخسۇس تۈرلەرنى ياراتتۇق: ئايرىم-ئايرىم ھالدا ئوچۇق گۈزەللىك پاكىتلىرى، ئوچۇق ئەرمەك ھايۋان يېمەك-ئىچمەك پاكىتلىرى ۋە ئوچۇق مەھسۇلات پاكىتلىرى.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## شىركىتىمنىڭ مەھسۇلات ئۇچۇرلىرىنى Open Food Facts دىن تاپقىلى بولىدۇ. مۇناسىۋەتلىك ئىشلەپچىقارغۇچى ھېساباتىنى كونترول قىلىش مۇمكىنمۇ؟
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-ھەئە، ئەلۋەتتە! سودا ئادرېسىڭىز بىلەن ئوچۇق يېمەكلىك ئۇچۇرلىرى ھېساباتى قۇرۇش ئارقىلىق مۇناسىۋەتلىك ئىشلەپچىقارغۇچى ھېساباتىنى كونترول قىلالايسىز. تىزىملاتقاندا، ماس كېلىدىغان ئىشلەپچىقارغۇچى بوشلۇقىغا كىرىش ئۈچۈن فورمىدا كۆرسىتىلگەن ئورگاننىڭ ئىسمىنى يېزىڭ.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-سىزنىڭ ھەقىقەتەن ئىشلەپچىقارغۇچى ئىكەنلىكىڭىزنى جەزملەشتۈرۈش ئۈچۈن قىسقا بىر تەكشۈرۈش باسقۇچى لازىم بولىدۇ.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-سىز سانلىق مەلۇماتلارنى تولۇقلىيالايسىز، رەسىم قوشالايسىز، Nutri-Score نى ياخشىلاش ئۈچۈن ئاپتوماتىك تەۋسىيەلەرگە ئېرىشەلەيسىز ۋە باشقا نۇرغۇن ئىشلارنى قىلالايسىز. بۇلارنىڭ ھەممىسى ئەلۋەتتە پۈتۈنلەي ھەقسىز. سىز يەنە EQUADIS، AGENA3000 ۋە Bayard consulting قاتارلىق ئۈچىنچى تەرەپ مەھسۇلات سانلىق مەلۇمات باشقۇرۇش سىستېمىسىنى ئۇلىيالايسىز.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
-
----
-
-## باشقا ئەپلەرنىڭ ئوچۇق يېمەكلىك ئۇچۇرلىرى سانلىق مەلۇمات ئامبىرىنى قايتا ئىشلىتىشىدە ئىشلەپچىقارغۇچىلارنىڭ سانلىق مەلۇماتلىرىنىڭ يېڭىلىنىشىغا قانچە ۋاقىت كېتىدۇ؟
-
-بۇ ئەپلەرگە باغلىق. بىزنىڭ API لىرىمىزنى ئىشلىتىدىغانلار ئۈچۈن، بۇ دەرھال ئەمەلگە ئاشىدۇ، چۈنكى ئۇلارنىڭ كۆپ قىسمىنى ئىگىلەيدۇ.  
-كۈندىلىك ئېكسپورتىمىزنى ئىشلىتىدىغانلار ئۈچۈن، ئەگەر ئۇلار ئۇنى يېڭىلىسا، بۇ D+1 بولىدۇ.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## مەھسۇلات خاتىرىسىدىكى سانلىق مەلۇماتلارنى ئىمپورت قىلىش مەۋجۇت مەھسۇلات خاتىرىسىنى تولۇقلىيامدۇ ياكى ئۈستىگە يازامدۇ؟
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-بىز مەھسۇلاتلارنى پەرقلەندۈرۈش ئۈچۈن شىتىر كود ئىشلىتىمىز، ئەگەر سىز مەۋجۇت خاتىرى بىلەن ئوخشاش شىتىر كودلۇق خاتىرىنى ئىمپورت قىلسىڭىز، ئۇچۇرلار بىرلەشتۈرۈلىدۇ.
-
-تەركىبلەر تىزىملىكى، ئوزۇقلۇق قىممىتى (پەقەت بىرلا توغرا قىممەت بولۇشى مۇمكىن) قاتارلىق سانلىق مەلۇماتلار ئۈچۈن، ئىشلەپچىقارغۇچى سۇپىسى ئارقىلىق ئەۋەتىلگەن سانلىق مەلۇماتلار مەۋجۇت سانلىق مەلۇماتلارنىڭ ئورنىنى ئالىدۇ.
-
-بەلگىلەر/كاتېگورىيەلەر/ماركىلار قاتارلىق سانلىق مەلۇماتلار ئۈچۈن (بىر قانچە توغرا قىممەت بولۇشى مۇمكىن)، ئۇچۇرلار بىرلەشتۈرۈلىدۇ. ئەگەر ئاممىۋى سۇپىدىكى سانلىق مەلۇماتلار خاتا بولسا، خاتا قىممەتلەرنى ئۆچۈرۈش ئۈچۈن ئاممىۋى سۇپىدىكى مەھسۇلات جەدۋىلىنى ئۆزگەرتەلەيسىز.
-
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## ماتېرىياللارنىڭ تەرتىپى مۇھىممۇ؟
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-ماتېرىياللارنىڭ تەرتىپى مۇھىم: ئۇ مىقدار بويىچە تەرتىپنى ئىپادىلەيدۇ.
-ماتېرىياللارنى تولدۇرۇشنىڭ ئەڭ ياخشى ئۇسۇلى ئورالمىدا يېزىلغانلارغا ئەمەل قىلىشتۇر. شۇڭلاشقا ماتېرىياللارنىڭ رەسىملىرىنى بېسىپ چىقىرىش ناھايىتى مۇھىم.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## رەسىملەرنى AGENA3000 ئارقىلىق ئەۋەتسەم بولامدۇ؟
+## Is the order of ingredients important?
 
-سىز رەسىملەرنى ئەۋەتسىڭىز بولىدۇ، ئەمما ئەمەلىيەتتە پەقەت ئاساسلىق رەسىم ئاپتوماتىك تاللىنىدۇ، قالغان رەسىملەر ئەۋەتىلىدۇ، ئەمما ماتېرىياللار، ئوزۇقلۇق قاتارلىقلار ئۈچۈن كېسىلمەيدۇ / تاللانمايدۇ.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Pro سۇپىسىنىڭ دەرسلىكلىرىگە قانداق كىرگىلى بولىدۇ؟
+## Can I send images via AGENA3000 too?
 
-سىز كەسپىي سۇپىنىڭ دەرسلىكلىرىگە كىرەلەيسىز:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- كەسپىي سۇپا ئارقىلىق: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- بىۋاسىتە [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) دا
+## How to access the Pro platform’s tutorials?
 
-→ سىز يەنە [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈۋالسىڭىز بولىدۇ.
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
