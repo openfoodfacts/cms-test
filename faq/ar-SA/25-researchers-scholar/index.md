@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} باحثون/علماء"
-description: "فئة فرعية واحدة"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: قبعة التخرج
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: شبكة
+  type: grid
   grid-columns: 4
-  sort: "طلب"
-  fields: [ عنوان, وصف ]
+  sort: "order"
+  fields: [ title, وصف ]
   page-size: 100
 ---
 
-{{< fa "قبعة التخرج" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
