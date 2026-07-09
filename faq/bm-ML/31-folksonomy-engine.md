@@ -1,17 +1,17 @@
 ---
-title: "{{< fa gafe hakɛ=2x >}} Folksonomy Engine"
-description: "1 ɲininkali"
-lang: bamanankan-gb
-order: 31. Ɲɛjirali dɔw
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: gafe
+icon: book
 ---
 
-{{< fa "gafe" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Folksonomy Engine ye mun ye ?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine ye fɛɛrɛ ye min b’a to baarakɛlaw bɛ se ka taamasiyɛnw, walima nafolomafɛnw fara dumunifɛnw kan minnu bɛ sɔrɔ Open Food Facts kɔnɔ, n’o ye diɲɛ kɔnɔ dumuni dafalenw kunnafonidilanba ye. O b’a to mɔgɔw bɛ dumuniw tila-tila ani k’u ɲɛfɔ cogo kura la, ka tɛmɛn nafolo dantigɛlenw kan minnu bɛ yen.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
