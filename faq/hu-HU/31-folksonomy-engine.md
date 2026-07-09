@@ -1,17 +1,17 @@
 ---
-title: "{{< fa könyv mérete=2x >}} Folksonomy Engine"
-description: "1 kérdés"
-lang: hu-gb
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: könyv
+icon: book
 ---
 
-{{< fa "könyv" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Mi az a Folksonomy Engine?
+## What is the Folksonomy Engine ?
 
-A Folksonomy Engine egy olyan rendszer, amely lehetővé teszi a felhasználók számára, hogy egyéni címkéket, vagy tulajdonságokat adjanak hozzá az élelmiszertermékekhez az Open Food Factsben, a világ legnagyobb nyílt élelmiszer-adatbázisában. Ez lehetővé teszi az emberek számára, hogy az ételeket új módon kategorizálják és írják le, a meglévő előre meghatározott tulajdonságokon túl.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
