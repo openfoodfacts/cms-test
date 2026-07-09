@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Prezzijiet Miftuħa"
-description: "3 mistoqsijiet"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dollaru
+icon: dollar
 ---
 
-{{< fa "dollaru" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Jiena bejjiegħ bl-imnut u nixtieq nikkontribwixxi bil-prezzijiet. Kif nista' nagħmel dan?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Tista' tikkontribwixxi l-prezzijiet billi tuża l-[API tagħna](https://prices.openfoodfacts.org/api/docs). Jekk tixtieq tikkontribwixxi prezzijiet fuq skala kbira, jekk jogħġbok ikkuntattjana fuq [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Tikkunsidra li tneħħi l-prezzijiet mill-websajts tal-bejjiegħa bl-imnut?
+## Do you consider scraping prices from retailers’ websites?
 
-Għal raġunijiet legali u tekniċi, ma nqisux il-ġbir tal-prezzijiet mill-websajts tal-bejjiegħa bl-imnut bħala mod validu biex nikkontribwixxu għall-Prezzijiet Miftuħa. Irridu niżguraw li l-prezzijiet li niġbru jkunu preċiżi u aġġornati, u li nirċievu prezzijiet miġbura mingħand il-kontributuri ma jippermettilniex nagħmlu dan.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Għaliex Open Food Facts qed jagħmel dan (Prezzijiet Miftuħa)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-L-informazzjoni dwar il-prezzijiet hija ta' importanza kbira biex wieħed jifhem is-sistemi tal-ikel. Huwa fattur ewlieni biex nifhmu l-ispiża tal-ikel u biex nippromwovu dieti aktar b'saħħithom. Id-dejta dwar il-prezzijiet tal-ftuħ hija mod kif tagħmilha aktar faċli għar-riċerkaturi, il-ġurnalisti u ċ-ċittadini biex ikollhom fehim aħjar ta’ kif il-prezzijiet tal-ikel ivarjaw ġeografikament u maż-żmien.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
