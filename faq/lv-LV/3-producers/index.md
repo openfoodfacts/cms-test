@@ -1,21 +1,21 @@
 ---
-title: "{{< fa nozares izmērs=2x >}} Ražotāji"
-description: "6 apakškategorijas"
-lang: lv-lv
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: nozare
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: režģis
+  type: grid
   grid-columns: 4
-  sort: "pasūtījums"
-  fields: [ nosaukums, apraksts ]
+  sort: "order"
+  fields: [ title, apraksts ]
   page-size: 100
 ---
 
-{{< fa "nozare" size=3x >}}
+{{< fa "industry" size=3x >}}
 
