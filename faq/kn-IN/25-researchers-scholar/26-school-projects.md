@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} ಶಾಲಾ ಯೋಜನೆಗಳು"
-description: "2 ಪ್ರಶ್ನೆಗಳು"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: ಫೈಲ್-ಒ
+icon: file-o
 ---
 
-{{< fa "ಫೈಲ್-ಒ" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## ನನಗೆ ಶಾಲೆಯ ಒಂದು ಪ್ರಾಜೆಕ್ಟ್ ಮಾಡಬೇಕಾಗಿದೆ, ನಾನು ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್ ಡೇಟಾವನ್ನು ಬಳಸಲು ಬಯಸುತ್ತೇನೆ, ನಾನು ಹಾಗೆ ಮಾಡಬಹುದೇ?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್, ಒಂದು ಓಪನ್ ಡೇಟಾಬೇಸ್, ODbL ಪರವಾನಗಿ ಅಡಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಓಪನ್ ಪ್ರಾಜೆಕ್ಟ್ ಆಗಿದೆ, ಆದ್ದರಿಂದ ನೀವು ODbL ಪರವಾನಗಿಯ ಅವಶ್ಯಕತೆಗಳನ್ನು ಒಪ್ಪುವವರೆಗೆ, ನಿಮ್ಮ ಯೋಜನೆಗಳಿಗೆ ನಮ್ಮ ಡೇಟಾವನ್ನು ಮರುಬಳಕೆ ಮಾಡಲು ನಿಮಗೆ ಸ್ವಾಗತ :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## ನನ್ನ ಯೋಜನೆಗಳಿಗೆ ಡೇಟಾವನ್ನು ನಾನು ಹೇಗೆ ಪ್ರವೇಶಿಸಬಹುದು/ಸಂಗ್ರಹಿಸಬಹುದು?
+## How can I access/collect data for my projects ?
 
-ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್‌ನ ಮುಖ್ಯ ಪುಟದಲ್ಲಿ, ಪರದೆಯ ಮೇಲಿನ ಎಡ ಮೂಲೆಯಲ್ಲಿ, ಸ್ಕ್ರೋಲಿಂಗ್ ಮೆನು ಇದೆ. ಅದರ ಕೆಳಭಾಗದಲ್ಲಿ, ನೀವು "ಸುಧಾರಿತ ಹುಡುಕಾಟ" ಆಯ್ಕೆಯನ್ನು ಕಾಣುವಿರಿ, ಅದರ ಮೇಲೆ ನೀವು ಕ್ಲಿಕ್ ಮಾಡಬಹುದು. ನಂತರ ನಿಮ್ಮ ಯೋಜನೆ(ಗಳು)ಗೆ ಯಾವ ಮಾನದಂಡಗಳು ಹೆಚ್ಚು ಪ್ರಸ್ತುತವಾಗಿವೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸುವುದು ನಿಮಗೆ ಬಿಟ್ಟದ್ದು. ಆಯ್ಕೆ ಮಾಡಿದ ನಂತರ, ಪುಟದ ಕೆಳಭಾಗದಲ್ಲಿ ಸ್ಕ್ರೋಲ್ ಮಾಡುವ ಮೂಲಕ ಮತ್ತು "ಫಲಿತಾಂಶಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ" ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ನೀವು ಪಡೆದ ಫಲಿತಾಂಶಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
