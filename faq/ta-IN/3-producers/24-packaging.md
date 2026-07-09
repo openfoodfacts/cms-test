@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} பேக்கேஜிங்"
-description: "3 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
-order: 24 ம.நே.
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
+order: 24
 category-level: 1
-icon: கன சதுரம்
+icon: cube
 ---
 
-{{< fa "கன சதுரம்" size="3x (3x)" >}}
+{{< fa "cube" size=3x >}}
 
-## திறந்த உணவு உண்மைகளில் எனது பேக்கேஜிங் தரவை எவ்வாறு சேர்ப்பது?
+## How can I add my packaging data to Open Food Facts?
 
-ஒரு தயாரிப்பாளராக, உங்கள் தயாரிப்புகளில் பேக்கேஜிங் தரவைச் சேர்ப்பதற்கான மிகச் சிறந்த வழி, "AU" நெடுவரிசையிலிருந்து தேவையான தகவல்களை இந்த [excel விரிதாளை](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) நிரப்புவதாகும்.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-ஒவ்வொரு பேக்கேஜிங் கூறுக்கும், நீங்கள் உள்ளிட வேண்டும்:
+For each packaging component, you will need to enter:
 
-- அலகுகளின் எண்ணிக்கை (எ.கா: **4** பானை தயிர்)
+- The number of units (ex: **4** pots of yogurts)
 
-- வடிவம் (எ.கா: **பானை, மூடி, பெட்டி, முதலியன**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- பொருள் (எ.கா: **PET, காகிதம், கண்ணாடி போன்றவை**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- மறுசுழற்சி வழிமுறை (எ.கா: **மறுசுழற்சி செய்ய, நிராகரிக்க, முதலியன**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ஒரு காலி அலகின் எடை (கிராமில்)
+- The weight of one empty unit (in gr)
 
-- ஒரு யூனிட்டில் உள்ள பொருளின் நிகர அளவு
+- The net quantity of product contained per unit
 
-இந்த விரிதாளை பின்னர் நிபுணர்களுக்காக அர்ப்பணிக்கப்பட்ட எங்கள் தளத்திற்கு இறக்குமதி செய்யலாம்.
-
----
-
-## டேக்லிங் உணவு பேக்கேஜிங் திட்டம் என்றால் என்ன?
-
-"டேக்லிங் ஃபுட் பேக்கேஜிங்" திட்டம், அதிகமாக நுகரப்படும் பொருட்களின் பேக்கேஜிங் பற்றிய விரிவான தகவல்களைச் சேகரிப்பதை உள்ளடக்கியது (வடிவம், பொருள், வரிசைப்படுத்துவதற்கான வழிமுறைகள், எடை, கொள்ளளவு).
-
-பங்கேற்பு அறிவியல் அணுகுமுறையின் அடிப்படையில், நிறுவனங்கள் தங்கள் பேக்கேஜிங் தரவைப் பகிர்ந்து கொள்ளவும், வெளிப்படைத்தன்மையை வெளிப்படுத்தவும் ஒப்புக்கொள்வதையும், குடிமக்கள் தயாரிப்புகள் பற்றிய தகவல்களைச் சேகரிக்க அனுமதிப்பதையும் இது நம்பியிருக்கும். இந்தத் தகவல் சுதந்திரமாக மீண்டும் பயன்படுத்தக்கூடியதாக இருக்கும் ("திறந்த தரவு").
-
-**மேலும் தகவலுக்கு:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## டேக்லிங் உணவு பேக்கேஜிங் திட்டம் முடிந்த பிறகும், எனது பேக்கேஜிங் தரவைச் சேர்க்க முடியுமா?
+## What is the Tackling Food Packaging project?
 
-திட்டம் முடிந்த பிறகும், பேக்கேஜிங் புலங்கள் எங்கள் வலைத்தளத்தில் இருக்கும் என்பதால், பேக்கேஜிங் தரவைச் சேர்க்க முடியும்.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
