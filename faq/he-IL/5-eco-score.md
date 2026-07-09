@@ -1,55 +1,55 @@
 ---
-title: "ציון אקו {{< fa user-plus size=2x >}}"
-description: "5 שאלות"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: משתמש פלוס
+icon: user-plus
 ---
 
-{{< fa "משתמש פלוס" size="פי 3" >}}
+{{< fa "user-plus" size=3x >}}
 
-## מהי מתודולוגיית אקו-סקור?
+## What is the Eco-Score methodology?
 
-ציון האקולוגיה מבוסס על חישוב ניתוח מחזור החיים שנערך על ידי ADEME (סוכנות המעבר האקולוגי) ו-INRAE (המכון הלאומי למחקר אגרונומי). כחמישה עשר מרכיבים מחושבים ומקושרים ליצירת ציון PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-לציון PEF זה מתווספים בונוסים וטעויות (אופן ייצור, מקור של
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-רכיבים, מינים בסכנת הכחדה, אריזות) על מנת לחשב את ציון הסביבה.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-למידע נוסף, עיינו בדף הסיכום [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) באתר Open Food Facts וכן באתר האינטרנט של קונסורציום Eco-Score. (מצגת Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## איזה סוג מידע יש לתת כדי שהציון האקולוגי יחושב בצורה מדויקת ככל האפשר?
-
-כדי לחשב במדויק את ציון האקולוגיה, יש לציין את האחוז של כל מרכיב ואת מקורו.
-
-אם מידע זה אינו צוין כבר ברשימת המרכיבים, ניתן להוסיף עמודה שתציין אותו, בפורמט הבא:
-
-קמח חיטה 16% (צרפת)
-
-שוקולד 8% (חוף השנהב, אקוודור)
-
-אנחנו צריכים גם את רכיבי האריזה בצורה של: יריעת פלסטיק אחת להשלכה, קופסת קרטון אחת מסוג FSC למחזור, 6 בקבוקי פלסטיק שקופים של PET בנפח 1.5 ליטר למחזור, 6 מכסי פלסטיק צבעוניים אטומים, 12 פחיות פלסטיק אלומיניום 33 קלוריות.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## כיצד משולבים הערכים של 15 האינדיקטורים?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**כדי להבין טוב יותר את מערכת ה-PEF, ניתן לקרוא: הסבר על ציון ה-PEF באתר המתודולוגי של Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## האם ההיבט המקומי נוגע למקום הייצור או למקום המקור של חומרי הגלם?
+## How are the values ​​of the 15 indicators combined?
 
-**ההיבט המקומי נוגע למקור חומרי הגלם.** זו הסיבה שחשוב להזין את האחוזים שלהם וכן את מקורותיהם ברשימת רכיבי המוצר או בשדה המוקדש למקורות הרכיבים.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## כיצד להזין את מקורות המרכיבים עבור ציון האקולוגיה?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-אם ברצונכם לשתף את המידע על מקור חומרי הגלם בדפי ההדפסה שלכם, אנו מזמינים אתכם לכלול אותם ברשימת הרכיבים.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
