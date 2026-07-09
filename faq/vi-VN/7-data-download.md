@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Tải xuống dữ liệu"
-description: "1 câu hỏi"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: tải xuống đám mây
+icon: cloud-download
 ---
 
-{{< fa "tải xuống đám mây" size="3 lần" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Tôi có thể lấy dữ liệu về một quốc gia cụ thể ở đâu?
+## Where to get the data for a specific country?
 
-Hiện tại, không có mặt hàng xuất khẩu nào dành riêng cho một quốc gia cụ thể.
+Currently, there are no exports dedicated to specific countries.
 
-Có rất nhiều cách để sử dụng các dữ liệu xuất khẩu khác nhau của chúng tôi kết hợp với các công cụ khác nhau để chọn lọc dữ liệu liên quan đến một quốc gia cụ thể.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Bạn có thể xem [một số kỹ thuật này trên wiki của chúng tôi](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
