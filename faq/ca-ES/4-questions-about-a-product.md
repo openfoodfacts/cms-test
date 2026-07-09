@@ -1,23 +1,23 @@
 ---
-title: "{{< fa mida de la cistella de la compra=2x >}} Preguntes sobre un producte"
-description: "1 pregunta"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: cistella de la compra
+icon: shopping-basket
 ---
 
-{{< fa "cistella de la compra" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Tinc una pregunta / reclamació sobre un producte
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) és un lloc web col·laboratiu creat i alimentat pels consumidors per poder desxifrar etiquetes i comparar productes.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Per obtenir més informació sobre un producte o una reclamació, escriviu al fabricant. No tenim informació de contacte dels fabricants, però sovint apareix a l'envàs.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Si voleu ajudar-nos a oferir més transparència als consumidors com vosaltres o com nosaltres, podeu utilitzar la nostra aplicació per a iPhone o Android per afegir productes: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-I per parlar sobre el projecte, podeu unir-vos al grup de col·laboradors de Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) o xatejar amb els altres col·laboradors a Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
