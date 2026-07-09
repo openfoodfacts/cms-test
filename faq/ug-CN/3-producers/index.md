@@ -1,21 +1,21 @@
 ---
-title: "{{< fa سانائەت كۆلىمى=2x >}} ئىشلەپچىقارغۇچىلار"
-description: "6 تارماق تۈر"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: سانائەت
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: تور
+  type: grid
   grid-columns: 4
-  sort: "بۇيرۇق"
-  fields: [ ماۋزۇ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "سانائەت" size=3x >}}
+{{< fa "industry" size=3x >}}
 
