@@ -1,49 +1,49 @@
 ---
-title: "Kurongedza {{< fa cube size=2x >}}"
-description: "Mibvunzo mitatu"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kubhi
+icon: cube
 ---
 
-{{< fa "kubhi" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ndingawedzera sei ruzivo rwangu rwekurongedza kuOpen Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Semugadziri, nzira inoshanda zvikuru yekuwedzera ruzivo rwekurongedza zvigadzirwa zvako ndeyekuzadza iyi [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ruzivo rwakakosha, kubva mukoramu "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Pachikamu chimwe nechimwe chekurongedza, uchafanirwa kunyora:
+For each packaging component, you will need to enter:
 
-- Huwandu hwemayuniti (semuenzaniso: **4** hari dzeyogati)
+- The number of units (ex: **4** pots of yogurts)
 
-- Chimiro (semuenzaniso: **hari, chivharo, bhokisi, nezvimwewo**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Zvinhu zvacho (semuenzaniso: **PET, bepa, girazi, nezvimwewo**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Murairo wekudzokorodza (semuenzaniso: **kudzokorodza, kurasa, nezvimwewo**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Kurema kweyuniti imwe isina chinhu (mu gr)
+- The weight of one empty unit (in gr)
 
-- Huwandu hwese hwechigadzirwa chiri payuniti imwe neimwe
+- The net quantity of product contained per unit
 
-Iyi spreadsheet inogona kupinzwa mupuratifomu yedu yakatsaurirwa kune nyanzvi.
-
----
-
-## Chii chinonzi chirongwa cheTackling Food Packaging?
-
-Chirongwa che "Tackling Food Packaging" chinosanganisira kuunganidza ruzivo rwakadzama pamusoro pekurongedza zvigadzirwa zvinonyanya kudyiwa (chimiro, zvinhu, mirairo yekurongedza, huremu, kugona).
-
-Zvichibva panzira yesainzi yekubatsirana, zvichavimba nemakambani anobvumirana kugovera ruzivo rwavo rwekurongedza uye kutamba mutambo wekuita zvinhu pachena, uye nevagari vanobvumira kuunganidzwa kweruzivo pamusoro pezvigadzirwa. Ruzivo urwu ruchashandiswazve mahara ("data rakavhurika").
-
-**Kuti uwane rumwe ruzivo:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Kunyangwe mushure mekupera kwechirongwa cheTackling Food Packaging, ndinogona here kuwedzera ruzivo rwangu rwekurongedza?
+## What is the Tackling Food Packaging project?
 
-Kunyangwe mushure mekupera kweprojekiti, zvinokwanisika kuwedzera ruzivo rwekurongedza sezvo nzvimbo dzekurongedza dzichiramba dziri pawebhusaiti yedu.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
