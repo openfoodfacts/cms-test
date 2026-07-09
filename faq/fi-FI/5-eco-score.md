@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Ympäristöpisteet"
-description: "5 kysymystä"
-lang: fi-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: käyttäjä plus
+icon: user-plus
 ---
 
-{{< fa "käyttäjä plus" size="3 kertaa" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Mikä on Eco-Score-menetelmä?
+## What is the Eco-Score methodology?
 
-Ympäristöpisteytys perustuu ADEME:n (ekologisen siirtymän virasto) ja INRAE:n (kansallinen maataloustutkimuslaitos) tuottaman elinkaarianalyysin laskentaan. PEF-pistemäärän luomiseksi lasketaan ja linkitetään noin viisitoista osatekijää.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Tähän PEF-pistemäärään lisätään bonuksia ja haittapuolia (tuotantotapa, tuotteen alkuperä).
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ainesosat, uhanalaiset lajit, pakkaukset) ympäristöpisteiden laskemiseksi.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Lisätietoja on Open Food Factsin yhteenvetosivulla [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) sekä Eco-Score-konsortion verkkosivustolla. (Eco-Score-esitys [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Minkä tyyppisiä tietoja on annettava, jotta ympäristöpisteet voidaan laskea mahdollisimman tarkasti?
-
-Jotta ympäristöpisteet voidaan laskea tarkasti, kunkin ainesosan prosenttiosuus ja alkuperä on määriteltävä.
-
-Jos tätä tietoa ei ole jo mainittu ainesosaluettelossa, voit lisätä sarakkeen mainitaksesi sen seuraavassa muodossa:
-
-Vehnäjauhoja 16 % (Ranska)
-
-Suklaa 8 % (Norsunluurannikko, Ecuador)
-
-Tarvitsemme myös pakkausmateriaalit: 1 muovikelmun heittämistä varten, 1 FSC-pahvilaatikon kierrätykseen, 6 kpl läpinäkyviä 1,5 litran PET-muovipulloja kierrätykseen, 6 kpl läpinäkymätöntä värillistä muovikorkkia, 12 kpl 33 cl alumiinitölkkejä.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Miten 15 indikaattorin arvot yhdistetään?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Ymmärtääksesi PEF-järjestelmän paremmin, voit lukea: PEF-pistemäärän selityksen Eco-Score-metodologiasivustolla**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Koskeeko paikallinen näkökohta valmistuspaikkaa vai raaka-aineiden alkuperäpaikkaa?
+## How are the values ​​of the 15 indicators combined?
 
-**Paikallisuusnäkökohta koskee raaka-aineiden alkuperää.** Siksi on tärkeää merkitä niiden prosenttiosuudet sekä alkuperä tuotteen ainesosaluetteloon tai ainesosien alkuperälle varattuun kenttään.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Miten syötän ainesosien alkuperän ekopisteytystä varten?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Jos haluat jakaa tiedot raaka-aineiden alkuperästä arkeillasi, pyydämme sinua lisäämään ne ainesosaluetteloon.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
