@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Binciken fayil ɗin samfur (maki, haɓakawa...)"
-description: "Tambaya 1"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: sandar jadawalin
+icon: chart-bar
 ---
 
-{{< fa "sandar jadawalin" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Ta yaya zan iya samun shawarar sake fasalin don inganta Nutri-Score na samfurana?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Idan kana kan shafin farko na Dandalin Masu Shiryawa:
+When you are on the home page of the Producers Platform:
 
-1. danna mahaɗin "→ Adadin kayayyakin da ke da damar ingantawa" a saman shafin.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. za ku iya duba duk damar da tsarinmu ya gano don inganta samfuran ku
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. danna wani nau'in dama zai kai ku ga jerin samfuran da za a iya ingantawa.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
