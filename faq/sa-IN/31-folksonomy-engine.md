@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} लोकस्वरविज्ञान इञ्जिन"
-description: "१ प्रश्नः"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: ३१
+order: 31
 category-level: 0
-icon: पुस्तकम्‌
+icon: book
 ---
 
-{{< fa "पुस्तकम्‌" size=३x >}}
+{{< fa "book" size=3x >}}
 
-## लोकस्वरविज्ञानस्य इञ्जिनं किम् ?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine इति प्रणाली अस्ति या उपयोक्तारः विश्वस्य बृहत्तमस्य मुक्त-खाद्य-दत्तांशकोशे Open Food Facts इत्यस्मिन् खाद्यपदार्थेषु कस्टम् टैग्स्, अथवा गुणाः योजयितुं शक्नुवन्ति एतेन जनाः विद्यमानपूर्वनिर्धारितगुणात् परं नूतनरीत्या अन्नस्य वर्गीकरणं वर्णनं च कर्तुं शक्नुवन्ति ।
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
