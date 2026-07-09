@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} データのダウンロード"
-description: "1件の質問"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: クラウドダウンロード
+icon: cloud-download
 ---
 
-{{< fa "クラウドダウンロード" size=3倍 >}}
+{{< fa "cloud-download" size=3x >}}
 
-## 特定の国のデータはどこで入手できますか?
+## Where to get the data for a specific country?
 
-現在、特定の国専用の輸出はございません。
+Currently, there are no exports dedicated to specific countries.
 
-さまざまなエクスポートをさまざまなツールと組み合わせて使用し、特定の国に関連するデータを選択する方法は多数あります。
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[これらのテクニックのいくつかは、当社の wiki でご覧いただけます](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data)。
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
