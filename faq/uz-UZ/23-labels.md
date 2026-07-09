@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Yorliqlar"
-description: "2 ta savol"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: xatcho'p
+icon: bookmark
 ---
 
-{{< fa "xatcho'p" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Yorliq sifatida hisob yaratish muhimmi?
+## As a label, is it important to create an account ?
 
-Yorliq sifatida, siz mahsulotlarning bevosita ishlab chiqaruvchisi emasligingiz sababli, ishlab chiqaruvchi akkauntini yaratishingiz shart emas.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Men leyblman, loyihada qanday ishtirok etishim mumkin?
+## I am a label, how can I participate in the project?
 
-Yorliq sifatida eng muhim narsa biz bilan bog'lanishdir **(producers@openfoodfacts.org)** va yorlig'ingiz ko'rsatilgan mahsulotlar ro'yxatini bizga yuborish, shunda biz ularni tegishli mahsulot varaqlariga qo'shishimiz mumkin.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
