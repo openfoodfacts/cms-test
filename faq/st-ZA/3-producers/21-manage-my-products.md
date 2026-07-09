@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Laola lihlahisoa tsa ka"
-description: "Lipotso tse 16"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: lebokose
+icon: box
 ---
 
-{{< fa "lebokose" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Ke eng e tiisang boleng ba data ho Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Ho ntlafatsa boleng ba data ka ho tswela pele re itshetlehile ka dipilara tse 4:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Sechaba se ntse se eketsa lintlha le linepe khafetsa 'me ke sehlopha sa bahlahlobi ba 'nete.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Re behile melao ea logic ho khetholla liphoso maqepheng a lihlahisoa.Mohlala: haeba kakaretso ea boima ba metsoako e feta boima bohle ba sehlahisoa, ho na le ntho e sa tloaelehang. Re na le liteko tse ling tse ka bang 50 tsa boleng.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Ka lebaka la Machine Learning, re fokotsa kotsi ea liphoso tse kenang. Theknoloji ea rona e re lumella ho ntša lintlha tsa mongolo linepe tse nkiloeng ke bafani ba thepa
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Ka lebaka la tšehetso ea Santé Publique France, re thehile sebaka sa marang-rang se lumellang bahlahisi ho kenya data ea bona e hlahisitsoeng ka bongata kahoo ba lokisa/ba phethela menehelo ea sechaba.
-
----
-
-## Mokhoa oa ho eketsa lihlahisoa?
-
-Ho eketsa dihlahiswa sethaleng sa rona, o hloka pele ho etsa qeto ya hore na o batla ho tswela pele jwang. Ho na le dikgetho tse 4:
-
-- **Ka letsoho**: haeba o na le palo e nyane ea lihlahisoa, ho ntse ho khoneha ho etsa leqephe le leng le le leng la sehlahisoa ka letsoho ho Pro Platform.
-
-- **Ka ho kenya spreadsheet**: o ka khoasolla spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) e fanoeng ke Open Food Facts, kapa wa kenya ka kotloloho se ntšitsoeng ho tsoa tsamaisong ya hao ya IT ho ya sethaleng sa Pro.
-
-- **Ka lihokelo tsa likhathalogu tsa lihlahisoa**. Haeba o moreki ho EQUADIS, AGENA3000 kapa BAYARD, o ka kenya data ho Open Food Facts ka ho tobetsa hanngoe. Haeba o sebetsa le PIM e 'ngoe (Tsamaiso ea Tlhahisoleseling ea Lihlahisoa), ka kopo ikopanye le rona: producers@openfoodfacts.org
-
-- \*\*Ka khokahano e etselitsoeng k'hamphani ea hau le Open Food Facts. Haeba o bala dihlahiswa tse fetang 1000 ho potefolio ya hao, re ka buisana ka monyetla wa ho aha sehokelo se itseng ho nolofatsa phetiso ya data.
-
-Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Na ho na le mokhoa oa ho iketsetsa lintlafatso tsa lihlahisoa ho database ea sechaba?
+## How to add products?
 
-E, haeba o sebedisa dikhataloganyo tsa dihlahiswa tsa EQUADIS, AGENA3000 kapa BAYARD, mme o seta tlhophiso e nepahetseng, ho kenya ho ka etswa ka bohona mme ka hona o ntjhafatse data ya sehlahiswa ho Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Na palo ea lihlahisoa tse ekelitsoeng e lekanyelitsoe?
+## Is there a way to automate product updates to the public database?
 
-Ha ho na moeli, o ka kenya palo ea lihlahisoa tseo o li batlang sethaleng sa rona.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Haeba o batla ho tlosa sehlahisoa se seng se sa fumanehe 'marakeng, o tlameha feela ho tšoaea lebokose le reng "sehlahisoa sena ha se sa rekisoa" ha o hlophisa leqephe la hau la sehlahisoa.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Haeba o batla ho tlosa dihlahiswa tse mmalwa, re kgothaletsa hore o latele mokgwa o boletsweng ho [tataiso ya mosebedisi](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), leqepheng la 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Hape o ka ikopanya le rona ka producers@openfoodfacts.org haeba o na le dipotso.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Ha sehlahiswa se bolokilwe, se ke ke sa hlola se hlaha ho Open Food Facts.Leha ho le jwalo, e tla dula e le polokelongtshedimosetsong ya rona e le hore re ka boloka nalane ya dihlahiswa tse rekiswang ha nako e ntse e ya.
-
----
-
-## Na tlhahisoleseding ea k'hamphani e tla pele ho tlhahisoleseding e seng e ntse e le teng sethaleng?
-
-Ha mohlahisi a beha e 'ngoe ea lihlahisoa tsa hae inthaneteng akhaonteng ea hae ea mohlahisi 'me leqephe la lihlahisoa le se le ntse le le teng, sena se tla le phethela.
-
-Tlhahisoleseding eo mohlahisi a tla beng a e rometse e tla dula e le ya bohlokwa mme ke yena feela ya tla kgona ho fetola dihlahiswa tsa hae ha tlhahisoleseding e tlatsitswe.
-
-Haeba data e rometsoeng ka sethala e arohane, tlhahisoleseling e ekelitsoeng ke sechaba ho tsoa sephutheloana e ka e tlatsa.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Ke lokela ho romela data ea ka ka mokhoa ofe?
+## Does company information take precedence over information already present on the platform?
 
-[template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) e fanoa ke Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Leha ho le jwalo, sebopeho sefe kapa sefe sa spreadsheet (xlsx, csv) se tla kenngwa ka hara sethala.  
-Algorithm ea rona e etselitsoe ho bapisa litšobotsi tse tsoang faeleng ea hau ka bohona, le tse teng ho Open Food Facts. Hlokomela hore kamehla o hlahlobe habeli mohato o lumellanang kaha o ka 'na oa hloka ho lokisa tse ling tsa tsona ka letsoho.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Haeba tlhahisoleseding ea hau e arotsoe lipakeng tsa li-spreadsheet tse 'maloa, u ka li kenya ka tatellano - u etsa bonnete ba hore u li bapisa haeba sebopeho se fetoha.
-
-Hape o ka kenya faele ea Excel ho phaella ho EQUADIS kapa AGENA3000, haeba data e e-so be tsamaisong ea hau ea tlhahisoleseling. Maemong ana, o se ke wa lebala ho kopa ho romelwa ha data ho database ya setjhaba ho tloha sebopehong.
-
-→ Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## U kopantsoe le likhathalogu life tsa lihlahisoa?
+## In what format should I send my data?
 
-Bahlahisi jwale ba ka romela data ya dihlahiswa tsa bona le difoto ka nako ya sebele ho tloha ho **Equadis,** **AGENA3000 le BAYARD consulting** ho ya ho Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Ehlile o tla boela o rue molemo ho tsoa litlhahisong tsa tokiso le likarolo tsohle tsa sethala.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Sengolwa sa rona sa blog](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) se hlalosa mehato eo o lokelang ho e latela haeba o le moreki wa EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Haeba u moreki oa AGENA3000 (INDASERI EA PIM EA Sehlahisoa sa A3), u tlameha feela ho khetha moamoheli "Lintlha Tse Butsoeng tsa Lijo" ha u romella maqephe a lihlahisoa tsa hau. [Tlhahisoleseding e batsi ka poso ena ya blog](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Haeba u moreki oa lethathamo la lintlha tsa sehlahisoa se seng (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, jj.) ka kopo re tsebise ho [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Mokhoa oa ho eketsa lihlahisoa ntle le li-barcode ka sethala sa Pro?
+## With which product catalogs are you integrated?
 
-Bakeng sa dihlahiswa tse se nang khoutu ya bare, sebakeng sa marang-rang kapa sethaleng sa mohlahisi, ho na le konopo ya "Sehlahiswa se se nang khoutu ya bare" kholomong e ka letsohong le letshehadi e o dumellang ho di eketsa. Ebe boitsebiso bo hlahisoa ka bohona.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Re thehile merero e itseng bakeng sa litlolo, bakeng sa lijo tsa liphoofolo, hammoho le bakeng sa lihlahisoa tse ling: Lintlha tsa Botle tse Bulohileng, Lintlha tsa Lijo tsa Liphoofolo tse Bulohileng le Lintlha tsa Lihlahisoa tse Bulohileng ka ho latellana.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Lintlha tsa sehlahisoa tse tsoang k'hamphaning ea ka li fumaneha ho Open Food Facts. Na hoa khoneha ho laola ak'haonte ea mohlahisi e amanang le eona?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ehlile ho joalo! O ka laola ak'haonte ea mohlahisi e amanang le eona ka ho theha ak'haonte ea Open Food Facts e nang le aterese ea khoebo ea hau. Ha o ingodisa, bolela lebitso la mokgatlo o teng foromong hore o kgone ho fihlella sebaka se loketseng sa mohlahisi.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Mohato o mokgutshwane wa netefatso o tla hlokahala ho netefatsa hore o mohlahisi ehlile.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-U tla khona ho tlatsa lintlha, ho eketsa litšoantšo, ho fumana likhothaletso tse iketsang bakeng sa ho ntlafatsa Nutri-Score, le tse ling tse ngata. Tsena tsohle ehlile ke mahala ka ho feletseng. Hape o ka hokela sistimi ya taolo ya data ya dihlahiswa ya motho wa boraro jwalo ka EQUADIS, AGENA3000 le Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ho nka nako e kae hore tlhahisoleseding ea mohlahisi e ntlafatsoe ho sesebelisoa se seng se sebelisang hape database ea Open Food Facts?
-
-Ho itšetlehile ka lisebelisoa. Bakeng sa ba sebelisang li-API tsa rona, e leng bongata ba tsona, ke ntho e etsahalang hang-hang.  
-Bakeng sa ba sebelisang thepa ea rona ea letsatsi le letsatsi e romelloang kantle ho naha, ke D+1 ha feela ba e ntlafatsa.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Na ho kenya data ho tsoa rekotong ea sehlahisoa ho tlatsa kapa ho hlakola rekoto e seng e ntse e le teng ea sehlahisoa?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Re sebelisa barcode ho khetholla lihlahisoa, haeba u kenya rekoto e nang le barcode e tšoanang le rekoto e seng e ntse e le teng, tlhahisoleseling e tla kopanngoa.
-
-Bakeng sa lintlha tse kang lethathamo la metsoako, boleng ba phepo (boleng bo le bong feela bo nepahetseng bo ka khonehang), lintlha tse rometsoeng ka sethala sa mohlahisi li tla hlakola lintlha tse seng li ntse li le teng.
-
-Bakeng sa data e kang mabitso/dihlopha/mabitso (boleng bo 'maloa bo nepahetseng bo ka khonehang), tlhahisoleseling e kopanngoa. Haeba tlhahisoleseding e fosahetse sethaleng sa sechaba, o ka fetola leqephe la sehlahisoa sethaleng sa sechaba ho tlosa boleng bo fosahetseng.
-
-→ Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Na tatellano ea metsoako e bohlokoa?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Tatellano ea metsoako e bohlokoa: e emela tatellano ka bongata.
-Tsela e molemohali ea ho tlatsa metsoako ke ho latela hantle se ngotsoeng sephutheloana. Ke ka lebaka leo ho leng bohlokoa haholo ho hatisa linepe tsa metsoako.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Na nka romela litšoantšo ka AGENA3000 hape?
+## Is the order of ingredients important?
 
-O ka romela ditshwantsho empa ha e le hantle ke setshwantsho se seholo feela se tla kgethwa ka boiketsetso, ditshwantsho tse ding di tla romelwa, empa di ke ke tsa kgaolwa/tsa kgethwa bakeng sa metswako, phepo e nepahetseng jj.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Mokhoa oa ho fumana lithuto tsa sethala sa Pro?
+## Can I send images via AGENA3000 too?
 
-O ka fihlella lithuto tsa sethala sa pro:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Ka sethala sa litsebi ka bosona: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Ka ho toba ho [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Hape o ka khoasolla [tataiso ea rona ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
