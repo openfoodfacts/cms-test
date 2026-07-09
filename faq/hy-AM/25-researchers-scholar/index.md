@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Հետազոտողներ/Գիտնականներ"
-description: "1 ենթակատեգորիա"
-lang: անգլերեն-գբ
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: ավարտական գլխարկ
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ցանց
+  type: grid
   grid-columns: 4
-  sort: "կարգ"
-  fields: [ վերնագիր, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ավարտական գլխարկ" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
