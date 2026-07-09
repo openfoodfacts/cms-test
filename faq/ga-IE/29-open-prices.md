@@ -1,6 +1,6 @@
 ---
-title: "{{< fa dollar size=2x >}} Praghsanna Oscailte"
-description: "3 cheist"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
@@ -9,23 +9,23 @@ icon: dollar
 
 {{< fa "dollar" size=3x >}}
 
-## Is miondíoltóir mé agus ba mhaith liom cur le praghsanna. Conas is féidir liom é sin a dhéanamh?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Is féidir leat praghsanna a chur leis trí úsáid a bhaint as [ár nAPI](https://prices.openfoodfacts.org/api/docs). Más mian leat cur le praghsanna ar scála mór, déan teagmháil linn ag [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## An bhfuil tú ag smaoineamh ar phraghsanna a scríobadh ó shuíomhanna gréasáin miondíoltóirí?
+## Do you consider scraping prices from retailers’ websites?
 
-Ar chúiseanna dlíthiúla agus teicniúla, ní mheasaimid gur bealach bailí é praghsanna a scríobadh ó shuíomhanna gréasáin miondíoltóirí chun cur le Praghsanna Oscailte. Ba mhaith linn a chinntiú go bhfuil na praghsanna a bhailímid cruinn agus cothrom le dáta, agus ní cheadaíonn praghsanna scríobtha a fháil ó rannpháirtithe dúinn é sin a dhéanamh.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Is rogha a mheastar a bheith i gceist le scríobadh praghsanna i leagan amach anseo de Open Prices, ach dhéanfadh Open Prices féin é ionas go mbeidh cruthúnas againn ar an bpraghas bunaithe ar an leathanach HTML.
 
 ---
 
-## Cén fáth a bhfuil Open Food Facts ag déanamh seo (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Tá faisnéis faoi phraghsanna ríthábhachtach chun córais bhia a thuiscint. Is fachtóir ríthábhachtach é chun costas bia a thuiscint agus chun aistí bia níos sláintiúla a chur chun cinn. Is bealach é sonraí praghsanna a oscailt chun go mbeidh sé níos fusa do thaighdeoirí, d’iriseoirí agus do shaoránaigh tuiscint níos fearr a fháil ar an gcaoi a n-athraíonn praghsanna bia go geografach agus in am.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
