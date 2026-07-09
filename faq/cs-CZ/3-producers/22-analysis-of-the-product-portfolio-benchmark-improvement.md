@@ -1,17 +1,17 @@
 ---
 title: "{{< fa chart-bar size=2x >}} Analýza produktového portfolia (benchmarking, vylepšení...)"
 description: "1 otázka"
-lang: en-gb
+lang: cs
 order: 22
 category-level: 1
 icon: sloupcový graf
 ---
 
-{{< fa "sloupcový graf" size=3x >}}
+{{< fa "sloupcový graf" size=3× >}}
 
 ## Jak získám přístup k doporučení pro změnu složení, abych zlepšil Nutri-Score mých produktů?
 
-Když se nacházíte na domovské stránce platformy producentů:
+Když se nacházíte na domovské stránce platformy pro výrobce:
 
 1. klikněte na odkaz „→ Počet produktů s možnostmi vylepšení“ v horní části stránky.
 
