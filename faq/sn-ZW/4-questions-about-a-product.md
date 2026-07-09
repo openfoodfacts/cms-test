@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Mibvunzo nezvechigadzirwa"
-description: "Mubvunzo 1"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: bhasikiti rekutenga
+icon: shopping-basket
 ---
 
-{{< fa "bhasikiti rekutenga" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ndine mubvunzo/chikumbiro nezvechigadzirwa
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) inzvimbo yekushandira pamwe yakagadzirwa uye inopihwa nevatengi kuti vakwanise kunzwisisa mavara uye kuenzanisa zvigadzirwa.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Kuti uwane rumwe ruzivo nezvechigadzirwa kana chikumbiro, nyorera mugadziri. Hatina ruzivo rwekuonana nevagadziri asi kazhinji kacho vanenge vari papakeji.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Kana muchida kutibatsira kuti vatengi vakaita semi kana isu tiite zvinhu pachena, munogona kushandisa iPhone kana Android app yedu kuwedzera zvigadzirwa: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Uye kuti mukurukure nezvechirongwa ichi, munogona kubatana neboka revanopa rubatsiro paFacebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) kana kutaura nevamwe vanopa rubatsiro paSlack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
