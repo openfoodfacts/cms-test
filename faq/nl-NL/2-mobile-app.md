@@ -1,52 +1,51 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile app"
-description: "4 questions"
-lang: en-gb
+title: "{{< fa mobile size=2x >}} Mobiele app"
+description: "4 vragen"
+lang: nl-nl
 order: 2
 category-level: 0
-icon: mobile
+icon: mobiel
 ---
 
-{{< fa "mobile" size=3x >}}
+{{< fa "mobiel" size=3x >}}
 
-## How do I know which version of the app I'm using?
+## Hoe weet ik welke versie van de app ik gebruik?
 
-Go to **Profile**,
-then **FAQ**, then **About this app.**
+Ga naar Profiel,
+, vervolgens naar Veelgestelde vragen en daarna naar Over deze app.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
-
----
-
-## The app does not scan
-
-This may be due to
-
-- a network problem
-
-- a permissions problem
-
-- a barcode problem
-
-Send us an email via Profile >> Contact Us >> Send us an email.
-
-All relevant information should be attached to your request.
+U zou
+een versienummer zoals 3.4.5+662 moeten zien. Vergeet niet het merk en model\nvan de telefoon door te geven als je aan het debuggen bent.
 
 ---
 
-## How can I help with improving the mobile app ?
+## De app scant niet
 
-How can I help with improving the mobile app ?
+Dit kan te wijten zijn aan
+
+- een netwerkprobleem
+
+- een probleem met machtigingen
+
+- een barcodeprobleem
+
+Stuur ons een e-mail via Profiel >> Contact >> Stuur ons een e-mail.
+
+Alle relevante informatie dient bij uw aanvraag te worden gevoegd.
+
+---
+
+## Hoe kan ik helpen bij het verbeteren van de mobiele app?
+
+Hoe kan ik helpen bij het verbeteren van de mobiele app?
 
 You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
 
 ---
 
-## Where can I send feedback about the app ?
+## Waar kan ik feedback over de app geven?
 
-You can send feedback to mobile@openfoodfacts.org
+Je kunt feedback sturen naar mobile@openfoodfacts.org
 
 ---
 
