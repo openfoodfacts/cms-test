@@ -1,52 +1,52 @@
 ---
-title: "{{< fa мобильлӗ пысӑкӑш=2x >}} Мобильлӗ приложени"
-description: "4 ыйту"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: мобильнӑй
+icon: mobile
 ---
 
-{{< fa "мобильнӑй" size=3х >}}
+{{< fa "mobile" size=3x >}}
 
-## Эпӗ мӗнле приложенипе усӑ курнине ӑҫтан пӗлме пултаратӑп?
+## How do I know which version of the app I'm using?
 
-**Профиль** ҫине кайӑр,
-унтан **FAQ**, унтан **Ҫак приложени ҫинчен.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Эсир
-3.4.5+662 пек верси номерне курмалла. Телефон тӳрлетет пулсан, унӑн маркипе модельне
-калама ан манӑр.
-
----
-
-## Приложени сканерламасть
-
-Ку ҫакӑнпа ҫыхӑннӑ пулма пултарать
-
-- сеть ыйтӑвӗ
-
-- ирӗк ыйтӑвӗ
-
-- штрих-код ыйтӑвӗ
-
-Профиль урлӑ пире электронлӑ ҫыру ярӑр >> Пирӗнпе ҫыхӑнӑр >> Пирӗн пата электронлӑ ҫыру ярӑр.
-
-Сирӗн ыйту ҫумне кирлӗ информацие пурне те ҫирӗплетмелле.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Мобильлӗ приложение лайӑхлатма мӗнле пулӑшма пулать?
+## The app does not scan
 
-Мобильлӗ приложение лайӑхлатма мӗнле пулӑшма пулать?
+This may be due to
 
-Эсир [ҫакна Мобильлӗ приложени репозиторийӗнче тума пултаратӑр](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Приложени пирки ӑҫта ҫырса яма пулать?
+## How can I help with improving the mobile app ?
 
-Эсир хӑвӑрӑн шухӑшӑрсене mobile@openfoodfacts.org адреспа ярса пама пултаратӑр
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
