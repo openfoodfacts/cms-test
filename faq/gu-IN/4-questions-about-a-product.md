@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} ઉત્પાદન વિશે પ્રશ્નો"
-description: "૧ પ્રશ્ન"
-lang: eng-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: ખરીદીની ટોપલી
+icon: shopping-basket
 ---
 
-{{< fa "ખરીદીની ટોપલી" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## મારી પાસે એક પ્રોડક્ટ વિશે એક પ્રશ્ન / દાવો છે.
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) એક સહયોગી સાઇટ છે જે ગ્રાહકો દ્વારા બનાવવામાં અને ફીડ કરવામાં આવે છે જેથી તેઓ લેબલ્સને સમજવા અને ઉત્પાદનોની તુલના કરી શકે.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-ઉત્પાદન અથવા દાવા વિશે વધુ માહિતી માટે, ઉત્પાદકને લખો. અમારી પાસે ઉત્પાદકોની સંપર્ક માહિતી નથી પણ તે મોટાભાગે પેકેજિંગ પર હોય છે.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-જો તમે તમારા અથવા અમારા જેવા ગ્રાહકો માટે વધુ પારદર્શિતા લાવવામાં અમારી મદદ કરવા માંગતા હો, તો તમે ઉત્પાદનો ઉમેરવા માટે અમારી iPhone અથવા Android એપ્લિકેશનનો ઉપયોગ કરી શકો છો: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-અને પ્રોજેક્ટ વિશે ચર્ચા કરવા માટે, તમે ફાળો આપનારાઓના ફેસબુક જૂથમાં જોડાઈ શકો છો: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) અથવા Slack પર અન્ય ફાળો આપનારાઓ સાથે ચેટ કરી શકો છો:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
