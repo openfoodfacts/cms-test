@@ -1,21 +1,21 @@
 ---
-title: "{{< saiz muat turun awan fa=2x >}} Muat turun data"
-description: "1 soalan"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: muat turun awan
+icon: cloud-download
 ---
 
-{{< fa "muat turun awan" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Di mana untuk mendapatkan data bagi sesebuah negara tertentu?
+## Where to get the data for a specific country?
 
-Pada masa ini, tiada eksport yang dikhaskan untuk negara tertentu.
+Currently, there are no exports dedicated to specific countries.
 
-Terdapat banyak cara untuk menggunakan eksport berbeza kami yang digabungkan dengan alatan berbeza bagi memilih data yang berkaitan dengan negara tertentu.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Anda boleh melihat [beberapa teknik ini di wiki kami](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
