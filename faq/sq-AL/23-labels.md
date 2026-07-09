@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiketa"
-description: "2 pyetje"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: faqeshënues
+icon: bookmark
 ---
 
-{{< fa "faqeshënues" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Si një label, a është e rëndësishme të krijosh një llogari?
+## As a label, is it important to create an account ?
 
-Si etiketë, meqenëse nuk jeni prodhuesi i drejtpërdrejtë i produkteve, nuk keni nevojë të krijoni një llogari prodhuesi.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Unë jam një label, si mund të marr pjesë në projekt?
+## I am a label, how can I participate in the project?
 
-Si etiketë, gjëja më e rëndësishme që mund të bëni është të na kontaktoni **(producers@openfoodfacts.org)** dhe të na dërgoni listën e produkteve në të cilat shfaqet etiketa juaj, në mënyrë që t'i shtojmë ato në fletët përkatëse të produkteve.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
