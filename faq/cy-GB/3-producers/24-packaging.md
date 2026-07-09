@@ -1,49 +1,49 @@
 ---
-title: "Pecynnu {{< maint ciwb fa=2x >}}"
-description: "3 cwestiwn"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: ciwb
+icon: cube
 ---
 
-{{< fa "ciwb" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Sut alla i ychwanegu fy nata pecynnu at Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Fel cynhyrchydd, y ffordd fwyaf effeithlon o ychwanegu data pecynnu at eich cynhyrchion yw trwy lenwi'r [daenlen excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) hon â'r wybodaeth angenrheidiol, o golofn "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Ar gyfer pob cydran pecynnu, bydd angen i chi nodi:
+For each packaging component, you will need to enter:
 
-- Nifer yr unedau (e.e.: **4** pot o iogwrt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Y siâp (e.e.: **pot, caead, blwch, ac ati**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Y deunydd (e.e.: **PET, papur, gwydr, ac ati**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Y cyfarwyddyd ailgylchu (e.e.: **ailgylchu, gwaredu, ac ati**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Pwysau un uned wag (mewn gr)
+- The weight of one empty unit (in gr)
 
-- Y swm net o gynnyrch sydd wedi'i gynnwys fesul uned
+- The net quantity of product contained per unit
 
-Yna gellir mewnforio'r daenlen hon i'n platfform sydd wedi'i neilltuo ar gyfer gweithwyr proffesiynol.
-
----
-
-## Beth yw'r prosiect Mynd i'r Afael â Phecynnu Bwyd?
-
-Mae prosiect "Mynd i'r Afael â Phecynnu Bwyd" yn cynnwys casglu gwybodaeth fanwl am becynnu'r cynhyrchion a ddefnyddir fwyaf (siâp, deunydd, cyfarwyddiadau didoli, pwysau, capasiti).
-
-Yn seiliedig ar ddull gwyddoniaeth gyfranogol, bydd yn dibynnu ar gwmnïau'n cytuno i rannu eu data pecynnu ac i chwarae gêm tryloywder, ac ar ddinasyddion yn caniatáu casglu gwybodaeth am gynhyrchion. Bydd modd ailddefnyddio'r wybodaeth hon yn rhydd ("data agored").
-
-**Am ragor o wybodaeth:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Hyd yn oed ar ôl diwedd y prosiect Mynd i'r Afael â Phecynnu Bwyd, a allaf ychwanegu fy nata pecynnu o hyd?
+## What is the Tackling Food Packaging project?
 
-Hyd yn oed ar ôl diwedd y prosiect, mae'n bosibl ychwanegu data pecynnu gan y bydd y meysydd pecynnu yn aros ar ein gwefan.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
