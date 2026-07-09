@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Produktu-zorroaren azterketa (erreferentzia, hobekuntza...)"
-description: "galdera 1"
-lang: eu-gb
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: diagrama-barra
+icon: chart-bar
 ---
 
-{{< fa "diagrama-barra" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Nola eskuratu dezaket nire produktuen Nutri-Score hobetzeko birformulazio gomendioa?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Ekoizleen Plataformaren hasierako orrialdean zaudenean:
+When you are on the home page of the Producers Platform:
 
-1. Egin klik orriaren goialdean dagoen "→ Hobekuntza aukerak dituzten produktuen kopurua" estekan.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. gure sistemak zure produktuak hobetzeko detektatutako aukera guztiak kontsulta ditzakezu
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Aukera mota batean klik egitean hobekuntzarako produktuen zerrendara iritsiko zara.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Xehetasun gehiago nahi izanez gero, gure [erabiltzaile gida](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) deskargatzera eta/edo gure [bideo tutorialak](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) kontsultatzera gonbidatzen zaitugu :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
