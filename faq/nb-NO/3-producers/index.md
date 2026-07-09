@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Produsenter"
-description: "6 underkategorier"
-lang: no-no
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: industri
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: rutenett
+  type: grid
   grid-columns: 4
-  sort: "ordre"
-  fields: [ tittel, beskrivelse ]
+  sort: "order"
+  fields: [ title, beskrivelse ]
   page-size: 100
 ---
 
-{{< fa "industri" size="3 x" >}}
+{{< fa "industry" size=3x >}}
 
