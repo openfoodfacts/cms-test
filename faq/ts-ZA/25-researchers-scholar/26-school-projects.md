@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Tiphurojeke ta xikolo"
-description: "2 swivutiso"
-lang: ts-gb
-order: 26. 26
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
+order: 26
 category-level: 1
-icon: fayili-o
+icon: file-o
 ---
 
-{{< fa "fayili-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ndzi na phurojeke ya xikolo leyi ndzi faneleke ku yi endla, ndzi lava ku tirhisa data ya Open Food Facts, xana ndzi nga endla tano?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, i database leyi pfulekeke, phurojeke leyi pfulekeke leyi tirhaka ehansi ka layisense ya ODbL, hikokwalaho loko ntsena u pfumelelana na swilaveko swa layisense ya ODbL, u amukelekile ku tlhela u tirhisa data ya hina eka tiphurojeke ta wena :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Xana ndzi nga yi fikelela/ku hlengeleta njhani data ya tiphurojeke ta mina ?
+## How can I access/collect data for my projects ?
 
-Eka tluka lerikulu ra Open Food Facts, ekhonweni ya le henhla ya ximatsi ya xikirini, ku na menyu leyi rhendzelekaka. Ehansi ka yona, u ta kuma “advanced search,” leyi u nga yi tsindziyelaka. Kutani swi le ka wena ku kumisisa leswaku hi swihi swipimelo leswi faneleke ngopfu eka (ti)phurojeke ta wena. Loko se u hlawuriwile, u ta kota ku kopa mimbuyelo leyi kumiweke hi ku rhelela ehansi ehansi ka tluka ivi u tikhoma eka “Download results”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
