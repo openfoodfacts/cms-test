@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} သုတေသီများ/ပညာရှင်"
-description: "အမျိုးအစားခွဲ ၁ ခု"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
-order: ၂၅
+order: 25
 category-level: 0
-icon: ဘွဲ့ဦးထုပ်
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ဇယားကွက်
+  type: grid
   grid-columns: 4
-  sort: "မှာယူမှု"
-  fields: [ ခေါင်းစဉ်, description ]
-  page-size: ၁၀၀
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "ဘွဲ့ဦးထုပ်" size="၃ ဆ" >}}
+{{< fa "graduation-cap" size=3x >}}
 
