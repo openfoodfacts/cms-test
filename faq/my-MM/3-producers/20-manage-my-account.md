@@ -1,45 +1,45 @@
 ---
-title: "{{< fa user size=2x >}} ကျွန်ုပ်၏အကောင့်ကို စီမံခန့်ခွဲပါ"
-description: "မေးခွန်း ၃ ခု"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
-order: ၂၀
+order: 20
 category-level: 1
 icon: user
 ---
 
-{{< fa "user" size="၃ ဆ" >}}
+{{< fa "user" size=3x >}}
 
-## Open Food Facts အကောင့်များစွာကို ကုမ္ပဏီတစ်ခုတည်းနှင့် ချိတ်ဆက်နိုင်ပါသလား။
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-ဟုတ်ကဲ့၊ အကောင့်အားလုံးကို တူညီသောကုမ္ပဏီနှင့် ချိတ်ဆက်နိုင်ရန် [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) သို့ အီးမေးလ်ပို့ပါ။
-
----
-
-## ကျွန်တော့်ရဲ့ Open Food Facts အကောင့်ကို Pro အကောင့်အဖြစ် ဘယ်လိုပြောင်းလဲရမလဲ။
-
-သင်၏ရှိပြီးသားအကောင့်၏ အထောက်အထားများဖြင့် [Pro platform](https://world.pro.openfoodfacts.org/) ကို ဝင်ရောက်နိုင်ပါသည်။
-
-သင်သည် ပရော်ဖက်ရှင်နယ်တစ်ဦးဖြစ်ပါက သင့်အကောင့်ကို ကျွန်ုပ်တို့ အတည်ပြုနိုင်စေရန်အတွက် သင်၏ ပရော်ဖက်ရှင်နယ် အီးမေးလ်လိပ်စာကို အသုံးပြုရန် လိုအပ်ပါသည်။
-
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Pro ပလက်ဖောင်းကို အသုံးပြုရာမှာ အထောက်အကူဖြစ်စေမယ့် စာရွက်စာတမ်းတွေကို ဘယ်မှာ ရှာလို့ရမလဲ။
+## How to convert my Open Food Facts account into a Pro account?
 
-Pro ပလက်ဖောင်းမှ အကောင်းဆုံးအသုံးချနိုင်ရန် အရင်းအမြစ်အနည်းငယ်ရှိပါသည်။
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-အောက်ပါတို့ကို လုပ်ဆောင်နိုင်ပါသည်-
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကိုကြည့်ပါ - လင့်ခ်များကို နှိပ်နိုင်စေရန် PDF ကို ဒေါင်းလုဒ်လုပ်ရန် ဖိတ်ခေါ်ပါသည်၊ ၎င်းသည် စာရွက်စာတမ်းတစ်လျှောက် လမ်းညွှန်မှုကို ပိုမိုလွယ်ကူစေမည်ဖြစ်သည်။
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို တိုင်ပင်ပါ။
+---
 
-- [ဤပုံစံ](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) မှတစ်ဆင့် တုံ့ပြန်ချက် သို့မဟုတ် အကြံပြုချက်များကို မျှဝေပါ။
+## Where can I find documentation to help me use the Pro platform?
 
-- မေးခွန်းများရှိပါက ကျွန်ုပ်တို့၏ မိတ်ဖက်ဆက်ဆံရေးမန်နေဂျာ Manon နှင့် ဖုန်းခေါ်ဆိုရန် စီစဉ်ပါ- [ဤနေရာတွင်](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- အီးမေးလ်မှတစ်ဆင့် ကျွန်ုပ်တို့ကို ဆက်သွယ်ပါ- producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
