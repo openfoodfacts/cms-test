@@ -1,23 +1,23 @@
 ---
-title: "ປ້າຍກຳກັບ {{< fa bookmark size=2x >}}"
-description: "2 ຄຳຖາມ"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: ບຸກມາກ
+icon: bookmark
 ---
 
-{{< fa "ບຸກມາກ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ໃນຖານະເປັນປ້າຍກຳກັບ, ມັນສຳຄັນບໍທີ່ຈະຕ້ອງສ້າງບັນຊີ?
+## As a label, is it important to create an account ?
 
-ໃນຖານະເປັນຄ້າຍເພງ, ຍ້ອນວ່າທ່ານບໍ່ແມ່ນຜູ້ຜະລິດຜະລິດຕະພັນໂດຍກົງ, ທ່ານຈຶ່ງບໍ່ຈຳເປັນຕ້ອງສ້າງບັນຊີຜູ້ຜະລິດ.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ຂ້ອຍເປັນຄ້າຍເພງ, ຂ້ອຍຈະເຂົ້າຮ່ວມໂຄງການໄດ້ແນວໃດ?
+## I am a label, how can I participate in the project?
 
-ໃນຖານະເປັນປ້າຍຊື່, ສິ່ງທີ່ກ່ຽວຂ້ອງທີ່ສຸດທີ່ຕ້ອງເຮັດຄືການຕິດຕໍ່ພວກເຮົາ **(producers@openfoodfacts.org)** ແລະສົ່ງລາຍຊື່ຜະລິດຕະພັນທີ່ສະແດງປ້າຍຊື່ຂອງທ່ານໃຫ້ພວກເຮົາເພື່ອໃຫ້ພວກເຮົາສາມາດເພີ່ມພວກມັນໃສ່ໃນແຜ່ນຜະລິດຕະພັນທີ່ກ່ຽວຂ້ອງ.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
