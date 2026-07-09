@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "Quinque quaestiones"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: usor-plus
+icon: user-plus
 ---
 
-{{< fa "usor-plus" size=Ter >}}
+{{< fa "user-plus" size=3x >}}
 
-## Quid est methodus Eco-Score?
+## What is the Eco-Score methodology?
 
-Eco-Score innititur computatione analysis cycli vitae ab ADEME (agentia transitionis oecologicae) et INRAE (instituto nationali investigationis agronomicae) productae. Circiter quindecim partes computantur et coniunguntur ad mensuram PEF creandam.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Huic puncto PEF adduntur praemia et mala (modus productionis, origo...)
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingredientia, species periclitantes, involucrum) ad Eco-Score computandum.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Plura cognoscendi causa, vide paginam summariam [[https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) apud Open Food Facts necnon in situ interretiali consortii Eco-Score. (Praesentatio Eco-Score [[https://docs.score-environnemental.com/](https://docs.score-environmental.com/))
-
----
-
-## Qualis informatio danda est ut Eco-Score quam accuratissime computetur?
-
-Ut Eco-Score accurate computetur, proportio cuiusque ingredientis et origo eius specificanda est.
-
-Si haec informatio nondum in indice ingredientium specificatur, columnam addere potes ut eam mentionem facias, hoc modo formato:
-
-Farina triticea 16% (Gallia)
-
-Chocolata 8% (Litus Eburneum, Aequatoria)
-
-Partes etiam involucri nobis necessariae sunt, in hac forma: una pellicula plastica abicienda, una arca chartacea FSC rediviva, sex lagenae plasticae pellucidae PET 1.5 L redivivae, sex opercula plastica opaca colorata, duodecim vasa plastica aluminio 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Quomodo valores quindecim indicatorum coniunguntur?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Ad melius intellegendum systema PEF, legere potes: explicationem notae PEF in situ methodologico Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Utrum aspectus localis locum fabricationis an locum originis materiarum rudis pertinet?
+## How are the values ​​of the 15 indicators combined?
 
-**Aspectus localis originem materiarum rudis spectat.** Quapropter interest ut et percentationes et origines eorum in indice ingredientium producti vel in agro originibus ingredientium dedicato inscribantur.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Quomodo origines ingredientium pro indice oecologico inserendae sunt?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Si informationem de origine materiarum crudarum in chartis vestris communicare vultis, vos invitamus ut eas in indice ingredientium includatis.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
