@@ -1,21 +1,21 @@
 ---
-title: "{{< ଫା ସ୍ନାତକ-କ୍ୟାପ୍ ଆକାର=2x >}} ଗବେଷକ/ବିଦ୍ୱାନ"
-description: "1ଟି ଉପବର୍ଗ"
-lang: ଇଂ-ଜିବି
-order: ୨୫
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: ସ୍ନାତକ-କ୍ୟାପ୍
+icon: graduation-cap
 listing:
   contents:
-    - "*.ଏମ୍ଡି"
+    - "*.md"
   include:
     category-level: 1
-  type: ଗ୍ରିଡ୍
+  type: grid
   grid-columns: 4
-  sort: "କ୍ରମ"
-  fields: [ ଶୀର୍ଷକ, ଵର୍ଣ୍ଣନା ]
-  page-size: ୧୦୦
+  sort: "order"
+  fields: [ title, ଵର୍ଣ୍ଣନା ]
+  page-size: 100
 ---
 
-{{< fa "ସ୍ନାତକ-କ୍ୟାପ୍" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
