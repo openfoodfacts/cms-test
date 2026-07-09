@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} গবেষক/পণ্ডিত"
-description: "১টি উপবিষয়শ্রেণী"
-lang: en-gb সম্পর্কে
-order: ২৫
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: স্নাতক-টুপি
+icon: graduation-cap
 listing:
   contents:
-    - "*.এমডি"
+    - "*.md"
   include:
     category-level: 1
-  type: গ্রিড
+  type: grid
   grid-columns: 4
-  sort: "অর্ডার"
-  fields: [ শিরোনাম, description ]
-  page-size: ১০০
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "স্নাতক-টুপি" size="3x এর বিবরণ" >}}
+{{< fa "graduation-cap" size=3x >}}
 
