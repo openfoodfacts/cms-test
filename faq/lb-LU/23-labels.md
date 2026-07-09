@@ -1,23 +1,23 @@
 ---
-title: "{{< fa Lieszeechengréisst=2x >}} Etiketten"
-description: "2 Froen"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: 23 Joer
+order: 23
 category-level: 0
-icon: Lieszeechen
+icon: bookmark
 ---
 
-{{< fa "Lieszeechen" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Als Label, ass et wichteg e Kont ze kreéieren?
+## As a label, is it important to create an account ?
 
-Als Label, well Dir net den direkten Produzent vun de Produkter sidd, braucht Dir kee Produzentekonto ze erstellen.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ech sinn e Label, wéi kann ech um Projet matmaachen?
+## I am a label, how can I participate in the project?
 
-Als Etikett ass déi relevantst Saach, déi Dir maache kënnt, eis ze kontaktéieren **(producers@openfoodfacts.org)** a schéckt eis d'Lëscht vun de Produkter, op deenen Är Etikett ugewise gëtt, fir datt mir se op déi entspriechend Produktblieder bäifüge kënnen.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
