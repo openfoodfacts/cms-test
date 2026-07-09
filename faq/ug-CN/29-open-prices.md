@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} ئېچىلىش باھاسى"
-description: "3 سوئال"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: دوللار
+icon: dollar
 ---
 
-{{< fa "دوللار" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## مەن پارچە سېتىش سودىگىرى، باھاسىنى قوشۇپ قويماقچىمەن. بۇنى قانداق قىلالايمەن؟
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-سىز [بىزنىڭ API](https://prices.openfoodfacts.org/api/docs) ئارقىلىق باھا قوشالايسىز. ئەگەر سىز باھانى كەڭ كۆلەمدە بېكىتمەكچى بولسىڭىز، بىز بىلەن [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) ئارقىلىق ئالاقىلىشىڭ.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## پارچە سېتىش دۇكانلىرىنىڭ تور بەتلىرىدىن باھانى ئېلىۋېتىشنى ئويلىشىۋاتامسىز؟
+## Do you consider scraping prices from retailers’ websites?
 
-قانۇنىي ۋە تېخنىكىلىق سەۋەبلەر تۈپەيلىدىن، بىز پارچە سېتىش دۇكانلىرىنىڭ تور بەتلىرىدىن باھالارنى چىقىرىۋېتىشنى ئوچۇق باھالارغا تۆھپە قوشۇشنىڭ ئۈنۈملۈك ئۇسۇلى دەپ قارىمايمىز. بىز توپلىغان باھالارنىڭ توغرا ۋە يېڭىلانغانلىقىغا كاپالەتلىك قىلىشنى خالايمىز، ھەمدە تۆھپىكارلاردىن رەت قىلىنغان باھالارنى تاپشۇرۇۋېلىش بىزگە بۇنداق قىلىشقا يول قويمايدۇ.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## نېمە ئۈچۈن «ئوچۇق يېمەكلىك پاكىتلىرى» بۇنداق قىلىۋاتىدۇ (ئوچۇق باھالار)؟
+## Why is Open Food Facts doing this (Open Prices)?
 
-يېمەكلىك سىستېمىسىنى چۈشىنىش ئۈچۈن باھا ئۇچۇرى ئىنتايىن مۇھىم. بۇ يېمەكلىكنىڭ باھاسىنى چۈشىنىش ۋە ساغلام يېمەك-ئىچمەكنى ئىلگىرى سۈرۈشتىكى مۇھىم ئامىل. باشلىنىش باھاسى سانلىق مەلۇماتلىرى تەتقىقاتچىلار، ژۇرنالىستلار ۋە پۇقرالارنىڭ يېمەكلىك باھاسىنىڭ جۇغراپىيىلىك ۋە ۋاقىت جەھەتتىن قانداق ئۆزگىرىدىغانلىقىنى تېخىمۇ ياخشى چۈشىنىشىنى ئاسانلاشتۇرۇشنىڭ بىر ئۇسۇلى.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
