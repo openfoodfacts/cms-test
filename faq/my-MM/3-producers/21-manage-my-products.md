@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} ကျွန်ုပ်၏ ထုတ်ကုန်များကို စီမံခန့်ခွဲပါ"
-description: "မေးခွန်း ၁၆ ခု"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
-order: ၂၁
+order: 21
 category-level: 1
-icon: သေတ္တာ
+icon: box
 ---
 
-{{< fa "သေတ္တာ" size="၃ ဆ" >}}
+{{< fa "box" size=3x >}}
 
-## Open Food Facts မှာ ပါတဲ့ အချက်အလက်တွေရဲ့ အရည်အသွေးကို ဘာက အာမခံသလဲ။
+## What guarantees the quality of the data in Open Food Facts?
 
-**ဒေတာအရည်အသွေးကို စဉ်ဆက်မပြတ်တိုးတက်စေရန်အတွက် ကျွန်ုပ်တို့သည် အဓိကအချက် ၄ ချက်ကို အားကိုးပါသည်-**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. အသိုင်းအဝိုင်းသည် ဒေတာနှင့် ဓာတ်ပုံများကို အဆက်မပြတ်ထည့်သွင်းနေပြီး ပြန်လည်သုံးသပ်သူများ၏ လှည့်လည်ကြည့်ရှုမှုတစ်ခုဖြစ်သည်။
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. ထုတ်ကုန်စာရွက်များပေါ်ရှိ အမှားများကို ဖော်ထုတ်ရန် ကျွန်ုပ်တို့သည် ယုတ္တိဗေဒစည်းမျဉ်းများကို သတ်မှတ်ထားပါသည်။ဥပမာ- ပါဝင်ပစ္စည်းများ၏ အလေးချိန်ပေါင်းသည် ထုတ်ကုန်၏ စုစုပေါင်းအလေးချိန်ထက် ပိုများပါက မူမမှန်မှုတစ်ခု ရှိပါသည်။ ကျွန်တော်တို့မှာ အရည်အသွေးစစ်ဆေးမှု ၅၀ လောက်ရှိပါတယ်။
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Machine Learning ကြောင့် input error များဖြစ်နိုင်ခြေကို ကျွန်ုပ်တို့ ကန့်သတ်နိုင်ပါတယ်။ ကျွန်ုပ်တို့၏နည်းပညာသည် ပံ့ပိုးကူညီသူများရိုက်ကူးထားသော ဓာတ်ပုံများမှ စာသားအချက်အလက်များကို ထုတ်ယူနိုင်စေပါသည်။
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France ရဲ့ ပံ့ပိုးမှုကြောင့် ထုတ်လုပ်သူတွေဟာ အစုလိုက်အပြုံလိုက် ထုတ်လုပ်ထားတဲ့ အချက်အလက်တွေကို အပ်လုဒ်လုပ်ပြီး အသိုင်းအဝိုင်းရဲ့ ပံ့ပိုးကူညီမှုတွေကို ပြင်ဆင်/ပြီးမြောက်အောင် လုပ်ဆောင်နိုင်တဲ့ ပေါ်တယ်တစ်ခုကို ကျွန်တော်တို့ တီထွင်ခဲ့ပါတယ်။
-
----
-
-## ထုတ်ကုန်တွေကို ဘယ်လိုထည့်ရမလဲ။
-
-ကျွန်ုပ်တို့၏ပလက်ဖောင်းသို့ ထုတ်ကုန်များထည့်သွင်းရန်အတွက် သင်မည်သို့ဆက်လက်လုပ်ဆောင်လိုသည်ကို ဦးစွာဆုံးဖြတ်ရန် လိုအပ်ပါသည်။ ရွေးချယ်စရာ ၄ ခုရှိပါတယ်-
-
-- **ကိုယ်တိုင်**: သင့်တွင် ထုတ်ကုန်အနည်းငယ်သာရှိပါက Pro Platform တွင် ထုတ်ကုန်စာရွက်တစ်ခုစီကို ကိုယ်တိုင်ဖန်တီးနိုင်ဆဲဖြစ်သည်။
-
-- **spreadsheet import မှတစ်ဆင့်**: Open Food Facts မှ ပံ့ပိုးပေးထားသော spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ကို ဒေါင်းလုဒ်လုပ်နိုင်သည်၊ သို့မဟုတ် သင့် IT စနစ်မှ ထုတ်ယူမှုကို Pro ပလက်ဖောင်းထဲသို့ တိုက်ရိုက်တင်သွင်းနိုင်သည်။
-
-- **ထုတ်ကုန်ကတ်တလောက်များ၏ ချိတ်ဆက်ကိရိယာများမှတစ်ဆင့်**။ EQUADIS၊ AGENA3000 သို့မဟုတ် BAYARD မှ client တစ်ဦးဖြစ်ပါက Open Food Facts တွင် data ကို တစ်ချက်နှိပ်ရုံဖြင့် upload လုပ်နိုင်ပါသည်။ အခြား PIM (ထုတ်ကုန်အချက်အလက်စီမံခန့်ခွဲမှု) နှင့် လုပ်ဆောင်နေပါက ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ : producers@openfoodfacts.org
-
-- သင့်ကုမ္ပဏီနှင့် Open Food Facts အကြား **စိတ်ကြိုက်ချိတ်ဆက်မှုမှတစ်ဆင့်**။ သင့် portfolio တွင် ထုတ်ကုန် ၁၀၀၀ ထက်ပို၍ ရေတွက်ပါက ဒေတာလွှဲပြောင်းမှုကို လွယ်ကူချောမွေ့စေရန်အတွက် သီးခြား connector တစ်ခု တည်ဆောက်နိုင်သည့် အခွင့်အလမ်းကို ကျွန်ုပ်တို့ ဆွေးနွေးနိုင်ပါသည်။
-
-အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## အများပြည်သူဒေတာဘေ့စ်သို့ ထုတ်ကုန်အပ်ဒိတ်များကို အလိုအလျောက်လုပ်ဆောင်နိုင်သည့် နည်းလမ်းရှိပါသလား။
+## How to add products?
 
-ဟုတ်ကဲ့၊ EQUADIS၊ AGENA3000 သို့မဟုတ် BAYARD ထုတ်ကုန်ကတ်တလောက်များကို အသုံးပြုပြီး မှန်ကန်သော ပြင်ဆင်မှုကို စီစဉ်ပါက၊ import ကို အလိုအလျောက် ပြုလုပ်နိုင်ပြီး Open Food Facts တွင် ထုတ်ကုန်ဒေတာကို အပ်ဒိတ်လုပ်နိုင်ပါသည်။
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ထပ်ထည့်မယ့် ထုတ်ကုန်အရေအတွက်က ကန့်သတ်ထားလား။
+## Is there a way to automate product updates to the public database?
 
-ကန့်သတ်ချက်မရှိပါဘူး၊ ကျွန်ုပ်တို့ရဲ့ပလက်ဖောင်းမှာ သင်လိုချင်တဲ့ ထုတ်ကုန်အရေအတွက်ကို အပ်လုဒ်လုပ်နိုင်ပါတယ်။
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-ဈေးကွက်တွင် မရရှိနိုင်တော့သော ထုတ်ကုန်တစ်ခုကို ဖယ်ရှားလိုပါက သင်၏ ထုတ်ကုန်စာရွက်ကို တည်းဖြတ်သည့်အခါ "ဤထုတ်ကုန်ကို မရောင်းချတော့ပါ" ဟူသော အကွက်ကို အမှန်ခြစ်ပေးရုံသာ ဖြစ်သည်။
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-ထုတ်ကုန်အများအပြားကို ဖယ်ရှားလိုပါက စာမျက်နှာ ၁၈ ရှိ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdfတွင် ဖော်ပြထားသော လုပ်ထုံးလုပ်နည်းကို လိုက်နာရန် အကြံပြုအပ်ပါသည်။
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-မေးခွန်းများရှိပါက producers@openfoodfacts.org မှတစ်ဆင့်လည်း ကျွန်ုပ်တို့ထံ ဆက်သွယ်နိုင်ပါသည်။
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-ထုတ်ကုန်ကို မော်ကွန်းတင်လိုက်သောအခါ၊ ၎င်းသည် Open Food Facts တွင် မပေါ်တော့ပါ။သို့သော် ၎င်းသည် ကျွန်ုပ်တို့၏ဒေတာဘေ့စ်တွင် ရှိနေမည်ဖြစ်သောကြောင့် အချိန်နှင့်အမျှ ရောင်းချခဲ့သော ထုတ်ကုန်များ၏ မှတ်တမ်းကို ကျွန်ုပ်တို့ သိမ်းဆည်းထားနိုင်ပါသည်။
-
----
-
-## ပလက်ဖောင်းပေါ်မှာ ရှိပြီးသား အချက်အလက်တွေထက် ကုမ္ပဏီအချက်အလက်က ဦးစားပေးပါသလား။
-
-ထုတ်လုပ်သူတစ်ဦးသည် ၎င်း၏ထုတ်ကုန်များထဲမှတစ်ခုကို ၎င်း၏ထုတ်လုပ်သူအကောင့်ဖြင့် အွန်လိုင်းတွင်တင်ပြီး ထုတ်ကုန်စာရွက်တစ်ခု ရှိနှင့်ပြီးဖြစ်သည့်အခါ ၎င်းသည် ၎င်းကို ပြီးမြောက်စေပါသည်။
-
-ထုတ်လုပ်သူ တင်ထားသည့် အချက်အလက်များသည် အမြဲတမ်း ဦးစားပေးခံရမည်ဖြစ်ပြီး အချက်အလက်များ ဖြည့်စွက်ပြီးသည့်အခါ သူတစ်ဦးတည်းသာ ၎င်း၏ထုတ်ကုန်များကို ပြင်ဆင်နိုင်မည်ဖြစ်သည်။
-
-ပလက်ဖောင်းမှတစ်ဆင့် ပေးပို့သောဒေတာသည် အပိုင်းပိုင်းဖြစ်နေပါက၊ ထုပ်ပိုးမှုမှ အသိုင်းအဝိုင်းမှ ထည့်သွင်းထားသော အချက်အလက်များသည် ၎င်းကို ပြီးမြောက်စေနိုင်သည်။
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## ကျွန်တော့်ရဲ့ ဒေတာကို ဘယ်လိုပုံစံနဲ့ ပို့ရမလဲ။
+## Does company information take precedence over information already present on the platform?
 
-[template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ကို Open Food Facts မှ ပံ့ပိုးပေးထားပါသည်။
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-သို့သော်၊ မည်သည့် spreadsheet format (xlsx, csv) ကိုမဆို platform တွင် import လုပ်နိုင်ပါသည်။  
-ကျွန်ုပ်တို့၏ အယ်လဂိုရီသမ်ကို သင့်ဖိုင်မှ အရည်အချင်းများကို Open Food Facts တွင်ရှိသော အရည်အချင်းများနှင့် အလိုအလျောက် ကိုက်ညီစေရန် ဒီဇိုင်းထုတ်ထားသည်။ ကိုက်ညီမှုအဆင့်ကို အမြဲတမ်း နှစ်ခါပြန်စစ်ဆေးရန် သတိပြုပါ၊ အဘယ်ကြောင့်ဆိုသော် အချို့ကို ကိုယ်တိုင်ချိန်ညှိရန် လိုအပ်နိုင်သောကြောင့်ဖြစ်သည်။
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-သင့်အချက်အလက်သည် spreadsheet များစွာကြားတွင် အပိုင်းပိုင်းဖြစ်နေပါက ၎င်းတို့ကို ဆက်တိုက်တင်သွင်းနိုင်သည် - ပုံစံပြောင်းလဲသွားပါက တွဲစပ်မှုပြုလုပ်ရန် သေချာပါစေ။
-
-ဒေတာသည် သင့်သတင်းအချက်အလက်စနစ်တွင် မရှိသေးပါက EQUADIS သို့မဟုတ် AGENA3000 တင်သွင်းမှုအပြင် Excel ဖိုင်တစ်ခုကိုလည်း တင်သွင်းနိုင်သည်။ ဤကိစ္စများတွင်၊ interface မှ public database သို့ export လုပ်ရန် တောင်းဆိုရန် မမေ့ပါနှင့်။
-
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## ဘယ်ထုတ်ကုန်ကတ်တလောက်တွေနဲ့ ပေါင်းစပ်ထားလဲ။
+## In what format should I send my data?
 
-ထုတ်လုပ်သူများသည် ယခုအခါ ၎င်းတို့၏ ထုတ်ကုန်ဒေတာနှင့် ဓာတ်ပုံများကို **Equadis၊** **AGENA3000 နှင့် BAYARD consulting** မှ Open Food Facts သို့ အချိန်နှင့်တပြေးညီ ပေးပို့နိုင်ပါပြီ။
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-သင်သည် ပြန်လည်ပြင်ဆင်ခြင်းဆိုင်ရာ အကြံပြုချက်များနှင့် ပလက်ဖောင်း၏ အင်္ဂါရပ်အားလုံးမှလည်း အကျိုးကျေးဇူးရရှိမည်ဖြစ်သည်။
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-သင်သည် EQUADIS သုံးစွဲသူတစ်ဦးဖြစ်ပါက လိုက်နာရမည့် အဆင့်များကို [ကျွန်ုပ်တို့၏ ဘလော့ဂ်ပို့စ်](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) တွင် ရှင်းပြထားပါသည်။
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-သင်သည် AGENA3000 ဖောက်သည်တစ်ဦးဖြစ်ပါက (ထုတ်ကုန် A3 PIM INDUSTRY)၊ သင့်ထုတ်ကုန်စာရွက်များပေးပို့သည့်အခါ "Open Food Facts" ကို လက်ခံသူအဖြစ် ရွေးချယ်ရန်သာ လိုအပ်ပါသည်။ [ဤဘလော့ဂ်ပို့စ်နှင့်ပတ်သက်သည့် နောက်ထပ်အချက်အလက်များ](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector)။
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-သင်သည် အခြားထုတ်ကုန်ဒေတာကတ်တလောက် (Salsify - ex-Alkemics၊ ConsoTrust၊ 1worldSync၊ Akeneo၊ PIMWorks စသည်) ၏ ဖောက်သည်တစ်ဦးဖြစ်ပါက ကျေးဇူးပြု၍ [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) တွင် ကျွန်ုပ်တို့အား အသိပေးပါ။
-
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Pro ပလက်ဖောင်းမှတစ်ဆင့် ဘားကုဒ်မပါဘဲ ထုတ်ကုန်များကို မည်သို့ထည့်သွင်းရမည်နည်း။
+## With which product catalogs are you integrated?
 
-ဘားကုဒ်မပါသော ထုတ်ကုန်များအတွက်၊ ဝက်ဘ်ဆိုက် သို့မဟုတ် ထုတ်လုပ်သူပလက်ဖောင်းပေါ်တွင်၊ ဘယ်ဘက်ကော်လံတွင် "ဘားကုဒ်မပါသော ထုတ်ကုန်" ခလုတ်တစ်ခုရှိပြီး ၎င်းတို့ကို ထည့်သွင်းနိုင်ပါသည်။ ထို့နောက် identifier တစ်ခုကို အလိုအလျောက် ထုတ်လုပ်ပါသည်။
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-ကျွန်ုပ်တို့သည် အလှကုန်၊ တိရစ္ဆာန်အစာအပြင် အခြားထုတ်ကုန်များအတွက် သီးခြားပရောဂျက်များကို ဖန်တီးထားပါသည်- Open Beauty Facts၊ Open Pet Food Facts နှင့် Open Products Facts။
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## ကျွန်ုပ်၏ကုမ္ပဏီမှ ထုတ်ကုန်ဒေတာကို Open Food Facts တွင် ရရှိနိုင်ပါသည်။ ဆက်စပ်နေတဲ့ ထုတ်လုပ်သူအကောင့်ကို ထိန်းချုပ်နိုင်ပါသလား။
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-ဟုတ်ပါတယ်! သင့်လုပ်ငန်းလိပ်စာဖြင့် Open Food Facts အကောင့်တစ်ခု ဖန်တီးခြင်းဖြင့် ဆက်စပ်ထုတ်လုပ်သူအကောင့်ကို ထိန်းချုပ်နိုင်ပါသည်။ မှတ်ပုံတင်သည့်အခါ သက်ဆိုင်ရာ ထုတ်လုပ်သူနေရာကို ဝင်ရောက်နိုင်ရန် ဖောင်ပေါ်တွင်ရှိသော အဖွဲ့အစည်း၏အမည်ကို ဖော်ပြပါ။
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-သင်သည် ထုတ်လုပ်သူ အမှန်တကယ်ဖြစ်ကြောင်း သေချာစေရန်အတွက် တိုတောင်းသော အတည်ပြုချက်အဆင့်တစ်ခု လိုအပ်ပါလိမ့်မည်။
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-သင်သည် ဒေတာများကို ဖြည့်စွက်နိုင်ခြင်း၊ ရုပ်ပုံများထည့်နိုင်ခြင်း၊ Nutri-Score တိုးတက်စေရန် အလိုအလျောက် အကြံပြုချက်များ ရယူနိုင်ခြင်း နှင့် အခြားအရာများစွာကို လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။ ဤအရာအားလုံးသည် သင်တန်း၏ လုံးဝအခမဲ့ဖြစ်သည်။ EQUADIS၊ AGENA3000 နှင့် Bayard consulting ကဲ့သို့သော ပြင်ပထုတ်ကုန်ဒေတာစီမံခန့်ခွဲမှုစနစ်ကိုလည်း သင်ချိတ်ဆက်နိုင်သည်။
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
-
----
-
-## Open Food Facts database ကို ပြန်လည်အသုံးပြုတဲ့ တခြားအက်ပ်တွေမှာ producer data ကို အပ်ဒိတ်လုပ်ဖို့ ဘယ်လောက်ကြာမလဲ။
-
-၎င်းသည် အက်ပ်များပေါ်တွင် မူတည်ပါသည်။ ကျွန်တော်တို့ရဲ့ API တွေကို အသုံးပြုသူတွေအတွက် (အများစုကတော့) ချက်ချင်းရပါတယ်။  
-ကျွန်တော်တို့ရဲ့ နေ့စဉ် export တွေကို အသုံးပြုသူတွေအတွက်တော့ update လုပ်မယ်ဆိုရင် D+1 ပါ။
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ထုတ်ကုန်မှတ်တမ်းမှ ဒေတာကို ထည့်သွင်းခြင်းသည် ရှိပြီးသား ထုတ်ကုန်မှတ်တမ်းကို ပြီးမြောက်စေသလား သို့မဟုတ် အစားထိုးသလား။
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-ကျွန်ုပ်တို့သည် ထုတ်ကုန်များကို ခွဲခြားသတ်မှတ်ရန်အတွက် ဘားကုဒ်ကို အသုံးပြုပါသည်၊ သင်သည် ရှိပြီးသားမှတ်တမ်းနှင့် ဘားကုဒ်တူညီသော မှတ်တမ်းတစ်ခုကို တင်သွင်းပါက၊ အချက်အလက်များကို ပေါင်းစည်းသွားပါမည်။
-
-ပါဝင်ပစ္စည်းစာရင်း၊ အာဟာရတန်ဖိုးများ (မှန်ကန်သောတန်ဖိုးတစ်ခုတည်းသာဖြစ်နိုင်သည်) ကဲ့သို့သောဒေတာများအတွက်၊ ထုတ်လုပ်သူပလက်ဖောင်းမှတစ်ဆင့်ပေးပို့သောဒေတာသည် ရှိပြီးသားဒေတာကို အစားထိုးလိမ့်မည်။
-
-အညွှန်းများ/အမျိုးအစားများ/အမှတ်တံဆိပ်များကဲ့သို့သော ဒေတာများအတွက် (မှန်ကန်သောတန်ဖိုးများစွာရှိနိုင်သည်)၊ အချက်အလက်များကို ပေါင်းစပ်ထားသည်။ အများသုံးပလက်ဖောင်းတွင် ဒေတာမှားယွင်းနေပါက၊ မမှန်ကန်သောတန်ဖိုးများကို ဖယ်ရှားရန် အများသုံးပလက်ဖောင်းရှိ ထုတ်ကုန်စာရွက်ကို ပြင်ဆင်နိုင်သည်။
-
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## ပါဝင်ပစ္စည်းများ၏ အစီအစဉ်က အရေးကြီးပါသလား။
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-ပါဝင်ပစ္စည်းများ၏ အစီအစဉ်သည် အရေးကြီးသည်- ၎င်းသည် အရေအတွက်အလိုက် အစီအစဉ်ကို ကိုယ်စားပြုသည်။
-ပါဝင်ပစ္စည်းများကို ဖြည့်ရန် အကောင်းဆုံးနည်းလမ်းမှာ ထုပ်ပိုးမှုပေါ်တွင် ရေးသားထားသည့်အတိုင်း တိတိကျကျ လိုက်နာရန်ဖြစ်သည်။ ဒါကြောင့်မို့လို့ ပါဝင်ပစ္စည်းတွေရဲ့ ဓာတ်ပုံတွေကို ပုံနှိပ်ထားဖို့လည်း အရမ်းအရေးကြီးပါတယ်။
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## AGENA3000 ကနေတစ်ဆင့် ပုံတွေပို့လို့ရပါသလား။
+## Is the order of ingredients important?
 
-ပုံတွေပို့လို့ရပေမယ့် လက်တွေ့မှာတော့ အဓိကပုံကိုပဲ အလိုအလျောက်ရွေးချယ်ပေးမှာဖြစ်ပြီး တခြားပုံတွေကိုတော့ ပို့ပေးသွားမှာဖြစ်ပေမယ့် ပါဝင်ပစ္စည်းတွေ၊ အာဟာရဓာတ်စတာတွေအတွက် ဖြတ်/ရွေးချယ်မှာ မဟုတ်ပါဘူး။
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Pro platform ရဲ့ tutorial တွေကို ဘယ်လိုဝင်ရောက်ကြည့်ရှုရမလဲ။
+## Can I send images via AGENA3000 too?
 
-ပရော်ဖက်ရှင်နယ်ပလက်ဖောင်းရဲ့ သင်ခန်းစာတွေကို ဝင်ရောက်ကြည့်ရှုနိုင်ပါတယ်-
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- ပရော်ဖက်ရှင်နယ်ပလက်ဖောင်းမှတစ်ဆင့်- [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) မှာ တိုက်ရိုက်ကြည့်ရှုနိုင်ပါတယ်
+## How to access the Pro platform’s tutorials?
 
-→ ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကိုလည်း ဒေါင်းလုဒ်လုပ်နိုင်ပါသည်။
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
