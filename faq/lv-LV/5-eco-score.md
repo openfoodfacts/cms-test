@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eko-rezultāts"
-description: "5 jautājumi"
-lang: lv-lv
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: lietotājs plus
+icon: user-plus
 ---
 
-{{< fa "lietotājs plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Kāda ir Eco-Score metodoloģija?
+## What is the Eco-Score methodology?
 
-Ekovērtējums ir balstīts uz ADEME (ekoloģiskās pārejas aģentūras) un INRAE (nacionālā agronomisko pētījumu institūta) veiktās dzīves cikla analīzes aprēķinu. Lai izveidotu PEF rādītāju, tiek aprēķināti un saistīti aptuveni piecpadsmit komponenti.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Šim PEF vērtējumam tiek pievienotas prēmijas un trūkumi (ražošanas veids, produkta izcelsme).
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-sastāvdaļas, apdraudētās sugas, iepakojums), lai aprēķinātu ekovērtējumu.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Plašāku informāciju skatiet kopsavilkuma lapā [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) vietnē Open Food Facts, kā arī Eco-Score konsorcija tīmekļa vietnē. (Eko-Score prezentācija [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Kāda veida informācija ir jāsniedz, lai ekovērtējumu varētu aprēķināt pēc iespējas precīzāk?
-
-Lai precīzi aprēķinātu ekovērtējumu, ir jānorāda katras sastāvdaļas procentuālā daļa un tās izcelsme.
-
-Ja šī informācija vēl nav norādīta sastāvdaļu sarakstā, varat pievienot kolonnu, lai to norādītu šādā formātā:
-
-Kviešu milti 16% (Francija)
-
-Šokolāde 8% (Kotdivuāra, Ekvadora)
-
-Mums būs nepieciešamas arī iepakojuma sastāvdaļas: 1 plastmasas plēve izmešanai, 1 FSC kartona kaste pārstrādei, 6 caurspīdīgas PET plastmasas pudeles pa 1,5 l pārstrādei, 6 necaurspīdīgi krāsaini plastmasas vāciņi, 12 plastmasas bundžas pa 33 cl alumīnija.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Kā tiek apvienotas 15 rādītāju vērtības?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Lai labāk izprastu PEF sistēmu, varat izlasīt: PEF rādītāja skaidrojumu Eco-Score metodoloģijas vietnē**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Vai vietējais aspekts attiecas uz ražošanas vietu vai izejvielu izcelsmes vietu?
+## How are the values ​​of the 15 indicators combined?
 
-**Vietējais aspekts attiecas uz izejvielu izcelsmi.** Tāpēc ir svarīgi produkta sastāvdaļu sarakstā vai sastāvdaļu izcelsmes laukā ievadīt to procentuālo daudzumu, kā arī izcelsmi.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Kā ievadīt sastāvdaļu izcelsmi ekovērtējumam?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Ja vēlaties dalīties ar informāciju par izejvielu izcelsmi savās lapās, aicinām jūs tās iekļaut sastāvdaļu sarakstā.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
