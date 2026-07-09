@@ -1,25 +1,25 @@
 ---
-title: "Analyse du portefeuille de produits (référence, amélioration...)"
+title: "{{< fa chart-bar size=2x >}} Analyse du portefeuille de produits (benchmark, amélioration...)"
 description: "1 question"
-lang: en-gb
+lang: fr-fr
 order: 22
 category-level: 1
-icon: barre de graphique
+icon: chart-bar
 ---
 
-{{< fa "barre de graphique" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Comment accéder aux recommandations de reformulation pour améliorer le Nutri-Score de mes produits ?
+## Comment accéder à la recommandation de reformulation pour améliorer le Nutri-Score de mes produits ?
 
-Lorsque vous vous trouvez sur la page d'accueil de la plateforme des producteurs :
+Lorsque vous êtes sur la page d'accueil de la Plateforme Producteurs :
 
-1. Cliquez sur le lien « → Nombre de produits présentant des possibilités d'amélioration » en haut de la page.
+1. cliquez sur le lien « → Nombre de produits avec des opportunités d'amélioration » en haut de la page.
 
-2. Vous pouvez consulter toutes les opportunités détectées par notre système pour améliorer vos produits.
+2. vous pouvez consulter toutes les opportunités détectées par notre système pour améliorer vos produits
 
-3. En cliquant sur un type d'opportunité, vous accéderez à la liste des produits susceptibles d'être améliorés.
+3. cliquer sur un type d'opportunité vous mènera à la liste des produits faisant l'objet d'une amélioration.
 
-→ Pour plus de détails, nous vous invitons à télécharger notre [guide d'utilisation](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) et/ou à consulter nos [tutoriels vidéo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ Pour plus de détails, nous vous invitons à télécharger notre [guide utilisateur](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) et/ou à consulter nos [tutoriels vidéo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
