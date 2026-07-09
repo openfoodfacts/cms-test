@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} এটা সামগ্ৰীৰ বিষয়ে প্ৰশ্ন"
-description: "১ টা প্ৰশ্ন"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: শ্বপিং-বাস্কেট
+icon: shopping-basket
 ---
 
-{{< fa "শ্বপিং-বাস্কেট" size=৩x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## এটা প্ৰডাক্টৰ বিষয়ে মোৰ এটা প্ৰশ্ন / দাবী আছে
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) হৈছে গ্ৰাহকে লেবেল ডিচিফাৰ কৰিবলৈ আৰু পণ্যৰ তুলনা কৰিবলৈ সৃষ্টি কৰা আৰু খুৱাই দিয়া এটা সহযোগী চাইট।
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-কোনো সামগ্ৰী বা দাবীৰ বিষয়ে অধিক তথ্যৰ বাবে প্ৰস্তুতকাৰকলৈ লিখক। আমাৰ হাতত প্ৰস্তুতকাৰকৰ যোগাযোগৰ তথ্য নাই যদিও সেইবোৰ বেছিভাগেই পেকেজিংত থাকে।
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-যদি আপুনি আমাক আপোনাৰ বা আমাৰ দৰে গ্ৰাহকৰ বাবে অধিক স্বচ্ছতা অনাত সহায় কৰিব বিচাৰে, তেন্তে আপুনি আমাৰ আইফোন বা এণ্ড্ৰইড এপ ব্যৱহাৰ কৰি সামগ্ৰী যোগ কৰিব পাৰে: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-আৰু প্ৰকল্পটোৰ বিষয়ে আলোচনা কৰিবলৈ আপুনি ফেচবুকৰ অৱদানকাৰী গোটত যোগদান কৰিব পাৰে: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) বা স্লেকত আন অৱদানকাৰীসকলৰ সৈতে আড্ডা মাৰিব পাৰে:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
