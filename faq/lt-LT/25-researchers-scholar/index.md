@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Tyrėjai / Mokslininkai"
-description: "1 subkategorija"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: baigimo kepuraitė
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: tinklelis
+  type: grid
   grid-columns: 4
-  sort: "užsakymas"
-  fields: [ pavadinimas, aprašymas ]
+  sort: "order"
+  fields: [ title, aprašymas ]
   page-size: 100
 ---
 
-{{< fa "baigimo kepuraitė" size="3 kartus" >}}
+{{< fa "graduation-cap" size=3x >}}
 
