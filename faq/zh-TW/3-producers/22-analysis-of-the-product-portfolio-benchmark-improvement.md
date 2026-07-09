@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} 產品組合分析（基準測試、改進…）"
-description: "1 個問題"
-lang: 英語-英國
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: 圖表欄
+icon: chart-bar
 ---
 
-{{< fa "圖表欄" size=3倍 >}}
+{{< fa "chart-bar" size=3x >}}
 
-## 如何取得配方改進建議以提高我的產品的營養評分？
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-當您位於製作人平台首頁：
+When you are on the home page of the Producers Platform:
 
-1. 點擊頁面頂部的連結「→ 具有改進機會的產品數量」。
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. 您可以參考我們系統檢測到的所有改進產品的機會。
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. 點擊某種機會類型，即可查看需要改進的產品清單。
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ 如需了解更多詳情，歡迎下載我們的[使用者指南](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)和/或觀看我們的[影片教學](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
