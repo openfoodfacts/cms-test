@@ -1,31 +1,31 @@
 ---
-title: "{{< madhësia e rrahjeve të zemrës fa=2x >}} Nutri-Score"
-description: "3 pyetje"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: rrahje zemre
+icon: heartbeat
 ---
 
-{{< fa "rrahje zemre" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Çfarë duhet të bëj nëse Nutri-Score i produkteve të mia nuk është i saktë?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Në rast të një problemi me Nutri-Score-in tuaj, kontrolloni që informacioni juaj të jetë i saktë në skedën "modifiko" të fletës së produktit tuaj. Nëse ndonjë informacion mungon ose është i pasaktë, mos hezitoni të na kontaktoni në adresën\*\* producers@openfoodfacts.org\*\*
-
----
-
-## Çfarë lloj informacioni duhet të jap në mënyrë që Nutri-Score të llogaritet sa më saktë që të jetë e mundur?
-
-Llogaritja e Nutri-Score do të bëhet me tabelën ushqyese të produktit tuaj.
-
-Mos harroni të përfshini përqindjen e frutave, perimeve dhe arrave në tabelën tuaj, në mënyrë që Rezultati Nutricional i llogaritur të mos jetë i pasaktë.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Nga vjen Nutri-Score?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score menaxhohet nga Santé Publique France. Ai përmbledh tabelën e vlerave ushqyese në mënyrë që të gjithë ta kuptojnë atë. Qëllimi është të sigurohet qasje në informacion të qartë dhe të kuptueshëm ushqyes për të gjithë.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
