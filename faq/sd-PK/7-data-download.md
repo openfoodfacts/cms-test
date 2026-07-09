@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ڊيٽا ڊائون لوڊ"
-description: "1 سوال"
-lang: اين جي بي
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: ڪلائوڊ ڊائون لوڊ
+icon: cloud-download
 ---
 
-{{< fa "ڪلائوڊ ڊائون لوڊ" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ڪنهن مخصوص ملڪ لاءِ ڊيٽا ڪٿان حاصل ڪجي؟
+## Where to get the data for a specific country?
 
-في الحال، مخصوص ملڪن لاءِ ڪا به برآمد وقف نه آهي.
+Currently, there are no exports dedicated to specific countries.
 
-ڪنهن مخصوص ملڪ سان لاڳاپيل ڊيٽا چونڊڻ لاءِ اسان جي مختلف برآمدات کي مختلف اوزارن سان گڏ استعمال ڪرڻ جا ڪيترائي طريقا آهن.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-توهان [اسان جي وڪي تي هن ٽيڪنڪ مان ڪجهه] تي نظر وجهي سگهو ٿا (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
