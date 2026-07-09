@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} විවෘත මිල ගණන්"
-description: "ප්‍රශ්න 3ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 29 යි
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: ඩොලරය
+icon: dollar
 ---
 
-{{< fa "ඩොලරය" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## මම සිල්ලර වෙළෙන්දෙක්, මට මිල ගණන් වලට දායක වීමට අවශ්‍යයි. මට ඒක කරන්න පුළුවන් කොහොමද?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-ඔබට [අපගේ API](https://prices.openfoodfacts.org/api/docs) භාවිතා කිරීමෙන් මිල ගණන් වලට දායක විය හැක. ඔබට පරිමාණයෙන් මිල ගණන් වලට දායක වීමට අවශ්‍ය නම්, කරුණාකර [contact@openfoodfacts.org](mailto:contact@openfoodfacts.orgහි අප හා සම්බන්ධ වන්න).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## සිල්ලර වෙළෙන්දන්ගේ වෙබ් අඩවිවලින් මිල ගණන් ඉවත් කිරීම ගැන ඔබ සලකා බලනවාද?
+## Do you consider scraping prices from retailers’ websites?
 
-නීතිමය සහ තාක්ෂණික හේතූන් මත, සිල්ලර වෙළෙන්දන්ගේ වෙබ් අඩවිවලින් මිල ගණන් ඉවත් කිරීම විවෘත මිල ගණන් වලට දායක වීමට වලංගු ක්‍රමයක් ලෙස අපි සලකන්නේ නැත. අපි එකතු කරන මිල ගණන් නිවැරදි සහ යාවත්කාලීන බව සහතික කර ගැනීමට අපට අවශ්‍ය වන අතර, දායකයින්ගෙන් සූරාකන ලද මිල ගණන් ලැබීමෙන් අපට එසේ කිරීමට ඉඩ නොලැබේ.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Open Food Facts මෙය කරන්නේ ඇයි (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ආහාර පද්ධති තේරුම් ගැනීම සඳහා මිල තොරතුරු අතිශයින් වැදගත් වේ. ආහාරවල පිරිවැය තේරුම් ගැනීමට සහ සෞඛ්‍ය සම්පන්න ආහාර වේලක් ප්‍රවර්ධනය කිරීමට එය ප්‍රධාන සාධකයකි. මිල දත්ත විවෘත කිරීම පර්යේෂකයන්ට, මාධ්‍යවේදීන්ට සහ පුරවැසියන්ට ආහාර මිල ගණන් භූගෝලීය වශයෙන් සහ කාලයත් සමඟ වෙනස් වන ආකාරය පිළිබඳව වඩා හොඳ අවබෝධයක් ලබා ගැනීමට පහසු කිරීමේ ක්‍රමයකි.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
