@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} Vula Tinhla ta Swakudya"
-description: "9 swivutiso"
-lang: ts-gb
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: xivutiso-xirhendzevutani
+icon: question-circle
 ---
 
-{{< fa "xivutiso-xirhendzevutani" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Kwalomu ka swiyimo hinkwaswo, milawu ya vona ya vukorhokeri yi yirisa hi ku kongoma ku tirhisiwa kwihi na kwihi loku nga riki ka munhu hi xiyexe na ku humesiwa kwihi na kwihi ka datha hinkwayo kumbe swiphemu swa datha.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Kutani loko hi sungula phurojeke ya Open Food Facts na app ya mobile, khale hi 2012, hi teke xiboho xo endla leswi hambaneke swinene: a hi pfumeleli ntsena ku tirhisiwa na ku tirhisiwa nakambe ka database ya hina, hi ku ntshunxeka na handle ka mali, eka un’wana na un’wana na le ka matirhiselo hinkwawo (ku katsa na ya mabindzu), kambe hi tlhela hi swi khutaza!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Ku endla leswaku datha yi kumeka erivaleni (leswi tiviwaka tanihi _data leyi pfulekeke_) swi pfumelela vanhu, minhlangano, tikhamphani, valavisisi na swin’wana ku suka emisaveni hinkwayo ku ehleketa no tumbuluxa switirhisiwa swa datha leswi hakunene a hi nga ta swi ehleketa.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (vona [Mimpimanyeto ya ku tirhisa nakambe](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Un’wana na un’wana (ku katsa kambe ku nga ri ku helela eka vahoxi va xandla na vatumbuluxi va Open Food Facts) xisweswo a nga hangalasa nakambe na/kumbe ku tirhisa nakambe datha ku aka tiwebsite, vukorhokeri, sofwere, switirhisiwa swa tiselfoni, kumbe ku tsala tiatikili na tidyondzo. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Xikombiso, Pulatifomo ya hina ya Vahumelerisi i ya mahala hi ku helela, naswona hi tsakile swinene hi sweswo hikuva hi ehleketa leswaku swi nga va pfuna ku antswisa switirhisiwa swa vona.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,80 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-U nga vutisa swivutiso kumbe ku endla switsundzuxo eka theforumor tihlanganise na hina hi e-mail:contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Loko uri muhumelerisi, hi kombela u hi rhumela email eka [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Loko u ri muteki wa mahungu, hi kombela u hi rhumela email eka [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Hi kombela u xiya: [Open Food Facts i database ya ntirhisano ya switirhisiwa swa swakudya](https://world.openfoodfacts.org/discover), a hi xavisi xitirhisiwa xihi na xihi naswona a hi na swihlanganisi na vahumelerisi va swona. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Mahungu na datha swi rhumeriwile hi vahoxi va xandla va Open Food Facts. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. xikombiso loko timhaka ta swakudya swa xiendliwa ti hambanile swinene na swihumelerisiwa swa xiyenge xin’we, swinga va xihoxo. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Loko u ri muhumelerisi, hi kombela u [tihlanganisa na hina](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (vona [Mimpimanyeto ya ku hoxa xandla](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Hi tumbuluxile pulatifomo ya mahala ku ku pfumelela ku nghenisa swifaniso na data hi ku olova mayelana na switirhisiwa swa wena, ku nga khathariseki vukulu bya wena. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Tihlanganisi-hina ku burisana hi ndlela leyi hi nga yaka emahlweni ha yona: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## I mani loyi a tirhisaka data ya Open Food Facts?
+## Who uses Open Food Facts data?
 
-Swi ta
-nkarhi wo leha swinene ku xaxameta tinhlengeletano hinkwato leti titshegeke hi pulatifomo ya Open Food Facts
-.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- Ku tlula 100 wa switirhisiwa swa tiselfoni
-  swi langutana na swilaveko swa vayingiseri vo tala: vuvabyi bya chukele (VeryDiab), aleriji, ku ringanisela ka swakudya
-  hi ku tirhisa vutlhari byo endliwa (FoodVisor), vulema, na swin’wana. Dathabeyisi ya hina ya
-  yi tlhele yi pfumelela ku tumbuluxiwa ka Yuka.
-- Tiwebsite to tala: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Vatsari va mahungu : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Valavisisi eka kwalomu ka 100 wa swihloko swa sayense
-- Tibangi ta swakudya na switolo swa vun’we: phurojeke ya
-  Data For Good eka ku ya emahlweni ka phurojeke yo ringeta leyi sunguriweke hi
-  Xihambano xo Tshwuka xa Furwa, ku hlanganisiwa eka vufambisi bya mali ya ntirhisano lowutsongo wa swakudya
-  .
-- Tikhamphani: Terraillon yi tirhisa data ya hina
-  ku nyika vutomi eka swikalo swa yona leswi hlanganisiweke.
-- Swikolo swa minongonoko (Simplon, Open
-  Titlilasi) swi hlanganisile Tinhla ta Swakudya leswi Pfulekeke tanihi phurojeke leyi hlohlotelaka eka kharikhulamu ya swona ya
-  .
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Xana ndzi nga seketela njhani Tinhla ta Swakudya leswi Pfulekeke?
+## How can I support Open Food Facts?
 
-Swakudya leswi Pfulekeke
-Facts i nhlangano lowu nga tirheliki ku endla mali hi 1901. U nga hi pfuna hi [ku hlanganyela eka phurojeke](https://fr-en.openfoodfacts.org/contribute) na hi ku hi seketela hi timali hi [minyikelo](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% deductible) na ku tlhela hi tirhisa Lilo
-njhini yo lavisisa. ) )
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Ndza khensa
-swinene!**
+**Thank
+you very much!**
 
 ---
 
-## A ndzi yi kumi nhlamulo ya xivutiso xa mina
+## I can't find the answer to my question
 
-Loko u nga kumi nhlamulo ya xivutiso (swivutiso) xa wena, u nga kanakani ku hi tihlanganisa hi ku tirhisa:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Xigwitsirisi xa hina: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Foramu ya hina: [https://forum.openfoodfacts.org/](https://foramu.vulavula bya swakudya.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
