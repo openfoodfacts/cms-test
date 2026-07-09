@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} ئورالمىسى"
-description: "3 سوئال"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: كۇب
+icon: cube
 ---
 
-{{< fa "كۇب" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## قانداق قىلىپ ئوراپ قاچىلاش سانلىق مەلۇماتلىرىمنى Open Food Facts غا قوشالايمەن؟
+## How can I add my packaging data to Open Food Facts?
 
-ئىشلەپچىقارغۇچى سۈپىتىدە، مەھسۇلاتلىرىڭىزغا ئورالما سانلىق مەلۇماتلىرىنى قوشۇشنىڭ ئەڭ ئۈنۈملۈك ئۇسۇلى «AU» ئىستونىدىن زۆرۈر ئۇچۇرلارنى بۇ [excel جەدۋىلى](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) غا تولدۇرۇشتۇر.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-ھەر بىر ئورالما زاپچاسلىرى ئۈچۈن، سىز تۆۋەندىكىلەرنى كىرگۈزۈشىڭىز كېرەك:
+For each packaging component, you will need to enter:
 
-- بىرلىك سانى (مەسىلەن: **4** قاچا قېتىق)
+- The number of units (ex: **4** pots of yogurts)
 
-- شەكلى (مەسىلەن: **قازان، قاپاق، قۇتا قاتارلىقلار**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- ماتېرىيال (مەسىلەن: **PET، قەغەز، ئەينەك قاتارلىقلار**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- قايتا ئىشلەش كۆرسەتمىسى (مەسىلەن: **قايتا ئىشلەش، تاشلىۋېتىش قاتارلىقلار**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- بىر بوش بىرلىكنىڭ ئېغىرلىقى (گرام بىلەن)
+- The weight of one empty unit (in gr)
 
-- بىرلىكتىكى مەھسۇلاتنىڭ ساپ مىقدارى
+- The net quantity of product contained per unit
 
-بۇ جەدۋەلنى كەسپىي خادىملارغا بېغىشلانغان سۇپىمىزغا ئىمپورت قىلغىلى بولىدۇ.
-
----
-
-## يېمەكلىك ئورالمىسى مەسىلىسىنى ھەل قىلىش تۈرى نېمە؟
-
-«يېمەكلىك ئورالمىسى مەسىلىسىنى ھەل قىلىش» تۈرى ئەڭ كۆپ ئىستېمال قىلىنىدىغان مەھسۇلاتلارنىڭ ئورالمىسى (شەكلى، ماتېرىيالى، تۈرگە ئايرىش كۆرسەتمىسى، ئېغىرلىقى، سىغىمى) توغرىسىدا تەپسىلىي ئۇچۇرلارنى توپلاشتىن ئىبارەت.
-
-ئىلمىي قاتنىشىش ئۇسۇلىغا ئاساسەن، ئۇ شىركەتلەرنىڭ ئۆزلىرىنىڭ ئورالما سانلىق مەلۇماتلىرىنى ئورتاقلىشىشقا ۋە ئاشكارىلىق ئويۇنىنى ئويناشقا قوشۇلغانلىقىغا، ھەمدە پۇقرالارنىڭ مەھسۇلاتلار توغرىسىدىكى ئۇچۇرلارنى توپلاشقا يول قويۇشىغا تايىنىدۇ. بۇ ئۇچۇرلار ئەركىن قايتا ئىشلىتىشكە بولىدۇ («ئوچۇق سانلىق مەلۇمات»).
-
-**تېخىمۇ كۆپ ئۇچۇر ئۈچۈن:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## يېمەكلىك ئورالمىسىنى ھەل قىلىش تۈرى ئاخىرلاشقاندىن كېيىنمۇ، ئورالما سانلىق مەلۇماتلىرىمنى قوشالايمەنمۇ؟
+## What is the Tackling Food Packaging project?
 
-تۈر تاماملانغاندىن كېيىنمۇ، ئورالما سانلىق مەلۇماتلىرىنى قوشۇشقا بولىدۇ، چۈنكى ئورالما مەيدانلىرى تور بېتىمىزدە ساقلىنىدۇ.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
