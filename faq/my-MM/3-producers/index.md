@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} ထုတ်လုပ်သူများ"
-description: "အမျိုးအစားခွဲ ၆ မျိုး"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: စက်မှုလုပ်ငန်း
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ဇယားကွက်
+  type: grid
   grid-columns: 4
-  sort: "မှာယူမှု"
-  fields: [ ခေါင်းစဉ်, description ]
-  page-size: ၁၀၀
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "စက်မှုလုပ်ငန်း" size="၃ ဆ" >}}
+{{< fa "industry" size=3x >}}
 
