@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Vistvænt stig"
-description: "5 spurningar"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: notandi-plús
+icon: user-plus
 ---
 
-{{< fa "notandi-plús" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Hver er aðferðafræði vistkerfisins?
+## What is the Eco-Score methodology?
 
-Vistkerfisstigið byggir á útreikningi lífsferilsgreiningar sem ADEME (stofnunin um vistfræðilega umskipti) og INRAE (þjóðarstofnun landbúnaðarrannsókna) hafa framkvæmt. Um það bil fimmtán þættir eru reiknaðir út og tengdir saman til að búa til PEF-stigagjöfina.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Við þessa PEF-einkunn bætast við bónusar og gallar (framleiðsluháttur, uppruni
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-innihaldsefni, tegundir í útrýmingarhættu, umbúðir) til að reikna út umhverfisstigið.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Nánari upplýsingar er að finna á yfirlitssíðunni [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) á Open Food Facts sem og á vefsíðu Eco-Score samtakanna. (Kynning á umhverfisstigi [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Hvaða upplýsingar þarf að gefa til að vistkerfisstigið sé reiknað eins nákvæmlega og mögulegt er?
-
-Til þess að hægt sé að reikna vistkerfiseinkunnina nákvæmlega þarf að tilgreina hlutfall hvers innihaldsefnis og uppruna þess.
-
-Ef þessar upplýsingar eru ekki þegar tilgreindar í listanum yfir innihaldsefni er hægt að bæta við dálki til að nefna þær, með eftirfarandi sniði:
-
-Hveiti 16% (Frakkland)
-
-Súkkulaði 8% (Fílabeinsströndin, Ekvador)
-
-Við þurfum einnig umbúðahlutana í formi: 1 plastfilmu til að farga, 1 FSC pappa kassa til endurvinnslu, 6 gegnsæjar PET plastflöskur, 1,5 lítrar, til endurvinnslu, 6 ógegnsæjar litaðar plastlokur, 12 plastdósir, 33 cl ál.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Hvernig eru gildi 15 vísanna sameinuð?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Til að skilja PEF kerfið betur er hægt að lesa: útskýringu á PEF stigagjöfinni á aðferðafræðivef Eco-Score.**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Varðandi staðbundinn þáttur framleiðslustað eða upprunastað hráefnanna?
+## How are the values ​​of the 15 indicators combined?
 
-**Staðbundinn þáttur varðar uppruna hráefnanna.** Þess vegna er mikilvægt að færa inn prósentur þeirra sem og uppruna í lista yfir innihaldsefni vörunnar eða í reitinn sem er tileinkaður uppruna innihaldsefnanna.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Hvernig á að slá inn uppruna innihaldsefna fyrir umhverfismatið?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Ef þú vilt deila upplýsingum um uppruna hráefnanna á blöðunum þínum, þá hvetjum við þig til að taka þær með í listanum yfir innihaldsefni.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
