@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chati-line size=2x >}} Kuhusu alama"
-description: "Maswali 3"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: mstari wa chati
+icon: chart-line
 ---
 
-{{< fa "mstari wa chati" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Nani ana jukumu la kuhesabu alama na/au alama?
+## Who is responsible for calculating the footprint and/or score?
 
-Kundi la Nutri-Score, NOVA na Eco-Score huhesabiwa kulingana na data iliyopo katika Ukweli Huria wa Chakula. Algoriti zetu hufuata kwa makini mbinu rasmi za alama hizi.
-
----
-
-## Kuna tofauti gani kati ya kundi la Eco-Score, Nutri-Score na NOVA?
-
-Madhumuni ya viashiria hivi ni kutoa taarifa rahisi kueleweka kwa mtumiaji.
-
-Kundi la [NOVA](https://fr.openfoodfacts.org/nova) hushughulikia mabadiliko ya bidhaa, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) pamoja na athari zake za kimazingira na [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) pamoja na vipengele vya lishe, wakijua kwamba kadiri bidhaa inavyokuwa na alama karibu na A, ndivyo inavyokuwa na ubora zaidi.
-
-Alama hizo 3 hazishughulikii vipengele sawa. Kwa hivyo haiwezekani kuzilinganisha.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Je, inawezekana kuiga Eco-Score au Nutri-Score ya bidhaa zangu?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Kwa kujiandikisha kwenye jukwaa la wazalishaji na kupakia data ya bidhaa zako, unaweza kuhesabu Nutri-Score na Eco-Score zinazohusiana na bidhaa zako.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Hata hivyo, lazima uifute mara tu simulizi itakapofanyika ili isisafirishwe kwenye mfumo wa umma huku bidhaa zikiwa tayari zimeuzwa katika eneo lako.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
