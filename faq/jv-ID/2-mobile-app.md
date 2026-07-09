@@ -1,52 +1,52 @@
 ---
-title: "{{< fa ukuran seluler=2x >}} Aplikasi seluler"
-description: "4 pitakonan"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: seluler
+icon: mobile
 ---
 
-{{< fa "seluler" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Kepiye carane aku ngerti versi aplikasi sing dakgunakake?
+## How do I know which version of the app I'm using?
 
-Bukak **Profil**,
-banjur **FAQ**, banjur **Babagan aplikasi iki.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Sampeyan kudune
-ndeleng nomer versi kaya 3.4.5+662. Aja lali ngandhani merek lan model
-ponsel kasebut yen lagi debugging.
-
----
-
-## Aplikasine ora bisa mindhai
-
-Iki bisa uga amarga
-
-- masalah jaringan
-
-- masalah ijin
-
-- masalah kode batang
-
-Kirimi email liwat Profil >> Hubungi Kami >> Kirimi email.
-
-Kabeh informasi sing relevan kudu dilampirake ing panjaluk sampeyan.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Kepiye carane aku bisa mbantu ngapikake aplikasi seluler iki?
+## The app does not scan
 
-Kepiye carane aku bisa mbantu ngapikake aplikasi seluler iki?
+This may be due to
 
-Sampeyan bisa [nindakake ing repositori aplikasi Seluler](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ing ngendi aku bisa ngirim masukan babagan aplikasi iki?
+## How can I help with improving the mobile app ?
 
-Panjenengan saged ngirim masukan dhateng mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
