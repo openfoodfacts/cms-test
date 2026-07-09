@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiquetas"
-description: "2 perguntas"
-lang: pt-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: marcador
+icon: bookmark
 ---
 
-{{< fa "marcador" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Para uma editora discográfica, é importante criar uma conta?
+## As a label, is it important to create an account ?
 
-Como marca, e não produtor direto dos produtos, não tem de criar uma conta de produtor.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Sou uma editora discográfica, como posso participar no projeto?
+## I am a label, how can I participate in the project?
 
-Como proprietário de um selo, o mais importante é contactar-nos **(producers@openfoodfacts.org)** e enviar-nos a lista dos produtos nos quais o seu selo está presente, para que os possamos adicionar às respetivas fichas técnicas.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
