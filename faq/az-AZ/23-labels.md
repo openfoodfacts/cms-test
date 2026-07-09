@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiketlər"
-description: "2 sual"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: əlfəcin
+icon: bookmark
 ---
 
-{{< fa "əlfəcin" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Etiket olaraq, hesab yaratmaq vacibdirmi?
+## As a label, is it important to create an account ?
 
-Etiket olaraq, məhsulların birbaşa istehsalçısı olmadığınız üçün istehsalçı hesabı yaratmağınıza ehtiyac yoxdur.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Mən leybla işləyirəm, layihədə necə iştirak edə bilərəm?
+## I am a label, how can I participate in the project?
 
-Etiket olaraq ən uyğun şey bizimlə əlaqə saxlamaq və etiketinizin göstərildiyi məhsulların siyahısını bizə göndərməkdir ki, onları əlaqəli məhsul vərəqlərinə əlavə edə bilək.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
