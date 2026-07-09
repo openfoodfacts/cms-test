@@ -1,23 +1,23 @@
 ---
-title: "{{< ଫା ବୁକମାର୍କ ଆକାର=2x >}} ଲେବଲ୍"
-description: "2ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
-order: ୨୩
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: ବୁକମାର୍କ
+icon: bookmark
 ---
 
-{{< fa "ବୁକମାର୍କ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ଏକ ଲେବଲ୍ ଭାବରେ, ଏକ ଆକାଉଣ୍ଟ୍ ତିଆରି କରିବା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ କି?
+## As a label, is it important to create an account ?
 
-ଏକ ଲେବଲ୍ ଭାବରେ, ଯେହେତୁ ଆପଣ ଉତ୍ପାଦଗୁଡ଼ିକର ସିଧାସଳଖ ଉତ୍ପାଦକ ନୁହଁନ୍ତି, ଆପଣଙ୍କୁ ଏକ ଉତ୍ପାଦକଙ୍କ ଆକାଉଣ୍ଟ ତିଆରି କରିବାକୁ ପଡିବ ନାହିଁ।
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ମୁଁ ଏକ ଲେବଲ୍, ମୁଁ ଏହି ପ୍ରୋଜେକ୍ଟରେ କିପରି ଅଂଶଗ୍ରହଣ କରିପାରିବି?
+## I am a label, how can I participate in the project?
 
-ଏକ ଲେବଲ୍ ଭାବରେ ସବୁଠାରୁ ପ୍ରାସଙ୍ଗିକ କାମ ହେଉଛି ଆମ ସହିତ ଯୋଗାଯୋଗ କରିବା **(producers@openfoodfacts.org)** ଏବଂ ଆପଣଙ୍କ ଲେବଲ୍ ପ୍ରଦର୍ଶିତ ହୋଇଥିବା ଉତ୍ପାଦଗୁଡ଼ିକର ତାଲିକା ଆମକୁ ପଠାନ୍ତୁ ଯାହା ଦ୍ଵାରା ଆମେ ସେଗୁଡ଼ିକୁ ସମ୍ବନ୍ଧିତ ଉତ୍ପାଦ ସିଟ୍‌ରେ ଯୋଡ଼ିପାରିବୁ।
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
