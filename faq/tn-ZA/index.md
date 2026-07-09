@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - Setswana"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/tshupane.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: keriti
+  type: grid
   grid-columns: 4
-  sort: "taelo"
-  fields: [ leina, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
