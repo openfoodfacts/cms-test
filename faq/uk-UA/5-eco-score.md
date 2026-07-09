@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Еко-оцінка"
-description: "5 питань"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: користувач-плюс
+icon: user-plus
 ---
 
-{{< fa "користувач-плюс" size="3 рази" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Що таке методологія Eco-Score?
+## What is the Eco-Score methodology?
 
-Еко-оцінка базується на розрахунках аналізу життєвого циклу, проведених ADEME (агентством екологічного переходу) та INRAE (національним інститутом агрономічних досліджень). Для створення показника PEF розраховується та пов'язується близько п'ятнадцяти компонентів.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-До цього балу PEF додаються бонуси та мінуси (спосіб виробництва, походження
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-інгредієнти, види, що знаходяться під загрозою зникнення, упаковка) для розрахунку Еко-оцінки.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Для отримання додаткової інформації див. сторінку зведення [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) на Open Food Facts, а також на вебсайті консорціуму Eco-Score. (Презентація Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Яку інформацію необхідно надати для якомога точнішого розрахунку Eco-Score?
-
-Для точного розрахунку Eco-Score необхідно вказати відсоток кожного інгредієнта та його походження.
-
-Якщо ця інформація ще не вказана у списку інгредієнтів, ви можете додати колонку, щоб згадати її, у такому форматі:
-
-Пшеничне борошно 16% (Франція)
-
-Шоколад 8% (Кот-д'Івуар, Еквадор)
-
-Нам також знадобляться компоненти упаковки у вигляді: 1 пластикової плівки для викидання, 1 картонної коробки FSC для переробки, 6 прозорих пластикових пляшок PET об'ємом 1,5 л для переробки, 6 непрозорих кольорових пластикових кришок, 12 пластикових банок об'ємом 330 мл з алюмінію.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Як поєднуються значення 15 показників?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Щоб краще зрозуміти систему PEF, ви можете прочитати: пояснення показника PEF на методологічному сайті Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Чи стосується місцевий аспект місця виробництва чи місця походження сировини?
+## How are the values ​​of the 15 indicators combined?
 
-**Місцевий аспект стосується походження сировини.** Ось чому важливо вказувати їх відсотковий вміст, а також походження у списку інгредієнтів продукту або в полі, призначеному для походження інгредієнтів.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Як ввести походження інгредієнтів для еко-оцінки?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Якщо ви бажаєте поділитися інформацією про походження сировини на своїх аркушах, запрошуємо вас включити її до списку інгредієнтів.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
