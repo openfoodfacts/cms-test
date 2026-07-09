@@ -1,17 +1,17 @@
 ---
-title: "Motora Folksonomiyê"
-description: "1 pirs"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: pirtûk
+icon: book
 ---
 
-{{< fa "pirtûk" size="3 caran" >}}
+{{< fa "book" size=3x >}}
 
-## Motora Folksonomiyê çi ye?
+## What is the Folksonomy Engine ?
 
-Motora Folksonomy sîstemek e ku dihêle bikarhêner etîketên xwerû, an taybetmendî, li berhemên xwarinê di Open Food Facts de, ku mezintirîn databasa xwarinên vekirî ya cîhanê ye, zêde bikin. Ev dihêle ku mirov xwarinê bi awayên nû, ji taybetmendiyên pêşwextkirî yên heyî wêdetir, kategorîze û rave bikin.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
