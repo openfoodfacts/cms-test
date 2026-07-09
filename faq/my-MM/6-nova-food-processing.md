@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / အစားအသောက် ပြုပြင်ထုတ်လုပ်ခြင်း"
-description: "မေးခွန်း ၁ ခု"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: ဘူး
+icon: flask
 ---
 
-{{< fa "ဘူး" size="၃ ဆ" >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA ဆိုတာ ဘာလဲ။
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
