@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Относно Open Food Facts"
-description: "4 въпроса"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: информационен кръг
+icon: info-circle
 ---
 
-{{< fa "информационен кръг" size="3 пъти" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Какъв тип информация трябва да се споделя?
+## What type of information should be shared?
 
-Всяка информация, която имате, е добре дошла, от хранителна информация до информация за опаковката.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Това прави възможно създаването на пълен файл, прецизното изчисляване на всички оценки и като цяло прозрачност, която потребителите ценят.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Въпреки това ви препоръчваме да дадете приоритет на следните полета:
+However we do recommend you prioritize the following fields:
 
-- Хранителна информация
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Категория на продукта (напр. напитки, сирене, кисело мляко и др.)
-
-- Име на продукта
-
-- Алергени
-
-- и съставките, това поле не е задължително, но се препоръчва за оптимално използване и определяне на резултатите
-
-→ За повече подробности ви каним да изтеглите нашето [ръководство за потребителя](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) и/или да се запознаете с нашите [видео уроци](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Мога ли да изтегля данни от Open Food Facts?
+## Can I download Open Food Facts data?
 
-Можете да изтеглите всички налични данни от Open Food Facts. Внимавайте, това изисква много дисково пространство, мощен компютър, ако искате да използвате електронна таблица, или познания по R или Python в противен случай.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Можете също така да изтеглите подмножество от данните (например вашата марка) благодарение на разширеното търсене.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ За повече подробности ви каним да изтеглите нашето [ръководство за потребителя](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) и/или да се запознаете с нашите [видео уроци](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Достъпът до Pro платформата и импортирането на данни безплатен ли е?
-
-Абсолютно, и ще бъде завинаги.Всички услуги, предоставяни от Open Food Facts, са безплатни.  
-Много се радваме, че решихте да предоставите данните си за продуктите си за прозрачност на храните и ви благодарим за това.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Бих искал/а да предложа подобрения за професионалната платформа, как мога да го направя?
+## Is access to the Pro platform and the import of data free?
 
-Благодарим ви за готовността ви да участвате в прозрачността на храните!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Най-добрият начин да споделите обратна връзка е като попълните [този формуляр](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Можете също да се свържете с нас, за да направите предложения, чрез [нашия форум](https://forum.openfoodfacts.org/) или чрез [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Присъединете се към нашия Slack и влезте в канала #producers, за да се свържете с нас.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
