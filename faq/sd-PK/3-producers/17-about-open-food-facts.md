@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} اوپن فوڊ فيڪٽس بابت"
-description: "4 سوال"
-lang: اين جي بي
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: معلوماتي دائرو
+icon: info-circle
 ---
 
-{{< fa "معلوماتي دائرو" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## ڪهڙي قسم جي معلومات شيئر ڪرڻ گهرجي؟
+## What type of information should be shared?
 
-توهان وٽ ڪا به معلومات ڀليڪار آهي، غذائي معلومات کان وٺي پيڪنگ جي معلومات تائين.
+Any information you have is welcome, from nutritional information to packaging information.
 
-هي هڪ مڪمل فائل قائم ڪرڻ ممڪن بڻائي ٿو، سڀني اسڪور کي درستگي سان ڳڻڻ ۽ عام طور تي شفافيت کي صارفين پاران ساراهيو وڃي ٿو.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-تڏهن به، اسان توهان کي هيٺين شعبن کي ترجيح ڏيڻ جي صلاح ڏيون ٿا:
+However we do recommend you prioritize the following fields:
 
-- غذائي معلومات
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- پراڊڪٽ ڪيٽيگري (مثال طور مشروبات، پنير، دہي، وغيره)
-
-- پراڊڪٽ جو نالو
-
-- الرجين
-
-- ۽ اجزاء، هي فيلڊ لازمي نه آهي پر اسڪور جي بهترين استعمال ۽ تعين لاءِ سفارش ڪئي وئي آهي.
-
-→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي [صارف گائيڊ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ڊائون لوڊ ڪرڻ جي دعوت ڏيون ٿا ۽/يا اسان جي [وڊيو سبق](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) سان صلاح ڪريو :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ڇا مان اوپن فوڊ فيڪٽس ڊيٽا ڊائون لوڊ ڪري سگهان ٿو؟
+## Can I download Open Food Facts data?
 
-توهان اوپن فوڊ فيڪٽس تي موجود سڀ ڊيٽا ڊائون لوڊ ڪري سگهو ٿا. خبردار، ان لاءِ گهڻي ڊسڪ اسپيس جي ضرورت آهي، جيڪڏهن توهان اسپريڊ شيٽ استعمال ڪرڻ چاهيو ٿا ته هڪ طاقتور ڪمپيوٽر يا ٻي صورت ۾ آر يا پٿون جو علم گهرجي.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-توهان ڊيٽا جو هڪ ذيلي سيٽ پڻ ڊائون لوڊ ڪري سگهو ٿا (مثال طور توهان جو برانڊ) جديد ڳولا جي مهرباني.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي [صارف گائيڊ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ڊائون لوڊ ڪرڻ جي دعوت ڏيون ٿا ۽/يا اسان جي [وڊيو سبق](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) سان صلاح ڪريو :-)
-
----
-
-## ڇا پرو پليٽ فارم تائين رسائي ۽ ڊيٽا جي درآمد مفت آهي؟
-
-بلڪل، ۽ اهو هميشه لاءِ رهندو.اوپن فوڊ فيڪٽس پاران مهيا ڪيل سڀئي خدمتون مفت آهن.  
-اسان کي تمام گهڻي خوشي آهي ته توهان پنهنجي پراڊڪٽ ڊيٽا کي کاڌي جي شفافيت ۾ حصو ڏيڻ جو فيصلو ڪيو آهي، ۽ اسان ان لاءِ توهان جا شڪرگذار آهيون.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## مان پيشيور پليٽ فارم لاءِ بهتري تجويز ڪرڻ چاهيان ٿو، مان اهو ڪيئن ڪري سگهان ٿو؟
+## Is access to the Pro platform and the import of data free?
 
-کاڌي جي شفافيت ۾ حصو وٺڻ جي رضامندي لاءِ مهرباني!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-راءِ ڏيڻ جو بهترين طريقو [هي فارم] (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) ڀرڻ آهي.
+---
 
-توهان تجويزون ڏيڻ لاءِ اسان سان رابطو ڪري سگهو ٿا [اسان جي فورم](https://forum.openfoodfacts.org/) يا [Slack](https://openfoodfacts.slack.com/ssb/redirect) ذريعي.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-اسان سان رابطو ڪرڻ لاءِ اسان جي سليڪ ۾ شامل ٿيو ۽ چينل #producers ۾ داخل ٿيو.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
