@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kuboaren tamaina=2x >}} Ontziratzea"
-description: "3 galdera"
-lang: eu-gb
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: kubo
+icon: cube
 ---
 
-{{< fa "kubo" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Nola gehi ditzaket nire ontziratze-datuak Open Food Facts-era?
+## How can I add my packaging data to Open Food Facts?
 
-Ekoizle gisa, zure produktuei ontziratze-datuak gehitzeko modurik eraginkorrena [excel kalkulu-orri honetan](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) "AU" zutabeko beharrezko informazioa betetzea da.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Ontziratzeko osagai bakoitzerako, honako hau sartu beharko duzu:
+For each packaging component, you will need to enter:
 
-- Unitate kopurua (adibidez: **4** jogurt pote)
+- The number of units (ex: **4** pots of yogurts)
 
-- Forma (adibidez: **lapikoa, tapa, kaxa, etab.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materiala (adibidez: **PET, papera, beira, etab.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Birziklatzeko argibideak (adibidez: **birziklatu, bota, etab.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Unitate huts baten pisua (gr-tan)
+- The weight of one empty unit (in gr)
 
-- Unitate bakoitzeko produktuaren kantitate garbia
+- The net quantity of product contained per unit
 
-Kalkulu-orri hau profesionalei eskainitako gure plataformara inporta daiteke.
-
----
-
-## Zer da Elikagaien Ontzien Aurkako Proiektua?
-
-"Tackling Food Packaging" proiektuak gehien kontsumitzen diren produktuen ontzien inguruko informazio zehatza biltzean datza (forma, materiala, sailkatzeko argibideak, pisua, edukiera).
-
-Zientzia parte-hartzailearen ikuspegi batean oinarrituta, enpresek beren ontziratze-datuak partekatzeko eta gardentasunaren jokoan aritzeko adostasuna izatearen eta herritarrek produktuei buruzko informazioa biltzeko baimena ematearen menpe egongo da. Informazio hau libreki berrerabilgarria izango da ("datu irekiak").
-
-**Informazio gehiago lortzeko:** [[https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)\*\*
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Elikagaien Ontziratzeari Aurre Egiteko proiektua amaitu ondoren ere, gehitu al ditzaket nire ontziratze-datuak?
+## What is the Tackling Food Packaging project?
 
-Proiektua amaitu ondoren ere, ontziratze-datuak gehitzea posible da, ontziratze-eremuak gure webgunean mantenduko baitira.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
