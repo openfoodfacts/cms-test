@@ -1,177 +1,177 @@
 ---
-title: "{{< ukuran kothak fa=2x >}} Atur produkku"
-description: "16 pitakonan"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: kothak
+icon: box
 ---
 
-{{< fa "kothak" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Apa sing njamin kualitas data ing Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Kanggo terus ningkatake kualitas data, kita ngandelake 4 pilar:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Komunitas iki terus-terusan nambahake data lan foto lan minangka patroli para pengulas.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Kita wis nyetel aturan logika kanggo ngenali kesalahan ing lembar produk.Umpamane: yen jumlah bobot bahan luwih gedhe tinimbang bobot total produk, ana anomali. Kita duwé udakara 50 pamriksan kualitas liyané.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Amarga Machine Learning, kita mbatesi risiko kesalahan input. Teknologi kita ngidini kita njupuk data tekstual saka foto sing dijupuk dening kontributor
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Amarga dhukungan saka Santé Publique France, kita ngembangake portal sing ngidini para produser ngunggah data sing diprodhuksi massal lan kanthi mangkono mbenerake/ngrampungake kontribusi komunitas.
-
----
-
-## Kepiye carane nambah produk?
-
-Kanggo nambahake produk menyang platform kita, sampeyan kudu mutusake kepiye carane nerusake. Ana 4 pilihan:
-
-- **Manual**: yen sampeyan duwe jumlah produk sing sithik, sampeyan isih bisa nggawe saben lembar produk kanthi manual ing Platform Pro.
-
-- **Liwat impor spreadsheet**: sampeyan bisa ndownload spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) sing diwenehake dening Open Food Facts, utawa ngimpor langsung ekstraksi saka sistem IT sampeyan menyang platform Pro.
-
-- **Liwat konektor katalog produk**. Yen sampeyan klien ing EQUADIS, AGENA3000 utawa BAYARD, sampeyan bisa ngunggah data ing Open Food Facts mung nganggo 1 klik. Menawi panjenengan nyambut damel kaliyan PIM (Manajemen Informasi Produk) sanès, sumangga hubungi kita: producers@openfoodfacts.org
-
-- **Liwat sambungan sing dirancang khusus** antarane perusahaan sampeyan lan Open Food Facts. Yen sampeyan ngetung luwih saka 1000 produk ing portofolio sampeyan, kita bisa ngrembug babagan kesempatan kanggo mbangun konektor tartamtu kanggo nggampangake transfer data.
-
-Kanggo katrangan luwih lengkap, panjenengan saged ngundhuh [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawi mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Apa ana cara kanggo ngotomatisasi nganyari produk menyang basis data umum?
+## How to add products?
 
-Ya, yen sampeyan nggunakake katalog produk EQUADIS, AGENA3000 utawa BAYARD, lan nyetel konfigurasi sing bener, impor bisa ditindakake kanthi otomatis lan mulane nganyari data produk ing Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Apa jumlah produk sing ditambahake diwatesi?
+## Is there a way to automate product updates to the public database?
 
-Ora ana watesan, sampeyan bisa ngunggah jumlah produk sing dikarepake ing platform kita.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Yen sampeyan pengin mbusak produk sing wis ora ana ing pasar, sampeyan mung kudu menehi tandha centhang ing kothak "produk iki ora payu maneh" nalika nyunting lembar produk.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Yen sampeyan pengin mbusak sawetara produk, disaranake sampeyan tindakake prosedur sing kasebut ing [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), ing kaca 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Panjenengan uga saged ngubungi kita liwat producers@openfoodfacts.org menawi gadhah pitakenan.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Nalika produk kasebut diarsipkan, produk kasebut ora bakal katon maneh ing Open Food Facts.Nanging, iki bakal tetep ana ing basis data supaya kita bisa nyimpen riwayat produk sing didol sajrone wektu tartamtu.
-
----
-
-## Apa informasi perusahaan luwih diutamakake tinimbang informasi sing wis ana ing platform?
-
-Nalika produsen masang salah sawijining produke online nganggo akun produsen lan lembar produk wis ana, iki bakal ngrampungake.
-
-Informasi sing dikirim dening produsen bakal tansah dadi prioritas lan dheweke dhewe sing bakal bisa ngowahi produke nalika informasi kasebut wis diisi.
-
-Manawa data sing dikirim liwat platform kasebut terfragmentasi, informasi sing ditambahake dening komunitas saka kemasan kasebut bisa uga ngrampungake.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Aku kudu ngirim data nganggo format apa?
+## Does company information take precedence over information already present on the platform?
 
-A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) diwenehake dening Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Nanging, format spreadsheet apa wae (xlsx, csv) bakal bisa diimpor ing platform kasebut.  
-Algoritma kita dirancang kanggo cocogake atribut saka file sampeyan kanthi otomatis, karo atribut sing ana ing Open Food Facts. Ati-ati supaya tansah mriksa maneh tahapan sing cocog amarga sampeyan bisa uga kudu nyetel sawetara kanthi manual.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Yen informasi sampeyan kapérang-pérang ing antarane sawetara spreadsheet, sampeyan bisa ngimpor kanthi runtut - priksa manawa sampeyan cocog yen formaté owah.
-
-Sampeyan uga bisa ngimpor file Excel saliyane impor EQUADIS utawa AGENA3000, yen datane durung ana ing sistem informasi sampeyan. Ing kasus iki, aja lali njaluk ekspor menyang basis data umum saka antarmuka.
-
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Sampeyan wis terintegrasi karo katalog produk endi?
+## In what format should I send my data?
 
-Produsen saiki bisa ngirim data lan foto produk kanthi wektu nyata saka **Equadis,** **AGENA3000 lan konsultasi BAYARD** menyang Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Sampeyan mesthi uga bakal entuk manfaat saka saran reformulasi lan kabeh fitur platform kasebut.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Kiriman blog kita](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) nerangake langkah-langkah sing kudu ditindakake yen sampeyan pelanggan EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Yen sampeyan pelanggan AGENA3000 (Produk A3 PIM INDUSTRY), sampeyan mung kudu milih panampa "Open Food Facts" nalika ngirim lembar produk sampeyan. [Informasi luwih lengkap ing postingan blog iki](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Menawi panjenengan minangka pelanggan katalog data produk sanès (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, lsp.) tulung kabari kita ing [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kepiye carane nambah produk tanpa barcode liwat platform Pro?
+## With which product catalogs are you integrated?
 
-Kanggo produk tanpa barcode, ing situs utawa ing platform produsen, ana tombol "Produk tanpa barcode" ing kolom kiwa sing ngidini sampeyan nambahake. Identifikasi banjur digawe kanthi otomatis.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Kita wis nggawe proyèk khusus kanggo kosmetik, pakan kéwan, uga kanggo produk liyané: Open Beauty Facts, Open Pet Food Facts, lan Open Products Facts.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Data produk saka perusahaanku kasedhiya ing Open Food Facts. Apa bisa njupuk kendali akun produsen sing ana gandhengane?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ya mesthi! (or) Ya mesthi! Sampeyan bisa ngontrol akun produsen sing ana gandhengane kanthi nggawe akun Open Food Facts nganggo alamat bisnis sampeyan. Nalika ndhaptar, sebutna jeneng organisasi sing ana ing formulir supaya bisa ngakses ruang produser sing cocog.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Langkah validasi singkat bakal dibutuhake kanggo mesthekake yen sampeyan pancen produsere.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Sampeyan bakal bisa ngrampungake data, nambah gambar, entuk rekomendasi otomatis kanggo ningkatake Nutri-Score, lan liya-liyane. Kabeh iki mesthi gratis. Sampeyan uga bisa nyambungake sistem manajemen data produk pihak katelu kayata EQUADIS, AGENA3000 lan Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Pira suwene data produsen dianyari ing aplikasi liya sing nggunakake database Open Food Facts?
-
-Iku gumantung saka aplikasine. Kanggo sing nggunakake API kita, sing umume akeh, iki langsung kedadeyan.  
-Kanggo sing nggunakake ekspor saben dina, iku D+1 anggere dianyari.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Apa ngimpor data saka cathetan produk ngrampungake utawa nimpa cathetan produk sing wis ana?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Kita nggunakake barcode kanggo ngenali produk, yen sampeyan ngimpor rekaman nganggo barcode sing padha karo rekaman sing wis ana, informasi kasebut bakal digabung.
-
-Kanggo data kaya ta dhaptar bahan, nilai nutrisi (mung siji nilai sing bener), data sing dikirim liwat platform produsen bakal nimpa data sing wis ana.
-
-Kanggo data kaya ta label/kategori/merek (bisa uga ana sawetara nilai sing bener), informasi kasebut digabung. Yen data ing platform umum salah, sampeyan bisa ngowahi lembar produk ing platform umum kanggo mbusak nilai sing salah.
-
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Apa urutan bahan-bahane penting?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Urutan bahan-bahan iku penting: iki nggambarake urutan miturut jumlahe.
-Cara paling apik kanggo ngisi bahan-bahan yaiku kanthi nuruti persis apa sing ditulis ing kemasan. Mulané penting banget kanggo nyetak foto bahan-bahané.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Apa aku isa ngirim gambar liwat AGENA3000 uga?
+## Is the order of ingredients important?
 
-Sampeyan bisa ngirim gambar nanging ing praktik mung gambar utama sing bakal dipilih kanthi otomatis, gambar liyane bakal dikirim, nanging ora dipotong/dipilih kanggo bahan-bahan, nutrisi, lan liya-liyane.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Kepiye carane ngakses tutorial platform Pro?
+## Can I send images via AGENA3000 too?
 
-Sampeyan bisa ngakses tutorial platform pro:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Liwat platform pro dhewe: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Langsung ing [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Sampeyan uga bisa ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
