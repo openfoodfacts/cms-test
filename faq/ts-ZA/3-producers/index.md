@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Vahumelerisi"
-description: "6 wa swiyengentsongo"
-lang: ts-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: vumaki
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: phatheni
+  type: grid
   grid-columns: 4
-  sort: "xileriso"
-  fields: [ xirhangi, description ]
-  page-size: 100. 100
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "vumaki" size=3x >}}
+{{< fa "industry" size=3x >}}
 
