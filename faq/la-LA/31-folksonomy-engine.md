@@ -1,17 +1,17 @@
 ---
-title: "{{< magnitudo libri fa=2x >}} Machina Folksonomiae"
-description: "Una quaestio"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: XXXI
+order: 31
 category-level: 0
-icon: liber
+icon: book
 ---
 
-{{< fa "liber" size=Ter >}}
+{{< fa "book" size=3x >}}
 
-## Quid est Machina Folksonomiae?
+## What is the Folksonomy Engine ?
 
-Machina Folksonomiae est systema quod usoribus permittit ut notas proprias, sive proprietates, cibis in Open Food Facts, maxima mundi indice ciborum apertorum, addant. Hoc hominibus permittit ut cibum novis modis, ultra proprietates iam praedefinitas, digerant et describant.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
