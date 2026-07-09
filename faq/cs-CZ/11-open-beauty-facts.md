@@ -1,53 +1,53 @@
 ---
 title: "{{< fa tags size=2x >}} Open Beauty Facts"
-description: "4 questions"
-lang: en-gb
+description: "4 otázky"
+lang: cs
 order: 11
 category-level: 0
-icon: tags
+icon: štítky
 ---
 
-{{< fa "tags" size=3x >}}
+{{< fa "štítky" size=3× >}}
 
-## Does Open Beauty Facts have an analysis laboratory?
+## Má Open Beauty Facts analytickou laboratoř?
 
-Open Beauty Facts unfortunately does not have an analysis laboratory: we are an association of volunteers whose goal is to create a Wikipedia of cosmetics.
+Open Beauty Facts bohužel nemá analytickou laboratoř: jsme sdružení dobrovolníků, jehož cílem je vytvořit Wikipedii kosmetiky.
 
-That said, if you would like to help us provide more transparency for
+Nicméně, pokud byste nám chtěli pomoci zajistit větší transparentnost pro
 
-consumers, you can use our iPhone, Android and
+spotřebitele, můžete používat naše iPhone, Android a
 
-Windows Phone to add products:
+Windows Phone pro přidání produktů:
 
 [https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner](https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner)
 
-And to exchange and discuss the possible uses of the project, you
+A pro výměnu a diskusi o možném využití projektu
 
-can join the Facebook group of contributors:
+se může připojit k Facebookové skupině přispěvatelů:
 
 [https://www.facebook.com/groups/356858984359591/](https://www.facebook.com/groups/356858984359591/)
 
 ---
 
-## How do I import my products into Open Beauty Facts?
+## Jak mohu importovat své produkty do Open Beauty Fact?
 
-Contact producteurs@openfoodfacts.org or go directly to
+Kontaktujte producteurs@openfoodfacts.org nebo přejděte přímo na
 
-[https://world.pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) then contact \*\*producteurs@openfoodfacts.org \*\*for a special export
-
----
-
-## Where can I download Open Beauty Facts data?
-
-The /data page is currently broken. You can download the data at [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
+[https://world-pro.openfoodfacts.org](https://fr.pro.openfoodfacts.org) pak kontaktujte \*\*producteurs@openfoodfacts.org \*\*pro speciální export
 
 ---
 
-## Where can I find the Open Beauty Facts API and data exports ?
+## Kde si mohu stáhnout data z Open Beauty Facts?
 
-Open Food Facts API is 98% the same as Open Beauty Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Beauty Facts API.
+Stránka /data je momentálně nefunkční. Data si můžete stáhnout v [https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv](https://fr.openbeautyfacts.org/data/fr.openbeautyfacts.org.products.csv)
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+---
+
+## Kde najdu Open Beauty Facts API a data export?
+
+Open Food Facts API je z 98 % stejné jako Open Beauty Facts API, takže pokud používáte dokumentaci k Open Food Facts API, měli byste mít o Open Beauty Facts API docela jasnou představu.
+
+Všimněte si, že funkce jako jsou znalostní panely, Eco-Score, Nutri-Score nejsou podporovány (ať už kvůli tématu, nebo starému kódu).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
