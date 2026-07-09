@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Ukuhlaziywa kwephothifoliyo yomkhiqizo (uphawu, intuthuko...)"
-description: "Umbuzo ongu-1"
-lang: i-en-gb
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: ibha yeshadi
+icon: chart-bar
 ---
 
-{{< fa "ibha yeshadi" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Ungayithola kanjani isiqondiso sokuvuselela kabusha ukuze uthuthukise i-Nutri-Score yemikhiqizo yami?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Uma usekhasini lasekhaya lePlatform Yabakhiqizi:
+When you are on the home page of the Producers Platform:
 
-1. chofoza isixhumanisi esithi "→ Inani lemikhiqizo enamathuba okuthuthukisa" phezulu ekhasini.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. ungabheka wonke amathuba atholwe uhlelo lwethu ukuze uthuthukise imikhiqizo yakho
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ukuchofoza uhlobo lwethuba kuzokuholela ohlwini lwemikhiqizo engathuthukiswa.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Ukuze uthole imininingwane eyengeziwe, sikumema ukuthi ulande [umhlahlandlela wethu womsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kanye/noma ubheke [izifundo zethu zevidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
