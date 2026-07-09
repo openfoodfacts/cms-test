@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} וועגן אפענע עסן פאקטן"
-description: "4 פֿראַגעס"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: אינפאָ-קרייז
+icon: info-circle
 ---
 
-{{< fa "אינפאָ-קרייז" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## וואָסערע סאָרט אינפֿאָרמאַציע זאָל מען טיילן?
+## What type of information should be shared?
 
-יעדע אינפארמאציע וואס איר האט איז באגריסן, פון נוטרישאנעל אינפארמאציע ביז פאקאדזשינג אינפארמאציע.
+Any information you have is welcome, from nutritional information to packaging information.
 
-דאָס מאַכט עס מעגלעך צו שאַפֿן אַ גאַנצע טעקע, צו רעכענען אַלע סקאָרז מיט פּינקטלעכקייט און מער בכלל אַ טראַנספּאַרענץ וואָס ווערט אָפּגעשאַצט דורך קאָנסומערס.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-אָבער מיר רעקאָמענדירן אַז איר זאָלט פּרייאָריטעטירן די פאלגענדע פעלדער:
+However we do recommend you prioritize the following fields:
 
-- נוטרישאַנאַל אינפֿאָרמאַציע
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- פּראָדוקט קאַטעגאָריע (למשל געטראַנקען, קעז, יאָגורט, אאַז"וו)
-
-- נאָמען פֿון פּראָדוקט
-
-- אַלערגענען
-
-- און די אינגרעדיענטן, דאס פעלד איז נישט פארלאנגט אבער רעקאמענדירט פאר אן אפטימאלן באנוץ און באשטימונג פון די סקאָרס
-
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## קען איך אראפלאדן Open Food Facts דאטן?
+## Can I download Open Food Facts data?
 
-איר קענט אראפלאדן אלע דאטן וואס זענען פאראן אויף Open Food Facts. היט אייך, דאָס פארלאנגט אַ סך דיסק פּלאַץ, אַ שטאַרקן קאָמפּיוטער אויב איר ווילט נוצן אַ ספּרעדשיט אָדער וויסן פון R אָדער פּיטהאָן אַנדערש.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-איר קענט אויך אראפלאדן א טייל פון די דאטן (למשל, אייער בראנד) דאנק די פארגעשריטענע זוכעניש.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## איז צוטריט צו דער פּראָ פּלאַטפאָרמע און דער אימפּאָרט פון דאַטן פריי?
-
-זיכער, און עס וועט זיין אויף אייביק.אַלע סערוויסעס וואָס ווערן צוגעשטעלט דורך Open Food Facts זענען פריי פון אָפּצאָל.  
-מיר זענען זייער צופרידן אַז איר האָט באַשלאָסן צו ביישטייערן אייערע פּראָדוקט דאַטן צו עסן טראַנספּעראַנסי, און מיר דאַנקען אייך דערפֿאַר.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## איך וואָלט געוואָלט פֿאָרשלאָגן פֿאַרבעסערונגען פֿאַר דער פּראָפֿעסיאָנעלער פּלאַטפאָרמע, ווי קען איך דאָס טאָן?
+## Is access to the Pro platform and the import of data free?
 
-א דאנק פאר אייער וויליגקייט צו באטייליקן זיך אין עסן טראַנספּעראַנסי!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-דער בעסטער וועג צו טיילן באַמערקונגען איז דורך אויספֿילן [דעם פֿאָרמולאַר](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-איר קענט אונדז אויך קאָנטאַקטירן צו מאַכן פֿאָרשלאָגן דורך [אונדזער פֿאָרום](https://forum.openfoodfacts.org/) אָדער דורך [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-קומט אריין אין אונזער סלעק און גייט אריין אין קאנאל #פראדוסערס צו קאנטאקטירן אונז.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
