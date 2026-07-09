@@ -1,29 +1,29 @@
 ---
 title: "{{< fa paw size=2x >}} Open Pet Food Facts"
-description: "2 questions"
-lang: en-gb
+description: "2 otázky"
+lang: cs
 order: 10
 category-level: 0
-icon: paw
+icon: tlapka
 ---
 
-{{< fa "paw" size=3x >}}
+{{< fa "tlapka" size=3× >}}
 
-## Why is there no Nutri-Score for animals?
+## Proč neexistuje Nutri-Score pro zvířata?
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Každé zvíře je jiné (had nemá stejné nutriční potřeby jako kočka nebo pes)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+I v rámci stejného druhu zvířete, jako jsou psi, se nutriční potřeby liší v závislosti na sedavém způsobu života, případné kastraci nebo nemocech.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Je proto složité vypočítat skóre pro krmivo pro zvířata bez zapojení desítek výzkumníků a vytvoření desítek různých algoritmů, což dosud nebylo provedeno.
 
 ---
 
-## Where can I find the Open Pet Food Facts API ?
+## Kde najdu API pro informace o krmivech pro domácí mazlíčky?
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+Open Pet Food Facts API je z 98 % stejné jako Open Food Facts API, takže pokud používáte dokumentaci k Open Food Facts API, měli byste mít o Open Pet Food Facts API docela jasnou představu.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Všimněte si, že funkce jako jsou znalostní panely, Eco-Score, Nutri-Score nejsou podporovány (ať už kvůli tématu, nebo starému kódu).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
