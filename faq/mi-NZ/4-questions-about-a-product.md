@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Ngā pātai mō tētahi hua"
-description: "1 pātai"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: kete hokohoko
+icon: shopping-basket
 ---
 
-{{< fa "kete hokohoko" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## He pātai/kereme tāku mō tētahi hua
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) he pae mahi tahi i hangaia, i whāngaihia hoki e ngā kaihoko kia taea ai te wetewete i ngā tapanga me te whakatairite i ngā hua.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Mō ētahi atu kōrero e pā ana ki tētahi hua, ki tētahi kereme rānei, tuhituhi ki te kaihanga. Kāore ā mātou taipitopito whakapā mō ngā kaihanga engari kei runga i te takai te nuinga o te wā.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Ki te hiahia koe ki te āwhina i a mātou ki te kawe mai i te māramatanga ki ngā kaihoko pēnei i a koe, i a mātou rānei, ka taea e koe te whakamahi i tā mātou taupānga iPhone, Android rānei hei tāpiri hua: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Hei kōrero mō te kaupapa, ka taea e koe te whakauru atu ki te rōpū Facebook o ngā kaitāko: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) kōrero rānei ki ētahi atu kaitāko i runga i a Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
