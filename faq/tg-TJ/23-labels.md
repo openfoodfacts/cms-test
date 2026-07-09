@@ -1,23 +1,23 @@
 ---
-title: "Нишонаҳои {{< fa bookmark size=2x >}}"
-description: "2 савол"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: хатчӯб
+icon: bookmark
 ---
 
-{{< fa "хатчӯб" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ҳамчун як тамға, оё эҷод кардани ҳисоб муҳим аст?
+## As a label, is it important to create an account ?
 
-Ҳамчун як тамға, азбаски шумо истеҳсолкунандаи мустақими маҳсулот нестед, ба шумо лозим нест, ки ҳисоби истеҳсолкунанда эҷод кунед.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ман як лейбл ҳастам, чӣ гуна ман метавонам дар лоиҳа иштирок кунам?
+## I am a label, how can I participate in the project?
 
-Ҳамчун тамғагузорӣ, муҳимтарин коре, ки бояд анҷом дода шавад, ин тамос бо мо **(producers@openfoodfacts.org)** ва ба мо рӯйхати маҳсулотеро, ки тамғаи шумо дар онҳо нишон дода шудааст, фиристед, то мо онҳоро ба варақаҳои маҳсулоти марбута илова кунем.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
