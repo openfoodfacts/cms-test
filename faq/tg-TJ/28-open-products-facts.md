@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Маълумот дар бораи маҳсулоти кушода"
-description: "3 савол"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: калид
+icon: key
 ---
 
-{{< fa "калид" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Чӣ тавр ба Маълумот дар бораи Маҳсулоти Озод дар iPhone дастрасӣ пайдо кардан мумкин аст?
+## How to access Open Products Facts on iPhone ?
 
-Маълумот дар бораи маҳсулоти кушода дар барномаи асосии Open Food Facts дастрас аст. Ин ҳамгироӣ ба корбарони iPhone имкон медиҳад, ки ба ҳарду пойгоҳи додаҳо тавассути як барномаи ягона ва қулай дастрасӣ пайдо кунанд.
-
----
-
-## Ман мехоҳам далелҳои маҳсулоти кушодаро дастгирӣ кунам. Ман бояд чи кор кунам ?
-
-Лутфан, саҳифаи викии моро хонед, мо роҳҳои иштирокро номбар кардем: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Барои дастгирии далелҳои маҳсулоти кушода, шумо метавонед имконоти зеринро, ки ҳар кадоме ба намудҳои гуногуни саҳмгузорӣ мутобиқ карда шудаанд, баррасӣ кунед:
-
--
-
-**Сарпарастони хайриявӣ/давлатӣ барои далелҳо дар бораи маҳсулоти кушода**:
-Саҳмгузориҳои хайриявӣ дар амалӣ кардани биниши платформаи ҳамаҷонибаи додаҳои даврӣ, баҳодиҳии маҳсулот ва ҷамъбасти роҳҳои ҳалли даврӣ дар зиёда аз 20000 категория, ки ҳадафи асосии далелҳо дар бораи маҳсулоти кушода аст, муҳим мебошанд. Бисёре аз ҷузъҳои муҳими ин дурнамо ҳанӯз маблағгузорӣ нашудаанд ва дастгирии молии шумо метавонад таъсири назаррас расонад. Хайрияҳои шумо метавонанд барои маблағгузории лоиҳаҳои муҳим ва инфрасохтор кумак кунанд. Барои саҳми молиявӣ, лутфан бо мо тавассути суроғаи contact@openfoodfacts.org тамос гиред.
-
--
-
-**Саҳмгузорони маълумот бо истифода аз барномаи Open Products Facts**:
-Саҳмгузорони маълумот барои миқёспазирии Open Products Facts муҳиманд. Бо истифода аз барномаи Android барои илова кардани маълумоти нави маҳсулот, навсозии вурудоти мавҷуда ё тасдиқи маълумот, шумо ба васеъ ва такмили пойгоҳи додаҳо мусоидат мекунед. Ин талоши дастаҷамъона ба эҷоди як манбаи мустаҳкам ва боэътимод барои ҳама мусоидат мекунад.
-
--
-
-**Саҳмгузорони техникӣ дар далелҳои маҳсулоти кушода**:
-Агар шумо малакаҳои техникӣ дар соҳаҳо ба монанди барномасозӣ, таҳлили маълумот ё тарроҳии таҷрибаи корбарӣ дошта бошед, таҷрибаи шумо метавонад барои далелҳои маҳсулоти кушода фоидаи назаррас расонад. Иштирок дар таҳияи барнома, беҳтар кардани функсияҳои он ё беҳтар кардани интерфейсҳои корбар саҳми арзишманд мебошанд. Барои иштирок, ба канали #openproductsfacts Slack ҳамроҳ шавед, ки дар он ҷомеаи Open Products Facts ҳамкорӣ мекунад. Шумо метавонед истинодро ба ин фазои кории Slack дар вебсайти Open Food Facts пайдо кунед.
-
-Ҳар як намуди саҳм барои рушд ва муваффақияти Open Products Facts муҳим аст ва ба эҷоди платформаи устувортар ва иттилоотӣ барои ҳама мусоидат мекунад.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Аз куҷо ман метавонам API-и Open Products Facts-ро пайдо кунам?
+## I would like to support Open Products Facts. What can I do ?
 
-API-и Open Products Facts 98% бо API-и Open Food Facts якхела аст, аз ин рӯ, агар шумо ҳуҷҷатҳои Open Food Facts API-ро истифода баред, шумо бояд назари хеле равшанро дар бораи API-и Open Products Facts дошта бошед. Мо инчунин дарси махсусе навиштаем, ки ба шумо имкон медиҳад, ки сканкунии универсалиро дар барномаи шумо амалӣ кунед.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
