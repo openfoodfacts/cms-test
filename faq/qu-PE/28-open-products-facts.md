@@ -1,50 +1,50 @@
 ---
-title: "{{< fa key size=2x >}} Kichay Rurukuna Chiqap"
-description: "3 tapuykuna"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
-order: 28. 28
+order: 28
 category-level: 0
-icon: kichana
+icon: key
 ---
 
-{{< fa "kichana" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## ¿Imaynatataq iPhone kaqpi Kichasqa Rurukuna Chiqapkunaman yaykuyta atikunman ?
+## How to access Open Products Facts on iPhone ?
 
-Kichasqa Rurukuna Chiqapkuna hatun Kichasqa Mikhuy Chiqapkuna ruwana ukhupi tarikun. Kay tinkiyqa iPhone kaqmanta ruwaqkunata iskaynin willaypa tiyapuyninkunaman yaykuyta atikun huk sapalla, allin ruwanawan.
-
----
-
-## Kichasqa Rurukuna Chiqaq kaqkunata yanapayta munani. ¿Imatataq ruwayman ?
-
-Ama hina kaspa, wiki p'anqaykuta ñawiriy, imayna llamk'anapaq qillqayku: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Kichasqa Rurukuna Chiqakuna yanapakuypaq, kay akllanakunata qhawayta atikunki, sapa huk imaymana yanapakuykunaman ruwasqa:
-
--
-
-**Philantropico/Estado Patrocinadores Kichasqa Rurukuna Chiqap kaqpaq**:
-Filantrópico yanapakuykuna ancha chaniyuq kanku huk tukuypaq muyuriq willay plataforma, rurukuna puntuación, chaymanta muyu solucionkuna huñusqa rikuy hunt'aypi, aswan 20000+ categoríakuna kaqpi, huk llalliq meta Kichasqa Rurukuna Chiqap kaqmanta. Kay rikuypa achka componentes esenciales nisqakuna manaraqmi qullqichasqachu kanku, qullqi yanapakuyniykipas hatun impactota ruwanman. Donacionniykikunaqa yanapanmanmi qullqita quspa critico desarrollokunata hinaspa infraestructura nisqakunata. Qullqiwan yanapakunaykipaq, kay contact@openfoodfacts.org nisqaman rimanakuy
-
--
-
-**Willakuy Yanapakuqkuna Kichasqa Rurukuna Chiqakuna App kaqwan**:
-Willay yanapakuykuna Kichasqa Rurukuna Chiqakuna escalanapaq ancha chaniyuq kanku. Android ruwayta llamk'achispa musuq ruru willayta yapanapaq, kunan kaq yaykuykunata musuqchaypaq utaq willayta chiqaqchaypaq, willaypa tiyapuyninta mast'ariyta chaymanta allinchayta yanapanki. Kay huñusqa kallpachakuyqa yanapanmi llapa runapaq allin takyasqa, confiable recurso nisqa hatarichinapaq.
-
--
-
-**Técnico Yanapakuqkuna Kichasqa Rurukuna Chiqakuna**:
-Sichus técnica yachayniyuq kanki imaynachus programacion, willay t'aqwiy utaq ruwaqpa experiencian diseño kaqpi, yachayniyki Kichasqa Rurukuna Chiqakuna anchata yanapanman. App ruwaypi llamk'ay, ruwayninta allinchay utaq interfazkuna ruwaqpa aswan allinchayqa chanin yanapakuykuna kanku. Chayman yaykunaykipaq, #openproductsfacts Slack kanalman yaykuy, maypi Open Products Facts ayllu yanapanakunku. Kay Slack llamkana pampaman huk t'inkita tarinkiman Kichasqa Mikhuy Chiqakuna web kitipi.
-
-Sapa laya yanapakuyqa ancha allinmi Kichasqa Rurukuna Chiqap wiñayninpaq chaymanta allin ruwayninpaq, yanapakun aswan takyasqa chaymanta willakuq plataforma llapa runapaq ruwayta.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Maypitaq Kichasqa Rurukuna Chiqap API nisqa tariyman ?
+## I would like to support Open Products Facts. What can I do ?
 
-Kichasqa Rurukuna Chiqakuna API 98% kaqlla Kichasqa Mikhuy Chiqakuna API kaqwan chayrayku sichus Kichasqa Mikhuy Chiqakuna API qillqakunata llamk'achkanki huk allin sut'i qhawayniyuq kanayki tiyan Kichasqa Rurukuna Chiqakuna API kaqmanta. Hinallataq, dedicado yachachiyta qillqarqayku, universal escaneo appniykipi implementayta atinaykupaq.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://qu.kichasqa mikhuykuna.github.io/kichasqa mikhuykuna-servidor/api/ref-v2/)
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
