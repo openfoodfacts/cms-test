@@ -1,49 +1,49 @@
 ---
-title: "{{< talha de cube fa=2x >}} Embalatge"
+title: "{{< fa cube size=2x >}} Packaging"
 description: "3 questions"
-lang: es-gb
+lang: en-gb
 order: 24
 category-level: 1
-icon: cub
+icon: cube
 ---
 
-{{< fa "cub" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Cossí pòdi apondre mas donadas d'embalatge a Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Coma productor, lo biais mai eficient d'apondre de donadas d'embalatge a vòstres produches es d'emplenar aqueste [fuèlh de calcul excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) l'informacion necessària, dempuèi la colomna "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Per cada compausant d'embalatge, vos caldrà picar :
+For each packaging component, you will need to enter:
 
-- Lo nombre d'unitats (ex: **4** pòts de iogurts)
+- The number of units (ex: **4** pots of yogurts)
 
-- La forma (ex: **pot, tampa, bóstia, etc**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Lo material (ex: **PET, papièr, veire, etc**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- L'instruccion de reciclatge (ex: **reciclar, escartar, etc**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Lo pes d'una unitat voida (en gr)
+- The weight of one empty unit (in gr)
 
-- La quantitat neta de produch contengut per unitat
+- The net quantity of product contained per unit
 
-Aqueste fuèlh de calcul pòt alara èsser importat dins nòstra plataforma consacrada als professionals.
-
----
-
-## Qu'es lo projècte de Tackling Food Packaging?
-
-Lo projècte "Abordar l'embalatge dels aliments" consistís a reculhir d'informacions detalhadas sus l'embalatge dels produches mai consomats (forma, material, instruccions de classament, pes, capacitat).
-
-Basat sus un apròchi scientific participatiu, s'apièjarà a l'encòp sus las entrepresas qu'acceptan de partejar lors donadas d'embalatge e de jogar al jòc de la transparéncia, e suls ciutadans que permeton la collecta d'informacions suls produches. Aquesta informacion serà liurament reutilizabla ("donadas dobèrtas").
-
-**Per mai d'informacions:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Quitament après la fin del projècte Tackling Food Packaging, pòdi encara apondre mas donadas d'embalatge?
+## What is the Tackling Food Packaging project?
 
-Quitament après la fin del projècte, es possible d'apondre de donadas d'embalatge perque los camps d'embalatge demoraràn sus nòstre site web.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
