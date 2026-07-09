@@ -1,49 +1,49 @@
 ---
-title: "{{< ukubwa wa mchemraba wa fa=2x >}} Ufungashaji"
-description: "Maswali 3"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: mchemraba
+icon: cube
 ---
 
-{{< fa "mchemraba" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ninawezaje kuongeza data yangu ya vifungashio kwenye Ukweli wa Chakula Huria?
+## How can I add my packaging data to Open Food Facts?
 
-Kama mzalishaji, njia bora zaidi ya kuongeza data ya vifungashio kwenye bidhaa zako ni kwa kujaza [lahajedwali la Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) taarifa muhimu, kutoka safu wima "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Kwa kila sehemu ya kifungashio, utahitaji kuingiza:
+For each packaging component, you will need to enter:
 
-- Idadi ya vitengo (km: sufuria 4\*\* za mtindi)
+- The number of units (ex: **4** pots of yogurts)
 
-- Umbo (km: **chungu, kifuniko, sanduku, n.k.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Nyenzo (km: **PET, karatasi, glasi, n.k.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Maagizo ya kuchakata tena (km: **kuchakata tena, kutupa, n.k.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Uzito wa kitengo kimoja tupu (katika gr)
+- The weight of one empty unit (in gr)
 
-- Kiasi halisi cha bidhaa zilizomo kwa kila kitengo
+- The net quantity of product contained per unit
 
-Lahajedwali hii inaweza kuingizwa kwenye mfumo wetu uliowekwa kwa wataalamu.
-
----
-
-## Mradi wa Kushughulikia Ufungashaji wa Chakula ni upi?
-
-Mradi wa "Kushughulikia Ufungashaji wa Chakula" unajumuisha kukusanya taarifa za kina kuhusu ufungashaji wa bidhaa zinazotumiwa zaidi (umbo, nyenzo, maelekezo ya upangaji, uzito, uwezo).
-
-Kulingana na mbinu shirikishi ya sayansi, itategemea makampuni kukubali kushiriki data zao za vifungashio na kucheza mchezo wa uwazi, na kwa raia kuruhusu ukusanyaji wa taarifa kuhusu bidhaa. Taarifa hii itatumika tena kwa uhuru ("data iliyo wazi").
-
-**Kwa maelezo zaidi:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Hata baada ya kumalizika kwa mradi wa Ufungashaji wa Chakula wa Tackling, je, bado ninaweza kuongeza data yangu ya ufungashaji?
+## What is the Tackling Food Packaging project?
 
-Hata baada ya mradi kuisha, inawezekana kuongeza data ya vifungashio kwani sehemu za vifungashio zitabaki kwenye tovuti yetu.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
