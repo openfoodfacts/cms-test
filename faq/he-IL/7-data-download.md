@@ -1,21 +1,21 @@
 ---
-title: "הורדת נתונים {{< fa cloud-download size=2x >}}"
-description: "שאלה אחת"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: הורדה בענן
+icon: cloud-download
 ---
 
-{{< fa "הורדה בענן" size="פי 3" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## היכן ניתן להשיג את הנתונים עבור מדינה ספציפית?
+## Where to get the data for a specific country?
 
-נכון לעכשיו, אין יצוא המוקדש למדינות ספציפיות.
+Currently, there are no exports dedicated to specific countries.
 
-ישנן דרכים רבות להשתמש בייצוא השונים שלנו בשילוב עם כלים שונים כדי לבחור את הנתונים הקשורים למדינה ספציפית.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-אתה יכול להעיף מבט ב[חלק מהטכניקות האלה בוויקי שלנו](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
