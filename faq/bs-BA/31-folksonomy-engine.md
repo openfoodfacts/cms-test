@@ -1,17 +1,17 @@
 ---
-title: "{{< veličina knjige fa=2x >}} Folksonomy Engine"
-description: "1 pitanje"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: knjiga
+icon: book
 ---
 
-{{< fa "knjiga" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Šta je Folksonomski mehanizam?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine je sistem koji omogućava korisnicima da dodaju prilagođene oznake ili svojstva prehrambenim proizvodima u Open Food Facts, najvećoj svjetskoj otvorenoj bazi podataka o hrani. Ovo omogućava ljudima da kategoriziraju i opišu hranu na nove načine, izvan postojećih unaprijed definiranih svojstava.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
