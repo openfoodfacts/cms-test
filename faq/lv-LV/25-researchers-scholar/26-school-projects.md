@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Skolas projekti"
-description: "2 jautājumi"
-lang: lv-lv
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: failu-o
+icon: file-o
 ---
 
-{{< fa "failu-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Man ir jāveic skolas projekts, es vēlos izmantot Open Food Facts datus, vai es to varu darīt?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-“Open Food Facts” ir atvērta datubāze, atvērts projekts, kas darbojas saskaņā ar ODbL licenci, tāpēc, ja vien jūs piekrītat ODbL licences prasībām, jūs varat atkārtoti izmantot mūsu datus saviem projektiem :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Kā es varu piekļūt/apkopot datus saviem projektiem?
+## How can I access/collect data for my projects ?
 
-Open Food Facts galvenajā lapā ekrāna augšējā kreisajā stūrī ir ritināma izvēlne. Tā apakšā atradīsiet opciju “paplašinātā meklēšana”, uz kuras varat noklikšķināt. Pēc tam jums ir jānosaka, kuri kritēriji ir visatbilstošākie jūsu projektam(-iem). Kad būsiet izvēlējies, varēsiet lejupielādēt iegūtos rezultātus, ritinot uz leju lapas apakšdaļā un noklikšķinot uz “Lejupielādēt rezultātus”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
