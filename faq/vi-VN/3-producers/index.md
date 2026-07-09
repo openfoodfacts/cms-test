@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Nhà sản xuất"
-description: "6 tiểu loại"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ngành công nghiệp
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: lưới
+  type: grid
   grid-columns: 4
-  sort: "đặt hàng"
-  fields: [ tiêu đề, sự miêu tả ]
+  sort: "order"
+  fields: [ title, sự miêu tả ]
   page-size: 100
 ---
 
-{{< fa "ngành công nghiệp" size="3 lần" >}}
+{{< fa "industry" size=3x >}}
 
