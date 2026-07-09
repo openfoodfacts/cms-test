@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Nhwehwɛmufoɔ/Ɔbenfoɔ"
-description: "1 subcategory a ɛwɔ hɔ"
-lang: tw-gb
-order: 25. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: adesuawie-cap
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: nhyehyɛeɛ
+  type: grid
   grid-columns: 4
-  sort: "kra"
-  fields: [ atiti asɛm, description ]
-  page-size: 100 na ɛwɔ hɔ
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "adesuawie-cap" size="3x na ɛyɛ" >}}
+{{< fa "graduation-cap" size=3x >}}
 
