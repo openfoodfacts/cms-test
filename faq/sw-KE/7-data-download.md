@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ukubwa wa upakuaji wa wingu=2x >}} Upakuaji wa data"
-description: "Swali 1"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: kupakua kwa wingu
+icon: cloud-download
 ---
 
-{{< fa "kupakua kwa wingu" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Wapi kupata data ya nchi maalum?
+## Where to get the data for a specific country?
 
-Kwa sasa, hakuna mauzo ya nje yaliyotengwa kwa nchi maalum.
+Currently, there are no exports dedicated to specific countries.
 
-Kuna njia nyingi za kutumia mauzo yetu tofauti pamoja na zana tofauti ili kuchagua data inayohusiana na nchi mahususi.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Unaweza kuangalia [baadhi ya mbinu hizi kwenye wiki yetu](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
