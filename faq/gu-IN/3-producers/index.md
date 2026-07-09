@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ઉદ્યોગનું કદ=2x >}} ઉત્પાદકો"
-description: "6 ઉપશ્રેણીઓ"
-lang: eng-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: ઉદ્યોગ
+icon: industry
 listing:
   contents:
-    - "*.એમડી"
+    - "*.md"
   include:
     category-level: 1
-  type: ગ્રીડ
+  type: grid
   grid-columns: 4
-  sort: "ઓર્ડર"
-  fields: [ શીર્ષક, description ]
-  page-size: ૧૦૦
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "ઉદ્યોગ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
