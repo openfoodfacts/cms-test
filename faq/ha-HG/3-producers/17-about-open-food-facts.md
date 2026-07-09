@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Game da Buɗaɗɗen Bayani game da Abinci"
-description: "Tambayoyi 4"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: da'irar bayanai
+icon: info-circle
 ---
 
-{{< fa "da'irar bayanai" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Wane irin bayani ya kamata a raba?
+## What type of information should be shared?
 
-Duk wani bayani da kake da shi, tun daga bayanin abinci mai gina jiki har zuwa bayanin marufi.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Wannan yana ba da damar kafa cikakken fayil, don ƙididdige duk maki daidai gwargwado kuma gabaɗaya bayyanannen ra'ayi da masu amfani ke yabawa.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Duk da haka, muna ba da shawarar ku fifita waɗannan fannoni:
+However we do recommend you prioritize the following fields:
 
-- Bayanin abinci mai gina jiki
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Nau'in samfura (misali abubuwan sha, cuku, yogurt, da sauransu)
-
-- Sunan samfurin
-
-- Masu alerji
-
-- da kuma sinadaran, wannan filin ba dole ba ne amma ana ba da shawarar don amfani mafi kyau da kuma tantance maki
-
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Zan iya sauke bayanan Buɗe Bayanan Abinci?
+## Can I download Open Food Facts data?
 
-Za ka iya sauke duk bayanan da ake samu a Buɗe Abinci. A yi hankali, wannan yana buƙatar sararin faifai mai yawa, kwamfuta mai ƙarfi idan kuna son amfani da takardar lissafi ko ilimin R ko Python in ba haka ba.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Haka kuma za ka iya sauke wani ɓangare na bayanan (misali alamarka) godiya ga binciken da aka ci gaba.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Shin samun damar shiga dandalin Pro da shigo da bayanai kyauta ne?
-
-Hakika, kuma zai kasance har abada.Duk ayyukan da Open Food Facts ke bayarwa kyauta ne.  
-Muna matukar farin ciki da ka yanke shawarar bayar da gudummawar bayanan kayayyakinka don tabbatar da gaskiya game da abinci, kuma muna godiya da wannan.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ina so in ba da shawarar ingantawa ga dandamalin ƙwararru, ta yaya zan iya yin hakan?
+## Is access to the Pro platform and the import of data free?
 
-Na gode da sha'awarku ta shiga cikin bayyana gaskiya game da abinci!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Hanya mafi kyau ta raba ra'ayoyinku ita ce ta hanyar cike wannan fom ɗin (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Hakanan zaka iya tuntuɓar mu don ba da shawarwari ko dai ta hanyar [dandalin tattaunawarmu](https://forum.openfoodfacts.org/) ko ta hanyar [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Ku shiga Slack ɗinmu kuma ku shiga tashar #producers don tuntuɓar mu.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
