@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} ການວິເຄາະຜະລິດຕະພັນ (ມາດຕະຖານ, ການປັບປຸງ...)"
-description: "1 ຄຳຖາມ"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: ແຖບຕາຕະລາງ
+icon: chart-bar
 ---
 
-{{< fa "ແຖບຕາຕະລາງ" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## ວິທີການເຂົ້າເຖິງຄໍາແນະນໍາການປັບປຸງໃຫມ່ເພື່ອປັບປຸງຄະແນນ Nutri-Score ຂອງຜະລິດຕະພັນຂອງຂ້ອຍ?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-ເມື່ອທ່ານຢູ່ໃນໜ້າຫຼັກຂອງແພລດຟອມຜູ້ຜະລິດ:
+When you are on the home page of the Producers Platform:
 
-1. ໃຫ້ຄລິກໃສ່ລິ້ງ "→ ຈຳນວນຜະລິດຕະພັນທີ່ມີໂອກາດປັບປຸງ" ຢູ່ເທິງສຸດຂອງໜ້າ.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. ທ່ານສາມາດປຶກສາຫາລືໂອກາດທັງໝົດທີ່ກວດພົບໂດຍລະບົບຂອງພວກເຮົາເພື່ອປັບປຸງຜະລິດຕະພັນຂອງທ່ານ
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ການຄລິກໃສ່ປະເພດໂອກາດຈະນຳທ່ານໄປຫາລາຍຊື່ຜະລິດຕະພັນທີ່ຕ້ອງໄດ້ປັບປຸງ.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ ສຳລັບລາຍລະອຽດເພີ່ມເຕີມ, ພວກເຮົາຂໍເຊີນທ່ານດາວໂຫຼດ [ຄູ່ມືຜູ້ໃຊ້](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ແລະ/ຫຼື ກວດເບິ່ງ [ວິດີໂອສອນ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ຂອງພວກເຮົາ :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
