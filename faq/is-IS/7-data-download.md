@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Niðurhal gagna"
-description: "1 spurning"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: niðurhal í skýinu
+icon: cloud-download
 ---
 
-{{< fa "niðurhal í skýinu" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Hvar er hægt að fá gögnin fyrir tiltekið land?
+## Where to get the data for a specific country?
 
-Eins og er er enginn útflutningur tileinkaður tilteknum löndum.
+Currently, there are no exports dedicated to specific countries.
 
-Það eru margar leiðir til að nota mismunandi útflutningsgögn okkar ásamt mismunandi verkfærum til að velja gögn sem tengjast tilteknu landi.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Þú getur skoðað [sumar af þessum aðferðum á wiki-síðunni okkar](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
