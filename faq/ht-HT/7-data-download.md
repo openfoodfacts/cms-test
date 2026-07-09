@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Telechaje done"
-description: "1 kesyon"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: telechaje nan nwaj la
+icon: cloud-download
 ---
 
-{{< fa "telechaje nan nwaj la" size="3 fwa" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ki kote pou jwenn done pou yon peyi espesifik?
+## Where to get the data for a specific country?
 
-Kounye a, pa gen okenn ekspòtasyon dedye a peyi espesifik.
+Currently, there are no exports dedicated to specific countries.
 
-Gen plizyè fason pou itilize diferan ekspòtasyon nou yo konbine avèk diferan zouti pou chwazi done ki gen rapò ak yon peyi espesifik.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Ou ka gade [kèk nan teknik sa yo sou wiki nou an](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
