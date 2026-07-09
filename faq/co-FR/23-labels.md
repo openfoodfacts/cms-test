@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etichette"
-description: "2 dumande"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: 23 anni
+order: 23
 category-level: 0
-icon: segnalibru
+icon: bookmark
 ---
 
-{{< fa "segnalibru" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Cum'è una casa discografica, hè impurtante di creà un contu ?
+## As a label, is it important to create an account ?
 
-Cum'è etichetta, postu chì ùn site micca u pruduttore direttu di i prudutti, ùn avete micca bisognu di creà un contu di pruduttore.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Sò una casa discugràfica, cumu possu participà à u prugettu ?
+## I am a label, how can I participate in the project?
 
-Cum'è etichetta, a cosa più pertinente da fà hè di cuntattà ci **(producers@openfoodfacts.org)** è mandà ci a lista di i prudutti nantu à i quali hè affissata a vostra etichetta per pudè aghjunghje li nantu à e schede di prudutti cunnesse.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
