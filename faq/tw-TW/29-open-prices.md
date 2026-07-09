@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Bue Nneɛma Bo"
-description: "3 nsɛmmisa"
-lang: tw-gb
-order: 29. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: dɔla
+icon: dollar
 ---
 
-{{< fa "dɔla" size="3x na ɛyɛ" >}}
+{{< fa "dollar" size=3x >}}
 
-## Meyɛ adetɔnfo na mepɛ sɛ mede nneɛma bo boa. Mɛyɛ dɛn ayɛ saa?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Wubetumi de nneɛma bo aboa denam [yɛn API](https://prices.openfoodfacts.org/api/docs) a wode bedi dwuma no so. Sɛ wopɛ sɛ wode nneɛma bo boa wɔ nsenia so a, yɛsrɛ wo ne yɛn nni nkitaho wɔ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## So wususuw ho sɛ wobɛpopa nneɛma bo afi adetɔnfo wɛbsaet ahorow so?
+## Do you consider scraping prices from retailers’ websites?
 
-Esiane mmara ne mfiridwuma nti, yensusuw sɛ yɛbɛpopa nneɛma bo afi adetɔnfo wɛbsaet ahorow so sɛ ɔkwan a ɛfata a yɛbɛfa so aboa Open Prices. Yɛpɛ sɛ yɛhwɛ hu sɛ bo a yɛboaboa ano no yɛ nokware na ɛyɛ nea ɛyɛ foforo, na sɛ yenya bo a wɔabɔ no afi wɔn a wɔde mmoa ma no hɔ a, ɛmma yentumi nyɛ saa.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Dɛn nti na Open Food Facts reyɛ eyi (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Nneɛma bo ho nsɛm ho hia sen biara na ama yɛate aduan nhyehyɛe ahorow ase. Ɛyɛ ade titiriw a ɛma yɛte aduan bo ase na yɛhyɛ aduan a ahoɔden wom ho nkuran. Nneɛma bo ho nsɛm a wobue no yɛ ɔkwan a wɔfa so ma ɛyɛ mmerɛw ma nhwehwɛmufo, nsɛm ho amanneɛbɔfo, ne ɔman mma sɛ wobenya ntease pa wɔ sɛnea nnuan bo gu ahorow wɔ asasesin ne bere mu no ho.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
