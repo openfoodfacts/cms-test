@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Üreticiler"
-description: "6 alt kategori"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: endüstri
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ızgara
+  type: grid
   grid-columns: 4
-  sort: "emir"
-  fields: [ başlık, açıklama ]
+  sort: "order"
+  fields: [ title, açıklama ]
   page-size: 100
 ---
 
-{{< fa "endüstri" size=3x >}}
+{{< fa "industry" size=3x >}}
 
