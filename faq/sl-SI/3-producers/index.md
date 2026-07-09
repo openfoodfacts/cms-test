@@ -1,21 +1,21 @@
 ---
-title: "{{< velikost industrije fa=2x >}} Proizvajalci"
-description: "6 podkategorij"
-lang: sl-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: industrija
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: mreža
+  type: grid
   grid-columns: 4
-  sort: "naročilo"
-  fields: [ naslov, opis ]
+  sort: "order"
+  fields: [ title, opis ]
   page-size: 100
 ---
 
-{{< fa "industrija" size=3x >}}
+{{< fa "industry" size=3x >}}
 
