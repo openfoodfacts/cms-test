@@ -1,17 +1,17 @@
 ---
-title: "{{< fa grāmatas izmērs=2x >}} Folksonomy dzinējs"
-description: "1 jautājums"
-lang: lv-lv
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: grāmata
+icon: book
 ---
 
-{{< fa "grāmata" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Kas ir Folksonomijas dzinējs?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine ir sistēma, kas ļauj lietotājiem pievienot pielāgotas atzīmes jeb īpašības pārtikas produktiem Open Food Facts — pasaulē lielākajā atvērtajā pārtikas datubāzē. Tas ļauj cilvēkiem kategorizēt un aprakstīt pārtiku jaunā veidā, pārsniedzot esošās iepriekš definētās īpašības.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
