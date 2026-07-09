@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Derbarê Agahiyên Xwarinê yên Vekirî de"
-description: "4 pirs"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: çembera agahdariyê
+icon: info-circle
 ---
 
-{{< fa "çembera agahdariyê" size="3 caran" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Divê çi cure agahî bên parvekirin?
+## What type of information should be shared?
 
-Her agahdariya we, ji agahdariya xurekî bigire heya agahdariya pakkirinê, bi xêr hatî ye.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Ev yek dihêle ku dosyayek bêkêmasî were avakirin, hemî puan bi rastbûn werin hesabkirin û bi gelemperî zelaliyek çêbibe ku ji hêla xerîdaran ve were teqdîrkirin.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Lêbelê, em pêşniyar dikin ku hûn qadên jêrîn pêşîniyê bidin:
+However we do recommend you prioritize the following fields:
 
-- Agahiyên xurekî
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kategoriya berheman (mînak vexwarin, penêr, mast, hwd.)
-
-- Navê berhemê
-
-- Alerjen
-
-- û pêkhateyan, ev qad ne mecbûrî ye lê ji bo karanînek çêtirîn û destnîşankirina puanan tê pêşniyar kirin.
-
-→ Ji bo bêtir agahdarî, em we vedixwînin ku hûn [rêbernameya bikarhêner](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) dakêşin û/an jî [vîdyoyên dersê](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) yên me bibînin :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ma ez dikarim daneyên Rastiyên Xwarinê yên Vekirî dakêşim?
+## Can I download Open Food Facts data?
 
-Hûn dikarin hemû daneyên berdest li ser Open Food Facts dakêşin. Hay ji xwe hebin, ev gelek cîhê dîskê hewce dike, kompîturek bihêz heke hûn dixwazin pelgeyekê bikar bînin an jî zanîna R an Pythonê bi awayekî din hewce dike.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Her wiha hûn dikarin bi saya lêgerîna pêşketî komek ji daneyan (mînakî marqeya xwe) dakêşin.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Ji bo bêtir agahdarî, em we vedixwînin ku hûn [rêbernameya bikarhêner](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) dakêşin û/an jî [vîdyoyên dersê](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) yên me bibînin :-)
-
----
-
-## Gelo gihîştina platforma Pro û hawirdekirina daneyan belaş e?
-
-Bêguman, û ew ê her û her wisa be.Hemû xizmetên ku ji hêla Open Food Facts ve têne peyda kirin bêpere ne.  
-Em pir kêfxweş in ku we biryar daye ku daneyên hilberên xwe ji bo şefafiyeta xwarinê pêşkêş bikin, û em ji bo vê yekê spasiya we dikin.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ez dixwazim ji bo platforma profesyonel pêşniyarek ji bo başkirinan bikim, ez çawa dikarim wiya bikim?
+## Is access to the Pro platform and the import of data free?
 
-Spas ji bo amadebûna te ya beşdarbûna di şefafiyeta xwarinê de!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Baştirîn rê ji bo parvekirina nerînan ew e ku hûn vê formê tijî bikin (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Herwiha hûn dikarin bi rêya [foruma me](https://forum.openfoodfacts.org/) an jî bi rêya [Slack](https://openfoodfacts.slack.com/ssb/redirect) ji bo pêşniyarên xwe bi me re têkilî daynin.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Ji bo ku hûn bi me re têkilî daynin, beşdarî Slack-a me bibin û têkevin kanala #producers.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
