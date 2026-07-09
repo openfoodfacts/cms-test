@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Дар бораи холҳо"
-description: "3 савол"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: хати диаграмма
+icon: chart-line
 ---
 
-{{< fa "хати диаграмма" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Кӣ барои ҳисоб кардани масоҳати масофа ва/ё хол масъул аст?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score, гурӯҳи NOVA ва Eco-Score бар асоси маълумоти мавҷуда дар Open Food Facts ҳисоб карда мешаванд. Алгоритмҳои мо методологияҳои расмии ин холҳоро қатъиян риоя мекунанд.
-
----
-
-## Фарқи байни Eco-Score, Nutri-Score ва гурӯҳи NOVA чист?
-
-Мақсади ин нишондиҳандаҳо пешниҳоди маълумоти осонфаҳм барои истеъмолкунанда мебошад.
-
-Гурӯҳи [NOVA](https://fr.openfoodfacts.org/nova) бо табдили маҳсулот, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) бо таъсири экологӣ ва [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) бо унсурҳои ғизоӣ сарукор доранд, зеро медонанд, ки ҳар қадар маҳсулот холҳои наздик ба A дошта бошад, ҳамон қадар сифатноктар аст.
-
-Се хол ба унсурҳои якхела дахл надоранд. Аз ин рӯ, муқоисаи онҳо бо ҳамдигар имконнопазир аст.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Оё имкон дорад, ки Eco-Score ё Nutri-Score-и маҳсулоти маро тақлид кунам?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Бо сабти ном дар платформаи истеҳсолкунандагон ва бор кардани маълумоти маҳсулоти худ, шумо метавонед Nutri-Score ва Eco-Score-ро, ки бо маҳсулоти худ алоқаманданд, ҳисоб кунед.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Аммо, шумо бояд онро пас аз анҷом додани симулятсия нест кунед, то ки он ба платформаи оммавӣ бо маҳсулоте, ки аллакай дар доираи маҳсулоти шумо ба фурӯш бароварда шудаанд, содир карда нашавад.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Барои гирифтани маълумоти бештар, мо шуморо даъват менамоем, ки [дастури корбар]-и моро (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) зеркашӣ кунед ва/ё ба [дастурҳои видеоии] мо (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) муроҷиат кунед :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
