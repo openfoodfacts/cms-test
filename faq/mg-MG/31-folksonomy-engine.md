@@ -1,17 +1,17 @@
 ---
-title: "{{< habe boky fa=2x >}} Motera Folksonomy"
-description: "Fanontaniana 1"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: boky
+icon: book
 ---
 
-{{< fa "boky" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Inona ny Moteur Folksonomy?
+## What is the Folksonomy Engine ?
 
-Ny Folksonomy Engine dia rafitra iray ahafahan'ny mpampiasa manampy marika na toetra manokana amin'ny vokatra sakafo ao amin'ny Open Food Facts, ny tahiry sakafo misokatra lehibe indrindra eran-tany. Izany dia ahafahan'ny olona manasokajy sy mamaritra ny sakafo amin'ny fomba vaovao, mihoatra ny toetra efa voafaritra mialoha.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
