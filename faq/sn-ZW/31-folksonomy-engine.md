@@ -1,17 +1,17 @@
 ---
-title: "{{< fa bhuku saizi=2x >}} Injini yeFolksonomy"
-description: "Mubvunzo 1"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: bhuku
+icon: book
 ---
 
-{{< fa "bhuku" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Chii chinonzi Folksonomy Engine?
+## What is the Folksonomy Engine ?
 
-Injini yeFolksonomy inzira inobvumira vashandisi kuwedzera matagi akagadzirwa, kana kuti zvinhu, kune zvigadzirwa zvekudya muOpen Food Facts, dhatabhesi hombe pasi rose yekudya kwakavhurika. Izvi zvinoita kuti vanhu vagoronga uye vatsanangure chikafu nenzira itsva, kupfuura zvinhu zvakagara zvataurwa.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
