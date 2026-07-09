@@ -1,55 +1,55 @@
 ---
-title: "{{< gwosè itilizatè-plis=2x >}} Eko-nòt"
-description: "5 kesyon"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: itilizatè-plis
+icon: user-plus
 ---
 
-{{< fa "itilizatè-plis" size="3 fwa" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Ki sa metodoloji Eco-Score la ye?
+## What is the Eco-Score methodology?
 
-Eco-Score a baze sou kalkil analiz sik lavi ki pwodui pa ADEME (ajans tranzisyon ekolojik la) ak INRAE (enstiti nasyonal pou rechèch agronomik la). Yo kalkile epi lye anviwon kenz konpozan pou kreye nòt PEF la.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Nan nòt PEF sa a, yo ajoute bonis ak move konsekans (mòd pwodiksyon, orijin
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-engredyan, espès ki an danje, anbalaj) pou kapab kalkile Eko-Skò a.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Pou plis enfòmasyon, gade paj rezime a [[https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) sou Open Food Facts epitou sou sitwèb konsòsyòm Eco-Score la. (Prezantasyon Eco-Score [[https://docs.score-environnemental.com/](https://docs.score-environmental.com/))
-
----
-
-## Ki kalite enfòmasyon yo dwe bay pou yo ka kalkile Eco-Score la avèk presizyon otank posib?
-
-Pou yo ka kalkile Eco-Score la egzakteman, yo dwe espesifye pousantaj chak engredyan ak orijin li.
-
-Si enfòmasyon sa a pa deja espesifye nan lis engredyan yo, ou ka ajoute yon kolòn pou mansyone li, avèk fòma sa a:
-
-Farin ble 16% (Frans)
-
-Chokola 8% (Kòt Ivwa, Ekwatè)
-
-Nou bezwen tou konpozan anbalaj la sou fòm: 1 fim plastik pou jete, 1 bwat katon FSC pou resikle, 6 boutèy plastik transparan PET 1.5 L pou resikle, 6 bouchon plastik koulè opak, 12 bwat plastik aliminyòm 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ki jan valè 15 endikatè yo konbine?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-Pou pi byen konprann sistèm PEF la, ou ka li: eksplikasyon sou nòt PEF la sou sit metodolojik Eco-Score la.
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Èske aspè lokal la konsène kote fabrikasyon an oswa kote orijin matyè premyè yo soti?
+## How are the values ​​of the 15 indicators combined?
 
-Aspè lokal la konsène orijin matyè premyè yo. Se poutèt sa li enpòtan pou antre pousantaj yo ansanm ak orijin yo nan lis engredyan pwodwi a oswa nan espas ki dedye a orijin engredyan yo.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Kijan pou antre orijin engredyan yo pou eko-nòt la?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Si ou vle pataje enfòmasyon sou orijin matyè premyè yo sou fèy papye ou yo, nou envite ou pou mete yo nan lis engredyan yo.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
