@@ -1,55 +1,55 @@
 ---
-title: "{{< fa mai amfani-da girman=2x >}} Maki na Eco-Maki"
-description: "Tambayoyi 5"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: ƙarin mai amfani
+icon: user-plus
 ---
 
-{{< fa "ƙarin mai amfani" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Menene hanyar Eco-Score?
+## What is the Eco-Score methodology?
 
-Sakamakon Eco-Score ya dogara ne akan lissafin nazarin zagayowar rayuwa da ADEME (hukumar sauyin muhalli) da INRAE (cibiyar bincike ta ƙasa don noma) suka samar. An ƙididdige kuma an haɗa kimanin sassa goma sha biyar don ƙirƙirar maki na PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ga wannan makin PEF akwai ƙarin kari da rashin amfani (yanayin samarwa, asalin
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-sinadaran, nau'ikan da ke fuskantar barazanar ɓacewa, marufi) domin ƙididdige Sakamakon Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Don ƙarin bayani, duba shafin taƙaitaccen bayani [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) akan Buɗaɗɗen Bayanan Abinci da kuma akan gidan yanar gizon Eco-Score consortium. (Gabatar da Sakamakon Halittu [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Wane irin bayani ne ya kamata a bayar domin a ƙididdige maki na Eco-Score daidai gwargwado?
-
-Domin a ƙididdige ƙimar Eco-Score daidai, dole ne a ƙayyade kashi na kowanne sinadari da asalinsa.
-
-Idan wannan bayanin bai riga ya bayyana a cikin jerin sinadaran ba, za ku iya ƙara shafi don ambaton sa, tare da tsarin da ke ƙasa:
-
-Garin alkama 16% (Faransa)
-
-Cakulan 8% (Ivory Coast, Ecuador)
-
-Muna buƙatar sassan marufin kamar haka: fim ɗin filastik 1 da za a jefa, akwatin kwali na FSC 1 da za a sake yin amfani da shi, kwalaben filastik masu haske guda 6 na PET mai lita 1.5 don sake yin amfani da su, murfi 6 na filastik masu launi marasa haske, gwangwani 12 na filastik mai 33 cl aluminum.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ta yaya ake haɗa ƙimar alamun 15?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Domin fahimtar tsarin PEF sosai, zaku iya karantawa: bayanin maki na PEF akan shafin hanyoyin Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Shin ɓangaren yankin ya shafi wurin ƙera kayan ko kuma wurin da aka samo kayan?
+## How are the values ​​of the 15 indicators combined?
 
-**Bangaren yankin ya shafi asalin kayan amfanin gona. Wannan shine dalilin da ya sa yake da mahimmanci a shigar da kaso na su da kuma asalin su a cikin jerin sinadaran samfurin ko kuma a fagen da aka keɓe don asalin sinadaran.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Yadda ake shigar da asalin sinadaran don ƙimar muhalli?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Idan kuna son raba bayanin asalin kayan da aka yi amfani da su a kan zanenku, muna gayyatarku da ku saka su cikin jerin sinadaran.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
