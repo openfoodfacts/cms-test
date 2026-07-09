@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ಡೇಟಾ ಡೌನ್‌ಲೋಡ್"
-description: "1 ಪ್ರಶ್ನೆ"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: ಕ್ಲೌಡ್-ಡೌನ್‌ಲೋಡ್
+icon: cloud-download
 ---
 
-{{< fa "ಕ್ಲೌಡ್-ಡೌನ್‌ಲೋಡ್" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ನಿರ್ದಿಷ್ಟ ದೇಶಕ್ಕೆ ಡೇಟಾವನ್ನು ಎಲ್ಲಿ ಪಡೆಯಬೇಕು?
+## Where to get the data for a specific country?
 
-ಪ್ರಸ್ತುತ, ನಿರ್ದಿಷ್ಟ ದೇಶಗಳಿಗೆ ಮೀಸಲಾಗಿರುವ ಯಾವುದೇ ರಫ್ತುಗಳಿಲ್ಲ.
+Currently, there are no exports dedicated to specific countries.
 
-ನಿರ್ದಿಷ್ಟ ದೇಶಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಡೇಟಾವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ನಮ್ಮ ವಿಭಿನ್ನ ರಫ್ತುಗಳನ್ನು ವಿಭಿನ್ನ ಪರಿಕರಗಳೊಂದಿಗೆ ಸಂಯೋಜಿಸಲು ಹಲವು ಮಾರ್ಗಗಳಿವೆ.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-ನೀವು [ನಮ್ಮ ವಿಕಿಯಲ್ಲಿ ಈ ಕೆಲವು ತಂತ್ರಗಳನ್ನು](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) ನೋಡಬಹುದು.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
