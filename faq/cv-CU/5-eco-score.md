@@ -1,55 +1,55 @@
 ---
-title: "{{< fa пользователь-плюс размер=2x >}} Эко-Скор"
-description: "5 ыйту"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: пользователь-плюс
+icon: user-plus
 ---
 
-{{< fa "пользователь-плюс" size=3х >}}
+{{< fa "user-plus" size=3x >}}
 
-## Эко-балл методики мӗнле?
+## What is the Eco-Score methodology?
 
-Эко-балл ADEME (экологи куҫӑмӗн агентстви) тата INRAE (агрономи тӗпчевӗсен наци институчӗ) туса кӑларнӑ пурнӑҫ циклӗн анализне шутласа кӑларни ҫинче никӗсленет. ПЭФ балне тума вунпилӗк компонента яхӑн шутласа кӑлараҫҫӗ те ҫыхӑнтараҫҫӗ.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ҫак PEF балӗ ҫумне бонуссемпе малюссем (производство йӗрки, ҫӑлкуҫӗ) хушӑнаҫҫӗ
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ингредиентсем, пӗтсе пыракан чӗрчунсем, упаковкӑсем) Эко-Бал шутласа кӑларма.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Тӗплӗнрех пӗлес тесен, Open Food Facts ҫинчи [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) тата Eco-Score консорциумӗн сайтӗнчи пӗтӗмлетӳ страницине пӑхӑр. (Эко-Скор презентацийӗ [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Эко-балла май пур таран тӗрӗсрех шутласа кӑларма мӗнле информаци памалла?
-
-Эко-балла тӗрӗс шутласа кӑларма кашни ингредиентӑн процентне тата унӑн ӑҫтан тухнине палӑртмалла.
-
-Енчен те ҫак информацие ингредиентсен списокӗнче кӑтартман пулсан, ӑна ҫакӑн пек форматпа асӑнма колонка хушма пулать:
-
-Тырӑ ҫӑнӑхӗ 16% (Франци)
-
-Шоколад 8% (Кот-д'Ивуар, Эквадор)
-
-Пире ҫавӑн пекех упаковка компоненчӗсем кирлӗ: 1 пластик пленка пӑрахма, 1 FSC картон коробка ҫӗнӗрен ӗҫе кӗртме, 6 ПЭТ витӗр курӑнакан пластик кӗленче 1,5 л тепӗр хут ӗҫе кӗртме, 6 тӗксӗм тӗслӗ пластик хупӑлча, 12 пластик банка 33 кл алюмини.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## кӑтарту хакӗсене мӗнле пӗрлештернӗ?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF тытӑмне лайӑхрах ӑнланса илме эсир ҫакна вуласа тухма пултаратӑр: Eco-Score методика сайтӗнче PEF балӗ ҫинчен ӑнлантарса пани**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Вырӑнти енӗ чӗр тавар туса кӑларнӑ вырӑна е ӑҫтан тухнине пырса тивет-и?
+## How are the values ​​of the 15 indicators combined?
 
-**Вырӑнти енӗ чӗр тавар ӑҫтан тухнине пырса тивет. Ҫавӑнпа та вӗсен процентне тата вӗсен ӑҫтан тухнине продукт ингредиенчӗсен списокне е ингредиентсен ҫӑлкуҫӗсене халалланӑ уйра кӗртни пӗлтерӗшлӗ.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Эко-балл валли ингредиентсен ҫӑлкуҫне мӗнле кӗртмелле?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Эсир хӑвӑрӑн листсем ҫинчи чӗр тавар ӑҫтан тухни ҫинчен информацие пӗлтерес тетӗр пулсан, эпир сире вӗсене ингредиентсен списокне кӗртме сӗнетпӗр.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
