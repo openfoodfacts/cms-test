@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Эко-балл"
-description: "5 сорау"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: кулланучы плюсы
+icon: user-plus
 ---
 
-{{< fa "кулланучы плюсы" size=3х >}}
+{{< fa "user-plus" size=3x >}}
 
-## Eco-Score методологиясе нәрсә ул?
+## What is the Eco-Score methodology?
 
-Эко-балл ADEME (экологик күчеш агентлыгы) һәм INRAE (агрономик тикшеренүләр буенча милли институт) тарафыннан эшләнгән тормыш циклы анализын исәпләүгә нигезләнгән. PEF баллын булдыру өчен якынча унбиш компонент исәпләнә һәм бәйләнә.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Бу PEF баллына бонуслар һәм җитешсезлекләр өстәлә (җитештерү ысулы, килеп чыгышы
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ингредиентлар, юкка чыгу куркынычы астында булган төрләр, төргәкләү) Эко-баллны исәпләү өчен.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Күбрәк мәгълүмат өчен, Open Food Facts сайтындагы кыскача мәгълүмат битен [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products), шулай ук Eco-Score консорциумы сайтында карагыз. (Эко-балл презентациясе [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Эко-баллны мөмкин кадәр төгәл исәпләү өчен нинди мәгълүмат бирергә кирәк?
-
-Эко-баллны төгәл исәпләү өчен, һәр ингредиентның процентын һәм аның чыгышын күрсәтергә кирәк.
-
-Әгәр бу мәгълүмат ингредиентлар исемлегендә күрсәтелмәгән булса, сез аны искә алу өчен түбәндәге форматтагы багана өсти аласыз:
-
-Бодай оны 16% (Франция)
-
-Шоколад 8% (Фил сөяге яры, Эквадор)
-
-Шулай ук безгә төргәкнең компонентлары кирәк: чүпкә ташларга 1 пластик пленка, кабат эшкәртү өчен 1 FSC картон тартма, кабат эшкәртү өчен 6 үтә күренмәле 1,5 литрлы ПЭТ пластик шешә, 6 тонык төстәге пластик капкач, 12 пластик банка (33 см алюминий).
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15 күрсәткечнең кыйммәтләре ничек берләштерелгән?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF системасын яхшырак аңлау өчен, сез түбәндәгеләрне укый аласыз: Eco-Score методологик сайтында PEF баллының аңлатмасын**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Чимал җитештерү урынынамы яки аның килеп чыгышынамы җирле аспект кагыламы?
+## How are the values ​​of the 15 indicators combined?
 
-**Җирле аспект чималның килеп чыгышына кагыла. Шуңа күрә аларның процентларын, шулай ук килеп чыгышларын продукт ингредиентлары исемлегенә яки ингредиентларның килеп чыгышына багышланган кырга кертү мөһим.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Эко-балл өчен ингредиентларның чыгышын ничек кертергә?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Әгәр дә сез битләрегездәге чималның килеп чыгышы турындагы мәгълүмат белән уртаклашырга телисез икән, без сезне аларны ингредиентлар исемлегенә кертергә чакырабыз.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
