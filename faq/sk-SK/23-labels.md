@@ -1,23 +1,23 @@
 ---
-title: "{{< veľkosť záložky fa=2x >}} Štítky"
-description: "2 otázky"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: záložka
+icon: bookmark
 ---
 
-{{< fa "záložka" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Je pre vydavateľstvo dôležité vytvoriť si účet?
+## As a label, is it important to create an account ?
 
-Ako značka, keďže nie ste priamym výrobcom produktov, nemusíte si vytvárať účet výrobcu.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Som vydavateľstvo, ako sa môžem zapojiť do projektu?
+## I am a label, how can I participate in the project?
 
-V prípade označenia je najdôležitejšie, ak nás kontaktujete na adrese **(producers@openfoodfacts.org)** a pošlete nám zoznam produktov, na ktorých je vaše označenie zobrazené, aby sme ich mohli pridať na súvisiace listy produktov.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
