@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Nneɛma a wɔde ahyɛ mu"
-description: "3 nsɛmmisa"
-lang: tw-gb
-order: 24. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
+order: 24
 category-level: 1
-icon: kuruwa
+icon: cube
 ---
 
-{{< fa "kuruwa" size="3x na ɛyɛ" >}}
+{{< fa "cube" size=3x >}}
 
-## Mɛyɛ dɛn atumi de me nneɛma a wɔde kyekyere nneɛma ho data aka Open Food Facts ho?
+## How can I add my packaging data to Open Food Facts?
 
-Sɛ́ obi a ɔyɛ nneɛma no, ɔkwan a etu mpɔn sen biara a wobɛfa so de nneɛma a wɔde kyekyere nneɛma ho data aka wo nneɛma ho ne sɛ wobɛhyehyɛ [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) yi mu nsɛm a ɛho hia, afi kɔla "AU" mu.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Wɔ packaging component biara ho no, ɛho behia sɛ wokyerɛw:
+For each packaging component, you will need to enter:
 
-- Unit dodow (ex: **4** nkuku a yogurts wom) .
+- The number of units (ex: **4** pots of yogurts)
 
-- Nsusuwii (ex: \*\* kuku, akataso, adaka, ne nea ɛkeka ho\*\*) .
+- The shape (ex: **pot, lid, box, etc**)
 
-- Nneɛma no (ex: **PET, krataa, ahwehwɛ, ne nea ɛkeka ho**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Akwankyerɛ a ɛfa nneɛma a wɔde di dwuma bio ho (ex: **sɛ wɔbɛsan de adi dwuma, sɛ wɔbɛtow agu, ne nea ɛkeka ho**) .
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Unit biako a hwee nni mu mu duru (wɔ gr mu) .
+- The weight of one empty unit (in gr)
 
-- Nneɛma dodow a ɛwɔ mu wɔ unit biara mu
+- The net quantity of product contained per unit
 
-Afei wobetumi de saa spreadsheet yi aba yɛn platform a wɔde ama adwumayɛfo a wɔyɛ adwumaden no mu.
-
----
-
-## Dɛn ne Tackling Food Packaging adwuma no?
-
-"Tackling Food Packaging" adwuma no yɛ sɛ wɔbɛboaboa nsɛm a ɛkɔ akyiri ano wɔ nneɛma a wɔde di dwuma kɛse no a wɔde kyekyere nneɛma ho (nsusuwii, nneɛma, akwankyerɛ a wɔde hyehyɛ, emu duru, tumi).
-
-Ɛgyina nyansahu kwan a wɔfa so de wɔn ho hyɛ mu so, na ɛbɛgyina nnwumakuw a wɔbɛpene so sɛ wɔbɛkyɛ wɔn nneɛma a wɔde kyekyere nneɛma ho nsɛm na wɔadi agoru a ɛkyerɛ sɛ wɔda adi pefee, ne ɔman mma a wɔbɛma kwan ma wɔaboaboa nsɛm a ɛfa nneɛma ho ano no nyinaa so. Saa nsɛm yi bɛyɛ nea wobetumi asan de adi dwuma kwa ("open data").
-
-**Sɛ wopɛ nsɛm pii a:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-ayɛfo)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Bere a Tackling Food Packaging adwuma no aba awiei mpo no, so metumi akɔ so de me packaging data aka ho?
+## What is the Tackling Food Packaging project?
 
-Sɛ adwuma no ba awiei mpo a, ɛyɛ yiye sɛ wode nneɛma a wɔde kyekyere nneɛma ho data bɛka ho efisɛ nneɛma a wɔde kyekyere nneɛma no bɛkɔ so atra yɛn wɛbsaet no so.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
