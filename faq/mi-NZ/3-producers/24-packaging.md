@@ -1,49 +1,49 @@
 ---
-title: "{{< rahi o te poraka fa=2x >}} Tākai"
-description: "3 ngā pātai"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: poraka
+icon: cube
 ---
 
-{{< fa "poraka" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Me pēhea taku tāpiri i aku raraunga takai ki te Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Hei kaihanga, ko te huarahi tino whai hua ki te tāpiri raraunga tākai ki ō hua ko te whakakī i tēnei [ripanga tātai excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ngā mōhiohio e tika ana, mai i te pou "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Mō ia wāhanga tākai, me whakauru koe:
+For each packaging component, you will need to enter:
 
-- Te maha o ngā waeine (hei tauira: **4** ipu miraka kawa)
+- The number of units (ex: **4** pots of yogurts)
 
-- Te āhua (hei tauira: **kohua, taupoki, pouaka, me ētahi atu**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Ngā rauemi (hei tauira: **PET, pepa, karāhe, me ētahi atu**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Ko te tohutohu hangarua (hei tauira: **ki te hangarua, ki te maka, me ētahi atu**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Te taumaha o te kotahi waeine kau (i roto i te gr)
+- The weight of one empty unit (in gr)
 
-- Te rahinga kupenga o te hua kei roto i ia waeine
+- The net quantity of product contained per unit
 
-Kātahi ka taea te kawemai i tēnei ripanga tātai ki roto i tā mātou tūāpapa e whakatapua ana ki ngā tohunga.
-
----
-
-## He aha te kaupapa Whakatikatika i ngā Tākai Kai?
-
-Ko te kaupapa "Te Whakatikatika i te Tākai Kai" he kohikohi i ngā mōhiohio taipitopito mō ngā tākai o ngā hua e tino kainga ana (te āhua, te rauemi, ngā tohutohu whakarōpū, te taumaha, te kaha).
-
-I runga i te huarahi pūtaiao whakauru, ka whakawhirinaki ki te whakaae a ngā kamupene ki te tohatoha i ā rātou raraunga tākai me te tākaro i te kēmu o te māramatanga, me te whakaae hoki a ngā tāngata whenua ki te kohikohi mōhiohio mō ngā hua. Ka taea te whakamahi anō i ēnei mōhiohio mō te kore utu ("raraunga tuwhera").
-
-**Mō ētahi atu kōrero:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ahakoa kua mutu te kaupapa Whakatikatika i ngā Tākai Kai, ka taea tonu e au te tāpiri i aku raraunga tākai?
+## What is the Tackling Food Packaging project?
 
-Ahakoa kua mutu te kaupapa, ka taea tonu te tāpiri i ngā raraunga tākai nā te mea ka noho tonu ngā āpure tākai ki tā mātou paetukutuku.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
