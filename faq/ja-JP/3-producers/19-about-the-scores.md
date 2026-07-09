@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} スコアについて"
-description: "3つの質問"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: チャートライン
+icon: chart-line
 ---
 
-{{< fa "チャートライン" size=3倍 >}}
+{{< fa "chart-line" size=3x >}}
 
-## フットプリントやスコアを計算する責任者は誰ですか?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score、NOVA グループ、Eco-Score は、Open Food Facts にあるデータに基づいて計算されます。 当社のアルゴリズムは、これらのスコアの公式方法論に厳密に従っています。
-
----
-
-## Eco-Score、Nutri-Score、NOVA グループの違いは何ですか?
-
-これらの指標の目的は、消費者にわかりやすい情報を提供することです。
-
-[NOVA グループ](https://fr.openfoodfacts.org/nova) は製品の変換を扱い、[エコスコア](https://fr.openfoodfacts.org/ecoscore) は環境への影響を、[栄養スコア](https://fr.openfoodfacts.org/nutriscore) は栄養成分を扱っており、製品のスコアが A に近いほど、品質が高いことがわかります。
-
-3 つのスコアは同じ要素を扱っていません。 したがって、それらを互いに比較することはできません。
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## 製品のエコスコアやニュートリスコアをシミュレートすることは可能ですか?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-生産者のプラットフォームに登録し、製品のデータをアップロードすると、製品に関連付けられた Nutri-Score と Eco-Score を計算できます。
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-ただし、シミュレーションを実行したら、そのシミュレーションが、すでに自社の範囲内で販売されている製品とともにパブリック プラットフォームにエクスポートされないように、シミュレーションを削除する必要があります。
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ 詳細については、[ユーザーガイド](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)をダウンロードするか、[ビデオチュートリアル](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)を参照してください:-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
