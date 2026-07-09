@@ -1,23 +1,23 @@
 ---
-title: "{{< ment ar sinedoù fa=2x >}} Tikedennoù"
-description: "2 c'houlenn"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: sined
+icon: bookmark
 ---
 
-{{< fa "sined" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Evel tikedenn, ha pouezus eo krouiñ ur gont ?
+## As a label, is it important to create an account ?
 
-Evel label, dre ma n'oc'h ket ar produer reizh eus ar produioù, n'hoc'h eus ket ezhomm da grouiñ ur gont produer.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Un ti-embann on, penaos e c'hellan kemer perzh er raktres ?
+## I am a label, how can I participate in the project?
 
-Evel tikedenn an dra talvoudusañ da ober eo mont e darempred ganeomp **(producers@openfoodfacts.org)** ha kas deomp roll ar produioù ma vez diskouezet ho tikedenn warno evit ma c'hellfemp o ouzhpennañ war ar follennoù produioù liammet.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
