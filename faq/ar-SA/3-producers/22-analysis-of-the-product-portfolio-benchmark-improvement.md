@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} تحليل مجموعة المنتجات (المعيار، التحسين...)"
-description: "سؤال واحد"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: مخطط بياني
+icon: chart-bar
 ---
 
-{{< fa "مخطط بياني" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## كيف يمكنني الوصول إلى توصيات إعادة التركيب لتحسين القيمة الغذائية لمنتجاتي؟
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-عندما تكون على الصفحة الرئيسية لمنصة المنتجين:
+When you are on the home page of the Producers Platform:
 
-1. انقر على الرابط "→ عدد المنتجات التي لديها فرص للتحسين" في أعلى الصفحة.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. يمكنك الاطلاع على جميع الفرص التي رصدها نظامنا لتحسين منتجاتك
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. سيؤدي النقر على نوع معين من الفرص إلى نقلك إلى قائمة المنتجات التي تخضع للتحسين.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-للحصول على مزيد من التفاصيل، ندعوكم لتحميل [دليل المستخدم](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) و/أو مشاهدة [الدروس التعليمية المصورة](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
