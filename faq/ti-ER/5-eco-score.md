@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} ኢኮ-ስኮር"
-description: "5 ሕቶታት"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: ተጠቃሚ-ተወሳኺ
+icon: user-plus
 ---
 
-{{< fa "ተጠቃሚ-ተወሳኺ" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## ኣገባብ ኢኮ-ስኮር እንታይ እዩ?
+## What is the Eco-Score methodology?
 
-ኢኮ-ስኮር ብዓደመ (ኤጀንሲ ስግግር ስነ-ህይወት)ን ኢንራኤ (ሃገራዊ ትካል ምርምር ኣግሮኖሚክ)ን ዝተዳለወ ትንተና ዑደት ህይወት ዝተመስረተ እዩ። ኣስታት ዓሰርተ ሓሙሽተ ባእታታት ይሕሰቡን ይተኣሳሰሩን እሞ ነጥቢ ፒኢኤፍ ይፈጥሩ።
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-ኣብዚ ናይ PEF ነጥቢ ቦነስን ማሉስን (ኣገባብ ምፍራይ፡ መበቆል ናይ...
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ቀመማት፣ ኣብ ሓደጋ ዝርከቡ ዓይነታት እንስሳታት፣ መዐሸጊ) ምእንቲ ኢኮ-ስኮር ንምሕሳብ።
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-ንዝያዳ ሓበሬታ ኣብ ጽማቕ ገጽ [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) ኣብ ክፉት ሓቅታት መግቢ ከምኡ’ውን ኣብ መርበብ ሓበሬታ ኮንሶርትየም ኢኮ-ስኮር ርአ። (ኣቀራርባ ኢኮ-ስኮር [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## እቲ ኢኮ-ስኮር ብዝተኻእለ መጠን ብትኽክል ንኽሕሰብ እንታይ ዓይነት ሓበሬታ ክወሃብ ኣለዎ?
-
-እቲ ኢኮ-ስኮር ብልክዕ ንኽሕሰብ፡ ሚእታዊት ናይ ነፍሲ ወከፍ ቀመምን መበገሲኡን ክግለጽ ኣለዎ።
-
-እዚ ሓበሬታ እዚ ድሮ ኣብ ዝርዝር ቀመማት እንተዘይተገሊጹ፡ ንዕኡ ንምጥቃስ ዓምዲ ክትውስኽ ትኽእል ኢኻ፡ በዚ ዝስዕብ ቅርጺ፤
-
-ሓርጭ ስርናይ 16% (ፈረንሳ)
-
-ቸኮሌት 8% (ኣይቮሪኮስት፡ ኤኳዶር)
-
-ብተወሳኺ ኣካላት ናይቲ መዐሸጊ ብመልክዕ የድልዩና: 1 ፕላስቲክ ፊልም ንኽድርበ፣ 1 FSC ካርቶን ሳንዱቕ ዳግማይ ንምጥቃም፣ 6 PET ግሉጽ ፕላስቲክ ጥርሙዝ 1.5 L ዳግማይ ንምጥቃም፣ 6 ዘይግሉጽ ሕብሪ ዘለዎም ፕላስቲክ ቆብዕ፣ 12 ፕላስቲክ ቆርቆሮ 33 cl ኣሉሚንየም።
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## ክብርታት ናይቶም 15 መርኣይታት ብኸመይ ይውሃሃዱ?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**ስርዓት ፒኢኤፍ ብዝበለፀ ንምርዳእ: መብርሂ ነጥቢ ፒኢኤፍ ኣብ ኣገባባዊ መርበብ ሓበሬታ ኢኮ-ስኮር** ከተንብቡ ትኽእሉ ኢኹም።
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## እቲ ከባብያዊ መዳይ ንቦታ ምፍራይ ድዩ ወይስ ንመበቆል ቦታ ናይቲ ጥረ ነገራት ዝምልከት?
+## How are the values ​​of the 15 indicators combined?
 
-**እቲ ከባብያዊ መዳይ ንመበቆል ናይቲ ጥረ ነገራት ዝምልከት እዩ። ነዚ እዩ ድማ ኣብ ዝርዝር ቀመማት ፍርያት ወይ ድማ ኣብቲ ንመበቆል ቀመማት ዝተወፈየ ዓውዲ ሚእታዊትኦም ከምኡ’ውን መበቆሎም ምእታው ኣገዳሲ ዝኸውን።**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ከመይ ጌርካ መበቆል ቀመማት ንኢኮ-ስኮር ትኣቱ?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-ኣብ ወረቐትኩም ዘሎ ሓበሬታ መበቆል ናይቲ ጥረ ነገራት ከተካፍሉ ምስ እትደልዩ፡ ኣብ ዝርዝር ቀመማት ከተእትውዎ ንዕድም።
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
