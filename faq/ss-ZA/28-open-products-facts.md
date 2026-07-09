@@ -1,48 +1,48 @@
 ---
-title: "{{< fa usayizi wekhiye=2x >}} Vula Imikhicito Emaciniso"
-description: "3 imibuto"
-lang: si-gb
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
+lang: en-gb
 order: 28
 category-level: 0
-icon: sihlutfulelo
+icon: key
 ---
 
-{{< fa "sihlutfulelo" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Indlela yekufinyelela Emaciniso Emikhicito Vulekile ku-iPhone ?
+## How to access Open Products Facts on iPhone ?
 
-Emaciniso Emikhicito Levulekile atfolakala ngaphakatsi kwe-app leyinhloko yeMaciniso Ekudla Lokuvulekile. Loku kuhlanganiswa kuvumela basebentisi be-iPhone kutsi bafinyelele kuwo omabili ema-database ngekusebentisa luhlelo lunye, lolulula.
-
----
-
-## Ngitsandza kusekela Emaciniso Emikhicito Levulekile. Yini lengingayenta ?
-
-Sicela ufundze likhasi letfu le-wiki, sibhale tindlela tekutibandzakanya: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.
-
-Kusekela Emaciniso Emikhicito Levulekile, ungacabanga ngaletintfo letilandzelako, ngayinye yentelwe tinhlobo letehlukene teminikelo:
-
--
-
-**Baxhasi Bekupha/Mbuso Bemikhicito Levulekile Emaciniso**:
-Iminikelo yekupha ibaluleke kakhulu ekufezeni umbono wenkhundla yedatha lephelele leyindingilizi, kufaka emaphuzu emkhicito, kanye nekuhlanganiswa kwetisombululo letiyindingilizi, kuyo yonkhe imikhakha lengetulu kwa-20000+ kependual ye-O. Tincenye letinyenti letibalulekile talombono atikakhokhelwa, futsi kusekela kwakho ngemali kungenta umtselela lomkhulu. Iminikelo yakho ingasita ngetimali tetintfutfuko letibucayi kanye nesakhiwonchanti. Kute unikele ngetimali, sicela utsintse ku-contact@openfoodfacts.org
-
--
-
-**Banikeli Bemininingwane Basebentisa I-App Yemaciniso Emikhicito Levulekile**:
-Iminikelo yemininingwane ibalulekile ekulinganiseni Emaciniso Emikhicito Levulekile. Ngekusebentisa i-app ye-Android kute wengete lwati lolusha lwemkhicito, uvuselele tintfo letikhona, nobe ucinisekise idatha, usita ekwandziseni nasekucwengiseni idathabeyisi. Lomtamo lohlangene ufaka sandla ekwakheni umtfombolusito locinile nalowetsembekile wawo wonkhe umuntfu.
-
--
-
-**Banikeli Bebuchwepheshe Emaciniso Emikhicito Levulekile**:
-Uma unemakhono ebuchwepheshe etindzaweni letifana nekuhlela, kuhlatiya idatha, noma kwakha lwati lwemsebentisi, bungcweti bakho bungazuzisa kakhulu Emaciniso Emikhicito Levulekile. Kuhlanganyela ekwakhiweni kwe-app, kwenta ncono kusebenta kwayo, nobe kwenta ncono tindlela tekusebentisana kuyiminikelo lebalulekile. Kuze utibandzakanye, joyina isiteshi se- #openproductsfacts Slack, lapho khona ummango weMaciniso Emikhicito Levulekile ubambisana khona. Ungatfola sixhumanisi salendzawo yekusebenta ye-Slack kuwebhusayithi ye-Open Food Facts.
-
-Luhlobo ngalunye lweligalelo lubalulekile ekukhuleni nasekuphumeleleni kweMaciniso Emikhicito Levulekile, kusita ekwakheni inkhundla lesimeme nalefundzisako kuwo wonkhe umuntfu.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Ngingayitfolaphi i-API Yemaciniso Emikhicito Levulekile ?
+## I would like to support Open Products Facts. What can I do ?
 
-I-API Yemaciniso Emikhicito Levulekile i-98% iyafana ne-API Yemaciniso Ekudla Lokuvulekile ngako-ke uma usebentisa imibhalo ye-API Yemaciniso Ekudla Lokuvulekile kufanele ube nembono locacile we-API Yemaciniso Emikhicito Levulekile. Siphindze sibhale tutorial letinikele kuvumela kusebentisa scan jikelele app yakho app.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
