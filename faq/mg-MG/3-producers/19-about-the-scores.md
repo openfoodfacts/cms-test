@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Momba ny isa azo"
-description: "Fanontaniana 3"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: tsipika tabilao
+icon: chart-line
 ---
 
-{{< fa "tsipika tabilao" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Iza no tompon'andraikitra amin'ny fikajiana ny dian-tongotra sy/na ny isa?
+## Who is responsible for calculating the footprint and/or score?
 
-Ny Nutri-Score, ny vondrona NOVA ary ny Eco-Score dia kajy mifototra amin'ny angon-drakitra hita ao amin'ny Open Food Facts. Manaraka akaiky ny fomba fiasa ofisialin'ireto isa ireto ny algorithm-nay.
-
----
-
-## Inona no mahasamihafa ny Eco-Score, ny Nutri-Score ary ny vondrona NOVA?
-
-Ny tanjon'ireto tondro ireto dia ny hanome fampahalalana mora azo ho an'ny mpanjifa.
-
-Ny vondrona [NOVA](https://fr.openfoodfacts.org/nova) dia miresaka momba ny fiovan'ny vokatra, ny [Eco-Score](https://fr.openfoodfacts.org/ecoscore) miaraka amin'ny fiantraikany amin'ny tontolo iainana ary ny [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) miaraka amin'ny singa ara-tsakafo, satria fantatra fa arakaraka ny maha akaiky ny isa A ny vokatra iray no maha tsara kalitao azy.
-
-Tsy mifandraika amin'ny singa mitovy ireo isa 3 ireo. Noho izany dia tsy azo atao ny mampitaha azy ireo amin'ny tsirairay.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Azo atao ve ny manahaka ny Eco-Score na ny Nutri-Score amin'ny vokatra vokariko?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Amin'ny fisoratana anarana ao amin'ny sehatra mpamokatra sy ny fandefasana ny angon-drakitra momba ny vokatrao, dia azonao atao ny manisa ny Nutri-Score sy ny Eco-Score mifandraika amin'ny vokatrao.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Na izany aza, tsy maintsy fafanao izany rehefa vita ny simulation mba tsy ho aondrana any amin'ny sehatra ho an'ny daholobe miaraka amin'ireo vokatra efa amidy ao amin'ny vokatrao.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
