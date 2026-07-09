@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Ku dawuniloda ka datha"
-description: "1 xivutiso"
-lang: ts-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: cloud-ku dawuniloda
+icon: cloud-download
 ---
 
-{{< fa "cloud-ku dawuniloda" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Xana u nga yi kuma kwihi data ya tiko ro karhi?
+## Where to get the data for a specific country?
 
-Sweswi, a ku na swilo leswi rhumeriwaka ematikweni mambe leswi nyiketeriweke eka matiko yo karhi.
+Currently, there are no exports dedicated to specific countries.
 
-Ku na tindlela to tala to tirhisa ku rhumeriwa ka hina ko hambana loku hlanganisiweke na switirhisiwa swo hambana ku hlawula datha leyi fambelanaka na tiko ro karhi.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-U nga va na ku languta eka [tin’wana ta tithekiniki leti eka wiki ya hina](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
