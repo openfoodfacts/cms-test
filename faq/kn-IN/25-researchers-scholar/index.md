@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} ಸಂಶೋಧಕರು/ವಿದ್ವಾಂಸರು"
-description: "1 ಉಪವರ್ಗ"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: ಪದವಿ ಟೋಪಿ
+icon: graduation-cap
 listing:
   contents:
-    - "*.ಎಂಡಿ"
+    - "*.md"
   include:
     category-level: 1
-  type: ಗ್ರಿಡ್
+  type: grid
   grid-columns: 4
-  sort: "ಆದೇಶ"
-  fields: [ ಶೀರ್ಷಿಕೆ, ವಿವರಣೆ ]
-  page-size: 100 (100)
+  sort: "order"
+  fields: [ title, ವಿವರಣೆ ]
+  page-size: 100
 ---
 
-{{< fa "ಪದವಿ ಟೋಪಿ" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
