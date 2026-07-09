@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} Аккаунтумду башкаруу"
-description: "3 суроо"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: колдонуучу
 
 {{< fa "колдонуучу" size=3x >}}
 
-## Бир нече Open Food Facts аккаунттарын бир компанияга байланыштырууга болобу?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Ооба, бардык аккаунттарды бир эле компанияга байланыштыруу үчүн [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) электрондук почтасына кат жазыңыз.
-
----
-
-## Open Food Facts аккаунтумду кантип Pro аккаунтуна айландырсам болот?
-
-Сиз [Pro платформасына](https://world.pro.openfoodfacts.org/) учурдагы аккаунтуңуздун далдаштырма маалыматтары менен кире аласыз.
-
-Эгер сиз кесипкөй болсоңуз, аккаунтуңузду текшерүү үчүн кесиптик электрондук почта дарегиңизди колдонушуңуз керек болот.
-
-→ Көбүрөөк маалымат алуу үчүн, сизди биздин [колдонуучу колдонмосун](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) жүктөп алууга жана/же биздин [видео окуу куралдарыбызды](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карап чыгууга чакырабыз :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Pro платформасын колдонууга жардам бере турган документтерди кайдан тапсам болот?
+## How to convert my Open Food Facts account into a Pro account?
 
-Pro платформасынан максималдуу пайда алууга жардам бере турган бир нече ресурстар бар.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Сиз төмөнкүлөргө кош келиңиз:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- [колдонуучунун колдонмосун](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) карап чыгыңыз - шилтемелерди чыкылдатууга мүмкүн болушу үчүн PDF файлын жүктөп алууга чакырабыз, бул документ боюнча навигацияны жеңилдетет.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- биздин [видео сабактарыбызды] караңыз (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- Пикириңизди же сунуштарыңызды [бул форма](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) аркылуу бөлүшүңүз
+## Where can I find documentation to help me use the Pro platform?
 
-- Эгерде сизде дагы суроолор болсо, биздин өнөктөштүк боюнча менеджерибиз Манон менен байланышууну пландаштырыңыз: [бул жерде](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Биз менен электрондук почта аркылуу байланышыңыз: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
