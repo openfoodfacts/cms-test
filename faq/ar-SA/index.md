@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "الأسئلة الشائعة - الإنجليزية"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: شبكة
+  type: grid
   grid-columns: 4
-  sort: "طلب"
-  fields: [ عنوان, وصف ]
+  sort: "order"
+  fields: [ title, وصف ]
   page-size: 100
 
 # << DO NOT TRANSLATE
