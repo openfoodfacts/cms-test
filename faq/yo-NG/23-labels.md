@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bukumaaki iwọn=2x >}} Àwọn àkọlé"
-description: "Àwọn ìbéèrè méjì"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: bukumaaki
+icon: bookmark
 ---
 
-{{< fa "bukumaaki" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Gẹ́gẹ́ bí àmì, ṣé ó ṣe pàtàkì láti ṣẹ̀dá àkọọ́lẹ̀ kan?
+## As a label, is it important to create an account ?
 
-Gẹ́gẹ́ bí àmì, nítorí pé ìwọ kìí ṣe olùpèsè ọjà tààrà, o kò nílò láti ṣẹ̀dá àkọọ́lẹ̀ olùpèsè.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Àmì ìdánimọ̀ ni mí, báwo ni mo ṣe lè kópa nínú iṣẹ́ náà?
+## I am a label, how can I participate in the project?
 
-Gẹ́gẹ́ bí àmì, ohun tó ṣe pàtàkì jùlọ láti ṣe ni láti kàn sí wa **(producers@openfoodfacts.org)** kí o sì fi àkójọ àwọn ọjà tí àmì rẹ wà lórí ránṣẹ́ sí wa kí a lè fi wọ́n kún àwọn ìwé ọjà tó báramu.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
