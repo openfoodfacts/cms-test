@@ -1,21 +1,21 @@
 ---
-title: "יצרנים"
-description: "6 תת-קטגוריות"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: תַעֲשִׂיָה
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: רֶשֶׁת
+  type: grid
   grid-columns: 4
-  sort: "לְהַזמִין"
-  fields: [ כּוֹתֶרֶת, תיאור ]
+  sort: "order"
+  fields: [ title, תיאור ]
   page-size: 100
 ---
 
-{{< fa "תַעֲשִׂיָה" size="פי 3" >}}
+{{< fa "industry" size=3x >}}
 
