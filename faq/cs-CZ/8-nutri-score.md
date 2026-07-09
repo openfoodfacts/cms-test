@@ -1,13 +1,13 @@
 ---
-title: "{{< velikost tepu fa = 2x >}} Nutri-Score"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
 description: "3 otázky"
-lang: en-gb
+lang: cs
 order: 8
 category-level: 0
 icon: srdeční tep
 ---
 
-{{< fa "srdeční tep" size=3x >}}
+{{< fa "srdeční tep" size=3× >}}
 
 ## Co mám dělat, když Nutri-Score mých produktů není správné?
 
@@ -15,7 +15,7 @@ V případě problému s vaším Nutri-Score zkontrolujte správnost vašich úd
 
 ---
 
-## Jaké informace mám poskytnout, aby bylo Nutri-Score vypočítáno co nejpřesněji?
+## Jaký typ informací bych měl poskytnout, aby bylo Nutri-Score vypočítáno co nejpřesněji?
 
 Výpočet Nutri-Score bude proveden s využitím nutriční tabulky vašeho produktu.
 
