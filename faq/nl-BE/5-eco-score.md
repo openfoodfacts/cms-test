@@ -1,7 +1,7 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-score"
 description: "5 vragen"
-lang: en-gb
+lang: nl-nl
 order: 5
 category-level: 0
 icon: gebruiker-plus
@@ -11,45 +11,45 @@ icon: gebruiker-plus
 
 ## Wat is de Eco-Score-methodologie?
 
-De Eco-Score is gebaseerd op de berekening van de levenscyclusanalyse die is uitgevoerd door ADEME (het agentschap voor ecologische transitie) en INRAE (het nationale instituut voor agronomisch onderzoek). Ongeveer vijftien componenten worden berekend en aan elkaar gekoppeld om de PEF-score te creëren.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Aan deze PEF-score worden bonussen en malussen toegevoegd (productiewijze, herkomst van
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingrediënten, bedreigde diersoorten, verpakking) om de Eco-Score te berekenen.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Voor meer informatie kunt u de samenvattingspagina [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) op Open Food Facts en op de website van het Eco-Score consortium raadplegen. (Eco-Score presentatie [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Welke informatie moet worden verstrekt om de Eco-Score zo nauwkeurig mogelijk te kunnen berekenen?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-Om de Eco-Score nauwkeurig te kunnen berekenen, moeten het percentage van elk ingrediënt en de herkomst ervan worden gespecificeerd.
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
 
-Als deze informatie nog niet in de ingrediëntenlijst staat, kunt u een kolom toevoegen om dit te vermelden, met de volgende opmaak:
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
 
 Tarwebloem 16% (Frankrijk)
 
 Chocolade 8% (Ivoorkust, Ecuador)
 
-We hebben ook de volgende verpakkingsonderdelen nodig: 1 wegwerp plastic folie, 1 FSC-kartonnen doos voor recycling, 6 transparante PET-flessen van 1,5 liter voor recycling, 6 ondoorzichtige gekleurde plastic doppen en 12 aluminium blikjes van 33 cl.
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
 ## Hoe worden de waarden van de 15 indicatoren gecombineerd?
 
-
-
----
-
-## Heeft het lokale aspect betrekking op de plaats van fabricage of op de plaats van herkomst van de grondstoffen?
-
-**Het lokale aspect betreft de herkomst van de grondstoffen. Daarom is het belangrijk om zowel de percentages als de herkomst van de ingrediënten te vermelden in de ingrediëntenlijst of in het veld dat is bestemd voor de herkomst van de ingrediënten.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Hoe voer ik de herkomst van ingrediënten in voor de eco-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Als u de herkomst van de grondstoffen op uw lakens wilt vermelden, nodigen wij u uit deze in de ingrediëntenlijst op te nemen.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
