@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "නිතර අසන ප්‍රශ්න - ඉංග්‍රීසි"
-lang: "si-gb (ඉංග්‍රීසි බසින්)"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.එම්ඩී"
-    - "*/දර්ශකය.md"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: ජාලකය
+  type: grid
   grid-columns: 4
-  sort: "නියෝගය"
-  fields: [ ශීර්ෂය, description ]
-  page-size: 100 යි
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
