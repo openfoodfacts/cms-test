@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ਉਦਯੋਗ ਦਾ ਆਕਾਰ=2x >}} ਉਤਪਾਦਕ"
-description: "6 ਉਪ-ਸ਼੍ਰੇਣੀਆਂ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: ਉਦਯੋਗ
+icon: industry
 listing:
   contents:
-    - "*.ਐਮਡੀ"
+    - "*.md"
   include:
     category-level: 1
-  type: ਗਰਿੱਡ
+  type: grid
   grid-columns: 4
-  sort: "ਆਰਡਰ"
-  fields: [ ਸਿਰਲੇਖ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ਉਦਯੋਗ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
