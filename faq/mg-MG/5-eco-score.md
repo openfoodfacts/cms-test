@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "Fanontaniana 5"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: mpampiasa-miampy
+icon: user-plus
 ---
 
-{{< fa "mpampiasa-miampy" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Inona ny fomba fiasa Eco-Score?
+## What is the Eco-Score methodology?
 
-Ny Eco-Score dia mifototra amin'ny kajy ny fanadihadiana momba ny tsingerim-piainana novokarin'ny ADEME (ny masoivoho tetezamita ara-tontolo iainana) sy ny INRAE (ny andrim-panjakana nasionaly ho an'ny fikarohana momba ny fambolena). Singa dimy ambin'ny folo eo ho eo no kajy sy ampifandraisina mba hamoronana ny isa PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ampiana amin'ity isa PEF ity ny tombony sy ny fatiantoka (fomba famokarana, fiaviana
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-akora, karazam-biby tandindonin-doza, fonosana) mba hikajiana ny Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Raha mila fanazavana fanampiny, jereo ny pejy famintinana [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) momba ny Open Food Facts ary koa ao amin'ny tranokalan'ny Eco-Score consortium. (Famelabelarana Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Karazana fampahalalana inona no tsy maintsy omena mba hahafahana kajy araka ny marina araka izay azo atao ny Eco-Score?
-
-Mba hahafahana kajy marina ny Eco-Score dia tsy maintsy faritana ny isan-jaton'ny akora tsirairay sy ny niandohany.
-
-Raha tsy voalaza ao amin'ny lisitry ny akora ity fampahalalana ity dia azonao atao ny manampy tsanganana iray hilazana izany, amin'ity endrika manaraka ity:
-
-Lafarinina varimbazaha 16% (Frantsa)
-
-Sôkôla 8% (Côte d'Ivoire, Ekoatera)
-
-Mila ireto singa ireto amin'ny fonosana isika amin'ny endrika: plastika 1 hariana, boaty baoritra FSC 1 ho averina ampiasaina, tavoahangy plastika PET mangarahara 6 mirefy 1.5 L ho averina ampiasaina, sarony plastika miloko tsy mangarahara 6, boaty plastika aliminioma 33 cl 12.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ahoana no ampiarahana ny sandan'ireo tondro 15?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Raha te-hahazo tsara kokoa ny rafitra PEF ianao dia afaka mamaky: fanazavana momba ny isa PEF ao amin'ny tranokalan'ny Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Moa ve ny lafiny eo an-toerana mahakasika ny toerana nanaovana azy sa ny toerana niavian'ny akora fototra?
+## How are the values ​​of the 15 indicators combined?
 
-**Ny lafiny eo an-toerana dia mahakasika ny niandohan'ny akora fototra.** Izany no antony maha-zava-dehibe ny fampidirana ny isan-jaton'izy ireo sy ny niandohany ao amin'ny lisitry ny akora ao amin'ny vokatra na ao amin'ny saha natokana ho an'ny niandohan'ny akora.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Ahoana no fomba hampidirana ny niandohan'ny akora ho an'ny eco-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Raha te hizara ny fampahalalana momba ny niandohan'ireo akora ampiasaina amin'ny takelakao ianao dia manasa anao izahay hampiditra izany ao amin'ny lisitry ny akora ilaina.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
