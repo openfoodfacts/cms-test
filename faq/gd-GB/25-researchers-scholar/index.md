@@ -1,21 +1,21 @@
 ---
-title: "{{< meud-caip ceumnachaidh fa = 2x >}} Luchd-rannsachaidh/Sgoilear"
-description: "1 fo-roinn"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: caip ceumnachaidh
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: griod
+  type: grid
   grid-columns: 4
-  sort: "òrdugh"
-  fields: [ tiotal, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "caip ceumnachaidh" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
