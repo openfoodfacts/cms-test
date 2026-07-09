@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} ကျောင်းပရောဂျက်များ"
-description: "မေးခွန်း ၂ ခု"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
-order: ၂၆
+order: 26
 category-level: 1
-icon: ဖိုင်-o
+icon: file-o
 ---
 
-{{< fa "ဖိုင်-o" size="၃ ဆ" >}}
+{{< fa "file-o" size=3x >}}
 
-## ကျောင်းပရောဂျက်တစ်ခု လုပ်စရာရှိတယ်၊ Open Food Facts ရဲ့ဒေတာကို သုံးချင်ပါတယ်၊ လုပ်လို့ရမလား။
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts သည် open database တစ်ခုဖြစ်ပြီး ODbL လိုင်စင်အောက်တွင် လည်ပတ်နေသော open project တစ်ခုဖြစ်သောကြောင့် ODbL လိုင်စင်၏ လိုအပ်ချက်များကို သင်သဘောတူသရွေ့ ကျွန်ုပ်တို့၏ data ကို သင့် project များအတွက် ပြန်လည်အသုံးပြုနိုင်ပါသည် :)။
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## ကျွန်ုပ်၏ ပရောဂျက်များအတွက် ဒေတာများကို မည်သို့ ဝင်ရောက်ကြည့်ရှု/စုဆောင်းနိုင်မည်နည်း။
+## How can I access/collect data for my projects ?
 
-Open Food Facts ရဲ့ အဓိက စာမျက်နှာမှာ၊ မျက်နှာပြင်ရဲ့ ဘယ်ဘက်အပေါ်ထောင့်မှာ scroll လုပ်လို့ရတဲ့ မီနူးတစ်ခု ရှိပါတယ်။ အောက်ခြေမှာ “အဆင့်မြင့်ရှာဖွေမှု” ရွေးချယ်မှုကို သင်တွေ့လိမ့်မယ်၊ အဲဒါကို နှိပ်နိုင်ပါတယ်။ ထို့နောက် မည်သည့်စံနှုန်းများသည် သင့်ပရောဂျက်(များ)နှင့် အသင့်တော်ဆုံးဖြစ်သည်ကို ဆုံးဖြတ်ရန်မှာ သင့်အပေါ်တွင် မူတည်ပါသည်။ ရွေးချယ်ပြီးသည်နှင့် စာမျက်နှာ၏အောက်ခြေတွင် scroll လုပ်၍ “ရလဒ်များကို ဒေါင်းလုဒ်လုပ်ပါ” ကို နှိပ်ခြင်းဖြင့် ရရှိလာသောရလဒ်များကို ဒေါင်းလုဒ်လုပ်နိုင်မည်ဖြစ်သည်။
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
