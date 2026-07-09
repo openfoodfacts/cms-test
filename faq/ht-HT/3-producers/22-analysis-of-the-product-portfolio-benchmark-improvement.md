@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Analiz pòtfolyo pwodwi yo (referans, amelyorasyon...)"
-description: "1 kesyon"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: ba-graf
+icon: chart-bar
 ---
 
-{{< fa "ba-graf" size="3 fwa" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Kijan pou m jwenn aksè a rekòmandasyon refòmilasyon pou amelyore Nutri-Score pwodwi m yo?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Lè w sou paj dakèy Platfòm Pwodiktè yo:
+When you are on the home page of the Producers Platform:
 
-1. klike sou lyen "→ Kantite pwodwi ki gen opòtinite amelyorasyon" anlè paj la.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Ou ka konsilte tout opòtinite sistèm nou an detekte pou amelyore pwodwi ou yo
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Lè ou klike sou yon kalite opòtinite, sa ap mennen ou nan lis pwodwi ki bezwen amelyorasyon.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
