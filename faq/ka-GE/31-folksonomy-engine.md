@@ -1,17 +1,17 @@
 ---
-title: "{{< წიგნის ზომა=2x >}} ფოლკსონომიის ძრავა"
-description: "1 კითხვა"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: წიგნი
+icon: book
 ---
 
-{{< fa "წიგნი" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## რა არის ფოლკსონომიის ძრავა?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine არის სისტემა, რომელიც მომხმარებლებს საშუალებას აძლევს, დაამატონ მორგებული ტეგები ან თვისებები საკვებ პროდუქტებს Open Food Facts-ში, რომელიც მსოფლიოში უდიდესი ღია საკვების მონაცემთა ბაზაა. ეს საშუალებას აძლევს ადამიანებს, საკვები ახლებურად დააკატეგორიონ და აღწერონ, არსებული წინასწარ განსაზღვრული თვისებების მიღმა.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
