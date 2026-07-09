@@ -1,49 +1,49 @@
 ---
-title: "ការវេចខ្ចប់ {{< fa cube size=2x >}}"
-description: "សំណួរចំនួន ៣"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ២៤
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
+order: 24
 category-level: 1
-icon: គូប
+icon: cube
 ---
 
-{{< fa "គូប" size=៣ដង >}}
+{{< fa "cube" size=3x >}}
 
-## តើខ្ញុំអាចបន្ថែមទិន្នន័យវេចខ្ចប់របស់ខ្ញុំទៅក្នុង Open Food Facts យ៉ាងដូចម្តេច?
+## How can I add my packaging data to Open Food Facts?
 
-ក្នុងនាមជាអ្នកផលិត វិធីដ៏មានប្រសិទ្ធភាពបំផុតក្នុងការបន្ថែមទិន្នន័យវេចខ្ចប់ទៅក្នុងផលិតផលរបស់អ្នក គឺត្រូវបំពេញព័ត៌មានចាំបាច់នៅក្នុង [សៀវភៅបញ្ជី Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) នេះ ពីជួរឈរ "AU"។
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-សម្រាប់សមាសធាតុវេចខ្ចប់នីមួយៗ អ្នកនឹងត្រូវបញ្ចូល៖
+For each packaging component, you will need to enter:
 
-- ចំនួនឯកតា (ឧទាហរណ៍៖ យ៉ាអួរចំនួន ៤ កំប៉ុង)
+- The number of units (ex: **4** pots of yogurts)
 
-- រូបរាង (ឧទាហរណ៍៖ **ឆ្នាំង គម្រប ប្រអប់ ជាដើម**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- សម្ភារៈ (ឧទាហរណ៍៖ **PET, ក្រដាស, កញ្ចក់, ល។**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- ការណែនាំអំពីការកែច្នៃឡើងវិញ (ឧទាហរណ៍៖ **កែច្នៃឡើងវិញ ដើម្បីបោះចោល។ល។**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ទម្ងន់នៃឯកតាទទេមួយ (គិតជាក្រាម)
+- The weight of one empty unit (in gr)
 
-- បរិមាណសុទ្ធនៃផលិតផលដែលមានក្នុងមួយឯកតា
+- The net quantity of product contained per unit
 
-បន្ទាប់មក សៀវភៅបញ្ជីនេះអាចត្រូវបាននាំចូលទៅក្នុងវេទិការបស់យើងដែលឧទ្ទិសដល់អ្នកជំនាញ។
-
----
-
-## តើគម្រោង Tackling Food Packaging ជាអ្វី?
-
-គម្រោង "ដោះស្រាយបញ្ហាវេចខ្ចប់អាហារ" មានការប្រមូលព័ត៌មានលម្អិតអំពីការវេចខ្ចប់ផលិតផលដែលត្រូវបានប្រើប្រាស់ច្រើនបំផុត (រូបរាង សម្ភារៈ ការណែនាំអំពីការតម្រៀប ទម្ងន់ សមត្ថភាព)។
-
-ដោយផ្អែកលើវិធីសាស្រ្តវិទ្យាសាស្ត្រដែលមានការចូលរួម វានឹងពឹងផ្អែកទាំងលើក្រុមហ៊ុនដែលយល់ព្រមចែករំលែកទិន្នន័យវេចខ្ចប់របស់ពួកគេ និងលេងល្បែងនៃតម្លាភាព និងលើពលរដ្ឋដែលអនុញ្ញាតឱ្យប្រមូលព័ត៌មានអំពីផលិតផល។ ព័ត៌មាននេះនឹងអាចប្រើប្រាស់ឡើងវិញបានដោយសេរី ("ទិន្នន័យបើកចំហ")។
-
-**សម្រាប់ព័ត៌មានបន្ថែម៖** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## សូម្បីតែបន្ទាប់ពីគម្រោង Tackling Food Packaging បានបញ្ចប់ហើយក៏ដោយ តើខ្ញុំនៅតែអាចបន្ថែមទិន្នន័យវេចខ្ចប់របស់ខ្ញុំបានដែរឬទេ?
+## What is the Tackling Food Packaging project?
 
-សូម្បីតែបន្ទាប់ពីបញ្ចប់គម្រោងក៏ដោយ ក៏វាអាចធ្វើទៅបានដើម្បីបន្ថែមទិន្នន័យវេចខ្ចប់ ព្រោះវាលវេចខ្ចប់នឹងនៅតែមាននៅលើគេហទំព័ររបស់យើង។
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
