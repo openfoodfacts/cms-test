@@ -1,17 +1,17 @@
 ---
-title: "{{< dimensiunea cărții fa=2x >}} Motor de folcsonomie"
-description: "1 întrebare"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: 31 de ani
+order: 31
 category-level: 0
-icon: carte
+icon: book
 ---
 
-{{< fa "carte" size="de 3 ori" >}}
+{{< fa "book" size=3x >}}
 
-## Ce este motorul de folcsonomie?
+## What is the Folksonomy Engine ?
 
-Motorul de folksonomie este un sistem care permite utilizatorilor să adauge etichete personalizate sau proprietăți produselor alimentare din Open Food Facts, cea mai mare bază de date open-food din lume. Acest lucru permite oamenilor să categorizeze și să descrie alimentele în moduri noi, dincolo de proprietățile predefinite existente.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
