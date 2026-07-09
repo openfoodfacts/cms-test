@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} אנאליז פון די פראדוקט פארטפעל (בענטשמארק, פארבעסערונג...)"
-description: "1 פראגע"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: טשאַרט-באַר
+icon: chart-bar
 ---
 
-{{< fa "טשאַרט-באַר" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## ווי אזוי קען איך צוקומען צו די רעפארמולאציע רעקאמענדאציע צו פארבעסערן דעם נוטרי-סקאָר פון מײַנע פּראָדוקטן?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-ווען איר זענט אויף דער היים בלאַט פון דער פּראָדוצירער פּלאַטפאָרמע:
+When you are on the home page of the Producers Platform:
 
-1. דריקט אויפן לינק "→ נומער פון פּראָדוקטן מיט פֿאַרבעסערונג מעגלעכקייטן" אין דער שפּיץ פֿון דער בלאַט.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. איר קענט זיך באַראַטן מיט אַלע געלעגנהייטן וואָס אונדזער סיסטעם האט דעטעקטירט צו פֿאַרבעסערן אייערע פּראָדוקטן
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. קליקן אויף אַ טיפּ געלעגנהייט וועט אײַך פֿירן צו דער רשימה פֿון פּראָדוקטן וואָס זענען אונטערטעניק צו פֿאַרבעסערונג.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
