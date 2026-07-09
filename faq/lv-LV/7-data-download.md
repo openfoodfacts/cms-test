@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Datu lejupielāde"
-description: "1 jautājums"
-lang: lv-lv
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: mākoņlejupielāde
+icon: cloud-download
 ---
 
-{{< fa "mākoņlejupielāde" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Kur iegūt datus par konkrētu valsti?
+## Where to get the data for a specific country?
 
-Pašlaik nav eksporta, kas būtu paredzēts konkrētām valstīm.
+Currently, there are no exports dedicated to specific countries.
 
-Ir daudz veidu, kā izmantot mūsu dažādos eksportēšanas rīkus apvienojumā ar dažādiem rīkiem, lai atlasītu datus, kas saistīti ar konkrētu valsti.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Jūs varat apskatīt [dažas no šīm metodēm mūsu wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
