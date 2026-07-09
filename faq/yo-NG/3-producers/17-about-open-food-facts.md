@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Nípa Àwọn Ìròyìn Oúnjẹ Ṣíṣí"
-description: "Àwọn ìbéèrè mẹ́rin"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: àyíká ìwífún
+icon: info-circle
 ---
 
-{{< fa "àyíká ìwífún" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Irú ìwífún wo ni ó yẹ kí a pín?
+## What type of information should be shared?
 
-A gba gbogbo alaye ti o ba ni, lati alaye ounje si alaye apoti.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Èyí mú kí ó ṣeé ṣe láti fi fáìlì pípé sílẹ̀, láti ṣírò gbogbo àwọn àmì náà pẹ̀lú ìpéye àti ní gbogbogbòò, ìfihàn tí àwọn oníbàárà mọrírì.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Sibẹsibẹ, a ṣeduro pe ki o fi awọn aaye wọnyi si ipo akọkọ:
+However we do recommend you prioritize the following fields:
 
-- Ìwífún nípa oúnjẹ
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Ẹ̀ka ọjà (fún àpẹẹrẹ ohun mímu, wàràkàṣì, wàràkàṣì, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ)
-
-- Orukọ ọja naa
-
-- Àwọn ohun tí ó lè fa àléjì
-
-- àti àwọn èròjà náà, pápá yìí kò pọndandan ṣùgbọ́n a ṣeduro rẹ̀ fún lílo tó dára jùlọ àti ìpinnu àwọn àmì náà
-
-→ Fún àwọn àlàyé síi, a pè yín láti gba [ìtọ́sọ́nà olùlò](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) wa sílẹ̀ tàbí kí ẹ wo [ìtọ́sọ́nà fídíò wa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ṣé mo lè gba ìwífún nípa Open Food Facts?
+## Can I download Open Food Facts data?
 
-O le gba gbogbo data ti o wa lori Open Food Facts silẹ. Ṣọ́ra, èyí nílò ààyè púpọ̀ nínú díìsìkì, kọ̀ǹpútà alágbára tí o bá fẹ́ lo ìwé àkọsílẹ̀ tàbí ìmọ̀ nípa R tàbí Python bí bẹ́ẹ̀ kọ́.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-O tun le gba apakan data kan (fun apẹẹrẹ ami iyasọtọ rẹ) nipasẹ wiwa ilọsiwaju.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Fún àwọn àlàyé síi, a pè yín láti gba [ìtọ́sọ́nà olùlò](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) wa sílẹ̀ tàbí kí ẹ wo [ìtọ́sọ́nà fídíò wa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ǹjẹ́ ìwọlé sí pẹpẹ Pro àti gbígbé data wọlé lọ́fẹ̀ẹ́?
-
-Dájúdájú, yóò sì wà títí láé.Gbogbo iṣẹ́ tí Open Food Facts ń ṣe jẹ́ ọ̀fẹ́.  
-Inú wa dùn gan-an pé ẹ ti pinnu láti fi àwọn ìwífún nípa ọjà yín kún ìmọ́tótó oúnjẹ, a sì dúpẹ́ lọ́wọ́ yín fún èyí.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Mo fẹ́ dámọ̀ràn àwọn àtúnṣe fún ìpele ọ̀jọ̀gbọ́n, báwo ni mo ṣe lè ṣe bẹ́ẹ̀?
+## Is access to the Pro platform and the import of data free?
 
-Ẹ ṣeun fún ìfẹ́ ọkàn yín láti kópa nínú ìṣípayá oúnjẹ!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ọ̀nà tó dára jùlọ láti pín àwọn èsì ni nípa kíkún [fọ́ọ̀mù yìí](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-O tun le kan si wa lati fun awọn imọran boya nipasẹ [apejọ wa](https://forum.openfoodfacts.org/) tabi nipasẹ [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Darapọ mọ Slack wa ki o si wọ ikanni #awọn olupilẹṣẹ lati kan si wa.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
