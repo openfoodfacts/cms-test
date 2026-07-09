@@ -1,21 +1,21 @@
 ---
-title: "{{< fa teollisuuden koko=2x >}} Tuottajat"
-description: "6 alakategoriaa"
-lang: fi-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: teollisuus
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ruudukko
+  type: grid
   grid-columns: 4
-  sort: "tilata"
-  fields: [ otsikko, kuvaus ]
+  sort: "order"
+  fields: [ title, kuvaus ]
   page-size: 100
 ---
 
-{{< fa "teollisuus" size="3 kertaa" >}}
+{{< fa "industry" size=3x >}}
 
