@@ -1,31 +1,31 @@
 ---
-title: "{{<fa dollar size=2x >}} ఓపెన్ ధరలు"
-description: "3 ప్రశ్నలు"
-lang: en-gb తెలుగు in లో
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: డాలర్
+icon: dollar
 ---
 
-{{< fa "డాలర్" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## నేను ఒక రిటైలర్‌ని మరియు ధరలను నేను అందించాలనుకుంటున్నాను. నేను అది ఎలా చేయగలను?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-మీరు [మా API](https://prices.openfoodfacts.org/api/docs) ఉపయోగించి ధరలను అందించవచ్చు. మీరు స్కేల్ ధరలను అందించాలనుకుంటే, దయచేసి [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) వద్ద మమ్మల్ని సంప్రదించండి.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## మీరు రిటైలర్ల వెబ్‌సైట్‌ల నుండి ధరలను తగ్గించాలని ఆలోచిస్తున్నారా?
+## Do you consider scraping prices from retailers’ websites?
 
-చట్టపరమైన మరియు సాంకేతిక కారణాల దృష్ట్యా, రిటైలర్ల వెబ్‌సైట్‌ల నుండి ధరలను స్క్రాప్ చేయడం ఓపెన్ ప్రైస్‌లకు దోహదపడే చెల్లుబాటు అయ్యే మార్గంగా మేము పరిగణించము. మేము సేకరించే ధరలు ఖచ్చితమైనవి మరియు తాజాగా ఉన్నాయని మేము నిర్ధారించుకోవాలనుకుంటున్నాము మరియు సహకారుల నుండి స్క్రాప్డ్ ధరలను స్వీకరించడం వలన మేము అలా చేయడానికి అనుమతించబడము.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 ఓపెన్ ప్రైసెస్ యొక్క భవిష్యత్తు వెర్షన్‌లో ధర స్క్రాపింగ్ అనేది పరిగణించబడే ఎంపిక, కానీ అది ఓపెన్ ప్రైసెస్ ద్వారానే చేయబడుతుంది, తద్వారా HTML పేజీ ఆధారంగా ధర యొక్క రుజువు మనకు లభిస్తుంది.
 
 ---
 
-## ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ఇలా ఎందుకు చేస్తోంది (ఓపెన్ ప్రైసెస్)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ఆహార వ్యవస్థలను అర్థం చేసుకోవడానికి ధర సమాచారం అత్యంత ముఖ్యమైనది. ఆహార ధరను అర్థం చేసుకోవడంలో మరియు ఆరోగ్యకరమైన ఆహారాన్ని ప్రోత్సహించడంలో ఇది కీలకమైన అంశం. ధరల డేటాను తెరవడం అనేది పరిశోధకులు, జర్నలిస్టులు మరియు పౌరులు భౌగోళికంగా మరియు కాలక్రమేణా ఆహార ధరలు ఎలా మారుతాయో బాగా అర్థం చేసుకోవడానికి ఒక మార్గం.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
