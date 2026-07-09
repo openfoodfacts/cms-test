@@ -1,21 +1,21 @@
 ---
-title: "{{< veľkosť promočnej čiapky fa=2x >}} Výskumníci/Vedci"
-description: "1 podkategória"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: promočná čiapka
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: mriežka
+  type: grid
   grid-columns: 4
-  sort: "objednávka"
-  fields: [ titul, popis ]
+  sort: "order"
+  fields: [ title, popis ]
   page-size: 100
 ---
 
-{{< fa "promočná čiapka" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
