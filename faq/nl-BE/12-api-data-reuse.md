@@ -1,93 +1,93 @@
 ---
-title: "{{< fa wrench size=2x >}} API & data reuse"
-description: "6 questions"
-lang: en-gb
+title: "{{< fa wrench size=2x >}} API & hergebruik van gegevens"
+description: "6 vragen"
+lang: nl-nl
 order: 12
 category-level: 0
-icon: wrench
+icon: moersleutel
 ---
 
-{{< fa "wrench" size=3x >}}
+{{< fa "moersleutel" size=3x >}}
 
-## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
+## Worden er in de documentatie ergens aanbevelingen gedaan over wat een geschikt formaat is voor geüploade foto's?
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Dat kan afhangen van het land, en van het netwerk. Alles boven de 5000 pixels in breedte of hoogte is waarschijnlijk niet erg nuttig. En als je op de een of andere manier zou vaststellen dat het netwerk traag is, dan zou zelfs een afbeelding van 2000 pixels al geweldig zijn (zeker beter dan helemaal geen afbeelding!).
 
 ---
 
-## What about food without barcodes ?
+## En hoe zit het met voedsel zonder barcodes?
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts bevat alleen informatie over verpakte voedingsmiddelen. Voor gemiddelde waarden van groenten en fruit (zoals tomaten of bananen) en andere voedingsmiddelen kunt u in plaats daarvan een van de officiële nationale voedingswaardetabellen raadplegen.
 
-**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+**Let op:** De onderstaande lijst bevat enkele van de belangrijkste nationale voedseldatabases. Als u denkt dat er nog andere databases aan de lijst moeten worden toegevoegd, neem dan contact met ons op via: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
 
-**List of National Food Databases**
-
--
-
-**Australia** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
+**Lijst van nationale voedseldatabases**
 
 -
 
-**Belgium** - NUBEL - Belgian Food Composition Data: [https://www.internubel.be](https://www.internubel.be/)
+**Australië** - FSANZ - NUTTAB 2006: [https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf](https://www.foodstandards.gov.au/media/documents/FSANZ%20Conf%20PostersNUTTAB.pdf)
 
 -
 
-**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
+**België** - NUBEL - Belgische voedingswaardetabel: [https://www.internubel.be](https://www.internubel.be/)
 
 -
 
-**Czech Republic** - Food Composition Database at National Institute of Public Health: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
+**Canada** - FCEN: [https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp](https://aliments-nutrition.canada.ca/cnf-fce/index-fra.jsp)
 
 -
 
-**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+**Tsjechië** - Voedingswaardetabel van het Nationaal Instituut voor Volksgezondheid: [http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp](http://www.chpr.szu.cz/dbdata/foodcomp/nut2001.asp)
 
 -
 
-**Estonia** - Estonian Food Composition Database: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
+**Denemarken** - Deense voedingswaardedatabank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
 
 -
 
-**Finland** - Finnish Food Composition Database - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
+**Estland** - Estlandse voedingswaardetabel: [https://tka.nutridata.ee/en/](https://tka.nutridata.ee/en/)
 
 -
 
-**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+**Finland** - Finse voedingswaardetabel - FINELI: [https://fineli.fi/fineli/en/index](https://fineli.fi/fineli/en/index)
 
 -
 
-**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
-
--  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
+**Frankrijk** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
 
 -
 
-**Netherlands** - Dutch Food Composition Database: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
+**Duitsland** - Souci-Fachmann-Kraut online database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) of de officiële Duitse database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+
+- **Italië** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
 
 -
 
-**Norway** - The Norwegian Food Composition Table 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
+**Nederland** - Nederlandse Voedingswaardetabel: [https://www.rivm.nl/en/dutch-food-composition-database](https://www.rivm.nl/en/dutch-food-composition-database)
 
 -
 
-**Poland** - Food Composition Tables: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
+**Noorwegen** - De Noorse Voedingswaardetabel 2006: [https://www.matvaretabellen.no/?language=en](https://www.matvaretabellen.no/?language=en)
 
 -
 
-**Spain** - Spanish Food Composition Database - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
+**Polen** - Voedingswaardetabellen: [http://www.izz.waw.pl/en/?lang=en](http://www.izz.waw.pl/en/?lang=en)
 
 -
 
-**Switzerland** - Swiss Food Composition Database: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
+**Spanje** - Spaanse voedingswaardetabel - BEDCA: [https://www.bedca.net/bdpub/index.php](https://www.bedca.net/bdpub/index.php)
 
 -
 
-**UK** - Composition of foods integrated dataset (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+**Zwitserland** - Zwitserse voedingswaardetabel: [https://www.naehrwertdaten.ch/de/](https://www.naehrwertdaten.ch/de/)
 
 -
 
-**USA** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
+**VK** - Geïntegreerde dataset voor de samenstelling van voedingsmiddelen (CoFID): [https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid)
+
+-
+
+**VS** - USDA: [https://ndb.nal.usda.gov/](https://ndb.nal.usda.gov/)
 
 ---
 
@@ -111,7 +111,7 @@ You can also consult:
 
 ---
 
-## Are there conditions to use the API?
+## Zijn er voorwaarden verbonden aan het gebruik van de API?
 
 All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
 
@@ -123,15 +123,15 @@ All the documentation about API usage can be found on the [API documentation pag
 
 ---
 
-## How can I access historical data?
+## Hoe krijg ik toegang tot historische gegevens?
 
-Currently, we don't offer historical data dump (JSONL, MongoDB, CSV).
+Momenteel bieden we geen export van historische gegevens aan (JSONL, MongoDB, CSV).
 
 However, for individual products, it's possible to access previous versions of the product data using the API or on the product page using revisions.
 
 Every time a product is updated, a new revision (increasing digit starting from 1) is created.
 
-For example, to get the first revision (=first product version) of this product, use
+Om bijvoorbeeld de eerste revisie (=eerste productversie) van dit product te verkrijgen, gebruikt u...
 
 [https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1](https://world.openfoodfacts.org/product/7623186089763/joghurt-baumnuss-migros?rev=1).
 
