@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} अनुसन्धानकर्ताहरू/विद्वानहरू"
-description: "१ उपश्रेणी"
-lang: एनजीबी
-order: २५
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: स्नातक टोपी
+icon: graduation-cap
 listing:
   contents:
-    - "*.एमडी"
+    - "*.md"
   include:
     category-level: 1
-  type: ग्रिड
+  type: grid
   grid-columns: 4
-  sort: "अर्डर गर्नुहोस्"
-  fields: [ शीर्षक, description ]
-  page-size: १००
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "स्नातक टोपी" size=३x >}}
+{{< fa "graduation-cap" size=3x >}}
 
