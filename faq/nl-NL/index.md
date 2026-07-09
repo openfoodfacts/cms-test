@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
 title: "Veelgestelde vragen - Engels"
-lang: "en-gb"
+lang: "nl-nl"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,7 +10,7 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: rooster
+  type: Rooster
   grid-columns: 4
   sort: "volgorde"
   fields: [ titel, beschrijving ]
