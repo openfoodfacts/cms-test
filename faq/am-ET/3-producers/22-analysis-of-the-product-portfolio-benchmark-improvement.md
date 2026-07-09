@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} የምርት ፖርትፎሊዮ ትንተና (ቤንችማርክ፣ ማሻሻያ...)"
-description: "1 ጥያቄ"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: የቻርት-ባር
+icon: chart-bar
 ---
 
-{{< fa "የቻርት-ባር" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## የምርቶቼን የNutri-Score ለማሻሻል የሪፎርሙሌሽን መመሪያን እንዴት ማግኘት ይቻላል?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-በአምራቾች መድረክ መነሻ ገጽ ላይ ሲሆኑ፦
+When you are on the home page of the Producers Platform:
 
-1. በገጹ አናት ላይ "→ የማሻሻያ እድሎች ያሏቸው ምርቶች ብዛት" የሚለውን አገናኝ ጠቅ ያድርጉ።
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. ምርቶችዎን ለማሻሻል በስርዓታችን የተገኙትን ሁሉንም እድሎች ማማከር ይችላሉ
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. የአንድን እድል አይነት ጠቅ ማድረግ ወደ መሻሻል ወደሚችሉ ምርቶች ዝርዝር ይመራዎታል።
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
