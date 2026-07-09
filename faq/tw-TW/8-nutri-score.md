@@ -1,31 +1,31 @@
 ---
-title: "{{< fa koma bɔ kɛse=2x >}} Nutri-Score"
-description: "3 nsɛmmisa"
-lang: tw-gb
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: koma a ɛbɔ
+icon: heartbeat
 ---
 
-{{< fa "koma a ɛbɔ" size="3x na ɛyɛ" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Sɛ Nutri-Score a ɛwɔ me nneɛma mu no nyɛ nokware a, dɛn na ɛsɛ sɛ meyɛ?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Sɛ ɔhaw bi ba wo Nutri-Score no so a, hwɛ sɛ wo nsɛm no teɛ wɔ “sesa” tab a ɛwɔ wo nneɛma krataa no so no so. Sɛ nsɛm bi ayera anaasɛ ɛnteɛ a, ntwentwɛn wo nan ase sɛ wobɛka yɛn ho asɛm wɔ\*\* producers@openfoodfacts.org\*\*
-
----
-
-## Nsɛm bɛn na ɛsɛ sɛ mede ma sɛnea ɛbɛyɛ a wobebu Nutri-Score no pɛpɛɛpɛ sɛnea ɛbɛyɛ yiye biara?
-
-Wɔde wo ade no aduannuru pon na ɛbɛyɛ Nutri-Score no akontabuo.
-
-Mma wo werɛ mmfi sɛ wode nnuaba, nhabannuru ne nnuaba ɔha biara mu nkyem 10 bɛka wo pon ho, sɛnea ɛbɛyɛ a Nutri-Score a wɔabu ho akontaa no renyɛ nea ɛnteɛ.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Ɛhe na Nutri-Score no fi ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Santé Publique France na ɛhwɛ Nutri-Score no so. Ɛbɔ aduannuru a ɛwɔ pon no mua sɛnea ɛbɛyɛ a obiara betumi ate ase. Botae no ne sɛ wɔbɛma obiara anya aduannuru ho nsɛm a emu da hɔ na ntease wom.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
