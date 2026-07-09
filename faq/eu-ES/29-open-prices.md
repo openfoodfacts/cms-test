@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Irekitze Prezioak"
-description: "3 galdera"
-lang: eu-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dolarra
+icon: dollar
 ---
 
-{{< fa "dolarra" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Txikizkaria naiz eta prezioei buruzko ekarpena egin nahi dut. Nola egin dezaket hori?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Prezioak eman ditzakezu gure APIa erabiliz (https://prices.openfoodfacts.org/api/docs). Eskala handiko prezioak eman nahi badituzu, jarri gurekin harremanetan [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) helbidean.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Txikizkarien webguneetatik prezioak kentzea pentsatzen al duzu?
+## Do you consider scraping prices from retailers’ websites?
 
-Arrazoi legal eta teknikoengatik, ez dugu uste txikizkarien webguneetatik prezioak ateratzea Open Prices-era laguntzeko modu baliozkotzat jotzen. Biltzen ditugun prezioak zehatzak eta eguneratuak direla ziurtatu nahi dugu, eta kolaboratzaileen prezio faltsuak jasotzeak ez digu horretarako aukerarik ematen.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Zergatik egiten ari da hau Open Food Facts (Prezio Irekiak)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Prezioen informazioa oso garrantzitsua da elikadura-sistemak ulertzeko. Elikagaien kostua ulertzeko eta dieta osasungarriagoak sustatzeko funtsezko faktorea da. Irekitze-prezioen datuak ikertzaileei, kazetariei eta herritarrei elikagaien prezioak geografikoki eta denboran nola aldatzen diren hobeto ulertzeko modu bat dira.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
