@@ -1,23 +1,23 @@
 ---
-title: "Label {{< saiz penanda buku fa=2x >}}"
-description: "2 soalan"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: penanda buku
+icon: bookmark
 ---
 
-{{< fa "penanda buku" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Sebagai label, adakah penting untuk membuat akaun?
+## As a label, is it important to create an account ?
 
-Sebagai label, memandangkan anda bukan pengeluar langsung produk, anda tidak perlu membuat akaun pengeluar.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Saya sebuah label, bagaimana saya boleh menyertai projek ini?
+## I am a label, how can I participate in the project?
 
-Sebagai label, perkara yang paling relevan untuk dilakukan adalah menghubungi kami **(producers@openfoodfacts.org)** dan menghantar senarai produk yang memaparkan label anda supaya kami boleh menambahkannya pada helaian produk yang berkaitan.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
