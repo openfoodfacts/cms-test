@@ -1,21 +1,21 @@
 ---
-title: "{{< stærð iðnaðarins = 2x >}} Framleiðendur"
-description: "6 undirflokkar"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: iðnaður
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: rist
+  type: grid
   grid-columns: 4
-  sort: "pöntun"
-  fields: [ titill, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "iðnaður" size=3x >}}
+{{< fa "industry" size=3x >}}
 
