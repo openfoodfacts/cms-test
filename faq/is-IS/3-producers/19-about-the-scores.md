@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Um stigin"
-description: "3 spurningar"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
-order: 19 ára
+order: 19
 category-level: 1
-icon: línurit
+icon: chart-line
 ---
 
-{{< fa "línurit" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Hver ber ábyrgð á að reikna út fótspor og/eða stig?
+## Who is responsible for calculating the footprint and/or score?
 
-Næringarstigið, NOVA hópurinn og viststigið eru reiknuð út frá gögnum sem eru til staðar í Open Food Facts. Reiknirit okkar fylgja stranglega opinberum aðferðafræði þessara einkunna.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Hver er munurinn á vistkerfisstiginu, næringarstiginu og NOVA-hópnum?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Tilgangur þessara vísa er að veita neytendum auðskiljanlegar upplýsingar.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
 
 The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
 
-Þessir þrír punktar fjalla ekki um sömu þætti. Það er því ekki hægt að bera þau saman.
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
 
 ---
 
-## Er mögulegt að líkja eftir umhverfis- eða næringareinkunn vörunnar minnar?
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
 
-Með því að skrá þig á framleiðendapallinn og hlaða inn gögnum um vörurnar þínar geturðu reiknað út næringar- og umhverfisstig sem tengjast vörunum þínum.
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Hins vegar verður þú að eyða því þegar hermuninni hefur verið lokið svo að það verði ekki flutt út á almenna vettvanginn með þeim vörum sem þegar eru markaðssettar í þínu úrvali.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Fyrir frekari upplýsingar hvetjum við þig til að hlaða niður [notendahandbók](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eða skoða [myndbönd með kennslumyndböndum](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
