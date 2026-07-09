@@ -1,23 +1,23 @@
 ---
-title: "{{< fa закладка калӑпӑшӗ=2x >}} Ярлыксем"
-description: "2 ыйту"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: закладка
+icon: bookmark
 ---
 
-{{< fa "закладка" size=3х >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ярлык пек, аккаунт йӗркелесси пӗлтерӗшлӗ-и?
+## As a label, is it important to create an account ?
 
-Этикетка пулнӑ май, эсир продукцие тӳрремӗнех туса кӑларакан мар, ҫавӑнпа та сире туса кӑлараканӑн аккаунтне йӗркелеме кирлӗ мар.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Эпӗ — лейбл, проекта мӗнле хутшӑнма пулать?
+## I am a label, how can I participate in the project?
 
-Этикетка енчен илсен, чи кирли вӑл — пирӗнпе **(producers@openfoodfacts.org)** ҫыхӑнасси тата сирӗн этикетка кӑтартнӑ продуктсен списокне ярса парасси, эпир вӗсене ҫыхӑннӑ продукт лисчӗсем ҫине хушма пултаратпӑр.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
