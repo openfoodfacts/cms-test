@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kuba izmērs=2x >}} Iepakojums"
-description: "3 jautājumi"
-lang: lv-lv
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: kubs
+icon: cube
 ---
 
-{{< fa "kubs" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Kā es varu pievienot savus iepakojuma datus vietnei Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Kā ražotājam visefektīvākais veids, kā pievienot iepakojuma datus saviem produktiem, ir aizpildīt šo [Excel izklājlapu](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ar nepieciešamo informāciju no kolonnas "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Katrai iepakojuma sastāvdaļai jāievada:
+For each packaging component, you will need to enter:
 
-- Vienību skaits (piemēram, **4** jogurta bundžiņas)
+- The number of units (ex: **4** pots of yogurts)
 
-- Forma (piemēram: **katls, vāks, kaste utt.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materiāls (piemēram: **PET, papīrs, stikls utt.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Pārstrādes instrukcija (piemēram: **pārstrādāt, izmest utt.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Vienas tukšas vienības svars (gramos)
+- The weight of one empty unit (in gr)
 
-- Produkta neto daudzums vienā vienībā
+- The net quantity of product contained per unit
 
-Šo izklājlapu pēc tam var importēt mūsu platformā, kas paredzēta profesionāļiem.
-
----
-
-## Kas ir projekts “Cīņa ar pārtikas iepakojumu”?
-
-Projekts "Pārtikas iepakojuma problēmas risināšana" ietver detalizētas informācijas vākšanu par visvairāk patērēto produktu iepakojumu (forma, materiāls, šķirošanas instrukcijas, svars, ietilpība).
-
-Balstoties uz līdzdalīgas zinātnes pieeju, tas būs atkarīgs gan no uzņēmumu piekrišanas dalīties ar saviem iepakojuma datiem un spēlēt pārredzamības spēli, gan no iedzīvotāju piekrišanas apkopot informāciju par produktiem. Šī informācija būs brīvi atkārtoti izmantojama ("atvērtie dati").
-
-**Plašāka informācija:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Vai es joprojām varu pievienot savus iepakojuma datus pat pēc projekta “Cīnoties ar pārtikas iepakojumu” beigām?
+## What is the Tackling Food Packaging project?
 
-Pat pēc projekta beigām ir iespējams pievienot iepakojuma datus, jo iepakojuma lauki paliks mūsu tīmekļa vietnē.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
