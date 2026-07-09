@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Бүтээгдэхүүний багцын шинжилгээ (жишиг үзүүлэлт, сайжруулалт...)"
-description: "1 асуулт"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: графикийн мөр
+icon: chart-bar
 ---
 
-{{< fa "графикийн мөр" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Бүтээгдэхүүнийхээ Nutri-Score-г сайжруулахын тулд шинэчлэлийн зөвлөмжийг хэрхэн авах вэ?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Та Producers Platform-ын нүүр хуудсан дээр байх үед:
+When you are on the home page of the Producers Platform:
 
-1. хуудасны дээд хэсэгт байрлах "→ Сайжруулах боломжтой бүтээгдэхүүний тоо" холбоос дээр дарна уу.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Та манай системээр илэрсэн бүтээгдэхүүнээ сайжруулах бүх боломжуудтай танилцаж болно
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Боломжийн төрөл дээр дарснаар таныг сайжруулах шаардлагатай бүтээгдэхүүний жагсаалт руу хөтлөх болно.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
