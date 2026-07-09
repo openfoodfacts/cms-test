@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
 description: "5 questions"
-lang: es-gb
+lang: en-gb
 order: 5
 category-level: 0
-icon: utilizaire-mai
+icon: user-plus
 ---
 
-{{< fa "utilizaire-mai" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Qu'es la metodologia Eco-Score?
+## What is the Eco-Score methodology?
 
-L'Eco-Score es basat sul calcul de l'analisi del cicle de vida producha per ADEME (l'agéncia de transicion ecologica) e INRAE (l'institut nacional de recèrca agronomica). Aperaquí quinze compausants son calculats e ligats per crear la nòta PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-A aquesta puntuacion PEF s'apondon de bonus e de maluses (mòde de produccion, origina de
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingredients, espècias en perilh d'extincion, embalatge) per tal de calcular l'Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Per mai d'informacions, consultatz la pagina de resumit [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) sus Open Food Facts e tanben sul sit web del consòrci Eco-Score. (Presentacion Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Quin tipe d'informacion deu èsser donada per que l'Eco-Score siá calculat amb la mai precision possible?
-
-Per que l'Eco-Score siá calculat exactament, lo percentatge de cada ingredient e son origina devon èsser especificats.
-
-S'aquesta informacion es pas ja especificada dins la lista dels ingredients, podètz apondre una colomna per la mencionar, amb lo format seguent :
-
-Farina de blat 16% (França)
-
-Chocolat 8% (Còsta d'Evòri, Eqüator)
-
-Avèm besonh tanben dels compausants de l'embalatge jos la forma de : 1 film de plastic per getar, 1 boita de carton FSC per reciclar, 6 botelhas de plastic transparent PET de 1,5 L per reciclar, 6 taps de plastic de color opaca, 12 pòts de plastic 33 cl d'alumini.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Cossí se combinan las valors dels 15 indicators?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Per melhor comprene lo sistèma PEF, podètz legir : explicacion de la nòta PEF sul site metodologic Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## L'aspècte local concernís lo luòc de fabricacion o lo luòc d'origina de las matèrias primièras?
+## How are the values ​​of the 15 indicators combined?
 
-**L'aspècte local pertòca l'origina de las matèrias primièras. Es per aquò qu'es important d'introduire lors percentatges e tanben lors originas dins la lista dels ingredients del produch o dins lo camp dedicat a las originas dels ingredients.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Cossí dintrar las originas dels ingredients per l'eco-particion?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Se volètz partejar l'informacion sus l'origina de las matèrias primièras sus vòstres fuèlhs, vos convidam a las inclure dins la lista dels ingredients.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
