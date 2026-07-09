@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Adatok letöltése"
-description: "1 kérdés"
-lang: hu-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: felhőalapú letöltés
+icon: cloud-download
 ---
 
-{{< fa "felhőalapú letöltés" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Hol lehet adatokat szerezni egy adott országról?
+## Where to get the data for a specific country?
 
-Jelenleg nincsenek kifejezetten országokba irányuló exportok.
+Currently, there are no exports dedicated to specific countries.
 
-Különböző exportjainkat számos módon használhatjuk, különféle eszközökkel kombinálva, hogy egy adott országhoz kapcsolódó adatokat válasszunk ki.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Megnézhetsz [néhány technikát a wikinken](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
