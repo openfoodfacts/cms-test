@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Ricercatori/Studiosi"
-description: "1 sottocategoria"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: cappello da laurea
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: griglia
+  type: grid
   grid-columns: 4
-  sort: "ordine"
-  fields: [ titolo, descrizione ]
+  sort: "order"
+  fields: [ title, descrizione ]
   page-size: 100
 ---
 
-{{< fa "cappello da laurea" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
