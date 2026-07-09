@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} 关于开放食品事实"
-description: "4个问题"
-lang: 英语-英国
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: 信息圈
+icon: info-circle
 ---
 
-{{< fa "信息圈" size=3倍 >}}
+{{< fa "info-circle" size=3x >}}
 
-## 应该分享哪些类型的信息？
+## What type of information should be shared?
 
-欢迎您提供任何信息，从营养信息到包装信息。
+Any information you have is welcome, from nutritional information to packaging information.
 
-这样一来，就可以建立一个完整的档案，精确地计算所有分数，并且总体上实现消费者所欣赏的透明度。
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-不过，我们建议您优先考虑以下几个方面：
+However we do recommend you prioritize the following fields:
 
-- 营养信息
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- 产品类别（例如饮料、奶酪、酸奶等）
-
-- 产品名称
-
-- 过敏原
-
-- 至于配料，此项并非必填，但建议填写，以便获得最佳使用效果并确定评分。
-
-→ 如需了解更多详情，欢迎下载我们的[用户指南](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)和/或观看我们的[视频教程](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## 我可以下载Open Food Facts的数据吗？
+## Can I download Open Food Facts data?
 
-您可以从 Open Food Facts 下载所有可用数据。 请注意，这需要大量的磁盘空间，如果您想使用电子表格，则需要一台性能强大的计算机，否则需要掌握 R 或 Python 等编程语言。
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-借助高级搜索功能，您还可以下载部分数据（例如您的品牌数据）。
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ 如需了解更多详情，欢迎下载我们的[用户指南](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)和/或观看我们的[视频教程](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## 访问专业版平台和导入数据是免费的吗？
-
-当然，而且会永远如此。Open Food Facts提供的所有服务均免费。  
-我们非常高兴您决定将您的产品数据贡献给食品透明度组织，对此我们深表感谢。
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## 我想对专业平台提出一些改进建议，我该如何做呢？
+## Is access to the Pro platform and the import of data free?
 
-感谢您愿意参与食品透明化进程！
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-分享反馈的最佳方式是填写[此表格](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)。
+---
 
-您也可以通过[我们的论坛](https://forum.openfoodfacts.org/)或[Slack](https://openfoodfacts.slack.com/ssb/redirect)联系我们提出建议。
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-加入我们的 Slack 频道，进入 #producers 频道即可与我们联系。
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
