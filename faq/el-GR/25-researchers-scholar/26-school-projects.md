@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Σχολικά έργα"
-description: "2 ερωτήσεις"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: αρχείο-o
+icon: file-o
 ---
 
-{{< fa "αρχείο-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Έχω μια σχολική εργασία να κάνω, θέλω να χρησιμοποιήσω τα δεδομένα του Open Food Facts, μπορώ να το κάνω;
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Το Open Food Facts είναι μια ανοιχτή βάση δεδομένων, ένα ανοιχτό έργο που λειτουργεί με άδεια ODbL, επομένως, εφόσον συμφωνείτε με τις απαιτήσεις της άδειας ODbL, μπορείτε να επαναχρησιμοποιήσετε τα δεδομένα μας για τα έργα σας :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Πώς μπορώ να έχω πρόσβαση/συλλογή δεδομένων για τα έργα μου;
+## How can I access/collect data for my projects ?
 
-Στην κύρια σελίδα του Open Food Facts, στην επάνω αριστερή γωνία της οθόνης, υπάρχει ένα μενού κύλισης. Στο κάτω μέρος, θα βρείτε την επιλογή «σύνθετη αναζήτηση», στην οποία μπορείτε να κάνετε κλικ. Στη συνέχεια, εναπόκειται σε εσάς να προσδιορίσετε ποια κριτήρια είναι τα πιο σχετικά με το/τα έργο/α σας. Μόλις επιλέξετε, θα μπορείτε να κατεβάσετε τα αποτελέσματα που έχετε λάβει κάνοντας κύλιση προς τα κάτω στο κάτω μέρος της σελίδας και κάνοντας κλικ στην επιλογή «Λήψη αποτελεσμάτων».
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
