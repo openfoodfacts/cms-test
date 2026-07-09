@@ -1,17 +1,17 @@
 ---
-title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
-description: "3 questions"
-lang: en-gb
+title: "{{< fa globe size=2x >}} Verbetering van de Open Food Facts in mijn taal/land"
+description: "3 vragen"
+lang: nl-nl
 order: 15
 category-level: 0
-icon: globe
+icon: wereldbol
 ---
 
-{{< fa "globe" size=3x >}}
+{{< fa "wereldbol" size=3x >}}
 
-## I would like to add a new logo for labels
+## Ik wil graag een nieuw logo voor etiketten toevoegen.
 
-Here is the process:
+Dit is de procedure:
 
 - find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
@@ -20,21 +20,21 @@ Here is the process:
 label on the packaging of a product, there is no need to ask permission.
 ----------------------------------------------------------------------------------------
 
-**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
+**Geef het bestand de volgende naam:**: naam-van-het-label.[breedte]x90.png, waarbij breedte de breedte is van het logo wanneer het 90 pixels hoog is. De bestandsnamen moeten zonder accenten zijn, in kleine letters en met een "-" in plaats van spaties.
 
 - then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## How do I translate Open Food Facts to my language ?
+## Hoe vertaal ik Open Food Facts naar mijn taal?
 
-Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+Ga naar [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
 
 ---
 
-## How do I translate this FAQ to my language ?
+## Hoe vertaal ik deze FAQ naar mijn taal?
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Neem contact op met contact@openfoodfacts.org voor bewerkingsrechten voor de kennisbank.
 
 ---
 
