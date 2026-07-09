@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Često postavljana pitanja - engleski"
-lang: "hr-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.doktor medicine"
+    - "*.md"
     - "*/index.md"
   include:
     category-level: 0
-  type: mreža
+  type: grid
   grid-columns: 4
-  sort: "redoslijed"
-  fields: [ titula, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
