@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kubo grandeco=2x >}} Pakado"
-description: "3 demandoj"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kubo
+icon: cube
 ---
 
-{{< fa "kubo" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Kiel mi povas aldoni miajn pakajn datumojn al Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Kiel produktanto, la plej efika maniero aldoni pakajn datumojn al viaj produktoj estas plenigi en ĉi tiu [excel-kalkultabelo](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) la necesajn informojn, el kolumno "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Por ĉiu pakaĵa komponanto, vi devos enigi:
+For each packaging component, you will need to enter:
 
-- La nombro da unuoj (ekz: **4** potoj da jogurtoj)
+- The number of units (ex: **4** pots of yogurts)
 
-- La formo (ekz: **poto, kovrilo, skatolo, ktp**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- La materialo (ekz: **PET, papero, vitro, ktp**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- La instrukcio pri reciklado (ekz: **recikli, forĵeti, ktp**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- La pezo de unu malplena unuo (en gramoj)
+- The weight of one empty unit (in gr)
 
-- La neta kvanto de produkto enhavita po unuo
+- The net quantity of product contained per unit
 
-Ĉi tiu kalkultabelo povas esti importita en nian platformon dediĉitan al profesiuloj.
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Kio estas la projekto Pritrakti Manĝaĵan Enpakadon?
+## What is the Tackling Food Packaging project?
 
-La projekto "Traktado de Manĝaĵpakado" konsistas el kolektado de detalaj informoj pri la pakado de la plej konsumataj produktoj (formo, materialo, ordiginstrukcioj, pezo, kapacito).
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
 
-Bazita sur partoprena scienca aliro, ĝi dependos kaj de kompanioj konsentantaj kunhavigi siajn pakajn datumojn kaj ludi la ludon de travidebleco, kaj de civitanoj permesantaj la kolektadon de informoj pri produktoj. Ĉi tiu informo estos libere reuzebla ("malfermaj datumoj").
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
 
 **For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
 
 ---
 
-## Eĉ post la fino de la projekto "Tackling Food Packaging" (Pritrakti Manĝaĵan Enpakadon), ĉu mi ankoraŭ povas aldoni miajn pakajn datumojn?
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
 
-Eĉ post la fino de la projekto eblas aldoni pakajn datumojn, ĉar la pakaĵaj kampoj restos en nia retejo.
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
