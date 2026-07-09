@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - ଇଂରାଜୀ"
-lang: "ଇଂ-ଜିବି"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.ଏମ୍ଡି"
-    - "*/ଇଣ୍ଡେକ୍ସ.ଏମ୍ଡି"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: ଗ୍ରିଡ୍
+  type: grid
   grid-columns: 4
-  sort: "କ୍ରମ"
-  fields: [ ଶୀର୍ଷକ, ଵର୍ଣ୍ଣନା ]
-  page-size: ୧୦୦
+  sort: "order"
+  fields: [ title, ଵର୍ଣ୍ଣନା ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
