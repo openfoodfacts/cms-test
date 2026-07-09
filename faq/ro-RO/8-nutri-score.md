@@ -1,31 +1,31 @@
 ---
-title: "{{< dimensiunea inimii fa=2x >}} Scor Nutrițional"
-description: "3 întrebări"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: bătaia inimii
+icon: heartbeat
 ---
 
-{{< fa "bătaia inimii" size="de 3 ori" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Ce ar trebui să fac dacă Nutri-Score-ul produselor mele nu este corect?
+## What should I do if the Nutri-Score of my products is not correct?
 
-În cazul unei probleme cu Nutri-Score-ul dvs., verificați dacă informațiile sunt corecte în secțiunea „modificare” din fișa produsului. Dacă lipsesc sau sunt incorecte informații, nu ezitați să ne contactați la adresa producers@openfoodfacts.org.
-
----
-
-## Ce tip de informații ar trebui să furnizez pentru ca Nutri-Score-ul să fie calculat cât mai precis posibil?
-
-Calculul Nutri-Score-ului se va face cu ajutorul tabelului nutrițional al produsului dumneavoastră.
-
-Nu uita să incluzi în tabel procentul de fructe, legume și nuci, astfel încât Nutri-Score-ul calculat să nu fie incorect.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## De unde provine Nutri-Score-ul?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score este gestionat de Santé Publique France. Rezumă tabelul cu valori nutriționale, astfel încât toată lumea să îl poată înțelege. Scopul este de a oferi acces la informații nutriționale clare și ușor de înțeles pentru toată lumea.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
