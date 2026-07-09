@@ -1,17 +1,17 @@
 ---
-title: "{{< fa nhoma kɛse=2x >}} Amanneɛbɔ Engine"
-description: "1 asɛmmisa"
-lang: tw-gb
-order: 31. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: nwomasua
+icon: book
 ---
 
-{{< fa "nwomasua" size="3x na ɛyɛ" >}}
+{{< fa "book" size=3x >}}
 
-## Dɛn ne Folksonomy Engine no ?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine yɛ nhyehyɛe a ɛma wɔn a wɔde di dwuma no tumi de nkyerɛwde a wɔahyɛ da ayɛ, anaa agyapade, ka nnuan ho nneɛma ho wɔ Open Food Facts, wiase no mu nnuan a wɔabue ho nsɛm a wɔakora so kɛse no mu. Eyi ma nkurɔfo kyekyɛ aduan mu na wɔkyerɛkyerɛ mu wɔ akwan foforo so, sen nneɛma a wɔadi kan akyerɛkyerɛ mu dedaw no.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
