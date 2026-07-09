@@ -1,49 +1,49 @@
 ---
-title: "{{< fa Kubusgréisst=2x >}} Verpackung"
-description: "3 Froen"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
-order: 24 Joer
+order: 24
 category-level: 1
-icon: Kubus
+icon: cube
 ---
 
-{{< fa "Kubus" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Wéi kann ech meng Verpackungsdaten an Open Food Facts bäifügen?
+## How can I add my packaging data to Open Food Facts?
 
-Als Produzent ass dee effizientesten Wee fir Verpackungsdaten zu Äre Produkter bäizefügen, andeems Dir an dëser [Excel-Tabell](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) déi néideg Informatiounen aus der Kolonn "AU" ausfëllt.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Fir all Verpackungskomponent musst Dir aginn:
+For each packaging component, you will need to enter:
 
-- D'Zuel vun den Eenheeten (z.B.: **4** Dëppen Joghurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- D'Form (z.B.: **Dëppen, Deckel, Këscht, asw.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- D'Material (z.B.: **PET, Pabeier, Glas, etc.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- D'Recyclinginstruktioun (z.B.: **recycléieren, ewechgeheien, etc.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- D'Gewiicht vun enger eideler Eenheet (a Gramm)
+- The weight of one empty unit (in gr)
 
-- D'Nettoquantitéit vum Produkt pro Eenheet
+- The net quantity of product contained per unit
 
-Dës Tabelle kann dann an eis Plattform importéiert ginn, déi fir Professioneller geduecht ass.
-
----
-
-## Wat ass de Projet Tackling Food Packaging?
-
-De Projet "Tackling Food Packaging" besteet doran, detailléiert Informatiounen iwwer d'Verpakung vun de meescht konsuméierte Produkter ze sammelen (Form, Material, Sortierinstruktiounen, Gewiicht, Kapazitéit).
-
-Baséierend op engem partizipative Wëssenschaftsusaz, wäert et souwuel dovun ofhänken, datt d'Entreprisen averstane sinn, hir Verpackungsdaten ze deelen an d'Spill vun der Transparenz ze spillen, wéi och dovun, datt d'Bierger d'Sammlung vun Informatiounen iwwer Produkter erlaben. Dës Informatioune kënnen fräi nei benotzt ginn ("Open Data").
-
-**Fir méi Informatiounen:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Kann ech meng Verpackungsdaten och nom Enn vum Projet "Tackling Food Packaging" derbäisetzen?
+## What is the Tackling Food Packaging project?
 
-Och nom Enn vum Projet ass et méiglech Verpackungsdaten derbäizesetzen, well d'Verpackungsfelder op eiser Websäit bleiwen.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
