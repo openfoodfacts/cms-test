@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / ආහාර සැකසීම"
-description: "1 ප්‍රශ්නයක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: කුප්පිය
+icon: flask
 ---
 
-{{< fa "කුප්පිය" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA යනු කුමක්ද?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
