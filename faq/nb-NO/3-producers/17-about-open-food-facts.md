@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Om Open Food Facts"
-description: "4 spørsmål"
-lang: no-no
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
 icon: info-circle
 ---
 
-{{< fa "info-circle" size="3 x" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Hvilken type informasjon skal deles?
+## What type of information should be shared?
 
-All informasjon du har om er velkommen, fra ernæringsinformasjon til emballasjeinformasjon.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Det gjør det mulig å etablere en komplett fil, å beregne alle poengene med presisjon, og som regel en gjennomsiktighet verdsatt av forbrukere.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Vi anbefaler imidlertid at du prioriterer følgende felt:
+However we do recommend you prioritize the following fields:
 
-- Informasjon om næringstilførsel
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Produktkategori (f.eks. drikke, ost, yoghurt, osv.)
-
-- Navnet på produktet
-
-- Allergi
-
-- ingrediensene i dette feltet er ikke obligatoriske, men anbefales for optimal bruk og bestemmelse av poengsummene
-
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kan jeg laste ned Open Food Facts data?
+## Can I download Open Food Facts data?
 
-Du kan laste ned alle tilgjengelige data på Open Food Facts. Dette krever mange diskplasser, en kraftig datamaskin hvis du vil bruke et regneark eller kunnskaper om R eller Python ellers.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Du kan også laste ned et delsett av dataene (for eksempel varemerket) takket være det avanserte søket.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Har du tilgang til Pro-plattformen og import av datatillate?
-
-Absolutt og den vil være til evig tid.Alle tjenester som tilbys av Open Food Facts er gratis.  
-Vi er svært glad for at du har valgt å bidra med dine produktdata til matåpenhet og vi takker for dette.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Jeg vil foreslå forbedringer av den profesjonelle plattformen, hvordan kan jeg gjøre det?
+## Is access to the Pro platform and the import of data free?
 
-Takk for din vilje til å delta i åpenhet om maten!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Den beste måten å dele tilbakemelding på er å fylle ut [dette skjemaet] (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Du kan også kontakte oss for å komme med forslag via [vårt forum](https://forum.openfoodfacts.org/) eller via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Bli med i Slack og skriv inn kanalen #produsentene for å komme i kontakt med oss.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
