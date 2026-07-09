@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Сав баглаа боодол"
-description: "3 асуулт"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: куб
+icon: cube
 ---
 
-{{< fa "куб" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Би сав баглаа боодлын мэдээллээ Open Food Facts-д хэрхэн нэмэх вэ?
+## How can I add my packaging data to Open Food Facts?
 
-Үйлдвэрлэгчийн хувьд бүтээгдэхүүндээ сав баглаа боодлын мэдээлэл нэмэх хамгийн үр дүнтэй арга бол "AU" баганад шаардлагатай мэдээллийг [excel хүснэгт](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) бөглөх явдал юм.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Сав баглаа боодлын бүрэлдэхүүн хэсэг бүрийн хувьд та дараах зүйлийг оруулах шаардлагатай болно.
+For each packaging component, you will need to enter:
 
-- Нэгжийн тоо (жишээ нь: **4** савтай тараг)
+- The number of units (ex: **4** pots of yogurts)
 
-- Хэлбэр (жишээ нь: **сав, таг, хайрцаг гэх мэт**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Материал (жишээ нь: **ПЭТ, цаас, шил гэх мэт**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Дахин боловсруулах заавар (жишээ нь: **дахин боловсруулах, хаях гэх мэт**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Нэг хоосон нэгжийн жин (гр-ээр)
+- The weight of one empty unit (in gr)
 
-- Нэгж тутамд агуулагдаж буй бүтээгдэхүүний цэвэр хэмжээ
+- The net quantity of product contained per unit
 
-Энэ хүснэгтийг дараа нь мэргэжлийн хүмүүст зориулсан манай платформ руу импортлох боломжтой.
-
----
-
-## Хүнсний сав баглаа боодлын асуудлыг шийдвэрлэх төсөл гэж юу вэ?
-
-"Хүнсний сав баглаа боодлын асуудлыг шийдвэрлэх" төсөл нь хамгийн их хэрэглэдэг бүтээгдэхүүний сав баглаа боодлын талаарх дэлгэрэнгүй мэдээлэл (хэлбэр, материал, ялгах заавар, жин, багтаамж) цуглуулахаас бүрдэнэ.
-
-Оролцооны шинжлэх ухааны арга барилд үндэслэн энэ нь компаниуд сав баглаа боодлын мэдээллээ хуваалцах, ил тод байдлын тоглоом тоглохыг зөвшөөрөх, мөн иргэд бүтээгдэхүүний талаарх мэдээлэл цуглуулахыг зөвшөөрөхөд тулгуурлах болно. Энэ мэдээллийг чөлөөтэй дахин ашиглах боломжтой ("нээлттэй өгөгдөл").
-
-**Дэлгэрэнгүй мэдээллийг:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Хүнсний сав баглаа боодлын асуудлыг шийдвэрлэх төсөл дууссаны дараа ч би сав баглаа боодлын мэдээллээ нэмж болох уу?
+## What is the Tackling Food Packaging project?
 
-Төсөл дууссаны дараа ч гэсэн сав баглаа боодлын талбарууд манай вэбсайт дээр үлдэх тул сав баглаа боодлын мэдээллийг нэмэх боломжтой.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
