@@ -1,31 +1,31 @@
 ---
-title: "{{< fa ڊالر سائيز=2x >}} کليل قيمتون"
-description: "3 سوال"
-lang: اين جي بي
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: ڊالر
+icon: dollar
 ---
 
-{{< fa "ڊالر" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## مان هڪ پرچون ڪندڙ آهيان ۽ قيمتون ڏيڻ چاهيان ٿو. مان اهو ڪيئن ڪري سگهان ٿو؟
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-توهان [اسان جي API](https://prices.openfoodfacts.org/api/docs) استعمال ڪندي قيمتون ڏئي سگهو ٿا. جيڪڏهن توهان وڏي پيماني تي قيمتون ڏيڻ چاهيو ٿا، مهرباني ڪري اسان سان رابطو ڪريو [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## ڇا توهان پرچون ڪندڙن جي ويب سائيٽن تان قيمتون ڪٽڻ تي غور ڪريو ٿا؟
+## Do you consider scraping prices from retailers’ websites?
 
-قانوني ۽ ٽيڪنيڪل سببن جي ڪري، اسان پرچون ڪندڙن جي ويب سائيٽن تان قيمتون ختم ڪرڻ کي اوپن پرائسز ۾ حصو وٺڻ جو هڪ صحيح طريقو نه ٿا سمجهون. اسان پڪ ڪرڻ چاهيون ٿا ته اسان جيڪي قيمتون گڏ ڪريون ٿا اهي صحيح ۽ تازه ترين آهن، ۽ حصو وٺندڙن کان اسڪريپ ٿيل قيمتون وصول ڪرڻ اسان کي اهو ڪرڻ جي اجازت نٿو ڏئي.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## اوپن فوڊ فيڪٽس اهو ڇو ڪري رهيو آهي (اوپن پرائسز)؟
+## Why is Open Food Facts doing this (Open Prices)?
 
-کاڌي جي نظام کي سمجهڻ لاءِ قيمت جي معلومات تمام گهڻي اهميت رکي ٿي. اهو کاڌي جي قيمت کي سمجهڻ ۽ صحت مند غذا کي فروغ ڏيڻ ۾ هڪ اهم عنصر آهي. قيمت جي ڊيٽا کي کولڻ محققن، صحافين ۽ شهرين لاءِ بهتر سمجهڻ جو هڪ طريقو آهي ته ڪيئن کاڌي جون قيمتون جاگرافيائي ۽ وقت جي لحاظ کان مختلف ٿين ٿيون.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
