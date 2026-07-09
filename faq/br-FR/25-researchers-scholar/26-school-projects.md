@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Raktresoù skol"
-description: "2 c'houlenn"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: restr-o
+icon: file-o
 ---
 
-{{< fa "restr-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ur raktres skol am eus da ober, fellout a ra din implijout roadennoù Open Food Facts, gallout a ran ober kement-se ?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, zo un diaz roadennoù digor, ur raktres digor hag a zo o vont en-dro dindan un aotre ODbL, setu perak, keit ha ma'z oc'h a-du gant goulennoù an aotre ODbL, e c'hallit adimplijout hor roadennoù evit ho raktresoù :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Penaos e c'hellan mont e darempred/dastum roadennoù evit ma raktresoù ?
+## How can I access/collect data for my projects ?
 
-War bajenn bennañ Open Food Facts, e korn kleiz uhelañ ar skramm, ez eus ur meni riklañ. E traoñ e kavoc'h an dibab "klask araokaet", a c'hallit klikañ warnañ. Deoc'h-c'hwi eo neuze da zivizout peseurt dezverkoù a zo ar re bouezusañ evit ho raktres(où). Ur wech dibabet e c'hallit pellgargañ an disoc'hoù bet tapet en ur glikañ war-zu an traoñ e traoñ ar bajenn ha klikañ war “Pellgargañ an disoc'hoù”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
