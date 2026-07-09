@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} עפענונג פרייזן"
-description: "3 פֿראַגעס"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: דאָלאַר
+icon: dollar
 ---
 
-{{< fa "דאָלאַר" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## איך בין אַ פארקויפער און איך וויל ביישטייערן צו די פרייזן. ווי קען איך דאָס טאָן?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-איר קענט ביישטייערן פרייזן דורך ניצן [אונדזער API](https://prices.openfoodfacts.org/api/docs). אויב איר ווילט ביישטייערן צו פרייזן אין גרויסן פארנעם, ביטע קאנטאקטירט אונז ביי [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## טראַכט איר וועגן צו קראַצן פּרייזן פֿון די וועבזײַטן פֿון רעטיילערס?
+## Do you consider scraping prices from retailers’ websites?
 
-צוליב לעגאלע און טעכנישע סיבות, באַטראַכטן מיר נישט דאָס אַרויסנעמען פּרייזן פֿון די וועבזײַטן פֿון פֿאַרקויפֿער ווי אַ גילטיקער וועג צו בײַשטײַערן צו די "אָפֿענע פּרייזן". מיר ווילן זיכער מאַכן אַז די פּרייזן וואָס מיר זאַמלען זענען פּינקטלעך און אַרויף-צו-דאַטע, און באַקומען אָפּגעקראַצטע פּרייזן פֿון מיטאַרבעטער ערלויבט אונדז נישט דאָס צו טאָן.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## פארוואס טוט Open Food Facts דאָס (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-פרייז אינפֿאָרמאַציע איז פֿון העכסטער וויכטיקייט צו פֿאַרשטיין עסן סיסטעמען. דאָס איז אַ שליסל־פאַקטאָר אין פֿאַרשטיין די קאָסטן פֿון עסן און צו העכערן געזונטערע דייעטן. עפענען פרייז דאטן איז א וועג צו מאכן עס גרינגער פאר פארשער, זשורנאליסטן און בירגער צו האבן א בעסער פארשטאנד פון ווי עסן פרייזן וועריירן געאגראפיש און אין צייט.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
