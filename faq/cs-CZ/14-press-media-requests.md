@@ -1,17 +1,17 @@
 ---
-title: "{{< fa newspaper size=2x >}} Press & Media Requests"
-description: "1 question"
-lang: en-gb
+title: "{{< fa newspaper size=2x >}} Žádosti o tisk a média"
+description: "1 otázka"
+lang: cs
 order: 14
 category-level: 0
-icon: newspaper
+icon: noviny
 ---
 
-{{< fa "newspaper" size=3x >}}
+{{< fa "noviny" size=3× >}}
 
-## How can I get press visuals on Open Food Facts?
+## Jak mohu získat vizuální materiály pro tisk na Open Food Facts?
 
-Please contact : presse@openfoodfacts.org
+Kontaktujte prosím: presse@openfoodfacts.org
 [https://blog.openfoodfacts.org/en/press-release-new-mobile-app](https://blog.openfoodfacts.org/en/press-release-new-mobile-app)
 
 ---
