@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} פאַרוואַלטן מײַנע פּראָדוקטן"
-description: "16 פֿראַגעס"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: קעסטל
+icon: box
 ---
 
-{{< fa "קעסטל" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## וואָס גאַראַנטירט די קוואַליטעט פון די דאַטן אין אָפן פוד פאַקס?
+## What guarantees the quality of the data in Open Food Facts?
 
-**כדי קעסיידער צו פֿאַרבעסערן די קוואַליטעט פֿון די דאַטן, פֿאַרלאָזן מיר זיך אויף 4 זײַלן:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. די קהילה לייגט כסדר צו דאַטן און פאָטאָס און איז אַן עכטע פּאַטראָל פון רעצענזענטן.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. מיר האָבן באַשטימט לאָגיק כּללים צו ידענטיפיצירן ערראָרס אויף די פּראָדוקט שיץ.למשל: אויב די סומע פון די וואָג פון די ינגרידיאַנץ איז גרעסער ווי די גאַנצע וואָג פון די פּראָדוקט, איז דאָ אַן אַנאָמאַליע. מיר האָבן אַרום 50 אַנדערע קוואַליטעט טשעקס.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. דאַנק מאַשין לערנען, באַגרענעצן מיר דעם ריזיקאָ פון אינפוט ערראָרס. אונדזער טעכנאָלאָגיע דערמעגלעכט אונדז צו עקסטראַקטירן טעקסטואַלע דאַטן פון פאָטאָס גענומען דורך מיטאַרבעטער
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. דאנק דער שטיצע פון סאנטע פובליק פראנקרייך, האבן מיר אנטוויקלט א פארטאל וואס ערלויבט פראדוצירער צו ארויפלאדן זייערע מאסן-פראדוצירטע דאטן און אזוי פאררעכטן/פארענדיגן די קהילה'ס ביישטייערונגען.
-
----
-
-## ווי אזוי צו לייגן צו פּראָדוקטן?
-
-כּדי צו לייגן פּראָדוקטן צו אונדזער פּלאַטפאָרמע, דאַרפֿט איר ערשט באַשליסן ווי אַזוי איר ווילט ווײַטערגיין. עס זענען דא 4 אָפּציעס:
-
-- **מאַנועל**: אויב איר האָט אַ קליינע צאָל פּראָדוקטן, איז עס נאָך מעגלעך צו שאַפֿן יעדן פּראָדוקט בויגן מיט די האַנט אויף דער פּראָ פּלאַטפאָרמע.
-
-- **דורך אַ ספּרעדשיט אימפארט**: איר קענט אראפקאפירן די ספּרעדשיט [טעמפּלאַט](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) צוגעשטעלט דורך Open Food Facts, אדער אימפארטירן גלייך אן עקסטראקציע פון אייער IT סיסטעם אין די פּראָ פּלאַטפאָרמע.
-
-- **דורך פּראָדוקט קאַטאַלאָגן קאַנעקטערז**. אויב איר זענט אַ קליענט ביי EQUADIS, AGENA3000 אדער BAYARD, קענט איר אַרויפֿלאָדן דאַטן אין Open Food Facts מיט 1 קליק. אויב איר אַרבעט מיט אַן אַנדער PIM (פּראָדוקט אינפֿאָרמאַציע מאַנאַגעמענט), ביטע קאָנטאַקט אונדז: producers@openfoodfacts.org
-
-- **דורך אַ פּאַסיקע פֿאַרבינדונג** צווישן אייער פֿירמע און Open Food Facts. אויב איר ציילט מער ווי 1000 פּראָדוקטן אין אייער פּאָרטפאָליאָ, קענען מיר דיסקוטירן די מעגלעכקייט פון בויען אַ ספּעציפֿישן קאַנעקטער צו פֿאַרלייכטערן די דאַטן טראַנספֿער.
-
-פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## איז דא א וועג צו אויטאמאטיזירן פראדוקט דערהייַנטיקונגען צו דער עפנטלעכער דאטאבאזע?
+## How to add products?
 
-יא, אויב איר ניצט EQUADIS, AGENA3000 אדער BAYARD פּראָדוקט קאַטאַלאָגן, און שטעלט אויף די ריכטיקע קאָנפיגוראַציע, קען דער אימפארט ווערן געטאָן אויטאָמאַטיש און דעריבער אַפּדייטן די פּראָדוקט דאַטן אויף Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## איז די צאָל פון צוגעלייגטע פּראָדוקטן באַגרענעצט?
+## Is there a way to automate product updates to the public database?
 
-עס איז נישטאָ קיין לימיט, איר קענט אַרויפֿלאָדן די צאָל פּראָדוקטן וואָס איר ווילט אויף אונדזער פּלאַטפאָרמע.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-אויב איר ווילט אַראָפּנעמען אַ פּראָדוקט וואָס איז מער נישט פֿאַראַן אויפֿן מאַרק, דאַרפֿט איר נאָר אָפּטשעקן דאָס קעסטל "דער פּראָדוקט ווערט מער נישט פֿאַרקויפֿט" ווען איר רעדאַקטירט אייער פּראָדוקט בויגן.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-אויב איר ווילט אַראָפּנעמען עטלעכע פּראָדוקטן, רעקאָמענדירן מיר איר זאָלט נאָכפֿאָלגן די פּראָצעדור וואָס ווערט דערמאָנט אין דער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), אויף זײַט 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-איר קענט אונדז אויך קאָנטאַקטירן דורך producers@openfoodfacts.org אויב איר האָט פֿראַגעס.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-ווען דער פּראָדוקט ווערט אַרכיווירט, וועט עס מער נישט דערשייַנען אין אָפן פוד פאַקס.עס וועט אבער בלייבן אין אונדזער דאַטאַבייס כדי מיר זאָלן קענען האַלטן אַ געשיכטע פון פּראָדוקטן וואָס זענען פארקויפט געוואָרן איבער צייט.
-
----
-
-## צי האט די אינפארמאציע פון די פירמע א העכערע שטעלע ווי די אינפארמאציע וואס איז שוין דא אויף דער פלאטפארמע?
-
-ווען אַ פּראָדוצירער לייגט איין איינעם פֿון זיינע פּראָדוקטן אָנליין מיט זײַן פּראָדוצירער אַקאַונט און אַ פּראָדוקט בויגן עקזיסטירט שוין, וועט דאָס עס פֿאַרענדיקן.
-
-די אינפֿאָרמאַציע וואָס דער פּראָדוצירער וועט האָבן אַרויפגעשטעלט וועט שטענדיק האָבן פּריאָריטעט און ער אַליין וועט קענען מאָדיפֿיצירן זיינע פּראָדוקטן ווען די אינפֿאָרמאַציע איז אויסגעפֿילט.
-
-אויב די דאַטן וואָס ווערן געשיקט דורך דער פּלאַטפאָרמע איז פֿראַגמענטירט, קען די אינפֿאָרמאַציע וואָס די קהילה לייגט צו פֿון דער פּאַקאַדזשינג עס פֿאַרענדיקן.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## אין וועלכן פֿאָרמאַט זאָל איך שיקן מײַנע דאַטן?
+## Does company information take precedence over information already present on the platform?
 
-א [טעמפּלאַט](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ווערט צוגעשטעלט דורך Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-אָבער, יעדער ספּרעדשיט פֿאָרמאַט (xlsx, csv) וועט זיין אימפּאָרטירבאר אין דער פּלאַטפאָרמע.  
-אונדזער אַלגעריטם איז דיזיינד צו אויטאָמאַטיש צופּאַסן די אַטריביוטן פֿון אייער טעקע, מיט די וואָס זענען פֿאַראַן אין Open Food Facts. היט אייך צו שטענדיק טשעקן נאך א מאל די צוגעפאסטע בינע, ווייל איר וועט אפשר דארפן מאנועל צופאסן עטליכע פון זיי.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-אויב אייער אינפֿאָרמאַציע איז צעטיילט צווישן עטלעכע ספּרעדשיטס, קענט איר זיי אימפּאָרטירן נאָכאַנאַנד - און זיכער מאַכן צו טאָן די גלייכונג אויב דער פֿאָרמאַט ענדערט זיך.
-
-איר קענט אויך אימפארטירן אן עקסעל טעקע אין צוגאב צו אן EQUADIS אדער AGENA3000 אימפארט, אויב די דאטן זענען נאך נישט אין אייער אינפארמאציע סיסטעם. אין די פעלער, פארגעסט נישט צו בעטן אן עקספארט צו דער עפנטלעכער דאטאבאזע פון דעם אינטערפייס.
-
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## מיט וועלכע פּראָדוקט קאַטאַלאָגן זענט איר אינטעגרירט?
+## In what format should I send my data?
 
-פאַבריקאַנטן קענען איצט שיקן זייערע פּראָדוקט דאַטן און פאָטאָס אין פאַקטישער צייט פֿון **Equadis,** **AGENA3000 און BAYARD קאַנסאַלטינג** צו Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-איר וועט דאָך אויך נוץ האָבן פון די רעפאָרמולאַציע פֿאָרשלאָגן און אַלע פֿעיִקייטן פֿון דער פּלאַטפאָרמע.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-אונדזער בלאָג פּאָסט](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) דערקלערט די טריט צו נאָכפאָלגן אויב איר זענט אַן EQUADIS קונה.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-אויב איר זענט אַן AGENA3000 קונה (פּראָדוקט A3 PIM INDUSTRY), דאַרפט איר נאָר אויסקלײַבן דעם באַקומער "עפֿן עסן פאַקטן" ווען איר שיקט אײַערע פּראָדוקט בלעטער. [מער אינפֿאָרמאַציע אויף דעם בלאָג פּאָסטן](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-אויב איר זענט אַ קונה פון אַן אַנדער פּראָדוקט דאַטן קאַטאַלאָג (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, אאז"וו) ביטע לאָזט אונדז וויסן ביי [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ווי אזוי צו לייגן צו פראדוקטן אן בארקאדן דורך די פרא פלאטפארמע?
+## With which product catalogs are you integrated?
 
-פֿאַר פּראָדוקטן אָן אַ באַרקאָד, אויף דער וועבזייטל אָדער אויף דער פּראָדוצירער פּלאַטפאָרמע, איז דאָ אַ "פּראָדוקט אָן באַרקאָד" קנעפּל אין דער לינקער זייַל וואָס דערמעגלעכט איר זיי צו לייגן. אַן אידענטיפיצירער ווערט דעמאָלט אויטאָמאַטיש דזשענערירט.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-מיר האָבן באַשאַפֿן ספּעציפֿישע פּראָיעקטן פֿאַר קאָסמעטיקס, פֿאַר כייַע פֿיטער, ווי אויך פֿאַר אַנדערע פּראָדוקטן: עפֿענען שיינקייט פֿאַקטן, עפֿענען ליבלינג פֿוטער פֿאַקטן און עפֿענען פּראָדוקט פֿאַקטן, בהתאמה.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## פּראָדוקט דאַטן פֿון מײַן פֿירמע איז פֿאַראַן אויף Open Food Facts. איז עס מעגלעך צו נעמען קאנטראל איבער דעם פארבונדענעם פראדוצירער אקאונט?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-יא, זיכער! איר קענט נעמען קאנטראל איבער דעם פארבונדענעם פראדוצירער אקאונט דורך שאפן אן Open Food Facts אקאונט מיט אייער ביזנעס אדרעס. ווען איר רעגיסטרירט זיך, דערמאָנט דעם נאָמען פון דער אָרגאַניזאַציע וואָס איז פאַראַן אויף דער פאָרעם כּדי צו קענען צוקומען צום קאָרעספּאָנדירנדיקן פּראָדוצירער־פּלאַץ.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-א קורצע וואַלידאַציע שריט וועט זיין נייטיק צו זיכער מאַכן אַז איר זענט טאַקע דער פּראָדוצירער.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-איר וועט קענען אויספֿילן די דאַטן, צולייגן בילדער, באַקומען אויטאָמאַטישע רעקאָמענדאַציעס פֿאַר פֿאַרבעסערן דעם נוטרי-סקאָר, און נאָך פיל מער. דאָס אַלץ איז פֿאַרשטייט זיך גאָר פֿרײַ. איר קענט אויך פֿאַרבינדן אַ דריט-פּאַרטיי פּראָדוקט דאַטן פאַרוואַלטונג סיסטעם ווי EQUADIS, AGENA3000 און Bayard קאַנסאַלטינג.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## ווי לאַנג נעמט עס פֿאַר פּראָדוצירער דאַטן צו ווערן דערהייַנטיקט אויף אַנדערע אַפּפּס וואָס נוצן די Open Food Facts דאַטאַבייס ווידער?
-
-עס ווענדט זיך אין די אַפּפּס. פֿאַר יענע וואָס נוצן אונדזערע APIs, וואָס איז די גרויסע מערהייט, איז עס באַלדיק.  
-פֿאַר די וואָס ניצן אונדזערע טעגלעכע עקספּאָרטן, איז עס D+1 מיטן באַדינג אַז זיי דערהייַנטיקן עס.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## צי אימפארטירן די דאטן פון א פראדוקט רעקארד פארענדיגט אדער איבערשרייבט דעם עקזיסטירנדיקן פראדוקט רעקארד?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-מיר ניצן דעם באַרקאָד צו אידענטיפיצירן פּראָדוקטן, אויב איר אימפארטירט אַ רעקאָרד מיטן זעלבן באַרקאָד ווי אַן עקזיסטירנדיקער רעקאָרד, וועט די אינפֿאָרמאַציע ווערן צוזאַמענגעפֿאַסט.
-
-פֿאַר דאַטן ווי דער רשימה פֿון אינהאַלטן, נוטרישאַנעלע ווערטן (נאָר איין ריכטיקער ווערט מעגלעך), וועלן די דאַטן וואָס ווערן געשיקט דורך דער פּראָדוצירער פּלאַטפאָרמע איבערשרײַבן די עקזיסטירנדיקע דאַטן.
-
-פֿאַר דאַטן ווי עטיקעטן/קאַטעגאָריעס/בראַנדז (עטלעכע ריכטיקע ווערטן מעגלעך), ווערט די אינפֿאָרמאַציע צוזאַמענגעפֿאַסט. אויב די דאַטן זענען נישט ריכטיק אויף דער עפנטלעכער פּלאַטפאָרמע, קענט איר מאָדיפיצירן דעם פּראָדוקט בויגן אויף דער עפנטלעכער פּלאַטפאָרמע צו באַזייַטיקן די נישט ריכטיקע ווערטן.
-
-→ פֿאַר מער פרטים, לאַדן מיר אײַך אײַן צו דאַונלאָודן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) און/אָדער באַראַטן זיך מיט אונדזער [ווידעא טוטאָריאַלס](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## איז די סדר פון די אינגרעדיענטן וויכטיג?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-די סדר פון די אינגרעדיענטן איז וויכטיק: עס רעפּרעזענטירט די סדר לויט קוואַנטיטעט.
-דער בעסטער וועג צו פילן די אינגרעדיענטן איז צו נאכפאלגן פונקטליך וואס שטייט אויף דער פארפאקונג. דעריבער איז עס אויך אַזוי וויכטיק צו האָבן געדרוקט בילדער פון די ינגרידיאַנץ.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## קען איך אויך שיקן בילדער דורך AGENA3000?
+## Is the order of ingredients important?
 
-איר קענט שיקן בילדער אבער אין פראקטיק וועט נאר דאס הויפט בילד ווערן אויטאמאטיש אויסגעקליבן, די אנדערע בילדער וועלן געשיקט ווערן, אבער נישט באשניטן / אויסגעקליבן פאר אינגרעדיענטן, דערנערונג א.א.וו.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## ווי אזוי צו צוקומען צו די פּראָ פּלאַטפאָרמע'ס טוטאָריאַלס?
+## Can I send images via AGENA3000 too?
 
-איר קענט צוקומען צו די פּראָ פּלאַטפאָרמע'ס טוטאָריאַלס:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- דורך די פּראָ פּלאַטפאָרמע אַליין: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- גלייך אויף [יוטוב](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-איר קענט אויך אראפלאדן אונדזער [באַניצער גייד](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
