@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Produktų portfelio analizė (lyginamoji analizė, patobulinimas...)"
-description: "1 klausimas"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: diagramos juosta
+icon: chart-bar
 ---
 
-{{< fa "diagramos juosta" size="3 kartus" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Kaip gauti prieigą prie rekomendacijos dėl naujos receptūros, kad pagerinčiau savo produktų maistinį balą?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Kai esate Gamintojų platformos pagrindiniame puslapyje:
+When you are on the home page of the Producers Platform:
 
-1. spustelėkite nuorodą „→ Produktų su tobulinimo galimybėmis skaičius“ puslapio viršuje.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. galite peržiūrėti visas mūsų sistemos aptiktas galimybes tobulinti savo produktus
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Paspaudus ant galimybės tipo, pateksite į tobulintinų produktų sąrašą.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Norėdami gauti daugiau informacijos, kviečiame atsisiųsti mūsų [naudotojo vadovą](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ir (arba) peržiūrėti mūsų [vaizdo pamokas](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
