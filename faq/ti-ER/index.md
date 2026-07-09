@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - ትግርኛ"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/index.md ዝብል ጽሑፍ ኣሎ።"
+    - "*/index.md"
   include:
     category-level: 0
-  type: መስመር
+  type: grid
   grid-columns: 4
-  sort: "ስርዓት"
-  fields: [ ርእሲ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
