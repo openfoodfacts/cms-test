@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} मुक्तभोजनतथ्यानां विषये"
-description: "४ प्रश्नाः"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: इन्फो-वृत्तम्
+icon: info-circle
 ---
 
-{{< fa "इन्फो-वृत्तम्" size=३x >}}
+{{< fa "info-circle" size=3x >}}
 
-## कीदृशी सूचना साझा कर्तव्या ?
+## What type of information should be shared?
 
-भवतः समीपे यत्किमपि सूचना अस्ति तत् स्वागतं भवति, पोषणसूचनातः आरभ्य पैकेजिंग् सूचनापर्यन्तं।
+Any information you have is welcome, from nutritional information to packaging information.
 
-एतेन सम्पूर्णसञ्चिकास्थापनं सम्भवं भवति, सर्वेषां स्कोरानाम् गणना सटीकतापूर्वकं भवति तथा च अधिकसामान्यतया उपभोक्तृभिः प्रशंसिता पारदर्शिता भवति ।
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-तथापि वयं भवन्तं निम्नलिखितक्षेत्राणि प्राथमिकताम् अददात् इति अनुशंसयामः।
+However we do recommend you prioritize the following fields:
 
-- पोषण संबंधी सूचना
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- उत्पादवर्गः (उदा. पेयम्, पनीरं, दधिः इत्यादयः) २.
-
-- उत्पादस्य नाम
-
-- एलर्जीकारकाः
-
-- तथा अवयवानां विषये, एतत् क्षेत्रं अनिवार्यं न अपितु स्कोरस्य इष्टतमप्रयोगाय, निर्धारणाय च अनुशंसितम्
-
-→ अधिकविवरणार्थं वयं भवन्तं अस्माकं [उपयोक्तृमार्गदर्शिका](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड् कर्तुं आमन्त्रयामः तथा/वा अस्माकं [वीडियोपाठ्यक्रमाः](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## किं अहं Open Food Facts इति आँकडान् डाउनलोड् कर्तुं शक्नोमि?
+## Can I download Open Food Facts data?
 
-Open Food Facts इत्यत्र उपलब्धानि सर्वाणि आँकडानि डाउनलोड् कर्तुं शक्नुवन्ति। सावधान, एतदर्थं बहु डिस्कस्थानस्य आवश्यकता वर्तते, यदि भवान् स्प्रेड्शीट् वा अन्यथा R अथवा Python इत्यस्य ज्ञानं वा उपयोक्तुं इच्छति तर्हि शक्तिशाली सङ्गणकस्य आवश्यकता अस्ति ।
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-उन्नत अन्वेषणस्य धन्यवादेन भवान् दत्तांशस्य उपसमूहं (उदाहरणार्थं भवतः ब्राण्ड्) अपि अवतरणं कर्तुं शक्नोति ।
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ अधिकविवरणार्थं वयं भवन्तं अस्माकं [उपयोक्तृमार्गदर्शिका](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड् कर्तुं आमन्त्रयामः तथा/वा अस्माकं [वीडियोपाठ्यक्रमाः](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Pro मञ्चे प्रवेशः, आँकडानां आयातः च निःशुल्कः अस्ति वा?
-
-निश्चयेन, सदा च भविष्यति।Open Food Facts इत्यनेन प्रदत्ताः सर्वाः सेवाः निःशुल्काः सन्ति ।  
-वयं बहु प्रसन्नाः यत् भवान् स्वस्य उत्पाददत्तांशं खाद्यपारदर्शिते योगदानं दातुं निश्चयं कृतवान्, तदर्थं च वयं भवन्तं धन्यवादं दद्मः।
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## अहं व्यावसायिकमञ्चस्य कृते सुधारं सूचयितुम् इच्छामि, कथं कर्तुं शक्नोमि ?
+## Is access to the Pro platform and the import of data free?
 
-खाद्यपारदर्शिते भागं ग्रहीतुं भवतः इच्छायाः धन्यवादः!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-प्रतिक्रियासाझेदारी कर्तुं सर्वोत्तमः उपायः [एतत् प्रपत्रं](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) पूरयित्वा ।
+---
 
-[अस्माकं मञ्चः](https://forum.openfoodfacts.org/) अथवा [Slack](https://openfoodfacts.slack.com/ssb/redirect) मार्गेण वा सुझावं दातुं भवान् अस्माभिः सह सम्पर्कं कर्तुं अपि शक्नोति ।
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-अस्माकं Slack इत्यत्र सम्मिलितं भवन्तु तथा च अस्माभिः सह सम्पर्कं कर्तुं चैनल् # producers इत्यत्र प्रवेशं कुर्वन्तु।
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
