@@ -1,17 +1,17 @@
 ---
-title: "{{< rahi pukapuka fa=2x >}} Mīhini Folksonomy"
-description: "1 pātai"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: pukapuka
+icon: book
 ---
 
-{{< fa "pukapuka" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## He aha te Mīhini Folksonomy?
+## What is the Folksonomy Engine ?
 
-Ko te Mīhini Folksonomy he pūnaha e āhei ai ngā kaiwhakamahi ki te tāpiri i ngā tūtohu ritenga, i ngā āhuatanga rānei, ki ngā hua kai i roto i te Open Food Facts, te pātengi raraunga kai tuwhera nui rawa atu o te ao. Mā tēnei ka taea e te tangata te whakarōpū me te whakaahua i te kai i ngā huarahi hou, ki tua atu i ngā āhuatanga kua tautuhia i mua.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
