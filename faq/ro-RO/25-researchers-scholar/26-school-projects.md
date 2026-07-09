@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Proiecte școlare"
-description: "2 întrebări"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: fișier-o
+icon: file-o
 ---
 
-{{< fa "fișier-o" size="de 3 ori" >}}
+{{< fa "file-o" size=3x >}}
 
-## Am un proiect școlar de făcut și vreau să utilizez datele Open Food Facts, pot face asta?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts este o bază de date deschisă, un proiect deschis care funcționează sub o licență ODbL, prin urmare, atâta timp cât sunteți de acord cu cerințele licenței ODbL, sunteți bineveniți să reutilizați datele noastre pentru proiectele dvs. :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Cum pot accesa/colecta date pentru proiectele mele?
+## How can I access/collect data for my projects ?
 
-Pe pagina principală Open Food Facts, în colțul din stânga sus al ecranului, există un meniu derulant. În partea de jos a paginii, veți găsi opțiunea „căutare avansată”, pe care puteți face clic. Apoi, depinde de tine să stabilești care criterii sunt cele mai relevante pentru proiectul/proiectele tale. După ce ați ales, veți putea descărca rezultatele obținute derulând în josul paginii și făcând clic pe „Descărcați rezultatele”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
