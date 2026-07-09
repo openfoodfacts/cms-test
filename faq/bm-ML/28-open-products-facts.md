@@ -1,50 +1,50 @@
 ---
-title: "{{< fa key size=2x >}} Da wuli Fɛnw Tiɲɛw"
-description: "3 ɲininkaliw"
-lang: bamanankan-gb
-order: 28. Ɲɛjirali dɔw
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
+lang: en-gb
+order: 28
 category-level: 0
-icon: kile
+icon: key
 ---
 
-{{< fa "kile" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Cogo di ka se ka Open Products Facts sɔrɔ iPhone kan ?
+## How to access Open Products Facts on iPhone ?
 
-Open Products Facts bɛ sɔrɔ Open Food Facts app kunba kɔnɔ. O jɛ-ka-baara in b’a To iPhone baarakɛlaw bɛ Se ka don kunnafonidilan fla bɛɛ la baarakɛminɛn kelen fɛ, min ka nɔgɔn.
-
----
-
-## N b’a fɛ ka Open Products Facts dɛmɛ. Ne bɛ se ka mun kɛ ?
-
-Aw ye an ka wiki ɲɛ kalan, an ye fɛɛrɛw fɔ walasa ka aw sen don a la: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Walasa ka Open Products Facts dɛmɛ, aw bɛ se ka nin sugandi ninnu jateminɛ, minnu kelen-kelen bɛɛ bɛ bɛn bolomafara suguya wɛrɛw ma:
-
--
-
-**Philanthropic/Etate Sponsors for Open Products Facts**:
-Baarakɛlaw ka dɛmɛ nafa ka bon kosɛbɛ walasa ka yeli kɛ ka ɲɛsin kunnafonidilan sɛrɛkili bɛɛjɛfanga ma, fɛn dilannenw jatebɔ, ani sɛrɛkili furaw dalajɛ, ka tɛmɛn 20000+ kan, o ye Open Products Facts ka laɲini jɔnjɔn ye. Nin yelifɛn in yɔrɔ nafama caman ma wari sɔrɔ fɔlɔ, wa aw ka wariko dɛmɛ bɛ se ka nɔba bila. Aw ka bolomafaraw bɛ se ka dɛmɛ don ka yiriwali nafamaw ni fɛnsɔrɔsiraw musakaw sɔrɔ. Walasa ka dɛmɛ don wariko ta fan fɛ, aw bɛ se ka kuma contact@openfoodfacts.org kan
-
--
-
-**Dɔnniya dɛmɛbagaw bɛ baara kɛ ni Open Products Facts App ye**:
-Donanw dɛmɛni nafa ka bon kosɛbɛ Open Products Facts sɛgɛsɛgɛli la. Ni i bɛ baara kɛ ni Android porogaramu ye walasa ka fɛn kuraw kunnafoni fara a kan, ka sɛbɛnni minnu bɛ yen, olu kuraya, walima ka kunnafoniw sɛgɛsɛgɛ, i bɛ dɛmɛ don ka kunnafonidilanw bonya ani k’u labɛn. O jɛ-ka-baara in bɛ kɛ sababu ye ka nafolo barikama ni dannaya bɛ se ka da min kan bɛɛ ye.
-
--
-
-**Fɛɛrɛko dɛmɛbagaw ka ɲɛsin Open Products Facts ma**:
-Ni fɛɛrɛko seko b’i bolo yɔrɔw la i n’a fɔ porogaramuw, kunnafonidilanw sɛgɛsɛgɛli, walima baarakɛlaw ka ko kɛlenw dilanni, i ka dɔnniya bɛ se ka nafa caman lase Open Products Facts ma. Ka i sen don porogaramu in dilanni na, k’a baarakɛcogo ɲɛ, walima ka baarakɛlaw ka baarakɛcogo ɲɛ, o ye dɛmɛ nafamaw ye. Walasa k’i sen don a la, i ka fara #openproductsfacts Slack kan, Open Products Facts jɛkulu bɛ jɛ ka baara kɛ yɔrɔ min na. Aw bɛ se ka nin Slack baarakɛyɔrɔ in ladɛrɛsi sɔrɔ Open Food Facts siti kan.
-
-Dɛmɛ suguya kelen-kelen bɛɛ nafa ka bon Open Products Facts yiriwali n’a ɲɛtaa la, ka dɛmɛ don ka sigida sabatilen ni kunnafoni di bɛɛ ma.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Ne bɛ se ka Open Products Facts API sɔrɔ min ?
+## I would like to support Open Products Facts. What can I do ?
 
-Open Products Facts API ni Open Food Facts API ye kelen ye 98% o la n’i bɛ baara kɛ ni Open Food Facts API sɛbɛnw ye i ka kan ka Open Products Facts API yecogo jɛlen sɔrɔ kosɛbɛ. An fana ye kalan kɛrɛnkɛrɛnnen sɛbɛn walasa ka sira Di ka universel scan (sɛgɛsɛgɛli universel) waleya i ka appli (application) kɔnɔ.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://dumuni dafalenw.github.io/dumuni dafalenw-sɛrɛkili/api/ref-v2/)
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
