@@ -1,49 +1,49 @@
 ---
-title: "{{< اندازه مکعب = ۲ برابر >}} بسته‌بندی"
-description: "۳ سوال"
-lang: انگلیسی-انگلیسی
-order: ۲۴
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
+order: 24
 category-level: 1
-icon: مکعب
+icon: cube
 ---
 
-{{< fa "مکعب" size="۳ برابر" >}}
+{{< fa "cube" size=3x >}}
 
-## چگونه می‌توانم اطلاعات بسته‌بندی خود را به Open Food Facts اضافه کنم؟
+## How can I add my packaging data to Open Food Facts?
 
-به عنوان یک تولیدکننده، کارآمدترین راه برای افزودن داده‌های بسته‌بندی به محصولاتتان، پر کردن اطلاعات لازم از ستون "AU" در این [صفحه گسترده اکسل](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) است.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-برای هر جزء بسته‌بندی، باید موارد زیر را وارد کنید:
+For each packaging component, you will need to enter:
 
-- تعداد واحدها (مثلاً: **۴** ظرف ماست)
+- The number of units (ex: **4** pots of yogurts)
 
-- شکل (مثلاً: **قوری، درب، جعبه و غیره**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- جنس (مثلاً: **پت، کاغذ، شیشه و غیره**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- دستورالعمل بازیافت (مثلاً: **بازیافت کردن، دور انداختن و غیره**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- وزن یک واحد خالی (به گرم)
+- The weight of one empty unit (in gr)
 
-- مقدار خالص محصول موجود در هر واحد
+- The net quantity of product contained per unit
 
-این صفحه گسترده سپس می‌تواند به پلتفرم ما که به متخصصان اختصاص داده شده است، وارد شود.
-
----
-
-## پروژه مقابله با بسته‌بندی مواد غذایی چیست؟
-
-پروژه «مقابله با بسته‌بندی مواد غذایی» شامل جمع‌آوری اطلاعات دقیق در مورد بسته‌بندی محصولات پرمصرف (شکل، جنس، دستورالعمل‌های دسته‌بندی، وزن، ظرفیت) است.
-
-بر اساس یک رویکرد علمی مشارکتی، این امر هم به شرکت‌هایی که موافقت خود را برای به اشتراک گذاشتن داده‌های بسته‌بندی خود و انجام بازی شفافیت اعلام می‌کنند و هم به شهروندانی که اجازه جمع‌آوری اطلاعات در مورد محصولات را می‌دهند، متکی خواهد بود. این اطلاعات آزادانه قابل استفاده مجدد خواهند بود ("داده‌های باز").
-
-**برای اطلاعات بیشتر:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## حتی پس از پایان پروژه بسته‌بندی مواد غذایی، آیا هنوز می‌توانم اطلاعات بسته‌بندی خود را اضافه کنم؟
+## What is the Tackling Food Packaging project?
 
-حتی پس از پایان پروژه، می‌توان داده‌های بسته‌بندی را اضافه کرد زیرا فیلدهای بسته‌بندی در وب‌سایت ما باقی خواهند ماند.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
