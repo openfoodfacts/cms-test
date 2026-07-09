@@ -1,31 +1,31 @@
 ---
-title: "{{< fa හෘද ස්පන්දන ප්‍රමාණය=2x >}} Nutri-ලකුණු"
-description: "ප්‍රශ්න 3ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: හද ගැස්ම
+icon: heartbeat
 ---
 
-{{< fa "හද ගැස්ම" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## මගේ නිෂ්පාදනවල Nutri-Score නිවැරදි නොවේ නම් මා කළ යුත්තේ කුමක්ද?
+## What should I do if the Nutri-Score of my products is not correct?
 
-ඔබේ Nutri-Score සමඟ ගැටළුවක් ඇති වුවහොත්, ඔබේ නිෂ්පාදන පත්‍රිකාවේ "වෙනස් කරන්න" ටැබය මත ඔබේ තොරතුරු නිවැරදි දැයි පරීක්ෂා කරන්න. කිසියම් තොරතුරක් අස්ථානගත වී හෝ වැරදි නම්, \*\* producers@openfoodfacts.org\*\* හි අප හා සම්බන්ධ වීමට පසුබට නොවන්න.
-
----
-
-## Nutri-Score හැකිතාක් නිවැරදිව ගණනය කිරීම සඳහා මා කුමන ආකාරයේ තොරතුරු සැපයිය යුතුද?
-
-ඔබේ නිෂ්පාදනයේ පෝෂණ වගුව සමඟින් පෝෂණ ලකුණු ගණනය කිරීම සිදු කෙරේ.
-
-ගණනය කළ පෝෂණ අගය වැරදි නොවන පරිදි, පලතුරු, එළවළු සහ ඇට වර්ගවල ප්‍රතිශතය ඔබේ වගුවේ ඇතුළත් කිරීමට අමතක නොකරන්න.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Nutri-Score පැමිණෙන්නේ කොහෙන්ද?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score කළමනාකරණය කරනු ලබන්නේ Santé Publique France විසිනි. සෑම කෙනෙකුටම තේරුම් ගත හැකි වන පරිදි පෝෂණ අගයන් වගුව සාරාංශ කරයි. සෑම කෙනෙකුටම පැහැදිලි සහ තේරුම්ගත හැකි පෝෂණ තොරතුරු වෙත ප්‍රවේශය ලබා දීම ඉලක්කයයි.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
