@@ -1,31 +1,31 @@
 ---
-title: "{{< fa হৃদস্পন্দনৰ আকাৰ=২x >}} নিউট্ৰি-স্ক’ৰ"
-description: "৩ টা প্ৰশ্ন"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: হৃদস্পন্দন
+icon: heartbeat
 ---
 
-{{< fa "হৃদস্পন্দন" size=৩x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## যদি মোৰ সামগ্ৰীৰ Nutri-Score শুদ্ধ নহয় তেন্তে মই কি কৰিব লাগে?
+## What should I do if the Nutri-Score of my products is not correct?
 
-আপোনাৰ নিউট্ৰি-স্ক’ৰৰ সৈতে কোনো সমস্যাৰ সৃষ্টি হ’লে, আপোনাৰ প্ৰডাক্ট শ্বীটৰ “পৰিৱৰ্তন” টেবত আপোনাৰ তথ্য সঠিক নেকি পৰীক্ষা কৰক। যদি কোনো তথ্য অনুপস্থিত বা ভুল হয়, আমাৰ সৈতে যোগাযোগ কৰিবলৈ কুণ্ঠাবোধ নকৰিব\*\* producers@openfoodfacts.org\*\*
-
----
-
-## মই কি ধৰণৰ তথ্য দিব লাগে যাতে নিউট্ৰি-স্ক’ৰ যিমান পাৰি সঠিকভাৱে গণনা কৰা হয়?
-
-নিউট্ৰি-স্ক’ৰৰ গণনা আপোনাৰ সামগ্ৰীৰ পুষ্টিৰ তালিকাৰ সৈতে কৰা হ’ব।
-
-আপোনাৰ টেবুলত ফল-মূল, শাক-পাচলি আৰু বাদামৰ শতকৰা হাৰ অন্তৰ্ভুক্ত কৰিবলৈ নাপাহৰিব, যাতে গণনা কৰা নিউট্ৰি-স্ক’ৰ ভুল নহয়।
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## নিউট্ৰি-স্ক’ৰ ক’ৰ পৰা আহে ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-নিউট্ৰি-স্ক’ৰ পৰিচালনা কৰে ছান্টে পাব্লিক ফ্ৰান্সে। ইয়াত পুষ্টিকৰ মূল্যৰ তালিকাখন সামৰি লোৱা হৈছে যাতে সকলোৱে বুজিব পাৰে। লক্ষ্য হৈছে সকলোৰে বাবে স্পষ্ট আৰু বুজিব পৰা পুষ্টিৰ তথ্যৰ সুবিধা প্ৰদান কৰা।
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
