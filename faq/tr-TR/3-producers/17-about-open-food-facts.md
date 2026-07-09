@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Open Food Facts Hakkında"
-description: "4 soru"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: bilgi çemberi
+icon: info-circle
 ---
 
-{{< fa "bilgi çemberi" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Ne tür bilgiler paylaşılmalıdır?
+## What type of information should be shared?
 
-Beslenme bilgilerinden ambalaj bilgilerine kadar sahip olduğunuz her türlü bilgi memnuniyetle karşılanır.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Bu sayede eksiksiz bir dosya oluşturmak, tüm puanları hassas bir şekilde hesaplamak ve daha genel olarak tüketiciler tarafından takdir edilen bir şeffaflık sağlamak mümkün olur.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Ancak aşağıdaki alanlara öncelik vermenizi öneririz:
+However we do recommend you prioritize the following fields:
 
-- Beslenme bilgileri
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Ürün kategorisi (örneğin içecekler, peynir, yoğurt vb.)
-
-- Ürünün adı
-
-- Alerjenler
-
-- ve içerikler; bu alan zorunlu değildir ancak en uygun kullanım ve puanların belirlenmesi için önerilir.
-
-→ Daha fazla ayrıntı için, [kullanım kılavuzumuzu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) indirmenizi ve/veya [video eğitimlerimize](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) göz atmanızı öneririz :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Open Food Facts verilerini indirebilir miyim?
+## Can I download Open Food Facts data?
 
-Open Food Facts'te bulunan tüm verileri indirebilirsiniz. Dikkat edin, bu işlem çok fazla disk alanı gerektirir; eğer elektronik tablo kullanmak istiyorsanız güçlü bir bilgisayara, aksi takdirde R veya Python dillerine dair bilgiye ihtiyacınız olacaktır.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Gelişmiş arama özelliği sayesinde verilerin bir alt kümesini (örneğin markanıza ait verileri) de indirebilirsiniz.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Daha fazla ayrıntı için, [kullanım kılavuzumuzu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) indirmenizi ve/veya [video eğitimlerimize](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) göz atmanızı öneririz :-)
-
----
-
-## Pro platformuna erişim ve veri içe aktarma ücretsiz mi?
-
-Kesinlikle, ve bu sonsuza dek böyle kalacak.Open Food Facts tarafından sunulan tüm hizmetler ücretsizdir.  
-Ürün verilerinizi gıda şeffaflığı girişimine katkıda bulunmaya karar verdiğiniz için çok memnun olduk ve bunun için size teşekkür ederiz.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Profesyonel platform için iyileştirme önerilerinde bulunmak istiyorum, bunu nasıl yapabilirim?
+## Is access to the Pro platform and the import of data free?
 
-Gıda şeffaflığına katılma isteğiniz için teşekkür ederiz!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Geri bildirim paylaşmanın en iyi yolu [bu formu](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) doldurmaktır.
+---
 
-Önerilerinizi iletmek için [forumumuz](https://forum.openfoodfacts.org/) veya [Slack](https://openfoodfacts.slack.com/ssb/redirect) üzerinden de bizimle iletişime geçebilirsiniz.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Bizimle iletişime geçmek için Slack kanalımıza katılın ve #producers başlığını girin.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
