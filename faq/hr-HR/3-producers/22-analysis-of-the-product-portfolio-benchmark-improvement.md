@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Analiza portfelja proizvoda (referentna vrijednost, poboljšanje...)"
-description: "1 pitanje"
-lang: hr-gb
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: traka grafikona
+icon: chart-bar
 ---
 
-{{< fa "traka grafikona" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Kako pristupiti preporuci za promjenu formulacije kako bih poboljšao Nutri-Score svojih proizvoda?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Kada ste na početnoj stranici Platforme producenata:
+When you are on the home page of the Producers Platform:
 
-1. kliknite na poveznicu "→ Broj proizvoda s mogućnostima poboljšanja" na vrhu stranice.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. možete pregledati sve mogućnosti koje je otkrio naš sustav za poboljšanje vaših proizvoda
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Klikom na vrstu prilike otvorit će se popis proizvoda koji su podložni poboljšanju.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Za više detalja, pozivamo vas da preuzmete naš [korisnički vodič](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) i/ili pogledate naše [video tutorijale](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
