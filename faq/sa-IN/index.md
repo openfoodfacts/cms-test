@@ -6,15 +6,15 @@ lang: "en-gb"
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.मद्"
-    - "*/अनुक्रमणिका.md"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: गृध्र
+  type: grid
   grid-columns: 4
-  sort: "आदेशः"
-  fields: [ शीर्षक, description ]
-  page-size: १००
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
