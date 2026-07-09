@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Download de dados"
-description: "1 pergunta"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: download na nuvem
+icon: cloud-download
 ---
 
-{{< fa "download na nuvem" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Onde posso encontrar dados para um país específico?
+## Where to get the data for a specific country?
 
-Atualmente, não existem exportações dedicadas a países específicos.
+Currently, there are no exports dedicated to specific countries.
 
-Existem muitas maneiras de usar nossas diferentes exportações, combinadas com diversas ferramentas, para selecionar os dados relacionados a um país específico.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Você pode dar uma olhada em [algumas dessas técnicas em nossa wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
