@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Pag-download ng datos"
-description: "1 tanong"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: pag-download sa cloud
+icon: cloud-download
 ---
 
-{{< fa "pag-download sa cloud" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Saan makakakuha ng datos para sa isang partikular na bansa?
+## Where to get the data for a specific country?
 
-Sa kasalukuyan, walang mga produktong iniluluwas na nakatuon sa mga partikular na bansa.
+Currently, there are no exports dedicated to specific countries.
 
-Maraming paraan para magamit ang aming iba't ibang export kasama ng iba't ibang tool para mapili ang data na may kaugnayan sa isang partikular na bansa.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Maaari mong tingnan ang [ilan sa mga pamamaraang ito sa aming wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
