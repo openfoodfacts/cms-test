@@ -1,45 +1,45 @@
 ---
-title: "{{< fa user size=2x >}} Управљај мојим налогом"
-description: "3 питања"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
 icon: user
 ---
 
-{{< fa "user" size="3 пута" >}}
+{{< fa "user" size=3x >}}
 
-## Да ли се више Open Food Facts налога може повезати са једном компанијом?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Да, пошаљите имејл на [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), како бисмо могли да повежемо све налоге са истом компанијом.
-
----
-
-## Како да конвертујем свој Open Food Facts налог у Pro налог?
-
-Можете приступити [Pro платформи](https://world.pro.openfoodfacts.org/) помоћу постојећих акредитива налога.
-
-Ако сте професионалац, мораћете да користите своју професионалну адресу е-поште како бисмо могли да потврдимо ваш налог.
-
-→ За више детаља, позивамо вас да преузмете наш [водич за кориснике](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) и/или погледате наше [видео туторијале](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Где могу да пронађем документацију која ће ми помоћи да користим Pro платформу?
+## How to convert my Open Food Facts account into a Pro account?
 
-Постоји неколико ресурса који ће вам помоћи да максимално искористите Про платформу.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Добродошли сте:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- Погледајте наш [кориснички водич](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - позивамо вас да преузмете ПДФ како би линкови били кликабилни, што ће вам олакшати навигацију кроз документ.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- погледајте наше [видео туторијале](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- поделите повратне информације или предлоге путем [овог обрасца](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Закажите позив са Манон, нашим менаџером за партнерства, ако имате додатних питања: [овде](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Контактирајте нас путем имејла: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
