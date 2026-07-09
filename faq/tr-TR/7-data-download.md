@@ -1,19 +1,19 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Veri indirme"
-description: "1 soru"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: bulut indirme
+icon: cloud-download
 ---
 
-{{< fa "bulut indirme" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Belirli bir ülkeye ait verileri nereden bulabilirim?
+## Where to get the data for a specific country?
 
-Şu anda belirli ülkelere yönelik özel bir ihracatımız bulunmamaktadır.
+Currently, there are no exports dedicated to specific countries.
 
-Farklı ihracat seçeneklerimizi çeşitli araçlarla birleştirerek belirli bir ülkeye ait verileri seçmenin birçok yolu vardır.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
 You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
