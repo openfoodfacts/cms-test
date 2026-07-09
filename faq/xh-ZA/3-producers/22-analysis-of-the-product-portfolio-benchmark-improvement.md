@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Uhlalutyo lwepotifoliyo yemveliso (uphawu, uphuculo...)"
-description: "Umbuzo o-1"
-lang: i-en-gb
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: ibha yetshathi
+icon: chart-bar
 ---
 
-{{< fa "ibha yetshathi" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Ndingayifumana njani ingcebiso yokuhlaziya iNutri-Score yeemveliso zam?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Xa ukwiphepha lasekhaya leQonga labaVelisi:
+When you are on the home page of the Producers Platform:
 
-1. cofa kwikhonkco elithi "→ Inani leemveliso ezinamathuba okuphucula" phezulu kwiphepha.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Ungajonga onke amathuba afunyenwe yinkqubo yethu ukuphucula iimveliso zakho
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ukucofa uhlobo oluthile lwethuba kuya kukukhokelela kuluhlu lweemveliso ezinokuthi ziphuculwe.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
