@@ -1,31 +1,31 @@
 ---
 title: "{{< fa heartbeat size=2x >}} Nutri-Score"
-description: "3 kysymystä"
-lang: fi-gb
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: sydämenlyönti
+icon: heartbeat
 ---
 
-{{< fa "sydämenlyönti" size="3 kertaa" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Mitä minun pitäisi tehdä, jos tuotteideni Nutri-Score-pisteytys ei ole oikein?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Jos Nutri-Score-pisteissäsi on ongelmia, tarkista tuotetiedotteen ”muokkaa”-välilehdeltä, että tietosi ovat oikein. Jos tietoja puuttuu tai ne ovat virheellisiä, ota meihin yhteyttä osoitteessa producers@openfoodfacts.org.
-
----
-
-## Millaisia tietoja minun tulisi antaa, jotta Nutri-Score lasketaan mahdollisimman tarkasti?
-
-Nutri-Score lasketaan tuotteesi ravintosisältötaulukon avulla.
-
-Muista sisällyttää taulukkoon hedelmien, vihannesten ja pähkinöiden prosenttiosuudet, jotta laskettu Nutri-Score ei ole virheellinen.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Mistä Nutri-Score tulee?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Scorea hallinnoi Santé Publique France. Se tiivistää ravintoarvotaulukon, jotta kaikki ymmärtävät sen. Tavoitteena on tarjota selkeää ja ymmärrettävää ravintotietoa kaikille.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
