@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etichette"
-description: "2 domande"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: segnalibro
+icon: bookmark
 ---
 
-{{< fa "segnalibro" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Come etichetta, è importante creare un account?
+## As a label, is it important to create an account ?
 
-In quanto etichetta, poiché non sei il produttore diretto dei prodotti, non hai bisogno di creare un account produttore.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Sono un'etichetta, come posso partecipare al progetto?
+## I am a label, how can I participate in the project?
 
-Per quanto riguarda l'etichetta, la cosa più importante da fare è contattarci **(producers@openfoodfacts.org)** e inviarci l'elenco dei prodotti su cui è visualizzata la tua etichetta, in modo che possiamo aggiungerli alle relative schede prodotto.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
