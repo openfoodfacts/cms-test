@@ -1,31 +1,31 @@
 ---
-title: "قیمت‌های باز شدن {{< fa اندازه دلار=۲x >}}"
-description: "۳ سوال"
-lang: انگلیسی-انگلیسی
-order: ۲۹
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: دلار
+icon: dollar
 ---
 
-{{< fa "دلار" size="۳ برابر" >}}
+{{< fa "dollar" size=3x >}}
 
-## من یک خرده فروش هستم و می خواهم در قیمت ها مشارکت کنم. چطور می‌توانم این کار را انجام دهم؟
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-شما می‌توانید با استفاده از [API ما](https://prices.openfoodfacts.org/api/docs) در تعیین قیمت‌ها مشارکت کنید. اگر می‌خواهید در افزایش قیمت‌ها مشارکت کنید، لطفاً با ما از طریق [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) تماس بگیرید.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## آیا به استخراج قیمت‌ها از وب‌سایت‌های خرده‌فروشان فکر می‌کنید؟
+## Do you consider scraping prices from retailers’ websites?
 
-به دلایل قانونی و فنی، ما جمع‌آوری قیمت‌ها از وب‌سایت‌های خرده‌فروشان را به عنوان راهی معتبر برای مشارکت در «قیمت‌های باز» نمی‌دانیم. ما می‌خواهیم مطمئن شویم که قیمت‌هایی که جمع‌آوری می‌کنیم دقیق و به‌روز هستند و دریافت قیمت‌های از پیش تعیین‌شده از مشارکت‌کنندگان به ما این امکان را نمی‌دهد.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## چرا Open Food Facts این کار را انجام می‌دهد (قیمت‌های باز)؟
+## Why is Open Food Facts doing this (Open Prices)?
 
-اطلاعات قیمت برای درک سیستم‌های غذایی از اهمیت بالایی برخوردار است. این یک عامل کلیدی در درک هزینه غذا و ترویج رژیم‌های غذایی سالم‌تر است. باز کردن داده‌های قیمت راهی است که درک بهتر از چگونگی تغییر قیمت مواد غذایی از نظر جغرافیایی و زمانی را برای محققان، روزنامه‌نگاران و شهروندان آسان‌تر می‌کند.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
