@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Nhà nghiên cứu/Học giả"
-description: "1 tiểu mục"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: mũ tốt nghiệp
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: lưới
+  type: grid
   grid-columns: 4
-  sort: "đặt hàng"
-  fields: [ tiêu đề, sự miêu tả ]
+  sort: "order"
+  fields: [ title, sự miêu tả ]
   page-size: 100
 ---
 
-{{< fa "mũ tốt nghiệp" size="3 lần" >}}
+{{< fa "graduation-cap" size=3x >}}
 
