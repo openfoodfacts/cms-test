@@ -1,45 +1,45 @@
 ---
-title: "{{< gwosè itilizatè fa=2x >}} Jere kont mwen an"
-description: "3 kesyon"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
 icon: user
 ---
 
-{{< fa "user" size="3 fwa" >}}
+{{< fa "user" size=3x >}}
 
-## Èske plizyè kont Open Food Facts ka lye ak yon sèl konpayi?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Wi, tanpri voye yon imèl bay [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), pou nou ka konekte tout kont yo ak menm konpayi an.
-
----
-
-## Kijan pou m konvèti kont Open Food Facts mwen an yon kont Pro?
-
-Ou ka jwenn aksè nan [platfòm Pro](https://world.pro.openfoodfacts.org/) avèk kalifikasyon kont ou deja genyen an.
-
-Si ou se yon pwofesyonèl, ou pral bezwen itilize adrès imel pwofesyonèl ou pou nou ka valide kont ou a.
-
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Ki kote m ka jwenn dokiman pou ede m sèvi ak platfòm Pro a?
+## How to convert my Open Food Facts account into a Pro account?
 
-Gen kèk resous pou ede ou tire pi bon pwofi nan platfòm Pro a.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Ou byenveni nan:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- Gade [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - nou envite w telechaje PDF la pou w ka klike sou lyen yo, sa ap fasilite navigasyon w nan dokiman an.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- konsilte [videyo leson patikilye nou yo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- pataje fidbak oswa sijesyon atravè [fòm sa a](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Pran yon randevou ak Manon, responsab patenarya nou an, si ou gen plis kesyon: [isit la](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Kontakte nou via imèl: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
