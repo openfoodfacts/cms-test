@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Maswali kuhusu bidhaa"
-description: "Swali 1"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: kikapu cha ununuzi
+icon: shopping-basket
 ---
 
-{{< fa "kikapu cha ununuzi" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Nina swali/dai kuhusu bidhaa
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) ni tovuti shirikishi iliyoundwa na kulishwa na watumiaji ili kuweza kubaini lebo na kulinganisha bidhaa.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Kwa maelezo zaidi kuhusu bidhaa au dai, mwandikie mtengenezaji. Hatuna taarifa za mawasiliano kwa watengenezaji lakini mara nyingi huwa kwenye vifungashio.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Ukitaka kutusaidia kuleta uwazi zaidi kwa watumiaji kama wewe au sisi, unaweza kutumia programu yetu ya iPhone au Android kuongeza bidhaa: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Na ili kujadili kuhusu mradi huo, unaweza kujiunga na kikundi cha wachangiaji cha Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) au kupiga gumzo na wachangiaji wengine kwenye Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
