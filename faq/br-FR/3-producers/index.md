@@ -1,21 +1,21 @@
 ---
-title: "{{< ment ar greanterezh fa=2x >}} Produerien"
-description: "6 isrummad"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industriezh
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: kael
+  type: grid
   grid-columns: 4
-  sort: "urzhiañ"
-  fields: [ titl, deskrivadur ]
+  sort: "order"
+  fields: [ title, deskrivadur ]
   page-size: 100
 ---
 
-{{< fa "industriezh" size=3x >}}
+{{< fa "industry" size=3x >}}
 
