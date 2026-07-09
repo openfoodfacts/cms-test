@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Ачык баалар"
-description: "3 суроо"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: доллар
+icon: dollar
 ---
 
-{{< fa "доллар" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Мен чекене сатуучумун жана бааларды кошкум келет. Муну кантип кылсам болот?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Сиз [биздин API](https://prices.openfoodfacts.org/api/docs) колдонуп, бааларды кошо аласыз. Эгер сиз бааны масштабдуу түрдө билдиргиңиз келсе, биз менен [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) дареги боюнча байланышыңыз.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Чекене сатуучулардын веб-сайттарынан бааларды алып салууну ойлонуп жатасызбы?
+## Do you consider scraping prices from retailers’ websites?
 
-Юридикалык жана техникалык себептерден улам, биз чекене сатуучулардын веб-сайттарынан бааларды алып салууну Ачык бааларга салым кошуунун жарактуу жолу катары карабайбыз. Биз чогулткан баалардын так жана актуалдуу болушун камсыз кылгыбыз келет, ал эми салым кошуучулардан сындырылган бааларды алуу бизге мындай кылууга мүмкүндүк бербейт.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Эмне үчүн Open Food Facts муну жасап жатат (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Азык-түлүк системаларын түшүнүү үчүн баа жөнүндө маалымат абдан маанилүү. Бул азык-түлүктүн баасын түшүнүүдө жана ден-соолукка пайдалуу тамактанууну жайылтууда маанилүү фактор болуп саналат. Баштапкы баа маалыматтары изилдөөчүлөргө, журналисттерге жана жарандарга азык-түлүк бааларынын географиялык жактан жана убакыттын өтүшү менен кандайча өзгөрүп тураарын жакшыраак түшүнүүнү жеңилдетүүнүн жолу болуп саналат.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
