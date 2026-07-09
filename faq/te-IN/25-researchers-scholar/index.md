@@ -1,21 +1,21 @@
 ---
-title: "{{<fa గ్రాడ్యుయేషన్-క్యాప్ సైజు=2x >}} పరిశోధకులు/పండితులు"
-description: "1 ఉపవర్గం"
-lang: en-gb తెలుగు in లో
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: గ్రాడ్యుయేషన్-క్యాప్
+icon: graduation-cap
 listing:
   contents:
-    - "*.ఎండీ"
+    - "*.md"
   include:
     category-level: 1
-  type: గ్రిడ్
+  type: grid
   grid-columns: 4
-  sort: "ఆర్డర్"
-  fields: [ శీర్షిక, వివరణ ]
-  page-size: 100 లు
+  sort: "order"
+  fields: [ title, వివరణ ]
+  page-size: 100
 ---
 
-{{< fa "గ్రాడ్యుయేషన్-క్యాప్" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
