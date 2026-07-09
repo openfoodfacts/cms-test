@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} ಫೋಕ್ಸೊನಮಿ ಎಂಜಿನ್"
-description: "1 ಪ್ರಶ್ನೆ"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: 31 ಕನ್ನಡ
+order: 31
 category-level: 0
-icon: ಪುಸ್ತಕ
+icon: book
 ---
 
-{{< fa "ಪುಸ್ತಕ" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ಫೋಕ್ಸೊನಮಿ ಎಂಜಿನ್ ಎಂದರೇನು?
+## What is the Folksonomy Engine ?
 
-ಫೋಕ್ಸೊನಮಿ ಎಂಜಿನ್ ಎನ್ನುವುದು ಬಳಕೆದಾರರಿಗೆ ವಿಶ್ವದ ಅತಿದೊಡ್ಡ ಓಪನ್-ಫುಡ್ ಡೇಟಾಬೇಸ್ ಓಪನ್ ಫುಡ್ ಫ್ಯಾಕ್ಟ್ಸ್‌ನಲ್ಲಿ ಆಹಾರ ಉತ್ಪನ್ನಗಳಿಗೆ ಕಸ್ಟಮ್ ಟ್ಯಾಗ್‌ಗಳು ಅಥವಾ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಸೇರಿಸಲು ಅನುಮತಿಸುವ ಒಂದು ವ್ಯವಸ್ಥೆಯಾಗಿದೆ. ಇದು ಜನರು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಪೂರ್ವನಿರ್ಧರಿತ ಗುಣಲಕ್ಷಣಗಳನ್ನು ಮೀರಿ ಹೊಸ ರೀತಿಯಲ್ಲಿ ಆಹಾರವನ್ನು ವರ್ಗೀಕರಿಸಲು ಮತ್ತು ವಿವರಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
