@@ -1,37 +1,37 @@
 ---
-title: "{{< velikost kroga vprašanja fa = 2x >}} Odprta dejstva o hrani"
-description: "9 vprašanj"
-lang: sl-gb
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: krog vprašanj
+icon: question-circle
 ---
 
-{{< fa "krog vprašanj" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
-## Kakšna je razlika z drugimi spletnimi stranmi, storitvami in mobilnimi aplikacijami, ki že omogočajo ogled informacij o živilskih izdelkih?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 Glavna razlika je za nas kritičnega pomena: naši podatki so prosto dostopni vsem in za vse vrste uporabe. To je tisto, kar se imenuje odprti podatki.
 
-Skoraj vse druge strani, storitve in aplikacije drugim prepovedujejo reproduciranje in ponovno uporabo svojih podatkov. Quite to the contrary, they jealously keep it for themselves. V skoraj vseh primerih njihovi pogoji storitve izrecno prepovedujejo kakršno koli neosebno uporabo in kakršno koli pridobivanje vseh podatkov ali njihovih delov.
+Skoraj vse druge strani, storitve in aplikacije drugim prepovedujejo reproduciranje in ponovno uporabo svojih podatkov. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Ko smo leta 2012 začeli projekt Open Food Facts in mobilno aplikacijo, smo se odločili storiti ravno nasprotno: ne le, da dovoljujemo uporabo in ponovno uporabo naše baze podatkov, prosto in brezplačno, vsem in za vse namene (vključno s komercialnimi), ampak jo tudi spodbujamo!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Javna dostopnost podatkov (tako imenovani _odprti podatki_) omogoča posameznikom, združenjem, podjetjem, raziskovalcem itd. z vsega sveta, da si zamislijo in razvijejo aplikacije za podatke, na katere zagotovo nikoli ne bi pomislili.
-
----
-
-## Kaj je ekonomski model Open Food Facts?
-
-Sodulejoči so prostovoljci. Njihovi prispevki so zbrani v odprti bazi podatkov, ki jo lahko uporabljajo vsi in za vse namene. (glejte [Pogoji ponovne uporabe](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Vsi (vključno s sodelavci in ustvarjalci Open Food Facts, vendar ne omejeno nanje) lahko tako prerazporedijo in/ali ponovno uporabijo podatke za izdelavo spletnih mest, storitev, programske opreme, mobilnih aplikacij ali za pisanje člankov in študij. So svobodni pri zagotavljanju, da je nastalo delo prosto dostopno, ali da ga prodajajo ali ovrednotijo (npr. Z oglasi), če spoštujejo pogoje ponovne uporabe.
-
-We are also strictly independent from the food industry, and all the services and software we build are free. Na primer, naša platforma za proizvajalce je popolnoma brezplačna in s tem smo še toliko bolj zadovoljni, ker menimo, da bi jim lahko pomagala izboljšati njihove izdelke.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Ali lahko dodam slike ali podatke o izdelku s strani proizvajalca, nakupovalnih mest ali drugih spletnih mest?
+## What is Open Food Facts' economic model
+
+Sodulejoči so prostovoljci. Njihovi prispevki so zbrani v odprti bazi podatkov, ki jo lahko uporabljajo vsi in za vse namene. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. So svobodni pri zagotavljanju, da je nastalo delo prosto dostopno, ali da ga prodajajo ali ovrednotijo (npr. Z oglasi), če spoštujejo pogoje ponovne uporabe.
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
 
@@ -39,82 +39,83 @@ Da bi se izognili kakršnim koli pravnim problemom, prosimo sodelavce, da dodajo
 
 ---
 
-## Kako lahko stopim v stik s skupino Open Food Facts, zastavljam vprašanja ali dodam predlog?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Vprašanja ali predloge lahko postavite na forumu ali pa nas kontaktirate po e-pošti: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Če ste proizvajalec, nam pišite na [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Če ste novinar, nam pišite na [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Opomba: [Open Food Facts je skupna baza podatkov o živilih](https://world.openfoodfacts.org/discover), ne prodajamo nobenega izdelka in nimamo povezav z njihovimi proizvajalci. Za vprašanje ali pritožbo glede izdelka, morate pisati neposredno proizvajalcu (naslov na nalepki izdelka).
-
----
-
-## Ali so informacije in podatki o izdelkih preverjeni?
-
-Informacije in podatke posredujejo sodelavci portala Open Food Facts. V prispevkih so tudi slike izdelka, njegove nalepke, seznam sestavin in tabela prehranskih dejstev. Če ste v dvomih, lahko obiskovalci sami preverte točnost podatkov in če pride do napake, jo lahko popravite na kraju samem.
-
-Da bi lažje zaznali morebitne napake, bomo postopoma dodali samodejne preglede. Npr. če se hranilne vrednosti izdelka zelo razlikujejo od izdelkov iste kategorije, gre lahko za napako. Če je dodanih hranil več kot 100 %, to je definitivno napaka.
-
-Finally, many producers send us photos and data about their products using our Platform for Producers. Če ste producent, prosimo, [nas kontaktirajte](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Sem proizvajalec živilskih izdelkov, lahko dodam svoje izdelke?
+## Is the information and data on products verified?
 
-Da! Edini pogoj je sprejeti dejstvo, da so podatki in slike na voljo v okviru odprte licence. (glejte [Pogoje prispevka](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. V prispevkih so tudi slike izdelka, njegove nalepke, seznam sestavin in tabela prehranskih dejstev. Če ste v dvomih, lahko obiskovalci sami preverte točnost podatkov in če pride do napake, jo lahko popravite na kraju samem.
 
-Razvili smo brezplačno platformo, ki vam omogoča enostaven uvoz fotografij in podatkov o vaših izdelkih, ne glede na njihovo velikost. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Za nadaljnje ukrepanje nas kontaktirajte: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Da bi lažje zaznali morebitne napake, bomo postopoma dodali samodejne preglede. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Če je dodanih hranil več kot 100 %, to je definitivno napaka.
+
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Kdo uporablja podatke Open Food Facts?
+## I am a food product manufacturer, can I add my own products?
 
-Predolgo bi
-naštevali vse organizacije, ki se zanašajo na platformo Open Food Facts
-.
+Da! Edini pogoj je sprejeti dejstvo, da so podatki in slike na voljo v okviru odprte licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-- Več kot 100 mobilnih aplikacij
-  obravnava potrebe številnih občinstev: sladkorna bolezen (VeryDiab), alergije, prehransko
-  ravnovesje prek umetne inteligence (FoodVisor), invalidnosti in drugo. Naša baza podatkov
-  je omogočila tudi ustvarjanje Yuke.
-- Veliko spletnih strani: CombienDeSucres.fr,
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
+
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
+
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Podatkovni novinarji: Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Raziskovalci v skoraj 100 znanstvenih člankih
-- Banke hrane in solidarnostne trgovine: projekt
-  Data For Good v nadaljevanju pilotnega projekta, ki ga je začel
-  francoski Rdeči križ, integracija v upravljanje denarnih sredstev majhne živilske
-  zadruge.
-- Podjetja: Terraillon uporablja naše podatke
-  za delovanje svojih povezanih tehtnic.
-- Šole programiranja (Simplon, Open
-  Classrooms) so v svoj
-  učni načrt vključile Open Food Facts kot motivacijski projekt.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Kako lahko podprem Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts je neprofitno združenje, ustanovljeno leta 1901. Pomagate nam lahko tako, da [sodelujete v projektu](https://fr-en.openfoodfacts.org/contribute) in nas finančno podprete s svojimi [donacijami](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66 % odbitna franšiza) ter tudi z uporabo iskalnika Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Najlepša hvala
-!**
+**Thank
+you very much!**
 
 ---
 
-## Ne najdem odgovora na svoje vprašanje
+## I can't find the answer to my question
 
-Če ne najdete odgovora na svoje vprašanje (vprašanja), nas brez oklevanja kontaktirajte prek:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Naš Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Naš forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
