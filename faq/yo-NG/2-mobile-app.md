@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Ohun èlò fóònù alágbéka"
-description: "Àwọn ìbéèrè mẹ́rin"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: alagbeka
+icon: mobile
 ---
 
-{{< fa "alagbeka" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Báwo ni mo ṣe lè mọ irú àpù tí mò ń lò?
+## How do I know which version of the app I'm using?
 
-Lọ sí **Profile**,
-lẹ́yìn náà **FAQ**, lẹ́yìn náà **Nípa àpù yìí.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
 You should
-see a version number like 3.4.5+662. Má gbàgbé láti sọ fún wa bí fóònù náà ṣe rí àti irú rẹ̀
-tí ó bá ń ṣe àtúnṣe sí i.
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Àpù náà kò ṣe àyẹ̀wò
+## The app does not scan
 
-Èyí lè jẹ́ nítorí
+This may be due to
 
-- iṣoro nẹtiwọọki kan
+- a network problem
 
-- iṣoro awọn igbanilaaye kan
+- a permissions problem
 
-- iṣoro koodu barcode kan
+- a barcode problem
 
-Fi imeeli ranṣẹ si wa nipasẹ Profaili >> Pe Wa >> Fi imeeli ranṣẹ si wa.
+Send us an email via Profile >> Contact Us >> Send us an email.
 
-Gbogbo alaye to ba yẹ ki o wa ninu ibeere re.
-
----
-
-## Báwo ni mo ṣe lè ṣe ìrànlọ́wọ́ láti mú kí ohun èlò ìbánisọ̀rọ̀ alágbèéká dára síi?
-
-Báwo ni mo ṣe lè ṣe ìrànlọ́wọ́ láti mú kí ohun èlò ìbánisọ̀rọ̀ alágbèéká dára síi?
-
-O le [ṣe bẹ́ẹ̀ lórí ibi ìpamọ́ ohun èlò alágbèéká](https://github.com/openfoodfacts/smooth-app)
+All relevant information should be attached to your request.
 
 ---
 
-## Nibo ni mo ti le fi esi ranṣẹ si nipa ohun elo naa?
+## How can I help with improving the mobile app ?
 
-O le fi esi ranṣẹ si mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
