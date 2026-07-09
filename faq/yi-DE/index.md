@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "אָפֿט געשטעלטע פֿראַגעס - ענגליש"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/אינדעקס.מד"
+    - "*/index.md"
   include:
     category-level: 0
-  type: גריד
+  type: grid
   grid-columns: 4
-  sort: "באַשטעלן"
-  fields: [ טיטל, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
