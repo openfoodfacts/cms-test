@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} ክፍት ምርቶች እውነታዎች"
-description: "3 ጥያቄዎች"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: ቁልፍ
+icon: key
 ---
 
-{{< fa "ቁልፍ" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## በ iPhone ላይ የክፍት ምርቶች እውነታዎችን እንዴት ማግኘት ይቻላል?
+## How to access Open Products Facts on iPhone ?
 
-የክፍት ምርቶች እውነታዎች በዋናው የክፍት ምግብ እውነታዎች መተግበሪያ ውስጥ ይገኛሉ። ይህ ውህደት የአይፎን ተጠቃሚዎች ሁለቱንም የውሂብ ጎታዎች በአንድ ምቹ መተግበሪያ በኩል እንዲያገኙ ያስችላቸዋል።
-
----
-
-## የOpen Products Factsን መደገፍ እፈልጋለሁ። ምን ላድርግ ፧
-
-እባክዎ የዊኪ ገጻችንን ያንብቡ፣ ለመሳተፍ የሚያስችሉ መንገዶችን ዘርዝረናል፦ [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-ክፍት የምርት እውነታዎችን ለመደገፍ፣ የሚከተሉትን አማራጮች ግምት ውስጥ ማስገባት ይችላሉ፣ እያንዳንዳቸው ለተለያዩ የአስተዋጽኦ ዓይነቶች የተዘጋጁ ናቸው፡
-
--
-
-**ለክፍት ምርቶች የበጎ አድራጎት/ግዛት ስፖንሰሮች እውነታዎች**፡
-የበጎ አድራጎት አስተዋፅዖዎች ከ20000 በላይ በሆኑ ምድቦች ውስጥ አጠቃላይ የክብ ዳታ መድረክ፣ የምርት ውጤት እና የክብ መፍትሄዎች ስብስብ ራዕይን ለማሳካት ወሳኝ ናቸው፣ ይህም የክፍት ምርቶች እውነታዎች ቁልፍ ግብ ነው። የዚህ ራዕይ ብዙ አስፈላጊ ክፍሎች እስካሁን የገንዘብ ድጋፍ አላደረጉም፣ እና የገንዘብ ድጋፍዎ ከፍተኛ ተጽዕኖ ሊያሳድር ይችላል። የእርስዎ ልገሳዎች ወሳኝ የሆኑ እድገቶችን እና መሠረተ ልማቶችን ለመደገፍ ሊረዱ ይችላሉ። በገንዘብ ለመሳተፍ፣ እባክዎን በ contact@openfoodfacts.org ያግኙን።
-
--
-
-**የውሂብ አስተዋጽዖ አበርካቾች የክፍት ምርቶች እውነታዎች መተግበሪያን በመጠቀም**፡
-የውሂብ አስተዋጽዖዎች የክፍት ምርቶች እውነታዎችን ለማስፋት ወሳኝ ናቸው። የአንድሮይድ መተግበሪያን በመጠቀም አዲስ የምርት መረጃ ለመጨመር፣ ነባር ግቤቶችን ለማዘመን ወይም ውሂብን ለማረጋገጥ የውሂብ ጎታውን ለማስፋት እና ለማሻሻል ይረዳሉ። ይህ የጋራ ጥረት ለሁሉም ሰው የሚሆን ጠንካራ እና አስተማማኝ ሀብት ለመገንባት አስተዋጽኦ ያደርጋል።
-
--
-
-**ለክፍት ምርቶች ቴክኒካዊ አስተዋጽዖ አበርካቾች እውነታዎች**፡
-እንደ ፕሮግራሚንግ፣ የውሂብ ትንተና ወይም የተጠቃሚ ተሞክሮ ዲዛይን ባሉ ዘርፎች የቴክኒክ ክህሎቶች ካሉዎት፣ እውቀትዎ ለክፍት ምርቶች እውነታዎች በእጅጉ ሊጠቅም ይችላል። በመተግበሪያው ልማት ላይ መሳተፍ፣ ተግባሩን ማሻሻል ወይም የተጠቃሚ በይነገጾችን ማሻሻል ጠቃሚ አስተዋፅዖዎች ናቸው። ለመሳተፍ፣ የOpen ProductsFacts ማህበረሰብ የሚተባበርበትን #openproductsfacts Slack ቻናል ይቀላቀሉ። ወደዚህ የSlack የስራ ቦታ የሚወስድ አገናኝ በክፍት የምግብ እውነታዎች ድህረ ገጽ ላይ ማግኘት ይችላሉ።
-
-እያንዳንዱ አይነት አስተዋጽኦ ለ Open Products Facts እድገት እና ስኬት አስፈላጊ ነው፣ ይህም ለሁሉም ሰው የበለጠ ዘላቂ እና መረጃ ሰጪ መድረክ ለመፍጠር ይረዳል።
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## የክፍት ምርቶች እውነታዎች ኤፒአይ የት ማግኘት እችላለሁ?
+## I would like to support Open Products Facts. What can I do ?
 
-የክፍት ምርቶች እውነታዎች ኤፒአይ ከክፍት ምግብ እውነታዎች ኤፒአይ ጋር 98% ተመሳሳይ ነው፣ ስለዚህ የክፍት ምግብ እውነታዎች ኤፒአይ ሰነዶችን የሚጠቀሙ ከሆነ የክፍት ምርቶች እውነታዎች ኤፒአይን በጣም ግልጽ የሆነ እይታ ሊኖርዎት ይገባል። እንዲሁም በመተግበሪያዎ ውስጥ ሁለንተናዊ ቅኝትን ተግባራዊ ለማድረግ የሚያስችል ልዩ አጋዥ ስልጠና አዘጋጅተናል።
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
