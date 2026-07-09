@@ -1,23 +1,23 @@
 ---
-title: "פרויקטים של בית ספר"
-description: "2 שאלות"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: קובץ-o
+icon: file-o
 ---
 
-{{< fa "קובץ-o" size="פי 3" >}}
+{{< fa "file-o" size=3x >}}
 
-## יש לי פרויקט בית ספרי לעשות, אני רוצה להשתמש בנתונים של Open Food Facts, האם אני יכול לעשות זאת?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-עובדות מזון פתוחות, הוא מסד נתונים פתוח, פרויקט פתוח הפועל תחת רישיון ODbL, לכן כל עוד אתם מסכימים לדרישות רישיון ODbL, אתם מוזמנים לעשות שימוש חוזר בנתונים שלנו עבור הפרויקטים שלכם :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## כיצד אוכל לגשת/לאסוף נתונים עבור הפרויקטים שלי?
+## How can I access/collect data for my projects ?
 
-בעמוד הראשי של Open Food Facts, בפינה השמאלית העליונה של המסך, יש תפריט גלילה. בתחתיתו תמצאו את אפשרות "חיפוש מתקדם", עליה תוכלו ללחוץ. לאחר מכן, זה תלוי בך לקבוע אילו קריטריונים הם הרלוונטיים ביותר לפרויקט/ים שלך. לאחר הבחירה, תוכלו להוריד את התוצאות שהתקבלו על ידי גלילה מטה בתחתית הדף ולחיצה על "הורד תוצאות".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
