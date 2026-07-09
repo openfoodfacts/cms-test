@@ -1,18 +1,18 @@
 ---
-title: "Producteurs {{< fa industry size=2x >}}"
+title: "{{< fa industry size=2x >}} Producteurs"
 description: "6 sous-catégories"
-lang: en-gb
+lang: fr-fr
 order: 3
 category-level: 0
 icon: industrie
 listing:
   contents:
-    - "*.Maryland"
+    - "*.md"
   include:
     category-level: 1
   type: grille
   grid-columns: 4
-  sort: "commande"
+  sort: "ordre"
   fields: [ titre, description ]
   page-size: 100
 ---
