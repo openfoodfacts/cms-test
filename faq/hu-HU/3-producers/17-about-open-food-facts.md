@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Az Open Food Factsről"
-description: "4 kérdés"
-lang: hu-gb
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: információs kör
+icon: info-circle
 ---
 
-{{< fa "információs kör" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Milyen típusú információkat kell megosztani?
+## What type of information should be shared?
 
-Bármilyen információ szívesen fogadható, a tápértéktől a csomagoláson található információkig.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Ez lehetővé teszi egy teljes körű nyilvántartás létrehozását, az összes pontszám pontos kiszámítását, és általánosságban véve a fogyasztók által nagyra értékelt átláthatóságot.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Azonban javasoljuk, hogy a következő mezőket részesítse előnyben:
+However we do recommend you prioritize the following fields:
 
-- Tápanyagtartalom
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Termékkategória (pl. italok, sajt, joghurt stb.)
-
-- A termék neve
-
-- Allergének
-
-- és az összetevőket, ez a mező nem kötelező, de ajánlott az optimális használat és a pontszámok meghatározása érdekében
-
-→ További részletekért kérjük, töltse le [felhasználói útmutatónkat](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) és/vagy tekintse meg [videóinkat](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Letölthetem az Open Food Facts adatait?
+## Can I download Open Food Facts data?
 
-Az összes elérhető adatot letöltheted az Open Food Facts oldalról. Vigyázat, ehhez sok lemezterületre van szükség, erős számítógépre, ha táblázatkezelőt szeretnél használni, egyébként pedig R vagy Python ismeretre.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-A speciális keresésnek köszönhetően az adatok egy részhalmazát is letöltheti (például a márkáját).
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ További részletekért kérjük, töltse le [felhasználói útmutatónkat](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) és/vagy tekintse meg [videóinkat](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ingyenes a Pro platformhoz való hozzáférés és az adatok importálása?
-
-Abszolút, és örökké így is marad.Az Open Food Facts által nyújtott összes szolgáltatás ingyenes.  
-Nagyon örülünk, hogy úgy döntött, hozzájárul termékadataival az élelmiszer-átláthatósági programhoz, és köszönjük ezt.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Szeretnék javaslatokat tenni a professzionális platform fejlesztésére, hogyan tehetem ezt meg?
+## Is access to the Pro platform and the import of data free?
 
-Köszönjük, hogy hajlandó részt venni az élelmiszer-átláthatósági programban!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-A visszajelzés megosztásának legjobb módja az [ennek az űrlapnak](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) kitöltése.
+---
 
-Javaslatokat a [fórumunkon](https://forum.openfoodfacts.org/) vagy a [Slacken](https://openfoodfacts.slack.com/ssb/redirect) keresztül is tehetsz velünk.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Csatlakozz a Slack csatornánkhoz és a #producers csatornánkhoz, hogy kapcsolatba léphess velünk.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
