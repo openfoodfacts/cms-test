@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Mu na sgòran"
-description: "3 ceistean"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: loidhne-chlàir
+icon: chart-line
 ---
 
-{{< fa "loidhne-chlàir" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Cò a tha an urra ri bhith a’ tomhas an lorg-coise agus/no an sgòr?
+## Who is responsible for calculating the footprint and/or score?
 
-Tha an Nutri-Score, buidheann NOVA agus Eco-Score air an obrachadh a-mach a rèir an dàta a tha an làthair ann am Open Food Facts. Tha na h-algairim againn a’ leantainn gu teann modhan-obrach oifigeil nan sgòran sin.
-
----
-
-## Dè an diofar eadar an Eco-Score, an Nutri-Score agus buidheann NOVA?
-
-Is e adhbhar nan comharran seo fiosrachadh a tha furasta a thuigsinn a thoirt don neach-cleachdaidh.
-
-Bidh a’ [bhuidheann NOVA](https://fr.openfoodfacts.org/nova) a’ dèiligeadh ri cruth-atharrachadh an toraidh, an [Sgòr-Eag-eòlasach](https://fr.openfoodfacts.org/ecoscore) leis a’ bhuaidh a th’ aige air an àrainneachd agus an [Sgòr-Beathachaidh](https://fr.openfoodfacts.org/nutriscore) leis na h-eileamaidean beathachaidh, agus fios aca gur ann as motha de sgòran faisg air A a th’ aig toradh, ’s ann as fheàrr a tha e càileachdail.
-
-Chan eil na 3 sgòran a’ dèiligeadh ris na h-aon eileamaidean. Mar sin chan eil e comasach coimeas a dhèanamh eadar iad agus a chèile.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## A bheil e comasach Sgòr-Eco no Sgòr-Beathachaidh mo thoraidhean ath-chruthachadh?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Le bhith a’ clàradh air àrd-ùrlar nan riochdairean agus a’ luchdachadh suas dàta do thoraidhean, faodaidh tu an Nutri-Score agus an Eco-Score co-cheangailte ri do thoraidhean obrachadh a-mach.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Ach, feumaidh tu a dhubhadh às aon uair ‘s gu bheil an atharrais air a dhèanamh gus nach tèid a thoirt a-mach chun àrd-ùrlar poblach leis na toraidhean a tha mar-thà air am margaidheachd anns an raon agad.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Airson tuilleadh fiosrachaidh, tha sinn a’ toirt cuireadh dhut an [stiùireadh-cleachdaidh] againn a luchdachadh sìos (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) agus/no co-chomhairle a chumail ris na [bhidiothan-teagaisg] againn (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
