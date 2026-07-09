@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobili size=2x >}} Mobili app"
-description: "4 ɲininkaliw"
-lang: bamanankan-gb
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: telefɔni
+icon: mobile
 ---
 
-{{< fa "telefɔni" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ne bɛ se k’a dɔn cogo di ko ne bɛ baara kɛ ni appli version min ye?
+## How do I know which version of the app I'm using?
 
-Aw bɛ taa **Profile**,
-o kɔfɛ **FAQ**, o kɔfɛ **Nin appli in ko la.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Aw ka kan ka
-sɛgɛsɛgɛli nimɔrɔ dɔ ye i n’a fɔ 3.4.5+662. Aw kana ɲinɛ ka telefɔni in dilanni ni a modɛli
-fɔ an ye n’a bɛ ka debugging kɛ.
-
----
-
-## Application tɛ scan kɛ
-
-O bɛ se ka kɛ sababu ye ka...
-
-- gɛlɛya dɔ don rezow la
-
-- yamaruyaw gɛlɛya dɔ
-
-- barɔdi gɛlɛya dɔ
-
-Aw ye bataki ci an ma Profil >> Contactez-nous >> Email ci an ma.
-
-Kunnafoni minnu bɛ bɛn o ma, olu bɛɛ ka kan ka nɔrɔ i ka ɲinini na.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ne bɛ se ka dɛmɛ don cogo di ka mobili appli (application mobile) ɲɛ ka taa a fɛ ?
+## The app does not scan
 
-Ne bɛ se ka dɛmɛ don cogo di ka mobili appli (application mobile) ɲɛ ka taa a fɛ ?
+This may be due to
 
-Aw bɛ se [o kɛ Mobile app marayɔrɔ la](https://github.com/openfoodfacts/smooth-app) .
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ne bɛ se ka hakilinaw ci min appli in kan ?
+## How can I help with improving the mobile app ?
 
-Aw bɛ se ka hakilinaw ci mobile@openfoodfacts.org kan
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
