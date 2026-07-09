@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Տվյալների ներբեռնում"
-description: "1 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: ամպային ներբեռնում
+icon: cloud-download
 ---
 
-{{< fa "ամպային ներբեռնում" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Որտեղի՞ց ստանալ տվյալ երկրի տվյալները։
+## Where to get the data for a specific country?
 
-Ներկայումս որևէ կոնկրետ երկիր արտահանում չի իրականացվում։
+Currently, there are no exports dedicated to specific countries.
 
-Կան բազմաթիվ եղանակներ մեր տարբեր արտահանումները տարբեր գործիքների հետ համատեղ օգտագործելու համար՝ որոշակի երկրին վերաբերող տվյալներ ընտրելու համար։
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Դուք կարող եք դիտել [այս տեխնիկաներից մի քանիսը մեր վիքիում](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data):
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
