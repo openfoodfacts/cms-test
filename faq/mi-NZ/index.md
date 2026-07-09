@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Ngā Pātai Auau - Ingarihi"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/taurangi.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: whatunga
+  type: grid
   grid-columns: 4
-  sort: "tono"
-  fields: [ taitara, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
