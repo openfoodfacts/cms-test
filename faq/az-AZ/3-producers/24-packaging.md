@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Qablaşdırma"
-description: "3 sual"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kub
+icon: cube
 ---
 
-{{< fa "kub" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Qablaşdırma məlumatlarımı Open Food Facts-a necə əlavə edə bilərəm?
+## How can I add my packaging data to Open Food Facts?
 
-İstehsalçı olaraq, məhsullarınıza qablaşdırma məlumatlarını əlavə etməyin ən səmərəli yolu "AU" sütunundan lazımi məlumatları bu [excel cədvəli](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) bölməsinə doldurmaqdır.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Hər qablaşdırma komponenti üçün aşağıdakıları daxil etməlisiniz:
+For each packaging component, you will need to enter:
 
-- Vahidlərin sayı (məs: **4** qazan qatıq)
+- The number of units (ex: **4** pots of yogurts)
 
-- Forma (məs: **qazan, qapaq, qutu və s.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Material (məs: **PET, kağız, şüşə və s.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Təkrar emal təlimatı (məs: **təkrar emal etmək, atmaq və s.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Bir boş vahidin çəkisi (qramla)
+- The weight of one empty unit (in gr)
 
-- Vahid başına düşən məhsulun xalis miqdarı
+- The net quantity of product contained per unit
 
-Bu cədvəl daha sonra peşəkarlar üçün nəzərdə tutulmuş platformamıza idxal edilə bilər.
-
----
-
-## Qida Qablaşdırması ilə Mübarizə layihəsi nədir?
-
-"Qida Qablaşdırması ilə Mübarizə" layihəsi ən çox istehlak edilən məhsulların qablaşdırılması (forma, material, çeşidləmə təlimatları, çəki, tutum) haqqında ətraflı məlumat toplamaqdan ibarətdir.
-
-İştirakçı elmi yanaşmaya əsaslanaraq, bu, həm şirkətlərin qablaşdırma məlumatlarını paylaşmağa və şəffaflıq oyununu oynamağa razılıq verməsinə, həm də vətəndaşların məhsullar haqqında məlumat toplamasına icazə verməsinə əsaslanacaq. Bu məlumatlar sərbəst şəkildə təkrar istifadə edilə biləcək ("açıq məlumatlar").
-
-**Ətraflı məlumat üçün:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Qida Qablaşdırması ilə Mübarizə layihəsi bitdikdən sonra belə, qablaşdırma məlumatlarımı əlavə edə bilərəmmi?
+## What is the Tackling Food Packaging project?
 
-Layihə bitdikdən sonra belə, qablaşdırma sahələri veb saytımızda qalacağı üçün qablaşdırma məlumatlarını əlavə etmək mümkündür.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
