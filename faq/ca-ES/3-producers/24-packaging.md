@@ -1,49 +1,49 @@
 ---
-title: "{{< mida del cub fa=2x >}} Embalatge"
-description: "3 preguntes"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: cub
+icon: cube
 ---
 
-{{< fa "cub" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Com puc afegir les dades del meu envàs a Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Com a productor, la manera més eficient d'afegir dades d'envasament als vostres productes és omplint aquest [full de càlcul d'Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) la informació necessària, de la columna "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Per a cada component de l'embalatge, haureu d'introduir:
+For each packaging component, you will need to enter:
 
-- El nombre d'unitats (ex: **4** pots de iogurts)
+- The number of units (ex: **4** pots of yogurts)
 
-- La forma (ex: **pot, tapa, caixa, etc.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- El material (ex: **PET, paper, vidre, etc.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- La instrucció de reciclatge (per exemple: **reciclar, llençar, etc.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- El pes d'una unitat buida (en grams)
+- The weight of one empty unit (in gr)
 
-- La quantitat neta de producte continguda per unitat
+- The net quantity of product contained per unit
 
-Aquest full de càlcul es pot importar a la nostra plataforma dedicada a professionals.
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Què és el projecte Tackling Food Packaging?
+## What is the Tackling Food Packaging project?
 
-El projecte "Tackling Food Packaging" consisteix en la recopilació d'informació detallada sobre l'envàs dels productes més consumits (forma, material, instruccions de classificació, pes, capacitat).
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
 
-Basat en un enfocament de ciència participativa, es basarà tant en què les empreses acceptin compartir les seves dades d'envasos i jugar al joc de la transparència, com en què els ciutadans permetin la recopilació d'informació sobre els productes. Aquesta informació serà reutilitzable lliurement ("dades obertes").
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
 
 **For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
 
 ---
 
-## Fins i tot després de finalitzar el projecte Tackling Food Packaging, puc afegir les dades del meu envàs?
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
 
-Fins i tot després de finalitzar el projecte, és possible afegir dades d'embalatge, ja que els camps d'embalatge romandran al nostre lloc web.
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
