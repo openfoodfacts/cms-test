@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Anailís ar phunann na dtáirgí (tagarmharc, feabhsú...)"
-description: "1 cheist"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: barra-chairte
+icon: chart-bar
 ---
 
-{{< fa "barra-chairte" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Conas rochtain a fháil ar an moladh athfhoirmlithe chun Scór Cothaitheach mo tháirgí a fheabhsú?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Nuair atá tú ar leathanach baile Ardán na Léiritheoirí:
+When you are on the home page of the Producers Platform:
 
-1. cliceáil ar an nasc "→ Líon na dtáirgí le deiseanna feabhsúcháin" ag barr an leathanaigh.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. is féidir leat dul i gcomhairle leis na deiseanna uile a bhraitear ag ár gcóras chun feabhas a chur ar do tháirgí
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Trí chliceáil ar chineál deise, tabharfar chuig an liosta táirgí atá faoi réir feabhsúcháin thú.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
