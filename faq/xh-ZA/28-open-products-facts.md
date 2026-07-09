@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Iinyaniso zeMveliso eziVulekileyo"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
+lang: en-gb
 order: 28
 category-level: 0
-icon: isitshixo
+icon: key
 ---
 
-{{< fa "isitshixo" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Ungazifikelela njani iiNkcukacha zeMveliso eziVulekileyo kwi-iPhone?
+## How to access Open Products Facts on iPhone ?
 
-I-Open Products Facts ifumaneka kwi-app ephambili ye-Open Food Facts. Olu qhagamshelo luvumela abasebenzisi be-iPhone ukuba bafikelele kuzo zombini ii-database ngesicelo esinye nesilula.
-
----
-
-## Ndingathanda ukuxhasa iiNkcukacha zeMveliso eziVulekileyo. Ndingenza ntoni ?
-
-Nceda ufunde iphepha lethu le-wiki, sidwelise iindlela zokuzibandakanya: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Ukuxhasa iiNkcukacha zeMveliso eziVulekileyo, ungaqwalasela ezi ndlela zilandelayo, nganye ilungiselelwe iintlobo ezahlukeneyo zeminikelo:
-
--
-
-**Abaxhasi beZibonelelo/beLizwe kwiiNkcukacha zeMveliso eziVulekileyo**:
-Iminikelo yeZibonelelo ibalulekile ekufezekiseni umbono weqonga ledatha ejikelezayo, amanqaku emveliso, kunye nokuhlanganiswa kwezisombululo ezijikelezayo, kwiindidi ezingaphezu kwama-20000+, injongo ephambili yeZibonelelo zeMveliso eziVulekileyo. Izinto ezininzi ezibalulekileyo zale mbono azikaxhaswa ngemali okwangoku, kwaye inkxaso yakho yemali inokuba nefuthe elikhulu. Iminikelo yakho inokunceda ekuxhaseni uphuhliso olubalulekileyo kunye neziseko zophuhliso. Ukuze unikele ngemali, nceda unxibelelane nathi ku-contact@openfoodfacts.org
-
--
-
-**Abanikeli beDatha besebenzisa i-Open Products Facts App**:
-Iminikelo yedatha ibalulekile ekuphuculeni i-Open Products Facts. Ngokusebenzisa i-app ye-Android ukongeza ulwazi olutsha lwemveliso, ukuhlaziya okufakiweyo okukhoyo, okanye ukuqinisekisa idatha, unceda ekwandiseni nasekuphuculeni isiseko sedatha. Lo mzamo udibeneyo unegalelo ekwakheni isixhobo esiqinileyo nesinokuthenjwa ngumntu wonke.
-
--
-
-**Abanikeli boBugcisa kwiiNkcukacha zeMveliso eziVulekileyo**:
-Ukuba unezakhono zobugcisa kwiindawo ezifana nokuprograma, uhlalutyo lwedatha, okanye uyilo lwamava omsebenzisi, ubuchule bakho bunokuba luncedo kakhulu kwiiNkcukacha zeMveliso eziVulekileyo. Ukubandakanyeka kuphuhliso lwe-app, ukuphucula ukusebenza kwayo, okanye ukuphucula i-interface yomsebenzisi zizinto ezibalulekileyo. Ukuze ubandakanyeke, joyina itshaneli ye-#openproductsfacts Slack, apho uluntu lwe-Open Products Facts lusebenzisana khona. Ungafumana ikhonkco eliya kule ndawo yokusebenza yeSlack kwiwebhusayithi ye-Open Food Facts.
-
-Uhlobo ngalunye lomnikelo lubalulekile ekukhuleni nasekuphumeleleni kwe-Open Products Facts, nto leyo enceda ekudaleni iqonga elizinzileyo nelinolwazi ngakumbi kuwo wonke umntu.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Ndingayifumana phi i-Open Products Facts API?
+## I would like to support Open Products Facts. What can I do ?
 
-I-Open Products Facts API ifana nge-98% ne-Open Food Facts API, ngoko ke ukuba usebenzisa uxwebhu lwe-Open Food Facts API, kuya kufuneka ube nombono ocacileyo we-Open Products Facts API. Sikwanazo nezifundo ezibhaliweyo ezizinikeleyo ukuvumela ukuba usebenzise i-universal scan kwi-app yakho.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
