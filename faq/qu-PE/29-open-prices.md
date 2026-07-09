@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dólar sayay=2x >}} Kichay Preciokuna"
-description: "3 tapuykuna"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
-order: 29. 29
+order: 29
 category-level: 0
-icon: dólar
+icon: dollar
 ---
 
-{{< fa "dólar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ñuqaqa qhatuqmi kani, chaymi preciokunata yanapayta munani. ¿Imaynatataq chayta ruwayman?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Chanikunata yanapayta atikunki [APIyku](https://prices.openfoodfacts.org/api/docs) llamk'achispa. Sichus chaninkunata escalapi yanapakuyta munanki, ama hina kaspa ñuqaykuwan rimanakuy kaypi [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## ¿Qhawankichu qhatuqkunap web kitinkunamanta chaninkunata raspayta?
+## Do you consider scraping prices from retailers’ websites?
 
-Legal chaymanta técnica razonkunarayku, mana ranqhaqkunap web kitinkunamanta chaninkuna raspayta huk allin ñan hina Kichasqa Preciokuna yanapakuypaq qhawaykuchu. Huñusqayku chaninkuna chiqan chaymanta kunan pacha kaqta qhawayta munayku, chaymanta qullqi quqkunamanta raspasqa chaninkuna chaskiyqa mana chayta ruwayta saqiwanchikchu.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## ¿Imaraykutaq Open Food Facts kayta ruwachkan (Kichasqa Precios)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Precio nisqamanta willakuyqa aswan allinmi mikhuy sistemakunata hamut’anapaq. Chayqa huk factor clave mikhuypa chaninmanta hamut’anapaq hinallataq aswan qhali mikhuykunata kallpachanapaq. Preciomanta willakuykunata kichayqa, aswan facilmi investigadorkunapaq, periodistakunapaq, llaqta runakunapaqpas, aswan allinta hamut’anankupaq, imaynatas mikhuypa chaninkuna geográficamente, tiempowan ima t’ikrakun chayta.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
