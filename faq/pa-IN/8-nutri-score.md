@@ -1,31 +1,31 @@
 ---
-title: "{{< fa ਦਿਲ ਦੀ ਧੜਕਣ ਦਾ ਆਕਾਰ=2x >}} ਨਿਊਟ੍ਰੀ-ਸਕੋਰ"
-description: "3 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: ਦਿਲ ਦੀ ਧੜਕਣ
+icon: heartbeat
 ---
 
-{{< fa "ਦਿਲ ਦੀ ਧੜਕਣ" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## ਜੇਕਰ ਮੇਰੇ ਉਤਪਾਦਾਂ ਦਾ ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਸਹੀ ਨਹੀਂ ਹੈ ਤਾਂ ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+## What should I do if the Nutri-Score of my products is not correct?
 
-ਤੁਹਾਡੇ ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੋਣ ਦੀ ਸੂਰਤ ਵਿੱਚ, ਆਪਣੀ ਉਤਪਾਦ ਸ਼ੀਟ ਦੇ "ਸੋਧੋ" ਟੈਬ 'ਤੇ ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਸਹੀ ਹੈ। ਜੇਕਰ ਕੋਈ ਜਾਣਕਾਰੀ ਗੁੰਮ ਜਾਂ ਗਲਤ ਹੈ, ਤਾਂ ਸਾਡੇ ਨਾਲ \*\* producers@openfoodfacts.org\*\* 'ਤੇ ਸੰਪਰਕ ਕਰਨ ਤੋਂ ਝਿਜਕੋ ਨਾ।
-
----
-
-## ਮੈਨੂੰ ਕਿਸ ਕਿਸਮ ਦੀ ਜਾਣਕਾਰੀ ਪ੍ਰਦਾਨ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਤਾਂ ਜੋ ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਦੀ ਗਣਨਾ ਜਿੰਨੀ ਸੰਭਵ ਹੋ ਸਕੇ ਸਹੀ ਢੰਗ ਨਾਲ ਕੀਤੀ ਜਾ ਸਕੇ?
-
-ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਦੀ ਗਣਨਾ ਤੁਹਾਡੇ ਉਤਪਾਦ ਦੇ ਪੋਸ਼ਣ ਸਾਰਣੀ ਨਾਲ ਕੀਤੀ ਜਾਵੇਗੀ।
-
-ਆਪਣੀ ਸਾਰਣੀ ਵਿੱਚ ਫਲਾਂ, ਸਬਜ਼ੀਆਂ ਅਤੇ ਗਿਰੀਆਂ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਸ਼ਾਮਲ ਕਰਨਾ ਨਾ ਭੁੱਲੋ, ਤਾਂ ਜੋ ਗਣਨਾ ਕੀਤਾ ਗਿਆ ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਗਲਤ ਨਾ ਹੋਵੇ।
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਕਿੱਥੋਂ ਆਉਂਦਾ ਹੈ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-ਨਿਊਟ੍ਰੀ-ਸਕੋਰ ਦਾ ਪ੍ਰਬੰਧਨ ਸੈਂਟੇ ਪਬਲਿਕ ਫਰਾਂਸ ਦੁਆਰਾ ਕੀਤਾ ਜਾਂਦਾ ਹੈ। ਇਹ ਪੌਸ਼ਟਿਕ ਮੁੱਲਾਂ ਦੀ ਸਾਰਣੀ ਦਾ ਸਾਰ ਦਿੰਦਾ ਹੈ ਤਾਂ ਜੋ ਹਰ ਕੋਈ ਇਸਨੂੰ ਸਮਝ ਸਕੇ। ਟੀਚਾ ਹਰ ਕਿਸੇ ਲਈ ਸਪਸ਼ਟ ਅਤੇ ਸਮਝਣ ਯੋਗ ਪੋਸ਼ਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਤੱਕ ਪਹੁੰਚ ਪ੍ਰਦਾਨ ਕਰਨਾ ਹੈ।
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
