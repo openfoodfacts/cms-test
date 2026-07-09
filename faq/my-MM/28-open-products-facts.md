@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} ထုတ်ကုန်အချက်အလက်များ"
-description: "မေးခွန်း ၃ ခု"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
-order: ၂၈
+order: 28
 category-level: 0
-icon: သော့
+icon: key
 ---
 
-{{< fa "သော့" size="၃ ဆ" >}}
+{{< fa "key" size=3x >}}
 
-## iPhone မှာ Open Products Facts ကို ဘယ်လိုဝင်ကြည့်ရမလဲ။
+## How to access Open Products Facts on iPhone ?
 
-Open Products Facts ကို အဓိက Open Food Facts အက်ပ်အတွင်းတွင် ရရှိနိုင်ပါသည်။ ဒီပေါင်းစပ်မှုက iPhone အသုံးပြုသူတွေကို အဆင်ပြေတဲ့ application တစ်ခုတည်းကနေတစ်ဆင့် database နှစ်ခုလုံးကို ဝင်ရောက်ကြည့်ရှုနိုင်စေပါတယ်။
-
----
-
-## Open Products Facts ကို ကျွန်တော်/ကျွန်မ ထောက်ခံချင်ပါတယ်။ ကျွန်တော်ဘာလုပ်ပေးရမလဲ ?
-
-ကျွန်ုပ်တို့၏ ဝီကီစာမျက်နှာကို ဖတ်ရှုပါ၊ ပါဝင်ဆောင်ရွက်ရန် နည်းလမ်းများကို ကျွန်ုပ်တို့တွင် စာရင်းပြုစုထားပါသည်။ [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Open Products Facts ကို ပံ့ပိုးရန်အတွက်၊ ပံ့ပိုးကူညီမှုအမျိုးအစားအမျိုးမျိုးအတွက် စိတ်ကြိုက်ပြင်ဆင်ထားသော အောက်ပါရွေးချယ်စရာများကို သင်စဉ်းစားနိုင်သည်-
-
--
-
-**Open Products Facts အတွက် ပရဟိတ/ပြည်နယ် စပွန်ဆာများ**:
-ပရဟိတ ပံ့ပိုးကူညီမှုများသည် Open Products Facts ၏ အဓိကရည်မှန်းချက်ဖြစ်သည့် အမျိုးအစားပေါင်း 20000+ ကျော်တွင် ပြည့်စုံသော circular data platform၊ product scoring နှင့် circular solutions aggregation ၏ ရူပါရုံကို အကောင်အထည်ဖော်ရာတွင် အလွန်အရေးကြီးပါသည်။ ဤရူပါရုံ၏ မရှိမဖြစ် အစိတ်အပိုင်းများစွာကို ရန်ပုံငွေ မထောက်ပံ့ရသေးပါ၊ သင်၏ ငွေကြေးထောက်ပံ့မှုသည် သိသာထင်ရှားသော အကျိုးသက်ရောက်မှုကို ဖြစ်စေနိုင်ပါသည်။ သင့်ရဲ့လှူဒါန်းမှုတွေက အရေးကြီးတဲ့ ဖွံ့ဖြိုးတိုးတက်မှုတွေနဲ့ အခြေခံအဆောက်အအုံတွေကို ရန်ပုံငွေထောက်ပံ့ဖို့ ကူညီပေးနိုင်ပါတယ်။ ငွေကြေးထောက်ပံ့လိုပါက contact@openfoodfacts.org သို့ ဆက်သွယ်ပါ။
-
--
-
-**Open Products Facts အက်ပ်ကို အသုံးပြုသည့် ဒေတာပံ့ပိုးကူညီသူများ**:
-Open Products Facts များကို ချဲ့ထွင်ရန်အတွက် ဒေတာပံ့ပိုးကူညီမှုများသည် အရေးကြီးပါသည်။ Android အက်ပ်ကို အသုံးပြု၍ ထုတ်ကုန်အချက်အလက်အသစ်များထည့်ရန်၊ ရှိပြီးသား entries များကို အပ်ဒိတ်လုပ်ရန် သို့မဟုတ် data များကို အတည်ပြုခြင်းဖြင့် သင်သည် database ကို ချဲ့ထွင်ရန်နှင့် ပြုပြင်ရန် ကူညီပေးပါသည်။ ဤစုပေါင်းကြိုးပမ်းအားထုတ်မှုသည် လူတိုင်းအတွက် ခိုင်မာပြီး ယုံကြည်စိတ်ချရသော အရင်းအမြစ်တစ်ခု တည်ဆောက်ရာတွင် အထောက်အကူပြုပါသည်။
-
--
-
-**Open Products Facts အတွက် နည်းပညာပံ့ပိုးကူညီသူများ**:
-ပရိုဂရမ်းမင်း၊ အချက်အလက်ခွဲခြမ်းစိတ်ဖြာမှု သို့မဟုတ် အသုံးပြုသူအတွေ့အကြုံဒီဇိုင်းကဲ့သို့သော နယ်ပယ်များတွင် နည်းပညာကျွမ်းကျင်မှုရှိပါက သင်၏ကျွမ်းကျင်မှုသည် Open Products Facts ကို သိသိသာသာ အကျိုးပြုနိုင်ပါသည်။ အက်ပ်ဖွံ့ဖြိုးတိုးတက်ရေးတွင် ပါဝင်ဆောင်ရွက်ခြင်း၊ ၎င်း၏လုပ်ဆောင်နိုင်စွမ်းကို တိုးတက်ကောင်းမွန်စေခြင်း သို့မဟုတ် အသုံးပြုသူမျက်နှာပြင်များကို မြှင့်တင်ခြင်းသည် အဖိုးတန်ပံ့ပိုးကူညီမှုများဖြစ်သည်။ ပါဝင်ဖို့အတွက် #openproductsfacts Slack channel မှာ ပါဝင်လိုက်ပါ။ အဲဒီမှာ Open Products Facts အသိုင်းအဝိုင်းက ပူးပေါင်းဆောင်ရွက်ကြပါတယ်။ Open Food Facts ဝက်ဘ်ဆိုက်မှာ ဒီ Slack workspace ရဲ့ link ကို ရှာတွေ့နိုင်ပါတယ်။
-
-Open Products Facts ၏ ကြီးထွားမှုနှင့် အောင်မြင်မှုအတွက် ပံ့ပိုးကူညီမှု အမျိုးအစားတစ်ခုစီသည် အရေးကြီးပြီး လူတိုင်းအတွက် ပိုမိုရေရှည်တည်တံ့ပြီး အသိပညာပေးသည့် ပလက်ဖောင်းတစ်ခု ဖန်တီးရန် ကူညီပေးပါသည်။
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Open Products Facts API ကို ဘယ်မှာရှာရမလဲ။
+## I would like to support Open Products Facts. What can I do ?
 
-Open Products Facts API သည် Open Food Facts API နှင့် ၉၈% တူညီသောကြောင့် Open Food Facts API စာရွက်စာတမ်းကို အသုံးပြုပါက Open Products Facts API ကို ရှင်းရှင်းလင်းလင်း မြင်ရပါမည်။ သင့်အက်ပ်တွင် universal scan ကို အကောင်အထည်ဖော်နိုင်ရန် သီးသန့်သင်ခန်းစာကိုလည်း ကျွန်ုပ်တို့ ရေးသားထားပါသည်။
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
