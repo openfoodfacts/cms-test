@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Malunghana na Tinhla ta Swakudya leswi Pfulekeke"
-description: "Swivutiso swa 4"
-lang: ts-gb
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: info-xirhendzevutani
+icon: info-circle
 ---
 
-{{< fa "info-xirhendzevutani" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Xana i rungula ra muxaka muni leri faneleke ri averiwa?
+## What type of information should be shared?
 
-Rungula rin’wana na rin’wana leri u nga na rona ra amukeleka, ku suka eka vuxokoxoko bya swakudya ku ya eka vuxokoxoko bya ku paka.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Leswi swi endla leswaku swi koteka ku simeka fayili leyi heleleke, ku hlayela swikoweto hinkwaswo hi ku kongoma naswona hi ku angarhela ku va erivaleni loku tlangeriwaka hi vatirhisi.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Hambiswiritano hi ringanyeta leswaku u rhangisa tinsimu leti landzelaka:
+However we do recommend you prioritize the following fields:
 
-- Rungula ra swakudya
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Xiyenge xa swikumiwa (xikombiso swakunwa, chizi, yoghurt, na swin’wana) .
-
-- Vito ra xiendliwa
-
-- Swilo leswi endlaka leswaku ku va ni swilo leswi vangaka ku nga twanani
-
-- na switirhisiwa, nsimu leyi ayi bohi kambe yi hlohleteriwa eka matirhiselo ya kahle na ku kumiwa ka swikoweto
-
-→ Ku kuma vuxokoxoko byo tala, hi ku rhamba ku kopa [xiletelo xa mutirhisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ya hina na/kumbe ku languta [tidyondzo ta vhidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Xana ndzi nga kopa data ya Open Food Facts?
+## Can I download Open Food Facts data?
 
-U nga kopa data hinkwayo leyi kumekaka eka Open Food Facts. Tivonele, leswi swi lava ndhawu yo tala ya disk, khompyuta ya matimba loko u lava ku tirhisa spreadsheet kumbe vutivi bya R kumbe Python hi ndlela yin’wana.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-U nga ha tlhela u kopa ntlawa lowutsongo wa datha (xikombiso xa brand ya wena) hikwalaho ka ku lavisisa ka xiyimo xa le henhla.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Ku kuma vuxokoxoko byo tala, hi ku rhamba ku kopa [xiletelo xa mutirhisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ya hina na/kumbe ku languta [tidyondzo ta vhidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Xana ku nghena eka pulatifomo ya Pro na ku nghenisiwa ka data i mahala?
-
-Hi ku helela, naswona swi ta va tano hilaha ku nga heriki.Vukorhokeri hinkwabyo lebyi nyikiwaka hi Open Food Facts i mahala.  
-Hi tsakile swinene leswaku u teke xiboho xo hoxa xandla eka datha ya swikumiwa swa wena eka ku va swakudya swi va erivaleni, naswona ha ku khensa eka leswi.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ndzi lava ku ringanyeta ku antswisiwa ka pulatifomo ya xiphurofexinali, ndzi nga swi endla njhani ?
+## Is access to the Pro platform and the import of data free?
 
-Ndza khensa ku tiyimisela ka n’wina ku nghenelela eka ku va swakudya swi va erivaleni!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ndlela leyinene yo avelana vuxokoxoko i ku tata [fomo leyi](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-U nga ha tlhela u hi tihlanganisa ku endla switsundzuxo kumbe hi ku tirhisa [foramu ya hina](https://forum.openfoodfacts.org/) kumbe hi ku tirhisa [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Joyina Slack ya hina u nghena eka channel #producers ku tihlanganisa na hina.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
