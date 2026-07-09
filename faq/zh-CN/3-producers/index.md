@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} 生产者"
-description: "6个子类别"
-lang: 英语-英国
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: 行业
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: 网格
+  type: grid
   grid-columns: 4
-  sort: "命令"
-  fields: [ 标题, 描述 ]
+  sort: "order"
+  fields: [ title, 描述 ]
   page-size: 100
 ---
 
-{{< fa "行业" size=3倍 >}}
+{{< fa "industry" size=3x >}}
 
