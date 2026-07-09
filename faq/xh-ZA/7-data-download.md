@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Ukhuphelo lwedatha"
-description: "Umbuzo o-1"
-lang: i-en-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: ukhuphelo lwelifu
+icon: cloud-download
 ---
 
-{{< fa "ukhuphelo lwelifu" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ungayifumana phi idatha yelizwe elithile?
+## Where to get the data for a specific country?
 
-Okwangoku, akukho kuthunyelwa kwamanye amazwe okunikezelwe kumazwe athile.
+Currently, there are no exports dedicated to specific countries.
 
-Zininzi iindlela zokusebenzisa ukuthunyelwa kwethu kwamanye amazwe okuhlukeneyo kunye nezixhobo ezahlukeneyo ukukhetha idatha enxulumene nelizwe elithile.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Ungajonga [ezinye zezi ndlela kwi-wiki yethu](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
