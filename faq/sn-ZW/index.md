@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Mibvunzo Inowanzo bvunzwa - Chirungu"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: gridhi
+  type: grid
   grid-columns: 4
-  sort: "odha"
-  fields: [ zita remusoro, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
