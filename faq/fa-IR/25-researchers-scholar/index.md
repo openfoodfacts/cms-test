@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduate-cap size=2x >}} محققان/پژوهشگران"
-description: "۱ زیرشاخه"
-lang: انگلیسی-انگلیسی
-order: ۲۵
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: کلاه فارغ التحصیلی
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: شبکه
+  type: grid
   grid-columns: 4
-  sort: "سفارش"
-  fields: [ عنوان, description ]
-  page-size: ۱۰۰
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "کلاه فارغ التحصیلی" size="۳ برابر" >}}
+{{< fa "graduation-cap" size=3x >}}
 
