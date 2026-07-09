@@ -1,23 +1,23 @@
 ---
-title: "{{< fa बुकमार्क आकार=२x >}} लेबलहरू"
-description: "२ प्रश्नहरू"
-lang: एनजीबी
-order: २३
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: बुकमार्क गर्नुहोस्
+icon: bookmark
 ---
 
-{{< fa "बुकमार्क गर्नुहोस्" size=३x >}}
+{{< fa "bookmark" size=3x >}}
 
-## लेबलको रूपमा, के खाता सिर्जना गर्नु महत्त्वपूर्ण छ?
+## As a label, is it important to create an account ?
 
-लेबलको रूपमा, तपाईं उत्पादनहरूको प्रत्यक्ष उत्पादक नभएकोले, तपाईंले उत्पादकको खाता सिर्जना गर्नुपर्दैन।
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## म एउटा लेबल हुँ, म कसरी परियोजनामा भाग लिन सक्छु?
+## I am a label, how can I participate in the project?
 
-लेबलको रूपमा गर्नुपर्ने सबैभन्दा सान्दर्भिक कुरा भनेको हामीलाई **(producers@openfoodfacts.org)** मा सम्पर्क गर्नु र तपाईंको लेबल प्रदर्शित उत्पादनहरूको सूची हामीलाई पठाउनु हो ताकि हामी तिनीहरूलाई सम्बन्धित उत्पादन पानाहरूमा थप्न सकौं।
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
