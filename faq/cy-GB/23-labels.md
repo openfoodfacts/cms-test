@@ -1,23 +1,23 @@
 ---
-title: "Labeli {{< maint nod tudalen fa=2x >}}"
-description: "2 gwestiwn"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: nod tudalen
+icon: bookmark
 ---
 
-{{< fa "nod tudalen" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Fel label, ydy hi'n bwysig creu cyfrif?
+## As a label, is it important to create an account ?
 
-Fel label, gan nad chi yw cynhyrchydd uniongyrchol y cynhyrchion, nid oes angen i chi greu cyfrif cynhyrchydd.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Label ydw i, sut alla i gymryd rhan yn y prosiect?
+## I am a label, how can I participate in the project?
 
-Fel label, y peth mwyaf perthnasol i'w wneud yw cysylltu â ni **(producers@openfoodfacts.org)** ac anfon rhestr o'r cynhyrchion y mae eich label yn cael ei arddangos arnynt atom fel y gallwn eu hychwanegu at y taflenni cynnyrch cysylltiedig.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
