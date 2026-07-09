@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Giới thiệu về Open Food Facts"
-description: "4 câu hỏi"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: vòng thông tin
+icon: info-circle
 ---
 
-{{< fa "vòng thông tin" size="3 lần" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Nên chia sẻ loại thông tin nào?
+## What type of information should be shared?
 
-Mọi thông tin bạn có đều được hoan nghênh, từ thông tin dinh dưỡng đến thông tin bao bì.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Điều này giúp lập được một hồ sơ hoàn chỉnh, tính toán tất cả các điểm số một cách chính xác và nói chung là minh bạch hơn, được người tiêu dùng đánh giá cao.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Tuy nhiên, chúng tôi khuyên bạn nên ưu tiên các lĩnh vực sau:
+However we do recommend you prioritize the following fields:
 
-- Thông tin dinh dưỡng
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Danh mục sản phẩm (ví dụ: đồ uống, phô mai, sữa chua, v.v.)
-
-- Tên sản phẩm
-
-- Chất gây dị ứng
-
-- Và các thành phần, trường này không bắt buộc nhưng được khuyến nghị để sử dụng tối ưu và xác định điểm số.
-
-→ Để biết thêm chi tiết, chúng tôi mời bạn tải xuống [hướng dẫn sử dụng](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) và/hoặc xem [video hướng dẫn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Tôi có thể tải xuống dữ liệu Open Food Facts không?
+## Can I download Open Food Facts data?
 
-Bạn có thể tải xuống tất cả dữ liệu có sẵn trên Open Food Facts. Lưu ý, việc này đòi hỏi rất nhiều dung lượng ổ cứng, một máy tính mạnh nếu bạn muốn sử dụng bảng tính hoặc kiến thức về R hoặc Python nếu không.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Bạn cũng có thể tải xuống một phần dữ liệu (ví dụ: thương hiệu của bạn) nhờ chức năng tìm kiếm nâng cao.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Để biết thêm chi tiết, chúng tôi mời bạn tải xuống [hướng dẫn sử dụng](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) và/hoặc xem [video hướng dẫn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Việc truy cập vào nền tảng Pro và nhập dữ liệu có miễn phí không?
-
-Chắc chắn rồi, và điều đó sẽ mãi mãi như vậy.Tất cả các dịch vụ do Open Food Facts cung cấp đều miễn phí.  
-Chúng tôi rất vui mừng vì bạn đã quyết định đóng góp dữ liệu sản phẩm của mình cho sự minh bạch về thực phẩm, và chúng tôi xin cảm ơn bạn vì điều này.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Tôi muốn đề xuất những cải tiến cho nền tảng chuyên nghiệp, tôi có thể làm điều đó như thế nào?
+## Is access to the Pro platform and the import of data free?
 
-Cảm ơn bạn đã sẵn lòng tham gia vào việc minh bạch hóa thực phẩm!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Cách tốt nhất để chia sẻ phản hồi là điền vào [mẫu này](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Bạn cũng có thể liên hệ với chúng tôi để đưa ra đề xuất thông qua [diễn đàn của chúng tôi](https://forum.openfoodfacts.org/) hoặc qua [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Hãy tham gia kênh Slack của chúng tôi và vào kênh #producers để liên lạc với chúng tôi.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
