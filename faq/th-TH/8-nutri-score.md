@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartbeat size=2x >}} นูทริ-สกอร์"
-description: "3 คำถาม"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: การเต้นของหัวใจ
+icon: heartbeat
 ---
 
-{{< fa "การเต้นของหัวใจ" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## ฉันควรทำอย่างไรหากค่า Nutri-Score ของผลิตภัณฑ์ของฉันไม่ถูกต้อง?
+## What should I do if the Nutri-Score of my products is not correct?
 
-หากพบปัญหาเกี่ยวกับคะแนนโภชนาการ (Nutri-Score) ของคุณ โปรดตรวจสอบว่าข้อมูลของคุณถูกต้องในแท็บ “แก้ไข” ในเอกสารข้อมูลผลิตภัณฑ์ของคุณ หากข้อมูลใดขาดหายไปหรือไม่ถูกต้อง โปรดอย่าลังเลที่จะติดต่อเราได้ที่ **producers@openfoodfacts.org**
-
----
-
-## ฉันควรให้ข้อมูลประเภทใดบ้างเพื่อให้ระบบคำนวณคะแนนโภชนาการได้อย่างแม่นยำที่สุด?
-
-การคำนวณค่า Nutri-Score จะทำโดยใช้ตารางคุณค่าทางโภชนาการของผลิตภัณฑ์ของคุณ
-
-อย่าลืมใส่เปอร์เซ็นต์ของผลไม้ ผัก และถั่วลงในตารางของคุณด้วย เพื่อให้ค่า Nutri-Score ที่คำนวณได้ถูกต้อง
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## คะแนนโภชนาการ (Nutri-Score) มาจากไหน?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score บริหารจัดการโดย Santé Publique France ตารางสรุปคุณค่าทางโภชนาการนี้จัดทำขึ้นเพื่อให้ทุกคนเข้าใจได้ง่าย เป้าหมายคือการให้ข้อมูลโภชนาการที่ชัดเจนและเข้าใจง่ายแก่ทุกคน
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
