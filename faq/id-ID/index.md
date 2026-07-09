@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Pertanyaan yang Sering Diajukan (FAQ) - Bahasa Inggris"
-lang: "bahasa Inggris"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: kisi-kisi
+  type: grid
   grid-columns: 4
-  sort: "memesan"
-  fields: [ judul, deskripsi ]
+  sort: "order"
+  fields: [ title, deskripsi ]
   page-size: 100
 
 # << DO NOT TRANSLATE
