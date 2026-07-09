@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} Tantano ny kaontiko"
-description: "Fanontaniana 3"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Azo ampifandraisina amin'ny orinasa iray ve ny kaonty Open Food Facts maromaro?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Eny, alefaso mailaka any amin'ny [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), mba hahafahantsika mampifandray ny kaonty rehetra amin'ny orinasa iray ihany.
-
----
-
-## Ahoana no fomba hanovana ny kaontiko Open Food Facts ho kaonty Pro?
-
-Afaka miditra amin'ny sehatra [Pro](https://world.pro.openfoodfacts.org/) ianao amin'ny alalan'ny mombamomba ny kaontinao efa misy.
-
-Raha matihanina ianao dia mila mampiasa ny adiresy mailaka matihaninao mba hahafahanay manamarina ny kaontinao.
-
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Aiza no ahitako antontan-taratasy hanampy ahy hampiasa ny sehatra Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Misy loharano vitsivitsy hanampy anao hahazo tombony betsaka amin'ny sehatra Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Tongasoa eto amin'ny:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- jereo ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - manasa anao izahay hisintona ny PDF mba ho azo tsindriana ireo rohy, izay hanamora ny fitetezanao ny antontan-taratasy.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- jereo ny [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- Mizara hevitra na soso-kevitra amin'ny alalan'ny [ity taratasy ity](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Manaova fotoana hiresahana amin'i Manon, mpitantana ny fiaraha-miasa aminay, raha manana fanontaniana fanampiny ianao: [eto](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Mifandraisa aminay amin'ny alàlan'ny mailaka: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
