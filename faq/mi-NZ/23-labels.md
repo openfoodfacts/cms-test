@@ -1,23 +1,23 @@
 ---
-title: "{{< rahi tohuwāhi fa=2x >}} Ngā Tapanga"
-description: "2 ngā pātai"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: tohuwāhi
+icon: bookmark
 ---
 
-{{< fa "tohuwāhi" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Hei tapanga, he mea nui te waihanga i tētahi pūkete?
+## As a label, is it important to create an account ?
 
-Hei tapanga, nā te mea ehara koe i te kaihanga tika o ngā hua, kāore koe e hiahia ki te waihanga i tētahi pūkete a te kaihanga.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## He kamupene waitohu ahau, me pēhea taku whai wāhi atu ki te kaupapa?
+## I am a label, how can I participate in the project?
 
-Hei tapanga, ko te mea tino tika ko te whakapā mai ki a mātou **(producers@openfoodfacts.org)** me te tuku mai i te rārangi o ngā hua e whakaatuhia ana tō tapanga kia taea ai e mātou te tāpiri atu ki ngā whārangi hua e pā ana.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
