@@ -1,17 +1,17 @@
 ---
-title: "{{< fa בוך גרייס=2x >}} פאלקסאנאמיע מאטאר"
-description: "1 פראגע"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: בוך
+icon: book
 ---
 
-{{< fa "בוך" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## וואָס איז די פאָלקאָנאָמיע מאָטאָר?
+## What is the Folksonomy Engine ?
 
-די פאָלקאָנאָמיע ענדזשין איז אַ סיסטעם וואָס ערלויבט באַניצער צו לייגן אייגענע טאַגס, אדער אייגנשאַפטן, צו עסן פּראָדוקטן אין אָפן פוד פאַקס, די וועלט'ס גרעסטע אָפן-עסן דאַטאַבייס. דאָס לאָזט מענטשן קאַטעגאָריזירן און באַשרײַבן עסן אויף נײַע וועגן, ווײַטער פֿון די עקזיסטירנדיקע פֿאָר-דעפֿינירטע אייגנשאַפֿטן.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
