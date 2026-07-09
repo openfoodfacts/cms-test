@@ -1,177 +1,177 @@
 ---
-title: "{{< ukubwa wa kisanduku cha fa=2x >}} Dhibiti bidhaa zangu"
-description: "Maswali 16"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: sanduku
+icon: box
 ---
 
-{{< fa "sanduku" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Ni nini kinachohakikisha ubora wa data katika Ukweli Huria wa Chakula?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Ili kuboresha ubora wa data kila mara, tunategemea nguzo 4:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Jumuiya inaongeza data na picha kila mara na ni doria halisi ya wakaguzi.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Tumeweka sheria za kimantiki ili kutambua makosa kwenye karatasi za bidhaa.Kwa mfano: ikiwa jumla ya uzito wa viungo ni kubwa kuliko uzito wote wa bidhaa, kuna hali isiyo ya kawaida. Tuna takriban ukaguzi mwingine 50 wa ubora.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Shukrani kwa Machine Learning, tunapunguza hatari ya makosa ya kuingiza data. Teknolojia yetu inaturuhusu kutoa data ya maandishi kutoka kwa picha zilizopigwa na wachangiaji
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Shukrani kwa usaidizi wa Santé Publique France, tuliunda lango linalowaruhusu wazalishaji kupakia data zao zilizozalishwa kwa wingi na hivyo kusahihisha/kukamilisha michango ya jamii.
-
----
-
-## Jinsi ya kuongeza bidhaa?
-
-Ili kuongeza bidhaa kwenye mfumo wetu, kwanza unahitaji kuamua jinsi unavyotaka kuendelea. Kuna chaguzi 4:
-
-- **Kwa mikono**: ikiwa una idadi ndogo ya bidhaa, bado inawezekana kuunda kila karatasi ya bidhaa kwa mkono kwenye Jukwaa la Wataalamu.
-
-- **Kupitia uingizaji wa lahajedwali**: unaweza kupakua lahajedwali [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) inayotolewa na Open Food Facts, au kuingiza moja kwa moja dondoo kutoka kwa mfumo wako wa TEHAMA kwenye jukwaa la Pro.
-
-- **Kupitia viunganishi vya katalogi za bidhaa**. Kama wewe ni mteja katika EQUADIS, AGENA3000 au BAYARD, unaweza kupakia data katika Open Food Facts kwa mbofyo mmoja. Ikiwa unafanya kazi na PIM nyingine (Usimamizi wa Taarifa za Bidhaa), tafadhali wasiliana nasi: producers@openfoodfacts.org
-
-- **Kupitia muunganisho maalum** kati ya kampuni yako na Ukweli wa Chakula Huria. Ukihesabu zaidi ya bidhaa 1000 katika kwingineko yako, tunaweza kujadili fursa ya kujenga kiunganishi maalum ili kurahisisha uhamishaji wa data.
-
-Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Je, kuna njia ya kusasisha kiotomatiki masasisho ya bidhaa kwenye hifadhidata ya umma?
+## How to add products?
 
-Ndiyo, ukitumia katalogi za bidhaa za EQUADIS, AGENA3000 au BAYARD, na kuweka usanidi sahihi, uingizaji unaweza kufanywa kiotomatiki na kwa hivyo kusasisha data ya bidhaa kwenye Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Je, idadi ya bidhaa zilizoongezwa ni mdogo?
+## Is there a way to automate product updates to the public database?
 
-Hakuna kikomo, unaweza kupakia idadi ya bidhaa unazotaka kwenye jukwaa letu.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Ukitaka kuondoa bidhaa ambayo haipatikani tena sokoni, unapaswa tu kuweka alama kwenye kisanduku "bidhaa hii haiuzwi tena" unapohariri karatasi yako ya bidhaa.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Ukitaka kuondoa bidhaa kadhaa, tunapendekeza ufuate utaratibu uliotajwa katika [mwongozo wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), kwenye uk. 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Unaweza pia kuwasiliana nasi kupitia producers@openfoodfacts.org ikiwa una maswali yoyote.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Bidhaa hiyo ikihifadhiwa kwenye kumbukumbu, haitaonekana tena katika Taarifa Huria za Chakula.Hata hivyo, itabaki katika hifadhidata yetu ili tuweze kuhifadhi historia ya bidhaa zinazouzwa baada ya muda.
-
----
-
-## Je, taarifa za kampuni zinapewa kipaumbele kuliko taarifa zilizopo kwenye jukwaa?
-
-Mtayarishaji anapoweka moja ya bidhaa zake mtandaoni kwenye akaunti yake ya mtengenezaji na karatasi ya bidhaa tayari ipo, hii itakamilisha.
-
-Taarifa ambazo mtayarishaji atakuwa amezichapisha zitakuwa na kipaumbele kila wakati na yeye pekee ndiye atakayeweza kurekebisha bidhaa zake taarifa zitakapojazwa.
-
-Ikiwa data inayotumwa kupitia mfumo imegawanyika, taarifa iliyoongezwa na jumuiya kutoka kwenye kifungashio inaweza kuikamilisha.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Ninapaswa kutuma data yangu katika muundo gani?
+## Does company information take precedence over information already present on the platform?
 
-[Kiolezo](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) hutolewa na Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Hata hivyo, umbizo lolote la lahajedwali (xlsx, csv) litaweza kuingizwa kwenye mfumo.  
-Algorithm yetu imeundwa ili kulinganisha kiotomatiki sifa kutoka kwa faili yako, na zile zilizopo katika Ukweli wa Chakula Huria. Kuwa mwangalifu kila wakati kuangalia mara mbili hatua ya ulinganisho kwani huenda ukahitaji kurekebisha baadhi yake mwenyewe.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Ikiwa taarifa zako zimegawanywa kati ya lahajedwali kadhaa, unaweza kuziingiza mfululizo - ukihakikisha unafanya ulinganisho ikiwa umbizo litabadilika.
-
-Unaweza pia kuingiza faili ya Excel pamoja na kuingiza EQUADIS au AGENA3000, ikiwa data bado haijaingia kwenye mfumo wako wa taarifa. Katika hali hizi, usisahau kuomba uhamisho kwenye hifadhidata ya umma kutoka kwa kiolesura.
-
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Umeunganishwa na katalogi gani za bidhaa?
+## In what format should I send my data?
 
-Watengenezaji sasa wanaweza kutuma data na picha za bidhaa zao kwa wakati halisi kutoka **Equadis,** **AGENA3000 na BAYARD consulting** hadi Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Bila shaka pia utafaidika na mapendekezo ya urekebishaji na vipengele vyote vya mfumo.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Chapisho letu la blogu](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) linaelezea hatua za kufuata ikiwa wewe ni mteja wa EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Ikiwa wewe ni mteja wa AGENA3000 (SEKTA YA BIDHAA A3 PIM), unapaswa kuchagua tu mpokeaji "Ukweli wa Chakula Wazi" unapotuma karatasi zako za bidhaa. [Maelezo zaidi kuhusu chapisho hili la blogu](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Kama wewe ni mteja wa orodha nyingine ya data ya bidhaa (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, n.k.) tafadhali tujulishe kupitia [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Jinsi ya kuongeza bidhaa bila misimbopau kupitia jukwaa la Pro?
+## With which product catalogs are you integrated?
 
-Kwa bidhaa zisizo na msimbopau, kwenye tovuti au kwenye jukwaa la mtayarishaji, kuna kitufe cha "Bidhaa bila msimbopau" kwenye safu wima ya kushoto ambayo hukuruhusu kuziongeza. Kisha kitambulisho huzalishwa kiotomatiki.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Tumeunda miradi mahususi ya vipodozi, chakula cha wanyama, na pia kwa bidhaa zingine: Mambo ya Urembo Wazi, Mambo ya Chakula cha Wanyama Wanyama Wazi na Mambo ya Bidhaa Wazi mtawalia.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Data ya bidhaa kutoka kwa kampuni yangu inapatikana kwenye Open Food Facts. Je, inawezekana kudhibiti akaunti ya mtayarishaji inayohusiana?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ndiyo bila shaka! Unaweza kudhibiti akaunti ya mtayarishaji inayohusiana kwa kuunda akaunti ya Open Food Facts yenye anwani ya biashara yako. Unapojisajili, taja jina la shirika lililopo kwenye fomu ili uweze kufikia nafasi ya mtayarishaji husika.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Hatua fupi ya uthibitishaji itahitajika ili kuhakikisha kwamba wewe ndiye mzalishaji.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Utaweza kukamilisha data, kuongeza picha, kupata mapendekezo otomatiki ya kuboresha Nutri-Score, na mengi zaidi. Bila shaka haya yote ni bure kabisa. Unaweza pia kuunganisha mfumo wa usimamizi wa data ya bidhaa wa watu wengine kama vile EQUADIS, AGENA3000 na Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Inachukua muda gani kwa data ya mtayarishaji kusasishwa kwenye programu nyingine inayotumia tena hifadhidata ya Open Food Facts?
-
-Inategemea programu. Kwa wale wanaotumia API zetu, ambazo ni nyingi zaidi, ni mara moja.  
-Kwa wale wanaotumia mauzo yetu ya kila siku, ni D+1 mradi tu waisasishe.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Je, kuingiza data kutoka kwa rekodi ya bidhaa hukamilisha au hubadilisha rekodi ya bidhaa iliyopo?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Tunatumia msimbopau kutambua bidhaa, ukiingiza rekodi yenye msimbopau sawa na rekodi iliyopo, taarifa zitaunganishwa.
-
-Kwa data kama vile orodha ya viambato, thamani za lishe (thamani moja tu sahihi inawezekana), data inayotumwa kupitia jukwaa la mtayarishaji itabadilisha data iliyopo.
-
-Kwa data kama vile lebo/kategoria/chapa (thamani kadhaa sahihi zinawezekana), taarifa huunganishwa. Ikiwa data si sahihi kwenye mfumo wa umma, unaweza kurekebisha laha ya bidhaa kwenye mfumo wa umma ili kuondoa thamani zisizo sahihi.
-
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Je, mpangilio wa viungo ni muhimu?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Mpangilio wa viungo ni muhimu: unawakilisha mpangilio kwa wingi.
-Njia bora ya kujaza viungo ni kufuata hasa kile kilichoandikwa kwenye kifungashio. Ndiyo maana ni muhimu pia kuchapisha picha za viungo.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Je, ninaweza kutuma picha kupitia AGENA3000 pia?
+## Is the order of ingredients important?
 
-Unaweza kutuma picha lakini kivitendo ni picha kuu pekee itakayochaguliwa kiotomatiki, picha zingine zitatumwa, lakini hazijakatwa/kuchaguliwa kwa ajili ya viungo, lishe n.k.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Jinsi ya kufikia mafunzo ya jukwaa la Pro?
+## Can I send images via AGENA3000 too?
 
-Unaweza kufikia mafunzo ya jukwaa la kitaalamu:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Kupitia jukwaa la kitaalamu lenyewe: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Moja kwa moja kwenye [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Unaweza pia kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
