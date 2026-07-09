@@ -1,25 +1,25 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Huk rurumanta tapuykuna"
-description: "1 tapuy"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: rantikuna-canasta
+icon: shopping-basket
 ---
 
-{{< fa "rantikuna-canasta" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ñuqaqa huk tapuyta / reclamacionniyuq kani huk rurumanta
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) huk yanapanakuy sitio ruwasqa chaymanta mikhuchisqa rantiqkuna etiquetakuna descifrar chaymanta rurukuna tupachiy atinankupaq.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Huk rurumanta utaq huk reclamacionmanta astawan yachayta munaspaqa, ruwaqman qillqay. Mana ruwaqkunapaq tinkinakuy willayta kapuwaykuchu ichaqa aswanta embalaje kaqpi kanku.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Sichus yanapayta munanki aswan sut'i kayta qam hina utaq ñuqayku hina rantiqkunaman apamuyta, iPhone utaq Android ruwanaykuta llamk'achiy atikunki rurukuna yapanapaq: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Hinallataq proyectomanta rimanapaq, Facebook yanapakuq huñuman yaykuyta atinki: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) utaq Slack nisqapi huk yanapakuqkunawan rimanakuy:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
-[https://qu.wiqallaq qillqakuna](https://slack.openfoodfacts.org/)
+[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
 ---
 
