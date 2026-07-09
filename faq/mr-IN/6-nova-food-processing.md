@@ -1,15 +1,15 @@
 ---
-title: "{{< fa फ्लास्क आकार=2x >}} NOVA / अन्न प्रक्रिया"
-description: "१ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: फ्लास्क
+icon: flask
 ---
 
-{{< fa "फ्लास्क" size=३x >}}
+{{< fa "flask" size=3x >}}
 
-## नोव्हा म्हणजे काय?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
