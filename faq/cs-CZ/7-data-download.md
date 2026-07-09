@@ -1,13 +1,13 @@
 ---
 title: "{{< fa cloud-download size=2x >}} Stažení dat"
 description: "1 otázka"
-lang: en-gb
+lang: cs
 order: 7
 category-level: 0
 icon: stahování z cloudu
 ---
 
-{{< fa "stahování z cloudu" size=3x >}}
+{{< fa "stahování z cloudu" size=3× >}}
 
 ## Kde získat data pro konkrétní zemi?
 
