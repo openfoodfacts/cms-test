@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Pretia Aperta"
-description: "Tres quaestiones"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
-order: XXIX
+order: 29
 category-level: 0
-icon: dollarium
+icon: dollar
 ---
 
-{{< fa "dollarium" size=Ter >}}
+{{< fa "dollar" size=3x >}}
 
-## Venditor sum et pretia contribuere volo. Quomodo id facere possum?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Pretia conferre potes utens [API nostra](https://prices.openfoodfacts.org/api/docs). Si pretia ad magnitudinem conferre vis, nobiscum per inscriptionem electronicam [contact@openfoodfacts.org](mailto:contact@openfoodfacts.orgscribe).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Cogitasne pretia e paginis interretialibus venditorum extrahere?
+## Do you consider scraping prices from retailers’ websites?
 
-Ob causas legales et technicas, pretia ex paginis interretialibus venditorum extrahere non pro valida via ad Pretia Aperta contribuendum existimamus. Pretia quae colligimus accurata et recentia esse volumus, et pretia a contributoribus immutata accipere hoc nobis facere non permittit.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Cur Open Food Facts hoc facit (Pretia Aperta)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informatio de pretiis maximi momenti est ad systemata alimentaria intellegenda. Factor clavis est ad sumptum ciborum intellegendum et ad diaetas salubriores promovendas. Data pretiorum aperiendorum modus est quo investigatoribus, diurnariis, et civibus facilius intellegere possit quomodo pretia ciborum geographice et tempore varient.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
