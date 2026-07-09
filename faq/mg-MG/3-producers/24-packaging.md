@@ -1,49 +1,49 @@
 ---
-title: "Fonosana {{< habe kioba fa=2x >}}"
-description: "Fanontaniana 3"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: goba
+icon: cube
 ---
 
-{{< fa "goba" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ahoana no ahafahako manampy ny angon-drakitra momba ny fonosako ao amin'ny Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Amin'ny maha-mpamokatra anao, ny fomba mahomby indrindra hanampiana angon-drakitra momba ny fonosana amin'ny vokatrao dia ny famenoana ity [kajy excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ity ny fampahalalana ilaina, avy amin'ny tsanganana "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Ho an'ny singa fonosana tsirairay dia mila ampidirinao:
+For each packaging component, you will need to enter:
 
-- Ny isan'ny singa (ohatra: **4** kaopy yaourt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Ny endrika (ohatra: **vilany, sarony, boaty, sns**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Ny fitaovana (ohatra: **PET, taratasy, fitaratra, sns**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Ny toromarika momba ny fanodinana (ohatra: **manodina, manary, sns**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Ny lanjan'ny singa iray foana (amin'ny gr)
+- The weight of one empty unit (in gr)
 
-- Ny habetsahan'ny vokatra voarakitra isaky ny singa
+- The net quantity of product contained per unit
 
-Azo ampidirina ao amin'ny sehatra natokana ho an'ny matihanina ity takelaka kajy ity avy eo.
-
----
-
-## Inona ny tetikasa Tackling Food Packaging?
-
-Ny tetikasa "Fikarakarana ny Fonosana Sakafo" dia ahitana ny fanangonana fampahalalana amin'ny antsipiriany momba ny fonosan'ireo vokatra lanina indrindra (endrika, fitaovana, toromarika fanasokajiana, lanja, fahafaha-mamokatra).
-
-Mifototra amin'ny fomba fiasa ara-tsiansa ifarimbonana, hiantehitra amin'ny faneken'ireo orinasa hizara ny angon-drakitra momba ny fonosana sy ny filalaovana ny mangarahara izany, ary amin'ny famelan'ny olom-pirenena ny fanangonana fampahalalana momba ny vokatra. Azo ampiasaina indray malalaka ity fampahalalana ity ("angon-drakitra misokatra").
-
-**Raha mila fanazavana fanampiny:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Na dia efa vita aza ny tetikasa Tackling Food Packaging, mbola azoko ampiana ve ny angon-drakitra momba ny fonosana?
+## What is the Tackling Food Packaging project?
 
-Na dia efa vita aza ny tetikasa dia azo atao ny manampy angon-drakitra momba ny fonosana satria hijanona ao amin'ny tranonkalanay ny saha momba ny fonosana.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
