@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Merero ea sekolo"
-description: "Lipotso tse 2"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: faele-o
+icon: file-o
 ---
 
-{{< fa "faele-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ke na le projeke ea sekolo eo ke lokelang ho e etsa, ke batla ho sebelisa data ea Open Food Facts, na nka etsa joalo?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, ke database e bulehileng, projeke e bulehileng e sebetsang tlasa laesense ya ODbL, ka hona ha feela o dumellana le ditlhoko tsa laesense ya ODbL, o amohelehile ho sebedisa data ya rona hape bakeng sa diporojeke tsa hao :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Nka fumana/bokella data bakeng sa merero ea ka joang?
+## How can I access/collect data for my projects ?
 
-Leqepheng le ka sehloohong la Open Food Facts, hukung e ka hodimo ka letsohong le letshehadi la skrine, ho na le lenane la ho skrola. Botlaaseng ba eona, u tla fumana khetho ea "patlo e tsoetseng pele", eo u ka tobetsang ho eona. Ebe ho ho uena ho etsa qeto ea hore na ke litekanyetso life tse amanang le projeke ea hau. Hang ha o se o kgethile, o tla kgona ho jarolla diphetho tse fumanweng ka ho skrola tlase tlase ho leqephe mme o tobetse ho “Jarolla diphetho”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
