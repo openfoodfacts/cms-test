@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} ଇକୋ-ସ୍କୋର"
-description: "5ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: ୟୁଜର୍-ପ୍ଲସ୍
+icon: user-plus
 ---
 
-{{< fa "ୟୁଜର୍-ପ୍ଲସ୍" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## ଇକୋ-ସ୍କୋର ପଦ୍ଧତି କ’ଣ?
+## What is the Eco-Score methodology?
 
-ଇକୋ-ସ୍କୋର ADEME (ପରିବେଶିକ ପରିବର୍ତ୍ତନ ସଂସ୍ଥା) ଏବଂ INRAE (ଜାତୀୟ କୃଷି ଗବେଷଣା ପ୍ରତିଷ୍ଠାନ) ଦ୍ୱାରା ଉତ୍ପାଦିତ ଜୀବନଚକ୍ର ବିଶ୍ଳେଷଣର ଗଣନା ଉପରେ ଆଧାରିତ। PEF ସ୍କୋର ତିଆରି କରିବା ପାଇଁ ପ୍ରାୟ ପନ୍ଦରଟି ଉପାଦାନ ଗଣନା ଏବଂ ଲିଙ୍କ୍ କରାଯାଇଛି।
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-ଏହି PEF ସ୍କୋରରେ ବୋନସ ଏବଂ ମାଲୁସ୍ (ଉତ୍ପାଦନର ପଦ୍ଧତି, ଉତ୍ପତ୍ତି) ଯୋଡାଯାଇଛି
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ଇକୋ-ସ୍କୋର ଗଣନା କରିବା ପାଇଁ (ଉପାଦାନ, ବିଲୁପ୍ତପ୍ରାୟ ପ୍ରଜାତି, ପ୍ୟାକେଜିଂ)।
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (ଇକୋ-ସ୍କୋର ଉପସ୍ଥାପନା [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## ଇକୋ-ସ୍କୋରକୁ ଯଥାସମ୍ଭବ ସଠିକ୍ ଭାବରେ ଗଣନା କରିବା ପାଇଁ କେଉଁ ପ୍ରକାରର ସୂଚନା ଦେବାକୁ ପଡିବ?
-
-ଇକୋ-ସ୍କୋରକୁ ସଠିକ୍ ଭାବରେ ଗଣନା କରିବା ପାଇଁ, ପ୍ରତ୍ୟେକ ଉପାଦାନର ଶତକଡ଼ା ଏବଂ ଏହାର ଉତ୍ପତ୍ତି ନିର୍ଦ୍ଦିଷ୍ଟ କରିବାକୁ ପଡିବ।
-
-ଯଦି ଏହି ସୂଚନା ପୂର୍ବରୁ ଉପାଦାନ ତାଲିକାରେ ଉଲ୍ଲେଖ କରାଯାଇ ନାହିଁ, ତେବେ ଆପଣ ନିମ୍ନଲିଖିତ ଫର୍ମାଟ ସହିତ ଏହାକୁ ଉଲ୍ଲେଖ କରିବା ପାଇଁ ଏକ ସ୍ତମ୍ଭ ଯୋଡିପାରିବେ:
-
-ଗହମ ଅଟା ୧୬% (ଫ୍ରାନ୍ସ)
-
-ଚକୋଲେଟ୍ 8% (ଆଇଭରି କୋଷ୍ଟ, ଇକ୍ୱେଡର)
-
-ଆମକୁ ପ୍ୟାକେଜିଂର ଉପାଦାନଗୁଡ଼ିକ ମଧ୍ୟ ଆବଶ୍ୟକ: ଫିଙ୍ଗିଦେବା ପାଇଁ 1ଟି ପ୍ଲାଷ୍ଟିକ୍ ଫିଲ୍ମ, ପୁନଃଚକ୍ରଣ ପାଇଁ 1ଟି FSC କାର୍ଡବୋର୍ଡ ବାକ୍ସ, ପୁନଃଚକ୍ରଣ ପାଇଁ 1.5 ଲିଟର 6ଟି PET ସ୍ୱଚ୍ଛ ପ୍ଲାଷ୍ଟିକ୍ ବୋତଲ, 6ଟି ଅସ୍ୱଚ୍ଛ ରଙ୍ଗର ପ୍ଲାଷ୍ଟିକ୍ କ୍ୟାପ୍, 12ଟି ପ୍ଲାଷ୍ଟିକ୍ କ୍ୟାନ୍ 33 cl ଆଲୁମିନିୟମ୍।
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15ଟି ସୂଚକର ମୂଲ୍ୟଗୁଡ଼ିକୁ କିପରି ମିଶ୍ରଣ କରାଯାଏ?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF ସିଷ୍ଟମକୁ ଭଲ ଭାବରେ ବୁଝିବା ପାଇଁ, ଆପଣ ପଢିପାରିବେ: Eco-Score ପଦ୍ଧତିଗତ ସାଇଟରେ PEF ସ୍କୋରର ବ୍ୟାଖ୍ୟା**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## ସ୍ଥାନୀୟ ଦିଗଟି କ’ଣ ଉତ୍ପାଦନ ସ୍ଥାନ ସହିତ ଜଡିତ ନା କଞ୍ଚାମାଲର ଉତ୍ପତ୍ତି ସ୍ଥାନ ସହିତ ଜଡିତ?
+## How are the values ​​of the 15 indicators combined?
 
-**ସ୍ଥାନୀୟ ଦିଗଟି କଞ୍ଚାମାଲର ଉତ୍ପତ୍ତି ସହିତ ଜଡିତ। ଏହି କାରଣରୁ ଉତ୍ପାଦ ଉପାଦାନ ତାଲିକାରେ କିମ୍ବା ଉପାଦାନର ଉତ୍ପତ୍ତି ପାଇଁ ଉତ୍ସର୍ଗୀକୃତ କ୍ଷେତ୍ରରେ ସେମାନଙ୍କର ଶତକଡ଼ା ଏବଂ ଉତ୍ପତ୍ତି ପ୍ରବେଶ କରିବା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ।**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ଇକୋ-ସ୍କୋର ପାଇଁ ଉପାଦାନଗୁଡ଼ିକର ଉତ୍ପତ୍ତି କିପରି ପ୍ରବେଶ କରିବେ?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-ଯଦି ଆପଣ ଆପଣଙ୍କ ସିଟରେ ଥିବା କଞ୍ଚାମାଲର ଉତ୍ପତ୍ତି ବିଷୟରେ ସୂଚନା ବାଣ୍ଟିବାକୁ ଚାହାଁନ୍ତି, ତେବେ ଆମେ ଆପଣଙ୍କୁ ସେଗୁଡ଼ିକୁ ଉପାଦାନ ତାଲିକାରେ ଅନ୍ତର୍ଭୁକ୍ତ କରିବାକୁ ନିମନ୍ତ୍ରଣ କରୁଛୁ।
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
