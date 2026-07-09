@@ -1,23 +1,23 @@
 ---
-title: "សំណួរអំពីផលិតផល {{< fa shopping-basket size=2x >}}"
-description: "សំណួរ ១"
-lang: អង់គ្លេស-ជីកាបៃ
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: កន្ត្រកទិញទំនិញ
+icon: shopping-basket
 ---
 
-{{< fa "កន្ត្រកទិញទំនិញ" size=៣ដង >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## ខ្ញុំមានសំណួរ/ការអះអាងអំពីផលិតផលមួយ
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) គឺជាគេហទំព័រសហការមួយ ដែលត្រូវបានបង្កើតឡើង និងផ្តល់ព័ត៌មានដោយអ្នកប្រើប្រាស់ ដើម្បីអាចឌិគ្រីបស្លាក និងប្រៀបធៀបផលិតផល។
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-សម្រាប់ព័ត៌មានបន្ថែមអំពីផលិតផល ឬការទាមទារសំណង សូមសរសេរទៅកាន់ក្រុមហ៊ុនផលិត។ យើងមិនមានព័ត៌មានទំនាក់ទំនងសម្រាប់អ្នកផលិតទេ ប៉ុន្តែភាគច្រើនវាមាននៅលើវេចខ្ចប់។
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-ប្រសិនបើអ្នកចង់ជួយយើងនាំមកនូវតម្លាភាពបន្ថែមទៀតដល់អ្នកប្រើប្រាស់ដូចជាអ្នក ឬពួកយើង អ្នកអាចប្រើកម្មវិធី iPhone ឬ Android របស់យើងដើម្បីបន្ថែមផលិតផល៖ [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-ហើយដើម្បីពិភាក្សាអំពីគម្រោងនេះ អ្នកអាចចូលរួមក្រុមអ្នករួមចំណែកនៅលើហ្វេសប៊ុក៖ [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ឬជជែកជាមួយអ្នករួមចំណែកផ្សេងទៀតនៅលើ Slack៖
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
