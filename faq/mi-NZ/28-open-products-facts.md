@@ -1,48 +1,48 @@
 ---
-title: "{{< fa kī rahi=2x >}} Ngā Mōhiotanga Hua Tuwhera"
-description: "3 ngā pātai"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: kī
+icon: key
 ---
 
-{{< fa "kī" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Me pēhea te uru atu ki ngā Tūemi Hua Tuwhera i runga i te iPhone?
+## How to access Open Products Facts on iPhone ?
 
-Kei te wātea ngā Open Products Facts i roto i te taupānga matua o Open Food Facts. Mā tēnei whakaurunga ka taea e ngā kaiwhakamahi iPhone te uru atu ki ngā pātengi raraunga e rua mā te taupānga kotahi, watea hoki.
-
----
-
-## E hiahia ana ahau ki te tautoko i te Open Products Facts. He aha tāku e taea ai?
-
-Pānuihia tā mātou whārangi wiki, kua whakarārangihia e mātou ngā huarahi hei whai wāhi atu: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Hei tautoko i ngā Tūmomo Hua Tuwhera, ka taea e koe te whakaaro ki ngā kōwhiringa e whai ake nei, ia kōwhiringa e hāngai ana ki ngā momo takoha rerekē:
-
--
-
-**Ngā Kaitautoko Atawhai/Kāwanatanga mō ngā Tūemi Hua Tuwhera**:
-He mea nui ngā takoha atawhai ki te whakatutuki i te tirohanga whānui mō tētahi tūāpapa raraunga porowhita, te whakatauranga hua, me te whakakotahitanga otinga porowhita, puta noa i te neke atu i te 20000 ngā kāwai, he whāinga matua tēnei o ngā Tūemi Hua Tuwhera. He maha ngā wāhanga nui o tēnei moemoeā kāore anō kia whiwhi pūtea, ā, ka taea e tō tautoko pūtea te whai pānga nui. Mā āu koha ka āwhina i te putea i ngā whanaketanga me ngā hanganga matua. Mō te tuku āwhina pūtea, whakapā mai ki contact@openfoodfacts.org
-
--
-
-**Ngā Kaihautū Raraunga e Whakamahi ana i te Taupānga Open Products Facts**:
-He mea nui ngā takoha raraunga hei whakanui ake i ngā Open Products Facts. Mā te whakamahi i te taupānga Android hei tāpiri i ngā mōhiohio hua hou, hei whakahou i ngā tāurunga o nāianei, hei manatoko rānei i ngā raraunga, ka āwhina koe ki te whakawhānui me te whakapai ake i te pātengi raraunga. Mā tēnei mahi tahi ka whai wāhi atu ki te hanga i tētahi rauemi pakari, pono hoki mō te katoa.
-
--
-
-**Ngā Kaihautū Hangarau ki ngā Tūmomo Hua Tuwhera**:
-Mena he pūkenga hangarau āu i roto i ngā mara pēnei i te hōtaka, te tātari raraunga, te hoahoa wheako kaiwhakamahi rānei, ka tino whai hua tō pūkenga ki ngā Tūmomo Hua Tuwhera. He mea nui te whai wāhi ki te whakawhanake i te taupānga, te whakapai ake i tana mahi, te whakarei ake rānei i ngā atanga kaiwhakamahi. Hei whakauru atu, uru atu ki te hongere #openproductsfacts Slack, te wāhi e mahi tahi ai te hapori Open Products Facts. Kei te paetukutuku Open Food Facts te hononga ki tēnei wāhi mahi Slack.
-
-He mea nui ia momo takoha ki te tipu me te angitu o Open Products Facts, ā, ka āwhina i te waihanga i tētahi tūāpapa pumau ake, whai kōrero ake hoki mō te katoa.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Kei hea ahau e kite ai i te Open Products Facts API?
+## I would like to support Open Products Facts. What can I do ?
 
-He rite tonu te 98% o te Open Products Facts API ki te Open Food Facts API, nō reira, ki te whakamahi koe i ngā tuhinga o te Open Food Facts API, me mārama te tirohanga ki te Open Products Facts API. Kua tuhia hoki e mātou he akoranga motuhake hei whakahohe i te matawai whānui ki roto i tō taupānga.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
