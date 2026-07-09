@@ -1,49 +1,49 @@
 ---
-title: "{{< magnitudo cubi fa = 2x >}} Involucrum"
-description: "Tres quaestiones"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
-order: XXIV
+order: 24
 category-level: 1
-icon: cubus
+icon: cube
 ---
 
-{{< fa "cubus" size=Ter >}}
+{{< fa "cube" size=3x >}}
 
-## Quomodo notitias involucrorum meorum ad Open Food Facts addere possum?
+## How can I add my packaging data to Open Food Facts?
 
-Ut productor, efficacissima ratio addendae notitiae involucrorum productis tuis est per impletionem informationis necessariae, ex columna "AU" in hac [scheda computatrali Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl).
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Pro singulis partibus involucri, haec inscribere debebis:
+For each packaging component, you will need to enter:
 
-- Numerus unitatum (exempli gratia: **4** vascula iogurtorum)
+- The number of units (ex: **4** pots of yogurts)
 
-- Forma (exempli gratia: **olla, operculum, arca, etc.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materia (exempli gratia: **PET, charta, vitrum, etc.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Mandatum de redivivo usu (exempli gratia: **redivivum usum, abiiciendum, etc.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Pondus unius unitatis vacuae (in grammis)
+- The weight of one empty unit (in gr)
 
-- Quantitas netta producti per unitatem contenti
+- The net quantity of product contained per unit
 
-Haec tabula computatralis deinde in suggestum nostrum peritis dedicatum importari potest.
-
----
-
-## Quid est propositum "Tackling Food Packaging"?
-
-Propositum "Involucra Cibaria Tractandi" (vel "Involucra Cibaria Tractandi") ex colligendis notitiis singularibus de involucris productorum maxime consumendorum (forma, materia, instructiones distinguendi, pondus, capacitas) constat.
-
-Innixus rationis scientificae participatoriae, pendebit et a societatibus consentientibus ut notitias de involucris suis communicent et ludum perspicuitatis agant, et a civibus permittentibus ut informationes de productis colligantur. Haec informatio libere iterum adhiberi poterit ("data aperta").
-
-**Plura cognoscendi causa:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Etiam post finem incepti "Tackling Food Packaging", num adhuc notitias involucrorum meorum addere possum?
+## What is the Tackling Food Packaging project?
 
-Etiam post finem incepti, fieri potest ut notitias involucrorum addas, cum campi involucrorum in situ nostro interretiali manebunt.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
