@@ -1,27 +1,27 @@
 ---
-title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
-description: "2 questions"
-lang: en-gb
+title: "{{< fa user-circle size=2x >}} Můj účet Open Food Facts"
+description: "2 otázky"
+lang: cs
 order: 1
 category-level: 0
-icon: user-circle
+icon: uživatelský kruh
 ---
 
-{{< fa "user-circle" size=3x >}}
+{{< fa "uživatelský kruh" size=3× >}}
 
-## I want to delete my account
+## Chci smazat svůj účet
 
-Account deletion now happens directly in your preferences.
+Odstranění účtu se nyní děje přímo v nastavení.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Po přihlášení na [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/) klikněte na uživatelské jméno v pravém horním rohu a vyberte Parametry účtu. Otevře se stránka s vašimi nastaveními. Přejděte na konec stránky a použijte akci „smazat uživatele“.
 
-If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
+Pokud se nemůžete přihlásit (nebo obnovit heslo), kontaktujte prosím dpo na adrese [openfoodfacts.org](http://openfoodfacts.org) s použitím e-mailové adresy, kterou používáte k registraci účtu.
 
 ---
 
-## How do I change my username?
+## Jak si změním uživatelské jméno?
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Bohužel to není možné. Pokud to opravdu chcete změnit, musíte si smazat účet a vytvořit si nový.
 
 ---
 
