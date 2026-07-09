@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Maidir le Fíricí Bia Oscailte"
-description: "4 cheist"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: ciorcal eolais
+icon: info-circle
 ---
 
-{{< fa "ciorcal eolais" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Cén cineál eolais ba chóir a roinnt?
+## What type of information should be shared?
 
-Tá fáilte roimh aon eolas atá agat, ó eolas cothaitheach go eolas pacáistithe.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Fágann sé seo gur féidir comhad iomlán a bhunú, na scóir go léir a ríomh go cruinn agus, ar bhealach níos ginearálta, trédhearcacht a bhfuil meas ag tomhaltóirí uirthi.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Mar sin féin, molaimid duit tosaíocht a thabhairt do na réimsí seo a leanas:
+However we do recommend you prioritize the following fields:
 
-- Faisnéis chothaitheach
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Catagóir táirge (m.sh. deochanna, cáis, iógart, srl.)
-
-- Ainm an táirge
-
-- Ailléirginí
-
-- agus na comhábhair, níl an réimse seo éigeantach ach moltar é chun úsáid is fearr a bhaint as agus chun na scóir a chinneadh
-
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## An féidir liom sonraí Open Food Facts a íoslódáil?
+## Can I download Open Food Facts data?
 
-Is féidir leat na sonraí go léir atá ar fáil a íoslódáil ar Open Food Facts. Bí cúramach, teastaíonn go leor spáis diosca leis seo, ríomhaire cumhachtach más mian leat scarbhileog a úsáid nó eolas ar R nó Python ar shlí eile.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Is féidir leat fo-thacar de na sonraí (do bhranda mar shampla) a íoslódáil freisin a bhuíochas leis an gcuardach ardleibhéil.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## An bhfuil rochtain ar an ardán Pro agus allmhairiú sonraí saor in aisce?
-
-Go hiomlán, agus beidh sé go deo.Tá gach seirbhís a chuireann Open Food Facts ar fáil saor in aisce.  
-Tá áthas an domhain orainn gur shocraigh tú do shonraí táirgí a chur ar fáil do thrédhearcacht bia, agus gabhaimid buíochas leat as seo.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ba mhaith liom feabhsuithe a mholadh don ardán gairmiúil, conas is féidir liom é sin a dhéanamh?
+## Is access to the Pro platform and the import of data free?
 
-Go raibh maith agat as ucht do thoilteanas páirt a ghlacadh i dtrédhearcacht bia!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Is é an bealach is fearr chun aiseolas a roinnt ná tríd an [fhoirm seo](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) a líonadh isteach.
+---
 
-Is féidir leat teagmháil a dhéanamh linn freisin chun moltaí a dhéanamh tríd [ár bhfóram](https://forum.openfoodfacts.org/) nó trí [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Bí linn inár Slack agus téigh isteach sa chainéal #léiritheoirí chun teagmháil a dhéanamh linn.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
