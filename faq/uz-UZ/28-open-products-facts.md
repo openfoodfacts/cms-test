@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Ochiq Mahsulotlar haqida ma'lumot"
-description: "3 ta savol"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: kalit
+icon: key
 ---
 
-{{< fa "kalit" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## iPhone'da Ochiq Mahsulotlar Haqida Ma'lumotlarga qanday kirish mumkin?
+## How to access Open Products Facts on iPhone ?
 
-Ochiq Mahsulotlar Faktlari asosiy Ochiq Oziq-ovqat Faktlari ilovasida mavjud. Ushbu integratsiya iPhone foydalanuvchilariga bitta, qulay ilova orqali ikkala ma'lumotlar bazasiga kirish imkonini beradi.
-
----
-
-## Men Open Products Facts’ni qo‘llab-quvvatlamoqchiman. Men nima qilishim mumkin; qanday yordam berishim mumkin ?
-
-Iltimos, bizning viki sahifamizni o'qing, bizda ishtirok etish usullari keltirilgan: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Ochiq Mahsulotlar Faktlarini qo'llab-quvvatlash uchun siz turli xil hissa turlariga moslashtirilgan quyidagi variantlarni ko'rib chiqishingiz mumkin:
-
--
-
-**Ochiq Mahsulotlar Faktlari uchun Xayriya/Davlat Homiylari**:
-Xayriya hissalari 20 000 dan ortiq toifalarda keng qamrovli aylanma ma'lumotlar platformasi, mahsulotlarni baholash va aylanma yechimlarni agregatsiya qilish vizyonini amalga oshirishda juda muhimdir, bu esa Ochiq Mahsulotlar Faktlarining asosiy maqsadidir. Ushbu tasavvurning ko'plab muhim tarkibiy qismlari hali moliyalashtirilmagan va sizning moliyaviy yordamingiz sezilarli ta'sir ko'rsatishi mumkin. Sizning xayriyalaringiz muhim ishlanmalar va infratuzilmani moliyalashtirishga yordam berishi mumkin. Moliyaviy hissa qo'shish uchun contact@openfoodfacts.org manzili orqali biz bilan bog'laning.
-
--
-
-**Ochiq Mahsulotlar Faktlari Ilovasidan Ma'lumotlar Qo'shuvchilar**:
-Ma'lumotlar Qo'shish Ochiq Mahsulotlar Faktlarini kengaytirish uchun juda muhimdir. Android ilovasidan foydalanib, yangi mahsulot ma'lumotlarini qo'shish, mavjud yozuvlarni yangilash yoki ma'lumotlarni tekshirish orqali siz ma'lumotlar bazasini kengaytirish va takomillashtirishga yordam berasiz. Ushbu birgalikdagi sa'y-harakatlar hamma uchun mustahkam va ishonchli resurs yaratishga hissa qo'shadi.
-
--
-
-**Ochiq Mahsulotlar Faktlariga Texnik Hissa Qo'shganlar**:
-Agar siz dasturlash, ma'lumotlarni tahlil qilish yoki foydalanuvchi tajribasini loyihalash kabi sohalarda texnik ko'nikmalarga ega bo'lsangiz, sizning tajribangiz Ochiq Mahsulotlar Faktlariga sezilarli darajada foyda keltirishi mumkin. Ilovani ishlab chiqishda ishtirok etish, uning funksionalligini yaxshilash yoki foydalanuvchi interfeyslarini takomillashtirish qimmatli hissalardir. Qo'shilish uchun #openproductsfacts Slack kanaliga qo'shiling, bu yerda Open Products Facts hamjamiyati hamkorlik qiladi. Ushbu Slack ish maydoniga havolani Open Food Facts veb-saytida topishingiz mumkin.
-
-Har bir turdagi hissa Open Products Facts kompaniyasining o'sishi va muvaffaqiyati uchun muhim bo'lib, hamma uchun yanada barqaror va ma'lumotli platforma yaratishga yordam beradi.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Open Products Facts API’sini qayerdan topsam bo‘ladi?
+## I would like to support Open Products Facts. What can I do ?
 
-Open Products Facts API'si Open Food Facts API'si bilan 98% bir xil, shuning uchun agar siz Open Food Facts API hujjatlaridan foydalansangiz, Open Products Facts API'si haqida aniq tasavvurga ega bo'lishingiz kerak. Shuningdek, biz ilovangizda universal skanerlashni amalga oshirishga imkon beradigan maxsus qo'llanma yozdik.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
