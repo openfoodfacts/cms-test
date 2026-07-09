@@ -1,62 +1,58 @@
 ---
-title: "{{<fa info-circle size=2x >}} திறந்த உணவு உண்மைகள் பற்றி"
-description: "4 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: தகவல் வட்டம்
+icon: info-circle
 ---
 
-{{< fa "தகவல் வட்டம்" size="3x (3x)" >}}
+{{< fa "info-circle" size=3x >}}
 
-## எந்த வகையான தகவல்களைப் பகிர வேண்டும்?
+## What type of information should be shared?
 
-ஊட்டச்சத்து தகவல் முதல் பேக்கேஜிங் தகவல் வரை உங்களிடம் உள்ள எந்த தகவலும் வரவேற்கப்படுகிறது.
+Any information you have is welcome, from nutritional information to packaging information.
 
-இது ஒரு முழுமையான கோப்பை நிறுவுவதை சாத்தியமாக்குகிறது, அனைத்து மதிப்பெண்களையும் துல்லியமாகவும் பொதுவாக நுகர்வோரால் பாராட்டப்படும் வெளிப்படைத்தன்மையுடனும் கணக்கிடுகிறது.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-இருப்பினும், பின்வரும் துறைகளுக்கு முன்னுரிமை அளிக்க நாங்கள் பரிந்துரைக்கிறோம்:
+However we do recommend you prioritize the following fields:
 
-- ஊட்டச்சத்து தகவல்
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- தயாரிப்பு வகை (எ.கா. பானங்கள், சீஸ், தயிர் போன்றவை)
-
-- தயாரிப்பின் பெயர்
-
-- ஒவ்வாமை
-
-- மற்றும் பொருட்கள், இந்தப் புலம் கட்டாயமில்லை, ஆனால் உகந்த பயன்பாடு மற்றும் மதிப்பெண்களை நிர்ணயிப்பதற்கு பரிந்துரைக்கப்படுகிறது.
-
-→ மேலும் விவரங்களுக்கு, எங்கள் [பயனர் வழிகாட்டியை](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) பதிவிறக்கம் செய்து/அல்லது எங்கள் [வீடியோ டுடோரியல்களைப்](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) பார்க்கவும் :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## திறந்த உணவு உண்மைகள் தரவை நான் பதிவிறக்க முடியுமா?
+## Can I download Open Food Facts data?
 
-திறந்த உணவு உண்மைகளில் கிடைக்கும் அனைத்து தரவையும் நீங்கள் பதிவிறக்கம் செய்யலாம். ஜாக்கிரதை, இதற்கு நிறைய வட்டு இடம் தேவை, நீங்கள் ஒரு விரிதாள் பயன்படுத்த விரும்பினால் சக்திவாய்ந்த கணினி அல்லது இல்லையெனில் R அல்லது பைதான் பற்றிய அறிவு தேவை.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-மேம்பட்ட தேடலின் மூலம் தரவின் துணைக்குழுவையும் (உதாரணமாக உங்கள் பிராண்ட்) பதிவிறக்கம் செய்யலாம்.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ மேலும் விவரங்களுக்கு, எங்கள் [பயனர் வழிகாட்டியை](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) பதிவிறக்கம் செய்து/அல்லது எங்கள் [வீடியோ டுடோரியல்களைப்](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) பார்க்கவும் :-)
-
----
-
-## ப்ரோ தளத்தை அணுகுவதும் தரவை இறக்குமதி செய்வதும் இலவசமா?
-
-நிச்சயமாக, அது என்றென்றும் இருக்கும்.ஓபன் ஃபுட் ஃபேக்ட்ஸ் வழங்கும் அனைத்து சேவைகளும் இலவசம்.  
-உணவு வெளிப்படைத்தன்மைக்கு உங்கள் தயாரிப்புத் தரவைப் பங்களிக்க நீங்கள் முடிவு செய்ததில் நாங்கள் மிகவும் மகிழ்ச்சியடைகிறோம், இதற்காக நாங்கள் உங்களுக்கு நன்றி கூறுகிறோம்.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## தொழில்முறை தளத்திற்கான மேம்பாடுகளை நான் பரிந்துரைக்க விரும்புகிறேன், அதை நான் எவ்வாறு செய்வது?
+## Is access to the Pro platform and the import of data free?
 
-உணவு வெளிப்படைத்தன்மையில் பங்கேற்க நீங்கள் விருப்பம் தெரிவித்ததற்கு நன்றி!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-கருத்துகளைப் பகிர்ந்து கொள்வதற்கான சிறந்த வழி [இந்தப் படிவத்தை](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) நிரப்புவதாகும்.
+---
 
-[எங்கள் மன்றம்](https://forum.openfoodfacts.org/) அல்லது [Slack](https://openfoodfacts.slack.com/ssb/redirect) வழியாக பரிந்துரைகளை வழங்க எங்களைத் தொடர்பு கொள்ளலாம்.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-எங்கள் ஸ்லாக்கில் சேர்ந்து எங்களைத் தொடர்பு கொள்ள #தயாரிப்பாளர்கள் சேனலை உள்ளிடவும்.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
