@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kubo sayay=2x >}} Paquete"
-description: "3 tapuykuna"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
-order: 24. 24
+order: 24
 category-level: 1
-icon: cubo
+icon: cube
 ---
 
-{{< fa "cubo" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## ¿Imaynatataq yapayman envasado nisqamanta datosniy Open Food Facts nisqaman?
+## How can I add my packaging data to Open Food Facts?
 
-Ruwaq hina, aswan allin ruwayqa ruruykikunaman paquete willayta yapanapaq kay [excel hoja de cálculo](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) necesario willayta hunt'achiy, "AU" columnamanta.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Sapa componente de empaquetado kaqpaq, kayta qillqanayki tiyan:
+For each packaging component, you will need to enter:
 
-- Hayka unidadkuna (ex: **4** mankakuna yogurkuna) .
+- The number of units (ex: **4** pots of yogurts)
 
-- Chay rikchaynin (ex: **manka, tapa, caja, etc**) .
+- The shape (ex: **pot, lid, box, etc**)
 
-- Chay material (ex: **PET, papel, vidrio, etc**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Chay reciclaje kamachikuy (ex: **reciclaje, wikch'uy, etc**) .
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Huk ch'usaq unidadpa llasaynin (gr nisqapi) .
+- The weight of one empty unit (in gr)
 
-- Sapa unidadpi imakuna kasqan neto nisqa
+- The net quantity of product contained per unit
 
-Chaymanta kay hoja de cálculo profesionalkunaman dedicasqa plataformaykuman apamuyta atikun.
-
----
-
-## ¿Imataq proyecto Tackling Food Packaging nisqa?
-
-"Tackling Food Packaging" nisqa llamk'ayqa aswan mikhusqa rurukunap embalaje nisqamanta sut'i willakuykunata huñuymi (rima, material, ordenamiento de ordenamiento, llasa, atiy).
-
-Huk enfoque ciencia participativa kaqpi hapipakuspa, iskaynin empresakuna acuerdopi kasqankupi hapipakunqa, paykunapa envasado datosninkuta qunakunankupaq chaymanta transparencia pukllayta pukllanankupaq, chaymanta llaqta runakuna rurukunamanta willayta huñuyta saqiptinku. Kay willakuyqa mana hark'asqa musuqmanta llamk'achinapaq kanqa ("kichasqa willay").
-
-**Aswan willakuypaq:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/qu/embalaje-proyecto-productores)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Proyecto Tackling Food Packaging tukukuptinpas, ¿atiymanraqchu yapayman envasadoymanta datosniykunata?
+## What is the Tackling Food Packaging project?
 
-Proyecto tukukuptinpas, atikunmi yapayta embalaje nisqamanta willakuykunata, chaymi embalaje nisqa pampakuna web nisqaykupi qipanqa.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
