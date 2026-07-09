@@ -1,23 +1,23 @@
 ---
-title: "Lipotso mabapi le sehlahisoa"
-description: "Potso e le 'ngoe"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: baskete ea mabenkele
+icon: shopping-basket
 ---
 
-{{< fa "baskete ea mabenkele" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ke na le potso / tleleime mabapi le sehlahisoa
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) ke sebaka sa tšebelisano-'moho se entsoeng le ho feptjoa ke bareki ho khona ho utloisisa mabitso le ho bapisa lihlahisoa.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Bakeng sa tlhahisoleseding e batsi ka sehlahisoa kapa tleleime, ngolla moetsi. Ha re na tlhahisoleseding ea ho ikopanya le bahlahisi empa hangata e ba teng sephutheloana.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Haeba o batla ho re thusa ho tlisa pepeneneng e eketsehileng ho bareki ba kang uena kapa rona, o ka sebelisa sesebelisoa sa rona sa iPhone kapa sa Android ho eketsa lihlahisoa: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-'Me ho buisana ka projeke ena, o ka ikopanya le sehlopha sa Facebook sa ba kenyang letsoho: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) kapa wa qoqa le ba kenyang letsoho ba bang ho Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
