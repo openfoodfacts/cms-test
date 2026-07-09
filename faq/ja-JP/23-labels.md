@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} ラベル"
-description: "2つの質問"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: ブックマーク
+icon: bookmark
 ---
 
-{{< fa "ブックマーク" size=3倍 >}}
+{{< fa "bookmark" size=3x >}}
 
-## レーベルとしてアカウントを作成する事は重要ですか？
+## As a label, is it important to create an account ?
 
-レーベルは製品の直接の生産者ではないため、生産者アカウントを作成する必要はありません。
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## 私はレーベルですが、プロジェクトに参加するにはどうすればいいですか?
+## I am a label, how can I participate in the project?
 
-ラベルとして最も適切なことは、**(producers@openfoodfacts.org)** に連絡して、ラベルが表示されている製品のリストを送信していただき、関連する製品シートに追加できるようにすることです。
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
