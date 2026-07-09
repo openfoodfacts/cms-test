@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Kuhusu Ukweli wa Chakula Huria"
-description: "Maswali 4"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: mduara wa taarifa
+icon: info-circle
 ---
 
-{{< fa "mduara wa taarifa" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Ni aina gani ya taarifa inayopaswa kusambazwa?
+## What type of information should be shared?
 
-Taarifa yoyote uliyonayo inakaribishwa, kuanzia taarifa za lishe hadi taarifa za vifungashio.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Hii inafanya uwezekano wa kuanzisha faili kamili, kuhesabu alama zote kwa usahihi na kwa ujumla uwazi unaothaminiwa na watumiaji.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Hata hivyo, tunapendekeza uweke kipaumbele katika nyanja zifuatazo:
+However we do recommend you prioritize the following fields:
 
-- Taarifa za lishe
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Aina ya bidhaa (km vinywaji, jibini, mtindi, n.k.)
-
-- Jina la bidhaa
-
-- Vizio
-
-- na viungo, uwanja huu si wa lazima lakini unapendekezwa kwa matumizi bora na uamuzi wa alama.
-
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Je, ninaweza kupakua data ya Open Food Facts?
+## Can I download Open Food Facts data?
 
-Unaweza kupakua data yote inayopatikana kwenye Open Food Facts. Kuwa mwangalifu, hii inahitaji nafasi nyingi kwenye diski, kompyuta yenye nguvu ikiwa unataka kutumia lahajedwali au ujuzi wa R au Python vinginevyo.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Unaweza pia kupakua sehemu ndogo ya data (kwa mfano chapa yako) kutokana na utafutaji wa hali ya juu.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Je, ufikiaji wa jukwaa la Pro na uingizaji wa data ni bure?
-
-Hakika, na itakuwa hivyo milele.Huduma zote zinazotolewa na Open Food Facts ni bure.  
-Tunafurahi sana kwamba umeamua kuchangia data ya bidhaa yako kwa uwazi wa chakula, na tunakushukuru kwa hili.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ningependa kupendekeza maboresho kwa jukwaa la kitaalamu, ninawezaje kufanya hivyo?
+## Is access to the Pro platform and the import of data free?
 
-Asante kwa nia yako ya kushiriki katika uwazi wa chakula!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Njia bora ya kushiriki maoni ni kwa kujaza [fomu hii](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Unaweza pia kuwasiliana nasi ili kutoa mapendekezo kupitia [jukwaa letu](https://forum.openfoodfacts.org/) au kupitia [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Jiunge na Slack yetu na ujiunge na chaneli #producers ili kuwasiliana nasi.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
