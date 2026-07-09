@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Боргирии маълумот"
-description: "1 савол"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: зеркашии абрӣ
+icon: cloud-download
 ---
 
-{{< fa "зеркашии абрӣ" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Маълумотро барои як кишвари мушаххас аз куҷо гирифтан мумкин аст?
+## Where to get the data for a specific country?
 
-Айни замон, содироти махсус ба кишварҳои мушаххас вуҷуд надорад.
+Currently, there are no exports dedicated to specific countries.
 
-Роҳҳои зиёде барои истифодаи содироти гуногуни мо дар якҷоягӣ бо абзорҳои гуногун барои интихоби маълумоти марбут ба кишвари мушаххас мавҷуданд.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Шумо метавонед ба [баъзе аз ин усулҳо дар вики мо](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) назар кунед.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
