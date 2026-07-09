@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Sıkça Sorulan Sorular - İngilizce"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: ızgara
+  type: grid
   grid-columns: 4
-  sort: "emir"
-  fields: [ başlık, açıklama ]
+  sort: "order"
+  fields: [ title, açıklama ]
   page-size: 100
 
 # << DO NOT TRANSLATE
