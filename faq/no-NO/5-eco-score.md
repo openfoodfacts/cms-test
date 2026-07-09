@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Øko-poengsum"
-description: "5 spørsmål"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: bruker-pluss
+icon: user-plus
 ---
 
-{{< fa "bruker-pluss" size="3 ganger" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Hva er Eco-Score-metoden?
+## What is the Eco-Score methodology?
 
-Øko-score er basert på beregningen av livssyklusanalysen utarbeidet av ADEME (byrået for økologisk overgang) og INRAE (det nasjonale instituttet for agronomisk forskning). Omtrent femten komponenter beregnes og kobles sammen for å lage PEF-poengsummen.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Til denne PEF-poengsummen legges det til bonuser og feil (produksjonsmåte, opprinnelse
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingredienser, truede arter, emballasje) for å beregne øko-score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-For mer informasjon, se sammendragssiden [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) på Open Food Facts samt på Eco-Score-konsortiets nettsted. (Eco-Score-presentasjon [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Hvilken type informasjon må gis for at økoscoren skal beregnes så nøyaktig som mulig?
-
-For at øko-scoren skal kunne beregnes nøyaktig, må prosentandelen av hver ingrediens og dens opprinnelse spesifiseres.
-
-Hvis denne informasjonen ikke allerede er spesifisert i ingredienslisten, kan du legge til en kolonne for å nevne den, med følgende format:
-
-Hvetemel 16 % (Frankrike)
-
-Sjokolade 8% (Elfenbenskysten, Ecuador)
-
-Vi trenger også komponentene til emballasjen i form av: 1 plastfilm til å kastes, 1 FSC-pappeske til resirkulering, 6 gjennomsiktige PET-plastflasker på 1,5 l til resirkulering, 6 ugjennomsiktige fargede plastkorker, 12 plastbokser på 33 cl aluminium.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Hvordan kombineres verdiene til de 15 indikatorene?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**For å bedre forstå PEF-systemet kan du lese: forklaring av PEF-poengsummen på Eco-Score-metodikksiden**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Gjelder det lokale aspektet produksjonsstedet eller opprinnelsesstedet for råvarene?
+## How are the values ​​of the 15 indicators combined?
 
-**Det lokale aspektet gjelder råvarenes opprinnelse.** Derfor er det viktig å oppgi prosentandelen samt opprinnelsen i listen over produktets ingredienser eller i feltet som er dedikert til ingrediensenes opprinnelse.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Hvordan legger man inn opprinnelsen til ingredienser for økoscoren?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Hvis du ønsker å dele informasjon om opprinnelsen til råvarene på arkene dine, inviterer vi deg til å inkludere dem i ingredienslisten.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
