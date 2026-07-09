@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} О резултатима"
-description: "3 питања"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: линија графикона
+icon: chart-line
 ---
 
-{{< fa "линија графикона" size="3 пута" >}}
+{{< fa "chart-line" size=3x >}}
 
-## Ко је одговоран за израчунавање отиска и/или резултата?
+## Who is responsible for calculating the footprint and/or score?
 
-Нутри-скор, НОВА група и Еко-скор се израчунавају на основу података присутних у Опен Фоод Фацтс. Наши алгоритми строго прате званичне методологије ових резултата.
-
----
-
-## Која је разлика између Eco-Score-а, Nutri-Score-а и NOVA групе?
-
-Сврха ових индикатора је да пруже лако разумљиве информације потрошачу.
-
-[NOVA група](https://fr.openfoodfacts.org/nova) се бави трансформацијом производа, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) његовим утицајем на животну средину, а [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) нутритивним елементима, знајући да што је производ ближи оценама А, то је квалитетнији.
-
-Три резултата се не баве истим елементима. Стога их није могуће међусобно упоређивати.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Да ли је могуће симулирати Еко-скор или Нутри-скор мојих производа?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Регистрацијом на платформи произвођача и отпремањем података о вашим производима, можете израчунати Nutri-Score и Eco-Score повезане са вашим производима.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Међутим, морате га обрисати након што се симулација изврши како се не би извезао на јавну платформу са производима који су већ пласирани у вашем асортиману.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ За више детаља, позивамо вас да преузмете наш [водич за кориснике](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) и/или погледате наше [видео туторијале](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
