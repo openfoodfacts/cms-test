@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Investigadores/Académicos"
-description: "1 subcategoría"
-lang: es-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: birrete de graduación
+icon: graduation-cap
 listing:
   contents:
-    - "*.Maryland"
+    - "*.md"
   include:
     category-level: 1
-  type: red
+  type: grid
   grid-columns: 4
-  sort: "orden"
-  fields: [ título, descripción ]
+  sort: "order"
+  fields: [ title, descripción ]
   page-size: 100
 ---
 
-{{< fa "birrete de graduación" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
