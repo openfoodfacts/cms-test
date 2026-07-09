@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Даннӑйсене скачать"
-description: "1 ыйту"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: пӗлӗт-скачать
+icon: cloud-download
 ---
 
-{{< fa "пӗлӗт-скачать" size=3х >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ятарлӑ ҫӗршывӑн даннӑйӗсене ӑҫтан тупмалла?
+## Where to get the data for a specific country?
 
-Хальхи вӑхӑтра уйрӑм ҫӗршывсене халалланӑ экспорт ҫук.
+Currently, there are no exports dedicated to specific countries.
 
-Пирӗн тӗрлӗ экспорта тӗрлӗ хатӗрсемпе пӗрле усӑ курса ятарлӑ ҫӗршывпа ҫыхӑннӑ даннӑйсене суйласа илме нумай май пур.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Эсир [пирӗн викире ҫак меслетсенчен хӑшӗ-пӗрисене](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) пӑхма пултаратӑр.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
