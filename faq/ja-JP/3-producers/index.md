@@ -1,21 +1,21 @@
 ---
-title: "{{< fa 業界規模=2x >}} プロデューサー"
-description: "6つのサブカテゴリ"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: 業界
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: グリッド
+  type: grid
   grid-columns: 4
-  sort: "注文"
-  fields: [ タイトル, 説明 ]
+  sort: "order"
+  fields: [ title, 説明 ]
   page-size: 100
 ---
 
-{{< fa "業界" size=3倍 >}}
+{{< fa "industry" size=3x >}}
 
