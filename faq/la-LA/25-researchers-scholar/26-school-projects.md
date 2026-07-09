@@ -1,23 +1,23 @@
 ---
-title: "{{< fa fasciculus-o magnitudo=2x >}} Proposita scholastica"
-description: "Duae quaestiones"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
-order: XXVI
+order: 26
 category-level: 1
-icon: fasciculus-o
+icon: file-o
 ---
 
-{{< fa "fasciculus-o" size=Ter >}}
+{{< fa "file-o" size=3x >}}
 
-## Proiectum scholasticum mihi faciendum est, et notitias ab Open Food Facts uti volo, num id facere possum?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-"Open Food Facts" est aperta database, proiectum apertum quod sub licentia ODbL operatur; ergo, dummodo requisitis licentiae ODbL consentias, libenter nostra data pro tuis proiectis iterum uti potes :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Quomodo ad notitias pro meis inceptis accedere/colligere possum?
+## How can I access/collect data for my projects ?
 
-In pagina principali Open Food Facts, in angulo sinistro superiore scrinii, est index volubilis. In fundo eius, optionem "quaestionis provectae" invenies, quam premere potes. Deinde tibi incumbit determinare quae criteria ad proiecta tua maxime pertinentia sint. Postquam electum est, eventus obtentos depromere poteris deorsum in fundo paginae volvendo et "Depromere eventus" premendo.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
