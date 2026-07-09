@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiketak"
-description: "2 galdera"
-lang: eu-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: laster-marka
+icon: bookmark
 ---
 
-{{< fa "laster-marka" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Diskoetxe gisa, garrantzitsua al da kontu bat sortzea?
+## As a label, is it important to create an account ?
 
-Etiketa gisa, produktuen ekoizle zuzena ez zarenez, ez duzu ekoizle konturik sortu beharrik.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Diskoetxe bat naiz, nola parte har dezaket proiektuan?
+## I am a label, how can I participate in the project?
 
-Etiketa gisa, egin dezakezun gauzarik garrantzitsuena gurekin harremanetan jartzea da **(producers@openfoodfacts.org)** eta zure etiketa agertzen den produktuen zerrenda bidaltzea, erlazionatutako produktuen fitxetan gehi ditzagun.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
