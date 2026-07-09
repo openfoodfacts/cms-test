@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Эко-Оноо"
-description: "5 асуулт"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: хэрэглэгчийн нэмэлт
+icon: user-plus
 ---
 
-{{< fa "хэрэглэгчийн нэмэлт" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Эко-Онооны арга зүй гэж юу вэ?
+## What is the Eco-Score methodology?
 
-Эко-Оноог ADEME (экологийн шилжилтийн агентлаг) болон INRAE (агрономийн судалгааны үндэсний хүрээлэн)-ийн гаргасан амьдралын мөчлөгийн шинжилгээний тооцоололд үндэслэсэн болно. БТС-ийн оноог гаргахын тулд ойролцоогоор арван таван бүрэлдэхүүн хэсгийг тооцоолж, холбодог.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Энэхүү БТС-ийн оноонд урамшуулал болон алдаанууд (үйлдвэрлэлийн хэлбэр, гарал үүсэл) нэмэгддэг.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-Эко-Оноог тооцоолохын тулд орц найрлага, устаж үгүй болох аюулд орсон төрөл зүйл, сав баглаа боодол).
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Дэлгэрэнгүй мэдээллийг Open Food Facts болон Eco-Score консорциумын вэбсайт дээрх [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) товч мэдээллийг үзнэ үү. (Эко-Онооны танилцуулга [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Эко-Оноог аль болох нарийвчлалтай тооцоолохын тулд ямар төрлийн мэдээлэл өгөх ёстой вэ?
-
-Эко-оноог яг тооцоолохын тулд орц бүрийн хувь болон гарал үүслийг тодорхой зааж өгөх шаардлагатай.
-
-Хэрэв энэ мэдээлэл орц найрлагын жагсаалтад аль хэдийн заагаагүй бол та үүнийг дурдахын тулд дараах форматтай багана нэмж болно.
-
-Улаан буудайн гурил 16% (Франц)
-
-Шоколад 8% (Зааны ясан эрэг, Эквадор)
-
-Мөн бидэнд сав баглаа боодлын бүрэлдэхүүн хэсгүүд хэрэгтэй: хаях 1 хуванцар хальс, дахин боловсруулах 1 FSC картон хайрцаг, дахин боловсруулах 1.5 литрийн багтаамжтай 6 ширхэг PET тунгалаг хуванцар сав, 6 ширхэг тунгалаг бус өнгөтэй хуванцар таг, 12 ширхэг 33 см хөнгөн цагаан хуванцар лааз.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15 үзүүлэлтийн утгыг хэрхэн нэгтгэсэн бэ?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**БТС системийг илүү сайн ойлгохын тулд та Эко-Онооны арга зүйн сайтаас БТСС-ийн онооны тайлбарыг уншиж болно**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Орон нутгийн тал нь түүхий эдийн үйлдвэрлэсэн газар эсвэл гарал үүслийн газартай холбоотой юу?
+## How are the values ​​of the 15 indicators combined?
 
-**Орон нутгийн тал нь түүхий эдийн гарал үүсэлтэй холбоотой. Тийм учраас бүтээгдэхүүний орц найрлагын жагсаалт эсвэл орц найрлагын гарал үүслийн талбарт тэдгээрийн хувь хэмжээ болон гарал үүслийг оруулах нь чухал юм.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Эко онооны орц найрлагын гарал үүслийг хэрхэн оруулах вэ?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Хэрэв та түүхий эдийн гарал үүслийн талаарх мэдээллийг хуудсан дээрээ хуваалцахыг хүсвэл тэдгээрийг орц найрлагын жагсаалтад оруулахыг урьж байна.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
