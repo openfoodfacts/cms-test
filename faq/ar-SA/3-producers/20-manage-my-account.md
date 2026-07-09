@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} إدارة حسابي"
-description: "ثلاثة أسئلة"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: المستخدم
 
 {{< fa "المستخدم" size=3x >}}
 
-## هل يمكن ربط حسابات متعددة على منصة "حقائق الطعام المفتوحة" بشركة واحدة؟
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-نعم، يرجى إرسال بريد إلكتروني إلى [producers@openfoodfacts.org](mailto:support@openfoodfacts.org)، حتى نتمكن من ربط جميع الحسابات بنفس الشركة.
-
----
-
-## كيف يمكنني تحويل حسابي في Open Food Facts إلى حساب احترافي؟
-
-يمكنك الوصول إلى [المنصة الاحترافية](https://world.pro.openfoodfacts.org/) باستخدام بيانات اعتماد حسابك الحالي.
-
-إذا كنت محترفًا، فستحتاج إلى استخدام عنوان بريدك الإلكتروني المهني حتى نتمكن من التحقق من حسابك.
-
-للحصول على مزيد من التفاصيل، ندعوكم لتحميل [دليل المستخدم](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) و/أو مشاهدة [الدروس التعليمية المصورة](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## أين يمكنني العثور على وثائق تساعدني في استخدام منصة Pro؟
+## How to convert my Open Food Facts account into a Pro account?
 
-هناك بعض الموارد التي تساعدك على تحقيق أقصى استفادة من منصة Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-أهلاً وسهلاً بكم في:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- راجع [دليل المستخدم](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - ندعوك لتنزيل ملف PDF حتى تكون الروابط قابلة للنقر، مما سيسهل عليك التنقل عبر المستند.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- راجع [الدروس التعليمية المصورة](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- شاركنا ملاحظاتك أو اقتراحاتك عبر [هذا النموذج](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- حدد موعدًا لمكالمة مع مانون، مديرة الشراكات لدينا، إذا كانت لديك المزيد من الأسئلة: [هنا](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- تواصلوا معنا عبر البريد الإلكتروني: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
