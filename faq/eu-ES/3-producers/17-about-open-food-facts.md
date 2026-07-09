@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Janari Irekien Datuei Buruz"
-description: "4 galdera"
-lang: eu-gb
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: informazio-zirkulua
+icon: info-circle
 ---
 
-{{< fa "informazio-zirkulua" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Zer motatako informazioa partekatu behar da?
+## What type of information should be shared?
 
-Edozein informazio ongi etorria da, nutrizio-informaziotik hasi eta ontziratze-informazioraino.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Horri esker, fitxategi osoa ezar daiteke, puntuazio guztiak zehaztasunez kalkula daitezke eta, oro har, kontsumitzaileek estimatzen duten gardentasuna.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Hala ere, honako eremu hauei lehentasuna ematea gomendatzen dizugu:
+However we do recommend you prioritize the following fields:
 
-- Nutrizio-informazioa
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Produktu kategoria (adibidez, edariak, gazta, jogurta, etab.)
-
-- Produktuaren izena
-
-- Alergenoak
-
-- eta osagaiak, eremu hau ez da derrigorrezkoa, baina gomendagarria da erabilera optimoa eta puntuazioak zehazteko
-
-→ Xehetasun gehiago nahi izanez gero, gure [erabiltzaile gida](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) deskargatzera eta/edo gure [bideo tutorialak](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) kontsultatzera gonbidatzen zaitugu :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Deskargatu al ditzaket Open Food Facts datuak?
+## Can I download Open Food Facts data?
 
-Open Food Facts-en eskuragarri dauden datu guztiak deskargatu ditzakezu. Kontuz, disko gogorreko espazio asko behar du honek, ordenagailu indartsua kalkulu-orri bat erabili nahi baduzu edo R edo Pythonen ezagutza bestela.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Bilaketa aurreratuari esker, datuen azpimultzo bat ere deskargatu dezakezu (zure marka, adibidez).
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Xehetasun gehiago nahi izanez gero, gure [erabiltzaile gida](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) deskargatzera eta/edo gure [bideo tutorialak](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) kontsultatzera gonbidatzen zaitugu :-)
-
----
-
-## Doakoa al da Pro plataformarako sarbidea eta datuen inportazioa?
-
-Noski, eta betiko izango da.Open Food Facts-ek eskaintzen dituen zerbitzu guztiak doakoak dira.  
-Oso pozik gaude zure produktuen datuak elikagaien gardentasunera eramatea erabaki duzulako, eta eskerrak ematen dizkizugu horregatik.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Plataforma profesionalerako hobekuntzak proposatu nahi nituzke, nola egin dezaket?
+## Is access to the Pro platform and the import of data free?
 
-Eskerrik asko elikagaien gardentasunean parte hartzeko prestutasunagatik!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Iritzia partekatzeko modurik onena [formulario hau](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) betetzea da.
+---
 
-Gurekin harremanetan jar zaitezke iradokizunak egiteko, bai [gure foroaren](https://forum.openfoodfacts.org/) bidez, bai [Slack-en](https://openfoodfacts.slack.com/ssb/redirect) bidez.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Batu zaitez gure Slack-era eta sartu #ekoizleak kanalean gurekin harremanetan jartzeko.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
