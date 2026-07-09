@@ -1,39 +1,39 @@
 ---
-title: "स्कोर के बारे में {{< fa chart-line size=2x >}}"
-description: "3 प्रश्न"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: चार्ट-लाइन
+icon: chart-line
 ---
 
-{{< fa "चार्ट-लाइन" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## फुटप्रिंट और/या स्कोर की गणना करने के लिए कौन जिम्मेदार है?
+## Who is responsible for calculating the footprint and/or score?
 
-न्यूट्रि-स्कोर, नोवा समूह और इको-स्कोर की गणना ओपन फूड फैक्ट्स में मौजूद डेटा के आधार पर की जाती है। हमारे एल्गोरिदम इन स्कोरों की आधिकारिक पद्धतियों का सख्ती से पालन करते हैं।
-
----
-
-## इको-स्कोर, न्यूट्री-स्कोर और नोवा समूह में क्या अंतर है?
-
-इन संकेतकों का उद्देश्य उपभोक्ता को आसानी से समझ में आने वाली जानकारी प्रदान करना है।
-
-[नोवा समूह](https://fr.openfoodfacts.org/nova) उत्पाद के रूपांतरण से संबंधित है, [इको-स्कोर](https://fr.openfoodfacts.org/ecoscore) इसके पर्यावरणीय प्रभाव से और [न्यूट्रि-स्कोर](https://fr.openfoodfacts.org/nutriscore) पोषण तत्वों से संबंधित है, यह जानते हुए कि किसी उत्पाद का स्कोर A के जितना करीब होता है, वह उतना ही अधिक गुणात्मक होता है।
-
-ये तीनों स्कोर एक ही तत्वों से संबंधित नहीं हैं। इसलिए उनकी आपस में तुलना करना संभव नहीं है।
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## क्या मेरे उत्पादों के इको-स्कोर या न्यूट्री-स्कोर का अनुकरण करना संभव है?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-उत्पादकों के प्लेटफॉर्म पर पंजीकरण करके और अपने उत्पादों का डेटा अपलोड करके, आप अपने उत्पादों से जुड़े न्यूट्री-स्कोर और इको-स्कोर की गणना कर सकते हैं।
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-हालांकि, सिमुलेशन पूरा हो जाने के बाद आपको इसे डिलीट करना होगा ताकि यह आपके उत्पादों की श्रेणी में पहले से ही मौजूद उत्पादों के साथ सार्वजनिक प्लेटफॉर्म पर निर्यात न हो जाए।
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ अधिक जानकारी के लिए, हम आपको हमारी [उपयोगकर्ता मार्गदर्शिका](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड करने और/या हमारे [वीडियो ट्यूटोरियल](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) देखने के लिए आमंत्रित करते हैं :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
