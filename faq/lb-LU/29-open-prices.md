@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Öffnungszeiten"
-description: "3 Froen"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
-order: 29 Joer
+order: 29
 category-level: 0
-icon: Dollar
+icon: dollar
 ---
 
-{{< fa "Dollar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ech sinn en Händler a wëll Präisser bäidroen. Wéi kann ech dat maachen?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Dir kënnt Präisser bäidroen andeems Dir [eis API](https://prices.openfoodfacts.org/api/docs) benotzt. Wann Dir Präisser a groussem Mooss bäidroe wëllt, kontaktéiert eis w.e.g. op [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Iwwerleet Dir Iech, Präisser vun de Websäite vun den Händler ze scrapen?
+## Do you consider scraping prices from retailers’ websites?
 
-Aus juristeschen a technesche Grënn betruechte mir d'Ofschrauwen vu Präisser vun den Händlerwebsäite net als valabel Method fir zu den "Open Prices" bäizedroen. Mir wëlle sécher stellen, datt d'Präisser, déi mir sammelen, korrekt an aktuell sinn, an d'Kritt vun ofgekrabbelte Präisser vu Mataarbechter erlaabt eis dat net.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Firwat mécht Open Food Facts dat (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Präisinformatioune si vu grousser Wichtegkeet fir Liewensmëttelsystemer ze verstoen. Et ass e Schlësselfaktor fir d'Käschte vu Liewensmëttel ze verstoen a fir eng méi gesond Ernährung ze fërderen. D'Opmaache vu Präisdaten ass e Wee fir Fuerscher, Journalisten a Bierger méi einfach ze maachen, e bessert Verständnis dovun ze kréien, wéi d'Liewensmëttelpräisser geografesch an an der Zäit variéieren.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
