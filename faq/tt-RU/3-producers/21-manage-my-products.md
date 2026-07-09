@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Продуктларымны идарә итү"
-description: "16 сорау"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: тартма
+icon: box
 ---
 
-{{< fa "тартма" size=3х >}}
+{{< fa "box" size=3x >}}
 
-## Ачык азык-төлек фактларындагы мәгълүматларның сыйфатын нәрсә гарантияли?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Мәгълүматларның сыйфатын даими яхшырту өчен без 4 терәккә таянабыз:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Җәмгыять даими рәвештә мәгълүматлар һәм фотолар өсти һәм рецензентларның чын патруле булып тора.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Продукция битләрендәге хаталарны ачыклау өчен без логик кагыйдәләр билгеләдек.Мәсәлән: әгәр ингредиентларның авырлыгы суммасы продуктның гомуми авырлыгыннан зуррак булса, аномалия бар. Безнең якынча 50 сыйфат тикшерүебез бар.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Машина белән өйрәнү ярдәмендә без керү хаталары куркынычын чиклибез. Безнең технология безгә өлеш кертүчеләр тарафыннан төшерелгән фотолардан текст мәгълүматларын алырга мөмкинлек бирә
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France ярдәме белән без җитештерүчеләргә үзләренең күпләп җитештерелгән мәгълүматларын йөкләргә һәм шулай итеп җәмгыятьнең өлешләрен төзәтергә/тулыландырырга мөмкинлек бирүче портал эшләдек.
-
----
-
-## Продукцияләрне ничек өстәргә?
-
-Платформабызга продуктлар өстәр өчен, башта сез ничек дәвам итәргә теләгәнегезне хәл итәргә тиеш. 4 вариант бар:
-
-- **Кул белән**: әгәр дә сезнең продуктлар саны аз булса да, Pro платформасында һәр продукт битен кулдан ясарга мөмкин.
-
-- **Электрон таблицаны импортлау аша**: сез Open Food Facts тарафыннан бирелгән [шаблон](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) электрон таблицасын йөкли аласыз, яисә үзлекләрегезнең IT системагыздан турыдан-туры Pro платформасына импортлый аласыз.
-
-- **Продукт каталоглары тоташтыргычлары аша**. Әгәр дә сез EQUADIS, AGENA3000 яки BAYARD клиенты булсагыз, сез мәгълүматларны бер басу белән Open Food Facts бүлегенә йөкли аласыз. Әгәр дә сез башка PIM (Продукт турында мәгълүмат белән идарә итү) белән эшлисез икән, зинһар, безнең белән элемтәгә керегез: producers@openfoodfacts.org
-
-- **Сезнең компания һәм Open Food Facts арасындагы махсуслаштырылган элемтә аша**. Әгәр дә сезнең портфолиогызда 1000 нән артык продукт бар икән, без мәгълүмат тапшыруны җиңеләйтү өчен махсус тоташтыргыч төзү мөмкинлеген тикшерә алабыз.
-
-Тулырак мәгълүмат алу өчен сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Продукцияне яңартуны гомуми мәгълүмат базасына автоматлаштыру ысулы бармы?
+## How to add products?
 
-Әйе, әгәр сез EQUADIS, AGENA3000 яки BAYARD продукт каталогларын куллансагыз һәм дөрес конфигурацияне көйләсәгез, импорт автоматик рәвештә башкарылырга мөмкин, шуңа күрә Open Food Facts'тагы продукт мәгълүматларын яңартырга мөмкин.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Өстәлгән продуктлар саны чикләнгәнме?
+## Is there a way to automate product updates to the public database?
 
-Чикләү юк, сез безнең платформага теләгән продуктлар санын йөкли аласыз.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Әгәр дә сез базарда булмаган продуктны бетерергә телисез икән, продуктлар таблицасын үзгәрткәндә "бу продукт башка сатылмый" дигән юлны билгеләргә кирәк.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Берничә продуктны бетерергә теләсәгез, 18 нче биттәге [кулланучы кулланмасында](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf) күрсәтелгән процедураны үтәргә киңәш итәбез.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Шулай ук, сорауларыгыз булса, безнең белән producers@openfoodfacts.org электрон почтасы аша элемтәгә керә аласыз.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Продукт архивланганнан соң, ул "Ачык азык-төлек фактлары"нда күренмәячәк.Шулай да, ул безнең мәгълүмат базасында сакланачак, шуңа күрә без сатылган товарлар тарихын вакыт узу белән саклый алабыз.
-
----
-
-## Компания мәгълүматы платформада булган мәгълүматтан өстенрәкме?
-
-Продюсер үзенең продуктларының берсен үзенең продюсер аккаунты аша онлайн урнаштырганда һәм продуктлар исемлеге инде булганда, бу аны тулыландырачак.
-
-Җитештерүче урнаштырган мәгълүмат һәрвакыт өстенлекле булачак, һәм мәгълүмат тутырылганнан соң, ул гына үз продуктларын үзгәртә алачак.
-
-Әгәр платформа аша җибәрелгән мәгълүмат фрагментланган булса, җәмгыять тарафыннан төргәктән өстәлгән мәгълүмат аны тулыландырырга мөмкин.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Мәгълүматларымны нинди форматта җибәрергә кирәк?
+## Does company information take precedence over information already present on the platform?
 
-[Шаблон](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) Open Food Facts тарафыннан тәкъдим ителә.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Шулай да, платформага теләсә нинди электрон таблица форматын (xlsx, csv) импортлап булачак.  
-Безнең алгоритм сезнең файлдагы атрибутларны "Ачык азык-төлек фактлары"нда булган атрибутлар белән автоматик рәвештә туры китерерлек итеп эшләнгән. Туры килү этабын һәрвакыт икеләтә тикшерергә онытмагыз, чөнки кайберләрен кул белән көйләргә туры килергә мөмкин.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Әгәр мәгълүматыгыз берничә электрон таблица арасында фрагментланган булса, сез аларны бер-бер артлы импортлый аласыз - формат үзгәрсә, туры китерүне онытмагыз.
-
-Әгәр мәгълүматлар сезнең мәгълүмат системагызда әле булмаса, сез EQUADIS яки AGENA3000 импортыннан тыш, Excel файлын да импортлый аласыз. Бу очракларда, интерфейстан гомуми мәгълүмат базасына экспортлауны сорарга онытмагыз.
-
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Сез кайсы продукт каталоглары белән интеграцияләнгәнсез?
+## In what format should I send my data?
 
-Хәзер җитештерүчеләр үзләренең продукт мәгълүматларын һәм фотосурәтләрен **Equadis**,\*\* **AGENA3000 һәм BAYARD consulting** сайтларыннан Open Food Facts сайтына реаль вакыт режимында җибәрә алалар.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Әлбәттә, сез шулай ук үзгәртеп кору тәкъдимнәреннән һәм платформаның барлык функцияләреннән дә файда күрерсез.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Безнең блог язмасы](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) сез EQUADIS клиенты булсагыз, нәрсә эшләргә кирәклеген аңлата.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Әгәр сез AGENA3000 клиенты булсагыз (A3 PIM INDUSTRY продукты), сезгә продукт битләрегезне җибәргәндә "Ачык азык-төлек турында мәгълүмат" алучыны сайларга кирәк. [Бу блог язмасында тулырак мәгълүмат](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Әгәр дә сез башка продукт мәгълүматлары каталогы клиенты булсагыз (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks һ.б.) Зинһар, безгә [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) адресы буенча хәбәр итегез.
-
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Pro платформасы аша штрих-кодсыз продуктларны ничек өстәргә?
+## With which product catalogs are you integrated?
 
-Штрих-кодсыз продуктлар өчен, сайтта яки җитештерүче платформасында, сул баганада "Штрих-кодсыз продукт" төймәсе бар, ул сезгә аларны өстәргә мөмкинлек бирә. Аннары идентификатор автоматик рәвештә генерацияләнә.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Без косметика, хайваннар азыгы, шулай ук башка продуктлар өчен махсус проектлар булдырдык: Матурлык турында ачык фактлар, Хайваннар азыгы турында ачык фактлар һәм Продукция турында ачык фактлар.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Минем компаниянең продуктлары турындагы мәгълүмат Open Food Facts сайтында бар. Бәйле җитештерүче хисабын контрольдә тоту мөмкинме?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Әйе, әлбәттә! Сез үзегезнең бизнес адресыгыз белән Open Food Facts аккаунтын булдырып, бәйле җитештерүче аккаунтын контрольдә тота аласыз. Теркәлгәндә, тиешле җитештерүче урынына керү өчен формада күрсәтелгән оешма исемен күрсәтегез.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Сезнең чыннан да продюсер булуыгызны раслау өчен кыска валидация адымы кирәк булачак.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Сез мәгълүматларны тутыра, рәсемнәр өсти, Nutri-Score'ны яхшырту өчен автоматик тәкъдимнәр ала һәм башка күп нәрсәләр эшли алачаксыз. Болар барысы да, әлбәттә, тулысынча бушлай. Шулай ук сез EQUADIS, AGENA3000 һәм Bayard consulting кебек өченче як продукт мәгълүматлары белән идарә итү системасын тоташтыра аласыз.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
-
----
-
-## Open Food Facts базасын кабат кулланучы башка кушымталарда җитештерүчеләр турындагы мәгълүматларны яңарту күпме вакыт ала?
-
-Бу кушымталарга бәйле. Безнең API кулланучылар өчен, алар күпчелекне тәшкил итә, бу шунда ук.  
-Көндәлек экспортыбызны кулланучылар өчен, алар аны яңартсалар, бу D+1.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Продукт язмасыннан мәгълүматларны импортлау булган продукт язмасын тулыландырамы яки өстенә язамы?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Без штрих-кодны продуктларны билгеләү өчен кулланабыз, әгәр сез гамәлдәге язма белән бер үк штрих-кодлы язманы импортласагыз, мәгълүмат берләштереләчәк.
-
-Ингредиентлар исемлеге, туклыклылык кыйммәтләре (бер генә дөрес кыйммәт мөмкин) кебек мәгълүматлар өчен, җитештерүче платформасы аша җибәрелгән мәгълүматлар булган мәгълүматларны юкка чыгарачак.
-
-Ярлыклар/категорияләр/брендлар кебек мәгълүматлар өчен (берничә дөрес кыйммәт булырга мөмкин), мәгълүмат берләштерелә. Әгәр мәгълүматлар ачык платформада дөрес булмаса, сез ялгыш кыйммәтләрне бетерү өчен ачык платформадагы продукт битен үзгәртә аласыз.
-
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Ингредиентларның тәртибе мөһимме?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Ингредиентларның тәртибе мөһим: ул сан буенча тәртипне күрсәтә.
-Ингредиентларны тутыруның иң яхшы ысулы - төргәктә язылганнарны төгәл үтәү. Шуңа күрә ингредиентларның фотосурәтләрен бастырып чыгару да бик мөһим.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## AGENA3000 аша да рәсемнәр җибәрә аламмы?
+## Is the order of ingredients important?
 
-Сез рәсемнәр җибәрә аласыз, ләкин гамәлдә бары тик төп рәсем генә автоматик рәвештә сайланачак, калган рәсемнәр җибәреләчәк, ләкин ингредиентлар, туклыклылык һ.б. өчен киселмәячәк / сайланмаячак.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Pro платформасының дәресләренә ничек керергә?
+## Can I send images via AGENA3000 too?
 
-Сез профессиональ платформаның дәресләренә керә аласыз:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Профессиональ платформа аша: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Турыдан-туры [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) каналында
+## How to access the Pro platform’s tutorials?
 
-→ Шулай ук сез безнең [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкли аласыз.
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
