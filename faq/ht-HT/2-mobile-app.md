@@ -1,52 +1,52 @@
 ---
-title: "{{< gwosè mobil fa=2x >}} Aplikasyon mobil"
-description: "4 kesyon"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobil
+icon: mobile
 ---
 
-{{< fa "mobil" size="3 fwa" >}}
+{{< fa "mobile" size=3x >}}
 
-## Kijan mwen ka konnen ki vèsyon aplikasyon m ap itilize a?
+## How do I know which version of the app I'm using?
 
-Ale nan **Pwofil**,
-apresa **FAQ**, epi **Apwopo aplikasyon sa a.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Ou ta dwe
-wè yon nimewo vèsyon tankou 3.4.5+662. Pa bliye di nou mak ak modèl
-telefòn nan si l ap debogaj.
-
----
-
-## Aplikasyon an pa eskane
-
-Sa ka akòz
-
-- yon pwoblèm rezo
-
-- yon pwoblèm pèmisyon
-
-- yon pwoblèm kòd bar
-
-Voye yon imèl ba nou atravè Pwofil >> Kontakte nou >> Voye yon imèl ba nou.
-
-Tout enfòmasyon ki enpòtan yo ta dwe tache ak demann ou an.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Kijan m ka ede amelyore aplikasyon mobil lan?
+## The app does not scan
 
-Kijan m ka ede amelyore aplikasyon mobil lan?
+This may be due to
 
-Ou kapab [fè sa nan depo aplikasyon mobil lan](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ki kote mwen ka voye fidbak sou aplikasyon an?
+## How can I help with improving the mobile app ?
 
-Ou ka voye fidbak ou bay mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
