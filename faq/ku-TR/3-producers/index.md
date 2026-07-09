@@ -1,21 +1,21 @@
 ---
-title: "Hilberîner"
-description: "6 binkategorî"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ava
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: şebek
+  type: grid
   grid-columns: 4
-  sort: "emir"
-  fields: [ nav, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ava" size="3 caran" >}}
+{{< fa "industry" size=3x >}}
 
