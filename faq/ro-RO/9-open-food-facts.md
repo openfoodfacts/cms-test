@@ -1,37 +1,37 @@
 ---
-title: "{{< dimensiunea cercului întrebării fa=2x >}} Informații despre alimente deschise"
-description: "9 întrebări"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: cerc de întrebări
+icon: question-circle
 ---
 
-{{< fa "cerc de întrebări" size="de 3 ori" >}}
+{{< fa "question-circle" size=3x >}}
 
-## Care este diferența față de alte site-uri web, servicii și aplicații mobile care permit deja vizualizarea informațiilor referitoare la produsele alimentare?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 Principala diferență este pentru noi una critică: datele noastre sunt disponibile gratuit pentru toți și pentru toate utilizările. Este ceea ce se numește date deschise.
 
-Aproape toate celelalte site-uri, servicii și aplicații interzic altora reproducerea și reutilizarea datelor lor. Dimpotrivă, o păstrează pentru ei. În aproape toate cazurile, termenii și condițiile lor de utilizare interzic în mod explicit orice utilizare non-personală și orice extragere a tuturor datelor sau a unor părți din date.
+Aproape toate celelalte site-uri, servicii și aplicații interzic altora reproducerea și reutilizarea datelor lor. Dimpotrivă, o păstrează pentru ei. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Considerăm că informațiile despre produsele alimentare sunt prea importante și utile pentru a le păstra încuiate într-un seif. Așadar, atunci când am început proiectul Open Food Facts și aplicația mobilă, în 2012, am decis să facem exact opusul: nu numai că permitem utilizarea și reutilizarea bazei noastre de date, gratuit și fără taxe, tuturor și pentru toate utilizările (inclusiv comerciale), dar o și încurajăm!
+Considerăm că informațiile despre produsele alimentare sunt prea importante și utile pentru a le păstra încuiate într-un seif. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Punerea datelor la dispoziția publicului (ceea ce este cunoscut sub numele de _date deschise_) permite persoanelor, asociațiilor, companiilor, cercetătorilor etc. din întreaga lume să conceapă și să dezvolte aplicații pentru date la care cu siguranță nu ne-am fi gândit niciodată.
-
----
-
-## Care este modelul economic al Open Food Facts
-
-Colaboratorii sunt voluntari. Contribuțiile lor sunt adunate într-o bază de date deschisă care poate fi folosită de oricine și pentru toate utilizările. (consultați [Termenii de reutilizare](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Oricine (inclusiv, dar fără a se limita la, contribuitorii și creatorii Open Food Facts) poate astfel redistribui și/sau reutiliza datele pentru a construi site-uri web, servicii, software, aplicații mobile sau pentru a scrie articole și studii. Aceștia au libertatea de a pune la dispoziție munca rezultată în mod gratuit sau de a o vinde sau de a o monetiza (e.. cu anunțuri), atât timp cât respectă condițiile de reutilizare.
-
-Suntem, de asemenea, strict independenți față de industria alimentară, iar toate serviciile și programele informatice pe care le construim sunt gratuite. De exemplu, Platforma noastră pentru Producători este complet gratuită și suntem cu atât mai mulțumiți de acest lucru, deoarece credem că i-ar putea ajuta să își îmbunătățească produsele.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Pot adăuga imagini sau date despre produse de pe site-ul producătorului, site-uri de cumpărături sau alte site-uri?
+## What is Open Food Facts' economic model
+
+Colaboratorii sunt voluntari. Contribuțiile lor sunt adunate într-o bază de date deschisă care poate fi folosită de oricine și pentru toate utilizările. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Aceștia au libertatea de a pune la dispoziție munca rezultată în mod gratuit sau de a o vinde sau de a o monetiza (e.. cu anunțuri), atât timp cât respectă condițiile de reutilizare.
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 Probabil că nu. Aproape toate celelalte site-uri interzic reproducerea și reutilizarea datelor și imaginilor lor și, de fapt, acesta este motivul pentru care am creat Open Food Facts: pentru a face toate aceste date disponibile tuturor și pentru toate utilizările.
 
@@ -39,82 +39,83 @@ Pentru a evita orice problemă legală, solicităm colaboratorilor să adauge do
 
 ---
 
-## Cum pot contacta echipa Open Food Facts, să pun întrebări sau să fac sugestii?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Puteți pune întrebări sau face sugestii pe forum sau ne puteți contacta prin e-mail: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Dacă sunteți producător, vă rugăm să ne trimiteți un e-mail la adresa [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Dacă sunteți jurnalist, vă rugăm să ne trimiteți un e-mail la adresa [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Atenție: [Open Food Facts este o bază de date colaborativă de produse alimentare](https://world.openfoodfacts.org/discover), nu vindem niciun produs și nu avem legături cu producătorii acestora. Pentru o întrebare sau o plângere despre un produs, trebuie să scrieți direct producătorului (adresa de pe eticheta produsului).
-
----
-
-## Sunt verificate informațiile și datele despre produse?
-
-Informațiile și datele sunt trimise de către contribuitorii Open Food Facts. Colaboratorii trimit, de asemenea, imagini ale produsului, etichetele acestuia, listele de ingrediente și tabelul cu informații nutriționale. Atunci când au dubii, vizitatorii pot verifica singuri acuratețea, iar dacă există o eroare, o pot corecta pe loc.
-
-Pentru a detecta mai ușor eventualele erori, vom adăuga progresiv verificări automate. De exemplu, dacă informațiile nutriționale ale unui produs sunt foarte diferite de cele ale produselor din aceeași categorie, poate fi vorba de o eroare. Dacă adunarea nutrienților depășește 100%, cu siguranță este o eroare.
-
-În cele din urmă, mulți producători ne trimit fotografii și date despre produsele lor folosind Platforma noastră pentru producători. Dacă sunteți producător, vă rugăm să ne [contactați](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Sunt producător de produse alimentare, pot adăuga propriile mele produse?
+## Is the information and data on products verified?
 
-Da! Singura condiție este de a accepta ca datele și imaginile să fie puse la dispoziție în baza unei licențe deschise. (vezi [Termenii de contribuție](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. Colaboratorii trimit, de asemenea, imagini ale produsului, etichetele acestuia, listele de ingrediente și tabelul cu informații nutriționale. Atunci când au dubii, vizitatorii pot verifica singuri acuratețea, iar dacă există o eroare, o pot corecta pe loc.
 
-Am dezvoltat o platformă gratuită care vă permite să importați cu ușurință fotografii și date despre produsele dvs., indiferent de dimensiunea acestora. Vă va permite să importați date și imagini complete și actualizate în Open Food Facts, care vor fi vizibile în peste 100 de alte aplicații nutriționale. În plus, platforma oferă sugestii pentru îmbunătățirea scorului nutrițional al produselor dvs. Contactați-ne pentru a discuta cum putem proceda: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Pentru a detecta mai ușor eventualele erori, vom adăuga progresiv verificări automate. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Dacă adunarea nutrienților depășește 100%, cu siguranță este o eroare.
+
+În cele din urmă, mulți producători ne trimit fotografii și date despre produsele lor folosind Platforma noastră pentru producători. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Cine folosește datele Open Food Facts?
+## I am a food product manufacturer, can I add my own products?
 
-Ar fi
-prea lung să enumărăm toate organizațiile care se bazează pe platforma Open Food Facts
-.
+Da! Singura condiție este de a accepta ca datele și imaginile să fie puse la dispoziție în baza unei licențe deschise. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-- Peste 100 de aplicații mobile
-  răspund nevoilor multor categorii de public: diabet (VeryDiab), alergii, echilibru alimentar
-  prin inteligență artificială (FoodVisor), dizabilități și multe altele. Baza noastră de date
-  a permis și crearea lui Yuka.
-- O mulțime de site-uri web: CombienDeSucres.fr,
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Vă va permite să importați date și imagini complete și actualizate în Open Food Facts, care vor fi vizibile în peste 100 de alte aplicații nutriționale. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
+
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
+
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Jurnalişti de date : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Cercetători în aproape 100 de articole științifice
-- Bănci de alimente și magazine de solidaritate: un proiect
-  Data For Good în continuitatea unui proiect pilot inițiat de Crucea Roșie Franceză
-  , integrarea în gestionarea numerarului a unei mici cooperative alimentare
-  .
-- Companii: Terraillon folosește datele noastre
-  pentru a da viață cântarelor sale conectate.
-- Școlile de programare (Simplon, Open
-  Classrooms) au integrat Open Food Facts ca proiect motivant în programa lor școlară
-  .
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Cum pot susține Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts este o asociație non-profit înființată în 1901. Ne puteți ajuta [participând la proiect](https://fr-en.openfoodfacts.org/contribute) și sprijinindu-ne financiar cu [donațiile](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(franșiză 66%) și, de asemenea, utilizând motorul de căutare Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Mulțumesc
-foarte mult!**
+**Thank
+you very much!**
 
 ---
 
-## Nu găsesc răspunsul la întrebarea mea
+## I can't find the answer to my question
 
-Dacă nu găsiți răspuns la întrebarea/întrebările dvs., nu ezitați să ne contactați prin:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack-ul nostru: [[https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Forumul nostru: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
