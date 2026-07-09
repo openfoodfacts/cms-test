@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Tambayoyi game da samfur"
-description: "Tambaya 1"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: kwandon siyayya
+icon: shopping-basket
 ---
 
-{{< fa "kwandon siyayya" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ina da tambaya / da'awa game da wani samfuri
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) wani shafi ne na haɗin gwiwa wanda masu amfani suka ƙirƙira kuma suka ciyar da shi don samun damar fahimtar lakabi da kwatanta samfura.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Don ƙarin bayani game da samfur ko da'awa, rubuta zuwa ga masana'anta. Ba mu da bayanan tuntuɓar masana'antun amma galibi suna kan marufi.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Idan kuna son taimaka mana mu samar da ƙarin haske ga masu amfani kamar ku ko mu, kuna iya amfani da manhajar iPhone ko Android don ƙara kayayyaki: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Kuma don tattaunawa game da aikin, zaku iya shiga ƙungiyar masu ba da gudummawa ta Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ko kuma ku yi hira da sauran masu ba da gudummawa akan Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
