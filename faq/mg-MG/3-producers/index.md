@@ -1,21 +1,21 @@
 ---
-title: "{{< fa indostria size=2x >}} Mpamokatra"
-description: "Sokajy kely 6"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: TAOZAVA-BAVENTY
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: tambajotra
+  type: grid
   grid-columns: 4
-  sort: "mba"
-  fields: [ Lohateny, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "TAOZAVA-BAVENTY" size=3x >}}
+{{< fa "industry" size=3x >}}
 
