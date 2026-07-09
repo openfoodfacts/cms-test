@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} पॅकेजिंग"
-description: "३ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: २४
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
+order: 24
 category-level: 1
-icon: घन
+icon: cube
 ---
 
-{{< fa "घन" size=३x >}}
+{{< fa "cube" size=3x >}}
 
-## मी माझा पॅकेजिंग डेटा ओपन फूड फॅक्ट्समध्ये कसा जोडू शकतो?
+## How can I add my packaging data to Open Food Facts?
 
-एक उत्पादक म्हणून, तुमच्या उत्पादनांमध्ये पॅकेजिंग डेटा जोडण्याचा सर्वात प्रभावी मार्ग म्हणजे "AU" स्तंभातील आवश्यक माहिती या [एक्सेल स्प्रेडशीट](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) मध्ये भरणे.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-प्रत्येक पॅकेजिंग घटकासाठी, तुम्हाला हे प्रविष्ट करावे लागेल:
+For each packaging component, you will need to enter:
 
-- युनिट्सची संख्या (उदा: **४** दह्याचे भांडे)
+- The number of units (ex: **4** pots of yogurts)
 
-- आकार (उदा: **भांडे, झाकण, पेटी, इ.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- साहित्य (उदा: **पीईटी, कागद, काच, इ**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- पुनर्वापर सूचना (उदा: **पुनर्वापर करणे, टाकून देणे, इ**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- एका रिकाम्या युनिटचे वजन (ग्रॅममध्ये)
+- The weight of one empty unit (in gr)
 
-- प्रति युनिट समाविष्ट असलेल्या उत्पादनाचे निव्वळ प्रमाण
+- The net quantity of product contained per unit
 
-ही स्प्रेडशीट नंतर व्यावसायिकांना समर्पित आमच्या प्लॅटफॉर्मवर आयात केली जाऊ शकते.
-
----
-
-## टॅकलिंग फूड पॅकेजिंग प्रकल्प काय आहे?
-
-"टॅकलिंग फूड पॅकेजिंग" प्रकल्पात सर्वाधिक वापरल्या जाणाऱ्या उत्पादनांच्या पॅकेजिंगची (आकार, साहित्य, वर्गीकरण सूचना, वजन, क्षमता) तपशीलवार माहिती गोळा करणे समाविष्ट आहे.
-
-सहभागी विज्ञान दृष्टिकोनावर आधारित, ते कंपन्यांना त्यांचा पॅकेजिंग डेटा सामायिक करण्यास आणि पारदर्शकतेचा खेळ खेळण्यास सहमती देण्यावर आणि नागरिकांना उत्पादनांवरील माहिती गोळा करण्यास परवानगी देण्यावर अवलंबून असेल. ही माहिती मुक्तपणे पुन्हा वापरता येईल ("ओपन डेटा").
-
-**अधिक माहितीसाठी:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## टॅकलिंग फूड पॅकेजिंग प्रकल्प संपल्यानंतरही, मी माझा पॅकेजिंग डेटा जोडू शकतो का?
+## What is the Tackling Food Packaging project?
 
-प्रकल्प संपल्यानंतरही, पॅकेजिंग डेटा जोडणे शक्य आहे कारण पॅकेजिंग फील्ड आमच्या वेबसाइटवर राहतील.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
