@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} መለያዎች"
-description: "2 ጥያቄዎች"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: ዕልባት ያድርጉ
+icon: bookmark
 ---
 
-{{< fa "ዕልባት ያድርጉ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## እንደ መለያ፣ መለያ መፍጠር አስፈላጊ ነው?
+## As a label, is it important to create an account ?
 
-እንደ መለያ፣ የምርቶቹ ቀጥተኛ አምራች ስላልሆኑ፣ የአምራች መለያ መፍጠር አያስፈልግዎትም።
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## እኔ መለያ ነኝ፣ በፕሮጀክቱ ውስጥ እንዴት መሳተፍ እችላለሁ?
+## I am a label, how can I participate in the project?
 
-እንደ መለያ በጣም አስፈላጊው ነገር እኛን ማግኘት **(producers@openfoodfacts.org)** ሲሆን መለያዎ የሚታየውን የምርት ዝርዝር በመላክ በተዛማጅ የምርት ወረቀቶች ላይ ማከል እንችላለን።
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
