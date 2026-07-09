@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eko-puntuazioa"
-description: "5 galdera"
-lang: eu-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: erabiltzaile-gehigarri
+icon: user-plus
 ---
 
-{{< fa "erabiltzaile-gehigarri" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Zer da Eco-Score metodologia?
+## What is the Eco-Score methodology?
 
-Eco-Score ADEMEk (trantsizio ekologikoaren agentzia) eta INRAEk (ikerketa agronomikorako institutu nazionala) egindako bizi-zikloaren analisiaren kalkuluan oinarritzen da. Hamabost osagai inguru kalkulatu eta lotu dira PEF puntuazioa sortzeko.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-PEF puntuazio honi hobariak eta txarrak gehitzen zaizkio (ekoizteko modua, jatorria...)
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-osagaiak, arriskuan dauden espezieak, ontziak) Eko-puntuazioa kalkulatzeko.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Informazio gehiago lortzeko, ikus laburpen orria [[https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) Open Food Facts-en, baita Eco-Score partzuergoaren webgunean ere. (Eco-Score aurkezpena [[https://docs.score-environnemental.com/](https://docs.score-environmental.com/))
-
----
-
-## Zer motatako informazio eman behar da Eco-Score ahalik eta zehatzen kalkulatzeko?
-
-Eco-Score zehazki kalkulatzeko, osagai bakoitzaren ehunekoa eta haren jatorria zehaztu behar dira.
-
-Informazio hau osagaien zerrendan zehaztuta ez badago, zutabe bat gehi dezakezu aipatzeko, formatu honekin:
-
-Gari-irina %16 (Frantzia)
-
-Txokolatea %8 (Boli Kosta, Ekuador)
-
-Ontziratzeko osagaiak ere behar ditugu: botatzeko plastikozko film 1, birziklatzeko FSC kartoizko kaxa 1, birziklatzeko 1,5 L-ko 6 PET plastikozko botila garden, birziklatzeko 6 plastikozko tapoi opako koloretsu, eta 33 cl-ko aluminiozko 12 plastikozko lata.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Nola konbinatzen dira 15 adierazleen balioak?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF sistema hobeto ulertzeko, irakur dezakezu: PEF puntuazioaren azalpena Eco-Score metodologia-gunean**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Tokiko alderdiak lehengaien fabrikazio-lekuari edo jatorrizko lekuari eragiten dio?
+## How are the values ​​of the 15 indicators combined?
 
-**Tokiko alderdiak lehengaien jatorriari buruzkoa da.** Horregatik da garrantzitsua ehunekoak eta jatorria produktuaren osagaien zerrendan edo osagaien jatorriari eskainitako eremuan sartzea.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Nola sartu osagaien jatorria eko-puntuaziorako?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Zure orrietan agertzen diren lehengaien jatorriari buruzko informazioa partekatu nahi baduzu, osagaien zerrendan sartzera gonbidatzen zaitugu.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
