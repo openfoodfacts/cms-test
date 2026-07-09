@@ -1,25 +1,25 @@
 ---
-title: "उत्पाद पोर्टफोलियो का विश्लेषण (मानदंड, सुधार...)"
-description: "1 प्रश्न"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: चार्ट-बार
+icon: chart-bar
 ---
 
-{{< fa "चार्ट-बार" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## मेरे उत्पादों के न्यूट्री-स्कोर को बेहतर बनाने के लिए आवश्यक पुनर्गठन अनुशंसा तक कैसे पहुंचा जा सकता है?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-जब आप प्रोड्यूसर्स प्लेटफॉर्म के होम पेज पर हों:
+When you are on the home page of the Producers Platform:
 
-1. पृष्ठ के शीर्ष पर स्थित "→ सुधार के अवसरों वाले उत्पादों की संख्या" लिंक पर क्लिक करें।
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. आप अपने उत्पादों को बेहतर बनाने के लिए हमारे सिस्टम द्वारा पता लगाए गए सभी अवसरों का लाभ उठा सकते हैं।
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. किसी प्रकार के अवसर पर क्लिक करने से आपको उन उत्पादों की सूची मिल जाएगी जिनमें सुधार किया जा सकता है।
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ अधिक जानकारी के लिए, हम आपको हमारी [उपयोगकर्ता मार्गदर्शिका](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड करने और/या हमारे [वीडियो ट्यूटोरियल](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) देखने के लिए आमंत्रित करते हैं :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
