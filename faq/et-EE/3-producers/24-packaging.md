@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kuubi suurus=2x >}} Pakend"
-description: "3 küsimust"
-lang: et-gb
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: kuup
+icon: cube
 ---
 
-{{< fa "kuup" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Kuidas saan oma pakendiandmeid Open Food Factsi lisada?
+## How can I add my packaging data to Open Food Facts?
 
-Tootjana on kõige tõhusam viis oma toodetele pakendiandmete lisamiseks täita see [exceli tabel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) vajaliku teabega veerust "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Iga pakendikomponendi kohta peate sisestama:
+For each packaging component, you will need to enter:
 
-- Ühikute arv (nt: **4** topsi jogurteid)
+- The number of units (ex: **4** pots of yogurts)
 
-- Kuju (nt: **pott, kaas, karp jne**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materjal (nt: **PET, paber, klaas jne**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Taaskasutusjuhised (nt: **taaskasutama, ära viskama jne**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Ühe tühja ühiku kaal (grammides)
+- The weight of one empty unit (in gr)
 
-- Toote netokogus ühiku kohta
+- The net quantity of product contained per unit
 
-Seejärel saab selle arvutustabeli importida meie professionaalidele mõeldud platvormile.
-
----
-
-## Mis on toidupakendite probleemi lahendamise projekt?
-
-Projekt „Toidupakendite vastu võitlemine” seisneb enimtarbitavate toodete pakendite kohta üksikasjaliku teabe kogumises (kuju, materjal, sorteerimisjuhised, kaal, maht).
-
-Osaluspõhisel teaduslikul lähenemisviisil põhinev süsteem tugineb nii ettevõtete nõusolekule jagada oma pakendiandmeid ja mängida läbipaistvuse mängu kui ka kodanike nõusolekule toodete kohta teabe kogumiseks. See teave on vabalt taaskasutatav ("avatud andmed").
-
-**Lisateabe saamiseks:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Kas ma saan oma pakendiandmeid lisada ka pärast toidupakendite probleemi lahendamise projekti lõppu?
+## What is the Tackling Food Packaging project?
 
-Isegi pärast projekti lõppu on võimalik pakendiandmeid lisada, kuna pakendiväljad jäävad meie veebisaidile alles.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
