@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} शोधकर्त्ता/विद्वान"
-description: "१ उपवर्गः"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: स्नातक-टोपी
+icon: graduation-cap
 listing:
   contents:
-    - "*.मद्"
+    - "*.md"
   include:
     category-level: 1
-  type: गृध्र
+  type: grid
   grid-columns: 4
-  sort: "आदेशः"
-  fields: [ शीर्षक, description ]
-  page-size: १००
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "स्नातक-टोपी" size=३x >}}
+{{< fa "graduation-cap" size=3x >}}
 
