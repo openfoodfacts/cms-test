@@ -1,21 +1,21 @@
 ---
-title: "{{< talha de l'industria fa=2x >}} Productors"
-description: "6 soscategorias"
-lang: es-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: industria
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: cleda
+  type: grid
   grid-columns: 4
-  sort: "òrdre"
-  fields: [ títol, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "industria" size=3x >}}
+{{< fa "industry" size=3x >}}
 
