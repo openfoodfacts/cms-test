@@ -1,23 +1,23 @@
 ---
-title: "{{< величина обележивача fa=2x >}} Ознаке"
-description: "2 питања"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: обележивач
+icon: bookmark
 ---
 
-{{< fa "обележивач" size="3 пута" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Да ли је важно да издавачка кућа направи налог?
+## As a label, is it important to create an account ?
 
-Као издавачка кућа, пошто нисте директни произвођач производа, не морате да креирате произвођачки налог.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ја сам издавачка кућа, како могу да учествујем у пројекту?
+## I am a label, how can I participate in the project?
 
-Као етикета, најрелевантније је да нас контактирате **(producers@openfoodfacts.org)** и пошаљете нам списак производа на којима се ваша етикета приказује како бисмо их могли додати на одговарајуће листове производа.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
