@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Teave avatud toidufaktide kohta"
-description: "4 küsimust"
-lang: et-gb
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: inforing
+icon: info-circle
 ---
 
-{{< fa "inforing" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Millist tüüpi teavet tuleks jagada?
+## What type of information should be shared?
 
-Igasugune info on teretulnud, alates toitumisalasest teabest kuni pakendiinfoni.
+Any information you have is welcome, from nutritional information to packaging information.
 
-See võimaldab luua täieliku toimiku, arvutada kõik hinded täpselt ja üldisemalt tagada läbipaistvuse, mida tarbijad hindavad.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Siiski soovitame teil seada esikohale järgmised väljad:
+However we do recommend you prioritize the following fields:
 
-- Toitumisalane teave
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Tootekategooria (nt joogid, juust, jogurt jne)
-
-- Toote nimi
-
-- Allergeenid
-
-- ja koostisosade kohta pole see väli kohustuslik, kuid soovitatav optimaalse kasutamise ja tulemuste määramise tagamiseks.
-
-→ Lisateabe saamiseks kutsume teid üles laadima alla meie [kasutusjuhendi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ja/või vaatama meie [videoõpetusi](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kas ma saan Open Food Factsi andmeid alla laadida?
+## Can I download Open Food Facts data?
 
-Saate alla laadida kõik Open Food Factsi lehelt saadaolevad andmed. Ettevaatust, see nõuab palju kettaruumi, võimsat arvutit, kui soovid kasutada arvutustabelit, või muul juhul R-i või Pythoni tundmist.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Täiustatud otsingu abil saate alla laadida ka osa andmetest (näiteks oma brändi).
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Lisateabe saamiseks kutsume teid üles laadima alla meie [kasutusjuhendi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ja/või vaatama meie [videoõpetusi](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Kas juurdepääs Pro platvormile ja andmete importimine on tasuta?
-
-Absoluutselt, ja see jääb igaveseks.Kõik Open Food Factsi pakutavad teenused on tasuta.  
-Meil on väga hea meel, et olete otsustanud oma tooteandmeid toidu läbipaistvuse parandamiseks jagada, ja täname teid selle eest.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Sooviksin professionaalse platvormi täiustusi soovitada, kuidas ma saan seda teha?
+## Is access to the Pro platform and the import of data free?
 
-Täname teid toidu läbipaistvuse edendamises osalemise soovi eest!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Parim viis tagasiside jagamiseks on täita [see vorm](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Samuti võite meiega ettepanekute tegemiseks ühendust võtta kas [meie foorumi](https://forum.openfoodfacts.org/) või [Slacki](https://openfoodfacts.slack.com/ssb/redirect) kaudu.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Liitu meie Slackiga ja sisesta kanali #producers, et meiega ühendust võtta.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
