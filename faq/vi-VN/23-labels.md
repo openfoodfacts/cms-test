@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Nhãn"
-description: "2 câu hỏi"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: đánh dấu trang
+icon: bookmark
 ---
 
-{{< fa "đánh dấu trang" size="3 lần" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Đối với một hãng thu âm, việc tạo tài khoản có quan trọng không?
+## As a label, is it important to create an account ?
 
-Với tư cách là một nhãn hiệu, vì bạn không phải là nhà sản xuất trực tiếp của sản phẩm, bạn không cần tạo tài khoản nhà sản xuất.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Tôi là một hãng thu âm, tôi có thể tham gia dự án này như thế nào?
+## I am a label, how can I participate in the project?
 
-Với tư cách là một nhãn hiệu, điều quan trọng nhất cần làm là liên hệ với chúng tôi **(producers@openfoodfacts.org)** và gửi cho chúng tôi danh sách các sản phẩm có nhãn hiệu của bạn để chúng tôi có thể thêm chúng vào các bảng thông tin sản phẩm liên quan.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
