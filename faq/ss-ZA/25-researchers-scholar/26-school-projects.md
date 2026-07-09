@@ -1,23 +1,23 @@
 ---
-title: "{{< fa ifayela-o usayizi=2x >}} Emaphrojekthi esikolweni"
-description: "2 imibuto"
-lang: si-gb
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: ifayela-o
+icon: file-o
 ---
 
-{{< fa "ifayela-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Nginephrojekthi yesikolwa lengifanele kutsi ngiyente, ngifuna kusebentisa idatha ye-Open Food Facts, ngingakhona yini kwenta kanjalo?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Emaciniso Ekudla Lavulekile, yi-database levulekile, iphrojekthi levulekile lesebenta ngaphansi kwelayisensi ye-ODbL, ngako-ke uma nje uvumelana netidzingo telayisensi ye-ODbL, wamukelekile kutsi uphindze usebentise idatha yetfu kumaphrojekthi akho :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Ngingafinyelela njani/ngibutsele ndzawonye idatha yemaphrojekthi ami ?
+## How can I access/collect data for my projects ?
 
-Ekhasini lelikhulu le-Open Food Facts, ekhoneni lelingetulu ngasencele lesikrini, kunemenyu lephenyako. Ngephansi kwayo, utawutfola inketho letsi “kusesha lokusezingeni lelisetulu,” longachafata kuyo. Kubese kukuwe kutsi uncume kutsi nguyiphi indlela lefanele kakhulu kuphrojekthi yakho (emaphrojekthi). Uma sewukhetsiwe, utawukhona kulandza imiphumela letfoliwe ngekutsi uskrolele phansi ngephansi kwelikhasi bese uchafata ku “Landza imiphumela”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
