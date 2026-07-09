@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} 폴크소노미 엔진"
-description: "질문 1개"
-lang: 영어-영국
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: 책
+icon: book
 ---
 
-{{< fa "책" size=3배 >}}
+{{< fa "book" size=3x >}}
 
-## 폴크소노미 엔진이란 무엇인가요?
+## What is the Folksonomy Engine ?
 
-폴크소노미 엔진은 사용자가 세계 최대의 공개 식품 데이터베이스인 오픈 푸드 팩츠(Open Food Facts)의 식품 제품에 사용자 지정 태그 또는 속성을 추가할 수 있도록 하는 시스템입니다. 이를 통해 사람들은 기존에 미리 정의된 속성을 넘어 새로운 방식으로 음식을 분류하고 설명할 수 있습니다.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
