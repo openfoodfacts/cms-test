@@ -1,31 +1,31 @@
 ---
-title: "Litheko tse Butsoeng tsa {{< fa dollar size=2x >}}"
-description: "Lipotso tse 3"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolara
+icon: dollar
 ---
 
-{{< fa "dolara" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ke morekisi 'me ke batla ho kenya letsoho litheko. Nka etsa seo joang?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-O ka kenya letsoho litheko ka ho sebelisa [API ea rona](https://prices.openfoodfacts.org/api/docs). Haeba o batla ho kenya letsoho ka theko e phahameng, ka kopo ikopanye le rona ho [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Na o nahana ho hlakola litheko liwebsaeteng tsa barekisi?
+## Do you consider scraping prices from retailers’ websites?
 
-Ka mabaka a molao le a botekgeniki, ha re nahane ka ho hlakola litheko liwebsaeteng tsa barekisi e le mokhoa o nepahetseng oa ho kenya letsoho ho Litheko tse Butsoeng. Re batla ho etsa bonnete ba hore litheko tseo re li bokellang li nepahetse ebile li nakong, 'me ho fumana litheko tse sa tsoakoang ho tsoa ho bafani ha ho re lumelle ho etsa joalo.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Ke hobane'ng ha Open Food Facts e etsa sena (Litheko tse Butsoeng)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Tlhahisoleseding ea litheko e bohlokoa haholo ho utloisisa litsamaiso tsa lijo. Ke ntlha ea bohlokoa ho utloisiseng litšenyehelo tsa lijo le ho khothaletsa lijo tse phetseng hantle. Lintlha tsa theko e qalang ke tsela ea ho nolofalletsa bafuputsi, baqolotsi ba litaba le baahi ho utloisisa hamolemo kamoo litheko tsa lijo li fapanang kateng ka libaka le ka nako.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
