@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} ป้ายกำกับ"
-description: "2 คำถาม"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: ที่คั่นหนังสือ
+icon: bookmark
 ---
 
-{{< fa "ที่คั่นหนังสือ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ในฐานะค่ายเพลง การสร้างบัญชีผู้ใช้สำคัญหรือไม่?
+## As a label, is it important to create an account ?
 
-ในฐานะแบรนด์สินค้า เนื่องจากคุณไม่ใช่ผู้ผลิตสินค้าโดยตรง คุณจึงไม่จำเป็นต้องสร้างบัญชีผู้ผลิต
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ฉันเป็นเจ้าของค่ายเพลง ฉันจะเข้าร่วมโครงการนี้ได้อย่างไร?
+## I am a label, how can I participate in the project?
 
-สำหรับฉลากสินค้า สิ่งสำคัญที่สุดคือการติดต่อเราที่ **(producers@openfoodfacts.org)** และส่งรายชื่อผลิตภัณฑ์ที่มีฉลากของคุณติดอยู่มาให้เรา เพื่อที่เราจะได้เพิ่มข้อมูลลงในเอกสารข้อมูลผลิตภัณฑ์ที่เกี่ยวข้อง
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
