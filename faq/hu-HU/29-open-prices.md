@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollár méret=2x >}} Nyitóárak"
-description: "3 kérdés"
-lang: hu-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dollár
+icon: dollar
 ---
 
-{{< fa "dollár" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Kiskereskedő vagyok, és szeretnék hozzájárulni az árakhoz. Hogyan tehetem ezt meg?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Az árakat a [mi API-nk](https://prices.openfoodfacts.org/api/docs) használatával is megadhatod. Ha nagymértékben szeretne hozzájárulni az árakhoz, kérjük, vegye fel velünk a kapcsolatot a [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) címen.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Fontolóra veszi az árak lekérését a kiskereskedők weboldalairól?
+## Do you consider scraping prices from retailers’ websites?
 
-Jogi és technikai okokból nem tartjuk érvényes módnak a kiskereskedők weboldalairól származó árak kinyerését a Nyílt Árak meghatározásához való hozzájárulásra. Azt szeretnénk biztosítani, hogy az általunk gyűjtött árak pontosak és naprakészek legyenek, és a közreműködőktől kapott, lemásolt árak ezt nem teszik lehetővé számunkra.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Az árak kinyerése a weboldalakról egy fontolóra vett lehetőség az Open Prices jövőbeli verzióiban, de ezt maga az Open Prices végezné el, hogy a HTML oldal alapján bizonyítékot kaphassunk az árról.
 
 ---
 
-## Miért csinálja ezt az Open Food Facts (Nyílt Árak)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Az árakkal kapcsolatos információk kiemelkedően fontosak az élelmiszerrendszerek megértéséhez. Ez kulcsfontosságú tényező az élelmiszerek költségeinek megértésében és az egészségesebb étrend népszerűsítésében. A nyitó áradatok megkönnyítik a kutatók, újságírók és polgárok számára, hogy jobban megértsék az élelmiszerárak földrajzi és időbeli változását.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
