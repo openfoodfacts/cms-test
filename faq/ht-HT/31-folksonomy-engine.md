@@ -1,17 +1,17 @@
 ---
-title: "{{< gwosè liv fa=2x >}} Motè Folksonomi"
-description: "1 kesyon"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: liv
+icon: book
 ---
 
-{{< fa "liv" size="3 fwa" >}}
+{{< fa "book" size=3x >}}
 
-## Kisa Motè Folksonomi an ye?
+## What is the Folksonomy Engine ?
 
-Motè Folksonomy a se yon sistèm ki pèmèt itilizatè yo ajoute etikèt pèsonalize, oubyen pwopriyete, nan pwodui alimantè nan Open Food Facts, pi gwo baz done manje ouvè nan mond lan. Sa pèmèt moun klase epi dekri manje nan nouvo fason, pi lwen pase pwopriyete predefini ki deja egziste yo.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
