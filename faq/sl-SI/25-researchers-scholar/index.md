@@ -1,21 +1,21 @@
 ---
-title: "{{< velikost kape za diplomiranje fa=2x >}} Raziskovalci/Znanstveniki"
-description: "1 podkategorija"
-lang: sl-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: maturantska kapa
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: mreža
+  type: grid
   grid-columns: 4
-  sort: "naročilo"
-  fields: [ naslov, opis ]
+  sort: "order"
+  fields: [ title, opis ]
   page-size: 100
 ---
 
-{{< fa "maturantska kapa" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
