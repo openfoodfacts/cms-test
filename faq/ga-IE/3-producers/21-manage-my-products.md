@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Bainistigh mo tháirgí"
-description: "16 cheist"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: bosca
+icon: box
 ---
 
-{{< fa "bosca" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Cad a ráthaíonn cáilíocht na sonraí in Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-Chun feabhas leanúnach a chur ar cháilíocht na sonraí, táimid ag brath ar 4 cholún:
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Tá an pobal i gcónaí ag cur sonraí agus grianghraif leis agus is patról fíor-athbhreithneoirí é.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Tá rialacha loighce socraithe againn chun earráidí ar na bileoga táirgí a aithint.Mar shampla: má tá suim mheáchan na gcomhábhar níos mó ná meáchan iomlán an táirge, tá neamhrialtacht ann. Tá thart ar 50 seiceáil cáilíochta eile againn.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. A bhuíochas leis an bhFoghlaim Meaisín, cuirimid teorainn leis an riosca a bhaineann le hearráidí ionchuir. Ligeann ár dteicneolaíocht dúinn sonraí téacsúla a bhaint as grianghraif a thóg rannpháirtithe.
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. A bhuíochas le tacaíocht Santé Publique France, d’fhorbraíomar tairseach a ligeann do tháirgeoirí a gcuid sonraí mais-tháirgthe a uaslódáil agus ar an gcaoi sin ranníocaíochtaí an phobail a cheartú/a chomhlánú.
-
----
-
-## Conas táirgí a chur leis?
-
-Chun táirgí a chur lenár n-ardán, ní mór duit cinneadh a dhéanamh ar dtús conas is mian leat dul ar aghaidh. Tá 4 rogha ann:
-
-- **De láimh**: má tá líon beag táirgí agat, is féidir fós gach bileog táirge a chruthú de láimh ar an Ardán Pro.
-
-- **Trí allmhairiú scarbhileog**: is féidir leat an scarbhileog [teimpléad](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) arna soláthar ag Open Food Facts a íoslódáil, nó sliocht ó do chóras TF a allmhairiú go díreach isteach san ardán Pro.
-
-- **Trí nascóirí catalóg táirgí**. Más cliant thú ag EQUADIS, AGENA3000 nó BAYARD, is féidir leat sonraí a uaslódáil in Open Food Facts le cliceáil amháin. Má tá tú ag obair le PIM (Bainistíocht Faisnéise Táirgí) eile, déan teagmháil linn: producers@openfoodfacts.org
-
-- **Trí nasc saincheaptha** idir do chuideachta agus Open Food Facts. Má tá níos mó ná 1000 táirge i do phunann, is féidir linn plé a dhéanamh ar an deis nascóir ar leith a thógáil chun an t-aistriú sonraí a éascú.
-
-Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## An bhfuil bealach ann chun nuashonruithe táirgí a uathoibriú chuig an mbunachar sonraí poiblí?
+## How to add products?
 
-Sea, má úsáideann tú catalóga táirgí EQUADIS, AGENA3000 nó BAYARD, agus má shocraíonn tú an chumraíocht cheart, is féidir an t-allmhairiú a dhéanamh go huathoibríoch agus dá bhrí sin sonraí an táirge ar Open Food Facts a nuashonrú.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## An bhfuil líon na dtáirgí breise teoranta?
+## Is there a way to automate product updates to the public database?
 
-Níl aon teorainn ann, is féidir leat líon na dtáirgí is mian leat a uaslódáil ar ár n-ardán.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Más mian leat táirge nach bhfuil ar fáil ar an margadh a thuilleadh a bhaint, níl le déanamh agat ach an bosca "níl an táirge seo á dhíol a thuilleadh" a sheiceáil nuair a dhéanann tú d’eagarthóireacht ar do bhileog táirge.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Más mian leat roinnt táirgí a bhaint, molaimid duit an nós imeachta a luaitear sa [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), ar lch. 18 a leanúint.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Is féidir leat teagmháil a dhéanamh linn trí producers@openfoodfacts.org freisin má tá aon cheist agat.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Nuair a bheidh an táirge cartlannaithe, ní bheidh sé le feiceáil a thuilleadh in Open Food Facts.Fanfaidh sé inár mbunachar sonraí, áfach, ionas gur féidir linn stair na dtáirgí a díoladh le himeacht ama a choinneáil.
-
----
-
-## An bhfuil tosaíocht ag faisnéis na cuideachta ar fhaisnéis atá ar fáil ar an ardán cheana féin?
-
-Nuair a chuireann táirgeoir ceann dá tháirgí ar líne lena chuntas táirgeora agus go bhfuil bileog táirge ann cheana féin, comhlánófar é seo.
-
-Beidh tús áite i gcónaí ag an bhfaisnéis a bheidh postáilte ag an léiritheoir agus is é féin amháin a bheidh in ann a tháirgí a mhodhnú nuair a bheidh an fhaisnéis líonta isteach.
-
-Má tá na sonraí a sheoltar tríd an ardán scoilte, féadfaidh an fhaisnéis a chuireann an pobal leis ón bpacáistiú é a chomhlánú.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Cén fhormáid ar cheart dom mo chuid sonraí a sheoladh?
+## Does company information take precedence over information already present on the platform?
 
-Cuirtear [teimpléad](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ar fáil ag Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Mar sin féin, beidh aon fhormáid scarbhileog (xlsx, csv) iniompórtáilte san ardán.  
-Tá ár n-algartam deartha chun na tréithe ó do chomhad a mheaitseáil go huathoibríoch leis na cinn atá i láthair in Open Food Facts. Bí cúramach i gcónaí an chéim meaitseála a sheiceáil faoi dhó mar b’fhéidir go mbeadh ort cuid acu a choigeartú de láimh.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Más rud é go bhfuil do chuid faisnéise roinnte idir roinnt scarbhileoga, is féidir leat iad a allmhairiú as a chéile - agus bí cinnte go ndéanfaidh tú an meaitseáil má athraíonn an fhormáid.
-
-Is féidir leat comhad Excel a allmhairiú chomh maith le hallmhairiú EQUADIS nó AGENA3000, mura bhfuil na sonraí i do chóras faisnéise go fóill. Sna cásanna seo, ná déan dearmad easpórtáil chuig an mbunachar sonraí poiblí a iarraidh ón gcomhéadan.
-
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Cé na catalóga táirgí a bhfuil tú comhtháite leo?
+## In what format should I send my data?
 
-Is féidir le monaróirí anois a gcuid sonraí táirgí agus grianghraif a sheoladh i bhfíor-am ó **Equadis,** **AGENA3000 agus BAYARD consulting** chuig Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Ar ndóigh, bainfidh tú leas as na moltaí athfhoirmlithe agus as gach gné den ardán freisin.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-Mínítear na céimeanna atá le leanúint má tá tú i do chustaiméir EQUADIS inár bpost blag](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Más custaiméir AGENA3000 thú (Táirge A3 PIM INDUSTRY), níl le déanamh agat ach an faighteoir "Oscail Fíricí Bia" a roghnú agus tú ag seoladh do bhileoga táirge. [Tuilleadh eolais ar an mblagphost seo](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Más custaiméir thú de chatalóg sonraí táirgí eile (Salsify - iar-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, srl.) Cuir in iúl dúinn le do thoil ag [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Conas táirgí gan chóid barra a chur leis tríd an ardán Pro?
+## With which product catalogs are you integrated?
 
-I gcás táirgí gan chód barra, ar an suíomh nó ar ardán an táirgeora, tá cnaipe "Táirge gan chód barra" sa cholún ar chlé a ligeann duit iad a chur leis. Gintear aitheantóir go huathoibríoch ansin.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Tá tionscadail shonracha cruthaithe againn do chosmaidí, do bheatha ainmhithe, chomh maith le táirgí eile: Fíricí Áilleachta Oscailte, Fíricí Bia Peataí Oscailte agus Fíricí Táirgí Oscailte faoi seach.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Tá sonraí táirgí ó mo chuideachta ar fáil ar Open Food Facts. An féidir smacht a ghlacadh ar an gcuntas táirgeora gaolmhar?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Sea ar ndóigh! Is féidir leat smacht a ghlacadh ar an gcuntas táirgeora gaolmhar trí chuntas Open Food Facts a chruthú le do sheoladh gnó. Nuair a chláraíonn tú, luaigh ainm na heagraíochta atá i láthair ar an bhfoirm le go mbeidh rochtain agat ar an spás léiritheora comhfhreagrach.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Beidh gá le céim ghearr bailíochtaithe chun a chinntiú gurb tusa an léiritheoir i ndáiríre.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Beidh tú in ann na sonraí a chomhlánú, íomhánna a chur leis, moltaí uathoibríocha a fháil chun an Nutri-Score a fheabhsú, agus i bhfad níos mó. Tá seo go léir go hiomlán saor in aisce ar ndóigh. Is féidir leat córas bainistíochta sonraí táirgí tríú páirtí a nascadh freisin, amhail EQUADIS, AGENA3000 agus Bayard Consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Cá fhad a thógann sé chun sonraí táirgeoirí a nuashonrú ar aip eile atá ag athúsáid bunachar sonraí Open Food Facts?
-
-Braitheann sé ar na haipeanna. Dóibh siúd a úsáideann ár n-APIanna, arb iad an tromlach mór iad, tá sé láithreach.  
-Dóibh siúd a úsáideann ár n-easpórtálacha laethúla, is é D+1 atá ann ar choinníoll go ndéanann siad é a nuashonrú.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## An gcríochnaíonn nó an athscríobhann iompórtáil sonraí ó thaifead táirge an taifead táirge atá ann cheana?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Úsáidimid an cód barra chun táirgí a aithint, má allmhairíonn tú taifead leis an gcód barra céanna le taifead atá ann cheana féin, déanfar an fhaisnéis a chumasc.
-
-I gcás sonraí amhail liosta comhábhar, luachanna cothaitheacha (luach ceart amháin is féidir), scriosfaidh na sonraí a sheoltar tríd an ardán táirgeora na sonraí atá ann cheana féin.
-
-I gcás sonraí amhail lipéid/catagóirí/brandaí (roinnt luachanna cearta indéanta), déantar an fhaisnéis a chumasc. Mura bhfuil na sonraí ceart ar an ardán poiblí, is féidir leat an bhileog táirge ar an ardán poiblí a mhodhnú chun na luachanna míchearta a bhaint.
-
-→ Le haghaidh tuilleadh sonraí, tugaimid cuireadh duit ár [treoir úsáideora](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a íoslódáil agus/nó dul i gcomhairle lenár [rang teagaisc físe](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## An bhfuil ord na gcomhábhar tábhachtach?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Tá ord na gcomhábhar tábhachtach: léiríonn sé an t-ord de réir cainníochta.
-Is é an bealach is fearr chun na comhábhair a líonadh ná cloí go díreach leis an méid atá scríofa ar an bpacáistiú. Sin é an fáth go bhfuil sé chomh tábhachtach freisin grianghraif de na comhábhair a phriontáil.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## An féidir liom íomhánna a sheoladh trí AGENA3000 freisin?
+## Is the order of ingredients important?
 
-Is féidir leat íomhánna a sheoladh ach i gcleachtas ní roghnófar ach an phríomhíomhá go huathoibríoch, seolfar na híomhánna eile, ach ní bhearrfar/roghnófar iad le haghaidh comhábhair, cothaithe srl.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Conas rochtain a fháil ar ranganna teagaisc an ardáin Pro?
+## Can I send images via AGENA3000 too?
 
-Is féidir leat rochtain a fháil ar ranganna teagaisc an ardáin ghairmiúil:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Tríd an ardán gairmiúil féin: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Go díreach ar [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Is féidir leat ár [treoir úsáideora] a íoslódáil freisin (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
