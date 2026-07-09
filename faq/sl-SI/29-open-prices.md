@@ -1,31 +1,31 @@
 ---
-title: "{{< velikost dolarja fa=2x >}} Odprte cene"
-description: "3 vprašanja"
-lang: sl-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Sem trgovec na drobno in želim prispevati cene. Kako lahko to storim?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Cene lahko prispevate z uporabo [našega API-ja](https://prices.openfoodfacts.org/api/docs). Če želite prispevati cene v večjem obsegu, se obrnite na nas na [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ali razmišljate o pobiranju cen s spletnih strani trgovcev na drobno?
+## Do you consider scraping prices from retailers’ websites?
 
-Zaradi pravnih in tehničnih razlogov ne smatramo pridobivanja cen s spletnih strani trgovcev na drobno za veljaven način prispevanja k Open Prices. Želimo zagotoviti, da so cene, ki jih zbiramo, točne in posodobljene, prejemanje postrganih cen od sodelujočih pa nam tega ne omogoča.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Strganje cen je možnost, ki se upošteva v prihodnji različici Open Prices, vendar bi to storil sam Open Prices, da bi lahko imeli dokazilo o ceni na podlagi strani HTML.
 
 ---
 
-## Zakaj Open Food Facts to počne (Odprte cene)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informacije o cenah so izjemnega pomena za razumevanje prehranskih sistemov. To je ključni dejavnik za razumevanje stroškov hrane in spodbujanje bolj zdrave prehrane. Podatki o začetnih cenah so način, da raziskovalci, novinarji in državljani lažje razumejo, kako se cene hrane spreminjajo geografsko in časovno.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
