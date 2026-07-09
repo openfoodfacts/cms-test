@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} 生態評分"
-description: "5個問題"
-lang: 英語-英國
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: 用戶加
+icon: user-plus
 ---
 
-{{< fa "用戶加" size=3倍 >}}
+{{< fa "user-plus" size=3x >}}
 
-## 什麼是生態評分法？
+## What is the Eco-Score methodology?
 
-生態評分是根據 ADEME（生態轉型機構）和 INRAE（國家農業研究院）進行的生命週期分析計算得出的。 PEF評分是透過計算和關聯大約15個組成部分而得出的。
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-PEF評分也會根據生產方式、產地等因素增加加分減分。
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-成分、瀕危物種、包裝）以便計算生態評分。
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-有關更多信息，請參閱 Open Food Facts 上的摘要頁面 [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) 以及 Eco-Score 聯盟網站上的摘要頁面。 (生態評分介紹 [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/)）
-
----
-
-## 為了盡可能準確地計算生態評分，需要提供哪些類型的資訊？
-
-要準確計算生態評分，必須指定每種成分的百分比及其來源。
-
-如果配料表中尚未列出此信息，您可以添加一列進行標註，格式如下：
-
-小麥粉 16%（法國）
-
-巧克力 8%（科特迪瓦、厄瓜多）
-
-我們還需要包裝組件，具體如下：1 張一次性塑膠薄膜，1 個可回收的 FSC 紙板箱，6 個 1.5 公升可回收的 PET 透明塑膠瓶，6 個不透明彩色塑膠蓋，12 個 33 厘升鋁製塑膠罐。
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 這15項指標的數值是如何綜合起來的？
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-\*\*為了更好地理解PEF系統，您可以閱讀Eco-Score方法論網站上關於PEF評分的解釋。 \*\*
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## 在地化因素是指生產地還是原料產地？
+## How are the values ​​of the 15 indicators combined?
 
-\*\*本地因素指的是原料的來源。 因此，請務必在產品成分列表或成分來源欄中註明它們的百分比和來源。
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## 如何輸入成分的產地資訊以計算生態評分？
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-如果您希望分享有關床單原材料來源的信息，我們邀請您將其添加到成分列表中。
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
