@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Harga Pembukaan"
-description: "3 pertanyaan"
-lang: bahasa Inggris
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Saya seorang pengecer dan saya ingin memberikan kontribusi harga. Bagaimana saya bisa melakukannya?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Anda dapat memasukkan harga dengan menggunakan [API kami](https://prices.openfoodfacts.org/api/docs). Jika Anda ingin berkontribusi dalam pengumpulan data harga dalam skala besar, silakan hubungi kami di [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Apakah Anda mempertimbangkan untuk mengambil data harga dari situs web pengecer?
+## Do you consider scraping prices from retailers’ websites?
 
-Karena alasan hukum dan teknis, kami tidak menganggap pengambilan data harga dari situs web pengecer sebagai cara yang sah untuk berkontribusi pada Open Prices. Kami ingin memastikan bahwa harga yang kami kumpulkan akurat dan terkini, dan menerima harga hasil pengikisan dari kontributor tidak memungkinkan kami untuk melakukan hal itu.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Pengambilan data harga (price scraping) merupakan opsi yang dipertimbangkan dalam versi Open Prices mendatang, tetapi hal itu akan dilakukan oleh Open Prices sendiri sehingga kita dapat memiliki bukti harga berdasarkan halaman HTML.
 
 ---
 
-## Mengapa Open Food Facts melakukan ini (Harga Terbuka)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informasi harga sangat penting untuk memahami sistem pangan. Ini merupakan faktor kunci dalam memahami biaya makanan dan untuk mempromosikan pola makan yang lebih sehat. Data harga pembukaan adalah cara untuk memudahkan peneliti, jurnalis, dan warga negara untuk lebih memahami bagaimana harga pangan bervariasi secara geografis dan dari waktu ke waktu.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
