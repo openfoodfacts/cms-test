@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Ynglŷn â Ffeithiau Bwyd Agored"
-description: "4 cwestiwn"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: cylch gwybodaeth
+icon: info-circle
 ---
 
-{{< fa "cylch gwybodaeth" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Pa fath o wybodaeth ddylid ei rhannu?
+## What type of information should be shared?
 
-Mae croeso i unrhyw wybodaeth sydd gennych, o wybodaeth faethol i wybodaeth am becynnu.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Mae hyn yn ei gwneud hi'n bosibl sefydlu ffeil gyflawn, cyfrifo'r holl sgoriau gyda chywirdeb ac yn fwy cyffredinol tryloywder a werthfawrogir gan ddefnyddwyr.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Fodd bynnag, rydym yn argymell eich bod yn blaenoriaethu'r meysydd canlynol:
+However we do recommend you prioritize the following fields:
 
-- Gwybodaeth faethol
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Categori cynnyrch (e.e. diodydd, caws, iogwrt, ac ati)
-
-- Enw'r cynnyrch
-
-- Alergenau
-
-- a'r cynhwysion, nid yw'r maes hwn yn orfodol ond fe'i hargymhellir ar gyfer defnydd a phennu'r sgoriau gorau posibl
-
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## A allaf lawrlwytho data Ffeithiau Bwyd Agored?
+## Can I download Open Food Facts data?
 
-Gallwch lawrlwytho'r holl ddata sydd ar gael ar Open Food Facts. Byddwch yn ofalus, mae hyn yn gofyn am lawer o le ar y ddisg, cyfrifiadur pwerus os ydych chi am ddefnyddio taenlen neu wybodaeth am R neu Python fel arall.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Gallwch hefyd lawrlwytho is-set o'r data (eich brand er enghraifft) diolch i'r chwiliad uwch.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## A yw mynediad i'r platfform Pro a mewnforio data am ddim?
-
-Yn hollol, a bydd yn parhau am byth.Mae pob gwasanaeth a ddarperir gan Open Food Facts yn rhad ac am ddim.  
-Rydym yn falch iawn eich bod wedi penderfynu cyfrannu data eich cynnyrch at dryloywder bwyd, ac rydym yn diolch i chi am hyn.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Hoffwn awgrymu gwelliannau ar gyfer y platfform proffesiynol, sut alla i wneud hynny?
+## Is access to the Pro platform and the import of data free?
 
-Diolch am eich parodrwydd i gymryd rhan mewn tryloywder bwyd!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Y ffordd orau o rannu adborth yw drwy lenwi [y ffurflen hon](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Gallwch hefyd gysylltu â ni i wneud awgrymiadau naill ai drwy [ein fforwm](https://forum.openfoodfacts.org/) neu drwy [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Ymunwch â'n Slack a nodwch y sianel #cynhyrchwyr i gysylltu â ni.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
