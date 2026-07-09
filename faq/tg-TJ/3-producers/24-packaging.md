@@ -1,49 +1,49 @@
 ---
-title: "Бастабандӣ {{< андозаи куби фа=2x >}}"
-description: "3 савол"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: куб
+icon: cube
 ---
 
-{{< fa "куб" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Чӣ тавр ман метавонам маълумоти бастабандии худро ба Open Food Facts илова кунам?
+## How can I add my packaging data to Open Food Facts?
 
-Ҳамчун истеҳсолкунанда, роҳи самараноктарини илова кардани маълумоти бастабандӣ ба маҳсулоти шумо пур кардани маълумоти зарурӣ дар ин [ҷадвали Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) аз сутуни "AU" мебошад.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Барои ҳар як ҷузъи бастабандӣ, шумо бояд маълумоти зеринро ворид кунед:
+For each packaging component, you will need to enter:
 
-- Шумораи воҳидҳо (масалан: **4** дегча йогурт)
+- The number of units (ex: **4** pots of yogurts)
 
-- Шакл (масалан: **дег, сарпӯш, қуттӣ ва ғайра**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Мавод (масалан: **ПЭТ, коғаз, шиша ва ғайра**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Дастурамал оид ба коркарди такрорӣ (масалан: **барои коркарди такрорӣ, партофтан ва ғайра**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Вазни як воҳиди холӣ (бо грамм)
+- The weight of one empty unit (in gr)
 
-- Миқдори холиси маҳсулоте, ки барои як воҳид мавҷуд аст
+- The net quantity of product contained per unit
 
-Сипас ин ҷадвали электрониро ба платформаи мо, ки барои мутахассисон бахшида шудааст, ворид кардан мумкин аст.
-
----
-
-## Лоиҳаи "Таҳлили бастабандии хӯрокворӣ" чист?
-
-Лоиҳаи "Мубориза бо бастабандии маҳсулоти хӯрокворӣ" аз ҷамъоварии маълумоти муфассал дар бораи бастабандии маҳсулоти аз ҳама бештар истеъмолшаванда (шакл, мавод, дастурҳои ҷудокунӣ, вазн, иқтидор) иборат аст.
-
-Бар асоси равиши илмии иштирокӣ, он ҳам ба ширкатҳое, ки барои мубодилаи маълумоти бастабандии худ ва бозии шаффофият розӣ мешаванд, ва ҳам ба шаҳрвандоне, ки ба ҷамъоварии маълумот дар бораи маҳсулот иҷозат медиҳанд, такя хоҳад кард. Ин маълумот метавонад озодона дубора истифода шавад ("маълумоти кушода").
-
-**Барои маълумоти бештар:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ҳатто пас аз анҷоми лоиҳаи Tackling Food Packaging, оё ман метавонам маълумоти бастабандии худро илова кунам?
+## What is the Tackling Food Packaging project?
 
-Ҳатто пас аз анҷоми лоиҳа, илова кардани маълумоти бастабандӣ имконпазир аст, зеро майдонҳои бастабандӣ дар вебсайти мо боқӣ хоҳанд монд.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
