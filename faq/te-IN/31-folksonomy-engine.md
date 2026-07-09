@@ -1,17 +1,17 @@
 ---
-title: "{{<fa book size=2x >}} ఫోక్సోనమీ ఇంజిన్"
-description: "1 ప్రశ్న"
-lang: en-gb తెలుగు in లో
-order: 31 తెలుగు
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: పుస్తకం
+icon: book
 ---
 
-{{< fa "పుస్తకం" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ఫోక్సోనమీ ఇంజిన్ అంటే ఏమిటి?
+## What is the Folksonomy Engine ?
 
-ఫోక్సోనమీ ఇంజిన్ అనేది ప్రపంచంలోనే అతిపెద్ద ఓపెన్-ఫుడ్ డేటాబేస్ అయిన ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో ఆహార ఉత్పత్తులకు కస్టమ్ ట్యాగ్‌లు లేదా లక్షణాలను జోడించడానికి వినియోగదారులను అనుమతించే ఒక వ్యవస్థ. ఇది ఇప్పటికే ఉన్న ముందే నిర్వచించిన లక్షణాలకు మించి, కొత్త మార్గాల్లో ఆహారాన్ని వర్గీకరించడానికి మరియు వివరించడానికి ప్రజలను అనుమతిస్తుంది.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
