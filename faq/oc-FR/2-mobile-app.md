@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Aplicacion mobila"
+title: "{{< fa mobile size=2x >}} Mobile app"
 description: "4 questions"
-lang: es-gb
+lang: en-gb
 order: 2
 category-level: 0
-icon: mobil
+icon: mobile
 ---
 
-{{< fa "mobil" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Cossí sabi quina version de l'aplicacion utilisi?
+## How do I know which version of the app I'm using?
 
-Anatz a **Perfil**,
-puèi **FAQ**, puèi **A prepaus d'aquesta aplicacion.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Deuriatz
-veire un numèro de version coma 3.4.5+662. Oblidetz pas de nos dire la marca e lo modèl
-del telefòn s'es en desbugatge.
-
----
-
-## L'aplicacion escaneja pas
-
-Aquò pòt èsser degut a
-
-- un problèma de ret
-
-- un problèma d'autorizacions
-
-- un problèma de còde de barras
-
-Mandatz-nos un corrièl via Perfil >> Contactatz-nos >> Mandatz-nos un corrièl.
-
-Totas las informacions pertinentas deurián èsser jonchas a vòstra demanda.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Cossí pòdi ajudar a melhorar l'aplicacion mobila ?
+## The app does not scan
 
-Cossí pòdi ajudar a melhorar l'aplicacion mobila ?
+This may be due to
 
-Podètz [o far sul depaus de l'aplicacion mobila](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ont pòdi mandar de comentaris a prepaus de l'aplicacion ?
+## How can I help with improving the mobile app ?
 
-Podètz mandar de comentaris a mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
