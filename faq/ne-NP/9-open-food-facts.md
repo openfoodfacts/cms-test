@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} खुला खाद्य तथ्यहरू"
-description: "९ प्रश्नहरू"
-lang: एनजीबी
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: प्रश्न-चक्र
+icon: question-circle
 ---
 
-{{< fa "प्रश्न-चक्र" size=३x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. लगभग सबै अवस्थामा, तिनीहरूको सेवा सर्तहरूले कुनै पनि गैर-व्यक्तिगत प्रयोग र सबै डेटा वा डेटाका अंशहरूको कुनै पनि निकासीलाई स्पष्ट रूपमा निषेध गर्दछ।
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. त्यसैले जब हामीले २०१२ मा ओपन फूड फ्याक्ट्स प्रोजेक्ट र मोबाइल एप सुरु गर्यौं, हामीले ठीक उल्टो गर्ने निर्णय गर्यौं: हामी हाम्रो डाटाबेसको प्रयोग र पुन: प्रयोगलाई, स्वतन्त्र रूपमा र शुल्क बिना, सबैलाई र सबै प्रयोगहरूको लागि (व्यावसायिक सहित) अनुमति दिन्छौं, तर हामी यसलाई प्रोत्साहन पनि गर्छौं!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-डेटा सार्वजनिक रूपमा उपलब्ध गराउनाले (जसलाई _खुला डेटा_ भनिन्छ) विश्वभरका व्यक्ति, संघ, कम्पनी, अनुसन्धानकर्ता आदिलाई हामीले कहिल्यै सोचेका नभएका डेटाका लागि अनुप्रयोगहरू सोच्न र विकास गर्न अनुमति दिन्छ।
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. ([पुन: प्रयोगका सर्तहरू] हेर्नुहोस् (https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-सबैजना (ओपन फूड फ्याक्ट्स योगदानकर्ताहरू र सिर्जनाकर्ताहरू सहित तर सीमित छैनन्) यसरी वेब साइटहरू, सेवाहरू, सफ्टवेयर, मोबाइल अनुप्रयोगहरू निर्माण गर्न, वा लेखहरू र अध्ययनहरू लेख्न डेटा पुन: वितरण र/वा पुन: प्रयोग गर्न सक्छन्। They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. उदाहरणका लागि, उत्पादकहरूको लागि हाम्रो प्लेटफर्म पूर्ण रूपमा नि:शुल्क छ, र हामी यसबाट अझ खुसी छौं किनभने हामीलाई लाग्छ कि यसले उनीहरूलाई आफ्ना उत्पादनहरू सुधार गर्न मद्दत गर्न सक्छ।
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-तपाईं theforum मा प्रश्नहरू सोध्न वा सुझाव दिन सक्नुहुन्छ वा हामीलाई इमेल: contact@openfoodfacts.org मार्फत सम्पर्क गर्न सक्नुहुन्छ।
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-यदि तपाईं निर्माता हुनुहुन्छ भने, कृपया हामीलाई [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) मा इमेल गर्नुहोस्।
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-यदि तपाईं पत्रकार हुनुहुन्छ भने, कृपया हामीलाई [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org) मा इमेल गर्नुहोस्।
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-कृपया ध्यान दिनुहोस्: [ओपन फूड फ्याक्ट्स भनेको खाद्य उत्पादनहरूको एक सहयोगी डाटाबेस हो](https://world.openfoodfacts.org/discover), हामी कुनै पनि उत्पादन बेच्दैनौं र हामीसँग तिनीहरूका उत्पादकहरूसँग कुनै लिङ्क छैन। For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-जानकारी र तथ्याङ्क ओपन फूड फ्याक्ट्स योगदानकर्ताहरूद्वारा पेश गरिएको हो। The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. जस्तै यदि कुनै उत्पादनको पोषण तथ्य एउटै श्रेणीका उत्पादनहरू भन्दा धेरै फरक छ भने, यो त्रुटि हुन सक्छ। If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. यदि तपाईं निर्माता हुनुहुन्छ भने, कृपया [हामीलाई सम्पर्क गर्नुहोस्](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. ([योगदानका सर्तहरू] हेर्नुहोस्(https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-हामीले तपाईंको आकार जस्तोसुकै भए पनि, तपाईंको उत्पादनहरूको बारेमा फोटो र डेटा सजिलै आयात गर्न दिनको लागि नि:शुल्क प्लेटफर्म विकास गरेका छौं। It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. हामी कसरी अगाडि बढ्न सक्छौं भनेर छलफल गर्न हामीलाई सम्पर्क गर्नुहोस्: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## ओपन फूड फ्याक्ट्स डेटा कसले प्रयोग गर्छ?
+## Who uses Open Food Facts data?
 
-ओपन फुड फ्याक्ट्स
-प्लेटफर्ममा भर पर्ने सबै संस्थाहरूको सूची बनाउन
-धेरै समय लाग्नेछ।
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- १०० भन्दा बढी मोबाइल अनुप्रयोगहरू
-  ले धेरै दर्शकहरूको आवश्यकतालाई सम्बोधन गर्दछ: मधुमेह (VeryDiab), एलर्जी, कृत्रिम बुद्धिमत्ता (FoodVisor) मार्फत खाना
-  सन्तुलन, अशक्तता, र थप। हाम्रो
-  डाटाबेसले पनि युका सिर्जना गर्न अनुमति दियो।
-- धेरै वेबसाइटहरू: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- डाटा-पत्रकारहरू : Les Decodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- लगभग १०० वैज्ञानिक
-  लेखहरूमा अनुसन्धानकर्ताहरू
-- खाद्य बैंक र एकता स्टोरहरू:
-  फ्रान्सेली रेडक्रस द्वारा सुरु गरिएको पाइलट परियोजनाको निरन्तरतामा
-  डेटा फर गुड परियोजना, सानो खाद्य
-  सहकारीको नगद व्यवस्थापनमा एकीकरण।
-- कम्पनीहरू: टेराइलनले यसको जडान गरिएको स्केललाई जीवन दिन हाम्रो डेटा
-  प्रयोग गर्दछ।
-- प्रोग्रामिङ स्कूलहरू (सिम्पलन, ओपन
-  कक्षाकोठाहरू) ले आफ्नो
-  पाठ्यक्रममा ओपन फुड फ्याक्ट्सलाई एक प्रेरणादायी परियोजनाको रूपमा एकीकृत गरेका छन्।
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## म कसरी ओपन फूड फ्याक्ट्सलाई समर्थन गर्न सक्छु?
+## How can I support Open Food Facts?
 
-ओपन फूड
-फ्याक्ट्स १९०१ को गैर-नाफामुखी संस्था हो। तपाईंले हामीलाई [परियोजनामा भाग लिएर](https://fr-en.openfoodfacts.org/contribute) र तपाईंको [दान](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(६६% कटौतीयोग्य) मार्फत आर्थिक सहयोग गरेर र Lilo
-खोज इन्जिन प्रयोग गरेर पनि मद्दत गर्न सक्नुहुन्छ।
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**धेरै धेरै धन्यवाद
-!**
+**Thank
+you very much!**
 
 ---
 
-## म मेरो प्रश्नको उत्तर फेला पार्न सक्दिन।
+## I can't find the answer to my question
 
-यदि तपाईंले आफ्नो प्रश्न(हरू) को उत्तर फेला पार्न सक्नुहुन्न भने, हामीलाई मार्फत सम्पर्क गर्न नहिचकिचाउनुहोस्:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- हाम्रो स्ल्याक: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- हाम्रो फोरम: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
