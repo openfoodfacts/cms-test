@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Igbasilẹ data"
-description: "Ìbéèrè kan"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: ìgbasókè-ìkùukùu
+icon: cloud-download
 ---
 
-{{< fa "ìgbasókè-ìkùukùu" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Nibo ni lati gba data fun orilẹ-ede kan pato?
+## Where to get the data for a specific country?
 
-Lọ́wọ́lọ́wọ́, kò sí ọjà tí a yà sọ́tọ̀ fún àwọn orílẹ̀-èdè pàtó kan.
+Currently, there are no exports dedicated to specific countries.
 
-Ọpọlọpọ ọna lo wa lati lo awọn ọja okeere oriṣiriṣi wa pẹlu awọn irinṣẹ oriṣiriṣi lati yan data ti o ni ibatan si orilẹ-ede kan pato.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-O le wo [diẹ ninu awọn ilana yii lori wiki wa](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
