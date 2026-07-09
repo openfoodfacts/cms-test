@@ -1,37 +1,37 @@
 ---
-title: "{{< fa question-circle size=2x >}} פתח עובדות מזון"
-description: "9 שאלות"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: מעגל שאלות
+icon: question-circle
 ---
 
-{{< fa "מעגל שאלות" size="פי 3" >}}
+{{< fa "question-circle" size=3x >}}
 
-## מה ההבדל ביניכם לבין אתרים, שירותים ויישומונים מגוונים לנייד שכבר מאפשרים לצפות בפרטים על מוצרי מזון?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 ההבדל העיקרי הוא קריטי בעינינו: הנתונים שלנו זמינים באופן חופשי לכולם ולכל מטרה שהיא. זה מה שנקרא נתונים פתוחים.
 
-כמעט כל האתרים, השירותים ויישומוני הנייד האחרים אוסרים על הציבור להפיץ מחדש או לגזור את הנתונים שלהם. להפך, הם שומרים אותם לעצמם בקנאות. כמעט בכל המקרים, תנאי השירות שלהם אוסרים במפורש כל שימוש לא אישי וכל חילוץ של כל הנתונים או חלקים מהם.
+כמעט כל האתרים, השירותים ויישומוני הנייד האחרים אוסרים על הציבור להפיץ מחדש או לגזור את הנתונים שלהם. להפך, הם שומרים אותם לעצמם בקנאות. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-אנו רואים במידע על מוצרי המזון כמשהו חשוב ושימושי מכדי לשמור אותו נעול בכספת. אז כשהתחלנו את פרויקט Open Food Facts ואת האפליקציה לנייד, בשנת 2012, החלטנו לעשות בדיוק את ההפך: לא רק שאנחנו מאפשרים שימוש ושימוש חוזר במסד הנתונים שלנו, באופן חופשי וללא תשלום, לכולם ולכל שימוש (כולל מסחרי), אלא שאנחנו גם מעודדים זאת!
+אנו רואים במידע על מוצרי המזון כמשהו חשוב ושימושי מכדי לשמור אותו נעול בכספת. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-הפיכת הנתונים לזמינים לציבור (מה שמכונה _נתונים פתוחים_) מאפשרת לאנשים פרטיים, עמותות, חברות, חוקרים וכו' מכל רחבי העולם לחשוב ולפתח יישומים לנתונים שלעולם לא היינו חושבים עליהם.
-
----
-
-## מה המודל הכלכלי של Open Food Facts
-
-תרומה בהתנדבות. התרומות של המתנדבים נאספות במסד נתונים פתוח בו כולם יכולים להשתמש לכל מטרה שהיא. (ראה את [תנאי השימוש החוזר](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-כל אחד (כולל אך לא רק תורמים ויוצרים של Open Food Facts) יכול להפיץ מחדש ו/או לעשות שימוש חוזר בנתונים כדי לבנות אתרי אינטרנט, שירותים, תוכנה, אפליקציות מובייל או לכתוב מאמרים ומחקרים. כולם רשאים ליצור עבודות בין אם בחינם או לצרכים מסחריים או לייצור רווחים (למשל: עם פרסומות) כל עוד תנאי הגזירה נאכפים.
-
-אנחנו גם עצמאיים לחלוטין מתעשיית המזון וכל השירותים והתכנה שאנו בונים הם חופשיים. לדוגמה, הפלטפורמה שלנו ליצרנים היא לגמרי בחינם, ואנחנו מרוצים עוד יותר מכך כי אנחנו חושבים שזה עשוי לעזור להם לשפר את המוצרים שלהם.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## אפשר להוסיף תמונות או נתונים מהאתר של היצרן, אתרי הקניות או אתרים אחרים?
+## What is Open Food Facts' economic model
+
+תרומה בהתנדבות. התרומות של המתנדבים נאספות במסד נתונים פתוח בו כולם יכולים להשתמש לכל מטרה שהיא. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. כולם רשאים ליצור עבודות בין אם בחינם או לצרכים מסחריים או לייצור רווחים (למשל: עם פרסומות) כל עוד תנאי הגזירה נאכפים.
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 סביר להניח שלא. כמעט כל האתרים האחרים אוסרים להפיק מחדש או לגזור נתונים ותמונות וזאת למעשה גם הסיבה שבגללה הקמנו את Open Food Facts: להנגיש את כל הנתונים האלו לכולם ולכל מטרה.
 
@@ -39,82 +39,83 @@ icon: מעגל שאלות
 
 ---
 
-## איך אפשר ליצור קשר עם הצוות של Open Food Facts כדי לשאול שאלות או להציע הצעות?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-ניתן לשאול שאלות או להציע הצעות בפורום או ליצור איתנו קשר באמצעות דוא"ל: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-אם אתם מפיקים, אנא שלחו לנו דוא"ל לכתובת [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-אם אתם עיתונאים, אנא שלחו לנו דוא"ל לכתובת [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-שימו לב: [Open Food Facts הוא מאגר נתונים שיתופי של מוצרי מזון](https://world.openfoodfacts.org/discover), איננו מוכרים אף מוצר ואין לנו קישורים ליצרנים שלהם. לשאלות ותלונות על מוצר כלשהו, עליך לכתוב ישירות ליצרן (הכתובת מופיעה על תווית המוצר).
-
----
-
-## האם המידע והנתונים על המוצרים עוברים אימות?
-
-המידע והנתונים הוגשו על ידי תורמי Open Food Facts. המתנדבים גם שולחים תמונות של המוצר, התוויות שלו, רשימת הרכיבים והטבלה התזונתית שלו. במקרה של ספק, מבקרים יכולים לבדוק את הדיוק בעצמם ואם יש שגיאה, הם יכולים לתקן אותה במקום.
-
-כדי לזהות שגיאות אפשריות בקלות, אנו מוסיפים בדיקות אוטומטיות בהדרגה. לדוגמה, אם ערכי התזונה של מוצר שונים מאוד ממוצרים מאותה קטגוריה, ייתכן שמדובר בטעות. אם חומרי ההזנה מצטברים לכמות של למעלה מ־100% אין ספק שמדובר בטעות.
-
-בסיכומו של דבר, יצרנים רבים שולחים לנו תמונות ונתונים על המוצרים שלהם באמצעות הפלטפורמה ליצרנים. אם אתה מפיק, אנא [צור קשר](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## אני יצרן מוצרי מזון, אוכל להוסיף את המוצרים שלי?
+## Is the information and data on products verified?
 
-כן! התנאי היחידי הוא לאשר שהנתונים והתמונות יהיו זמינים תחת רישיון פתוח. (ראה את [תנאי התרומה](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. המתנדבים גם שולחים תמונות של המוצר, התוויות שלו, רשימת הרכיבים והטבלה התזונתית שלו. במקרה של ספק, מבקרים יכולים לבדוק את הדיוק בעצמם ואם יש שגיאה, הם יכולים לתקן אותה במקום.
 
-פיתחנו פלטפורמה חינמית שתאפשר לכם לייבא בקלות תמונות ונתונים על המוצרים שלכם, ללא קשר לגודל. היא תאפשר לך לייבא נתונים מלאים ועדכניים לצד מיצגים חזותיים ל־Open Food Facts שיופיעו בפני למעלה מ־100 יישומוני תזונה נוספים. נוסף על כך, הפלטפורמה מספקת הצעות לשיפור ה־Nutri-Score של המוצרים שלך. צרו קשר כדי לדון כיצד נוכל להמשיך: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+כדי לזהות שגיאות אפשריות בקלות, אנו מוסיפים בדיקות אוטומטיות בהדרגה. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. אם חומרי ההזנה מצטברים לכמות של למעלה מ־100% אין ספק שמדובר בטעות.
+
+בסיכומו של דבר, יצרנים רבים שולחים לנו תמונות ונתונים על המוצרים שלהם באמצעות הפלטפורמה ליצרנים. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## מי משתמש בנתוני Open Food Facts?
+## I am a food product manufacturer, can I add my own products?
 
-ייקח
-יותר מדי זמן לפרט את כל הארגונים שמסתמכים על פלטפורמת Open Food Facts
-.
+כן! התנאי היחידי הוא לאשר שהנתונים והתמונות יהיו זמינים תחת רישיון פתוח. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-- יותר מ-100 אפליקציות מובייל
-  עונות על צרכים של קהלים רבים: סוכרת (VeryDiab), אלרגיות, איזון מזון
-  באמצעות בינה מלאכותית (FoodVisor), מוגבלויות ועוד. מסד הנתונים
-  שלנו אפשר גם את יצירתה של יוקה.
-- הרבה אתרים: CombienDeSucres.fr,
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. היא תאפשר לך לייבא נתונים מלאים ועדכניים לצד מיצגים חזותיים ל־Open Food Facts שיופיעו בפני למעלה מ־100 יישומוני תזונה נוספים. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
+
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
+
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- עיתוני נתונים : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- חוקרים בכמעט 100 מאמרים מדעיים
-- בנקי מזון וחנויות סולידריות: פרויקט
-  של Data For Good בהמשך לפרויקט פיילוט שיזם
-  הצלב האדום הצרפתי, שילוב בניהול המזומנים של קואופרטיב מזון קטן
-  .
-- חברות: Terraillon משתמשת בנתונים שלנו
-  כדי להפיח חיים במשקלים המקושרים שלה.
-- בתי ספר לתכנות (Simplon, Open
-  Classrooms) שילבו את Open Food Facts כפרויקט מוטיבציה בתוכנית הלימודים
-  שלהם.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## איך אני יכול/ה לתמוך ב-Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts היא עמותה ללא מטרות רווח משנת 1901. אתם יכולים לעזור לנו על ידי [השתתפות בפרויקט](https://fr-en.openfoodfacts.org/contribute) ועל ידי תמיכה כלכלית בנו באמצעות [תרומות](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% השתתפות עצמית) וגם על ידי שימוש במנוע החיפוש Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**תודה רבה
-לך!**
+**Thank
+you very much!**
 
 ---
 
-## אני לא מוצא את התשובה לשאלתי
+## I can't find the answer to my question
 
-אם אינך מוצא/ת תשובה לשאלתך/שאלותיך, אל תהסס/י ליצור איתנו קשר באמצעות:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- הסלאק שלנו: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- הפורום שלנו: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
