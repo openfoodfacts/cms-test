@@ -1,31 +1,31 @@
 ---
-title: "{{< fa garaaca wadnaha cabbirka = 2x >}} Dhibcaha Nutri-Score"
-description: "3 su'aalood"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: garaaca wadnaha
+icon: heartbeat
 ---
 
-{{< fa "garaaca wadnaha" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Maxaan sameeyaa haddii Nutri-Score ee alaabtaydu aanay sax ahayn?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Haddii ay dhibaato ka timaado Nutri-Score-kaaga, hubi in macluumaadkaagu sax yahay oo ku qoran tabka "wax ka beddel" ee xaashida alaabtaada. Haddii macluumaad maqan yahay ama khaldan yahay, ha ka waaban inaad nagala soo xiriirto\*\* producers@openfoodfacts.org\*\*
-
----
-
-## Nooc noocee ah macluumaadka ayaan bixin karaa si Nutri-Score loo xisaabiyo sida ugu saxsan ee suurtogalka ah?
-
-Xisaabinta Nutri-Score waxaa lagu sameyn doonaa miiska nafaqada ee badeecadaada.
-
-Ha iloobin inaad ku darto boqolleyda miraha, khudaarta iyo lawska miiskaaga, si Nutri-Score-ka la xisaabiyay uusan u qalmin.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Xaggee ayuu Nutri-Score ka yimaadaa?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Dhibcaha Nutri-Score waxaa maamula Santé Publique France. Waxay soo koobaysaa shaxda qiimaha nafaqada si qof walba u fahmo. Hadafku waa in la helo macluumaad nafaqo oo cad oo la fahmi karo oo qof walba heli karo.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
