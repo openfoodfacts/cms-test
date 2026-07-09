@@ -1,31 +1,31 @@
 ---
 title: "{{< fa heartbeat size=2x >}} Nutri-Score"
-description: "3 pitanja"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: otkucaji srca
+icon: heartbeat
 ---
 
-{{< fa "otkucaji srca" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Šta trebam učiniti ako Nutri-Score mojih proizvoda nije tačan?
+## What should I do if the Nutri-Score of my products is not correct?
 
-U slučaju problema s vašim Nutri-Scoreom, provjerite jesu li vaši podaci tačni na kartici „izmijeni“ na vašem listu proizvoda. Ako bilo koja informacija nedostaje ili je netačna, slobodno nas kontaktirajte na **producers@openfoodfacts.org**
-
----
-
-## Koje vrste informacija trebam pružiti kako bi se Nutri-Score izračunao što je moguće preciznije?
-
-Izračunavanje Nutri-Score-a će se izvršiti pomoću nutritivne tabele vašeg proizvoda.
-
-Ne zaboravite da u tabelu uključite procenat voća, povrća i orašastih plodova, kako izračunati Nutri-Score ne bi bio netačan.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Odakle dolazi Nutri-Score?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score upravlja Santé Publique France. Sažima tabelu nutritivnih vrijednosti tako da je svi mogu razumjeti. Cilj je omogućiti pristup jasnim i razumljivim informacijama o nutritivnoj vrijednosti za sve.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
