@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Wɔn a wɔyɛ nneɛma"
-description: "6 akuw nketewa"
-lang: tw-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: mfididwuma
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: nhyehyɛeɛ
+  type: grid
   grid-columns: 4
-  sort: "kra"
-  fields: [ atiti asɛm, description ]
-  page-size: 100 na ɛwɔ hɔ
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "mfididwuma" size="3x na ɛyɛ" >}}
+{{< fa "industry" size=3x >}}
 
