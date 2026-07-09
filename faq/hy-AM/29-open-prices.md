@@ -1,31 +1,31 @@
 ---
-title: "{{< fa դոլարի չափս=2x >}} Բացման գներ"
-description: "3 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: դոլար
+icon: dollar
 ---
 
-{{< fa "դոլար" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ես մանրածախ վաճառող եմ և ուզում եմ ներդրում ունենալ գների հարցում։ Ինչպե՞ս կարող եմ դա անել։
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Դուք կարող եք գներ ավելացնել՝ օգտագործելով [մեր API](https://prices.openfoodfacts.org/api/docs): Եթե ցանկանում եք մասշտաբային գներ առաջարկել, խնդրում ենք կապվել մեզ հետ՝ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org):
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Դուք մտածո՞ւմ եք մանրածախ առևտրականների կայքերից գներ քաղելու մասին։
+## Do you consider scraping prices from retailers’ websites?
 
-Իրավական և տեխնիկական պատճառներով, մենք չենք համարում մանրածախ առևտրականների կայքերից գների քաղվածքը որպես բաց գներին նպաստելու վավեր միջոց։ Մենք ուզում ենք համոզվել, որ մեր կողմից հավաքագրված գները ճշգրիտ և արդիական են, և մասնակիցներից ստացված գների վերծանումները մեզ թույլ չեն տալիս դա անել։
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Ինչո՞ւ է Open Food Facts-ը սա անում (Open Prices):
+## Why is Open Food Facts doing this (Open Prices)?
 
-Գնային տեղեկատվությունը չափազանց կարևոր է սննդի համակարգերը հասկանալու համար։ Դա սննդի արժեքը հասկանալու և առողջ սննդակարգը խթանելու հիմնական գործոն է։ Բաց գնային տվյալները հետազոտողների, լրագրողների և քաղաքացիների համար ավելի հեշտ է պատկերացում կազմել, թե ինչպես են սննդամթերքի գները տարբերվում աշխարհագրական և ժամանակի ընթացքում։
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
