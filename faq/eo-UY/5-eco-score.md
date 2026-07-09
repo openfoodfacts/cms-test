@@ -1,55 +1,55 @@
 ---
-title: "{{< fa uzanto-plus grandeco=2x >}} Eko-Poentaro"
-description: "5 demandoj"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: uzanto-plus
+icon: user-plus
 ---
 
-{{< fa "uzanto-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Kio estas la metodologio Eco-Score?
+## What is the Eco-Score methodology?
 
-La Eko-Poentaro baziĝas sur la kalkulo de la vivcikla analizo produktita de ADEME (la agentejo pri ekologia transiro) kaj INRAE (la nacia instituto por agronoma esplorado). Ĉirkaŭ dek kvin komponantoj estas kalkulitaj kaj ligitaj por krei la PEF-poentaron.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Al ĉi tiu PEF-poentaro aldoniĝas gratifikoj kaj malbonoj (produktadmaniero, origino de
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingrediencoj, endanĝerigitaj specioj, pakaĵoj) por kalkuli la Eko-Poentaron.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Por pliaj informoj, vidu la resuman paĝon [[https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) ĉe Open Food Facts kaj ankaŭ en la retejo de la konsorcio Eco-Score. (Prezento de Eco-Score [[https://docs.score-environnemental.com/](https://docs.score-environmental.com/))
-
----
-
-## Kiajn informojn oni devas doni por ke la Eko-Poentaro estu kalkulita kiel eble plej precize?
-
-Por ke la Eko-Poentaro estu kalkulita precize, oni devas specifi la procenton de ĉiu ingredienco kaj ĝian devenon.
-
-Se ĉi tiu informo ne jam estas specifita en la listo de ingrediencoj, vi povas aldoni kolumnon por mencii ĝin, kun la jena formato:
-
-Tritika faruno 16% (Francio)
-
-Ĉokolado 8% (Eburbordo, Ekvadoro)
-
-Ni bezonas ankaŭ la komponantojn de la pakaĵo en la formo de: 1 plasta folio por forĵeti, 1 FSC-kartona skatolo por recikli, 6 PET-travideblaj plastaj boteloj de 1,5 L por recikli, 6 opakaj koloraj plastaj ĉapoj, 12 plastaj ladskatoloj de 33 cl (aluminiaj).
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Kiel estas kombinitaj la valoroj de la 15 indikiloj?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Por pli bone kompreni la PEF-sistemon, vi povas legi: klarigon pri la PEF-poentaro en la metodika retejo Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Ĉu la loka aspekto koncernas la lokon de fabrikado aŭ la devenlokon de la krudmaterialoj?
+## How are the values ​​of the 15 indicators combined?
 
-**La loka aspekto koncernas la devenon de la krudmaterialoj.** Tial gravas enigi iliajn procentojn kaj ankaŭ iliajn originojn en la listo de produktaj ingrediencoj aŭ en la kampo dediĉita al la originoj de ingrediencoj.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Kiel enigi la originojn de ingrediencoj por la eko-poentaro?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Se vi deziras kunhavigi la informojn pri la deveno de la krudmaterialoj sur viaj folioj, ni invitas vin inkluzivi ilin en la listo de ingrediencoj.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
