@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} บรรจุภัณฑ์"
-description: "3 คำถาม"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: ลูกบาศก์
+icon: cube
 ---
 
-{{< fa "ลูกบาศก์" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## ฉันจะเพิ่มข้อมูลบรรจุภัณฑ์ของฉันลงใน Open Food Facts ได้อย่างไร?
+## How can I add my packaging data to Open Food Facts?
 
-ในฐานะผู้ผลิต วิธีที่มีประสิทธิภาพที่สุดในการเพิ่มข้อมูลบรรจุภัณฑ์ให้กับผลิตภัณฑ์ของคุณคือการกรอกข้อมูลที่จำเป็นลงใน [สเปรดชีต Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) โดยเริ่มจากคอลัมน์ "AU"
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-สำหรับส่วนประกอบบรรจุภัณฑ์แต่ละชิ้น คุณจะต้องป้อนข้อมูลดังต่อไปนี้:
+For each packaging component, you will need to enter:
 
-- จำนวนหน่วย (เช่น โยเกิร์ต 4 ถ้วย)
+- The number of units (ex: **4** pots of yogurts)
 
-- รูปทรง (เช่น **หม้อ ฝา กล่อง ฯลฯ**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- วัสดุ (เช่น **PET, กระดาษ, แก้ว ฯลฯ**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- คำแนะนำในการรีไซเคิล (เช่น **สำหรับรีไซเคิล, สำหรับทิ้ง, เป็นต้น**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- น้ำหนักของหน่วยเปล่า 1 หน่วย (หน่วยเป็นกรัม)
+- The weight of one empty unit (in gr)
 
-- ปริมาณสุทธิของผลิตภัณฑ์ที่บรรจุต่อหน่วย
+- The net quantity of product contained per unit
 
-จากนั้นคุณสามารถนำเข้าสเปรดชีตนี้เข้าสู่แพลตฟอร์มของเราซึ่งออกแบบมาสำหรับมืออาชีพโดยเฉพาะ
-
----
-
-## โครงการแก้ไขปัญหาบรรจุภัณฑ์อาหารคืออะไร?
-
-โครงการ "การแก้ไขปัญหาบรรจุภัณฑ์อาหาร" ประกอบด้วยการรวบรวมข้อมูลโดยละเอียดเกี่ยวกับบรรจุภัณฑ์ของผลิตภัณฑ์ที่บริโภคมากที่สุด (รูปทรง วัสดุ คำแนะนำในการคัดแยก น้ำหนัก ปริมาตร)
-
-โครงการนี้ใช้แนวทางวิทยาศาสตร์แบบมีส่วนร่วม โดยจะอาศัยทั้งความยินยอมของบริษัทในการแบ่งปันข้อมูลบรรจุภัณฑ์และการปฏิบัติตามหลักความโปร่งใส รวมถึงการยินยอมของประชาชนในการเก็บรวบรวมข้อมูลเกี่ยวกับผลิตภัณฑ์ ข้อมูลนี้สามารถนำไปใช้ซ้ำได้อย่างเสรี ("ข้อมูลเปิด")
-
-**สำหรับข้อมูลเพิ่มเติม:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## แม้โครงการแก้ไขปัญหาบรรจุภัณฑ์อาหารจะสิ้นสุดลงแล้ว ฉันยังสามารถเพิ่มข้อมูลบรรจุภัณฑ์ของฉันได้หรือไม่?
+## What is the Tackling Food Packaging project?
 
-แม้โครงการจะสิ้นสุดลงแล้ว ก็ยังสามารถเพิ่มข้อมูลบรรจุภัณฑ์ได้ เนื่องจากช่องข้อมูลบรรจุภัณฑ์จะยังคงอยู่ในเว็บไซต์ของเรา
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
