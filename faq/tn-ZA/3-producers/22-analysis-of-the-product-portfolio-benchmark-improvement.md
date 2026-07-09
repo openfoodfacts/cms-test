@@ -1,25 +1,25 @@
 ---
-title: "{{< bogolo jwa bara ya tšhate=2x >}} Tshekatsheko ya photefolio ya dikumo (tekanyetso, tokafatso...)"
-description: "potso e le 1"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: bara ya tšhate
+icon: chart-bar
 ---
 
-{{< fa "bara ya tšhate" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Tsela ya go fitlhelela kgakololo ya go tlhama sešwa go tokafatsa Nutri-Score ya ditlhagiswa tsa me?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Fa o le mo tsebeng ya gae ya Polatefomo ya Batlhagisi:
+When you are on the home page of the Producers Platform:
 
-1. tobetsa kgokagano "→ Palo ya dikumo tse di nang le ditšhono tsa go tokafatsa" kwa godimo ga tsebe.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. o ka leba ditšhono tsotlhe tse di bonweng ke tsamaiso ya rona go tokafatsa dikumo tsa gago
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. go tobetsa mofuta wa tshono go tla go isa kwa lenaaneng la dikumo tse di ka tokafadiwang.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Go bona dintlha tse dingwe, re go laletsa go laisolola [kaedi ya rona ya modirisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kgotsa go leba [dithuto tsa rona tsa bidio](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
