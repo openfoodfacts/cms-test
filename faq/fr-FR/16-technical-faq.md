@@ -1,5 +1,5 @@
 ---
-title: "{{< fa brands github size=2x >}} Technical FAQ"
+title: "{{< fa brands github size=2x >}} FAQ technique"
 description: "1 question"
 lang: en-gb
 order: 16
@@ -9,15 +9,15 @@ icon: brands github
 
 {{< fa "marques" "github" size=3x >}}
 
-## Should I update all language files when I change a source string?
+## Dois-je mettre à jour tous les fichiers de langue lorsque je modifie une chaîne source ?
 
-No you don't. You just need to update the English one
+Non, ce n'est pas nécessaire. Vous avez seulement besoin de mettre à jour la version anglaise
 
-- Create your PR
+- Créer votre PR
 
-Once it's merged, we will rebase crowdin-trigger manually and the Crowdin translation system triggerd by GitHub Actions will do the rest for other languages.
+Une fois fusionnée, nous effectuerons un rebase manuel de crowdin-trigger et le système de traduction Crowdin, déclenché par GitHub Actions, fera le reste pour les autres langues.
 
-GitHub bot then creates a new PR automatically that we then review.
+Le bot GitHub crée ensuite automatiquement une nouvelle PR que nous examinons.
 
 ---
 
