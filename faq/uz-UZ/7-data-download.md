@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Ma'lumotlarni yuklab olish"
-description: "1 ta savol"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: bulutli yuklab olish
+icon: cloud-download
 ---
 
-{{< fa "bulutli yuklab olish" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Muayyan mamlakat uchun ma'lumotlarni qaerdan olish mumkin?
+## Where to get the data for a specific country?
 
-Hozirda ma'lum mamlakatlarga eksport qilish yo'q.
+Currently, there are no exports dedicated to specific countries.
 
-Muayyan mamlakatga tegishli ma'lumotlarni tanlash uchun turli xil eksportlarimizdan turli xil vositalar bilan birgalikda foydalanishning ko'plab usullari mavjud.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Siz [ushbu texnikalarning ba'zilari bizning vikida](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) bilan tanishishingiz mumkin.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
