@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Falanqaynta faylalka alaabta (qiimaha, horumarinta...)"
-description: "1 su'aal"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: shaxda-baarka
+icon: chart-bar
 ---
 
-{{< fa "shaxda-baarka" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Sidee loo heli karaa talada dib-u-habaynta si loo hagaajiyo Nutri-Score ee alaabtayda?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Markaad ku jirto bogga hore ee Madasha Soo-saareyaasha:
+When you are on the home page of the Producers Platform:
 
-1. Guji xiriirka "→ Tirada alaabta leh fursadaha horumarinta" ee ku yaal xagga sare ee bogga.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. waxaad la tashan kartaa dhammaan fursadaha uu ogaaday nidaamkeenu si aad u horumariso alaabtaada
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Gujinta nooc ka mid ah fursadda ayaa ku geyn doonta liiska alaabada la hagaajin karo.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Wixii faahfaahin dheeraad ah, waxaan kugu martiqaadeynaa inaad soo dejiso [hagaha isticmaalaha](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) iyo/ama la tasho [casharradeenna fiidiyowga](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
