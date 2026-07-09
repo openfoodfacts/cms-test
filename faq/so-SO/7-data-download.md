@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Soo dejinta xogta"
-description: "1 su'aal"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: daruur-soo dejiso
+icon: cloud-download
 ---
 
-{{< fa "daruur-soo dejiso" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Xaggee laga helaa xogta waddan gaar ah?
+## Where to get the data for a specific country?
 
-Waqtigan xaadirka ah, ma jiraan wax dhoofin ah oo loo qoondeeyay dalal gaar ah.
+Currently, there are no exports dedicated to specific countries.
 
-Waxaa jira siyaabo badan oo loo isticmaalo dhoofintayada kala duwan oo ay weheliso qalab kala duwan si loo doorto xogta la xiriirta waddan gaar ah.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Waxaad ka eegi kartaa [qaar ka mid ah farsamooyinkan wiki-gayaga](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
