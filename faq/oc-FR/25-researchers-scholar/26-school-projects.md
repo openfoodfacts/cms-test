@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Projèctes escolars"
+title: "{{< fa file-o size=2x >}} School projects"
 description: "2 questions"
-lang: es-gb
+lang: en-gb
 order: 26
 category-level: 1
-icon: fichièr-o
+icon: file-o
 ---
 
-{{< fa "fichièr-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ai un projècte escolar a far, vòli utilizar las donadas d'Open Food Facts, o pòdi far?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, es una basa de donadas dobèrta, un projècte dobèrt qu'opera jos una licéncia ODbL, doncas tant que sètz d'acòrdi amb los requisits de la licéncia ODbL, sètz planvenguts a tornar utilizar nòstras donadas per vòstres projèctes :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Cossí pòdi accedir/culhir de donadas per mos projèctes ?
+## How can I access/collect data for my projects ?
 
-Sus la pagina principala d'Open Food Facts, dins lo canton naut esquèrre de l'ecran, i a un menut de desfilament. En bas, trobaretz l'opcion "recèrca avançada", sus la quala podètz picar. Es alara a vos de determinar quines critèris son los mai pertinents per vòstre(s) projècte(s). Un còp causit, poiretz telecargar los resultats obtenguts en desfilant cap aval en bas de la pagina e en clicant sus “Telecargar los resultats”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
