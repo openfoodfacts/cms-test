@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} 오픈 가격"
-description: "3개의 질문"
-lang: 영어-영국
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: 달러
+icon: dollar
 ---
 
-{{< fa "달러" size=3배 >}}
+{{< fa "dollar" size=3x >}}
 
-## 저는 소매업자이고 가격 정보를 제공하고 싶습니다. 어떻게 하면 그렇게 할 수 있을까요?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-[저희 API](https://prices.openfoodfacts.org/api/docs)를 사용하여 가격을 제공하실 수 있습니다. 대량으로 가격 정보를 제공하고 싶으시다면 [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org)로 연락주세요.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## 소매업체 웹사이트에서 가격 정보를 추출하는 것을 고려하고 계신가요?
+## Do you consider scraping prices from retailers’ websites?
 
-법적 및 기술적 이유로, 소매업체 웹사이트에서 가격 정보를 수집하는 것은 오픈 프라이스에 기여하는 유효한 방법으로 간주하지 않습니다. 저희는 수집하는 가격 정보가 정확하고 최신 상태인지 확인하고 싶습니다. 그런데 기여자로부터 스크랩된 가격 정보를 받는 방식으로는 그렇게 할 수 없습니다.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Open Prices의 향후 버전에서는 가격 스크래핑을 고려한 옵션이지만, HTML 페이지를 기반으로 가격 증명을 얻을 수 있도록 Open Prices에서 직접 수행할 것입니다.
 
 ---
 
-## Open Food Facts는 왜 이런 방식(가격 공개)을 사용하는 걸까요?
+## Why is Open Food Facts doing this (Open Prices)?
 
-가격 정보는 식품 시스템을 이해하는 데 매우 중요합니다. 이는 식품 비용을 이해하고 더 건강한 식단을 장려하는 데 중요한 요소입니다. 개장 가격 데이터는 연구자, 언론인, 그리고 일반 시민들이 식품 가격이 지역별로, 그리고 시간에 따라 어떻게 변동하는지 더 잘 이해할 수 있도록 돕는 방법입니다.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
