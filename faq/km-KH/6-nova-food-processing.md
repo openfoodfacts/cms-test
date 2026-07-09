@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / ការកែច្នៃអាហារ"
-description: "សំណួរ ១"
-lang: អង់គ្លេស-ជីកាបៃ
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: ដប
+icon: flask
 ---
 
-{{< fa "ដប" size=៣ដង >}}
+{{< fa "flask" size=3x >}}
 
-## តើ NOVA ជាអ្វី?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
