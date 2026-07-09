@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Vula Minxavo"
-description: "Swivutiso swa 3"
-lang: ts-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dolara
+icon: dollar
 ---
 
-{{< fa "dolara" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ndzi muxavisi naswona ndzi lava ku hoxa xandla eka minxavo. Xana ndzi nga swi endlisa ku yini sweswo?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-U nga hoxa xandla eka minxavo hi ku tirhisa [API ya hina](https://prices.openfoodfacts.org/api/docs). Loko u lava ku hoxa xandla eka minxavo hi xikalo, hi kombela u tihlanganisa na hina eka [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Xana u anakanya hi ku khwaxa minxavo eka tiwebsite ta vaxavisi?
+## Do you consider scraping prices from retailers’ websites?
 
-Hikwalaho ka swivangelo swa nawu na swa xithekiniki, a hi teki ku khwaxa minxavo eka tiwebsite ta vaxavisi tanihi ndlela leyi faneleke yo hoxa xandla eka Minxavo leyi Pfulekeke. Hi lava ku tiyisisa leswaku minxavo leyi hi yi hlengeletaka yi lulamile naswona yi le ka nkarhi wa sweswi, naswona ku amukela minxavo leyi khwaxiweke eka vahoxi va xandla a swi hi pfumeleli ku endla sweswo.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Ha yini Open Food Facts yi endla leswi (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Rungula ra nxavo i ra nkoka swinene ku twisisa maendlelo ya swakudya. I nchumu wa nkoka eka ku twisisa ntsengo wa swakudya na ku tlakusa swakudya leswi nga na rihanyo. Ku pfula datha ya minxavo i ndlela yo olovisela valavisisi, vateki va mahungu, na vaaki ku va na ku twisisa ko antswa ka ndlela leyi minxavo ya swakudya yi hambanaka ha yona hi ku ya hi ntivo-misava na hi nkarhi.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
