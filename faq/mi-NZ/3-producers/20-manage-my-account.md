@@ -1,6 +1,6 @@
 ---
-title: "{{< rahi kaiwhakamahi fa=2x >}} Whakahaerehia taku pūkete"
-description: "3 ngā pātai"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Ka taea te hono i ngā pūkete Open Food Facts maha ki tētahi kamupene kotahi?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Āe, tēnā īmēra mai ki [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), kia taea ai e tātou te hono i ngā pūkete katoa ki te kamupene kotahi.
-
----
-
-## Me pēhea te huri i taku pūkete Open Food Facts hei pūkete Pro?
-
-Ka taea e koe te uru atu ki te [pūhara Pro](https://world.pro.openfoodfacts.org/) mā te whakamahi i ngā taipitopito tuakiri o tō pūkete o nāianei.
-
-Mena he tohunga koe, me whakamahi koe i tō wāhitau īmēra ngaio kia taea ai e mātou te manatoko i tō pūkete.
-
-→ Mō ētahi atu kōrero, ka tono atu mātou kia tikiake koe i tā mātou [aratohu kaiwhakamahi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) me/ranei tirohia ā mātou [akoranga ataata](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Kei hea ahau e kite ai i ngā tuhinga hei āwhina i ahau ki te whakamahi i te tūāpapa Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-He iti noa ngā rauemi hei āwhina i a koe ki te whakamahi pai i te tūāpapa Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Nau mai haere mai ki:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- tirohia tā mātou [aratohu kaiwhakamahi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - ka tono atu mātou kia tangohia e koe te PDF kia taea ai te pāwhiri i ngā hononga, kia māmā ake ai tō whakatere i roto i te tuhinga.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- tirohia ā mātou [akoranga ataata](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- Tukuna mai ō whakaaro, ō whakaaro rānei mā [tēnei puka](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Whakaritea he waea ki a Manon, tō mātou kaiwhakahaere hononga mahi tahi, mēnā he pātai anō āu: [konei](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Whakapā mai mā te īmēra: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
