@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Proġetti tal-iskola"
-description: "2 mistoqsijiet"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: fajl-o
+icon: file-o
 ---
 
-{{< fa "fajl-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Għandi proġett tal-iskola x'nagħmel, nixtieq nuża d-dejta ta' Open Food Facts, nista' nagħmel dan?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, hija database miftuħa, proġett miftuħ li qed jopera taħt liċenzja ODbL, għalhekk sakemm taqbel mar-rekwiżiti tal-liċenzja ODbL, int mistieden terġa' tuża d-dejta tagħna għall-proġetti tiegħek :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Kif nista' naċċessa/niġbor id-dejta għall-proġetti tiegħi?
+## How can I access/collect data for my projects ?
 
-Fil-paġna ewlenija ta' Open Food Facts, fir-rokna ta' fuq tax-xellug tal-iskrin, hemm menu li jiskrollja. Fil-qiegħ tagħha, issib l-għażla “tfittxija avvanzata”, li tista’ tikklikkja fuqha. Imbagħad f'idejk li tiddetermina liema kriterji huma l-aktar rilevanti għall-proġett(i) tiegħek. Ladarba tagħżel, tkun tista' tniżżel ir-riżultati miksuba billi tiskrollja 'l isfel fil-qiegħ tal-paġna u tikklikkja fuq "Niżżel ir-riżultati".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
