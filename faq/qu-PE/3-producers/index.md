@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industria sayay=2x >}} Ruwaqkuna"
-description: "6 huch’uy t’aqakuna"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industria
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: tawa kuchusqa
+  type: grid
   grid-columns: 4
-  sort: "ñiqinchay"
-  fields: [ suti, description ]
-  page-size: 100. 100
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "industria" size=3x >}}
+{{< fa "industry" size=3x >}}
 
