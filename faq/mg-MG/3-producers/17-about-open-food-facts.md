@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Momba ny Open Food Facts"
-description: "Fanontaniana 4"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: faribolana fampahalalana
+icon: info-circle
 ---
 
-{{< fa "faribolana fampahalalana" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Karazana fampahalalana inona no tokony hozaraina?
+## What type of information should be shared?
 
-Raisina an-tanan-droa izay fampahalalana rehetra anananao, manomboka amin'ny fampahalalana momba ny sakafo ka hatramin'ny fampahalalana momba ny fonosana.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Izany dia ahafahana mametraka rakitra feno, ahafahana manisa ny isa rehetra amin'ny fomba marina tsara ary amin'ny ankapobeny dia mangarahara izay ankasitrahan'ny mpanjifa.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Na izany aza dia manoro hevitra anao izahay mba hanome laharam-pahamehana ireto saha manaraka ireto:
+However we do recommend you prioritize the following fields:
 
-- Fampahalalana momba ny sakafo
-
-- Sokajy vokatra (oh: zava-pisotro, fromazy, yaourt, sns.)
-
-- Anaran'ny vokatra
-
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
 - Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- ary ireo akora, ity saha ity dia tsy voatery ho fenoina fa atolotra mba hampiasaina tsara indrindra sy hamaritana ny isa.
-
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Afaka misintona ny angon-drakitra avy amin'ny Open Food Facts ve aho?
-
-Azonao alaina ao amin'ny Open Food Facts avokoa ny angon-drakitra rehetra. Mitandrema fa mitaky toerana malalaka amin'ny kapila mafy izany, solosaina matanjaka raha te hampiasa takelaka kajy na fahalalana R na Python ianao raha tsy izany.
-
-Azonao atao ihany koa ny misintona ampahany amin'ny angona (ny marikao ohatra) noho ny fikarohana mandroso.
-
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Maimaimpoana ve ny fidirana amin'ny sehatra Pro sy ny fanafarana angona?
+## Can I download Open Food Facts data?
 
-Eny tokoa, ary ho mandrakizay izany.Maimaimpoana avokoa ny tolotra rehetra atolotry ny Open Food Facts.  
-Faly be izahay fa nanapa-kevitra ny handray anjara amin'ny mangarahara ara-tsakafo ianao, ary misaotra anao izahay noho izany.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Te-hanoro hevitra fanatsarana ny sehatra matihanina aho, ahoana no ahafahako manao izany?
+## Is access to the Pro platform and the import of data free?
 
-Misaotra anao noho ny fahavononanao handray anjara amin'ny mangarahara ara-tsakafo!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ny fomba tsara indrindra hizarana ny valin-teny dia ny famenoana ity [taratasy ity](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Azonao atao ihany koa ny mifandray aminay mba hanome soso-kevitra na amin'ny alàlan'ny [forum-nay](https://forum.openfoodfacts.org/) na amin'ny alàlan'ny [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Midira ao amin'ny Slack-nay ary midira ao amin'ny fantsona #producers mba hifandraisana aminay.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
