@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Enklaskerion/Skolaer"
-description: "1 isrummad"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: talbenn-diplom
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: kael
+  type: grid
   grid-columns: 4
-  sort: "urzhiañ"
-  fields: [ titl, deskrivadur ]
+  sort: "order"
+  fields: [ title, deskrivadur ]
   page-size: 100
 ---
 
-{{< fa "talbenn-diplom" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
