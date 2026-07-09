@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Cercetători/Savanți"
-description: "1 subcategorie"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: toc de absolvire
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: grilă
+  type: grid
   grid-columns: 4
-  sort: "comanda"
-  fields: [ titlu, descriere ]
+  sort: "order"
+  fields: [ title, descriere ]
   page-size: 100
 ---
 
-{{< fa "toc de absolvire" size="de 3 ori" >}}
+{{< fa "graduation-cap" size=3x >}}
 
