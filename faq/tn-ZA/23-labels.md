@@ -1,23 +1,23 @@
 ---
-title: "{{< bogolo jwa letshwaotsebe la fa=2x >}} Dileibole"
-description: "Dipotso di le 2"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: letshwaotsebe
+icon: bookmark
 ---
 
-{{< fa "letshwaotsebe" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Jaaka leibole, a go botlhokwa go tlhama akhaonto ?
+## As a label, is it important to create an account ?
 
-Jaaka leibole, ka o se motlhagisi yo o tlhamaletseng wa ditlhagiswa, ga o tlhoke go tlhama akhaonto ya motlhagisi.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ke leibole, nka tsaya karolo jang mo porojekeng?
+## I am a label, how can I participate in the project?
 
-Jaaka leibole selo se se maleba thata go se dira ke go ikgolaganya le rona **(producers@openfoodfacts.org)** mme o re romelele lenaane la ditlhagiswa tse leibole ya gago e bontshiwang mo go tsona gore re kgone go di tsenya mo dipampiring tsa dikumo tse di amanang le tsona.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
