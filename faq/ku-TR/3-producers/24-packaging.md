@@ -1,49 +1,49 @@
 ---
-title: "Pakêtkirin {{< mezinahiya kubê fa=2x >}}"
-description: "3 pirs"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kub
+icon: cube
 ---
 
-{{< fa "kub" size="3 caran" >}}
+{{< fa "cube" size=3x >}}
 
-## Ez çawa dikarim daneyên pakkirina xwe li Open Food Facts zêde bikim?
+## How can I add my packaging data to Open Food Facts?
 
-Wekî hilberînerek, rêya herî bibandor ji bo zêdekirina daneyên pakkirinê li berhemên we ew e ku hûn di vê [pelrêça excelê](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) de agahdariya pêwîst, ji stûna "AU" dagirin.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Ji bo her pêkhateya pakêtê, hûn hewce ne ku binivîsin:
+For each packaging component, you will need to enter:
 
-- Hejmara yekîneyan (mînak: **4** potên mast)
+- The number of units (ex: **4** pots of yogurts)
 
-- Şikl (mînak: **tencere, qapax, qutî, hwd.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materyal (mînak: **PET, kaxez, cam, hwd.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Talîmatên ji nû ve bikaranînê (mînak: **ji nû ve bikaranîn, avêtin, hwd.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Giraniya yekîneyeke vala (bi gr)
+- The weight of one empty unit (in gr)
 
-- Mîqdara net a hilberê ku di her yekîneyê de heye
+- The net quantity of product contained per unit
 
-Ev tabloya hesaban dûv re dikare were hinartin nav platforma me ya ji bo pisporan hatî veqetandin.
-
----
-
-## Projeya Tackling Food Packaging çi ye?
-
-Projeya "Tackling Food Packaging" ji berhevkirina agahiyên berfireh li ser pakkirina berhemên herî zêde tên bikaranîn (şekil, materyal, rêwerzên rêzkirinê, giranî, kapasîte) pêk tê.
-
-Li ser bingeha nêzîkatiyek zanista beşdar, ew ê hem bi razîbûna şîrketan ku daneyên pakêta xwe parve bikin û lîstika şefafiyetê bilîzin, û hem jî bi destûrdayîna welatiyan ku agahdariya li ser hilberan berhev bikin ve girêdayî be. Ev agahî dê bi awayekî azad ji nû ve were bikaranîn ("daneyên vekirî").
-
-**Ji bo bêtir agahdarî:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Tewra piştî bidawîbûna projeya Tackling Food Packaging jî, ez hîn jî dikarim daneyên pakkirina xwe lê zêde bikim?
+## What is the Tackling Food Packaging project?
 
-Tewra piştî bidawîbûna projeyê jî, mimkun e ku daneyên pakkirinê werin zêdekirin ji ber ku qadên pakkirinê dê li ser malpera me bimînin.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
