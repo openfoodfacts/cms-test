@@ -1,25 +1,25 @@
 ---
-title: "{{< fa usayizi webhasikidi wekutsenga=2x >}} Imibuto mayelana nemkhicito"
-description: "1 umbuto"
-lang: si-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: ibhasikidi yekutsenga
+icon: shopping-basket
 ---
 
-{{< fa "ibhasikidi yekutsenga" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Nginembuto / sicelo mayelana nemkhicito
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) yindzawo yekubambisana leyakhiwe futsi yaphakelwa batsengisi kute bakhone kucondza emalebuli kanye nekucatsanisa imikhicito.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Kute utfole lwati lolubanti ngemkhicito nobe sicelo, bhalela umkhiciti. Asinalo lwati lwekuchumana nebakhiciti kepha bavame kakhulu emaphaketheni.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Nangabe ufuna kusisita kutsi siletse kucaca lokunyenti kubatsengi labafana nawe nobe tsine, ungasebentisa luhlelo lwetfu lwe-iPhone nobe lwe-Android kwengeta imikhicito: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Futsi kute ucoce ngalephrojekthi, ungajoyina licembu le-Facebook lebantfu labafaka sandla: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/emacembu/openfoodfacts/) noma ucoce nalabanye labafaka sandla ku-Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
-(https://slack.openfoodfacts.org/)
+[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
 ---
 
