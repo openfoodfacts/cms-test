@@ -1,23 +1,23 @@
 ---
-title: "{{< памер закладкі fa=2x >}} Пазнакі"
-description: "2 пытанні"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: закладка
+icon: bookmark
 ---
 
-{{< fa "закладка" size="3 разы" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ці важна для лэйбла стварыць уліковы запіс?
+## As a label, is it important to create an account ?
 
-Паколькі вы не з'яўляецеся непасрэдным вытворцам прадукцыі, вам не трэба ствараць уліковы запіс вытворцы.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Я лэйбл, як я магу ўдзельнічаць у праекце?
+## I am a label, how can I participate in the project?
 
-Калі вы зацікаўлены ў этыкетцы, найлепшым рашэннем будзе звязацца з намі па адрасе **(producers@openfoodfacts.org)** і даслаць нам спіс прадуктаў, на якіх размешчана ваша этыкетка, каб мы маглі дадаць іх у адпаведныя табліцы прадуктаў.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
