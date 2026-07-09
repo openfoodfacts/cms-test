@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Àwọn iṣẹ́ ilé-ẹ̀kọ́"
-description: "Àwọn ìbéèrè méjì"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: fáìlì-o
+icon: file-o
 ---
 
-{{< fa "fáìlì-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Mo ní iṣẹ́ ilé-ẹ̀kọ́ kan láti ṣe, mo fẹ́ lo ìwífún Open Food Facts, ṣé mo lè ṣe bẹ́ẹ̀?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, jẹ́ ibi ìpamọ́ dátà tí ó ṣí sílẹ̀, iṣẹ́ àgbékalẹ̀ tí ó ṣí sílẹ̀ tí ó ń ṣiṣẹ́ lábẹ́ ìwé àṣẹ ODbL, nítorí náà níwọ̀n ìgbà tí o bá gbà pẹ̀lú àwọn ohun tí ìwé àṣẹ ODbL béèrè, o lè tún lo dátà wa fún àwọn iṣẹ́ àgbékalẹ̀ rẹ :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Báwo ni mo ṣe le wọlé/kó àwọn dátà jọ fún àwọn iṣẹ́ àgbékalẹ̀ mi?
+## How can I access/collect data for my projects ?
 
-Ní ojú ìwé àkọ́kọ́ Open Food Facts, ní igun òsì òkè ti ìbòjú náà, àkójọ ìyípo kan wà. Ní ìsàlẹ̀ rẹ̀, ìwọ yóò rí àṣàyàn “ìwádìí tó ti ní ìlọsíwájú”, èyí tí o lè tẹ̀ lórí rẹ̀. Lẹ́yìn náà, ó kù sí ọwọ́ rẹ láti pinnu àwọn ìlànà tí ó ṣe pàtàkì jùlọ fún iṣẹ́(àwọn) iṣẹ́ rẹ. Nígbà tí o bá ti yan èyí, o lè gba àwọn àbájáde tí o rí nípa yíyí lọ sí ìsàlẹ̀ ojú ìwé náà kí o sì tẹ “Gbigba àwọn àbájáde” lórí ìkànnì ayélujára.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
