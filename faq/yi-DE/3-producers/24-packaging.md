@@ -1,49 +1,49 @@
 ---
-title: "{{< fa קוב גרייס=2x >}} פּאַקאַדזשינג"
-description: "3 פֿראַגעס"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: קוב
+icon: cube
 ---
 
-{{< fa "קוב" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## ווי קען איך צולייגן מײַנע פּאַקאַדזשינג דאַטן צו Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-אלס א פראדוצירער, דער עפעקטיווסטער וועג צו לייגן פאקעדזש דאטן צו אייערע פראדוקטן איז דורך אויספילן דעם [עקסעל ספּרעדשיט](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) די נויטיגע אינפארמאציע, פון קאלום "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-פֿאַר יעדן פּאַקאַדזשינג קאָמפּאָנענט, וועט איר דאַרפֿן צו אַרייַן:
+For each packaging component, you will need to enter:
 
-- די צאָל איינהייטן (למשל: **4** טעפּלעך יאָגורט)
+- The number of units (ex: **4** pots of yogurts)
 
-- די פֿאָרעם (למשל: **טאָפּ, דעקל, קעסטל, אאַז"וו**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- דאָס מאַטעריאַל (למשל: \*\*PET, פּאַפּיר, גלאָז, אאַז"וו)
+- The material (ex: **PET, paper, glass, etc**)
 
-- די ריסייקלינג אינסטרוקציע (למשל: **צו ריסייקלען, צו אוועקווארפן, א.א.וו.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- די וואָג פון איין ליידיקע איינהייט (אין גראַם)
+- The weight of one empty unit (in gr)
 
-- די נעץ קוואַנטיטעט פון פּראָדוקט קאַנטיינד פּער אַפּאַראַט
+- The net quantity of product contained per unit
 
-די ספּרעדשיט קען דעמאָלט ווערן אימפארטירט אין אונדזער פּלאַטפאָרמע געווידמעט פֿאַר פּראָפעסיאָנאַלן.
-
----
-
-## וואָס איז דער פּראָיעקט "טאַקלינג פוד פּאַקאַדזשינג"?
-
-דאס "באַקומען עסן פּאַקאַדזשינג" פּראָיעקט באַשטייט פון זאַמלען דעטאַלירטע אינפֿאָרמאַציע וועגן די פּאַקאַדזשינג פון די מערסט קאָנסומירטע פּראָדוקטן (פאָרעם, מאַטעריאַל, סאָרטינג אינסטרוקציעס, וואָג, קאַפּאַציטעט).
-
-באַזירט אויף אַ מיטטיילנעמענדיקן וויסנשאַפֿטלעכן צוגאַנג, וועט עס זיך פֿאַרלאָזן סיי אויף פֿירמעס וואָס וועלן מסכים זײַן צו טיילן זייערע פּאַקאַדזשינג דאַטן און צו שפּילן דאָס שפּיל פֿון טראַנספּאַרענץ, און סיי אויף בירגער וואָס וועלן דערלויבן די זאַמלונג פֿון אינפֿאָרמאַציע וועגן פּראָדוקטן. די אינפֿאָרמאַציע וועט זײַן פֿרײַ צו נוצן ווידער ("אָפֿענע דאַטן").
-
-פֿאַר מער אינפֿאָרמאַציע: [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## אפילו נאך'ן ענדע פונעם "טאַקלינג פוד פּאַקאַדזשינג" פּראָיעקט, קען איך נאָך צולייגן מײַנע פּאַקאַדזשינג דאַטן?
+## What is the Tackling Food Packaging project?
 
-אפילו נאך דעם ענדע פונעם פראיעקט, איז עס מעגלעך צו לייגן צו פאקאדזשינג דאטן ווייל די פאקאדזשינג פעלדער וועלן בלייבן אויף אונזער וועבזייטל.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
