@@ -1,5 +1,5 @@
 ---
-title: "{{< gwosè endistri fa=2x >}} Pwodiktè"
+title: "{{< fa industry size=2x >}} Pwodiktè"
 description: "6 sou-kategori"
 lang: en-gb
 order: 3
@@ -10,12 +10,12 @@ listing:
     - "*.md"
   include:
     category-level: 1
-  type: griy
+  type: grid
   grid-columns: 4
-  sort: "lòd"
-  fields: [ tit, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "endistri" size="3 fwa" >}}
+{{< fa "endistri" size=3x >}}
 
