@@ -1,25 +1,25 @@
 ---
-title: "{{< fa bogolo jwa seroto sa go reka=2x >}} Dipotso ka ga kumo"
-description: "potso e le 1"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: seroto sa go reka
+icon: shopping-basket
 ---
 
-{{< fa "seroto sa go reka" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ke na le potso / tleleimi ka kuno
+## I have a question / claim about a product
 
-(https://world.openfoodfacts.org/) ke lefelo la tirisanommogo le le tlhamilweng le go fepiwa ke bareki go kgona go tlhaloganya dileibole le go bapisa dikumo.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Go bona tshedimosetso e nngwe ka ga setlhagiswa kgotsa tleleimi, kwalela modiri. Ga re na tshedimosetso ya go ikgolaganya le batlhagisi mme gantsi di mo sephuthelwaneng.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Fa o batla go re thusa go tlisa ponatshegelo e ntsi mo bareking ba ba tshwanang le wena kgotsa rona, o ka dirisa tiriswa ya rona ya iPhone kgotsa Android go tsenya dikumo: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Mme go buisana ka porojeke, o ka nna leloko la setlhopha sa Facebook sa batsayakarolo: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/ditlhopha/dintlha tsa dijo tse di bulegileng/) kgotsa wa tlotla le batsayakarolo ba bangwe mo Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
-(https://slack.openfoodfacts.org/)
+[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
 ---
 
