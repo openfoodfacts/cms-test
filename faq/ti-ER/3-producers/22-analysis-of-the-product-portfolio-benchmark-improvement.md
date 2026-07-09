@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} ትንተና ፖርትፎሊዮ ፍርያት (መዐቀኒ፣ ምምሕያሽ...)"
-description: "1 ሕቶ"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: ሰንጠረዥ-ባር
+icon: chart-bar
 ---
 
-{{< fa "ሰንጠረዥ-ባር" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## ንናይ ፍርያተይ ኒውትሪ-ስኮር ንምምሕያሽ ከመይ ጌረ ነቲ ናይ ዳግመ-ቅርጺ ለበዋ ክረኽቦ ይኽእል?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-ኣብ መበገሲ ገጽ ናይ ኣፍረይቲ መድረኽ ምስ እትህሉ፤
+When you are on the home page of the Producers Platform:
 
-1. ኣብ ላዕሊ ናይቲ ገጽ "→ ብዝሒ ናይ ምምሕያሽ ዕድላት ዘለዎም ፍርያት" ዝብል ሊንክ ጠውቑ።
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. ፍርያትኩም ንምምሕያሽ ኩሎም ብስርዓትና ዝተረኽበ ዕድላት ክትውከሱ ትኽእሉ ኢኹም።
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ኣብ ሓደ ዓይነት ዕድል ጠዊቕካ ናብ ዝርዝር ናይቶም ምምሕያሽ ክግበረሎም ዝኽእል ፍርያት ይመርሓካ።
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ ንዝያዳ ዝርዝር ሓበሬታ፡ [መምርሒ ተጠቃሚ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)ን/ወይ ድማ [ናይ ቪድዮ ትምህርትና](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ክትውከሱ ንዕድም :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
