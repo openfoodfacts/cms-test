@@ -1,31 +1,31 @@
 ---
-title: "Prìsean Fosgailte {{< fa dollar size=2x >}}"
-description: "3 ceistean"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## ’S e neach-reic a th’ annam agus tha mi airson tabhartas a thoirt do phrìsean. Ciamar as urrainn dhomh sin a dhèanamh?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Faodaidh tu prìsean a chur ris le bhith a’ cleachdadh [an API againn](https://prices.openfoodfacts.org/api/docs). Ma tha thu airson tabhartas a thoirt do phrìsean aig sgèile mhòr, cuir fios thugainn aig [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## A bheil thu a’ beachdachadh air prìsean a sgrìobadh bho làraichean-lìn luchd-reic?
+## Do you consider scraping prices from retailers’ websites?
 
-Air adhbharan laghail is teicnigeach, chan eil sinn a’ meas gu bheil sgrìobadh phrìsean bho làraichean-lìn luchd-reic na dhòigh dligheach air cur ri Prìsean Fosgailte. Tha sinn airson dèanamh cinnteach gu bheil na prìsean a chruinnicheas sinn ceart agus ùraichte, agus chan eil prìsean sgrìobte fhaighinn bho luchd-tabhartais a’ leigeil leinn sin a dhèanamh.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Carson a tha Open Food Facts a’ dèanamh seo (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Tha fiosrachadh mu phrìsean air leth cudromach airson tuigse fhaighinn air siostaman bìdh. ’S e prìomh fheart a th’ ann ann a bhith a’ tuigsinn cosgais bìdh agus gus daithead nas fhallaine adhartachadh. Tha fosgladh dàta prìsean na dhòigh air a dhèanamh nas fhasa do luchd-rannsachaidh, luchd-naidheachd agus saoranaich tuigse nas fheàrr fhaighinn air mar a tha prìsean bìdh ag atharrachadh gu cruinn-eòlasach agus thar ùine.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
