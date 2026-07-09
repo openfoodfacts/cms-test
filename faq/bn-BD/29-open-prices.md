@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} খোলা দাম"
-description: "৩টি প্রশ্ন"
-lang: en-gb সম্পর্কে
-order: ২৯
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: ডলার
+icon: dollar
 ---
 
-{{< fa "ডলার" size="3x এর বিবরণ" >}}
+{{< fa "dollar" size=3x >}}
 
-## আমি একজন খুচরা বিক্রেতা এবং আমি দামে অবদান রাখতে চাই। আমি এটা কিভাবে করতে পারি?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-আপনি [আমাদের API](https://prices.openfoodfacts.org/api/docs) ব্যবহার করে মূল্য অবদান রাখতে পারেন। আপনি যদি স্কেলে মূল্য প্রদান করতে চান, তাহলে অনুগ্রহ করে আমাদের সাথে [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) ঠিকানায় যোগাযোগ করুন।
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## আপনি কি খুচরা বিক্রেতাদের ওয়েবসাইট থেকে দাম কমানোর কথা ভাবছেন?
+## Do you consider scraping prices from retailers’ websites?
 
-আইনি এবং প্রযুক্তিগত কারণে, আমরা খুচরা বিক্রেতাদের ওয়েবসাইট থেকে দাম স্ক্র্যাপ করাকে ওপেন প্রাইস-এ অবদান রাখার বৈধ উপায় হিসেবে বিবেচনা করি না। আমরা নিশ্চিত করতে চাই যে আমরা যে দামগুলি সংগ্রহ করি তা সঠিক এবং হালনাগাদ করা হয়, এবং অবদানকারীদের কাছ থেকে বাতিল মূল্য গ্রহণ করলে আমাদের তা করার অনুমতি দেওয়া হয় না।
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 ওপেন প্রাইসের ভবিষ্যতের সংস্করণে মূল্য স্ক্র্যাপিং একটি বিবেচিত বিকল্প, তবে এটি ওপেন প্রাইস নিজেই করবে যাতে আমরা HTML পৃষ্ঠার উপর ভিত্তি করে মূল্যের প্রমাণ পেতে পারি।
 
 ---
 
-## ওপেন ফুড ফ্যাক্টস কেন এটি করছে (ওপেন প্রাইস)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-খাদ্য ব্যবস্থা বোঝার জন্য মূল্য তথ্য অত্যন্ত গুরুত্বপূর্ণ। খাদ্যের দাম বোঝার এবং স্বাস্থ্যকর খাদ্যাভ্যাস প্রচারের ক্ষেত্রে এটি একটি গুরুত্বপূর্ণ বিষয়। মূল্যের তথ্য খোলার মাধ্যমে গবেষক, সাংবাদিক এবং নাগরিকদের ভৌগোলিকভাবে এবং সময়ের সাথে সাথে খাদ্যের দাম কীভাবে পরিবর্তিত হয় তা আরও ভালভাবে বোঝা সহজ হয়।
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
