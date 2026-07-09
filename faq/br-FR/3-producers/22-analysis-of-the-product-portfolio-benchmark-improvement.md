@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Dielfennadur ar portfolio produioù (skouerenn, gwellaat...)"
-description: "1 goulenn"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: barrenn ar gartenn
+icon: chart-bar
 ---
 
-{{< fa "barrenn ar gartenn" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Penaos mont e darempred gant ar c'hemennadenn adfurmadur evit gwellaat Nutri-Score ma produioù ?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Pa vezit war bajenn degemer ar bladenn broduerien :
+When you are on the home page of the Producers Platform:
 
-1. klikit war al liamm "→ Niver a broduioù gant digarezioù da wellaat" e penn uhelañ ar bajenn.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. gallout a rit sellet ouzh an holl c'hoantoù bet kavet gant hor reizhiad evit gwellaat ho produioù
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. klikañ war ur seurt digarez a gas ac'hanoc'h da welet roll ar produioù a c'haller gwellaat.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Evit gouzout hiroc'h e pedomp ac'hanoc'h da bellgargañ hon [titouroù implijer](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ha/pe da welet hon [kentelioù video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
