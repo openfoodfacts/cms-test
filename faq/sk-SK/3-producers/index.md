@@ -1,21 +1,21 @@
 ---
-title: "{{< veľkosť odvetvia fa=2x >}} Výrobcovia"
-description: "6 podkategórií"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: priemysel
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: mriežka
+  type: grid
   grid-columns: 4
-  sort: "objednávka"
-  fields: [ titul, popis ]
+  sort: "order"
+  fields: [ title, popis ]
   page-size: 100
 ---
 
-{{< fa "priemysel" size=3x >}}
+{{< fa "industry" size=3x >}}
 
