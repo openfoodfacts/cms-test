@@ -1,17 +1,17 @@
 ---
-title: "{{< fask flask size=2x >}} NOVA / ምምስራሕ መግቢ"
-description: "1 ሕቶ"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: ፍላስካ
+icon: flask
 ---
 
-{{< fa "ፍላስካ" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## ኖቫ እንታይ እዩ ?
+## What is NOVA ?
 
-[https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova) ንዝተወሰነ ግዜ ንዝተወሰነ ግዜ ንዝተወሰነ ግዜ ንዝተወሰነ ግዜ ንዝተወሰነ ግዜ ንዝተወሰነ ግዜ ንዝተወሰነ ግዜ ንዝተወሰነ
+[https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
 ---
 
