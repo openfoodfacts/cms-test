@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} À propositu di i punteggi"
-description: "3 dumande"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
-order: 19 anni
+order: 19
 category-level: 1
-icon: linea di graficu
+icon: chart-line
 ---
 
-{{< fa "linea di graficu" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Quale hè rispunsevule di u calculu di l'impronta è/o di u puntu?
+## Who is responsible for calculating the footprint and/or score?
 
-U Nutri-Score, u gruppu NOVA è l'Eco-Score sò calculati basendu si nantu à i dati prisenti in Open Food Facts. I nostri algoritmi seguitanu strettamente e metodologie ufficiali di sti punteggi.
-
----
-
-## Chì ghjè a diffarenza trà l'Eco-Score, u Nutri-Score è u gruppu NOVA ?
-
-U scopu di sti indicatori hè di furnisce infurmazioni faciuli da capisce per u cunsumadore.
-
-U [gruppu NOVA](https://fr.openfoodfacts.org/nova) si occupa di a trasfurmazione di u pruduttu, l'[Eco-Score](https://fr.openfoodfacts.org/ecoscore) di u so impattu ambientale è u [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) di l'elementi nutrizionali, sapendu chì più un pruduttu hà punteggi vicini à A, più hè qualitativu.
-
-I 3 punteggi ùn trattanu micca i stessi elementi. Dunque ùn hè micca pussibule di paragunalli trà di elli.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Hè pussibule simulà l'Eco-Score o u Nutri-Score di i mo prudutti ?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Registrenduvi nantu à a piattaforma di i pruduttori è carichendu i dati di i vostri prudutti, pudete calculà u Nutri-Score è l'Eco-Score assuciati à i vostri prudutti.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Tuttavia, duvete cancellà lu una volta chì a simulazione hè stata realizata per ch'ellu ùn sia micca esportatu versu a piattaforma publica cù i prudutti digià cummercializati in a vostra gamma.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
