@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} መለለዪታት"
-description: "2 ሕቶታት"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: ዕልባት ምልክት ምግባር
+icon: bookmark
 ---
 
-{{< fa "ዕልባት ምልክት ምግባር" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ከም ስያመ፡ ኣካውንት ምፍጣር ኣገዳሲ ድዩ ?
+## As a label, is it important to create an account ?
 
-ከም ምልክት፡ ቀጥታዊ ኣፍራዪ ናይቲ ፍርያት ስለዘይኮንካ፡ ናይ ኣፍራዪ ኣካውንት ምፍጣር ኣየድልየካን እዩ።
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ኣነ ሌብል እየ፣ ከመይ ጌረ ኣብቲ ፕሮጀክት ክሳተፍ ይኽእል?
+## I am a label, how can I participate in the project?
 
-ከም ምልክት እቲ ኣዝዩ ኣገዳሲ ነገር **(producers@openfoodfacts.org)** ርክብ ብምግባር ዝርዝር ናይቶም ምልክትኩም ዝተርኣየሎም ፍርያት ምልኣኽን ኣብቲ ተዛመድቲ ፍርያት ወረቓቕቲ ክንውስኾም ንኽእል።
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
