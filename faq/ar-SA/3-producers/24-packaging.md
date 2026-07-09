@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} التغليف"
-description: "ثلاثة أسئلة"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: مكعب
+icon: cube
 ---
 
-{{< fa "مكعب" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## كيف يمكنني إضافة بيانات التغليف الخاصة بي إلى Open Food Facts؟
+## How can I add my packaging data to Open Food Facts?
 
-بصفتك منتجًا، فإن الطريقة الأكثر فعالية لإضافة بيانات التعبئة والتغليف إلى منتجاتك هي عن طريق ملء [جدول بيانات Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) بالمعلومات الضرورية، من العمود "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-لكل مكون من مكونات التغليف، ستحتاج إلى إدخال ما يلي:
+For each packaging component, you will need to enter:
 
-- عدد الوحدات (مثال: **4** عبوات من الزبادي)
+- The number of units (ex: **4** pots of yogurts)
 
-- الشكل (مثال: **وعاء، غطاء، صندوق، إلخ**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- المادة (مثال: **PET، ورق، زجاج، إلخ**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- تعليمات إعادة التدوير (مثال: **لإعادة التدوير، للتخلص، إلخ**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- وزن وحدة واحدة فارغة (بالجرام)
+- The weight of one empty unit (in gr)
 
-- الكمية الصافية للمنتج الموجودة في كل وحدة
+- The net quantity of product contained per unit
 
-يمكن بعد ذلك استيراد جدول البيانات هذا إلى منصتنا المخصصة للمحترفين.
-
----
-
-## ما هو مشروع معالجة مشكلة تغليف المواد الغذائية؟
-
-يتألف مشروع "معالجة تغليف المواد الغذائية" من جمع معلومات مفصلة عن تغليف المنتجات الأكثر استهلاكًا (الشكل، والمادة، وتعليمات الفرز، والوزن، والسعة).
-
-استناداً إلى نهج العلوم التشاركية، سيعتمد الأمر على موافقة الشركات على مشاركة بيانات التعبئة والتغليف الخاصة بها وعلى لعب لعبة الشفافية، وعلى سماح المواطنين بجمع المعلومات عن المنتجات. ستكون هذه المعلومات قابلة لإعادة الاستخدام بحرية ("البيانات المفتوحة").
-
-**للمزيد من المعلومات:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## حتى بعد انتهاء مشروع معالجة تغليف المواد الغذائية، هل لا يزال بإمكاني إضافة بيانات التغليف الخاصة بي؟
+## What is the Tackling Food Packaging project?
 
-حتى بعد انتهاء المشروع، من الممكن إضافة بيانات التغليف حيث ستبقى حقول التغليف على موقعنا الإلكتروني.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
