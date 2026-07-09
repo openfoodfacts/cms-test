@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ଶିଳ୍ପ ଆକାର=2x >}} ଉତ୍ପାଦକ"
-description: "6ଟି ଉପବର୍ଗ"
-lang: ଇଂ-ଜିବି
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: ଶିଳ୍ପ
+icon: industry
 listing:
   contents:
-    - "*.ଏମ୍ଡି"
+    - "*.md"
   include:
     category-level: 1
-  type: ଗ୍ରିଡ୍
+  type: grid
   grid-columns: 4
-  sort: "କ୍ରମ"
-  fields: [ ଶୀର୍ଷକ, ଵର୍ଣ୍ଣନା ]
-  page-size: ୧୦୦
+  sort: "order"
+  fields: [ title, ଵର୍ଣ୍ଣନା ]
+  page-size: 100
 ---
 
-{{< fa "ଶିଳ୍ପ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
