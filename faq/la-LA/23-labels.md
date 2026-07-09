@@ -1,23 +1,23 @@
 ---
-title: "{{< magnitudo signi fa=2x >}} Inscriptiones"
-description: "Duae quaestiones"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: XXIII
+order: 23
 category-level: 0
-icon: signaculum
+icon: bookmark
 ---
 
-{{< fa "signaculum" size=Ter >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ut nota discographica, estne momenti rationem creare?
+## As a label, is it important to create an account ?
 
-Ut nota, cum non sis productor directus productorum, non opus est tibi rationem productoris creare.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Si nota discographica sum, quomodo incepto participare possum?
+## I am a label, how can I participate in the project?
 
-Quod ad titulum attinet, res maxime pertinens est nobiscum per inscriptionem electronicam **(producers@openfoodfacts.org)** scribere et indicem productorum, quibus titulus tuus ostenditur, nobis mittere, ut ea in chartis productorum pertinentium addere possimus.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
