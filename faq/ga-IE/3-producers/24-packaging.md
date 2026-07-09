@@ -1,49 +1,49 @@
 ---
-title: "Pacáistiú"
-description: "3 cheist"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: ciúb
+icon: cube
 ---
 
-{{< fa "ciúb" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Conas is féidir liom mo shonraí pacáistithe a chur le Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Mar tháirgeoir, is é an bealach is éifeachtaí chun sonraí pacáistithe a chur le do tháirgí ná an fhaisnéis riachtanach seo a líonadh isteach sa [scairbhileog excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl), ón gcolún "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-I gcás gach comhpháirte pacáistithe, beidh ort an méid seo a leanas a iontráil:
+For each packaging component, you will need to enter:
 
-- Líon na n-aonad (m.sh.: **4** potaí iógart)
+- The number of units (ex: **4** pots of yogurts)
 
-- An cruth (m.sh.: **pota, clúdach, bosca, srl.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- An t-ábhar (m.sh.: **PET, páipéar, gloine, srl.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- An treoir athchúrsála (m.sh.: **athchúrsáil, fáil réidh, srl.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Meáchan aonaid fholamh amháin (i ng)
+- The weight of one empty unit (in gr)
 
-- An chainníocht ghlan den táirge atá in aghaidh an aonaid
+- The net quantity of product contained per unit
 
-Is féidir an scarbhileog seo a allmhairiú ansin isteach inár n-ardán atá tiomnaithe do ghairmithe.
-
----
-
-## Cad é an tionscadal um Thacaíocht Pacáistithe Bia?
-
-Is éard atá sa tionscadal "Ag Dul i nGleic le Pacáistiú Bia" ná faisnéis mhionsonraithe a bhailiú ar phacáistiú na dtáirgí is mó a ithetar (cruth, ábhar, treoracha sórtála, meáchan, acmhainn).
-
-Bunaithe ar chur chuige eolaíochta rannpháirteach, beidh sé ag brath ar chuideachtaí ag aontú a gcuid sonraí pacáistíochta a roinnt agus cluiche na trédhearcachta a imirt, agus ar shaoránaigh ag ceadú faisnéis a bhailiú faoi tháirgí. Beidh an fhaisnéis seo in-athúsáidte go saor ("sonraí oscailte").
-
-**Le haghaidh tuilleadh eolais:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Fiú tar éis dheireadh thionscadal Dul i nGleic le Pacáistiú Bia, an féidir liom mo shonraí pacáistithe a chur leis fós?
+## What is the Tackling Food Packaging project?
 
-Fiú tar éis dheireadh an tionscadail, is féidir sonraí pacáistithe a chur leis mar go bhfanfaidh na réimsí pacáistithe ar ár suíomh Gréasáin.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
