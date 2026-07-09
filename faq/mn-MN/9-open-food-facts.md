@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} Нээлттэй хүнсний мэдээлэл"
-description: "9 асуулт"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: асуултын тойрог
+icon: question-circle
 ---
 
-{{< fa "асуултын тойрог" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Бараг бүх тохиолдолд тэдний үйлчилгээний нөхцөл нь хувийн бус хэрэглээ болон бүх өгөгдөл эсвэл өгөгдлийн хэсгүүдийг задлахыг тодорхой хориглодог.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Тиймээс бид 2012 онд Нээлттэй Хүнсний Мэдээллийн Төсөл болон гар утасны аппликейшнийг эхлүүлэхдээ яг эсрэгээр нь хийхээр шийдсэн: бид мэдээллийн сангаа хүн бүрт, бүх зорилгоор (арилжааны зориулалтаар ч гэсэн) үнэ төлбөргүй, төлбөргүй ашиглах, дахин ашиглахыг зөвшөөрөөд зогсохгүй үүнийг дэмжиж байна!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Өгөгдлийг олон нийтэд нээлттэй болгосноор (_нээлттэй өгөгдөл_ гэж нэрлэгддэг) дэлхийн өнцөг булан бүрээс ирсэн хувь хүмүүс, холбоод, компаниуд, судлаачид гэх мэт хүмүүст бидний хэзээ ч бодож байгаагүй өгөгдлийн програмуудыг бодож олох, хөгжүүлэх боломжийг олгодог.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. ([Дахин ашиглах нөхцөл](https://en.openfoodfacts.org/terms-of-use#reuse-г үзнэ үү))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Хүн бүр (үүнд Нээлттэй Хүнсний Мэдээллийн хувь нэмэр оруулагчид болон бүтээгчид орно, гэхдээ үүгээр хязгаарлагдахгүй) вэбсайт, үйлчилгээ, програм хангамж, гар утасны програм бүтээх эсвэл нийтлэл, судалгаа бичих зорилгоор өгөгдлийг дахин түгээх болон/эсвэл дахин ашиглах боломжтой. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Жишээлбэл, манай Үйлдвэрлэгчдэд зориулсан платформ нь бүрэн үнэ төлбөргүй бөгөөд бид үүнд бүр ч их баяртай байгаа, учир нь энэ нь тэдэнд бүтээгдэхүүнээ сайжруулахад тусална гэж бид бодож байна.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Та форум дээр асуулт асуух эсвэл санал хүсэлтээ илэрхийлэх эсвэл contact@openfoodfacts.org имэйл хаягаар бидэнтэй холбогдож болно.
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Хэрэв та продюсер бол бидэнд [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) хаягаар имэйл илгээнэ үү.
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Хэрэв та сэтгүүлч бол бидэнд [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org) хаягаар имэйл илгээнэ үү.
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Анхаарна уу: [Нээлттэй хүнсний баримтууд нь хүнсний бүтээгдэхүүний хамтын ажиллагааны мэдээллийн сан](https://world.openfoodfacts.org/discover), бид ямар ч бүтээгдэхүүн зардаггүй бөгөөд тэдний үйлдвэрлэгчидтэй холбоогүй болно. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Мэдээлэл болон өгөгдлийг Нээлттэй Хүнсний Баримтуудын хувь нэмэр оруулагчид илгээдэг. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. Жишээлбэл, хэрэв бүтээгдэхүүний тэжээллэг чанар нь ижил ангиллын бүтээгдэхүүнээс маш өөр бол энэ нь алдаа байж магадгүй юм. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Хэрэв та продюсер бол [бидэнтэй холбоо барина уу](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. ([Хувь нэмэр оруулах нөхцөл](https://en.openfoodfacts.org/terms-of-use#contribution-г үзнэ үү))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Бид таны бүтээгдэхүүний хэмжээнээс үл хамааран зураг болон өгөгдлийг хялбархан импортлох боломжийг олгох үнэгүй платформ боловсруулсан. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Бидэнтэй хэрхэн үргэлжлүүлэх талаар ярилцахын тулд холбогдоно уу: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Нээлттэй хүнсний баримтын мэдээллийг хэн ашигладаг вэ?
+## Who uses Open Food Facts data?
 
-Open Food Facts
-платформд найддаг бүх байгууллагуудыг жагсаахад
-хэтэрхий урт хугацаа шаардагдах болно.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- 100 гаруй гар утасны аппликейшн
-  нь чихрийн шижин (VeryDiab), харшил, хиймэл оюун ухаан (FoodVisor)-аар дамжуулан хоол хүнсний тэнцвэрийг
-  бууруулах, хөгжлийн бэрхшээл гэх мэт олон хүний хэрэгцээг хангадаг. Манай
-  мэдээллийн сан нь мөн Yuka-г үүсгэх боломжийг олгосон.
-- Олон вэбсайтууд: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Мэдээллийн сэтгүүлчид: Les Décodeurs du Monde, BFM
-  ТВ
-- Судлаачид бараг 100 шинжлэх ухааны
-  өгүүлэлд оролцсон
-- Хүнсний банкууд болон эв санааны дэлгүүрүүд: Францын Улаан загалмайн нийгэмлэгийн
-  санаачилсан туршилтын төслийн тасралтгүй байдлын хүрээнд
-  Сайн сайхны төлөөх өгөгдөл төсөл, жижиг хүнсний
-  хоршооны бэлэн мөнгөний менежментэд нэгтгэсэн.
-- Компаниуд: Terraillon нь холбогдсон масштабууддаа амь оруулахын тулд бидний
-  өгөгдлийг ашигладаг.
-- Програмчлалын сургуулиуд (Simplon, Open
-  ангиуд) нь
-  сургалтын хөтөлбөртөө Open Food Facts хөтөлбөрийг сэдэлжүүлэх төсөл болгон нэгтгэсэн.
+- Data-journalists : Les Décodeurs du Monde, BFM
+  TV
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Нээлттэй хүнсний баримтуудыг би хэрхэн дэмжих вэ?
+## How can I support Open Food Facts?
 
-Нээлттэй хүнс
-Facts нь 1901 онд байгуулагдсан ашгийн бус холбоо юм. Та бидэнд [төсөлд оролцох](https://fr-en.openfoodfacts.org/contribute) болон [хандив](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% хасагдах)-аар санхүүгийн дэмжлэг үзүүлж, мөн Lilo
-хайлтын системийг ашиглан тусалж болно.
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Маш их баярлалаа
-!**
+**Thank
+you very much!**
 
 ---
 
-## Би асуултынхаа хариултыг олж чадахгүй байна
+## I can't find the answer to my question
 
-Хэрэв та асуултынхаа хариултыг олж чадахгүй байгаа бол бидэнтэй дараах хаягаар холбогдоно уу:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Манай Слэк: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Манай форум: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
