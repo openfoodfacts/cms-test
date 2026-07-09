@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Istraživači/Znanstvenici"
-description: "1 podkategorija"
-lang: hr-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: kapa za maturu
+icon: graduation-cap
 listing:
   contents:
-    - "*.doktor medicine"
+    - "*.md"
   include:
     category-level: 1
-  type: mreža
+  type: grid
   grid-columns: 4
-  sort: "redoslijed"
-  fields: [ titula, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "kapa za maturu" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
