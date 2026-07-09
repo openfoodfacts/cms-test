@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} سانلىق مەلۇمات چۈشۈرۈش"
-description: "1 سوئال"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: بۇلۇت چۈشۈرۈش
+icon: cloud-download
 ---
 
-{{< fa "بۇلۇت چۈشۈرۈش" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## بەلگىلىك بىر دۆلەتنىڭ سانلىق مەلۇماتلىرىنى قەيەردىن ئالساق بولىدۇ؟
+## Where to get the data for a specific country?
 
-ھازىر، مەلۇم دۆلەتلەرگە قارىتىلغان ئېكسپورت يوق.
+Currently, there are no exports dedicated to specific countries.
 
-مەلۇم بىر دۆلەتكە مۇناسىۋەتلىك سانلىق مەلۇماتلارنى تاللاش ئۈچۈن ھەر خىل ئېكسپورتلىرىمىزنى ھەر خىل قوراللار بىلەن بىرلەشتۈرۈشنىڭ نۇرغۇن ئۇسۇللىرى بار.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-سىز [بۇ تېخنىكىلارنىڭ بەزىلىرىنى بىزنىڭ ۋىكىمىزدىن](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) كۆرۈپ باقسىڭىز بولىدۇ.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
