@@ -1,31 +1,31 @@
 ---
-title: "מחירי פתיחה"
-description: "3 שאלות"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: דוֹלָר
+icon: dollar
 ---
 
-{{< fa "דוֹלָר" size="פי 3" >}}
+{{< fa "dollar" size=3x >}}
 
-## אני קמעונאי ואני רוצה לתרום לגבי המחירים. איך אני יכול לעשות את זה?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-ניתן לתרום מחירים באמצעות [ה-API שלנו](https://prices.openfoodfacts.org/api/docs). אם ברצונכם לתרום מחירים בקנה מידה גדול, אנא צרו איתנו קשר בכתובת [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## האם אתם שוקלים לגרד מחירים מאתרי האינטרנט של קמעונאים?
+## Do you consider scraping prices from retailers’ websites?
 
-מסיבות משפטיות וטכניות, איננו רואים באובדן מחירים מאתרי אינטרנט של קמעונאים דרך תקפה לתרום למחירי פתיחה. אנחנו רוצים לוודא שהמחירים שאנחנו אוספים מדויקים ומעודכנים, וקבלת מחירים גנובים מתורמים לא מאפשרת לנו לעשות זאת.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## למה Open Food Facts עושה את זה (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-מידע על מחירים הוא בעל חשיבות עליונה להבנת מערכות מזון. זהו גורם מפתח בהבנת עלות המזון ובקידום תזונה בריאה יותר. פתיחת נתוני מחירים היא דרך להקל על חוקרים, עיתונאים ואזרחים להבין טוב יותר את האופן שבו מחירי המזון משתנים מבחינה גיאוגרפית ולאורך זמן.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
