@@ -1,17 +1,17 @@
 ---
-title: "{{< ukubwa wa kitabu = 2x >}} Injini ya Folksonomy"
-description: "Swali 1"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: kitabu
+icon: book
 ---
 
-{{< fa "kitabu" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Injini ya Folksonomy ni nini?
+## What is the Folksonomy Engine ?
 
-Injini ya Folksonomy ni mfumo unaoruhusu watumiaji kuongeza lebo maalum, au sifa, kwenye bidhaa za chakula katika Ukweli wa Chakula Huria, hifadhidata kubwa zaidi ya chakula huria duniani. Hii inawaruhusu watu kuainisha na kuelezea chakula kwa njia mpya, zaidi ya sifa zilizopo zilizoainishwa awali.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
