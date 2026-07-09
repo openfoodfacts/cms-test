@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / ການປຸງແຕ່ງອາຫານ"
-description: "1 ຄຳຖາມ"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: ກະຕຸກ
+icon: flask
 ---
 
-{{< fa "ກະຕຸກ" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA ແມ່ນຫຍັງ?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
