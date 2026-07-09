@@ -1,52 +1,52 @@
 ---
-title: "{{< girman wayar hannu=2x >}} Manhajar wayar hannu"
-description: "Tambayoyi 4"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: wayar hannu
+icon: mobile
 ---
 
-{{< fa "wayar hannu" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ta yaya zan san wace sigar manhajar nake amfani da ita?
+## How do I know which version of the app I'm using?
 
-Je zuwa **Profile**,
-sannan **FAQ**, sannan **Game da wannan manhajar.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Ya kamata ka
-ga lambar sigar kamar 3.4.5+662. Kar ku manta ku gaya mana yadda wayar take da kuma samfurinta
-idan tana da matsala.
-
----
-
-## Manhajar ba ta yin scanning ba
-
-Wannan yana iya zama saboda
-
-- matsalar hanyar sadarwa
-
-- matsalar izini
-
-- matsalar barcode
-
-Aika mana da imel ta hanyar Profile >> Tuntube Mu >> Aika mana da imel.
-
-Ya kamata a haɗa duk wani bayani mai dacewa da buƙatarku.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ta yaya zan iya taimakawa wajen inganta manhajar wayar hannu?
+## The app does not scan
 
-Ta yaya zan iya taimakawa wajen inganta manhajar wayar hannu?
+This may be due to
 
-Za ka iya [yin hakan a ma'ajiyar manhajar wayar hannu](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## A ina zan iya aika ra'ayoyi game da manhajar?
+## How can I help with improving the mobile app ?
 
-Za ka iya aika ra'ayoyinka zuwa mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
