@@ -1,21 +1,21 @@
 ---
-title: "{{< méid an tionscail fa=2x >}} Léiritheoirí"
-description: "6 fhochatagóir"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: tionscal
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: eangach
+  type: grid
   grid-columns: 4
-  sort: "ordú"
-  fields: [ teideal, tuairisc ]
+  sort: "order"
+  fields: [ title, tuairisc ]
   page-size: 100
 ---
 
-{{< fa "tionscal" size=3x >}}
+{{< fa "industry" size=3x >}}
 
