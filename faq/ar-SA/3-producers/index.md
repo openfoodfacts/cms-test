@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} المنتجون"
-description: "6 فئات فرعية"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: صناعة
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: شبكة
+  type: grid
   grid-columns: 4
-  sort: "طلب"
-  fields: [ عنوان, وصف ]
+  sort: "order"
+  fields: [ title, وصف ]
   page-size: 100
 ---
 
-{{< fa "صناعة" size=3x >}}
+{{< fa "industry" size=3x >}}
 
