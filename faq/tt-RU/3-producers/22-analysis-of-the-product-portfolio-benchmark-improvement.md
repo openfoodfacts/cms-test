@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Продукт портфолиосын анализлау (эталон, яхшырту...)"
-description: "1 сорау"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: диаграмма-бар
+icon: chart-bar
 ---
 
-{{< fa "диаграмма-бар" size=3х >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Продукцияләремнең Nutri-Score күрсәткечләрен яхшырту өчен үзгәртеп кору тәкъдимнәренә ничек керергә?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Продюсерлар платформасының баш битендә булганда:
+When you are on the home page of the Producers Platform:
 
-1. битнең өске өлешендәге "→ Яхшырту мөмкинлекләре булган продуктлар саны" сылтамасына басыгыз.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. сез продуктларыгызны яхшырту өчен безнең система ачыклаган барлык мөмкинлекләр белән таныша аласыз
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. мөмкинлек төренә басу сезне яхшыртырга мөмкин булган продуктлар исемлегенә алып барачак.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
