@@ -1,23 +1,23 @@
 ---
 title: "{{< fa bookmark size=2x >}} Labels"
-description: "2 Fragen"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: Lesezeichen
+icon: bookmark
 ---
 
-{{< fa "Lesezeichen" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ist es für ein Label wichtig, ein Konto zu erstellen?
+## As a label, is it important to create an account ?
 
-Da Sie als Label nicht der direkte Hersteller der Produkte sind, benötigen Sie kein Herstellerkonto.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ich bin ein Musiklabel, wie kann ich an dem Projekt teilnehmen?
+## I am a label, how can I participate in the project?
 
-Als Labelhersteller sollten Sie uns am besten kontaktieren **(producers@openfoodfacts.org)** und uns die Liste der Produkte zusenden, auf denen Ihr Label verwendet wird, damit wir diese in die entsprechenden Produktblätter aufnehmen können.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
