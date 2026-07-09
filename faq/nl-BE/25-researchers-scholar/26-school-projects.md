@@ -1,7 +1,7 @@
 ---
 title: "{{< fa file-o size=2x >}} Schoolprojecten"
 description: "2 vragen"
-lang: en-gb
+lang: nl-nl
 order: 26
 category-level: 1
 icon: bestand-o
@@ -17,7 +17,7 @@ Open Food Facts is een open database, een open project dat opereert onder een OD
 
 ## Hoe kan ik gegevens voor mijn projecten verkrijgen/verzamelen?
 
-Op de hoofdpagina van Open Food Facts, linksboven in het scherm, bevindt zich een scrollmenu. Onderaan vind je de optie 'geavanceerd zoeken', waarop je kunt klikken. Vervolgens is het aan u om te bepalen welke criteria het meest relevant zijn voor uw project(en). Zodra je je keuze hebt gemaakt, kun je de resultaten downloaden door onderaan de pagina naar beneden te scrollen en op 'Resultaten downloaden' te klikken.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
