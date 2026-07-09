@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} Адкрытыя факты пра ежу"
-description: "9 пытанняў"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: круг пытанняў
+icon: question-circle
 ---
 
-{{< fa "круг пытанняў" size="3 разы" >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Амаль ва ўсіх выпадках іх умовы абслугоўвання відавочна забараняюць любое неасабістае выкарыстанне і любое здабыванне ўсіх дадзеных або іх частак.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Таму, калі мы запускалі праект і мабільнае прыкладанне Open Food Facts у 2012 годзе, мы вырашылі зрабіць прама наадварот: мы не толькі дазваляем выкарыстоўваць і паўторна выкарыстоўваць нашу базу дадзеных свабодна і бясплатна ўсім і для ўсіх мэтаў (у тым ліку камерцыйных), але і заахвочваем гэта!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Публічны доступ да дадзеных (гэта значыць _адкрытыя дадзеныя_) дазваляе асобным асобам, асацыяцыям, кампаніям, даследчыкам і г.д. з усяго свету прыдумляць і распрацоўваць прыкладанні для дадзеных, пра якія мы, безумоўна, ніколі б не падумалі.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## What is Open Food Facts' economic model
+## What is Open Food Facts' economic model?
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (гл. [Умовы паўторнага выкарыстання](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Такім чынам, кожны (у тым ліку, але не абмяжоўваючыся аўтарамі і стваральнікамі Open Food Facts) можа распаўсюджваць і/або паўторна выкарыстоўваць дадзеныя для стварэння вэб-сайтаў, паслуг, праграмнага забеспячэння, мабільных прыкладанняў або для напісання артыкулаў і даследаванняў. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Напрыклад, наша платформа для вытворцаў цалкам бясплатная, і мы яшчэ больш задаволеныя гэтым, бо лічым, што гэта можа дапамагчы ім палепшыць сваю прадукцыю.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Вы можаце задаць пытанні ці зрабіць прапановы на форуме або звязацца з намі па электроннай пошце: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Калі вы з'яўляецеся вытворцам, калі ласка, напішыце нам на адрас [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Калі вы журналіст, калі ласка, напішыце нам на адрас [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Звярніце ўвагу: [Open Food Facts — гэта сумесная база дадзеных харчовых прадуктаў](https://world.openfoodfacts.org/discover), мы не прадаем ніякіх прадуктаў і не маем спасылак на іх вытворцаў. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Інфармацыя і дадзеныя прадстаўлены ўдзельнікамі Open Food Facts. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. напрыклад, калі харчовая каштоўнасць прадукту вельмі адрозніваецца ад прадуктаў той жа катэгорыі, гэта можа быць памылкай. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Калі вы прадзюсар, калі ласка, [звяжыцеся з намі](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (гл. [Умовы ўдзелу](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Мы распрацавалі бясплатную платформу, якая дазваляе вам лёгка імпартаваць фатаграфіі і дадзеныя аб вашых прадуктах, незалежна ад іх памеру. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Звяжыцеся з намі, каб абмеркаваць, як мы можам дзейнічаць далей: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Хто выкарыстоўвае дадзеныя Open Food Facts?
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- Больш за 100 мабільных прыкладанняў
-  задавальняюць патрэбы розных аўдыторый: дыябет (VeryDiab), алергіі, харчовы
-  баланс з дапамогай штучнага інтэлекту (FoodVisor), інваліднасць і многае іншае. Наша база дадзеных
-  таксама дазволіла стварыць Юку.
-- Шмат вэб-сайтаў: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Журналісты дадзеных : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Даследчыкі амаль у 100 навуковых
-  артыкулах
-- Харчовыя банкі і крамы салідарнасці: праект
-  Data For Good у рамках пілотнага праекта, ініцыяванага
-  Французскім Чырвоным Крыжам, інтэграцыя ў кіраванне грашовымі сродкамі невялікага харчовага
-  кааператыва.
-- Кампаніі: Terraillon выкарыстоўвае нашы даныя
-  , каб даць жыццё сваім падлучаным вагам.
-- Школы праграмавання (Simplon, Open
-  Classrooms) уключылі Open Food Facts у якасці матывацыйнага праекта ў сваю
-  навучальную праграму.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Як я магу падтрымаць Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts — гэта некамерцыйная асацыяцыя, заснаваная ў 1901 годзе. Вы можаце дапамагчы нам, [прыняўшы ўдзел у праекце](https://fr-en.openfoodfacts.org/contribute) і падтрымаўшы нас фінансава сваімі [ахвяраваннямі](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(франшыза 66%), а таксама выкарыстоўваючы пошукавую сістэму Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Вялікі дзякуй
-!**
+**Thank
+you very much!**
 
 ---
 
-## Я не магу знайсці адказ на сваё пытанне
+## I can't find the answer to my question
 
-Калі вы не можаце знайсці адказ на сваё пытанне (пытанні), не саромейцеся звяртацца да нас праз:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Наш Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Наш форум: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
