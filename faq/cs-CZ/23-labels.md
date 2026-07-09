@@ -1,23 +1,23 @@
 ---
-title: "{{< velikost záložky fa=2x >}} Štítky"
+title: "{{< fa bookmark size=2x >}} Značky"
 description: "2 otázky"
-lang: en-gb
+lang: cs
 order: 23
 category-level: 0
 icon: záložka
 ---
 
-{{< fa "záložka" size=3x >}}
+{{< fa "záložka" size=3× >}}
 
-## Je pro nahrávací společnost důležité si vytvořit účet?
+## Je jako značka důležité vytvořit účet?
 
 Jakožto značka, jelikož nejste přímým výrobcem produktů, si nemusíte vytvářet účet výrobce.
 
 ---
 
-## Jsem nahrávací společnost, jak se mohu projektu zapojit?
+## Jsem značka, jak se mohu do projektu zapojit?
 
-Pokud jde o označení, nejdůležitější je kontaktovat nás na adrese **(producers@openfoodfacts.org)** a zaslat nám seznam produktů, na kterých je vaše označení zobrazeno, abychom je mohli přidat na související produktové listy.
+Pokud jde o značku, nejdůležitější je kontaktovat nás na adrese **(producers@openfoodfacts.org)** a zaslat nám seznam produktů, na kterých je vaše označení zobrazeno, abychom je mohli přidat na související produktové listy.
 
 ---
 
