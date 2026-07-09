@@ -1,31 +1,31 @@
 ---
-title: "{{< fa ህርመት ልቢ መጠን=2x >}} ኒውትሪ-ስኮር"
-description: "3 ሕቶታት"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: ህርመት ልቢ
+icon: heartbeat
 ---
 
-{{< fa "ህርመት ልቢ" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## ናይ ፍርያተይ ኒውትሪ-ስኮር ቅኑዕ እንተዘይኮይኑ እንታይ ክገብር ኣለኒ?
+## What should I do if the Nutri-Score of my products is not correct?
 
-ኣብ ኒውትሪ-ስኮርካ ጸገም እንተጋጢሙ፡ ኣብቲ ናይ ፍርያት ወረቐትካ “modify” ዝብል ትብ ሓበሬታኻ ቅኑዕ ምዃኑ ኣረጋግጽ። ዝኾነ ሓበሬታ ዝጎደለ ወይ ዘይቅኑዕ እንተኾይኑ፡ ብ\*\* producers@openfoodfacts.org\*\* ክትረኽቡና ድሕር ኣይትበሉ።
-
----
-
-## እቲ ኒውትሪ-ስኮር ብዝተኻእለ መጠን ብትኽክል ንኽሕሰብ እንታይ ዓይነት ሓበሬታ ክህብ ኣለኒ?
-
-ስሌት ናይቲ ኒውትሪ-ስኮር ብናይ ፍርያትካ ኣመጋግባ ሰሌዳ ክግበር እዩ።
-
-እቲ ዝተሓሰበ ኒውትሪ-ስኮር ጌጋ ከይከውን፡ ሚእታዊት ፍረታት፡ ኣሕምልትን ፍረታትን ኣብ መኣድኻ ምእታው ኣይትረስዕ።
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## ኒውትሪ-ስኮር ካበይ ይመጽእ ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-ኒውትሪ-ስኮር ብሳንተ ፓብሊክ ፈረንሳ ዝመሓደር እዩ። ኩሉ ሰብ ክርድኦ ነቲ ሰሌዳ ክብርታት ኣመጋግባ ብሓጺሩ የቕርብ። እቲ ዕላማ ንኹሉ ሰብ ንጹርን ርዱእን ሓበሬታ ኣመጋግባ ንኽረክብ ምግባር እዩ።
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
