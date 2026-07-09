@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} පර්යේෂකයින්/විද්වතුන්"
-description: "උපප්‍රවර්ගය 1ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 25 යි
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: උපාධි තොප්පිය
+icon: graduation-cap
 listing:
   contents:
-    - "*.එම්ඩී"
+    - "*.md"
   include:
     category-level: 1
-  type: ජාලකය
+  type: grid
   grid-columns: 4
-  sort: "නියෝගය"
-  fields: [ ශීර්ෂය, description ]
-  page-size: 100 යි
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "උපාධි තොප්පිය" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
