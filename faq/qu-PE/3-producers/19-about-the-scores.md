@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Puntuacionkunamanta"
-description: "3 tapuykuna"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
-order: 19. 19
+order: 19
 category-level: 1
-icon: chart-linea nisqa
+icon: chart-line
 ---
 
-{{< fa "chart-linea nisqa" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## ¿Pitaq chaki yupayta chaymanta/utaq puntuacionta yupananpaq encargakun?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score, NOVA qutu, Eco-Score ima yupasqa kachkan, chay datos Abiertos de Alimentos nisqapi kasqanmanjina. Algoritmosniykuqa kay puntuacionkunapa metodología oficialninkunata allinta qatipanku.
-
----
-
-## ¿Imapitaq hukniray kanku Eco-Score, Nutri-Score, NOVA qutu ima?
-
-Kay rikuchiqkunap munayninqa, rantiqpaq mana sasa entiendena willayta qunapaq.
-
-[NOVA qutu](https://fr.openfoodfacts.org/nova) llamk’achkan chay rurup tikrakuyninmanta, chay[Eco-Score](https://fr.openfoodfacts.org/ecoscore) pachamamapi llamk’ayninwan chaymanta [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) elementos nutricionales nisqawan, yachaspa aswan achka ruru A nisqaman qaylla puntuacionniyuq kaptin, aswan cualitativo kasqanmanta.
-
-Chay 3 puntuacionkunaqa manam kikin elementokunamantachu rimanku. Chayraykum mana tupachiyta atichwanchu.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## ¿Atikunmanchu simulayta Eco-Score utaq Nutri-Score nisqa ruruykuna?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Ruwaqkunap plataformanpi qillqakuspa chaymanta ruruykikunap willayta yapaspa, Nutri-Score chaymanta Eco-Score ruruykikunawan tinkisqa yupayta atikunki.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Ichaqa, huk kuti simulación ruwasqa kaptin qullunayki tiyan chaymanta mana plataforma pública kaqman hawaman apachisqachu kanqa chaymanta rurukuna rantisqaña kanku qampaq.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
