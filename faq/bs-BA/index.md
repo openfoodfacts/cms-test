@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Često postavljana pitanja - engleski"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: mreža
+  type: grid
   grid-columns: 4
-  sort: "narudžba"
-  fields: [ naslov, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
