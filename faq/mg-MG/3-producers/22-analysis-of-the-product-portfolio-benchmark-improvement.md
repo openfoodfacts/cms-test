@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Famakafakana ny portfolio-n'ny vokatra (fanamarinana, fanatsarana...)"
-description: "Fanontaniana 1"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: tabilao-bar
+icon: chart-bar
 ---
 
-{{< fa "tabilao-bar" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Ahoana no fomba hahazoana ny tolo-kevitra momba ny fanavaozana mba hanatsarana ny Nutri-Score-n'ny vokatra vokariko?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Rehefa eo amin'ny pejy fandraisana ny sehatra Producers ianao:
+When you are on the home page of the Producers Platform:
 
-1. tsindrio ny rohy "→ Isan'ny vokatra misy fahafahana fanatsarana" eo an-tampon'ny pejy.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. azonao jerena ireo fahafahana rehetra hitan'ny rafitray hanatsarana ny vokatrao
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ny fanindriana karazana fahafahana iray dia hitondra anao any amin'ny lisitry ny vokatra izay azo hatsaraina.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
