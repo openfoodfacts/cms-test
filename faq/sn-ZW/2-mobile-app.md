@@ -1,52 +1,52 @@
 ---
-title: "{{< fa saizi yefoni=2x >}} App yefoni"
-description: "Mibvunzo mina"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: nharembozha
+icon: mobile
 ---
 
-{{< fa "nharembozha" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Ndingaziva sei kuti ndiri kushandisa vhezheni ipi yeapp?
+## How do I know which version of the app I'm using?
 
-Enda ku **Profile**,
-wobva wa **FAQ**, wobva wa **Nezve app iyi.**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Unofanira
-kuona nhamba yeshanduro yakaita se3.4.5+662. Musakanganwa kutiudza nezvemagadzirirwo nemodheru yefoni
-kana iri kugadzirisa dambudziko.
-
----
-
-## App yacho haiskeni
-
-Izvi zvinogona kunge zvichikonzerwa ne
-
-- dambudziko re network
-
-- dambudziko remvumo
-
-- dambudziko rebhacode
-
-Titumirei email kuburikidza neProfile >> Taura Nesu >> Titumirei email.
-
-Ruzivo rwese rwakakosha runofanira kubatanidzwa nechikumbiro chako.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Ndingabatsira sei pakuvandudza application yefoni?
+## The app does not scan
 
-Ndingabatsira sei pakuvandudza application yefoni?
+This may be due to
 
-Unogona [kuzviita paMobile app repository](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ndingatumira kupi mhinduro nezve app iyi?
+## How can I help with improving the mobile app ?
 
-Unogona kutumira mhinduro yako ku mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
