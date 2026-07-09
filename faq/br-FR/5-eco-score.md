@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "5 goulenn"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: implijer-plus
+icon: user-plus
 ---
 
-{{< fa "implijer-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Petra eo an doare-ober Eco-Score ?
+## What is the Eco-Score methodology?
 
-Diazezet eo an Eco-Score war jediñ an dielfennadur eus ar c'helc'hiad buhez produet gant ADEME (an ajañs treuzkas ekologel) hag INRAE (an ensavadur broadel evit an enklaskoù agronomek). War-dro pemzek elfenn a vez jedet ha liammet evit krouiñ ar skor PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-D'ar skor PEF-mañ e vez ouzhpennet prizioù ha falloù (doare produiñ, orin
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-elfennoù, spesadoù en arvar da vont da get, pakadoù) evit jediñ an Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Evit gouzout hiroc'h, sellit ouzh ar bajenn diverrañ [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) war Open Food Facts hag ivez war lec'hienn ar c'honsortiom Eco-Score. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Peseurt titouroù a ranker reiñ evit ma vo jedet an Eco-Score ar gwellañ ma c'haller ?
-
-Evit ma vo jedet an Eco-Score evel-just e ranker spisaat dregantad pep elfenn hag e orin.
-
-Ma n'eo ket spisaet an titouroù-mañ c'hoazh e roll ar c'hementadoù e c'hallit ouzhpennañ ur bann evit o menegiñ, gant ar stumm da-heul :
-
-Bleud gwinizh 16% (Bro-C'hall)
-
-Chokolad 8% (Aod an Olifant, Ecuador)
-
-Ezhomm hon eus ivez eus elfennoù an endalc'hadoù e stumm : 1 film plastik da deurel kuit, 1 voest karton FSC da adimplijout, 6 boutailh plastik treuzwelus PET 1,5 L da adkempenn, 6 golo plastik liv dister, 12 pod plastik aluminiom 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Penaos e vez kendeuzet talvoudoù ar 15 diskouezer?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Evit kompren gwelloc'h ar reizhiad PEF e c'hallit lenn : displegadenn ar skor PEF war al lec'hienn metodologel Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Hag an elfenn lec'hel a denn da lec'h ar sevel pe da lec'h orin an danvezioù kentañ ?
+## How are the values ​​of the 15 indicators combined?
 
-**An elfenn lec'hel a denn da orin ar materioù kentañ. Setu perak eo pouezus lakaat o dregantadoù hag o orinoù e roll elfennoù ar produ pe er vaezienn gouestlet da orinoù elfennoù.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Penaos lakaat orinoù ar c'hementadoù evit an eko-skor ?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Mar fell deoc'h rannañ an titouroù diwar-benn orin an danvezioù kentañ war ho follennoù, e pedomp ac'hanoc'h da lakaat anezho e roll ar c'hementadoù.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
