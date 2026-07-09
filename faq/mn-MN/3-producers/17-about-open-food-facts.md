@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Нээлттэй хүнсний баримтуудын тухай"
-description: "4 асуулт"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: мэдээллийн тойрог
+icon: info-circle
 ---
 
-{{< fa "мэдээллийн тойрог" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Ямар төрлийн мэдээллийг хуваалцах ёстой вэ?
+## What type of information should be shared?
 
-Хоол тэжээлийн мэдээллээс эхлээд сав баглаа боодлын мэдээлэл хүртэл танд байгаа аливаа мэдээллийг хүлээн авна.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Энэ нь бүрэн файл үүсгэх, бүх оноог нарийвчлалтай тооцоолох, ерөнхийдөө хэрэглэгчдийн талархлыг хүлээсэн ил тод байдлыг бий болгох боломжийг олгодог.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Гэсэн хэдий ч бид дараах талбаруудыг эрэмбэлэхийг зөвлөж байна.
+However we do recommend you prioritize the following fields:
 
-- Хоол тэжээлийн мэдээлэл
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Бүтээгдэхүүний ангилал (жишээ нь ундаа, бяслаг, тараг гэх мэт)
-
-- Бүтээгдэхүүний нэр
-
-- Харшил үүсгэгч
-
-- болон орц найрлагын хувьд энэ талбарыг заавал бөглөх шаардлагагүй боловч оновчтой хэрэглээ болон оноог тодорхойлоход ашиглахыг зөвлөж байна.
-
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Нээлттэй хүнсний баримтын мэдээллийг татаж авч болох уу?
+## Can I download Open Food Facts data?
 
-Та Open Food Facts дээр байгаа бүх мэдээллийг татаж авах боломжтой. Анхаараарай, энэ нь маш их дискний зай, хэрэв та хүснэгт ашиглахыг хүсвэл хүчирхэг компьютер эсвэл R эсвэл Python хэлний мэдлэг шаарддаг.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Та мөн дэвшилтэт хайлтын ачаар өгөгдлийн дэд хэсгийг (жишээлбэл, таны брэнд) татаж авах боломжтой.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
-
----
-
-## Pro платформ руу нэвтрэх болон өгөгдөл импортлох нь үнэгүй юу?
-
-Мэдээж, мөн энэ нь үүрд мөнх байх болно.Open Food Facts-ийн үзүүлж буй бүх үйлчилгээ үнэ төлбөргүй.  
-Та хүнсний ил тод байдалд бүтээгдэхүүнийхээ мэдээллийг оруулахаар шийдсэнд бид маш их баяртай байна, үүнд тань талархаж байна.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Би мэргэжлийн платформд зориулсан сайжруулалтыг санал болгохыг хүсэж байна, би үүнийг яаж хийх вэ?
+## Is access to the Pro platform and the import of data free?
 
-Хүнсний ил тод байдлын ажилд оролцох хүсэлтэй байгаад тань баярлалаа!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Санал хүсэлтээ хуваалцах хамгийн сайн арга бол [энэ маягт](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)-г бөглөх явдал юм.
+---
 
-Та мөн [манай форум](https://forum.openfoodfacts.org/) эсвэл [Slack](https://openfoodfacts.slack.com/ssb/redirect)-аар дамжуулан санал хүсэлтээ бидэнтэй холбогдож болно.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Бидэнтэй холбогдохын тулд Slack-д нэгдэж, #producers сувагт нэвтэрнэ үү.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
