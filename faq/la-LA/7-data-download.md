@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Data dempta"
-description: "Una quaestio"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: demptio-nubis
+icon: cloud-download
 ---
 
-{{< fa "demptio-nubis" size=Ter >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ubi notitias pro certa regione invenire possum?
+## Where to get the data for a specific country?
 
-In praesenti, nullae exportationes ad certas terras dicatae sunt.
+Currently, there are no exports dedicated to specific countries.
 
-Multae sunt rationes ut exportationes nostras varias, cum instrumentis diversis coniunctas, ad notitias ad certam regionem pertinentes eligendas utamur.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[Quaedam harum artium in nostro wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) inspicere potes.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
