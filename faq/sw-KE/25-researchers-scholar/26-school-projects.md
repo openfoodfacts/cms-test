@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Miradi ya shule"
-description: "Maswali 2"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: faili-o
+icon: file-o
 ---
 
-{{< fa "faili-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Nina mradi wa shule wa kufanya, nataka kutumia data ya Open Food Facts, naweza kufanya hivyo?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Ukweli wa Chakula Huria, ni hifadhidata iliyo wazi, mradi ulio wazi unaofanya kazi chini ya leseni ya ODbL, kwa hivyo mradi tu unakubaliana na mahitaji ya leseni ya ODbL, unakaribishwa kutumia tena data yetu kwa miradi yako :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Ninawezaje kupata/kukusanya data kwa ajili ya miradi yangu?
+## How can I access/collect data for my projects ?
 
-Kwenye ukurasa mkuu wa Open Food Facts, kwenye kona ya juu kushoto ya skrini, kuna menyu ya kusogeza. Chini yake, utapata chaguo la "utafutaji wa hali ya juu", ambalo unaweza kubofya. Kisha ni juu yako kuamua ni vigezo gani vinavyofaa zaidi kwa mradi wako. Ukishachagua, utaweza kupakua matokeo yaliyopatikana kwa kusogeza chini chini ya ukurasa na kubofya "Pakua matokeo".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
