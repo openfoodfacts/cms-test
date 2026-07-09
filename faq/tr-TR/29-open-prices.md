@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Açılış Fiyatları"
-description: "3 soru"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ben bir perakendeciyim ve fiyatlara katkıda bulunmak istiyorum. Bunu nasıl yapabilirim?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-[API'mizi](https://prices.openfoodfacts.org/api/docs) kullanarak fiyat katkısında bulunabilirsiniz. Eğer toplu fiyat teklifi sunmak istiyorsanız, lütfen [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) adresinden bizimle iletişime geçin.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Perakendecilerin web sitelerinden fiyatları kazımayı düşünüyor musunuz?
+## Do you consider scraping prices from retailers’ websites?
 
-Yasal ve teknik nedenlerden dolayı, perakendecilerin web sitelerinden fiyat verilerini çekmeyi Open Prices'a katkıda bulunmanın geçerli bir yolu olarak görmüyoruz. Topladığımız fiyatların doğru ve güncel olduğundan emin olmak istiyoruz ve katkıda bulunanlardan aldığımız hazır fiyatlar bunu yapmamıza olanak sağlamıyor.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Fiyat kazıma işlemi, Open Prices'ın gelecekteki bir sürümünde düşünülen bir seçenektir, ancak bu işlem Open Prices tarafından yapılacaktır, böylece HTML sayfasına dayalı olarak fiyatın kanıtını elde edebiliriz.
 
 ---
 
-## Open Food Facts neden bunu yapıyor (Açık Fiyatlar)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Fiyat bilgisi, gıda sistemlerini anlamak için son derece önemlidir. Gıda maliyetini anlamada ve daha sağlıklı beslenme alışkanlıklarını teşvik etmede önemli bir faktördür. Fiyat verilerinin kamuya açık hale getirilmesi, araştırmacıların, gazetecilerin ve vatandaşların gıda fiyatlarının coğrafi ve zamansal olarak nasıl değiştiğini daha iyi anlamalarını kolaylaştırmanın bir yoludur.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
