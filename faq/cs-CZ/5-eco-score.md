@@ -1,17 +1,17 @@
 ---
-title: "{{< fa user-plus size=2x >}} Ekologické skóre"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
 description: "5 otázek"
-lang: en-gb
+lang: cs
 order: 5
 category-level: 0
 icon: uživatel-plus
 ---
 
-{{< fa "uživatel-plus" size=3x >}}
+{{< fa "uživatel-plus" size=3× >}}
 
 ## Co je metodologie Eco-Score?
 
-Eko-skóre je založeno na výpočtu analýzy životního cyklu, kterou vypracovaly ADEME (agentura pro ekologickou transformaci) a INRAE (národní institut pro agronomický výzkum). Pro vytvoření skóre PEF se vypočítá a propojí přibližně patnáct složek.
+Eko-skóre je založeno na výpočtu analýzy životního cyklu, kterou vypracovaly ADEME (agentura pro ekologickou transformaci) a INRAE (národní institut pro agronomický výzkum). K vytvoření skóre ke stanovení environmentální stopy produktu se počítá a propojuje asi patnáct složek.
 
 K tomuto skóre PEF se připočítávají bonusy a malusy (způsob produkce, původ
 
@@ -25,13 +25,13 @@ Více informací naleznete na souhrnné stránce [https://world.openfoodfacts.or
 
 Aby bylo možné Eco-Score vypočítat přesně, je nutné specifikovat procentuální zastoupení každé složky a její původ.
 
-Pokud tato informace již není uvedena v seznamu složek, můžete ji uvést v následujícím formátu:
+Pokud tato informace již není uvedena v seznamu složek, můžete přidat sloupec, který ji uvede v následujícím formátu:
 
 Pšeničná mouka 16 % (Francie)
 
 Čokoláda 8 % (Pobřeží slonoviny, Ekvádor)
 
-Dále budeme potřebovat obalové komponenty v podobě: 1 plastové fólie k vyhození, 1 kartonové krabice s certifikátem FSC k recyklaci, 6 průhledných plastových lahví PET o objemu 1,5 l k recyklaci, 6 neprůhledných barevných plastových víček, 12 hliníkových plastových plechovek o objemu 33 cl.
+Dále budeme potřebovat obalové materiály ve formě: 1 plastová fólie k vyhození, 1 kartonové krabice s certifikátem FSC k recyklaci, 6 průhledných plastových lahví PET o objemu 1,5 l k recyklaci, 6 neprůhledných barevných plastových víček, 12 hliníkových plastových plechovek o objemu 33 cl.
 
 ---
 
@@ -47,7 +47,7 @@ Dále budeme potřebovat obalové komponenty v podobě: 1 plastové fólie k vyh
 
 ---
 
-## Jak zadat původ ingrediencí pro eko-skóre?
+## Jak zadat původ ingrediencí pro eco-score?
 
 Pokud si přejete sdílet informace o původu surovin na svých listech, zveme vás, abyste je zahrnuli do seznamu složek.
 
