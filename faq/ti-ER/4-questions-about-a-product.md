@@ -1,25 +1,25 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} ሕቶታት ብዛዕባ ሓደ ፍርያት"
-description: "1 ሕቶ"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: ዕዳጋ-መሶብ
+icon: shopping-basket
 ---
 
-{{< fa "ዕዳጋ-መሶብ" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## ብዛዕባ ሓደ ፍርያት ሕቶ / ክሲ ኣለኒ።
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) ብተጠቀምቲ ዝተፈጥረን ዝምገብን ናይ ምትሕብባር መርበብ ሓበሬታ ኮይኑ፡ ምልክታት ምፍታሕን ፍርያት ምውድዳርን ንኽኽእሉ እዩ።
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-ብዛዕባ ሓደ ፍርያት ወይ ክሲ ዝያዳ ሓበሬታ ንምርካብ፡ ናብቲ ኣፍራዪ ጽሓፉ። ንኣፍረይቲ ዝኸውን ርክብ ሓበሬታ የብልናን ግን መብዛሕትኡ ግዜ ኣብቲ መዐሸጊ እዩ ዘሎ።
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-ንኸምዚ ከማኻ ወይ ከማና ዝኣመሰሉ ተጠቀምቲ ዝያዳ ግሉጽነት ንምምጻእ ክትሕግዙና ምስ እትደልዩ፡ ፍርያት ንምውሳኽ ናይ iPhone ወይ Android ኣፕና ክትጥቀሙ ትኽእሉ ኢኹም፡ [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-ከምኡ’ውን ብዛዕባ’ቲ ፕሮጀክት ንምዝታይ፡ ኣብቲ ናይ ፌስቡክ ጉጅለ ኣበርከትቲ ክትጽንበሩ ትኽእሉ ኢኹም፡ [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ወይ ድማ ምስቶም ካልኦት ኣበርከትቲ ኣብ ስላክ ክትዕልሉ ትኽእሉ ኢኹም፤
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
-[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/) ንዝብል ጽሑፍ ንምርካብ ኣብዚ ንጠውቅ።
+[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
 ---
 
