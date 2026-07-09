@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartbeat size=2x >}} ニュートリスコア"
-description: "3つの質問"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: 心拍
+icon: heartbeat
 ---
 
-{{< fa "心拍" size=3倍 >}}
+{{< fa "heartbeat" size=3x >}}
 
-## 製品の Nutri-Score が正しくない場合はどうすればいいですか?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Nutri-Score に問題がある場合は、製品シートの「変更」タブで情報が正しいことを確認してください。 情報が不足している、または間違っている場合は、お気軽に**producers@openfoodfacts.org**までご連絡ください。
-
----
-
-## Nutri-Score をできるだけ正確に計算するには、どのような情報を提供する必要がありますか?
-
-Nutri-Score の計算は、製品の栄養成分表に基づいて行われます。
-
-計算された栄養スコアが間違っていないよう、果物、野菜、ナッツの割合を表に含めることを忘れないでください。
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Nutri-Score はどこから来るのですか?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score は Santé Publique France によって管理されています。 栄養価表を誰でもわかるようにまとめました。 目標は、誰もが明確かつ理解しやすい栄養情報にアクセスできるようにすることです。
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
