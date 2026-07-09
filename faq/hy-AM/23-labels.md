@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Պիտակներ"
-description: "2 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: էջանիշ
+icon: bookmark
 ---
 
-{{< fa "էջանիշ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Որպես լեյբլ, կարևո՞ր է հաշիվ ստեղծելը։
+## As a label, is it important to create an account ?
 
-Որպես ապրանքանիշ, քանի որ դուք արտադրանքի անմիջական արտադրողը չեք, ձեզ անհրաժեշտ չէ արտադրողի հաշիվ ստեղծել։
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ես լեյբլ եմ, ինչպե՞ս կարող եմ մասնակցել նախագծին։
+## I am a label, how can I participate in the project?
 
-Որպես պիտակ, ամենակարևոր բանը, որ կարող եք անել, մեզ հետ կապվելն է **(producers@openfoodfacts.org)** և մեզ ուղարկել այն ապրանքների ցանկը, որոնց վրա ցուցադրված է ձեր պիտակը, որպեսզի մենք կարողանանք դրանք ավելացնել համապատասխան ապրանքային թերթիկներում։
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
