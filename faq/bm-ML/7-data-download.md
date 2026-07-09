@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Donanw telesarse"
-description: "1 ɲininkali"
-lang: bamanankan-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: sankaba-téléchargement
+icon: cloud-download
 ---
 
-{{< fa "sankaba-téléchargement" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Jamana kɛrɛnkɛrɛnnen dɔ ka kunnafoniw bɛ sɔrɔ min?
+## Where to get the data for a specific country?
 
-Sisan, jagokɛcogo si tɛ yen min ɲɛsinnen bɛ jamana kɛrɛnkɛrɛnnenw ma.
+Currently, there are no exports dedicated to specific countries.
 
-Fɛɛrɛ caman bɛ yen an bɛ se ka baara kɛ n’an ka jagokɛcogo suguya caman ye ka fara baarakɛminɛn suguya wɛrɛw kan walasa ka kunnafoniw sugandi minnu ɲɛsinnen bɛ jamana kɛrɛnkɛrɛnnen dɔ ma.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Aw bɛ se ka [o fɛɛrɛ dɔw lajɛ an ka wiki kan](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
