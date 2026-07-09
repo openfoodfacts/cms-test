@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ile-iṣẹ iwọn=2x >}} Awọn olupilẹṣẹ"
-description: "Àwọn ẹ̀ka kékeré mẹ́fà"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ile-iṣẹ
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: àkójọpọ̀
+  type: grid
   grid-columns: 4
-  sort: "paṣẹ"
-  fields: [ àkọlé, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ile-iṣẹ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
