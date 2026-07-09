@@ -1,17 +1,17 @@
 ---
-title: "{{< daqs tal-ktieb fa=2x >}} Magna tal-Folksonomija"
-description: "mistoqsija waħda"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: 31 sena
+order: 31
 category-level: 0
-icon: ktieb
+icon: book
 ---
 
-{{< fa "ktieb" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## X'inhi l-Magna tal-Folksonomija?
+## What is the Folksonomy Engine ?
 
-Il-Folksonomy Engine hija sistema li tippermetti lill-utenti jżidu tikketti, jew proprjetajiet, apposta ma' prodotti tal-ikel f'Open Food Facts, l-akbar database miftuħa tal-ikel fid-dinja. Dan jippermetti lin-nies jikkategorizzaw u jiddeskrivu l-ikel b'modi ġodda, lil hinn mill-proprjetajiet predefiniti eżistenti.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
