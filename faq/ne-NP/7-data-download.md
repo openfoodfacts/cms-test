@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} डेटा डाउनलोड"
-description: "१ प्रश्न"
-lang: एनजीबी
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: क्लाउड-डाउनलोड
+icon: cloud-download
 ---
 
-{{< fa "क्लाउड-डाउनलोड" size=३x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## कुनै खास देशको तथ्याङ्क कहाँबाट प्राप्त गर्ने?
+## Where to get the data for a specific country?
 
-हाल, कुनै पनि विशेष देशहरूमा समर्पित निर्यातहरू छैनन्।
+Currently, there are no exports dedicated to specific countries.
 
-कुनै खास देशसँग सम्बन्धित डेटा चयन गर्न हाम्रा विभिन्न निर्यातहरूलाई विभिन्न उपकरणहरूसँग मिलाएर प्रयोग गर्ने धेरै तरिकाहरू छन्।
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-तपाईंले [यसका केही प्रविधिहरू हाम्रो विकीमा] हेर्न सक्नुहुन्छ (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data)।
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
