@@ -1,23 +1,23 @@
 ---
-title: "Leubail {{< meud comharra-leabhair fa=2x >}}"
-description: "2 cheist"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: comharra-leabhair
+icon: bookmark
 ---
 
-{{< fa "comharra-leabhair" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Mar leubail, a bheil e cudromach cunntas a chruthachadh?
+## As a label, is it important to create an account ?
 
-Mar leubail, leis nach tusa riochdaire dìreach nan toraidhean, chan fheum thu cunntas riochdaire a chruthachadh.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ’S e leubail a th’ annam, ciamar as urrainn dhomh pàirt a ghabhail sa phròiseact?
+## I am a label, how can I participate in the project?
 
-Mar leubail, ’s e an rud as buntainniche ri dhèanamh fios a chur thugainn **(producers@openfoodfacts.org)** agus liosta de na toraidhean air a bheil an leubail agad ri fhaicinn a chur thugainn gus an urrainn dhuinn an cur ris na duilleagan toraidh co-cheangailte.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
