@@ -1,7 +1,7 @@
 ---
-title: "{{< fa user size=2x >}} Mijn account beheren"
+title: "{{< fa user size=2x >}} Manage my account"
 description: "3 vragen"
-lang: en-gb
+lang: nl-nl
 order: 20
 category-level: 1
 icon: gebruiker
@@ -9,35 +9,35 @@ icon: gebruiker
 
 {{< fa "gebruiker" size=3x >}}
 
-## Kunnen meerdere Open Food Facts-accounts aan één bedrijf worden gekoppeld?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Ja, stuur een e-mail naar [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), zodat we alle accounts aan hetzelfde bedrijf kunnen koppelen.
-
----
-
-## Hoe kan ik mijn Open Food Facts-account omzetten naar een Pro-account?
-
-Je kunt toegang krijgen tot het [Pro-platform](https://world.pro.openfoodfacts.org/) met de inloggegevens van je bestaande account.
-
-Als u een professional bent, dient u uw professionele e-mailadres te gebruiken zodat we uw account kunnen valideren.
-
-→ Voor meer informatie nodigen we u uit om onze [gebruikershandleiding](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) te downloaden en/of onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) te bekijken :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Waar kan ik documentatie vinden die me helpt bij het gebruik van het Pro-platform?
+## How to convert my Open Food Facts account into a Pro account?
 
-Er zijn een aantal hulpmiddelen beschikbaar om het Pro-platform optimaal te benutten.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
+
+If you are a professional, you will need to use your professional email address so that we can validate your account.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Where can I find documentation to help me use the Pro platform?
+
+There are a few resources to help you make the most out of the Pro platform.
 
 U bent van harte welkom om:
 
 - check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
 
-- onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) te raadplegen
+- Raadpleeg onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
 
-- feedback of suggesties te delen via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+- Geef feedback of suggesties via [dit formulier](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
 
-- Een gesprek in te plannen met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+- Plan een gesprek in met Manon, onze partnershipsmanager, als je nog vragen hebt: [hier](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
 
 - Neem contact met ons op via e-mail: producers@openfoodfacts.org
 
