@@ -1,17 +1,17 @@
 ---
-title: "{{< fa girman littafi=2x >}} Injin Folksonomi"
-description: "Tambaya 1"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: littafi
+icon: book
 ---
 
-{{< fa "littafi" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Menene Injin Folksonomi?
+## What is the Folksonomy Engine ?
 
-Injin Folksonomi wani tsari ne da ke bawa masu amfani damar ƙara alamun abinci na musamman, ko kadarori, a cikin Open Food Facts, babban rumbun adana bayanai na abinci na duniya. Wannan yana bawa mutane damar rarraba abinci da kuma bayyana shi ta hanyoyi daban-daban, fiye da abubuwan da aka riga aka tsara.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
