@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} အညွှန်းများ"
-description: "မေးခွန်း ၂ ခု"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: ၂၃
+order: 23
 category-level: 0
-icon: စာညှပ်
+icon: bookmark
 ---
 
-{{< fa "စာညှပ်" size="၃ ဆ" >}}
+{{< fa "bookmark" size=3x >}}
 
-## label တစ်ခုအနေနဲ့ အကောင့်ဖွင့်ဖို့ အရေးကြီးပါသလား။
+## As a label, is it important to create an account ?
 
-အမှတ်တံဆိပ်တစ်ခုအနေနဲ့ ထုတ်ကုန်တွေရဲ့ တိုက်ရိုက်ထုတ်လုပ်သူ မဟုတ်တဲ့အတွက် ထုတ်လုပ်သူအကောင့်တစ်ခု ဖန်တီးဖို့ မလိုအပ်ပါဘူး။
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ကျွန်တော်က label တစ်ယောက်ပါ၊ ဒီပရောဂျက်မှာ ဘယ်လိုပါဝင်နိုင်မလဲ။
+## I am a label, how can I participate in the project?
 
-အညွှန်းတစ်ခုအနေနဲ့ အသင့်တော်ဆုံးလုပ်ရမှာက ကျွန်ုပ်တို့ကို **(producers@openfoodfacts.org)** ထံ ဆက်သွယ်ပြီး သင့်အညွှန်းပြသထားတဲ့ ထုတ်ကုန်စာရင်းကို ပေးပို့ပေးဖို့ပါပဲ။ ဒါမှ သက်ဆိုင်ရာ ထုတ်ကုန်စာရွက်တွေမှာ ထည့်သွင်းနိုင်မှာပါ။
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
