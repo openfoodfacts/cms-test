@@ -1,7 +1,7 @@
 ---
-title: "{{< fa usayizi wemsebentisi=2x >}} Lawula i-akhawunti yami"
-description: "3 imibuto"
-lang: si-gb
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
+lang: en-gb
 order: 20
 category-level: 1
 icon: user
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Ingabe ema-akhawunti lamanyenti e-Open Food Facts angahlanganiswa yini nenkampani yinye?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Yebo, sicela utfumele i-imeyili ku [bakhiciti@openfoodfacts.org](mailto:support@openfoodfacts.org), kute sikhone kuhlanganisa onkhe ema-akhawunti nenkampani yinye.
-
----
-
-## Indlela yekugucula i-akhawunti yami ye-Open Food Facts ibe yi-akhawunti ye-Pro?
-
-Ungafinyelela [ipulatifomu yePro](https://world.pro.openfoodfacts.org/) ngeticu te-akhawunti yakho lekhona.
-
-Nangabe unguchwepheshe, kutawudzingeka kutsi usebentise likheli lakho le-imeyili lebungcweti kute sikhone kucinisekisa i-akhawunti yakho.
-
-→ Kute utfole imininingwane leyengetiwe, sikumema kutsi ulandze [umhlahlandlela wetfu wemsebentisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kanye/noma ubuke [tifundvo tetfu temavidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Ngingayitfolaphi imibhalo lengangisita kutsi ngisebentise iplatifomu ye-Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Kukhona tinsita letimbalwa letingakusita kutsi ukhone kusebentisa kahle ipulatifomu ye-Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Uvumelekile kutsi:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- hlola [umhlahlandlela wetfu wemsebentisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - sikumema kutsi ulandzele i-PDF kute kutsi tikhonjiso tichafateke, lokutawenta kutsi kube lula kuhamba ngalombhalo.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- buka [tifundvo tetfu temavidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- yabelana ngemibono noma tiphakamiso ngekusebentisa [lelifomu](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Hlela lucingo naManon, umphatsi wetfu wekubambisana, uma unemibuto leminyenti: [lapha](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Xhumana natsi nge-imeyili: bakhiciti@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
