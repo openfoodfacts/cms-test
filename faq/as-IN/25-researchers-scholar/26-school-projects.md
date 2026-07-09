@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} স্কুলৰ প্ৰকল্পসমূহ"
-description: "২ টা প্ৰশ্ন"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
-order: ২৬
+order: 26
 category-level: 1
 icon: file-o
 ---
 
-{{< fa "file-o" size=৩x >}}
+{{< fa "file-o" size=3x >}}
 
-## মোৰ এটা স্কুল প্ৰজেক্ট আছে, মই Open Food Facts ৰ ডাটা ব্যৱহাৰ কৰিব বিচাৰো, মই কৰিব পাৰোনে?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-মুক্ত খাদ্য তথ্য, এটা মুক্ত ডাটাবেছ, এটা মুক্ত প্ৰকল্প যি এটা ODbL অনুজ্ঞাপত্ৰৰ অধীনত চলি আছে, সেয়েহে যেতিয়ালৈকে আপুনি ODbL অনুজ্ঞাপত্ৰৰ প্ৰয়োজনীয়তাৰ সৈতে একমত, আপুনি আপোনাৰ প্ৰকল্পসমূহৰ বাবে আমাৰ তথ্য পুনৰ ব্যৱহাৰ কৰিবলৈ আদৰণি জনোৱা হৈছে :)।
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## মই মোৰ প্ৰকল্পসমূহৰ বাবে তথ্য কেনেকৈ প্ৰৱেশ/সংগ্ৰহ কৰিব পাৰো ?
+## How can I access/collect data for my projects ?
 
-খোলা খাদ্য তথ্যৰ মূল পৃষ্ঠাত, পৰ্দাৰ ওপৰৰ বাওঁফালৰ চুকত, এটা স্ক্ৰলিং মেনু আছে। ইয়াৰ তলত আপুনি “উন্নত সন্ধান” বিকল্পটো পাব, য’ত আপুনি ক্লিক কৰিব পাৰিব। তাৰ পিছত আপোনাৰ প্ৰকল্প(সমূহ)ৰ বাবে কোনবোৰ মাপকাঠী আটাইতকৈ প্ৰাসংগিক সেইটো নিৰ্ধাৰণ কৰাটো আপোনাৰ ওপৰত নিৰ্ভৰশীল। এবাৰ বাছি লোৱাৰ পিছত, আপুনি পৃষ্ঠাৰ তলত তললৈ স্ক্ৰল কৰি আৰু “Download results” ত ক্লিক কৰি পোৱা ফলাফলসমূহ ডাউনলোড কৰিব পাৰিব।
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
