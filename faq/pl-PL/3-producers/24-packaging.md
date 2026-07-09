@@ -1,49 +1,49 @@
 ---
-title: "Opakowanie {{< fa cube size=2x >}}"
-description: "3 pytania"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: sześcian
+icon: cube
 ---
 
-{{< fa "sześcian" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Jak mogę dodać dane dotyczące opakowania do Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Jako producent, najskuteczniejszym sposobem dodawania danych o opakowaniach do swoich produktów jest wypełnienie tego [arkusza kalkulacyjnego Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) niezbędnymi informacjami z kolumny „AU”.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Dla każdego elementu opakowania należy wprowadzić:
+For each packaging component, you will need to enter:
 
-- Liczba jednostek (np. **4** pojemniki jogurtu)
+- The number of units (ex: **4** pots of yogurts)
 
-- Kształt (np. **garnek, pokrywka, pudełko itp.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materiał (np. **PET, papier, szkło itp.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Instrukcje dotyczące recyklingu (np.: **poddać recyklingowi, wyrzucić itd.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Waga jednej pustej jednostki (w gr)
+- The weight of one empty unit (in gr)
 
-- Ilość netto produktu zawarta w jednostce
+- The net quantity of product contained per unit
 
-Następnie arkusz kalkulacyjny można zaimportować na naszą platformę przeznaczoną dla profesjonalistów.
-
----
-
-## Na czym polega projekt Tackling Food Packaging?
-
-Projekt „Rozwiązanie problemu opakowań żywności” polega na zbieraniu szczegółowych informacji na temat opakowań najczęściej spożywanych produktów (kształt, materiał, instrukcje sortowania, waga, pojemność).
-
-Opierając się na podejściu opartym na partycypacji naukowej, będzie ono opierać się zarówno na zgodzie firm na udostępnianie danych dotyczących opakowań i przestrzeganie zasady przejrzystości, jak i na zgodzie obywateli na gromadzenie informacji o produktach. Informacje te będą mogły być swobodnie wykorzystywane ponownie („otwarte dane”).
-
-**Więcej informacji:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Czy nawet po zakończeniu projektu Tackling Food Packaging nadal będę mógł dodawać dane dotyczące opakowań?
+## What is the Tackling Food Packaging project?
 
-Nawet po zakończeniu projektu możliwe będzie dodawanie danych dotyczących opakowań, ponieważ pola opakowań pozostaną na naszej stronie internetowej.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
