@@ -1,15 +1,15 @@
 ---
-title: "{{< fa ಫ್ಲಾಸ್ಕ್ ಗಾತ್ರ=2x >}} ನೊವಾ / ಆಹಾರ ಸಂಸ್ಕರಣೆ"
-description: "1 ಪ್ರಶ್ನೆ"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: ಫ್ಲಾಸ್ಕ್
+icon: flask
 ---
 
-{{< fa "ಫ್ಲಾಸ್ಕ್" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA ಎಂದರೇನು?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
