@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} தரவு பதிவிறக்கம்"
-description: "1 கேள்வி"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: மேகக்கணி பதிவிறக்கம்
+icon: cloud-download
 ---
 
-{{< fa "மேகக்கணி பதிவிறக்கம்" size="3x (3x)" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ஒரு குறிப்பிட்ட நாட்டிற்கான தரவை எங்கே பெறுவது?
+## Where to get the data for a specific country?
 
-தற்போது, குறிப்பிட்ட நாடுகளுக்கு மட்டுமே ஏற்றுமதி செய்யப்படுவதில்லை.
+Currently, there are no exports dedicated to specific countries.
 
-ஒரு குறிப்பிட்ட நாட்டிற்குத் தொடர்புடைய தரவைத் தேர்ந்தெடுக்க, எங்கள் வெவ்வேறு ஏற்றுமதிகளைப் பயன்படுத்தி வெவ்வேறு கருவிகளைப் பயன்படுத்த பல வழிகள் உள்ளன.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[இந்த நுட்பங்களில் சிலவற்றை எங்கள் விக்கியில்](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) பார்க்கலாம்.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
