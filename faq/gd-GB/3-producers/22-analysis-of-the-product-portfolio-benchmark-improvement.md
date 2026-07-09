@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Mion-sgrùdadh air pasgan nan toraidhean (comharra-tomhais, leasachadh...)"
-description: "1 ceist"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: bàr-cairt
+icon: chart-bar
 ---
 
-{{< fa "bàr-cairt" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Ciamar a gheibh mi cothrom air a’ mholadh ath-fhoirmleachaidh gus Nutri-Score mo thoraidhean a leasachadh?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Nuair a tha thu air duilleag-dhachaigh Àrd-ùrlar nan Riochdairean:
+When you are on the home page of the Producers Platform:
 
-1. briog air a’ cheangal “→ Àireamh thoraidhean le cothroman leasachaidh” aig mullach na duilleige.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. faodaidh tu sùil a thoirt air na cothroman uile a lorg an siostam againn gus na toraidhean agad a leasachadh
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ma bhriogas tu air seòrsa cothruim, thèid thu chun liosta de thoraidhean a tha fo ùmhlachd leasachaidh.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Airson tuilleadh fiosrachaidh, tha sinn a’ toirt cuireadh dhut an [stiùireadh-cleachdaidh] againn a luchdachadh sìos (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) agus/no co-chomhairle a chumail ris na [bhidiothan-teagaisg] againn (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
