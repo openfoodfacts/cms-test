@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} संशोधक/विद्वान"
-description: "१ उपवर्ग"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: २५
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: पदवीधर टोपी
+icon: graduation-cap
 listing:
   contents:
-    - "*.एमडी"
+    - "*.md"
   include:
     category-level: 1
-  type: ग्रिड
+  type: grid
   grid-columns: 4
-  sort: "ऑर्डर करा"
-  fields: [ शीर्षक, description ]
-  page-size: १००
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "पदवीधर टोपी" size=३x >}}
+{{< fa "graduation-cap" size=3x >}}
 
