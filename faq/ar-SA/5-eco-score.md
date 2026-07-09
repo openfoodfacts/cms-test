@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eco-Core Score"
-description: "5 أسئلة"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: مستخدم بلس
+icon: user-plus
 ---
 
-{{< fa "مستخدم بلس" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## ما هي منهجية Eco-Score؟
+## What is the Eco-Score methodology?
 
-يعتمد مؤشر Eco-Score على حساب تحليل دورة الحياة الذي أنتجته وكالة ADEME (وكالة التحول البيئي) و INRAE (المعهد الوطني للبحوث الزراعية). يتم حساب حوالي خمسة عشر مكونًا وربطها لإنشاء درجة PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-تُضاف إلى هذه النتيجة من مؤشر الأداء الاقتصادي (PEF) مكافآت وعقوبات (طريقة الإنتاج، أصل
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-المكونات، والأنواع المهددة بالانقراض، والتغليف) من أجل حساب النتيجة البيئية.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-للمزيد من المعلومات، راجع صفحة الملخص [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) على موقع Open Food Facts وكذلك على موقع Eco-Score consortium. (عرض Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## ما نوع المعلومات التي يجب تقديمها ليتم حساب النتيجة البيئية بأكبر قدر ممكن من الدقة؟
-
-لكي يتم حساب النتيجة البيئية بدقة، يجب تحديد النسبة المئوية لكل مكون وأصله.
-
-إذا لم تكن هذه المعلومات محددة بالفعل في قائمة المكونات، فيمكنك إضافة عمود لذكرها، بالتنسيق التالي:
-
-دقيق القمح 16% (فرنسا)
-
-شوكولاتة 8% (ساحل العاج، الإكوادور)
-
-نحتاج أيضًا إلى مكونات التغليف على النحو التالي: غلاف بلاستيكي واحد للتخلص منه، صندوق كرتوني واحد معتمد من مجلس رعاية الغابات لإعادة التدوير، 6 زجاجات بلاستيكية شفافة من مادة PET سعة 1.5 لتر لإعادة التدوير، 6 أغطية بلاستيكية ملونة معتمة، 12 علبة بلاستيكية سعة 33 سنتيلتر من الألومنيوم.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## كيف يتم دمج قيم المؤشرات الخمسة عشر؟
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**لفهم نظام PEF بشكل أفضل، يمكنك قراءة: شرح درجة PEF على الموقع المنهجي لـ Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## هل يتعلق الجانب المحلي بمكان التصنيع أم بمكان منشأ المواد الخام؟
+## How are the values ​​of the 15 indicators combined?
 
-\*\*يتعلق الجانب المحلي بأصل المواد الخام. لهذا السبب من المهم إدخال نسبها المئوية بالإضافة إلى مصادرها في قائمة مكونات المنتج أو في الحقل المخصص لمصادر المكونات.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## كيفية إدخال مصادر المكونات للحصول على التقييم البيئي؟
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-إذا كنت ترغب في مشاركة المعلومات المتعلقة بأصل المواد الخام المستخدمة في منتجاتك، فنحن ندعوك لإدراجها في قائمة المكونات.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
