@@ -1,7 +1,7 @@
 ---
 title: "{{< fa bookmark size=2x >}} Labels"
 description: "2 vragen"
-lang: en-gb
+lang: nl-nl
 order: 23
 category-level: 0
 icon: bladwijzer
@@ -9,15 +9,15 @@ icon: bladwijzer
 
 {{< fa "bladwijzer" size=3x >}}
 
-## Is het voor een platenlabel belangrijk om een account aan te maken?
+## As a label, is it important to create an account ?
 
-Als label hoeft u, aangezien u niet de directe producent van de producten bent, geen producentenaccount aan te maken.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ik ben een platenlabel, hoe kan ik aan het project deelnemen?
+## I am a label, how can I participate in the project?
 
-Als keurmerk kunt u het beste contact met ons opnemen (via **producers@openfoodfacts.org**) en ons een lijst sturen van de producten waarop uw keurmerk wordt weergegeven, zodat we deze kunnen toevoegen aan de bijbehorende productinformatiebladen.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
