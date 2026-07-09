@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eko-Pikë"
-description: "5 pyetje"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: përdorues-plus
+icon: user-plus
 ---
 
-{{< fa "përdorues-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Çfarë është metodologjia Eco-Score?
+## What is the Eco-Score methodology?
 
-Eko-Pikë bazohet në llogaritjen e analizës së ciklit jetësor të prodhuar nga ADEME (agjencia e tranzicionit ekologjik) dhe INRAE (instituti kombëtar për kërkime agronomike). Rreth pesëmbëdhjetë komponentë llogariten dhe lidhen për të krijuar rezultatin PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Këtij rezultati PEF i shtohen bonuse dhe gabime (mënyra e prodhimit, origjina e
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-përbërësit, speciet e rrezikuara, paketimi) për të llogaritur Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Për më shumë informacion, shihni faqen përmbledhëse [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) në Open Food Facts, si dhe në faqen e internetit të konsorciumit Eco-Score. (Prezantimi i Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Çfarë lloj informacioni duhet të jepet që Eko-Pikët të llogaritet sa më saktë që të jetë e mundur?
-
-Që Eko-Pikët të llogaritet saktësisht, duhet të specifikohet përqindja e secilit përbërës dhe origjina e tij.
-
-Nëse ky informacion nuk është specifikuar tashmë në listën e përbërësve, mund të shtoni një kolonë për ta përmendur atë, me formatin e mëposhtëm:
-
-Miell gruri 16% (Francë)
-
-Çokollatë 8% (Bregu i Fildishtë, Ekuador)
-
-Na duhen gjithashtu përbërësit e paketimit në formën e: 1 fletë plastike për t’u hedhur, 1 kuti kartoni FSC për t’u ricikluar, 6 shishe plastike transparente PET prej 1.5 L për t’u ricikluar, 6 kapakë plastikë me ngjyrë të errët, 12 kanaçe plastike alumini 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Si kombinohen vlerat e 15 treguesve?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-Për ta kuptuar më mirë sistemin PEF, mund të lexoni: shpjegimin e pikëzimit PEF në faqen metodologjike të Eco-Score\*\*
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## A ka të bëjë aspekti lokal me vendin e prodhimit apo me vendin e origjinës së lëndëve të para?
+## How are the values ​​of the 15 indicators combined?
 
-Aspekti lokal ka të bëjë me origjinën e lëndëve të para. Kjo është arsyeja pse është e rëndësishme të futni përqindjet e tyre, si dhe origjinën e tyre, në listën e përbërësve të produktit ose në fushën e dedikuar për origjinën e përbërësve.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Si të futet origjina e përbërësve për eko-rezultatin?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Nëse dëshironi të ndani informacionin mbi origjinën e lëndëve të para në fletët tuaja, ju ftojmë t'i përfshini ato në listën e përbërësve.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
