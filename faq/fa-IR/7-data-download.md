@@ -1,21 +1,21 @@
 ---
-title: "{{< حجم دانلود ابری=۲x >}} دانلود داده‌ها"
-description: "۱ سوال"
-lang: انگلیسی-انگلیسی
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: دانلود ابری
+icon: cloud-download
 ---
 
-{{< fa "دانلود ابری" size="۳ برابر" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## از کجا می‌توان داده‌های مربوط به یک کشور خاص را دریافت کرد؟
+## Where to get the data for a specific country?
 
-در حال حاضر، هیچ صادراتی به کشورهای خاص اختصاص داده نشده است.
+Currently, there are no exports dedicated to specific countries.
 
-روش‌های زیادی برای استفاده از خروجی‌های مختلف ما همراه با ابزارهای مختلف برای انتخاب داده‌های مربوط به یک کشور خاص وجود دارد.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-می‌توانید نگاهی به [برخی از این تکنیک‌ها در ویکی ما](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) بیندازید.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
