@@ -1,23 +1,23 @@
 ---
-title: "برچسب‌ها {{< اندازه نشانک = ۲x >}}"
-description: "۲ سوال"
-lang: انگلیسی-انگلیسی
-order: ۲۳
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: نشانه‌گذاری
+icon: bookmark
 ---
 
-{{< fa "نشانه‌گذاری" size="۳ برابر" >}}
+{{< fa "bookmark" size=3x >}}
 
-## به عنوان یک برند، آیا ایجاد حساب کاربری مهم است؟
+## As a label, is it important to create an account ?
 
-به عنوان یک برند، از آنجایی که شما تولیدکننده مستقیم محصولات نیستید، نیازی به ایجاد حساب تولیدکننده ندارید.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## من یک لیبل هستم، چگونه می‌توانم در این پروژه شرکت کنم؟
+## I am a label, how can I participate in the project?
 
-به عنوان یک برچسب، مرتبط‌ترین کاری که باید انجام دهید این است که با ما تماس بگیرید **(producers@openfoodfacts.org)** و لیست محصولاتی را که برچسب شما روی آنها نمایش داده شده است برای ما ارسال کنید تا بتوانیم آنها را در برگه‌های مربوط به محصولات اضافه کنیم.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
