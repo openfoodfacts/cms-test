@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Preços de abertura"
-description: "3 perguntas"
-lang: pt-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dólar
+icon: dollar
 ---
 
-{{< fa "dólar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Sou um retalhista e quero contribuir para os preços. Como posso fazer isso?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Pode contribuir com preços utilizando [a nossa API](https://prices.openfoodfacts.org/api/docs). Se desejar contribuir com preços em grande escala, por favor contacte-nos através do endereço [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Já pensou em extrair preços dos sites dos retalhistas?
+## Do you consider scraping prices from retailers’ websites?
 
-Por razões legais e técnicas, não consideramos a extração de preços dos sites dos retalhistas como uma forma válida de contribuir para o Open Prices. Queremos garantir que os preços que recolhemos são precisos e atualizados, e receber preços copiados dos colaboradores não nos permite fazê-lo.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 A extração de preços é uma opção considerada para uma versão futura do Open Prices, mas seria feita pelo próprio Open Prices para que pudéssemos ter uma prova do preço com base na página HTML.
 
 ---
 
-## Porque é que o Open Food Facts está a fazer isto (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-As informações sobre os preços são de importância primordial para a compreensão dos sistemas alimentares. É um fator fundamental para compreender o custo dos alimentos e promover dietas mais saudáveis. Os dados de preços iniciais são uma forma de facilitar a compreensão, por parte de investigadores, jornalistas e cidadãos, de como os preços dos alimentos variam geograficamente e ao longo do tempo.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
