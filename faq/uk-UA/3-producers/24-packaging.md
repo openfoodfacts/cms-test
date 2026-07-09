@@ -1,49 +1,49 @@
 ---
-title: "{{< розмір куба fa=2x >}} Упаковка"
-description: "3 питання"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: куб
+icon: cube
 ---
 
-{{< fa "куб" size="3 рази" >}}
+{{< fa "cube" size=3x >}}
 
-## Як я можу додати дані про свою упаковку до Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Як виробник, найефективніший спосіб додати дані про упаковку до вашої продукції – це заповнити цю [таблицю Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) необхідною інформацією зі стовпця «AU».
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Для кожного компонента упаковки вам потрібно буде ввести:
+For each packaging component, you will need to enter:
 
-- Кількість одиниць (наприклад: **4** банки йогуртів)
+- The number of units (ex: **4** pots of yogurts)
 
-- Форма (наприклад: **каструля, кришка, коробка тощо**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Матеріал (наприклад: **ПЕТ, папір, скло тощо**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Інструкція з переробки (наприклад: **переробляти, викидати тощо**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Вага однієї порожньої одиниці (у гр)
+- The weight of one empty unit (in gr)
 
-- Чиста кількість продукту, що міститься в одиниці
+- The net quantity of product contained per unit
 
-Цю електронну таблицю потім можна імпортувати на нашу платформу, призначену для професіоналів.
-
----
-
-## Що таке проєкт «Боротьба з харчовою упаковкою»?
-
-Проєкт «Боротьба з упаковкою харчових продуктів» полягає у зборі детальної інформації про упаковку найбільш споживаних продуктів (форма, матеріал, інструкції зі сортування, вага, місткість).
-
-Заснований на партисипативному науковому підході, він покладатиметься як на компанії, які погоджуються ділитися даними про свою упаковку та грати в прозорість, так і на громадян, які дозволять збирати інформацію про продукти. Ця інформація буде вільно використовуватися повторно («відкриті дані»).
-
-**Для отримання додаткової інформації:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Навіть після завершення проєкту «Боротьба з харчовою упаковкою», чи можу я все ще додавати дані про свою упаковку?
+## What is the Tackling Food Packaging project?
 
-Навіть після завершення проєкту можна додавати дані про упаковку, оскільки поля упаковки залишаться на нашому вебсайті.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
