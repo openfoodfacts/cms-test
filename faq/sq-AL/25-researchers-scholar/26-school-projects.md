@@ -1,23 +1,23 @@
 ---
-title: "Projekte shkollore"
-description: "2 pyetje"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: skedar-o
+icon: file-o
 ---
 
-{{< fa "skedar-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Kam një projekt shkollor për të bërë, dua të përdor të dhënat e Open Food Facts, a mund ta bëj?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts është një bazë të dhënash e hapur, një projekt i hapur që vepron sipas një licence ODbL, prandaj, për sa kohë që jeni dakord me kërkesat e licencës ODbL, jeni të mirëpritur të ripërdorni të dhënat tona për projektet tuaja :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Si mund të hyj/mbledh të dhëna për projektet e mia?
+## How can I access/collect data for my projects ?
 
-Në faqen kryesore të Open Food Facts, në këndin e sipërm të majtë të ekranit, ka një menu që lëviz. Në fund të saj, do të gjeni opsionin "kërkim i avancuar", mbi të cilin mund të klikoni. Pastaj varet nga ju të përcaktoni se cilat kritere janë më të rëndësishme për projektin/projektet tuaja. Pasi të keni zgjedhur, do të jeni në gjendje të shkarkoni rezultatet e përftuara duke lëvizur poshtë në fund të faqes dhe duke klikuar te "Shkarko rezultatet".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
