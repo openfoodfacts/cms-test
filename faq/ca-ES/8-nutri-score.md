@@ -1,31 +1,31 @@
 ---
-title: "{{< mida del cor fa=2x >}} Nutri-Score"
-description: "3 preguntes"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: batec del cor
+icon: heartbeat
 ---
 
-{{< fa "batec del cor" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Què he de fer si la puntuació Nutricional dels meus productes no és correcta?
+## What should I do if the Nutri-Score of my products is not correct?
 
-En cas de problema amb la teva Nutri-Score, comprova que la informació sigui correcta a la pestanya "modificar" de la fitxa del producte. Si falta alguna informació o és incorrecta, no dubteu a contactar amb nosaltres a **producers@openfoodfacts.org**
-
----
-
-## Quin tipus d'informació he de proporcionar perquè el Nutri-Score es calculi amb la màxima precisió possible?
-
-El càlcul del Nutri-Score es farà amb la taula nutricional del vostre producte.
-
-No oblidis incloure el percentatge de fruites, verdures i fruits secs a la taula, perquè la Nutri-Score calculada no sigui incorrecta.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## D'on prové la Nutri-Score?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-El Nutri-Score està gestionat per Santé Publique France. Resumeix la taula de valors nutricionals perquè tothom la pugui entendre. L'objectiu és proporcionar accés a informació nutricional clara i comprensible per a tothom.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
