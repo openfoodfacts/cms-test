@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} ફોક્સોનોમી એન્જિન"
-description: "૧ પ્રશ્ન"
-lang: eng-gb
-order: ૩૧
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: પુસ્તક
+icon: book
 ---
 
-{{< fa "પુસ્તક" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ફોક્સોનોમી એન્જિન શું છે?
+## What is the Folksonomy Engine ?
 
-ફોક્સોનોમી એન્જિન એક એવી સિસ્ટમ છે જે વપરાશકર્તાઓને વિશ્વના સૌથી મોટા ઓપન-ફૂડ ડેટાબેઝ, ઓપન ફૂડ ફેક્ટ્સમાં ખાદ્ય ઉત્પાદનોમાં કસ્ટમ ટૅગ્સ અથવા ગુણધર્મો ઉમેરવાની મંજૂરી આપે છે. આનાથી લોકો ખોરાકને હાલના પૂર્વવ્યાખ્યાયિત ગુણધર્મોથી આગળ વધીને નવી રીતે વર્ગીકૃત અને વર્ણવી શકે છે.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
