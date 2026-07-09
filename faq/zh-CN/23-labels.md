@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} 标签"
-description: "2 个问题"
-lang: 英语-英国
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: 书签
+icon: bookmark
 ---
 
-{{< fa "书签" size=3倍 >}}
+{{< fa "bookmark" size=3x >}}
 
-## 作为唱片公司，创建账号重要吗？
+## As a label, is it important to create an account ?
 
-作为唱片公司，由于您不是产品的直接生产商，因此您无需创建生产商帐户。
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## 我是一家唱片公司，我该如何参与这个项目？
+## I am a label, how can I participate in the project?
 
-作为标签商，最相关的做法是联系我们（producers@openfoodfacts.org），并将您的标签所展示的产品列表发送给我们，以便我们将其添加到相关的产品表中。
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
