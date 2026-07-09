@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} பள்ளி திட்டங்கள்"
-description: "2 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
-order: 26 மாசி
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
+order: 26
 category-level: 1
-icon: கோப்பு-ஓ
+icon: file-o
 ---
 
-{{< fa "கோப்பு-ஓ" size="3x (3x)" >}}
+{{< fa "file-o" size=3x >}}
 
-## எனக்கு ஒரு பள்ளிப் பணித்திட்டம் உள்ளது, நான் திறந்த உணவு உண்மைகளின் தரவைப் பயன்படுத்த விரும்புகிறேன், அவ்வாறு செய்யலாமா?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-ஓபன் ஃபுட் ஃபேக்ட்ஸ் என்பது ஒரு திறந்த தரவுத்தளமாகும், இது ODbL உரிமத்தின் கீழ் இயங்கும் ஒரு திறந்த திட்டமாகும், எனவே நீங்கள் ODbL உரிமத்தின் தேவைகளுடன் உடன்படும் வரை, உங்கள் திட்டங்களுக்கு எங்கள் தரவை மீண்டும் பயன்படுத்த உங்களை வரவேற்கிறோம் :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## எனது திட்டங்களுக்கான தரவை எவ்வாறு அணுகுவது/சேகரிப்பது?
+## How can I access/collect data for my projects ?
 
-ஓபன் ஃபுட் ஃபேக்ட்ஸின் பிரதான பக்கத்தில், திரையின் மேல் இடது மூலையில், ஒரு ஸ்க்ரோலிங் மெனு உள்ளது. அதன் கீழே, நீங்கள் "மேம்பட்ட தேடல்" விருப்பத்தைக் காண்பீர்கள், அதை நீங்கள் கிளிக் செய்யலாம். உங்கள் திட்டத்திற்கு(களுக்கு) எந்த அளவுகோல்கள் மிகவும் பொருத்தமானவை என்பதைத் தீர்மானிப்பது உங்களுடையது. தேர்வு செய்தவுடன், பக்கத்தின் கீழே உருட்டி "முடிவுகளைப் பதிவிறக்கு" என்பதைக் கிளிக் செய்வதன் மூலம் பெறப்பட்ட முடிவுகளைப் பதிவிறக்க முடியும்.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
