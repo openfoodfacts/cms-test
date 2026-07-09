@@ -1,40 +1,40 @@
 ---
-title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
-description: "3 questions"
-lang: en-gb
+title: "{{< fa globe size=2x >}} Zlepšování Open Food Facts v mém jazyce/zemi"
+description: "3 otázky"
+lang: cs
 order: 15
 category-level: 0
-icon: globe
+icon: zeměkoule
 ---
 
-{{< fa "globe" size=3x >}}
+{{< fa "zeměkoule" size=3× >}}
 
-## I would like to add a new logo for labels
+## Chtěl bych přidat nové logo pro štítky
 
-Here is the process:
+Zde je postup:
 
-- find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
+- najděte **kanonický název** popisku v [taxonomii popisků](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (je to první položka v seznamu synonym popisků, např. en:100% zelenina)
 -
 
-**get the logo in a good quality**: avoid using the contributor's photo which are not suited for this case; most labels have official websistes high quality logos, sometimes in vector format (even better for us); as long as we use a logo to objectively inform about the presence of a
-label on the packaging of a product, there is no need to ask permission.
-----------------------------------------------------------------------------------------
+**Získejte logo v dobré kvalitě**: vyhněte se používání fotografií přispěvatele, které se pro tento případ nehodí; většina značek má na oficiálních webových stránkách loga ve vysoké kvalitě, někdy ve vektorovém formátu (pro nás ještě lepší); pokud používáme logo k objektivnímu informování o přítomnosti štítku
+na obalu produktu, není třeba žádat o povolení.
+---------------------------------------------------------------
 
-**name the file like this**:   name-of-the-label.[width]x90.png  where width is the width for the logo when it is 90 pixels high. The filenames need to be unaccented, in lowercase and using "-" instead of spaces.
+**Pojmenujte soubor takto**: název-štítku.[šířka]x90.png, kde šířka je šířka loga, když je 90 pixelů vysoké. Názvy souborů musí být bez diakritiky, malými písmeny a s použitím znaku "-" místo mezer.
 
-- then add the logo in the directory that corresponds to its canonical name. If the canonical name is en:something, then they need to be in /en/. The root directory for logos is [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
-
----
-
-## How do I translate Open Food Facts to my language ?
-
-Head over to [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+- pak přidejte logo do adresáře, který odpovídá jeho kanonickému názvu. Pokud je kanonický název en:something, pak musí být v /en/. Kořenový adresář loga je [https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang](https://github.com/openfoodfacts/openfoodfacts-server/tree/main/html/images/lang)
 
 ---
 
-## How do I translate this FAQ to my language ?
+## Jak přeložím Open Food Facts do svého jazyka?
 
-Please ask contact@openfoodfacts.org for edit access to the knowledge base.
+Přejděte na [https://wiki.openfoodfacts.org/Country_Support](https://wiki.openfoodfacts.org/Country_Support)
+
+---
+
+## Jak mohu přeložit tyto Často kladené otázky do svého jazyka?
+
+Pro přístup k úpravám znalostní báze se prosím obraťte na contact@openfoodfacts.org.
 
 ---
 
