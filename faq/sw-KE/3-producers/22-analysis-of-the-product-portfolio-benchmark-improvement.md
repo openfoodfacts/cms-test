@@ -1,25 +1,25 @@
 ---
-title: "{{< fa ukubwa wa upau wa chati=2x >}} Uchambuzi wa jalada la bidhaa (kigezo, uboreshaji...)"
-description: "Swali 1"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: upau wa chati
+icon: chart-bar
 ---
 
-{{< fa "upau wa chati" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Jinsi ya kupata agizo la urekebishaji upya ili kuboresha Nutri-Score ya bidhaa zangu?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Unapokuwa kwenye ukurasa wa nyumbani wa Jukwaa la Wazalishaji:
+When you are on the home page of the Producers Platform:
 
-1. bofya kiungo "→ Idadi ya bidhaa zenye fursa za uboreshaji" juu ya ukurasa.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. unaweza kushauriana na fursa zote zinazogunduliwa na mfumo wetu ili kuboresha bidhaa zako
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. kubofya aina ya fursa kutakuongoza kwenye orodha ya bidhaa zinazoweza kuboreshwa.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
