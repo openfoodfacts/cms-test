@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "Mibvunzo mishanu"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: mushandisi-plus
+icon: user-plus
 ---
 
-{{< fa "mushandisi-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Ndeipi nzira yeEco-Score?
+## What is the Eco-Score methodology?
 
-Eco-Score yakavakirwa pakuverenga kwekuongorora kwehupenyu hwese kwakagadzirwa neADEME (sangano rekuchinja kwezvakatipoteredza) neINRAE (sangano renyika rekutsvaga kwezvekurima). Zvikamu zvinenge gumi nezvishanu zvinoverengwa uye zvakabatana kuti zvigadzire PEF score.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Kune iyi PEF score pane mabhonasi nemaluses (nzira yekugadzira, kwakabva
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-zvinhu zviri munjodzi yekuparadzwa, kurongedza) kuitira kuverenga Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Kuti uwane rumwe ruzivo, ona peji repfupiso [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) paOpen Food Facts pamwe chete nepawebhusaiti yeEco-Score consortium. (Mharidzo yeEco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Rudzii rweruzivo runofanira kupihwa kuti Eco-Score iverengwe nemazvo sezvinobvira?
-
-Kuti Eco-Score iverengwe nemazvo, chikamu chechinhu chimwe nechimwe uye kwachinobva chinofanira kutsanangurwa.
-
-Kana ruzivo urwu rusati rwataurwa kare pane runyorwa rwezvinhu zvinoshandiswa, unogona kuwedzera koramu kuti utaure nezvarwo, nefomati inotevera:
-
-Hupfu hwegorosi 16% (France)
-
-Chokoreti 8% (Ivory Coast, Ecuador)
-
-Tinodawo zvikamu zvepakeji zvakaita seizvi: 1 purasitiki firimu yekurasa, 1 FSC cardboard box yekudzokorodza, 6 PET transparent plastic bottles e1.5 L ekudzokorodza, 6 open plastic caps ane mavara asingaonekwe, 12 plastic canins, 33 cl aluminum.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ko kukosha kwezviratidzo gumi neshanu kunosanganiswa sei?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Kuti unzwisise zviri nani hurongwa hwePEF, unogona kuverenga: tsananguro yePEF score pane saiti yeEco-Score methodological**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Ko nyaya yemuno ine chekuita nenzvimbo yakagadzirwa here kana kuti kwakabva zvinhu zvakagadzirwa here?
+## How are the values ​​of the 15 indicators combined?
 
-**Chinhu chemuno chine chekuita nekwakabva zvinhu zvakagadzirwa. Ndosaka zvichikosha kuisa huwandu hwazvo pamwe chete nekwazvakabva mune runyorwa rwezvinhu zvakagadzirwa kana mumunda wakatsaurirwa kumavambo ezvinhu zvinoshandiswa.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Unganyora sei mavambo ezvinoshandiswa zve eco-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Kana muchida kugovera ruzivo rwekwakabva zvinhu zvakagadzirwa pamapepa enyu, tinokukokai kuti muzviise pane runyorwa rwezvinhu zvinoshandiswa.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
