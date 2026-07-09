@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ഡാറ്റ ഡൗൺലോഡ്"
-description: "1 ചോദ്യം"
-lang: en-gb (ഇംഗ്ലീഷ്)
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: ക്ലൗഡ്-ഡൗൺലോഡ്
+icon: cloud-download
 ---
 
-{{< fa "ക്ലൗഡ്-ഡൗൺലോഡ്" size="3x (3x)" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ഒരു പ്രത്യേക രാജ്യത്തിനായുള്ള ഡാറ്റ എവിടെ നിന്ന് ലഭിക്കും?
+## Where to get the data for a specific country?
 
-നിലവിൽ, പ്രത്യേക രാജ്യങ്ങളിലേക്ക് കയറ്റുമതികളൊന്നുമില്ല.
+Currently, there are no exports dedicated to specific countries.
 
-ഒരു പ്രത്യേക രാജ്യവുമായി ബന്ധപ്പെട്ട ഡാറ്റ തിരഞ്ഞെടുക്കുന്നതിന് വ്യത്യസ്ത ഉപകരണങ്ങളുമായി സംയോജിപ്പിച്ച് ഞങ്ങളുടെ വ്യത്യസ്ത കയറ്റുമതികൾ ഉപയോഗിക്കാൻ നിരവധി മാർഗങ്ങളുണ്ട്.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[ഈ സാങ്കേതിക വിദ്യകളിൽ ചിലത് ഞങ്ങളുടെ വിക്കിയിൽ](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) നിങ്ങൾക്ക് പരിശോധിക്കാം.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
