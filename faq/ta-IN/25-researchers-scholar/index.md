@@ -1,21 +1,21 @@
 ---
-title: "{{<fa graduation-cap size=2x >}} ஆராய்ச்சியாளர்கள்/அறிஞர்"
-description: "1 துணைப்பிரிவு"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: பட்டமளிப்பு தொப்பி
+icon: graduation-cap
 listing:
   contents:
-    - "*.எம்டி"
+    - "*.md"
   include:
     category-level: 1
-  type: கட்டம்
+  type: grid
   grid-columns: 4
-  sort: "உத்தரவு"
-  fields: [ தலைப்பு, description ]
-  page-size: 100 மீ
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "பட்டமளிப்பு தொப்பி" size="3x (3x)" >}}
+{{< fa "graduation-cap" size=3x >}}
 
