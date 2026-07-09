@@ -1,49 +1,49 @@
 ---
-title: "ການຫຸ້ມຫໍ່ {{< fa cube size=2x >}}"
-description: "3 ຄຳຖາມ"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: ລູກບາດ
+icon: cube
 ---
 
-{{< fa "ລູກບາດ" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## ຂ້ອຍຈະເພີ່ມຂໍ້ມູນການຫຸ້ມຫໍ່ຂອງຂ້ອຍໃສ່ Open Food Facts ໄດ້ແນວໃດ?
+## How can I add my packaging data to Open Food Facts?
 
-ໃນຖານະຜູ້ຜະລິດ, ວິທີທີ່ມີປະສິດທິພາບທີ່ສຸດໃນການເພີ່ມຂໍ້ມູນການຫຸ້ມຫໍ່ໃສ່ຜະລິດຕະພັນຂອງທ່ານແມ່ນການຕື່ມຂໍ້ມູນທີ່ຈຳເປັນໃສ່ [ສະເປຣດຊີດ excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ນີ້, ຈາກຖັນ "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-ສຳລັບແຕ່ລະອົງປະກອບການຫຸ້ມຫໍ່, ທ່ານຈະຕ້ອງໃສ່:
+For each packaging component, you will need to enter:
 
-- ຈຳນວນໜ່ວຍ (ຕົວຢ່າງ: ນົມສົ້ມ 4 ກະປ໋ອງ)
+- The number of units (ex: **4** pots of yogurts)
 
-- ຮູບຮ່າງ (ຕົວຢ່າງ: **ໝໍ້, ຝາປິດ, ກ່ອງ, ແລະອື່ນໆ**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- ວັດສະດຸ (ຕົວຢ່າງ: **PET, ເຈ້ຍ, ແກ້ວ, ແລະອື່ນໆ**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- ຄຳແນະນຳກ່ຽວກັບການຣີໄຊເຄີນ (ຕົວຢ່າງ: **ຣີໄຊເຄີນ, ຖິ້ມ, ແລະອື່ນໆ**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ນ້ຳໜັກຂອງໜ່ວຍເປົ່າໜຶ່ງໜ່ວຍ (ເປັນກຣາມ)
+- The weight of one empty unit (in gr)
 
-- ປະລິມານສຸດທິຂອງຜະລິດຕະພັນຕໍ່ໜ່ວຍ
+- The net quantity of product contained per unit
 
-ຫຼັງຈາກນັ້ນ, ຕາຕະລາງນີ້ສາມາດນຳເຂົ້າມາໃນແພລດຟອມຂອງພວກເຮົາທີ່ອຸທິດໃຫ້ແກ່ຜູ້ຊ່ຽວຊານ.
-
----
-
-## ໂຄງການ Tackling Food Packaging ແມ່ນຫຍັງ?
-
-ໂຄງການ "ການແກ້ໄຂບັນຫາການຫຸ້ມຫໍ່ອາຫານ" ປະກອບດ້ວຍການເກັບກຳຂໍ້ມູນລະອຽດກ່ຽວກັບການຫຸ້ມຫໍ່ຂອງຜະລິດຕະພັນທີ່ບໍລິໂພກຫຼາຍທີ່ສຸດ (ຮູບຮ່າງ, ວັດສະດຸ, ຄຳແນະນຳໃນການຈັດຮຽງ, ນ້ຳໜັກ, ຄວາມຈຸ).
-
-ໂດຍອີງໃສ່ວິທີການວິທະຍາສາດແບບມີສ່ວນຮ່ວມ, ມັນຈະອີງໃສ່ທັງບໍລິສັດທີ່ຕົກລົງທີ່ຈະແບ່ງປັນຂໍ້ມູນການຫຸ້ມຫໍ່ຂອງເຂົາເຈົ້າ ແລະ ຫຼິ້ນເກມເພື່ອຄວາມໂປ່ງໃສ, ແລະ ພົນລະເມືອງທີ່ອະນຸຍາດໃຫ້ເກັບກຳຂໍ້ມູນກ່ຽວກັບຜະລິດຕະພັນ. ຂໍ້ມູນນີ້ຈະສາມາດນຳມາໃຊ້ຄືນໄດ້ຢ່າງເສລີ ("ຂໍ້ມູນເປີດ").
-
-**ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## ເຖິງແມ່ນວ່າຫຼັງຈາກໂຄງການ Tackling Food Packaging ສິ້ນສຸດລົງແລ້ວ, ຂ້ອຍຍັງສາມາດເພີ່ມຂໍ້ມູນການຫຸ້ມຫໍ່ຂອງຂ້ອຍໄດ້ບໍ?
+## What is the Tackling Food Packaging project?
 
-ເຖິງແມ່ນວ່າຫຼັງຈາກໂຄງການສິ້ນສຸດລົງແລ້ວ, ມັນກໍ່ຍັງສາມາດເພີ່ມຂໍ້ມູນການຫຸ້ມຫໍ່ໄດ້ ເພາະວ່າຊ່ອງຂໍ້ມູນການຫຸ້ມຫໍ່ຈະຍັງຄົງຢູ່ໃນເວັບໄຊທ໌ຂອງພວກເຮົາ.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
