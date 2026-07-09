@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Ачык азык-төлек турында фактлар"
-description: "4 сорау"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: мәгълүмати түгәрәк
+icon: info-circle
 ---
 
-{{< fa "мәгълүмати түгәрәк" size=3х >}}
+{{< fa "info-circle" size=3x >}}
 
-## Нинди мәгълүмат уртаклашырга кирәк?
+## What type of information should be shared?
 
-Туклану мәгълүматыннан алып төргәкләү мәгълүматына кадәр сездә булган теләсә нинди мәгълүмат рәхим итегез.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Бу тулы файл булдырырга, барлык балларны төгәл һәм гомумән алганда, кулланучылар тарафыннан югары бәяләнә торган ачыклык белән исәпләргә мөмкинлек бирә.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Шулай да, без сезгә түбәндәге өлкәләргә өстенлек бирүне тәкъдим итәбез:
+However we do recommend you prioritize the following fields:
 
-- Туклану турында мәгълүмат
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Продукт категориясе (мәсәлән, эчемлекләр, сыр, йогурт һ.б.)
-
-- Продукциянең исеме
-
-- Аллергеннар
-
-- һәм ингредиентлар, бу кыр мәҗбүри түгел, ләкин оптималь куллану һәм балларны билгеләү өчен тәкъдим ителә.
-
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ачык азык-төлек фактлары мәгълүматларын йөкләп алырга мөмкинме?
+## Can I download Open Food Facts data?
 
-Сез барлык мәгълүматларны Open Food Facts сайтында йөкли аласыз. Игътибар итегез, моның өчен күп диск урыны, көчле компьютер кирәк, әгәр сезгә электрон таблица кулланырга теләсәгез, яисә R яки Python телен белү кирәк.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Киңәйтелгән эзләү ярдәмендә сез шулай ук мәгълүматларның бер өлешен (мәсәлән, сезнең брендыгызны) йөкли аласыз.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Тулырак мәгълүмат алу өчен, сезне [кулланучы кулланмасын](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) йөкләргә һәм/яки [видео дәресләребезне](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карарга чакырабыз :-)
-
----
-
-## Pro платформасына керү һәм мәгълүматларны импортлау бушлаймы?
-
-Әлбәттә, һәм ул мәңгегә шулай булачак.Open Food Facts тарафыннан күрсәтелгән барлык хезмәтләр дә бушлай.  
-Азык-төлек ачыклыгына үз продуктыгыз турындагы мәгълүматларыгызны өстәргә карар кылуыгызга без бик шатбыз, һәм моның өчен сезгә рәхмәт белдерәбез.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Мин профессиональ платформа өчен яхшыртулар тәкъдим итәсем килә, моны ничек эшләргә?
+## Is access to the Pro platform and the import of data free?
 
-Азык-төлек ачыклыгын тәэмин итүдә катнашырга теләгәнегез өчен рәхмәт!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Фикер алышуның иң яхшы ысулы - [бу форманы](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) тутыру.
+---
 
-Сез шулай ук безнең белән [форумыбыз](https://forum.openfoodfacts.org/) яки [Slack](https://openfoodfacts.slack.com/ssb/redirect) аша элемтәгә кереп, тәкъдимнәрегезне җиткерә аласыз.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Безнең белән элемтәгә керер өчен, Slackка кушылыгыз һәм #producers каналына керегез.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
