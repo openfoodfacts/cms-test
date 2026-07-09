@@ -1,55 +1,55 @@
 ---
-title: "{{< fa באַניצער-פּלוס גרייס=2x >}} עקאָ-סקאָר"
-description: "5 פֿראַגעס"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: באַניצער-פּלוס
+icon: user-plus
 ---
 
-{{< fa "באַניצער-פּלוס" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## וואָס איז די עקאָ-סקאָר מעטאָדאָלאָגיע?
+## What is the Eco-Score methodology?
 
-דער עקאָ-סקאָר איז באַזירט אויף דער קאַלקולאַציע פון דער לעבן-ציקל אַנאַליז פּראָדוצירט דורך ADEME (די עקאָלאָגישע איבערגאַנג אַגענטור) און INRAE (דער נאַציאָנאַלער אינסטיטוט פֿאַר אַגראָנאָמישער פאָרשונג). ארום פופצן קאמפאנענטן ווערן אויסגערעכנט און פארבונדן צו שאפן דעם PEF כעזשבן.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-צו דעם PEF כעזשבן ווערן צוגעגעבן באָנוסעס און שלעכטע זאַכן (פּראָדוקציע אופֿן, אָפּשטאַם פֿון
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ינגרידיאַנץ, געפאַרפולטע מינים, פּאַקאַדזשינג) כּדי צו רעכענען דעם עקאָ-סקאָר.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-פֿאַר מער אינפֿאָרמאַציע, זעט די קיצור בלאַט [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) אויף Open Food Facts, ווי אויך אויף דער וועבזייטל פֿון Eco-Score קאָנסאָרטיום. (עקאָ-סקאָר פּרעזענטאַציע [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## וואָסערע סאָרט אינפֿאָרמאַציע מוז געגעבן ווערן כּדי דער עקאָ-סקאָר זאָל אויסגערעכנט ווערן אַזוי גענוי ווי מעגלעך?
-
-כּדי דער עקאָ-סקאָר זאָל גענוי אויסגערעכנט ווערן, מוז מען ספּעציפֿיצירן דעם פּראָצענט פֿון יעדן אינגרעדיענט און זײַן אָפּשטאַם.
-
-אויב די אינפֿאָרמאַציע איז נישט שוין ספּעציפֿירט אין דער רשימה פֿון אינהאַלטן, קענט איר צולייגן אַ קאָלום צו דערמאָנען עס, מיטן פֿאָלגנדיקן פֿאָרמאַט:
-
-ווייץ מעל 16% (פֿראַנקרײַך)
-
-שאָקאָלאַד 8% (אייוואָרי קאָוסט, עקוואַדאָר)
-
-מיר דאַרפֿן אויך די קאָמפּאָנענטן פֿון דער פּאַקאַדזשינג אין דער פֿאָרעם פֿון: 1 פּלאַסטיק פֿילם צו אַוועקוואַרפֿן, 1 FSC קאַרטאָן קעסטל צו ריסייקלען, 6 PET טראַנספּאַרענטע פּלאַסטיק פֿלעשער פֿון 1.5 ל צו ריסייקלען, 6 נישט-דורכזיכטיקע פֿאַרבטע פּלאַסטיק דעקלעך, 12 פּלאַסטיק קענס 33 קל אַלומינום.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## ווי ווערן די ווערטן פון די 15 אינדיקאטארן קאמבינירט?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**כדי בעסער צו פֿאַרשטיין די PEF סיסטעם, קענט איר לייענען: דערקלערונג פֿון די PEF כעזשבן אויף דער Eco-Score מעטאָדאָלאָגישער וועבזײַט**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## צי באַטראַפֿט דער לאָקאַלער אַספּעקט דעם אָרט פֿון פּראָדוקציע צי דעם אָרט פֿון אָפּשטאַם פֿון די רוי מאַטעריאַלן?
+## How are the values ​​of the 15 indicators combined?
 
-דער לאקאלער אַספּעקט באַטראַפֿט דעם אָפּשטאַם פֿון די רוי מאַטעריאַלן. דעריבער איז וויכטיג אריינצוגעבן זייערע פראצענטן און אויך זייערע אפשטאמען אין דער ליסטע פון פראדוקט אינגרעדיענטן אדער אין דעם פעלד וואס איז געווידמעט צו די אפשטאמען פון די אינגרעדיענטן.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ווי אזוי אריינצוגעבן די אָפּשטאַמונג פון די אינגרעדיענטן פֿאַרן עקאָ-סקאָר?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-אויב איר ווילט טיילן די אינפֿאָרמאַציע וועגן דעם אָפּשטאַם פֿון די רוי מאַטעריאַלן אויף אייערע בלעטער, לאַדן מיר אײַך אײַן זיי צו אַרײַננעמען אין דער רשימה פֿון אינהאַלטן.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
