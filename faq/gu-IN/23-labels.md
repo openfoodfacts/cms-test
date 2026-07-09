@@ -1,23 +1,23 @@
 ---
-title: "{{< fa બુકમાર્ક કદ=2x >}} લેબલ્સ"
-description: "૨ પ્રશ્નો"
-lang: eng-gb
-order: ૨૩
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: બુકમાર્ક
+icon: bookmark
 ---
 
-{{< fa "બુકમાર્ક" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## લેબલ તરીકે, શું એકાઉન્ટ બનાવવું મહત્વપૂર્ણ છે?
+## As a label, is it important to create an account ?
 
-લેબલ તરીકે, તમે ઉત્પાદનોના સીધા ઉત્પાદક નથી, તેથી તમારે ઉત્પાદકનું ખાતું બનાવવાની જરૂર નથી.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## હું એક લેબલ છું, હું આ પ્રોજેક્ટમાં કેવી રીતે ભાગ લઈ શકું?
+## I am a label, how can I participate in the project?
 
-લેબલ તરીકે સૌથી સુસંગત બાબત એ છે કે અમારો સંપર્ક કરો **(producers@openfoodfacts.org)** અને અમને તે ઉત્પાદનોની યાદી મોકલો જેના પર તમારું લેબલ પ્રદર્શિત થયેલ છે જેથી અમે તેમને સંબંધિત ઉત્પાદન શીટમાં ઉમેરી શકીએ.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
