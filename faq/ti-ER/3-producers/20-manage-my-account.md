@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} ኣካውንተይ ኣመሓድር"
-description: "3 ሕቶታት"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## ብዙሓት ናይ Open Food Facts ኣካውንታት ምስ ሓደ ኩባንያ ክተሓሓዙ ይኽእሉ ድዮም?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-እወ፡ በጃኹም ብኢመይል [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) ጽሓፉ፣ ስለዚ ኩሎም ኣካውንታት ናብ ሓደ ትካል ከነተሓሕዞም ንኽእል።
-
----
-
-## ከመይ ጌርና ናይ Open Food Facts ኣካውንተይ ናብ Pro account ንቕይሮ?
-
-ናብቲ [Pro platform](https://world.pro.openfoodfacts.org/) ምስቲ ዝጸንሐ ኣካውንትካ መረጋገጺ ክትኣቱ ትኽእል ኢኻ።
-
-ሞያዊ እንተኾይንካ፡ ንሕሳብካ ንምርግጋጽ፡ ሞያዊ ኢመይል ኣድራሻኻ ክትጥቀም ከድልየካ እዩ።
-
-→ ንዝያዳ ዝርዝር ሓበሬታ፡ [መምርሒ ተጠቃሚ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)ን/ወይ ድማ [ናይ ቪድዮ ትምህርትና](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ክትውከሱ ንዕድም :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## ንፕሮ ፕላትፎርም ንኽጥቀመሉ ዝሕግዘኒ ሰነዳት ኣበይ ክረክብ ይኽእል?
+## How to convert my Open Food Facts account into a Pro account?
 
-ካብቲ ፕሮ ፕላትፎርም ዝበለጸ ክትጥቀመሉ ዝሕግዙኻ ውሑዳት ጸጋታት ኣለዉ።
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-ብደሓን መጻእኩም፤
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - እቶም መላግቦታት ንኽጥውቑ ምእንቲ ነቲ PDF ከተውርድዎ ንዕድም፣ እዚ ድማ ኣብቲ ሰነድ ንዝግበር ምጉዓዝኩም ከቃልል እዩ።
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- [ናይ ቪድዮ ትምህርቲ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ተወከሱ።
+---
 
-- ርእይቶ ወይ ሓሳባት ብመንገዲ [እዚ ቅጥዒ](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) ኣካፍሉ።
+## Where can I find documentation to help me use the Pro platform?
 
-- ተወሳኺ ሕቶታት ምስ ዝህልወኩም ምስ ማኖን፡ ኣካያዲ ሽርክነታትና ጻውዒት መደብ ግበሩ፡ [ኣብዚ](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- ብኢመይል ርኸቡና፡ producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
