@@ -1,10 +1,10 @@
 ---
-title: "{{< fa industry size=2x >}} Mga Prodyuser"
-description: "6 na subkategorya"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industriya
+icon: industry
 listing:
   contents:
     - "*.md"
@@ -12,10 +12,10 @@ listing:
     category-level: 1
   type: grid
   grid-columns: 4
-  sort: "umorder"
-  fields: [ pamagat, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "industriya" size=3x >}}
+{{< fa "industry" size=3x >}}
 
