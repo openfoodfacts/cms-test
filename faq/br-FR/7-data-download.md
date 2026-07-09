@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ment ar c'hoad-pellgargañ=2x >}} Pellgargañ roadennoù"
-description: "1 goulenn"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: pellgargañ er goumoulenn
+icon: cloud-download
 ---
 
-{{< fa "pellgargañ er goumoulenn" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Pelec'h kaout roadennoù evit ur vro resis ?
+## Where to get the data for a specific country?
 
-Hiziv an deiz n'eus ezporzhiadur ebet gouestlet da vroioù resis.
+Currently, there are no exports dedicated to specific countries.
 
-Meur a zoare zo da implijout hon ezporzhiadurioù disheñvel asambles gant ostilhoù disheñvel evit dibab ar roadennoù liammet ouzh ur vro resis.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Gallout a rit sellet ouzh [lod eus an teknikoù-se war hor wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
