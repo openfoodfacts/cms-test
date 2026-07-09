@@ -1,21 +1,21 @@
 ---
-title: "{{< размер на дипломирането за fa=2x >}} Изследователи/Учени"
-description: "1 подкатегория"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: шапка за дипломиране
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: решетка
+  type: grid
   grid-columns: 4
-  sort: "поръчка"
-  fields: [ заглавие, описание ]
+  sort: "order"
+  fields: [ title, описание ]
   page-size: 100
 ---
 
-{{< fa "шапка за дипломиране" size="3 пъти" >}}
+{{< fa "graduation-cap" size=3x >}}
 
