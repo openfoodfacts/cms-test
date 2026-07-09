@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etykiety"
-description: "2 pytania"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: zakładka w książce
+icon: bookmark
 ---
 
-{{< fa "zakładka w książce" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Czy jako wytwórnia płytowa musisz założyć konto?
+## As a label, is it important to create an account ?
 
-Jako producent nie musisz zakładać konta producenta, ponieważ nie jesteś bezpośrednim producentem produktów.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Jestem wytwórnią płytową. Jak mogę wziąć udział w projekcie?
+## I am a label, how can I participate in the project?
 
-W przypadku etykiet najbardziej odpowiednią rzeczą, jaką możesz zrobić, jest skontaktowanie się z nami pod adresem **(producers@openfoodfacts.org)** i przesłanie nam listy produktów, na których widnieje Twoja etykieta, tak abyśmy mogli dodać je do odpowiednich kart produktu.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
