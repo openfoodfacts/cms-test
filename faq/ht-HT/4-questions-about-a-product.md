@@ -1,23 +1,23 @@
 ---
-title: "{{< gwosè panyen acha a=2x >}} Kesyon sou yon pwodwi"
-description: "1 kesyon"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: panyen acha
+icon: shopping-basket
 ---
 
-{{< fa "panyen acha" size="3 fwa" >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Mwen gen yon kesyon/reklamasyon sou yon pwodwi
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) se yon sit kolaboratif ki kreye epi alimenté pa konsomatè yo pou kapab dechifre etikèt yo epi konpare pwodwi yo.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Pou plis enfòmasyon sou yon pwodwi oswa yon reklamasyon, ekri manifakti a. Nou pa gen enfòmasyon pou kontakte manifaktirè yo, men yo pi souvan sou anbalaj la.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Si ou vle ede nou pote plis transparans pou konsomatè tankou ou menm oswa nou, ou ka itilize aplikasyon iPhone oswa Android nou an pou ajoute pwodwi: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Epi pou diskite sou pwojè a, ou ka rantre nan gwoup kontribitè Facebook yo: [[https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) oubyen pale ak lòt kontribitè yo sou Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
