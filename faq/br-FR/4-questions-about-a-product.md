@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Goulennoù diwar-benn ur produ"
-description: "1 goulenn"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: paner-prenañ
+icon: shopping-basket
 ---
 
-{{< fa "paner-prenañ" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ur goulenn / klemm am eus diwar-benn ur produ
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) zo ul lec'hienn genlabour krouet ha maget gant ar gounezerien evit gellout dizifrañ an tikedennoù ha keñveriañ ar produioù.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Evit gouzout hiroc'h diwar-benn ur produ pe ur goulenn, skrivit d'ar c'henderc'her. N'hon eus ket titouroù darempred evit ar c'henderc'herien met peurliesañ e vezont war ar pakad.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Ma fell deoc'h sikour ac'hanomp da zegas muioc'h a gleuzeur d'ar gounezerien eveldoc'h pe ni, e c'hallit implijout hon arload iPhone pe Android evit ouzhpennañ produioù : [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Hag evit komz diwar-benn ar raktres e c'hallit mont e-barzh strollad kenlabourerien Facebook : [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) pe flapañ gant ar genlabourerien all war Slack :
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
