@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Nkyerɛwde ahorow"
-description: "2 nsɛmmisa"
-lang: tw-gb
-order: 23. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: bookmark a wɔde hyɛ krataa so
+icon: bookmark
 ---
 
-{{< fa "bookmark a wɔde hyɛ krataa so" size="3x na ɛyɛ" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Sɛ́ label no, so ɛho hia sɛ wobɔ akontaabu ?
+## As a label, is it important to create an account ?
 
-Sɛ́ label no, esiane sɛ ɛnyɛ wo na ɔyɛ nneɛma no tẽẽ nti, enhia sɛ wobɔ nea ɔyɛ no akontaabu.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Meyɛ label, mɛyɛ dɛn atumi de me ho ahyɛ adwuma no mu?
+## I am a label, how can I participate in the project?
 
-Sɛ́ label no adeɛ a ɛfata paa sɛ wobɛyɛ ne sɛ wobɛdi yɛn nkitaho **(producers@openfoodfacts.org)** na wode nneɛma a wɔakyerɛw wo label no akyerɛ wɔ so no din amena yɛn sɛdeɛ ɛbɛyɛ a yɛbɛtumi de aka nneɛma ho nkrataa a ɛfa ho no ho.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
