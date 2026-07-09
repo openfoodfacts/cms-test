@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} නිෂ්පාදන කළඹ විශ්ලේෂණය (මිණුම් ලකුණ, වැඩිදියුණු කිරීම...)"
-description: "1 ප්‍රශ්නයක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 22 යි
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: ප්‍රස්ථාර තීරුව
+icon: chart-bar
 ---
 
-{{< fa "ප්‍රස්ථාර තීරුව" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## මගේ නිෂ්පාදනවල පෝෂණ අගය වැඩි දියුණු කිරීම සඳහා ප්‍රතිසංස්කරණ නිර්දේශයට ප්‍රවේශ වන්නේ කෙසේද?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-ඔබ නිෂ්පාදක වේදිකාවේ මුල් පිටුවේ සිටින විට:
+When you are on the home page of the Producers Platform:
 
-1. පිටුවේ ඉහළින් ඇති "→ වැඩිදියුණු කිරීමේ අවස්ථා සහිත නිෂ්පාදන ගණන" සබැඳිය ක්ලික් කරන්න.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. ඔබේ නිෂ්පාදන වැඩිදියුණු කිරීම සඳහා අපගේ පද්ධතිය මඟින් අනාවරණය කරගත් සියලු අවස්ථාවන් ඔබට ලබා ගත හැකිය.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. යම් ආකාරයක අවස්ථාවක් මත ක්ලික් කිරීමෙන් ඔබව වැඩිදියුණු කළ යුතු නිෂ්පාදන ලැයිස්තුවකට ගෙන යනු ඇත.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ වැඩි විස්තර සඳහා, අපගේ [පරිශීලක මාර්ගෝපදේශය](>https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) බාගත කර/හෝ අපගේ [වීඩියෝ නිබන්ධන](>https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) පරිශීලනය කරන ලෙස අපි ඔබට ආරාධනා කරමු :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
