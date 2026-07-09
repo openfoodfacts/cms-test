@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} パッケージ"
-description: "3つの質問"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: キューブ
+icon: cube
 ---
 
-{{< fa "キューブ" size=3倍 >}}
+{{< fa "cube" size=3x >}}
 
-## Open Food Facts にパッケージデータを追加するにはどうすればいいですか?
+## How can I add my packaging data to Open Food Facts?
 
-生産者として、製品にパッケージデータを追加する最も効率的な方法は、この [Excel スプレッドシート](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) の列「AU」から必要な情報を入力することです。
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-パッケージコンポーネントごとに、次の情報を入力する必要があります。
+For each packaging component, you will need to enter:
 
-- ユニット数（例：ヨーグルト **4** 個）
+- The number of units (ex: **4** pots of yogurts)
 
-- 形状（例：**鍋、蓋、箱など**）
+- The shape (ex: **pot, lid, box, etc**)
 
-- 材質（例：**PET、紙、ガラスなど**）
+- The material (ex: **PET, paper, glass, etc**)
 
-- リサイクルの指示（例：**リサイクルする、廃棄するなど**）
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- 空のユニット1個の重量（グラム）
+- The weight of one empty unit (in gr)
 
-- 単位あたりの製品の正味量
+- The net quantity of product contained per unit
 
-このスプレッドシートは、専門家専用のプラットフォームにインポートできます。
-
----
-
-## 食品包装問題に取り組むプロジェクトとは何ですか?
-
-「食品包装への取り組み」プロジェクトは、最も消費される製品の包装に関する詳細な情報（形状、材質、分別指示、重量、容量）を収集することから構成されています。
-
-参加型科学アプローチに基づき、企業がパッケージデータの共有に同意し、透明性を確保すること、そして国民が製品に関する情報収集を許可することの両方に依存することになる。 この情報は自由に再利用できます（「オープンデータ」）。
-
-**詳細については:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers) をご覧ください。
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## 「食品パッケージングへの取り組み」プロジェクトが終了した後でも、パッケージデータを追加することはできますか?
+## What is the Tackling Food Packaging project?
 
-プロジェクト終了後も、パッケージフィールドは弊社ウェブサイト上に残りますので、パッケージデータを追加することも可能です。
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
