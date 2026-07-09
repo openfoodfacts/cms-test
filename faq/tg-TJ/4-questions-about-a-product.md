@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Саволҳо дар бораи маҳсулот"
-description: "1 савол"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: сабади харид
+icon: shopping-basket
 ---
 
-{{< fa "сабади харид" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ман дар бораи маҳсулот савол/иддао дорам
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) як сомонаи муштарак аст, ки аз ҷониби истеъмолкунандагон барои рамзкушоӣ ва муқоисаи маҳсулот сохта ва таъмин карда мешавад.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Барои гирифтани маълумоти бештар дар бораи маҳсулот ё даъво, ба истеҳсолкунанда нависед. Мо маълумоти тамосии истеҳсолкунандагонро надорем, аммо онҳо аксар вақт дар бастабандӣ мавҷуданд.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Агар шумо хоҳед, ки ба мо дар таъмини шаффофияти бештар барои истеъмолкунандагон ба монанди шумо ё мо кумак кунед, шумо метавонед аз барномаи iPhone ё Android-и мо барои илова кардани маҳсулот истифода баред: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Ва барои муҳокима дар бораи лоиҳа, шумо метавонед ба гурӯҳи саҳмгузорони Facebook ҳамроҳ шавед: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ё бо дигар саҳмгузорон дар Slack сӯҳбат кунед:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
