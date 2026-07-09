@@ -1,21 +1,21 @@
 ---
-title: "Vagadziri veindasitiri"
-description: "Zvikamu zvitanhatu"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: indasitiri
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: gridhi
+  type: grid
   grid-columns: 4
-  sort: "odha"
-  fields: [ zita remusoro, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "indasitiri" size=3x >}}
+{{< fa "industry" size=3x >}}
 
