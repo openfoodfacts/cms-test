@@ -1,39 +1,39 @@
 ---
-title: "{{< fa girman layin ginshiƙi=2x >}} Game da maki"
-description: "Tambayoyi 3"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: layin ginshiƙi
+icon: chart-line
 ---
 
-{{< fa "layin ginshiƙi" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Wanene ke da alhakin ƙididdige sawun ƙafa da/ko maki?
+## Who is responsible for calculating the footprint and/or score?
 
-An ƙididdige Nutri-Score, ƙungiyar NOVA da Eco-Score bisa ga bayanan da ke cikin Buɗaɗɗen Bayanan Abinci. Tsarin mu yana bin ƙa'idodin hukuma na waɗannan maki.
-
----
-
-## Menene bambanci tsakanin Eco-Score, Nutri-Score da ƙungiyar NOVA?
-
-Manufar waɗannan alamomi ita ce samar da bayanai masu sauƙin fahimta ga mai amfani.
-
-Ƙungiyar [NOVA](https://fr.openfoodfacts.org/nova) tana magana ne game da sauya samfurin, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) tare da tasirin muhalli da kuma [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) tare da abubuwan gina jiki, sanin cewa gwargwadon yawan samfurin yana da maki kusa da A, haka yake da inganci.
-
-Maki 3 ba sa magana game da abubuwa iri ɗaya. Saboda haka ba zai yiwu a kwatanta su da juna ba.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Shin zai yiwu a yi kwaikwayon Eco-Score ko Nutri-Score na samfurana?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Ta hanyar yin rijista a dandalin masu samarwa da kuma loda bayanan samfuran ku, zaku iya ƙididdige Nutri-Score da Eco-Score da ke da alaƙa da samfuran ku.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Duk da haka, dole ne ka goge shi da zarar an yi kwaikwayon don kada a fitar da shi zuwa dandamalin jama'a tare da samfuran da aka riga aka tallata a cikin jerin samfuran ku.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
