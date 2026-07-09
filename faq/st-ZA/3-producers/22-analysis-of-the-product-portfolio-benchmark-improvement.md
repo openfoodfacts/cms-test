@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Tlhahlobo ea pokello ea lihlahisoa (benchmark, ntlafatso...)"
-description: "Potso e le 'ngoe"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: bara ea chate
+icon: chart-bar
 ---
 
-{{< fa "bara ea chate" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Nka fumana taelo ea ho ntlafatsa Nutri-Score joang bakeng sa lihlahisoa tsa ka?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Ha o le leqepheng la pele la Sethala sa Bahlahisi:
+When you are on the home page of the Producers Platform:
 
-1. Tobetsa sehokelo "→ Palo ea lihlahisoa tse nang le menyetla ea ntlafatso" holimo leqepheng.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. o ka sheba menyetla eohle e fumanoeng ke sistimi ea rona ea ho ntlafatsa lihlahisoa tsa hau
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ho tobetsa mofuta oa monyetla ho tla u lebisa lethathamong la lihlahisoa tse ka ntlafatsoang.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Bakeng sa lintlha tse ling, re u mema hore u khoasolle [tataiso ea mosebelisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kapa u shebe [lithuto tsa rona tsa video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
