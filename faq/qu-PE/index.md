@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - Quechua"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,11 +10,11 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: tawa kuchusqa
+  type: grid
   grid-columns: 4
-  sort: "ñiqinchay"
-  fields: [ suti, description ]
-  page-size: 100. 100
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
