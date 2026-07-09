@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} អ្នកស្រាវជ្រាវ/អ្នកប្រាជ្ញ"
-description: "ប្រភេទរងចំនួន 1"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ២៥
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: មួកបញ្ចប់ការសិក្សា
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ក្រឡាចត្រង្គ
+  type: grid
   grid-columns: 4
-  sort: "លំដាប់"
-  fields: [ ចំណងជើង, description ]
-  page-size: ១០០
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "មួកបញ្ចប់ការសិក្សា" size=៣ដង >}}
+{{< fa "graduation-cap" size=3x >}}
 
