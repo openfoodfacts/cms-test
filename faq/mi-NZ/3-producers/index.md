@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Ngā Kaihanga"
-description: "6 ngā kāwai iti"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ahumahi
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: whatunga
+  type: grid
   grid-columns: 4
-  sort: "tono"
-  fields: [ taitara, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ahumahi" size=3x >}}
+{{< fa "industry" size=3x >}}
 
