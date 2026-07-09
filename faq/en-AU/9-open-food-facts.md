@@ -9,7 +9,7 @@ icon: question-circle
 
 {{< fa "question-circle" size=3x >}}
 
-## What is the difference with other web sites, services and mobile applications that already allow to view cosmetics products information?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
@@ -21,7 +21,7 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ---
 
-## What is Open Beauty Facts' economic model
+## What is Open Food Facts' economic model?
 
 Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
@@ -33,13 +33,13 @@ We are also strictly independent from the food industry, and all the services an
 
 ## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
-Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that's actually the reason why we are creating Open Beauty Facts: to make all this data available to all and for all uses.
+Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that's actually the reason why we are creating Open Food Facts: to make all this data available to all and for all uses.
 
 To avoid any legal problem, we therefore ask contributors to only add pictures that they took themselves, and only data that is coming from the product packaging and label.
 
 ---
 
-## How can I contact the Open Beauty Facts team, ask questions or make suggestions?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
 You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
@@ -61,11 +61,11 @@ Finally, many producers send us photos and data about their products using our P
 
 ---
 
-## I am a cosmetics product manufacturer, can I add my own products?
+## I am a food product manufacturer, can I add my own products?
 
 Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. We have developed a free platform to let you easily import photos and data about your products, regardless of your size. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
