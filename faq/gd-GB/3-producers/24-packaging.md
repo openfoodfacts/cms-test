@@ -1,49 +1,49 @@
 ---
-title: "Pacadh"
-description: "3 ceistean"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: ciùb
+icon: cube
 ---
 
-{{< fa "ciùb" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ciamar as urrainn dhomh mo dhàta pacaidh a chur ri Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Mar riochdaire, ’s e an dòigh as èifeachdaiche air dàta pacaidh a chur ri do thoraidhean le bhith a’ lìonadh a-steach an [clèithe excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) seo am fiosrachadh riatanach, bhon cholbh “AU”.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Airson gach pàirt den phacaid, feumaidh tu a chur a-steach:
+For each packaging component, you will need to enter:
 
-- An àireamh de dh'aonadan (m.e.: **4** poitean iogart)
+- The number of units (ex: **4** pots of yogurts)
 
-- An cruth (m.e.: **poit, mullach, bogsa, msaa**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- An stuth (m.e.: **PET, pàipear, glainne, msaa**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- An stiùireadh ath-chuairteachaidh (m.e.: **ath-chuairteachadh, tilgeil air falbh, msaa.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Cuideam aon aonad falamh (ann an gr)
+- The weight of one empty unit (in gr)
 
-- Meud lom an toraidh a tha ann gach aonad
+- The net quantity of product contained per unit
 
-Faodar an duilleag-clèithe seo a thoirt a-steach don àrd-ùrlar againn a tha coisrigte do phroifeiseantaich an uairsin.
-
----
-
-## Dè a th’ ann am pròiseact A’ dèiligeadh ri pacaigeadh bìdh?
-
-Tha am pròiseact “A’ dèiligeadh ri pacaigeadh bìdh” a’ toirt a-steach cruinneachadh fiosrachaidh mhionaideach air pacaigeadh nan toraidhean as motha a thathas ag ithe (cruth, stuth, stiùiridhean seòrsachaidh, cuideam, comas).
-
-Stèidhichte air dòigh-obrach saidheans com-pàirteach, bidh e an urra ri companaidhean ag aontachadh an dàta pacaidh aca a cho-roinn agus a bhith a’ cluich geama na follaiseachd, agus air saoranaich a’ leigeil le fiosrachadh a chruinneachadh mu thoraidhean. Bidh am fiosrachadh seo ri ath-chleachdadh gu saor ("dàta fosgailte").
-
-**Airson tuilleadh fiosrachaidh:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Fiù 's an dèidh don phròiseact A' dèiligeadh ri Pacadh Bidhe tighinn gu crìch, an urrainn dhomh fhathast mo dhàta pacaidh a chur ris?
+## What is the Tackling Food Packaging project?
 
-Fiù 's an dèidh don phròiseact tighinn gu crìch, tha e comasach dàta pacaidh a chur ris oir fuirichidh na raointean pacaidh air an làrach-lìn againn.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
