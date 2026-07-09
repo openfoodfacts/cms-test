@@ -1,21 +1,21 @@
 ---
-title: "{{< fa usayizi wemboni=2x >}} Abakhiqizi"
-description: "Izigaba ezingaphansi kwezingu-6"
-lang: i-en-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: imboni
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: igridi
+  type: grid
   grid-columns: 4
-  sort: "i-oda"
-  fields: [ isihloko, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "imboni" size=3x >}}
+{{< fa "industry" size=3x >}}
 
