@@ -1,17 +1,17 @@
 ---
-title: "מנוע פולקסונומיה {{< גודל הספר fa=2x >}}"
-description: "שאלה אחת"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: סֵפֶר
+icon: book
 ---
 
-{{< fa "סֵפֶר" size="פי 3" >}}
+{{< fa "book" size=3x >}}
 
-## מהו מנוע הפולקסונומיה?
+## What is the Folksonomy Engine ?
 
-מנוע Folksonomy היא מערכת המאפשרת למשתמשים להוסיף תגיות או מאפיינים מותאמים אישית למוצרי מזון ב-Open Food Facts, מסד הנתונים הפתוח הגדול בעולם למזון. זה מאפשר לאנשים לסווג ולתאר מזון בדרכים חדשות, מעבר לתכונות המוגדרות מראש הקיימות.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
