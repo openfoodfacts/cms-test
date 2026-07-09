@@ -1,21 +1,21 @@
 ---
-title: "{{< fa hodeiko deskargaren tamaina=2x >}} Datuen deskarga"
-description: "galdera 1"
-lang: eu-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: hodeiko deskarga
+icon: cloud-download
 ---
 
-{{< fa "hodeiko deskarga" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Nondik lortu herrialde jakin bati buruzko datuak?
+## Where to get the data for a specific country?
 
-Gaur egun, ez dago herrialde zehatzetara bideratutako esportaziorik.
+Currently, there are no exports dedicated to specific countries.
 
-Hainbat modu daude gure esportazio desberdinak erabiltzeko, hainbat tresnarekin konbinatuta, herrialde jakin bati lotutako datuak hautatzeko.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[Teknika horietako batzuk gure wikian](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) ikus ditzakezu.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
