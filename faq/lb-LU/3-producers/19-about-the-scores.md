@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Iwwer d'Resultater"
-description: "3 Froen"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
-order: 19 Joer
+order: 19
 category-level: 1
-icon: Grafiklinn
+icon: chart-line
 ---
 
-{{< fa "Grafiklinn" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Wien ass verantwortlech fir d'Berechnung vum Foussofdrock an/oder dem Score?
+## Who is responsible for calculating the footprint and/or score?
 
-Den Nutri-Score, d'NOVA-Grupp an den Eco-Score ginn op Basis vun den Donnéeën aus Open Food Facts berechent. Eis Algorithmen halen sech strikt un déi offiziell Methodologien vun dëse Scores.
-
----
-
-## Wat ass den Ënnerscheed tëscht dem Eco-Score, dem Nutri-Score an der NOVA Grupp?
-
-Den Zweck vun dësen Indicateuren ass et, dem Konsument einfach verständlech Informatiounen ze liwweren.
-
-D'[NOVA-Grupp](https://fr.openfoodfacts.org/nova) beschäftegt sech mat der Transformatioun vum Produkt, den[Eco-Score](https://fr.openfoodfacts.org/ecoscore) mat sengem Ëmweltimpakt an den [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) mat den Ernärungselementer, well ee weess, datt wat méi e Produkt Punkte no bei A huet, wat méi qualitativ et ass.
-
-Déi 3 Punkte behandelen net déiselwecht Elementer. Et ass dofir net méiglech, se mateneen ze vergläichen.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Ass et méiglech den Eco-Score oder Nutri-Score vu menge Produkter ze simuléieren?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Indem Dir Iech op der Produzenteplattform registréiert an d'Donnéeë vun Äre Produkter eropluet, kënnt Dir den Nutri-Score an den Eco-Score berechnen, déi mat Äre Produkter verbonne sinn.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Dir musst se awer läschen, nodeems d'Simulatioun duerchgefouert gouf, fir datt se net mat de Produkter, déi scho an Ärem Sortiment vermaart sinn, op déi ëffentlech Plattform exportéiert gëtt.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Fir méi Detailer invitéiere mir Iech, eis [Benotzerhandbuch](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) erofzelueden an/oder eis [Video-Tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ze consultéieren :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
