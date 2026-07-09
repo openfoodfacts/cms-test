@@ -1,55 +1,55 @@
 ---
-title: "Sgòr-Eag-eòlais {{< fa user-plus size=2x >}}"
-description: "5 ceistean"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: neach-cleachdaidh-plus
+icon: user-plus
 ---
 
-{{< fa "neach-cleachdaidh-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Dè a th’ ann am modh-obrach an Eco-Score?
+## What is the Eco-Score methodology?
 
-Tha an Eco-Score stèidhichte air àireamhachadh an anailis cearcall-beatha a rinn ADEME (a’ bhuidheann gluasaid eag-eòlasach) agus INRAE (an institiud nàiseanta airson rannsachadh àiteachais). Tha mu chòig pàirtean deug air an obrachadh a-mach agus air an ceangal gus sgòr PEF a chruthachadh.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Cuirtear bònasan agus droch chleachdaidhean ris a’ sgòr PEF seo (modh cinneasachaidh, tùs
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-tàthchuid, gnèithean ann an cunnart, pacaigeadh) gus an Sgòr-Eag-eòlais obrachadh a-mach.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Airson tuilleadh fiosrachaidh, faic an duilleag geàrr-chunntas [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) air Open Food Facts a bharrachd air làrach-lìn co-bhanntachd Eco-Score. (Taisbeanadh Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Dè an seòrsa fiosrachaidh a dh’fheumar a thoirt seachad gus an tèid an Sgòr-Eag-eòlais obrachadh a-mach cho ceart ‘s a ghabhas?
-
-Gus an Sgòr-Eag-eòlais a thomhas gu ceart, feumar ceudad gach tàthchuid agus a thùs a shònrachadh.
-
-Mura h-eil am fiosrachadh seo air a shònrachadh mar-thà anns an liosta tàthchuid, faodaidh tu colbh a chur ris gus iomradh a thoirt air, leis an fhòrmat a leanas:
-
-Flùr cruithneachd 16% (An Fhraing)
-
-Seoclaid 8% (Costa Eabhair, Ecuador)
-
-Feumaidh sinn cuideachd pàirtean a’ phacaid ann an cruth: 1 film plastaig airson a thilgeil air falbh, 1 bogsa cairt-bhòrd FSC airson ath-chuairteachadh, 6 botail phlastaig PET follaiseach de 1.5 L airson ath-chuairteachadh, 6 ceapan plastaig dathte neo-shoilleir, 12 canastair plastaig alùmanum 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ciamar a tha luachan nan 15 comharran air an cur còmhla?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-Gus tuigse nas fheàrr fhaighinn air siostam PEF, faodaidh tu leughadh: mìneachadh air sgòr PEF air làrach-lìn modh-obrach Eco-Score.
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## A bheil a’ thaobh ionadail a’ buntainn ris an àite saothrachaidh no ris an àite às an tàinig na stuthan amh?
+## How are the values ​​of the 15 indicators combined?
 
-Tha an taobh ionadail a’ buntainn ri tùs nan stuthan amh. Sin as coireach gu bheil e cudromach na ceudadan aca a bharrachd air an tùsan a chur a-steach ann an liosta ghrìtheidean an toraidh no anns an raon a tha coisrigte do thùs nan grìtheidean.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Ciamar a chuireas tu a-steach tùs nan tàthchuid airson an sgòr eag-eòlasach?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Ma tha thu airson fiosrachadh a cho-roinn mu thùs nan stuthan amh air na duilleagan agad, tha sinn a’ toirt cuireadh dhut an cur anns an liosta tàthchuid.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
