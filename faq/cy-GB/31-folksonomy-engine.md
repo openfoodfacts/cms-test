@@ -1,17 +1,17 @@
 ---
-title: "Peiriant Gweriniaeth {{< maint y llyfr fa=2x >}}"
-description: "1 cwestiwn"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: llyfr
+icon: book
 ---
 
-{{< fa "llyfr" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Beth yw'r Peiriant Folksonomy?
+## What is the Folksonomy Engine ?
 
-Mae'r Peiriant Folksonomy yn system sy'n caniatáu i ddefnyddwyr ychwanegu tagiau neu briodweddau personol at gynhyrchion bwyd yn Open Food Facts, cronfa ddata bwyd agored fwyaf y byd. Mae hyn yn caniatáu i bobl gategoreiddio a disgrifio bwyd mewn ffyrdd newydd, y tu hwnt i'r priodweddau wedi'u diffinio ymlaen llaw sy'n bodoli eisoes.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
