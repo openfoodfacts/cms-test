@@ -1,27 +1,27 @@
 ---
-title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
-description: "2 questions"
-lang: en-gb
+title: "{{< fa user-circle size=2x >}} Mijn Open Food Facts-account"
+description: "2 vragen"
+lang: nl-nl
 order: 1
 category-level: 0
-icon: user-circle
+icon: gebruikerscirkel
 ---
 
-{{< fa "user-circle" size=3x >}}
+{{< fa "gebruikerscirkel" size=3x >}}
 
-## I want to delete my account
+## Ik wil mijn account verwijderen
 
-Account deletion now happens directly in your preferences.
+Je kunt je account nu rechtstreeks in je voorkeuren verwijderen.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Na het inloggen op [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klikt u op uw gebruikersnaam in de rechterbovenhoek en kiest u 'Accountparameters'. Hiermee wordt je voorkeurenpagina geopend. Ga naar de onderkant van de pagina en gebruik de actie "gebruiker verwijderen".
 
 If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
 ---
 
-## How do I change my username?
+## Hoe kan ik mijn gebruikersnaam wijzigen?
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Helaas is dat niet mogelijk. Als je echt iets wilt veranderen, moet je je account verwijderen en een nieuw account aanmaken.
 
 ---
 
