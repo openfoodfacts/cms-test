@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} کليل کاڌي جا حقيقت"
-description: "9 سوال"
-lang: اين جي بي
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: سوال جو دائرو
+icon: question-circle
 ---
 
-{{< fa "سوال جو دائرو" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. تقريبن سڀني ڪيسن ۾، انهن جي خدمت جون شرطون واضح طور تي ڪنهن به غير ذاتي استعمال ۽ سڀني ڊيٽا يا ڊيٽا جي حصن جي ڪنهن به ڪڍڻ کان منع ڪن ٿيون.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. تنهن ڪري جڏهن اسان 2012 ۾ اوپن فوڊ فيڪٽس پروجيڪٽ ۽ موبائل ايپ شروع ڪئي، ته اسان بلڪل ان جي ابتڙ ڪرڻ جو فيصلو ڪيو: نه رڳو اسان پنهنجي ڊيٽابيس جي استعمال ۽ ٻيهر استعمال جي اجازت ڏيون ٿا، آزادانه ۽ بغير ڪنهن فيس جي، هر ڪنهن کي ۽ سڀني استعمالن لاءِ (ڪمرشل سميت)، پر اسان ان جي حوصلا افزائي پڻ ڪريون ٿا!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-ڊيٽا کي عوامي طور تي دستياب ڪرڻ (جيڪو _کليل ڊيٽا_ جي نالي سان سڃاتو وڃي ٿو) دنيا جي چوڌاري فردن، تنظيمن، ڪمپنين، محققن وغيره کي ڊيٽا لاءِ ايپليڪيشنون سوچڻ ۽ ترقي ڪرڻ جي اجازت ڏئي ٿو جنهن بابت اسان يقيني طور تي ڪڏهن به نه سوچيو هوندو.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (ڏسو [ٻيهر استعمال جون شرطون](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-هر ڪو (جنهن ۾ اوپن فوڊ فيڪٽس جا حصو وٺندڙ ۽ تخليقڪار شامل آهن پر انهن تائين محدود نه آهن) اهڙي طرح ويب سائيٽون، خدمتون، سافٽ ويئر، موبائل ايپليڪيشنون ٺاهڻ، يا مضمون ۽ مطالعي لکڻ لاءِ ڊيٽا کي ٻيهر ورهائي ۽/يا ٻيهر استعمال ڪري سگهي ٿو. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. مثال طور، اسان جو پليٽ فارم فار پروڊيوسرز مڪمل طور تي مفت آهي، ۽ اسان ان سان وڌيڪ خوش آهيون ڇاڪاڻ ته اسان سوچيو ٿا ته اهو انهن جي شين کي بهتر بڻائڻ ۾ مدد ڪري سگهي ٿو.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-توهان فورم تي سوال پڇي سگهو ٿا يا تجويزون ڏئي سگهو ٿا يا اسان سان اي ميل ذريعي رابطو ڪري سگهو ٿا: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-جيڪڏهن توهان هڪ پروڊيوسر آهيو، مهرباني ڪري اسان کي [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) تي اي ميل ڪريو.
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-جيڪڏهن توهان صحافي آهيو، مهرباني ڪري اسان کي [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org) تي اي ميل ڪريو.
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-مهرباني ڪري نوٽ ڪريو: [اوپن فوڊ فيڪٽس کاڌي جي شين جو هڪ گڏيل ڊيٽابيس آهي](https://world.openfoodfacts.org/discover)، اسان ڪا به پراڊڪٽ نه ٿا وڪڻون ۽ اسان جا انهن جي پيدا ڪندڙن سان لنڪ نه آهن. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-معلومات ۽ ڊيٽا اوپن فوڊ فيڪٽس جي مدد ڪندڙن پاران جمع ڪرايو ويو آهي. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. مثال طور جيڪڏهن ڪنهن پراڊڪٽ جي غذائي حقيقت ساڳئي درجي جي شين کان تمام مختلف آهي، ته اهو هڪ غلطي ٿي سگهي ٿي. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. جيڪڏهن توهان پيدا ڪندڙ آهيو، مهرباني ڪري [اسان سان رابطو ڪريو](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (ڏسو [شراکت جون شرطون](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-اسان هڪ مفت پليٽ فارم تيار ڪيو آهي ته جيئن توهان آساني سان پنهنجي شين بابت تصويرون ۽ ڊيٽا درآمد ڪري سگهو، توهان جي سائيز کان سواءِ. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. اسان سان رابطو ڪريو ته ڪيئن اڳتي وڌي سگهون ٿا: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## اوپن فوڊ فيڪٽس ڊيٽا ڪير استعمال ڪندو آهي؟
+## Who uses Open Food Facts data?
 
-اوپن فوڊ فيڪٽس
-پليٽ فارم تي ڀروسو ڪندڙ سڀني تنظيمن جي فهرست ٺاهڻ ۾ تمام گهڻو وقت لڳندو
-.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
 - More than 100 mobile applications
   address the needs of many audiences: diabetes (VeryDiab), allergies, food
-  balance via artificial intelligence (FoodVisor), disabilities, and more. اسان جي
-  ڊيٽابيس پڻ يوڪا جي تخليق جي اجازت ڏني.
-- ڪيتريون ئي ويب سائيٽون: CombienDeSucres.fr،
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- ڊيٽا صحافين: Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- تقريبن 100 سائنسي
-  مضمونن ۾ محقق
-- فوڊ بينڪ ۽ سوليڊيريٽي اسٽور: هڪ
-  ڊيٽا فار گڊ پروجيڪٽ هڪ پائلٽ پروجيڪٽ جي تسلسل ۾
-  فرينچ ريڊ ڪراس پاران شروع ڪيو ويو، هڪ ننڍڙي کاڌي جي نقد انتظام ۾ انضمام
-  ڪوآپريٽو.
-- ڪمپنيون: ٽيريئلون اسان جي ڊيٽا کي استعمال ڪري ٿو
-  پنهنجي ڳنڍيل اسڪيل کي زندگي ڏيڻ لاءِ.
-- پروگرامنگ اسڪولن (سمپلون، اوپن
-  ڪلاس رومز) پنهنجي
-  نصاب ۾ اوپن فوڊ فيڪٽس کي هڪ متحرڪ منصوبي جي طور تي ضم ڪيو آهي.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## مان اوپن فوڊ فيڪٽس جي مدد ڪيئن ڪري سگهان ٿو؟
+## How can I support Open Food Facts?
 
-اوپن فوڊ
-فيڪٽس هڪ 1901 جي غير منافع بخش تنظيم آهي. توهان اسان جي مدد ڪري سگهو ٿا [پروجيڪٽ ۾ حصو وٺي](https://fr-en.openfoodfacts.org/contribute) ۽ پنهنجي [عطيا](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% ڪٽوتي لائق) سان مالي مدد ڪندي ۽ پڻ Lilo
-سرچ انجن استعمال ڪندي.
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**توهان جي تمام گهڻي مهرباني
-!**
+**Thank
+you very much!**
 
 ---
 
-## مونکي پنهنجي سوال جو جواب نه ٿو ملي.
+## I can't find the answer to my question
 
-جيڪڏهن توهان کي پنهنجن سوالن جو جواب نه ملي سگهي، ته اسان سان رابطو ڪرڻ ۾ سنکوچ نه ڪريو:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- اسان جو سست: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- اسان جو فورم: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
