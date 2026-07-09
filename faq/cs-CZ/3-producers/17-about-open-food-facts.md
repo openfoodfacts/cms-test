@@ -1,13 +1,13 @@
 ---
 title: "{{< fa info-circle size=2x >}} O Open Food Facts"
 description: "4 otázky"
-lang: en-gb
-order: 17 let
+lang: cs
+order: 17
 category-level: 1
-icon: informační kruh
+icon: info-kruh
 ---
 
-{{< fa "informační kruh" size=3x >}}
+{{< fa "info-kruh" size=3× >}}
 
 ## Jaký typ informací by měl být sdílen?
 
@@ -15,17 +15,13 @@ Jakékoli informace, které máte, jsou vítány, od nutričních hodnot až po 
 
 To umožňuje vytvořit kompletní soubor, přesně vypočítat všechna skóre a obecněji transparentnost, kterou spotřebitelé oceňují.
 
-Doporučujeme však upřednostnit následující oblasti:
+Doporučujeme vám však upřednostnit následující pole:
 
 - Nutriční informace
-
 - Kategorie produktu (např. nápoje, sýr, jogurt atd.)
-
-- Název produktu
-
+- Hodnota za produkt
 - Alergeny
-
-- a složky, toto pole není povinné, ale doporučuje se pro optimální použití a stanovení skóre
+- a složení, toto pole není povinné, ale doporučuje se pro optimální použití a stanovení skóre
 
 → Pro více informací si prosím stáhněte naši [uživatelskou příručku](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/nebo si prohlédněte naše [video tutoriály](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
@@ -43,7 +39,7 @@ Díky pokročilému vyhledávání si také můžete stáhnout podmnožinu dat (
 
 ## Je přístup k platformě Pro a import dat zdarma?
 
-Rozhodně a bude to tak navždy.Veškeré služby poskytované společností Open Food Facts jsou zdarma.  
+Rozhodně a bude to tak navždy.Veškeré služby poskytované Open Food Facts jsou zdarma.  
 Velmi nás těší, že jste se rozhodli přispět svými produktovými daty k transparentnosti potravin, a děkujeme vám za to.
 
 ---
