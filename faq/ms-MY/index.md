@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Soalan Lazim - Bahasa Inggeris"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -12,8 +12,8 @@ listing:
     category-level: 0
   type: grid
   grid-columns: 4
-  sort: "pesanan"
-  fields: [ tajuk, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
