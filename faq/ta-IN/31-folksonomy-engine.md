@@ -1,17 +1,17 @@
 ---
-title: "{{<fa book size=2x >}} ஃபோக்சோனமி எஞ்சின்"
-description: "1 கேள்வி"
-lang: ta-gb (ஆங்கிலம்)
-order: 31 மீனம்
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: புத்தகம்
+icon: book
 ---
 
-{{< fa "புத்தகம்" size="3x (3x)" >}}
+{{< fa "book" size=3x >}}
 
-## ஃபோக்சோனமி எஞ்சின் என்றால் என்ன?
+## What is the Folksonomy Engine ?
 
-ஃபோக்சோனமி எஞ்சின் என்பது உலகின் மிகப்பெரிய திறந்த உணவு தரவுத்தளமான ஓபன் ஃபுட் ஃபேக்ட்ஸில் உணவுப் பொருட்களில் தனிப்பயன் குறிச்சொற்கள் அல்லது பண்புகளைச் சேர்க்க பயனர்களை அனுமதிக்கும் ஒரு அமைப்பாகும். இது ஏற்கனவே உள்ள முன் வரையறுக்கப்பட்ட பண்புகளுக்கு அப்பால், புதிய வழிகளில் உணவை வகைப்படுத்தவும் விவரிக்கவும் மக்களை அனுமதிக்கிறது.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
