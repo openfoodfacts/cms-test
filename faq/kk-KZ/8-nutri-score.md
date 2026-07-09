@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartworth size=2x >}} Nutri-Score"
-description: "3 сұрақ"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: жүрек соғысы
+icon: heartbeat
 ---
 
-{{< fa "жүрек соғысы" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Өнімдерімнің Nutri-Score көрсеткіші дұрыс болмаса, не істеуім керек?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Nutri-Score көрсеткішіңізбен мәселе туындаған жағдайда, өнім парағыңыздың «өзгерту» қойындысында ақпаратыңыздың дұрыстығын тексеріңіз. Егер қандай да бір ақпарат жоқ немесе дұрыс емес болса, бізбен мына мекенжай бойынша хабарласудан тартынбаңыз\*\* producers@openfoodfacts.org\*\*
-
----
-
-## Nutri-Score мүмкіндігінше дәл есептелуі үшін қандай ақпарат беруім керек?
-
-Nutri-Score есептеуі өніміңіздің тағамдық құндылығы кестесі бойынша жасалады.
-
-Есептелген Nutri-Score қате болмауы үшін, кестеңізге жемістердің, көкөністердің және жаңғақтардың пайыздық мөлшерін қосуды ұмытпаңыз.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Nutri-Score қайдан келеді?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score жүйесін Santé Publique France басқарады. Онда тағамдық құндылықтар кестесі барлығына түсінікті болуы үшін қорытындыланған. Мақсат - барлығына түсінікті және түсінікті тамақтану туралы ақпаратқа қол жеткізуді қамтамасыз ету.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
