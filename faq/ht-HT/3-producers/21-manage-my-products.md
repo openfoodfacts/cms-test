@@ -1,177 +1,177 @@
 ---
-title: "{{< gwosè bwat fa=2x >}} Jere pwodwi mwen yo"
-description: "16 kesyon"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: bwat
+icon: box
 ---
 
-{{< fa "bwat" size="3 fwa" >}}
+{{< fa "box" size=3x >}}
 
-## Ki sa ki garanti bon jan kalite done ki nan Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-Pou amelyore kalite done yo san rete, nou konte sou 4 poto:
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Kominote a ap ajoute done ak foto tout tan epi li se yon vrè patwouy evalyatè.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Nou mete règ lojik pou idantifye erè sou fèy pwodwi yo.Pa egzanp: si sòm pwa engredyan yo pi gran pase pwa total pwodwi a, gen yon anomali. Nou gen anviwon 50 lòt verifikasyon kalite.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Gras a Aprantisaj Otomatik (Machine Learning), nou limite risk pou gen erè nan antre done. Teknoloji nou an pèmèt nou ekstrè done tèks nan foto kontribitè yo te pran.
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Gras ak sipò Santé Publique France, nou te devlope yon pòtal ki pèmèt pwodiktè yo telechaje done yo pwodui an mas e konsa korije/konplete kontribisyon kominote a.
-
----
-
-## Kijan pou ajoute pwodwi?
-
-Pou ajoute pwodwi sou platfòm nou an, ou bezwen premye deside kijan ou vle kontinye. Gen 4 opsyon:
-
-- **Manyèlman**: si ou gen yon ti kantite pwodwi, li toujou posib pou kreye chak fich pwodwi alamen sou Platfòm Pwofesyonèl la.
-
-- **Atravè yon enpòtasyon fichye kalkil**: ou ka telechaje [modèl] fichye kalkil la (https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ke Open Food Facts bay la, oubyen enpòte dirèkteman yon ekstrè nan sistèm IT ou a nan platfòm Pro a.
-
-- **Atravè konektè katalòg pwodwi yo**. Si ou se yon kliyan nan EQUADIS, AGENA3000 oubyen BAYARD, ou ka telechaje done nan Open Food Facts an yon sèl klik. Si w ap travay avèk yon lòt PIM (Jesyon Enfòmasyon sou Pwodwi), tanpri kontakte nou: producers@openfoodfacts.org
-
-- **Atravè yon koneksyon pèsonalize** ant konpayi ou ak Open Food Facts. Si ou gen plis pase 1000 pwodwi nan pòtfolyo ou a, nou ka diskite sou opòtinite pou konstwi yon konektè espesifik pou fasilite transfè done yo.
-
-Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Èske gen yon fason pou otomatize mizajou pwodwi nan baz done piblik la?
+## How to add products?
 
-Wi, si w itilize katalòg pwodwi EQUADIS, AGENA3000 oubyen BAYARD, epi w mete bon konfigirasyon an an plas, enpòtasyon an ka fèt otomatikman e konsa mete done pwodwi yo ajou sou Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Èske kantite pwodwi ajoute yo limite?
+## Is there a way to automate product updates to the public database?
 
-Pa gen limit, ou ka telechaje kantite pwodwi ou vle sou platfòm nou an.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Si ou vle retire yon pwodwi ki pa disponib sou mache a ankò, ou jis bezwen tcheke kaz "pwodui sa a pa vann ankò" lè w ap modifye fich pwodwi ou a.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Si ou vle retire plizyè pwodwi, nou rekòmande pou ou swiv pwosedi ki mansyone nan [gid itilizatè a](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), nan paj 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Ou kapab kontakte nou tou atravè producers@openfoodfacts.org si ou gen nenpòt kesyon.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Lè pwodwi a achive, li p ap parèt nan Open Food Facts ankò.Sepandan, li pral rete nan baz done nou an pou nou ka kenbe yon istwa pwodwi yo vann sou tan.
-
----
-
-## Èske enfòmasyon sou konpayi an gen priyorite sou enfòmasyon ki deja prezan sou platfòm nan?
-
-Lè yon pwodiktè mete youn nan pwodwi li yo sou entènèt ak kont pwodiktè li a epi yon fich pwodwi deja egziste, sa ap konplete li.
-
-Enfòmasyon pwodiktè a ap poste yo ap toujou gen priyorite epi se li menm sèl ki pral kapab modifye pwodwi li yo lè enfòmasyon yo ranpli.
-
-Si done yo voye atravè platfòm nan fragmenté, enfòmasyon kominote a ajoute nan anbalaj la ka konplete li.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Nan ki fòma mwen ta dwe voye done mwen yo?
+## Does company information take precedence over information already present on the platform?
 
-Yon [modèl](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) founi pa Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Sepandan, nenpòt fòma fichye kalkil (xlsx, csv) ap ka enpòte nan platfòm nan.  
-Algorit nou an fèt pou otomatikman matche atribi ki nan dosye w la ak sa ki prezan nan Open Food Facts. Fè atansyon pou toujou verifye etap ki koresponn lan de fwa paske ou ka bezwen ajiste kèk nan yo manyèlman.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Si enfòmasyon ou yo divize ant plizyè fichye kalkil, ou ka enpòte yo youn apre lòt - asire w ou fè matche a si fòma a chanje.
-
-Ou kapab enpòte tou yon fichye Excel anplis yon enpòtasyon EQUADIS oswa AGENA3000, si done yo poko nan sistèm enfòmasyon ou an. Nan ka sa yo, pa bliye mande yon ekspòtasyon nan baz done piblik la apati koòdone nan.
-
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Avèk ki katalòg pwodwi ou entegre?
+## In what format should I send my data?
 
-Kounye a, manifaktirè yo kapab voye done pwodwi yo ak foto an tan reyèl soti nan **Equadis,** **AGENA3000 ak BAYARD consulting** bay Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Natirèlman, ou pral benefisye tou de sijesyon reformulasyon yo ak tout karakteristik platfòm nan.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Atik blog nou an](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) eksplike etap pou swiv si ou se yon kliyan EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Si ou se yon kliyan AGENA3000 (Pwodwi A3 PIM INDUSTRY), ou jis bezwen chwazi destinatè a "Open Food Facts" lè w ap voye fich pwodwi ou yo. [Plis enfòmasyon sou pòs blog sa a](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Si ou se yon kliyan yon lòt katalòg done pwodwi (Salsify - ansyen Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, elatriye) Tanpri fè nou konnen nan [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kijan pou ajoute pwodwi san kòd bar atravè platfòm Pro a?
+## With which product catalogs are you integrated?
 
-Pou pwodwi san kòd bar, sou sit la oswa sou platfòm pwodiktè a, gen yon bouton "Pwodwi san kòd bar" nan kolòn gòch la ki pèmèt ou ajoute yo. Apre sa, yon idantifyan pwodui otomatikman.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Nou kreye pwojè espesifik pou pwodui kosmetik, pou manje bèt, ansanm ak lòt pwodui: Ouvri Enfòmasyon sou Bote, Ouvri Enfòmasyon sou Manje Bèt Kay ak Ouvri Enfòmasyon sou Pwodui yo respektivman.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Done pwodwi konpayi mwen an disponib sou Open Food Facts. Èske li posib pou pran kontwòl kont pwodiktè ki asosye a?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Wi, nan kou! Ou ka pran kontwòl kont pwodiktè ki asosye a lè w kreye yon kont Open Food Facts ak adrès biznis ou. Lè w ap enskri, mansyone non òganizasyon ki sou fòm lan pou w ka jwenn aksè nan espas pwodiktè ki koresponn lan.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Yon ti etap validasyon ap nesesè pou asire ke ou se vrèman pwodiktè a.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-W ap kapab konplete done yo, ajoute imaj, jwenn rekòmandasyon otomatik pou amelyore Nutri-Score la, ak anpil lòt bagay ankò. Tout bagay sa a se natirèlman konplètman gratis. Ou kapab konekte tou yon sistèm jesyon done pwodwi twazyèm pati tankou EQUADIS, AGENA3000 ak Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Konbyen tan li pran pou done pwodiktè yo mete ajou sou lòt aplikasyon ki reitilize baz done Open Food Facts la?
-
-Sa depann de aplikasyon yo. Pou moun ki itilize API nou yo, ki se gwo majorite a, li imedya.  
-Pou moun ki itilize ekspòtasyon chak jou nou yo, se D+1 depi yo mete l ajou.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Èske enpòte done ki soti nan yon dosye pwodwi konplete oswa ranplase dosye pwodwi ki deja egziste a?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Nou itilize kòd bar la pou idantifye pwodwi yo, si ou enpòte yon dosye ki gen menm kòd bar ak yon dosye ki deja egziste, enfòmasyon yo ap rantre ansanm.
-
-Pou done tankou lis engredyan, valè nitrisyonèl (yon sèl valè kòrèk posib), done yo voye atravè platfòm pwodiktè a ap ranplase done ki deja egziste yo.
-
-Pou done tankou etikèt/kategori/mak (plizyè valè kòrèk posib), enfòmasyon yo fizyone. Si done yo pa kòrèk sou platfòm piblik la, ou ka modifye fich pwodwi a sou platfòm piblik la pou retire valè ki pa kòrèk yo.
-
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Èske lòd engredyan yo enpòtan?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Lòd engredyan yo enpòtan: li reprezante lòd la pa kantite.
-Pi bon fason pou ranpli engredyan yo se swiv egzakteman sa ki ekri sou anbalaj la. Se poutèt sa li enpòtan tou pou gen foto engredyan yo enprime.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Èske mwen ka voye imaj atravè AGENA3000 tou?
+## Is the order of ingredients important?
 
-Ou ka voye imaj men an pratik se sèlman imaj prensipal la ki pral chwazi otomatikman, lòt imaj yo pral voye, men yo p ap koupe / chwazi pou engredyan, nitrisyon elatriye.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Kijan pou jwenn aksè nan leson patikilye platfòm Pro a?
+## Can I send images via AGENA3000 too?
 
-Ou ka jwenn aksè a leson patikilye platfòm pwofesyonèl la:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Atravè platfòm pwofesyonèl la menm: [[https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Dirèkteman sou [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Ou kapab telechaje [gid itilizatè] nou an tou (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
