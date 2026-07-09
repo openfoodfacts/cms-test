@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} ઇકો-સ્કોર"
-description: "૫ પ્રશ્નો"
-lang: eng-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: યુઝર-પ્લસ
+icon: user-plus
 ---
 
-{{< fa "યુઝર-પ્લસ" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## ઇકો-સ્કોર પદ્ધતિ શું છે?
+## What is the Eco-Score methodology?
 
-ઇકો-સ્કોર ADEME (ઇકોલોજીકલ ટ્રાન્ઝિશન એજન્સી) અને INRAE (નેશનલ ઇન્સ્ટિટ્યૂટ ફોર એગ્રોનોમિક રિસર્ચ) દ્વારા ઉત્પાદિત જીવન ચક્ર વિશ્લેષણની ગણતરી પર આધારિત છે. PEF સ્કોર બનાવવા માટે લગભગ પંદર ઘટકોની ગણતરી અને લિંક કરવામાં આવે છે.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-આ PEF સ્કોરમાં બોનસ અને માલ્યુસ (ઉત્પાદનની પદ્ધતિ, મૂળ) ઉમેરવામાં આવે છે.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ઇકો-સ્કોરની ગણતરી કરવા માટે ઘટકો, લુપ્તપ્રાય પ્રજાતિઓ, પેકેજિંગ).
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (ઇકો-સ્કોર પ્રેઝન્ટેશન [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## ઇકો-સ્કોરની ગણતરી શક્ય તેટલી સચોટ રીતે કરવા માટે કયા પ્રકારની માહિતી આપવી જોઈએ?
-
-ઇકો-સ્કોરની ચોક્કસ ગણતરી કરવા માટે, દરેક ઘટકની ટકાવારી અને તેના મૂળનો ઉલ્લેખ કરવો આવશ્યક છે.
-
-જો આ માહિતી ઘટકોની યાદીમાં પહેલાથી જ ઉલ્લેખિત ન હોય, તો તમે નીચેના ફોર્મેટ સાથે તેનો ઉલ્લેખ કરવા માટે એક કોલમ ઉમેરી શકો છો:
-
-ઘઉંનો લોટ ૧૬% (ફ્રાન્સ)
-
-ચોકલેટ 8% (આઇવરી કોસ્ટ, એક્વાડોર)
-
-આપણને પેકેજિંગના ઘટકોની પણ જરૂર પડશે: ફેંકવા માટે 1 પ્લાસ્ટિક ફિલ્મ, રિસાયકલ કરવા માટે 1 FSC કાર્ડબોર્ડ બોક્સ, રિસાયકલ કરવા માટે 1.5 લિટરની 6 PET પારદર્શક પ્લાસ્ટિક બોટલ, 6 અપારદર્શક રંગીન પ્લાસ્ટિક કેપ્સ, 12 પ્લાસ્ટિક કેન 33 cl એલ્યુમિનિયમ.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15 સૂચકોના મૂલ્યો કેવી રીતે જોડવામાં આવે છે?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF સિસ્ટમને વધુ સારી રીતે સમજવા માટે, તમે વાંચી શકો છો: ઇકો-સ્કોર પદ્ધતિસરની સાઇટ પર PEF સ્કોરનું સમજૂતી**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## શું સ્થાનિક પાસું ઉત્પાદનના સ્થળ સાથે સંબંધિત છે કે કાચા માલના મૂળ સ્થાન સાથે?
+## How are the values ​​of the 15 indicators combined?
 
-**સ્થાનિક પાસું કાચા માલના મૂળની ચિંતા કરે છે. આ જ કારણ છે કે ઉત્પાદન ઘટકોની સૂચિમાં અથવા ઘટકોના મૂળને સમર્પિત ક્ષેત્રમાં તેમના ટકાવારી તેમજ તેમના મૂળ દાખલ કરવા મહત્વપૂર્ણ છે.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ઇકો-સ્કોર માટે ઘટકોના મૂળ કેવી રીતે દાખલ કરવા?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-જો તમે તમારી શીટ્સ પરના કાચા માલના મૂળ વિશેની માહિતી શેર કરવા માંગતા હો, તો અમે તમને ઘટકોની સૂચિમાં તેનો સમાવેશ કરવા માટે આમંત્રિત કરીએ છીએ.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
