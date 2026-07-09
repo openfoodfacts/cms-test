@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Usein kysytyt kysymykset - Suomi"
-lang: "fi-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: ruudukko
+  type: grid
   grid-columns: 4
-  sort: "tilata"
-  fields: [ otsikko, kuvaus ]
+  sort: "order"
+  fields: [ title, kuvaus ]
   page-size: 100
 
 # << DO NOT TRANSLATE
