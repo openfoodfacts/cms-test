@@ -1,31 +1,31 @@
 ---
-title: "{{< fa ਡਾਲਰ ਆਕਾਰ=2x >}} ਖੁੱਲ੍ਹੀਆਂ ਕੀਮਤਾਂ"
-description: "3 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: ਡਾਲਰ
+icon: dollar
 ---
 
-{{< fa "ਡਾਲਰ" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## ਮੈਂ ਇੱਕ ਪ੍ਰਚੂਨ ਵਿਕਰੇਤਾ ਹਾਂ ਅਤੇ ਮੈਂ ਕੀਮਤਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣਾ ਚਾਹੁੰਦਾ ਹਾਂ। ਮੈਂ ਇਹ ਕਿਵੇਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-ਤੁਸੀਂ [ਸਾਡੇ API](https://prices.openfoodfacts.org/api/docs) ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਕੀਮਤਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾ ਸਕਦੇ ਹੋ। ਜੇਕਰ ਤੁਸੀਂ ਪੈਮਾਨੇ 'ਤੇ ਕੀਮਤਾਂ ਦਾ ਯੋਗਦਾਨ ਪਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ ਨਾਲ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) 'ਤੇ ਸੰਪਰਕ ਕਰੋ।
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## ਕੀ ਤੁਸੀਂ ਰਿਟੇਲਰਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੀਮਤਾਂ ਘਟਾਉਣ ਬਾਰੇ ਸੋਚਦੇ ਹੋ?
+## Do you consider scraping prices from retailers’ websites?
 
-ਕਾਨੂੰਨੀ ਅਤੇ ਤਕਨੀਕੀ ਕਾਰਨਾਂ ਕਰਕੇ, ਅਸੀਂ ਪ੍ਰਚੂਨ ਵਿਕਰੇਤਾਵਾਂ ਦੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੀਮਤਾਂ ਨੂੰ ਸਕ੍ਰੈਪ ਕਰਨ ਨੂੰ ਓਪਨ ਕੀਮਤਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਦਾ ਇੱਕ ਵੈਧ ਤਰੀਕਾ ਨਹੀਂ ਮੰਨਦੇ। ਅਸੀਂ ਇਹ ਯਕੀਨੀ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹਾਂ ਕਿ ਸਾਡੇ ਦੁਆਰਾ ਇਕੱਠੀਆਂ ਕੀਤੀਆਂ ਗਈਆਂ ਕੀਮਤਾਂ ਸਹੀ ਅਤੇ ਅੱਪ-ਟੂ-ਡੇਟ ਹੋਣ, ਅਤੇ ਯੋਗਦਾਨ ਪਾਉਣ ਵਾਲਿਆਂ ਤੋਂ ਸਕ੍ਰੈਪ ਕੀਤੀਆਂ ਕੀਮਤਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਸਾਨੂੰ ਅਜਿਹਾ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੰਦਾ।
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 ਓਪਨ ਪ੍ਰਾਈਸ ਦੇ ਭਵਿੱਖ ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਕੀਮਤ ਸਕ੍ਰੈਪਿੰਗ ਇੱਕ ਵਿਚਾਰਯੋਗ ਵਿਕਲਪ ਹੈ, ਪਰ ਇਹ ਓਪਨ ਪ੍ਰਾਈਸ ਦੁਆਰਾ ਖੁਦ ਕੀਤਾ ਜਾਵੇਗਾ ਤਾਂ ਜੋ ਸਾਡੇ ਕੋਲ HTML ਪੰਨੇ ਦੇ ਅਧਾਰ ਤੇ ਕੀਮਤ ਦਾ ਸਬੂਤ ਹੋਵੇ।
 
 ---
 
-## ਓਪਨ ਫੂਡ ਫੈਕਟਸ ਅਜਿਹਾ ਕਿਉਂ ਕਰ ਰਿਹਾ ਹੈ (ਓਪਨ ਪ੍ਰਾਈਸ)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ਭੋਜਨ ਪ੍ਰਣਾਲੀਆਂ ਨੂੰ ਸਮਝਣ ਲਈ ਕੀਮਤ ਦੀ ਜਾਣਕਾਰੀ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹੈ। ਇਹ ਭੋਜਨ ਦੀ ਕੀਮਤ ਨੂੰ ਸਮਝਣ ਅਤੇ ਸਿਹਤਮੰਦ ਖੁਰਾਕ ਨੂੰ ਉਤਸ਼ਾਹਿਤ ਕਰਨ ਲਈ ਇੱਕ ਮੁੱਖ ਕਾਰਕ ਹੈ। ਕੀਮਤ ਡੇਟਾ ਖੋਲ੍ਹਣਾ ਖੋਜਕਰਤਾਵਾਂ, ਪੱਤਰਕਾਰਾਂ ਅਤੇ ਨਾਗਰਿਕਾਂ ਲਈ ਇਸ ਗੱਲ ਦੀ ਬਿਹਤਰ ਸਮਝ ਪ੍ਰਾਪਤ ਕਰਨ ਦਾ ਇੱਕ ਤਰੀਕਾ ਹੈ ਕਿ ਭੋਜਨ ਦੀਆਂ ਕੀਮਤਾਂ ਭੂਗੋਲਿਕ ਅਤੇ ਸਮੇਂ ਦੇ ਅਨੁਸਾਰ ਕਿਵੇਂ ਬਦਲਦੀਆਂ ਹਨ।
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
