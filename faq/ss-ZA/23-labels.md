@@ -1,23 +1,23 @@
 ---
-title: "{{< fa usayizi wemabhukhimaki=2x >}} Emalebuli"
-description: "2 imibuto"
-lang: si-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: ibhukumaka
+icon: bookmark
 ---
 
-{{< fa "ibhukumaka" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Njengelebuli, kubalulekile yini kwenta i-akhawunti ?
+## As a label, is it important to create an account ?
 
-Njengelebuli, njengoba ungasuye umkhiciti locondzile wemikhicito, akudzingeki kutsi wente i-akhawunti yemkhiciti.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ngiyi-label, ngingahlanganyela njani kulephrojekthi?
+## I am a label, how can I participate in the project?
 
-Njengelebuli intfo lefanele kakhulu kutsi usitsintse **(producers@openfoodfacts.org)** bese usitfumelela luhlu lwemikhicito lapho khona ilebuli yakho ikhonjiswa khona kute sikhone kuyifaka kumaphepha emkhicito lahlobene.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
