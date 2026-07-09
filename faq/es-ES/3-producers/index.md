@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Productores"
-description: "6 subcategorías"
-lang: es-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: industria
+icon: industry
 listing:
   contents:
-    - "*.Maryland"
+    - "*.md"
   include:
     category-level: 1
-  type: red
+  type: grid
   grid-columns: 4
-  sort: "orden"
-  fields: [ título, descripción ]
+  sort: "order"
+  fields: [ title, descripción ]
   page-size: 100
 ---
 
-{{< fa "industria" size=3x >}}
+{{< fa "industry" size=3x >}}
 
