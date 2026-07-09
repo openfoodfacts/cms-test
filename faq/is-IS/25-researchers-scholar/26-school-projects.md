@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Skólaverkefni"
-description: "2 spurningar"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
-order: 26 ára
+order: 26
 category-level: 1
-icon: skrá-o
+icon: file-o
 ---
 
-{{< fa "skrá-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ég þarf að gera skólaverkefni og ég vil nota gögn frá Open Food Facts, get ég það?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts er opinn gagnagrunnur, opið verkefni sem starfar undir ODbL leyfi, svo framarlega sem þú samþykkir kröfur ODbL leyfisins, þá er þér velkomið að endurnýta gögnin okkar fyrir verkefni þín :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Hvernig get ég nálgast/safnað gögnum fyrir verkefnin mín?
+## How can I access/collect data for my projects ?
 
-Á aðalsíðu Open Food Facts, efst í vinstra horninu á skjánum, er skrunvalmynd. Neðst á því finnur þú valkostinn „Ítarleg leit“ sem þú getur smellt á. Það er síðan undir þér komið að ákvarða hvaða viðmið eru viðeigandi fyrir verkefnið/verkefnin þín. Þegar þú hefur valið niðurstöður geturðu sótt þær með því að skruna niður neðst á síðunni og smella á „Sækja niðurstöður“.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
