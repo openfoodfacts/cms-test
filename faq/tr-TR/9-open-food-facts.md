@@ -1,37 +1,37 @@
 ---
-title: "{{< fa question-circle size=2x >}} Açık Gıda Bilgileri"
-description: "9 soru"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: soru çemberi
+icon: question-circle
 ---
 
-{{< fa "soru çemberi" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
-## Kozmetik ürünleri bilgilerinin görüntülenmesine izin veren diğer mevcut web siteleri, hizmetler ve mobil uygulamalarla arasındaki fark nedir?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 Asıl farkımız bizim için çok önemlidir: verilerimiz herkese açıktır ve tüm amaçlar için özgürce kullanılabilir. Açık veri denilen şey budur.
 
-Neredeyse diğer tüm siteler, hizmetler ve uygulamalar verilerinin çoğaltılmasını ve yeniden kullanılmasını yasaklamaktadır. Tam aksine, kıskanç bir şekilde kendileri için saklamaktadırlar. Hemen hemen tüm durumlarda, hizmet şartlarında verilerin kişisel olmayan her türlü kullanımı ve verilerin tamamının veya bir kısmının çıkarılması açıkça yasaklanmaktadır.
+Neredeyse diğer tüm siteler, hizmetler ve uygulamalar verilerinin çoğaltılmasını ve yeniden kullanılmasını yasaklamaktadır. Tam aksine, kıskanç bir şekilde kendileri için saklamaktadırlar. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Kozmetik ürünleri bilgilerinin kapalı bir kutuda kilitli tutulamayacak kadar önemli ve faydalı olduğunu düşünüyoruz. Dolayısıyla, 2012'de Open Food Facts projesini ve mobil uygulamasını başlattığımızda, tam tersini yapmaya karar verdik: Veritabanımızın kullanımına ve yeniden kullanımına herkese ve her türlü kullanım için (ticari kullanım dahil) ücretsiz ve bedelsiz olarak izin vermekle kalmadık, aynı zamanda bunu teşvik de ettik!
+Kozmetik ürünleri bilgilerinin kapalı bir kutuda kilitli tutulamayacak kadar önemli ve faydalı olduğunu düşünüyoruz. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Verilerin kamuya açık hale getirilmesi (yani _açık veri_ olarak bilinmesi), dünyanın dört bir yanındaki bireylerin, derneklerin, şirketlerin, araştırmacıların vb. bizim asla aklımıza gelmeyecek veri uygulamaları geliştirmelerine olanak tanır.
-
----
-
-## Open Beauty Facts'in ekonomik modeli nedir?
-
-Katkıda bulunanlar gönüllü olarak bu işi yapmaktadırlar. Katkıları, herkes tarafından ve tüm amaçlar için kullanılabilecek açık bir veri tabanında toplanmaktadır. (bkz. [Yeniden kullanım koşulları](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Dolayısıyla herkes (Open Food Facts katkıda bulunanları ve içerik oluşturucuları dahil ancak bunlarla sınırlı olmamak üzere) verileri web siteleri, hizmetler, yazılımlar, mobil uygulamalar oluşturmak veya makaleler ve araştırmalar yazmak için yeniden dağıtabilir ve/veya yeniden kullanabilir. Yeniden kullanım koşullarına uydukları müddetçe, ortaya çıkan işi herkese açık bir hale getirebilir, ya da satabilir veya paraya çevirebilirler (örn. reklamlar ile).
-
-Ayrıca gıda sektöründen kesinlikle bağımsızız ve oluşturduğumuz tüm hizmetler ve yazılımlar ücretsizdir. Örneğin, Üreticiler için Platformumuz tamamen ücretsizdir ve bunun onların ürünlerini geliştirmelerine yardımcı olabileceğini düşündüğümüz için bundan çok memnunuz.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Ürün resimlerini veya verilerini üreticinin sitesinden, alışveriş sitelerinden veya diğer sitelerden ekleyebilir miyim?
+## What is Open Food Facts' economic model
+
+Katkıda bulunanlar gönüllü olarak bu işi yapmaktadırlar. Katkıları, herkes tarafından ve tüm amaçlar için kullanılabilecek açık bir veri tabanında toplanmaktadır. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Yeniden kullanım koşullarına uydukları müddetçe, ortaya çıkan işi herkese açık bir hale getirebilir, ya da satabilir veya paraya çevirebilirler (örn. reklamlar ile).
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Üreticinin web sitesinden, alışveriş sitelerinden veya diğer sitelerden ürün resimleri ya da bilgileri ekleyebilir miyim?
 
 Muhtemelen hayır. Neredeyse diğer tüm siteler, verilerinin ve resimlerinin çoğaltılmasını ve yeniden kullanılmasını yasaklamaktadır ve Open Beauty Facts'i oluşturmamızın nedeni budur: tüm bu verileri herkesin kullanımına açık hale getirmek.
 
@@ -39,37 +39,37 @@ Herhangi bir yasal sorunla karşılaşmamak için, katkıda bulunanlardan yalnı
 
 ---
 
-## Open Beauty Facts ekibiyle nasıl bağlantı kurabilirim, soru sorabilir veya önerilerde bulunabilirim?
+## Open Food Facts ekibiyle nasıl iletişime geçebilir, sorular sorabilir veya önerilerde bulunabilirim?
 
-Forum üzerinden soru sorabilir veya öneride bulunabilirsiniz ya da contact@openfoodfacts.org adresinden e-posta yoluyla bizimle iletişime geçebilirsiniz.
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Üreticiyseniz lütfen [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) adresine e-posta gönderin.
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Eğer gazeteciyseniz, lütfen [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org) adresine e-posta gönderin.
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Lütfen dikkat: [Open Food Facts, gıda ürünlerine ilişkin ortak bir veritabanıdır](https://world.openfoodfacts.org/discover), hiçbir ürün satmıyoruz ve üreticileriyle herhangi bir bağlantımız bulunmamaktadır. Bir ürün hakkındaki soru veya şikayetleriniz için direkt üreticiye (ürün etiketinin üzerindeki adrese) yazmalısınız.
-
----
-
-## Ürünler hakkındaki bilgi ve veriler doğrulandı mı?
-
-Bilgiler ve veriler Open Food Facts katkıda bulunanları tarafından gönderilmektedir. Katkıda bulunanlar ayrıca ürünün kendisinin, etiketlerinin, içindekiler listesinin ve sağlık ve güzellik iddialarının da resimlerini gönderirler. Bu sayede, şüphe duyduklarında ziyaretçiler doğruluğu kendileri kontrol edebilir ve bir hata varsa yerinde düzeltebilirler.
-
-Potansiyel hataları daha kolay tespit etmek için, otomatikleştirilmiş kontrolleri aşamalı olarak ekleyeceğiz. Örneğin, bir ürünün besin değerleri aynı kategorideki diğer ürünlerden çok farklıysa, bu bir hata olabilir. Besin ögelerinin toplamı %100'ü geçiyorsa, bu kesinlikle bir hatadır.
-
-Son olarak, birçok üretici, Üreticiler için Platformumuzu kullanarak bize ürünleri hakkında fotoğraf ve veri gönderiyor. Eğer bir yapımcıysanız, lütfen [bizimle iletişime geçin](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Ben bir kozmetik ürünü üreticisiyim, kendi ürünlerimi ekleyebilir miyim?
+## Ürünlere ilişkin bilgiler ve veriler doğrulanmış mı?
+
+The information and data is submited by the Open Food Facts contributors. Katkıda bulunanlar ayrıca ürünün kendisinin, etiketlerinin, içindekiler listesinin ve sağlık ve güzellik iddialarının da resimlerini gönderirler. Bu sayede, şüphe duyduklarında ziyaretçiler doğruluğu kendileri kontrol edebilir ve bir hata varsa yerinde düzeltebilirler.
+
+Potansiyel hataları daha kolay tespit etmek için, otomatikleştirilmiş kontrolleri aşamalı olarak ekleyeceğiz. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Besin ögelerinin toplamı %100'ü geçiyorsa, bu kesinlikle bir hatadır.
+
+Son olarak, birçok üretici, Üreticiler için Platformumuzu kullanarak bize ürünleri hakkında fotoğraf ve veri gönderiyor. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
+
+---
+
+## Ben bir gıda ürünleri üreticisiyim, kendi ürünlerimi ekleyebilir miyim?
 
 Evet! Tek koşul, verilerin ve resimlerin açık bir lisans altında kullanıma sunulmasını kabul etmektir. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Boyutunuz ne olursa olsun, ürünlerinizle ilgili fotoğrafları ve verileri kolayca içe aktarmanıza olanak tanıyan ücretsiz bir platform geliştirdik. Diğer 100'den fazla beslenme uygulamasında görülebilecek eksiksiz ve güncel verileri ve görselleri Open Food Facts'e aktarmanıza olanak tanıyacak. Ayrıca platform, ürünlerinizin Nutri-Score'unu iyileştirmeye yönelik öneriler sunar. Nasıl ilerleyebileceğimiz konusunda görüşmek için lütfen bizimle iletişime geçin: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Diğer 100'den fazla beslenme uygulamasında görülebilecek eksiksiz ve güncel verileri ve görselleri Open Food Facts'e aktarmanıza olanak tanıyacak. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Open Food Facts verilerini kimler kullanıyor?
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
@@ -79,24 +79,25 @@ platform.
   address the needs of many audiences: diabetes (VeryDiab), allergies, food
   balance via artificial intelligence (FoodVisor), disabilities, and more. Our
   database also allowed the creation of Yuka.
-- Birçok web sitesi: CombienDeSucres.fr,
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Veri gazetecileri: Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Araştırmacılar yaklaşık 100 bilimsel makalede yer aldı
+- Researchers in nearly 100 scientific
+  articles
 - Food banks and solidarity stores: a
   Data For Good project in the continuity of a pilot project initiated by the
   French Red Cross, integration in the cash management of a small food
   cooperative.
-- Şirketler: Terraillon, bağlantılı terazilerine hayat vermek için verilerimizi
-  kullanıyor.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
 - Programming schools (Simplon, Open
   Classrooms) have integrated Open Food Facts as a motivating project in their
   curriculum.
 
 ---
 
-## Open Food Facts'i nasıl destekleyebilirim?
+## How can I support Open Food Facts?
 
 Open Food
 Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
@@ -108,13 +109,13 @@ you very much!**
 
 ---
 
-## Soruma cevap bulamıyorum.
+## I can't find the answer to my question
 
-Sorularınıza yanıt bulamazsanız, lütfen aşağıdaki yollarla bizimle iletişime geçmekten çekinmeyin:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack adresimiz: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Forumumuz: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
