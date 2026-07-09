@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Мәгълүматларны йөкләү"
-description: "1 сорау"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: болыттан йөкләү
+icon: cloud-download
 ---
 
-{{< fa "болыттан йөкләү" size=3х >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Билгеле бер ил өчен мәгълүматларны кайдан алырга?
+## Where to get the data for a specific country?
 
-Хәзерге вакытта билгеле бер илләргә экспорт юк.
+Currently, there are no exports dedicated to specific countries.
 
-Төрле экспорт продуктларын төрле кораллар белән берлектә билгеле бер илгә кагылышлы мәгълүматларны сайлау өчен куллануның күп ысуллары бар.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Сез [бу ысулларның кайберләрен безнең викида](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) карый аласыз.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
