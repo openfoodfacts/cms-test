@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} تحلیل سبد محصولات (معیار، بهبود...)"
-description: "۱ سوال"
-lang: انگلیسی-انگلیسی
-order: ۲۲
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: نمودار میله‌ای
+icon: chart-bar
 ---
 
-{{< fa "نمودار میله‌ای" size="۳ برابر" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## چگونه می‌توانم به توصیه‌های اصلاح فرمولاسیون برای بهبود امتیاز تغذیه‌ای محصولاتم دسترسی پیدا کنم؟
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-وقتی در صفحه اصلی پلتفرم تولیدکنندگان هستید:
+When you are on the home page of the Producers Platform:
 
-1. روی لینک «→ تعداد محصولاتی که فرصت‌های بهبود دارند» در بالای صفحه کلیک کنید.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. شما می‌توانید با تمام فرصت‌های شناسایی‌شده توسط سیستم ما برای بهبود محصولات خود مشورت کنید.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. کلیک کردن روی یک نوع فرصت، شما را به فهرست محصولاتی که در معرض بهبود هستند، هدایت می‌کند.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ برای جزئیات بیشتر، از شما دعوت می‌کنیم [راهنمای کاربر](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ما را دانلود کنید و/یا به [آموزش‌های ویدیویی](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ما مراجعه کنید :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
