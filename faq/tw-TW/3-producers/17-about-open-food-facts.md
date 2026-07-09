@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Ɛfa Aduan a Wɔabue Ho Nokwasɛm Ho"
-description: "4 nsɛmmisa"
-lang: tw-gb
-order: 17. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
+order: 17
 category-level: 1
-icon: info-kwan a ɛyɛ kurukuruwa
+icon: info-circle
 ---
 
-{{< fa "info-kwan a ɛyɛ kurukuruwa" size="3x na ɛyɛ" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Nsɛm bɛn na ɛsɛ sɛ wɔkyɛ?
+## What type of information should be shared?
 
-Wɔma nsɛm biara a wowɔ no akwaaba, efi aduannuru ho nsɛm so kosi nneɛma a wɔde kyekyere nneɛma ho nsɛm so.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Eyi ma ɛyɛ yiye sɛ wɔde fael a edi mũ besi hɔ, de abu nkontaahyɛde no nyinaa ho akontaa pɛpɛɛpɛ na mpɛn pii no ɛyɛ nea ɛda adi pefee a adetɔfo ani sɔ.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Nanso yɛhyɛ nyansa sɛ fa nnwuma a edidi so yi di kan:
+However we do recommend you prioritize the following fields:
 
-- Aduandi ho nsɛm
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Nneɛma a wɔyɛ no fã (sɛ nhwɛso no, anonne, kyiisi, yogurt, ne nea ɛkeka ho) .
-
-- Edin a wɔde frɛ ade no
-
-- Nneɛma a ɛma obi ho yɛ no hyew
-
-- ne nneɛma a wɔde yɛ no, saa afuw yi nyɛ ahyɛde nanso wɔkamfo kyerɛ sɛ wɔmfa nni dwuma yiye na wɔasi nkontaahyɛde ahorow no
-
-→ Sɛ wopɛ nsɛm pii a, yɛto nsa frɛ wo sɛ twe yɛn [ɔdefo akwankyerɛ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ne/anaasɛ hwɛ yɛn [video nkyerɛkyerɛ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## So metumi atwe Open Food Facts data?
+## Can I download Open Food Facts data?
 
-Wubetumi atwe data a ɛwɔ Open Food Facts so nyinaa. Hwɛ yie, eyi hwehwɛ disk space pii, kɔmputa a ahoɔden wom sɛ wopɛ sɛ wode spreadsheet di dwuma anaa nimdeɛ a ɛfa R anaa Python ho a ɛnte saa a.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Wubetumi nso atwe data no fã ketewaa bi (wo brand sɛ nhwɛso no) esiane hwehwɛ a ɛkɔ akyiri no nti.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Sɛ wopɛ nsɛm pii a, yɛto nsa frɛ wo sɛ twe yɛn [ɔdefo akwankyerɛ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ne/anaasɛ hwɛ yɛn [video nkyerɛkyerɛ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## So Pro platform no so a wobɛkɔ ne data a wode bɛba no kwa?
-
-Kora, na ɛbɛyɛ daa.Nnwuma a Open Food Facts de ma nyinaa yɛ nea wontua hwee.  
-Yɛn ani agye yiye sɛ woasi gyinae sɛ wode wo nneɛma ho nsɛm bɛboa ama aduan a ɛda adi pefee, na yɛda wo ase wɔ eyi ho.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Mepɛ sɛ mehyɛ nyansa sɛ wɔnyɛ nkɔsoɔ mma adwumayɛfoɔ platform no, mɛyɛ dɛn ayɛ saa ?
+## Is access to the Pro platform and the import of data free?
 
-Yɛda mo ase wɔ ɔpɛ a mowɔ sɛ mode mo ho bɛhyɛ aduan a wɔma ɛda adi pefee mu no ho!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ɔkwan pa a wobɛfa so akyɛ nsɛm a wobɛka ne sɛ wobɛhyehyɛ [kratasin yi](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Wubetumi nso ne yɛn adi nkitaho de nyansahyɛ ahorow ama denam [yɛn forum](https://forum.openfoodfacts.org/) anaa [Slack](https://openfoodfacts.slack.com/ssb/redirect) so.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Kɔka yɛn Slack ho na hyɛn channel #producers no mu na wo ne yɛn nni nkitaho.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
