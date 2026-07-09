@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Аналіз партфеля прадуктаў (эталоны, паляпшэнні...)"
-description: "1 пытанне"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: дыяграма-гістаграма
+icon: chart-bar
 ---
 
-{{< fa "дыяграма-гістаграма" size="3 разы" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Як атрымаць доступ да рэкамендацый па змене рэцэптуры, каб палепшыць паказчык харчовай каштоўнасці маіх прадуктаў?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Калі вы знаходзіцеся на галоўнай старонцы платформы вытворцаў:
+When you are on the home page of the Producers Platform:
 
-1. націсніце на спасылку «→ Колькасць прадуктаў з магчымасцямі паляпшэння» ўверсе старонкі.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. вы можаце азнаёміцца з усімі магчымасцямі, выяўленымі нашай сістэмай, для паляпшэння вашых прадуктаў
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Націснуўшы на тып магчымасці, вы перайдзеце да спісу прадуктаў, якія падлягаюць паляпшэнню.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Для атрымання больш падрабязнай інфармацыі мы прапануем вам спампаваць наша [кіраўніцтва карыстальніка](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) і/або азнаёміцца з нашымі [відэаўрокамі](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
