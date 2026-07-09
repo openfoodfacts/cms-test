@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Nxopaxopo wa photifoliyo ya swikumiwa (xipimelo, ku antswisiwa...)"
-description: "1 xivutiso"
-lang: ts-gb
-order: 22. 22.
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: chati-bar
+icon: chart-bar
 ---
 
-{{< fa "chati-bar" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Xana ndzi nga fikelela njhani xitsundzuxo xa reformulation ku antswisa Nutri-Score ya switirhisiwa swa mina?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Loko u ri eka tluka ra le kaya ra Pulatifomo ya Vahumelerisi:
+When you are on the home page of the Producers Platform:
 
-1. tinya eka xihlanganisi xa "→ Nhlayo ya swikumiwa leswi nga na minkarhi yo antswisa" ehenhla ka tluka.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. u nga languta minkarhi hinkwayo leyi kumiweke hi sisiteme ya hina ku antswisa switirhisiwa swa wena
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ku tsindziyela eka muxaka wa nkarhi swi ta ku yisa eka nxaxamelo wa switirhisiwa leswi nga antswisiwaka.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Ku kuma vuxokoxoko byo tala, hi ku rhamba ku kopa [xiletelo xa mutirhisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ya hina na/kumbe ku languta [tidyondzo ta vhidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
