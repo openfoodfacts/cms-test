@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} 民间文学引擎"
-description: "1 个问题"
-lang: 英语-英国
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: 书
+icon: book
 ---
 
-{{< fa "书" size=3倍 >}}
+{{< fa "book" size=3x >}}
 
-## 什么是民间分类引擎？
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine 是一个系统，允许用户在 Open Food Facts（世界上最大的开放食品数据库）中为食品添加自定义标签或属性。 这使得人们能够以新的方式对食物进行分类和描述，超越现有的预定义属性。
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
