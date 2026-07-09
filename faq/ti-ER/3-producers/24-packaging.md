@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} መዐሸጊ"
-description: "3 ሕቶታት"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: ኩቦ
+icon: cube
 ---
 
-{{< fa "ኩቦ" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## ከመይ ጌረ ናይ መዐሸጊ ዳታይ ናብ Open Food Facts ክውስኾ ይኽእል?
+## How can I add my packaging data to Open Food Facts?
 
-ከም ኣፍራዪ መጠን፡ እቲ ዝበለጸ ውጽኢታዊ መንገዲ ዳታ መዐሸጊ ናብ ፍርያትካ ንምውሳኽ፡ ነዚ [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ኣድላዪ ሓበሬታ ብምምላእ እዩ፡ ካብ ዓምዲ "AU"።
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-ንነፍሲ ወከፍ ናይ መዐሸጊ ክፍሊ፡ ክትኣቱ ከድልየካ እዩ፤
+For each packaging component, you will need to enter:
 
-- ብዝሒ ኣሃዱታት (ንኣብነት: **4** ድስቲ ጣፍ)
+- The number of units (ex: **4** pots of yogurts)
 
-- እቲ ቅርጺ (ንኣብነት: **ድስቲ፡ መኽደኒ፡ ሳንዱቕ ወዘተ**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- እቲ ንብረት (ንኣብነት: **PET, ወረቐት, ብርጭቆ, ወዘተ**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- እቲ ናይ ዳግመ-ምጥቃም መምርሒ (ንኣብነት፡ **ዳግመ-ምጥቃም፡ ምድርባይ ወዘተ**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ክብደት ሓደ ባዶ ኣሃዱ (ብግራም) .
+- The weight of one empty unit (in gr)
 
-- ኣብ ሓደ ኣሃዱ ዝሓዘ ጽሩይ ብዝሒ ፍርያት
+- The net quantity of product contained per unit
 
-እዚ ስፕረድሺት ድሕሪኡ ናብቲ ንሰብ ሞያ ዝተወፈየ መድረኽና ክኣቱ ይኽእል።
-
----
-
-## ፕሮጀክት ምግጣም ምዕሻግ መግቢ እንታይ እዩ?
-
-ፕሮጀክት "ምምካት መዐሸጊ መግቢ" ብዛዕባ መዐሸጊ ናይቶም ዝበዝሑ ዝሃልኹ ፍርያት (ቅርጺ፣ ንብረት፣ መምርሒ ምፍላይ፣ ክብደት፣ ዓቕሚ) ዝርዝር ሓበሬታ ምእካብ ዝሓዘ እዩ።
-
-ኣብ ኣሳታፊ ሳይንስ ኣገባብ ዝተመርኮሰ ኮይኑ፡ ኩባንያታት ዳታ መዐሸጊኦም ከካፍሉን ናይ ግሉጽነት ጸወታ ክጻወቱን ኣብ ዝሰማምዑሉን፡ ከምኡ’ውን ዜጋታት ኣብ ፍርያት ሓበሬታ ምእካብ ኣብ ዝፈቕዱሉን ዝምርኮስ ክኸውን እዩ። እዚ ሓበሬታ ብናጻ ዳግማይ ክጥቀመሉ ዝኽእል ("ክፉት ዳታ") ክኸውን እዩ።
-
-**ንተወሳኺ ሓበሬታ:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## ዋላ ድሕሪ ምዝዛም ፕሮጀክት ምግጣም ምዕሻግ መግቢ፡ ገና ዳታ መዐሸጊይ ክውስኽ ይኽእል ድየ?
+## What is the Tackling Food Packaging project?
 
-ድሕሪ ምዝዛም እቲ ፕሮጀክት እውን እንተኾነ እቶም ናይ መዐሸጊ ዓውድታት ኣብ መርበብ ሓበሬታና ስለዝፀንሑ ናይ መዐሸጊ መረዳእታ ምውሳኽ ይከኣል እዩ።
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
