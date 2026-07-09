@@ -1,55 +1,55 @@
 ---
-title: "امتیاز زیست‌محیطی {{< fa-plus size=2x >}}"
-description: "۵ سوال"
-lang: انگلیسی-انگلیسی
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: کاربر پلاس
+icon: user-plus
 ---
 
-{{< fa "کاربر پلاس" size="۳ برابر" >}}
+{{< fa "user-plus" size=3x >}}
 
-## روش امتیاز زیست‌محیطی (Eco-Score) چیست؟
+## What is the Eco-Score methodology?
 
-امتیاز زیست‌محیطی (Eco-Score) بر اساس محاسبه‌ی تحلیل چرخه‌ی حیات انجام شده توسط ADEME (آژانس گذار زیست‌محیطی) و INRAE (موسسه‌ی ملی تحقیقات کشاورزی) محاسبه می‌شود. حدود پانزده مؤلفه محاسبه و برای ایجاد امتیاز PEF به هم مرتبط می‌شوند.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-به این امتیاز PEF، مزایا و معایبی (نحوه تولید، منشأ) اضافه می‌شود.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-مواد تشکیل دهنده، گونه‌های در معرض خطر، بسته‌بندی) به منظور محاسبه امتیاز زیست‌محیطی.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-برای اطلاعات بیشتر، به صفحه خلاصه [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) در مورد Open Food Facts و همچنین به وب‌سایت کنسرسیوم Eco-Score مراجعه کنید. (ارائه امتیاز زیست‌محیطی [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## برای محاسبه دقیق امتیاز زیست‌محیطی (Eco-Score) چه نوع اطلاعاتی باید ارائه شود؟
-
-برای اینکه امتیاز زیست‌محیطی (Eco-Score) دقیقاً محاسبه شود، باید درصد هر ماده تشکیل‌دهنده و منشأ آن مشخص شود.
-
-اگر این اطلاعات از قبل در لیست مواد تشکیل دهنده مشخص نشده است، می‌توانید ستونی برای ذکر آن با فرمت زیر اضافه کنید:
-
-آرد گندم ۱۶٪ (فرانسه)
-
-شکلات ۸٪ (ساحل عاج، اکوادور)
-
-ما همچنین به اجزای بسته‌بندی به شکل‌های زیر نیاز داریم: ۱ لایه نازک پلاستیکی برای دور انداختن، ۱ جعبه مقوایی FSC برای بازیافت، ۶ بطری پلاستیکی شفاف PET با حجم ۱.۵ لیتر برای بازیافت، ۶ درب پلاستیکی مات رنگی، ۱۲ قوطی پلاستیکی آلومینیومی ۳۳ cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## مقادیر ۱۵ شاخص چگونه با هم ترکیب می‌شوند؟
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**برای درک بهتر سیستم PEF، می‌توانید این مطلب را مطالعه کنید: توضیح امتیاز PEF در سایت روش‌شناسی Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## آیا جنبه محلی مربوط به محل تولید است یا محل مبدا مواد اولیه؟
+## How are the values ​​of the 15 indicators combined?
 
-**جنبه محلی مربوط به منشأ مواد اولیه است. به همین دلیل است که وارد کردن درصد آنها و همچنین منشأ آنها در فهرست مواد تشکیل دهنده محصول یا در فیلد اختصاص داده شده به منشأ مواد تشکیل دهنده مهم است.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## چگونه می‌توان منشأ مواد تشکیل‌دهنده را برای امتیاز زیست‌محیطی وارد کرد؟
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-اگر مایلید اطلاعات مربوط به منشأ مواد اولیه را در برگه‌های خود به اشتراک بگذارید، از شما دعوت می‌کنیم تا آنها را در فهرست مواد تشکیل‌دهنده بگنجانید.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
