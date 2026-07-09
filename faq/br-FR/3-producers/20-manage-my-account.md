@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} Merañ ma c'hont"
-description: "3 goulenn"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: implijer
 
 {{< fa "implijer" size=3x >}}
 
-## Ha gallout a ra meur a gont Open Food Facts bezañ liammet ouzh un embregerezh hepken ?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Ya, kasit ur postel da [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), evit ma c'hellfemp liammañ an holl gontoù ouzh ar memes embregerezh.
-
----
-
-## Penaos treiñ ma gont Open Food Facts en ur gont Pro ?
-
-Gallout a rit mont d'ar [leurenn Pro](https://world.pro.openfoodfacts.org/) gant titouroù ho kont zo anezhañ.
-
-Ma'z oc'h un den a vicher e vo ret deoc'h implijout ho chomlec'h postel micherel evit ma c'hellfemp gwiriañ ho kont.
-
-→ Evit gouzout hiroc'h e pedomp ac'hanoc'h da bellgargañ hon [titouroù implijer](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ha/pe da welet hon [kentelioù video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Pelec'h e c'hellan kavout teulioù evit sikour ac'hanon da implijout ar bladenn Pro ?
+## How to convert my Open Food Facts account into a Pro account?
 
-Un nebeud ostilhoù zo evit sikour ac'hanoc'h da dennañ ar muiañ a vad eus ar bladenn Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Degemeret oc'h da :
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- sellit ouzh hon [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - pediñ a reomp ac'hanoc'h da bellgargañ ar PDF evit ma vo tu da glikañ war al liammoù, ar pezh a aesao ho merdeiñ dre an teul.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- sellit ouzh hor [kentelioù video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- rannañ evezhiadennoù pe alioù dre [ar furmskrid-mañ](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Lakait ur bellgomzadenn gant Manon, hor merour kevredigezhioù, ma 'z eus muioc'h a c'houlennoù ganeoc'h : [amañ](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Kit e darempred ganeomp dre bostel : producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
