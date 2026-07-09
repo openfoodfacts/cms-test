@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} डेटा डाउनलोड"
-description: "१ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: क्लाउड-डाउनलोड
+icon: cloud-download
 ---
 
-{{< fa "क्लाउड-डाउनलोड" size=३x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## विशिष्ट देशाचा डेटा कुठून मिळवायचा?
+## Where to get the data for a specific country?
 
-सध्या, विशिष्ट देशांना समर्पित कोणतीही निर्यात नाही.
+Currently, there are no exports dedicated to specific countries.
 
-विशिष्ट देशाशी संबंधित डेटा निवडण्यासाठी आमच्या वेगवेगळ्या निर्यातींचा वापर वेगवेगळ्या साधनांसह करण्याचे अनेक मार्ग आहेत.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-तुम्ही [यापैकी काही तंत्रे आमच्या विकीवरील] पाहू शकता (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
