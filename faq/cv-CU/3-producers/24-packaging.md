@@ -1,49 +1,49 @@
 ---
-title: "{{< fa куб калӑпӑшӗ=2x >}} Упаковка"
-description: "3 ыйту"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: куб
+icon: cube
 ---
 
-{{< fa "куб" size=3х >}}
+{{< fa "cube" size=3x >}}
 
-## Open Food Facts-а хамӑн упаковка даннӑйӗсене мӗнле хушма пулать?
+## How can I add my packaging data to Open Food Facts?
 
-Производитель пулнӑ май, хӑвӑрӑн продукцие упаковка даннӑйӗсене хушмалли чи тухӑҫлӑ мел вӑл — ҫак [excel таблици](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) кирлӗ информацие «AU» графӑран тултарни.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Кашни упаковка компоненчӗ валли ҫакна кӗртмелле пулать:
+For each packaging component, you will need to enter:
 
-- Единицӑсен шучӗ (тӗслӗхрен: **4** йогурт чӳлмекӗ)
+- The number of units (ex: **4** pots of yogurts)
 
-- Форма (тӗслӗхрен: **ҫаврашка, хупӑлча, ещӗк тата ытти те**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Материал (тӗслӗхрен: **ПЕТ, хут, кантӑк тата ытти те**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Ҫӗнӗрен ӗҫе кӗртмелли инструкци (тӗслӗхрен: **ҫӗнӗрен ӗҫе кӗртме, пӑрахма тата ытти те**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Пӗр пушӑ единицӑн йывӑрӑшӗ (гр)
+- The weight of one empty unit (in gr)
 
-- Пӗр единицире пулакан продукцин таса виҫи
+- The net quantity of product contained per unit
 
-Ҫак таблицӑна вара пирӗн профессионалсем валли хатӗрленӗ платформӑна кӗртме пулать.
-
----
-
-## Апат-ҫимӗҫе упаковкӑна татса памалли проект мӗн вӑл?
-
-«Апат-ҫимӗҫе упаковкӑпа кӗрешесси» проект ытларах усӑ куракан продукцие (формӑна, материалне, сортламалли инструкцие, йывӑрӑша, хӑватлӑха) упаковкӑсем ҫинчен тӗплӗ информаци пухассинчен тӑрать.
-
-Ӑслӑлӑхӑн хутшӑнуллӑ мелне тӗпе хурса, вӑл компанисем хӑйсен упаковка даннӑйӗсене пайлама килӗшни ҫине тата уҫӑмлӑх вӑййине вылясси ҫине те, граждансем продукци ҫинчен информаци пухма ирӗк пани ҫине те шанӗ. Ку информацие ирӗклӗн тепӗр хут усӑ курма пулать («уҫӑ даннӑйсем»).
-
-**Тӗплӗнрех пӗлес тесен:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Апат-ҫимӗҫе упаковка тӑвас ӗҫе вӗҫленӗ хыҫҫӑн та эпӗ хамӑн упаковка даннӑйӗсене хушма пултаратӑп-и?
+## What is the Tackling Food Packaging project?
 
-Проект вӗҫленнӗ хыҫҫӑн та упаковка даннӑйӗсене хушма пулать, мӗншӗн тесен упаковка уйӗсем пирӗн сайтра юлӗҫ.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
