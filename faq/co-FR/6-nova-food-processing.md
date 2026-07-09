@@ -1,15 +1,15 @@
 ---
-title: "{{< dimensione di u flacone fa=2x >}} NOVA / Trasfurmazioni alimentarie"
-description: "1 dumanda"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: fiasca
+icon: flask
 ---
 
-{{< fa "fiasca" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## Chì ghjè NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
