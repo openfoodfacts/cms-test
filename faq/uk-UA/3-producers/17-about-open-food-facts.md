@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Про Open Food Facts"
-description: "4 питання"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
-order: 17 років
+order: 17
 category-level: 1
-icon: інфо-коло
+icon: info-circle
 ---
 
-{{< fa "інфо-коло" size="3 рази" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Яким типом інформації слід ділитися?
+## What type of information should be shared?
 
-Будь-яка інформація, яку ви маєте, буде доречною, від інформації про харчову цінність до інформації про упаковку.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Це дає змогу створити повний файл, точно розрахувати всі бали та, загалом, забезпечити прозорість, яку цінують споживачі.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Однак ми рекомендуємо вам визначити пріоритетність таких полів:
+However we do recommend you prioritize the following fields:
 
-- Інформація про харчову цінність
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Категорія продукту (наприклад, напої, сир, йогурт тощо)
-
-- Назва продукту
-
-- Алергени
-
-- та інгредієнти, це поле не є обов'язковим, але рекомендується для оптимального використання та визначення балів
-
-→ Для отримання додаткової інформації запрошуємо вас завантажити наш [посібник користувача](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) та/або переглянути наші [відеоуроки](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Чи можу я завантажити дані Open Food Facts?
+## Can I download Open Food Facts data?
 
-Ви можете завантажити всі доступні дані на Open Food Facts. Будьте обережні, це вимагає багато місця на диску, потужного комп'ютера, якщо ви хочете використовувати електронну таблицю, або ж знання R чи Python в інших випадках.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Ви також можете завантажити підмножину даних (наприклад, ваш бренд) завдяки розширеному пошуку.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Для отримання додаткової інформації запрошуємо вас завантажити наш [посібник користувача](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) та/або переглянути наші [відеоуроки](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Чи є доступ до платформи Pro та імпорт даних безкоштовним?
-
-Безумовно, і це буде вічно.Усі послуги, що надаються Open Food Facts, є безкоштовними.  
-Ми дуже раді, що ви вирішили надати дані про свою продукцію для забезпечення прозорості харчових продуктів, і дякуємо вам за це.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Я хотів би запропонувати покращення для професійної платформи, як я можу це зробити?
+## Is access to the Pro platform and the import of data free?
 
-Дякуємо за вашу готовність долучитися до прозорості харчових продуктів!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Найкращий спосіб поділитися відгуком – заповнити [цю форму](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Ви також можете зв’язатися з нами, щоб надати пропозиції, через [наш форум](https://forum.openfoodfacts.org/) або через [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Приєднуйтесь до нашого Slack та зайдіть на канал #producers, щоб зв'язатися з нами.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
