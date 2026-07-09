@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "5 dumande"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: utilizatore-plus
+icon: user-plus
 ---
 
-{{< fa "utilizatore-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Chì ghjè a metodologia Eco-Score ?
+## What is the Eco-Score methodology?
 
-L'Eco-Score hè basatu annantu à u calculu di l'analisi di u ciclu di vita prudotta da l'ADEME (l'agenzia di transizione ecologica) è l'INRAE (l'istitutu naziunale di ricerca agronomica). Circa quindici cumpunenti sò calculati è culligati per creà u puntuatu PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-À questu puntuatu PEF sò aghjunti bonus è malus (modu di pruduzzione, origine di
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingredienti, spezie in periculu, imballaggi) per calculà l'Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Per più infurmazione, cunsultate a pagina di riassuntu [[https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) nant'à Open Food Facts è ancu nant'à u situ web di u consorziu Eco-Score. (Presentazione di Eco-Score [[https://docs.score-environnemental.com/](https://docs.score-environmental.com/))
-
----
-
-## Chì tipu d'infurmazione deve esse data per chì l'Eco-Score sia calculatu u più precisamente pussibule ?
-
-Per chì l'Eco-Score sia calculatu esattamente, ci vole à specificà a percentuale di ogni ingrediente è a so origine.
-
-Sè sta infurmazione ùn hè micca digià specificata in a lista di l'ingredienti, pudete aghjunghje una colonna per menziunalla, cù u furmatu seguente:
-
-Farina di granu 16% (Francia)
-
-Cicculata 8% (Costa d'Avorio, Ecuador)
-
-Avemu bisognu dinù di i cumpunenti di l'imballu in forma di: 1 film plasticu da ghjittà, 1 scatula di cartone FSC da riciclà, 6 buttiglie di plastica trasparente in PET di 1,5 L da riciclà, 6 tappi di plastica culurata opaca, 12 lattine di plastica d'aluminiu di 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Cumu sò cumminati i valori di i 15 indicatori?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-Per capisce megliu u sistema PEF, pudete leghje: spiegazione di u puntu PEF nant'à u situ metodologicu Eco-Score
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## L'aspettu lucale riguarda u locu di fabricazione o u locu d'origine di e materie prime ?
+## How are the values ​​of the 15 indicators combined?
 
-L'aspettu lucale riguarda l'origine di e materie prime. Hè per quessa ch'ellu hè impurtante d'inserisce e so percentuali è ancu e so origini in a lista di l'ingredienti di u pruduttu o in u campu dedicatu à l'origine di l'ingredienti.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Cumu inserisce l'urighjini di l'ingredienti per l'eco-score ?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Sè vo vulete sparte l'infurmazioni nantu à l'origine di e materie prime nantu à i vostri fogli, vi invitemu à includeli in a lista di l'ingredienti.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
