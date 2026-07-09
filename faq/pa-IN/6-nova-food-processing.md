@@ -1,15 +1,15 @@
 ---
-title: "{{< fa ਫਲਾਸਕ ਦਾ ਆਕਾਰ=2x >}} NOVA / ਫੂਡ ਪ੍ਰੋਸੈਸਿੰਗ"
-description: "1 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: ਫਲਾਸਕ
+icon: flask
 ---
 
-{{< fa "ਫਲਾਸਕ" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA ਕੀ ਹੈ?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
