@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Етикети"
-description: "2 въпроса"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: отметка
+icon: bookmark
 ---
 
-{{< fa "отметка" size="3 пъти" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Важно ли е да си създадете акаунт за лейбъл?
+## As a label, is it important to create an account ?
 
-Като етикет, тъй като не сте директен производител на продуктите, не е необходимо да създавате акаунт на производител.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Аз съм лейбъл, как мога да участвам в проекта?
+## I am a label, how can I participate in the project?
 
-Като етикет, най-подходящото нещо, което можете да направите, е да се свържете с нас **(producers@openfoodfacts.org)** и да ни изпратите списък с продуктите, на които е показан вашият етикет, за да можем да ги добавим към съответните продуктови листове.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
