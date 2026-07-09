@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "اڪثر پڇيا ويندڙ سوال - انگريزي"
-lang: "اين جي بي"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.ايم ڊي"
-    - "*/انڊيڪس.ايم ڊي"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: گرڊ
+  type: grid
   grid-columns: 4
-  sort: "حڪم"
-  fields: [ عنوان, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
