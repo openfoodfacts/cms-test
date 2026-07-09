@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} مەكتەپ تۈرلىرى"
-description: "2 سوئال"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: ھۆججەت-o
+icon: file-o
 ---
 
-{{< fa "ھۆججەت-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## مېنىڭ بىر مەكتەپ تۈرىم بار، مەن «ئوچۇق يېمەكلىك پاكىتلىرى» نىڭ سانلىق مەلۇماتلىرىنى ئىشلەتمەكچى، شۇنداق قىلالامدىم؟
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-ئوچۇق يېمەكلىك پاكىتلىرى ئوچۇق سانلىق مەلۇمات ئامبىرى بولۇپ، ODbL ئىجازەتنامىسى بويىچە پائالىيەت ئېلىپ بېرىۋاتقان ئوچۇق تۈر، شۇڭا ODbL ئىجازەتنامىسىنىڭ تەلىپىگە قوشۇلسىڭىز، سانلىق مەلۇماتلىرىمىزنى تۈرلىرىڭىز ئۈچۈن قايتا ئىشلەتسىڭىز بولىدۇ :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## تۈرلىرىم ئۈچۈن سانلىق مەلۇماتلارغا قانداق ئېرىشەلەيمەن/توپلىيالايمەن؟
+## How can I access/collect data for my projects ?
 
-«ئوچۇق يېمەكلىك ئۇچۇرلىرى» نىڭ ئاساسلىق بېتىدە، ئېكراننىڭ ئۈستۈنكى سول بۇلۇڭىدا، سىيرىلما تىزىملىك بار. ئۇنىڭ ئاستى تەرىپىدە، سىز چېكىش ئارقىلىق «ئىلغار ئىزدەش» تاللانمىسىنى تاپالايسىز. ئۇنداقتا قايسى ئۆلچەملەرنىڭ تۈرىڭىزگە ئەڭ ماس كېلىدىغانلىقىنى بەلگىلەش سىزگە باغلىق. تاللىغاندىن كېيىن، بەتنىڭ ئاستى تەرىپىگە قاراپ سىيرىلىپ، «نەتىجىلەرنى چۈشۈرۈش» نى چېكىش ئارقىلىق ئېرىشكەن نەتىجىلەرنى چۈشۈرەلەيسىز.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
