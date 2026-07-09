@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Уҫӑ хаксем"
-description: "3 ыйту"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: доллар
+icon: dollar
 ---
 
-{{< fa "доллар" size=3х >}}
+{{< fa "dollar" size=3x >}}
 
-## Эпӗ сутуҫӑ, эпӗ хаксене хушасшӑн. Мӗнле тумалла-ха эпӗ ҫакна?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Эсир хаксене [пирӗн API](https://prices.openfoodfacts.org/api/docs) усӑ курса кӗртме пултаратӑр. Енчен те эсир хаксене масштабпа кӗртме шутлатӑр пулсан, пирӗнпе [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) адреспа ҫыхӑнма пултаратӑр.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Эсир сутуҫӑсен сайтӗсенчен хаксене ҫырса илме шутлатӑр-и?
+## Do you consider scraping prices from retailers’ websites?
 
-Юридици тата техника сӑлтавӗсене пула эпир ритейлерсен сайтӗсенчен хаксене ҫырса илнине Уҫӑ хаксене пулӑшмалли тӗрӗс мел тесе шутламастпӑр. Эпир пухнӑ хаксем тӗрӗс те хальхи пек пулччӑр тесе тӑрӑшатпӑр, ҫавӑнпа та ҫак ӗҫе хутшӑнакансенчен ҫырса илнӗ хаксене илни пире ҫакна тума май памасть.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Мӗншӗн Open Food Facts ҫакна тӑвать (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Апат-ҫимӗҫ тытӑмӗсене ӑнланма хак ҫинчен калакан информаци питӗ кирлӗ. Ку вӑл апат-ҫимӗҫ хакне ӑнланса илме тата сывӑ апатланӑва аталантарма пулӑшакан тӗп фактор. Хаксен даннӑйӗсене уҫни — тӗпчевҫӗсене, журналистсене тата граждансене апат-ҫимӗҫ хакӗсем географи тата вӑхӑт тӗлӗшӗнчен мӗнле улшӑннине лайӑхрах ӑнланма май паракан меслет.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
