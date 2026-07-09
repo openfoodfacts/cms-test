@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiquetas"
+title: "{{< fa bookmark size=2x >}} Labels"
 description: "2 preguntas"
-lang: es-gb
+lang: en-gb
 order: 23
 category-level: 0
-icon: marcador
+icon: bookmark
 ---
 
-{{< fa "marcador" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Como sello, ¿es importante crear una cuenta?
+## As a label, is it important to create an account ?
 
-Como etiqueta, como no eres el productor directo de los productos, no necesitas crear una cuenta de productor.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Soy un sello ¿cómo puedo participar en el proyecto?
+## I am a label, how can I participate in the project?
 
-Como etiqueta lo más relevante es ponerse en contacto con nosotros **(producers@openfoodfacts.org)** y enviarnos el listado de los productos en los que aparece vuestra etiqueta para que podamos añadirlos en las fichas de producto relacionadas.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
