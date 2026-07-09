@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Okul projeleri"
-description: "2 soru"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: dosya-o
+icon: file-o
 ---
 
-{{< fa "dosya-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Okul projem var, Open Food Facts'in verilerini kullanmak istiyorum, bunu yapabilir miyim?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, açık bir veritabanı ve ODbL lisansı altında faaliyet gösteren açık bir projedir; bu nedenle, ODbL lisansının şartlarını kabul ettiğiniz sürece, verilerimizi projelerinizde yeniden kullanabilirsiniz :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Projelerim için verilere nasıl erişebilirim/toplayabilirim?
+## How can I access/collect data for my projects ?
 
-Open Food Facts'in ana sayfasında, ekranın sol üst köşesinde kaydırılabilir bir menü bulunmaktadır. Sayfanın en altında, tıklayabileceğiniz "gelişmiş arama" seçeneğini bulacaksınız. O halde, projeniz/projeleriniz için hangi kriterlerin en uygun olduğuna karar vermek size kalmış. Seçiminizi yaptıktan sonra, sayfanın en altındaki "Sonuçları indir" seçeneğine tıklayarak elde edilen sonuçları indirebilirsiniz.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
