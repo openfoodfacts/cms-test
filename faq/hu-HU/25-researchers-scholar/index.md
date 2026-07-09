@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Kutatók/Tudósok"
-description: "1 alkategóriát"
-lang: hu-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: ballagási sapka
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: rács
+  type: grid
   grid-columns: 4
-  sort: "rendelés"
-  fields: [ cím, leírás ]
+  sort: "order"
+  fields: [ title, leírás ]
   page-size: 100
 ---
 
-{{< fa "ballagási sapka" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
