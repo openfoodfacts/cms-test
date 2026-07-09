@@ -1,21 +1,21 @@
 ---
-title: "{{< fa diplomiĝ-ĉapa grandeco=2x >}} Esploristoj/Scienco"
-description: "1 subkategorio"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: diplomiĝa ĉapo
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: krado
+  type: grid
   grid-columns: 4
-  sort: "ordo"
-  fields: [ titolo, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "diplomiĝa ĉapo" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
