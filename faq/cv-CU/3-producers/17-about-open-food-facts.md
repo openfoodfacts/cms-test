@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Уҫӑ апат-ҫимӗҫ ҫинчен калакан фактсем"
-description: "4 ыйту"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: инфо-ҫаврашка
+icon: info-circle
 ---
 
-{{< fa "инфо-ҫаврашка" size=3х >}}
+{{< fa "info-circle" size=3x >}}
 
-## Мӗнле информацие пайламалла?
+## What type of information should be shared?
 
-Сирӗн пур информацие те хапӑл туса йышӑнатпӑр, апат-ҫимӗҫ ҫинчен калакан информацирен пуҫласа упаковка ҫинчен калакан информаци таранах.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Ҫакӑ тулли файл йӗркелеме, пур баллсене те тӗрӗс шутласа кӑларма тата пӗтӗмӗшле илсен, потребительсем хаклакан уҫӑмлӑх тума май парать.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Анчах та эпир сире ҫак уйсене мала хума сӗнетпӗр:
+However we do recommend you prioritize the following fields:
 
-- Апатлану ҫинчен калакан информаци
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Тавар категорийӗ (тӗслӗхрен, ӗҫмелли япаласем, сыр, йогурт тата ытти те)
-
-- Тавар ячӗ
-
-- Аллергенсем
-
-- тата ингредиентсем, ку уй обязательнӑй мар, анчах та оптималлӑ усӑ курма тата баллсене палӑртма сӗнет
-
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Эпӗ Open Food Facts даннӑйӗсене скачать тума пултаратӑп-и?
+## Can I download Open Food Facts data?
 
-Эсир Open Food Facts сайтра пур даннӑйсене те скачать тума пултаратӑр. Асӑрханӑр, ҫакна тума диск ҫинче нумай вырӑн кирлӗ, енчен те эсир таблицӑпа усӑ курас тетӗр пулсан, хӑватлӑ компьютер е ытти чухне R е Python чӗлхине пӗлни кирлӗ.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Ҫавӑн пекех эсир даннӑйсен пӗр пайне (сӑмахран, хӑвӑрӑн бренда) анлӑ шырав пулӑшнипе скачать тума пултаратӑр.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
-
----
-
-## Pro платформӑна кӗме тата даннӑйсене импортлама тӳлевсӗр-и?
-
-Паллах, вӑл ӗмӗрлӗхех пулӗ.Open Food Facts компанийӗ паракан пур услугӑсем те тӳлевсӗр.  
-Эсир хӑвӑрӑн продукци даннӑйӗсене апат-ҫимӗҫ уҫӑмлӑхне кӗртме шут тытнӑшӑн эпир питӗ савӑнатпӑр, ҫакӑншӑн сире тав тӑватпӑр.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Эпӗ професси платформи валли лайӑхлатма сӗнесшӗн, мӗнле майпа ҫакна тума пулать?
+## Is access to the Pro platform and the import of data free?
 
-Апат-ҫимӗҫ уҫӑмлӑхне хутшӑнма кӑмӑл тунӑшӑн тавтапуҫ сире!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Хирӗҫле хыпарсене пайлама чи лайӑх мел — [ҫак формӑна](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) тултарасси.
+---
 
-Эсир пирӗнпе [пирӗн форум](https://forum.openfoodfacts.org/) е [Slack](https://openfoodfacts.slack.com/ssb/redirect) урлӑ сӗнӳсем пама пултаратӑр.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Пирӗн Slack-а кӗрӗр те пирӗнпе ҫыхӑнма #producers канала кӗрӗр.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
