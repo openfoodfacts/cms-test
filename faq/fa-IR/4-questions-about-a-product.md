@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} سوالاتی در مورد یک محصول"
-description: "۱ سوال"
-lang: انگلیسی-انگلیسی
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: سبد خرید
+icon: shopping-basket
 ---
 
-{{< fa "سبد خرید" size="۳ برابر" >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## من در مورد یک محصول سوال/ادعایی دارم
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) یک سایت مشارکتی است که توسط مصرف‌کنندگان ایجاد و پشتیبانی می‌شود تا بتوانند برچسب‌ها را رمزگشایی کرده و محصولات را با هم مقایسه کنند.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-برای اطلاعات بیشتر در مورد یک محصول یا یک ادعا، به سازنده نامه بنویسید. ما اطلاعات تماس تولیدکنندگان را نداریم، اما اغلب آنها روی بسته‌بندی هستند.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-اگر می‌خواهید به ما در ارائه شفافیت بیشتر به مصرف‌کنندگانی مثل خودتان یا ما کمک کنید، می‌توانید از اپلیکیشن آیفون یا اندروید ما برای اضافه کردن محصولات استفاده کنید: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-و برای بحث در مورد پروژه، می‌توانید به گروه فیسبوک مشارکت‌کنندگان بپیوندید: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) یا با سایر مشارکت‌کنندگان در Slack چت کنید:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
