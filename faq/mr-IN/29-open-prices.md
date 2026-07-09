@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} खुल्या किंमती"
-description: "३ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: २९
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: डॉलर
+icon: dollar
 ---
 
-{{< fa "डॉलर" size=३x >}}
+{{< fa "dollar" size=3x >}}
 
-## मी एक किरकोळ विक्रेता आहे आणि मला किंमतींमध्ये योगदान द्यायचे आहे. मी ते कसे करू शकतो?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-तुम्ही [आमचे API](https://prices.openfoodfacts.org/api/docs) वापरून किंमतींमध्ये योगदान देऊ शकता. जर तुम्हाला किमतींमध्ये मोठ्या प्रमाणात योगदान द्यायचे असेल, तर कृपया आमच्याशी [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) वर संपर्क साधा.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## किरकोळ विक्रेत्यांच्या वेबसाइटवरून किमती काढून घेण्याचा तुम्ही विचार करता का?
+## Do you consider scraping prices from retailers’ websites?
 
-कायदेशीर आणि तांत्रिक कारणांमुळे, आम्ही किरकोळ विक्रेत्यांच्या वेबसाइटवरून किमती काढून टाकणे हे ओपन प्राईसेसमध्ये योगदान देण्याचा एक वैध मार्ग मानत नाही. आम्ही गोळा करत असलेल्या किमती अचूक आणि अद्ययावत आहेत याची आम्हाला खात्री करायची आहे आणि योगदानकर्त्यांकडून स्क्रॅप केलेल्या किमती मिळाल्याने आम्हाला ते करण्याची परवानगी मिळत नाही.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## ओपन फूड फॅक्ट्स हे (ओपन प्राईसेस) का करत आहे?
+## Why is Open Food Facts doing this (Open Prices)?
 
-अन्न प्रणाली समजून घेण्यासाठी किंमतीची माहिती अत्यंत महत्त्वाची आहे. अन्नाची किंमत समजून घेण्यासाठी आणि निरोगी आहाराला प्रोत्साहन देण्यासाठी हे एक महत्त्वाचे घटक आहे. किमतीचा डेटा उघडणे हा संशोधक, पत्रकार आणि नागरिकांना भौगोलिकदृष्ट्या आणि वेळेनुसार अन्नाच्या किमती कशा बदलतात हे चांगल्या प्रकारे समजून घेण्यास सोपे करण्याचा एक मार्ग आहे.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
