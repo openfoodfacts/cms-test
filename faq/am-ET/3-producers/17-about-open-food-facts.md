@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} ስለ ክፍት ምግብ እውነታዎች"
-description: "4 ጥያቄዎች"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: የመረጃ-ክብ
+icon: info-circle
 ---
 
-{{< fa "የመረጃ-ክብ" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## ምን አይነት መረጃ መጋራት አለበት?
+## What type of information should be shared?
 
-ከአመጋገብ መረጃ እስከ የማሸጊያ መረጃ ድረስ ያለዎትን ማንኛውንም መረጃ በደስታ መቀበል ይችላሉ።
+Any information you have is welcome, from nutritional information to packaging information.
 
-ይህ የተሟላ ፋይል መመስረት፣ ሁሉንም ውጤቶች በትክክለኛነት እና በአጠቃላይ በተጠቃሚዎች ዘንድ አድናቆትን በተላበሰ ግልጽነት ማስላት ያስችላል።
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-ሆኖም ግን፣ ለሚከተሉት መስኮች ቅድሚያ እንዲሰጡ እንመክራለን፡
+However we do recommend you prioritize the following fields:
 
-- የአመጋገብ መረጃ
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- የምርት ምድብ (ለምሳሌ መጠጦች፣ አይብ፣ እርጎ፣ ወዘተ)
-
-- የምርቱ ስም
-
-- አለርጂዎች
-
-- እና ግብዓቶቹ፣ ይህ መስክ ግዴታ አይደለም ነገር ግን ለተመቻቸ አጠቃቀም እና ውጤቶቹን ለመወሰን ይመከራል
-
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## የክፍት ምግብ እውነታዎችን መረጃ ማውረድ እችላለሁን?
+## Can I download Open Food Facts data?
 
-በክፍት የምግብ እውነታዎች ላይ የሚገኘውን ሁሉንም መረጃ ማውረድ ይችላሉ። ይጠንቀቁ፣ ይህ ብዙ የዲስክ ቦታ፣ የተመን ሉህ ወይም የR ወይም የፓይቶን እውቀት መጠቀም ከፈለጉ ኃይለኛ ኮምፒውተር ይፈልጋል።
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-እንዲሁም የላቀ ፍለጋን በመጠቀም የውሂብ ንዑስ ስብስብ (ለምሳሌ የምርት ስምዎን) ማውረድ ይችላሉ።
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
-
----
-
-## ወደ ፕሮ ፕላትፎርም መድረስ እና የውሂብ ማስመጣት ነፃ ነው?
-
-በፍጹም፣ እናም ለዘላለም ይሆናል።በክፍት ፉድ ፋክትስ የሚሰጡ ሁሉም አገልግሎቶች ከክፍያ ነፃ ናቸው።  
-የምርት መረጃዎን ለምግብ ግልጽነት አስተዋጽኦ ለማድረግ በመወሰናችሁ በጣም ደስተኞች ነን፣ እናም ለዚህ እናመሰግናለን።
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ለሙያዊው መድረክ ማሻሻያዎችን መጠቆም እፈልጋለሁ፣ እንዴት ማድረግ እችላለሁ?
+## Is access to the Pro platform and the import of data free?
 
-በምግብ ግልፅነት ላይ ለመሳተፍ ላሳዩት ፍላጎት እናመሰግናለን!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-ግብረ መልስ ለማጋራት በጣም ጥሩው መንገድ [ይህንን ቅጽ](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) በመሙላት ነው።
+---
 
-እንዲሁም በ[መድረካችን](https://forum.openfoodfacts.org/) ወይም በ[Slack](https://openfoodfacts.slack.com/ssb/redirect) በኩል ጥቆማ ለመስጠት እኛን ማግኘት ይችላሉ።
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-ከእኛ ጋር ለመገናኘት የSlack ቻናላችንን ይቀላቀሉ እና #ፕሮዲውሰሮችን ይቀላቀሉ።
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
