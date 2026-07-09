@@ -1,25 +1,25 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Swivutiso mayelana na xiendliwa"
-description: "1 xivutiso"
-lang: ts-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: xirhundzu xa mavhengele
+icon: shopping-basket
 ---
 
-{{< fa "xirhundzu xa mavhengele" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ndzi na xivutiso / claim mayelana na product
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) i sayiti ya ntirhisano leyi tumbuluxiweke no phameriwa hi vatirhisi ku kota ku hlamusela malebvu na ku pimanisa swikumiwa.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Ku kuma vuxokoxoko byo tala mayelana na xitirhisiwa kumbe xikombelo, tsalela muendli. A hi na vuxokoxoko byo tihlanganisa bya vaendli kambe hakanyingi byi le ka swipaci.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Loko u lava ku hi pfuna ku tisa ku va erivaleni swinene eka vatirhisi vo fana na wena kumbe hina, u nga tirhisa app ya hina ya iPhone kumbe Android ku engetela swikumiwa: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Naswona ku burisana hi phurojeke, u nga joyina ntlawa wa Facebook wa vahoxi va xandla: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) kumbe u burisana na vahoxa xandla van’wana eka Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
-[https://www.slack.openfoodfacts.org](https://slack.openfoodfacts.org/Xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga xitsonga
+[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
 ---
 
