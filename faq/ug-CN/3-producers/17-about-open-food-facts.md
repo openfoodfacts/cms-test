@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} ئوچۇق يېمەكلىك پاكىتلىرى ھەققىدە"
-description: "4 سوئال"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: ئۇچۇر چەمبىرى
+icon: info-circle
 ---
 
-{{< fa "ئۇچۇر چەمبىرى" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## قانداق ئۇچۇرلارنى ئورتاقلىشىش كېرەك؟
+## What type of information should be shared?
 
-ئوزۇقلۇق ئۇچۇرلىرىدىن تارتىپ ئورالما ئۇچۇرلىرىغىچە بولغان ھەر قانداق ئۇچۇرىڭىزنى قارشى ئالىمىز.
+Any information you have is welcome, from nutritional information to packaging information.
 
-بۇ تولۇق ھۆججەتنى قۇرۇش، بارلىق نومۇرلارنى ئېنىق ھېسابلاش ۋە ئومۇمەن قىلىپ ئېيتقاندا ئىستېمالچىلارنىڭ ياقتۇرىدىغان ئاشكارالىقىنى ئەمەلگە ئاشۇرىدۇ.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-قانداقلا بولمىسۇن، بىز سىزگە تۆۋەندىكى ساھەلەرگە ئالدىن ئورۇن بېرىشىڭىزنى تەۋسىيە قىلىمىز:
+However we do recommend you prioritize the following fields:
 
-- ئوزۇقلۇق ئۇچۇرلىرى
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- مەھسۇلات تۈرى (مەسىلەن، ئىچىملىكلەر، پىشلاق، قېتىق قاتارلىقلار)
-
-- مەھسۇلاتنىڭ نامى
-
-- ئاللېرگېنلار
-
-- ۋە تەركىبلەر، بۇ بوشلۇق مەجبۇرىي ئەمەس، ئەمما ئەڭ ياخشى ئىشلىتىش ۋە نومۇرلارنى بەلگىلەش ئۈچۈن تەۋسىيە قىلىنىدۇ.
-
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ئوچۇق يېمەكلىك ئۇچۇرلىرى سانلىق مەلۇماتلىرىنى چۈشۈرەلەمدىم؟
+## Can I download Open Food Facts data?
 
-سىز ئوچۇق يېمەكلىك پاكىتلىرىدىكى بارلىق سانلىق مەلۇماتلارنى چۈشۈرۈۋالالايسىز. دىققەت قىلىڭ، بۇنىڭ ئۈچۈن نۇرغۇن دىسكا بوشلۇقى، ئەگەر سىز ئېلېكترونلۇق جەدۋەل ئىشلەتمەكچى بولسىڭىز، كۈچلۈك كومپيۇتېر ياكى R ياكى Python تىلىنى بىلىشىڭىز كېرەك.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-ئىلغار ئىزدەش ئارقىلىق سانلىق مەلۇماتلارنىڭ بىر قىسمىنى (مەسىلەن، ماركىڭىزنى) چۈشۈرۈۋالغىلى بولىدۇ.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ تېخىمۇ كۆپ تەپسىلاتلار ئۈچۈن، سىزنى [ئىشلەتكۈچى قوللانمىسى](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) نى چۈشۈرۈشكە ۋە/ياكى [سىن دەرسلىكلىرىمىز](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) نى كۆرۈشكە تەكلىپ قىلىمىز :-)
-
----
-
-## Pro سۇپىسىغا كىرىش ۋە سانلىق مەلۇماتلارنى ئىمپورت قىلىش ھەقسىزمۇ؟
-
-ئەلۋەتتە، ۋە ئۇ مەڭگۈ شۇنداق بولىدۇ.Open Food Facts تەمىنلىگەن بارلىق مۇلازىمەتلەر ھەقسىز.  
-سىزنىڭ يېمەكلىك ئاشكارىلىقىغا مەھسۇلات سانلىق مەلۇماتلىرىڭىزنى قوشۇشقا قارار قىلغىنىڭىزدىن تولىمۇ خۇشالمىز، بۇنىڭ ئۈچۈن سىزگە رەھمەت ئېيتىمىز.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## كەسپىي سۇپا ئۈچۈن ياخشىلاش تەكلىپىنى بەرمەكچىمەن، قانداق قىلسام بولىدۇ؟
+## Is access to the Pro platform and the import of data free?
 
-يېمەكلىك ئاشكارىلىقىغا قاتنىشىشقا رازى بولغانلىقىڭىزغا رەھمەت!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-پىكىر-تەكلىپلەرنى ئورتاقلىشىشنىڭ ئەڭ ياخشى ئۇسۇلى [بۇ فورما](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) نى تولدۇرۇشتۇر.
+---
 
-سىز يەنە [مۇنبەرىمىز](https://forum.openfoodfacts.org/) ياكى [Slack](https://openfoodfacts.slack.com/ssb/redirect) ئارقىلىق بىز بىلەن ئالاقىلىشىپ تەكلىپ-پىكىرلىرىڭىزنى بەرسىڭىز بولىدۇ.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-بىز بىلەن ئالاقىلىشىش ئۈچۈن Slack قا قوشۇلۇڭ ۋە #producers قانىلىغا كىرىڭ.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
