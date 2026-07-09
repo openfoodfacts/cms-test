@@ -1,6 +1,6 @@
 ---
-title: "{{< dimensione mobile fa=2x >}} Applicazione mobile"
-description: "4 dumande"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
@@ -9,44 +9,44 @@ icon: mobile
 
 {{< fa "mobile" size=3x >}}
 
-## Cumu possu sapè quale versione di l'applicazione aghju adupratu ?
+## How do I know which version of the app I'm using?
 
-Andate à **Profilu**,
-dopu **FAQ**, dopu **À propositu di sta app.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Duvete
-vede un numeru di versione cum'è 3.4.5+662. Ùn vi scurdate di dì ci a marca è u mudellu
-di u telefunu s'ellu hè in debugging.
-
----
-
-## L'app ùn scansiona micca
-
-Questu pò esse duvutu à
-
-- un prublema di rete
-
-- un prublema di permessi
-
-- un prublema di codice à barre
-
-Mandateci un email via Profilu >> Cuntattateci >> Mandateci un email.
-
-Tutte l'infurmazioni pertinenti devenu esse allegate à a vostra dumanda.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Cumu possu aiutà à migliurà l'applicazione mobile?
+## The app does not scan
 
-Cumu possu aiutà à migliurà l'applicazione mobile?
+This may be due to
 
-Pudete fà cusì in u repositoriu di l'applicazioni mobili (https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Induve possu mandà feedback nantu à l'app?
+## How can I help with improving the mobile app ?
 
-Pudete mandà feedback à mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
