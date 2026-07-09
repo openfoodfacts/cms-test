@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Муҳаррики Folksonomy"
-description: "1 савол"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: китоб
+icon: book
 ---
 
-{{< fa "китоб" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Муҳаррики Фолксономия чист?
+## What is the Folksonomy Engine ?
 
-Муҳаррики Folksonomy системаест, ки ба корбарон имкон медиҳад, ки ба маҳсулоти хӯрокворӣ дар Open Food Facts, бузургтарин пойгоҳи додаҳои хӯроквории кушода дар ҷаҳон, барчаспҳо ё хосиятҳои фармоишӣ илова кунанд. Ин ба одамон имкон медиҳад, ки хӯрокро бо роҳҳои нав, берун аз хосиятҳои пешакӣ муайяншудаи мавҷуда, гурӯҳбандӣ ва тавсиф кунанд.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
