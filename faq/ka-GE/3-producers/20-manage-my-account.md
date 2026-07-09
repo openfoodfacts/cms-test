@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} ჩემი ანგარიშის მართვა"
-description: "3 კითხვა"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## შეიძლება თუ არა ერთ კომპანიასთან რამდენიმე Open Food Facts ანგარიშის დაკავშირება?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-დიახ, გთხოვთ, მოგვწეროთ ელ. ფოსტაზე [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), რათა ყველა ანგარიში ერთსა და იმავე კომპანიას დავუკავშიროთ.
-
----
-
-## როგორ გადავაქციო ჩემი Open Food Facts ანგარიში Pro ანგარიშად?
-
-თქვენ შეგიძლიათ წვდომა [Pro პლატფორმაზე](https://world.pro.openfoodfacts.org/) თქვენი არსებული ანგარიშის ავტორიზაციის მონაცემებით.
-
-თუ თქვენ პროფესიონალი ხართ, თქვენი ანგარიშის დასადასტურებლად დაგჭირდებათ თქვენი პროფესიული ელექტრონული ფოსტის მისამართის გამოყენება.
-
-→ დამატებითი ინფორმაციისთვის, გეპატიჟებით ჩამოტვირთოთ ჩვენი [მომხმარებლის სახელმძღვანელო](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) და/ან გაეცნოთ ჩვენს [ვიდეო გაკვეთილებს](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## სად შემიძლია ვიპოვო დოკუმენტაცია, რომელიც Pro პლატფორმის გამოყენებაში დამეხმარება?
+## How to convert my Open Food Facts account into a Pro account?
 
-არსებობს რამდენიმე რესურსი, რომელიც დაგეხმარებათ Pro პლატფორმის მაქსიმალურად გამოყენებაში.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-თქვენ შეგიძლიათ:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- გაეცანით ჩვენს [მომხმარებლის სახელმძღვანელოს](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - გთავაზობთ PDF ფაილის ჩამოტვირთვას, რათა ბმულებზე დაწკაპუნება შესაძლებელი იყოს, რაც დოკუმენტში ნავიგაციას გაგიადვილებთ.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- გაეცანით ჩვენს [ვიდეო გაკვეთილებს](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- გაგვიზიარეთ გამოხმაურება ან შემოთავაზებები [ამ ფორმის](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) მეშვეობით
+## Where can I find documentation to help me use the Pro platform?
 
-- დამატებითი კითხვების შემთხვევაში, დაგეგმეთ ზარი მანონთან, ჩვენს პარტნიორობის მენეჯერთან: [აქ](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- დაგვიკავშირდით ელექტრონული ფოსტით: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
