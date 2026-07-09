@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Su'aalaha Badiya La Weydiiyo - Ingiriisi"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/tilmaan.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: shabaq
+  type: grid
   grid-columns: 4
-  sort: "dalab"
-  fields: [ cinwaan, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
