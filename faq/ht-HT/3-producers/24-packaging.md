@@ -1,49 +1,49 @@
 ---
-title: "{{< gwosè kib fa=2x >}} Anbalaj"
-description: "3 kesyon"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kib
+icon: cube
 ---
 
-{{< fa "kib" size="3 fwa" >}}
+{{< fa "cube" size=3x >}}
 
-## Kijan mwen ka ajoute done anbalaj mwen yo nan Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Antanke pwodiktè, fason ki pi efikas pou ajoute done anbalaj nan pwodwi ou yo se ranpli nan [spreadsheet excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) sa a enfòmasyon ki nesesè yo, ki soti nan kolòn "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Pou chak eleman anbalaj, ou pral bezwen antre:
+For each packaging component, you will need to enter:
 
-- Kantite inite yo (pa egzanp: **4** po yogout)
+- The number of units (ex: **4** pots of yogurts)
 
-- Fòm nan (pa egzanp: **po, kouvèti, bwat, elatriye**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materyèl la (pa egzanp: **PET, papye, vè, elatriye**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Enstriksyon resiklaj la (pa egzanp: **pou resikle, pou jete, elatriye**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Pwa yon inite vid (an gram)
+- The weight of one empty unit (in gr)
 
-- Kantite nèt pwodwi ki genyen pou chak inite
+- The net quantity of product contained per unit
 
-Apre sa, ou ka enpòte fichye kalkil sa a nan platfòm nou an ki dedye a pwofesyonèl yo.
-
----
-
-## Ki sa pwojè Tackling Food Packaging la ye?
-
-Pwojè "Tackling Food Packaging" la konsiste de kolekte enfòmasyon detaye sou anbalaj pwodwi ki pi konsome yo (fòm, materyèl, enstriksyon klasman, pwa, kapasite).
-
-Baze sou yon apwòch syans patisipatif, li pral konte ni sou konpayi yo ki dakò pou pataje done anbalaj yo epi pou jwe jwèt transparans lan, ni sou sitwayen yo ki pèmèt koleksyon enfòmasyon sou pwodwi yo. Enfòmasyon sa a pral kapab itilize ankò libman ("done ouvè").
-
-Pou plis enfòmasyon: **[https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)**
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Menm apre pwojè Tackling Food Packaging la fini, èske mwen ka toujou ajoute done anbalaj mwen yo?
+## What is the Tackling Food Packaging project?
 
-Menm apre pwojè a fini, li posib pou ajoute done anbalaj paske chan anbalaj yo ap rete sou sit entènèt nou an.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
