@@ -1,15 +1,15 @@
 ---
-title: "{{< dimensiunea balonului fa=2x >}} NOVA / Prelucrarea alimentelor"
-description: "1 întrebare"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: balon
+icon: flask
 ---
 
-{{< fa "balon" size="de 3 ori" >}}
+{{< fa "flask" size=3x >}}
 
-## Ce este NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
