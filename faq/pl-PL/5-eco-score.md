@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Wynik ekologiczny"
-description: "5 pytań"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: użytkownik-plus
+icon: user-plus
 ---
 
-{{< fa "użytkownik-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Na czym polega metodologia Eco-Score?
+## What is the Eco-Score methodology?
 
-Eco-Score opiera się na obliczeniach analizy cyklu życia sporządzonych przez ADEME (agencję ds. transformacji ekologicznej) i INRAE (krajowy instytut badań agronomicznych). W celu utworzenia wyniku PEF oblicza się i łączy około piętnastu komponentów.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Do tego wyniku PEF dodawane są bonusy i minusy (sposób produkcji, pochodzenie
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-składniki, gatunki zagrożone, opakowania) w celu obliczenia Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Więcej informacji można znaleźć na stronie podsumowania [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) w serwisie Open Food Facts, a także na stronie internetowej konsorcjum Eco-Score. (Prezentacja Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Jakiego rodzaju informacje należy podać, aby obliczyć wynik Eco-Score możliwie najdokładniej?
-
-Aby obliczyć wynik Eco-Score dokładnie, konieczne jest podanie procentowej zawartości każdego składnika i jego pochodzenia.
-
-Jeśli informacja ta nie jest jeszcze zawarta na liście składników, możesz dodać kolumnę, aby ją uwzględnić, używając następującego formatu:
-
-Mąka pszenna 16% (Francja)
-
-Czekolada 8% (Wybrzeże Kości Słoniowej, Ekwador)
-
-Potrzebujemy również następujących elementów opakowania: 1 folia plastikowa do wyrzucenia, 1 karton FSC do recyklingu, 6 przezroczystych plastikowych butelek PET o pojemności 1,5 l do recyklingu, 6 nieprzezroczystych kolorowych plastikowych nakrętek, 12 plastikowych puszek aluminiowych o pojemności 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Jak łączone są wartości 15 wskaźników?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Aby lepiej zrozumieć system PEF, zapoznaj się z wyjaśnieniem punktacji PEF na stronie poświęconej metodologii Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Czy aspekt lokalny dotyczy miejsca produkcji czy miejsca pochodzenia surowców?
+## How are the values ​​of the 15 indicators combined?
 
-**Lokalny aspekt dotyczy pochodzenia surowców. Dlatego ważne jest, aby na liście składników produktu lub w polu przeznaczonym na pochodzenie składników podać ich zawartość procentową oraz pochodzenie.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Jak wprowadzić pochodzenie składników, aby uzyskać eko-punktację?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Jeśli chcą Państwo zamieścić na swoich arkuszach informacje dotyczące pochodzenia surowców, zachęcamy do uwzględnienia ich na liście składników.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
