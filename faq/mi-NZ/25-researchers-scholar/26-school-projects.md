@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Ngā kaupapa kura"
-description: "2 ngā pātai"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: kōnae-o
+icon: file-o
 ---
 
-{{< fa "kōnae-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## He kaupapa kura tāku hei mahi, e hiahia ana ahau ki te whakamahi i ngā raraunga a Open Food Facts, ka taea e au?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-He pātengi raraunga tuwhera a Open Food Facts, he kaupapa tuwhera e whakahaerehia ana i raro i te raihana ODbL, nō reira, mena ka whakaae koe ki ngā whakaritenga o te raihana ODbL, nau mai haere mai ki te whakamahi anō i ā mātou raraunga mō āu kaupapa :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Me pēhea taku uru atu/kohikohi raraunga mō aku kaupapa?
+## How can I access/collect data for my projects ?
 
-Kei te whārangi matua o Open Food Facts, kei te kokonga maui o runga o te mata, he tahua panuku. Kei raro iho, ka kitea e koe te kōwhiringa "rapu matatau", ka taea e koe te pāwhiri i reira. Nāu anō te whakatau ko ēhea ngā paearu e tino hāngai ana ki tō kaupapa. Kia whiriwhiria, ka taea e koe te tango i ngā hua kua whiwhi mā te panuku ki raro i te whārangi ka pāwhiri i te "Tangohia ngā hua".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
