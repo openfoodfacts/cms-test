@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} ეტიკეტები"
-description: "2 კითხვა"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: სანიშნე
+icon: bookmark
 ---
 
-{{< fa "სანიშნე" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ლეიბლისთვის, მნიშვნელოვანია თუ არა ანგარიშის შექმნა?
+## As a label, is it important to create an account ?
 
-როგორც ლეიბლი, რადგან თქვენ არ ხართ პროდუქციის პირდაპირი მწარმოებელი, არ გჭირდებათ მწარმოებლის ანგარიშის შექმნა.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## მე ლეიბლი ვარ, როგორ შემიძლია პროექტში მონაწილეობა?
+## I am a label, how can I participate in the project?
 
-ეტიკეტის შემთხვევაში, ყველაზე რელევანტურია დაგვიკავშირდეთ **(producers@openfoodfacts.org)** და გამოგვიგზავნოთ იმ პროდუქტების სია, რომლებზეც თქვენი ეტიკეტია გამოსახული, რათა შევძლოთ მათი დამატება შესაბამის პროდუქტის ფურცლებში.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
