@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
-title: "سوالات متداول - انگلیسی"
-lang: "انگلیسی-انگلیسی"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,11 +10,11 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: شبکه
+  type: grid
   grid-columns: 4
-  sort: "سفارش"
-  fields: [ عنوان, description ]
-  page-size: ۱۰۰
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
