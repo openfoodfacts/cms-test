@@ -1,10 +1,10 @@
 ---
-title: "{{< saiz-had-graduasi fa=2x >}} Penyelidik/Sarjana"
-description: "1 subkategori"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: topi graduasi
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
@@ -12,10 +12,10 @@ listing:
     category-level: 1
   type: grid
   grid-columns: 4
-  sort: "pesanan"
-  fields: [ tajuk, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "topi graduasi" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
