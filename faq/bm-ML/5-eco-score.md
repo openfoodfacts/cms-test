@@ -1,55 +1,55 @@
 ---
-title: "{{< fa baarakɛla-ka fara hakɛ=2x >}} Eco-Score"
-description: "5 ɲininkaliw"
-lang: bamanankan-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: baarakɛla-ka fara o kan
+icon: user-plus
 ---
 
-{{< fa "baarakɛla-ka fara o kan" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Eco-Score fɛɛrɛ ye mun ye?
+## What is the Eco-Score methodology?
 
-Eco-Score sinsinnen bɛ ɲɛnamaya taabolo sɛgɛsɛgɛli jatebɔ kan min kɛra ADEME (lamini jiginni baarada) ani INRAE (jamana ka sɛnɛko ɲinini baarada) fɛ. Yɔrɔ tan ni duuru ɲɔgɔn bɛ jate ka jɛ walasa ka PEF jate da.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-O PEF jate in kan, bonus ni maluses (sɛnɛcogo, bɔyɔrɔ de bɛ fara a kan
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-fɛnw, fɛnɲɛnama suguya minnu bɛ farati la, pakew) walasa ka Eco-Score jatebɔ.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Walasa ka kunnafoni wɛrɛw sɔrɔ, aw ye kunnafoni kuncɛlen ɲɛ [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) lajɛ Dumuni Dabɔlenw Tiɲɛw kan ani fana Eco-Score jɛkulu ka siti kan. (Eco-Score jiracogo [https://docs.score-environnemental.com/](https://docs.score-lamini.com/))
-
----
-
-## Kunnafoni sugu jumɛnw ka kan ka di walasa Eco-Score ka jate ka ɲɛ cogo min na?
-
-Walasa Eco-Score ka jate tigitigi, fɛn kelen-kelen bɛɛ kɛmɛsarada la ani a bɔyɔrɔ ka kan ka fɔ.
-
-Ni o kunnafoniw ma fɔ kaban fɛnw lisɛli kɔnɔ, aw bɛ se ka kulu dɔ fara a kan walasa k’u fɔ, ni nin cogoya in ye:
-
-Malo mugu 16% (France) .
-
-Chocolat 8% (Côte d’Ivoire, Ekuwatɔrɔ)
-
-An mago bɛ pakew kɔnɔfɛnw fana na i n’a fɔ : plastiki filimu 1 ka fili, FSC kartɔn 1 ka segin ka kɛ fɛn wɛrɛ ye, PET plastiki buteli jɛlen 6 minnu janya ye L 1,5 ye ka segin u cogo kɔrɔ la, plastiki dawolo 6 minnu kulɛri tɛ ye, plastiki bidon 12 33 cl aluminiyɔmu.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Taamaʃyɛn 15 ninnu nafaw bɛ fara ɲɔgɔn kan cogo di?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Walisa ka PEF ka sigida faamuya ka ɲɛ, aw bɛ se ka nin kalan: PEF jatebɔ ɲɛfɔli Eco-Score fɛɛrɛbɔyɔrɔ kan**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Yala sigida fan bɛ tali kɛ fɛnɲɛnamafagalanw dilayɔrɔ la walima u bɔyɔrɔ la wa?
+## How are the values ​​of the 15 indicators combined?
 
-**Sigida fan bɛ tali kɛ fɛnɲɛnamafagalanw bɔyɔrɔ la. O de kama a nafa ka bon k’u kɛmɛsarada la ka fara u bɔyɔrɔ kan fɛn dilannenw kɔnɔfɛnw lisɛli kɔnɔ walima foro min bilalen bɛ fɛnw bɔyɔrɔ kan.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Cogo di ka don fɛnw bɔyɔrɔw la ka ɲɛsin eko-score ma?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-N’aw b’a fɛ ka kunnafoniw di aw ka sɛbɛnw kan minnu bɛ fɛnɲɛnamafagalanw bɔyɔrɔ kan, an b’aw wele aw k’u don fɛnw lisɛli kɔnɔ.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
