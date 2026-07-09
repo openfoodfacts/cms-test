@@ -1,17 +1,17 @@
 ---
-title: "{{< fa usayizi wencwadzi=2x >}} Injini Yebantfu"
-description: "1 umbuto"
-lang: si-gb
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: incwadzi
+icon: book
 ---
 
-{{< fa "incwadzi" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Yini iNjini yeFolksonomy ?
+## What is the Folksonomy Engine ?
 
-Injini ye Folksonomy luhlelo loluvumela basebentisi kutsi bangete emathegi lakhetsiwe, noma timphahla, kumikhicito yekudla ku Open Food Facts, indzawo lenkhulu kakhulu yekudla lokuvulekile emhlabeni. Loku kwenta bantfu kutsi bahlukanise ngetigaba futsi bachaze kudla ngetindlela letinsha, ngetulu kwetimphahla letikhona letichazwe kucala.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
