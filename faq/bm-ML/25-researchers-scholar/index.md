@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Ɲininikalaw/Dɔnnikɛla"
-description: "1 ye kulu fitinin ye"
-lang: bamanankan-gb
-order: 25. Ɲɛjirali dɔw
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: graduation-cap (kalanso banbali-cap).
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: nɛgɛjuru
+  type: grid
   grid-columns: 4
-  sort: "ci"
-  fields: [ titiri, description ]
-  page-size: 100 ye
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "graduation-cap (kalanso banbali-cap)." size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
