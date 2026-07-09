@@ -1,7 +1,7 @@
 ---
 title: "{{< fa heartbeat size=2x >}} Nutri-Score"
 description: "3 vragen"
-lang: en-gb
+lang: nl-nl
 order: 8
 category-level: 0
 icon: hartslag
@@ -11,7 +11,7 @@ icon: hartslag
 
 ## Wat moet ik doen als de Nutri-Score van mijn producten niet klopt?
 
-Mocht er een probleem zijn met uw Nutri-Score, controleer dan of uw gegevens correct zijn op het tabblad 'wijzigen' van uw productinformatieblad. Mocht er informatie ontbreken of onjuist zijn, neem dan gerust contact met ons op via **producenten@openfoodfacts.org**.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. Mocht er informatie ontbreken of onjuist zijn, neem dan gerust contact met ons op via **producenten@openfoodfacts.org**.
 
 ---
 
@@ -25,7 +25,7 @@ Vergeet niet het percentage fruit, groenten en noten in je tabel te vermelden, z
 
 ## Waar komt de Nutri-Score vandaan?
 
-De Nutri-Score wordt beheerd door Santé Publique France. Het vat de tabel met voedingswaarden samen, zodat iedereen het kan begrijpen. Het doel is om iedereen toegang te bieden tot duidelijke en begrijpelijke voedingsinformatie.
+De Nutri-Score wordt beheerd door Santé Publique France. Het vat de tabel met voedingswaarden samen, zodat iedereen het kan begrijpen. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
