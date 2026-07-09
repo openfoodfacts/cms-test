@@ -1,49 +1,49 @@
 ---
-title: "{{< veľkosť kocky fa=2x >}} Balenie"
-description: "3 otázky"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kocka
+icon: cube
 ---
 
-{{< fa "kocka" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ako môžem pridať údaje o svojom balení do Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Ako výrobca, najefektívnejším spôsobom, ako pridať údaje o balení k vašim produktom, je vyplniť túto [excelovskú tabuľku](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) potrebnými informáciami zo stĺpca „AU“.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Pre každú súčasť balenia budete musieť zadať:
+For each packaging component, you will need to enter:
 
-- Počet jednotiek (napr.: **4** kelímky jogurtov)
+- The number of units (ex: **4** pots of yogurts)
 
-- Tvar (napr.: **hrniec, pokrievka, krabica atď.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materiál (napr.: **PET, papier, sklo atď.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Pokyny na recykláciu (napr.: **recyklovať, zlikvidovať atď.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Hmotnosť jednej prázdnej jednotky (v g)
+- The weight of one empty unit (in gr)
 
-- Čisté množstvo produktu obsiahnutého v jednej jednotke
+- The net quantity of product contained per unit
 
-Túto tabuľku je potom možné importovať do našej platformy určenej pre profesionálov.
-
----
-
-## Čo je projekt Riešenie problémov s balením potravín?
-
-Projekt „Riešenie problematiky balenia potravín“ spočíva v zhromažďovaní podrobných informácií o obaloch najkonzumovanejších produktov (tvar, materiál, pokyny na triedenie, hmotnosť, kapacita).
-
-Na základe participatívneho vedeckého prístupu sa bude spoliehať jednak na to, že spoločnosti súhlasia so zdieľaním údajov o svojich obaloch a hrajú hru transparentnosti, ako aj na to, že občania umožnia zhromažďovať informácie o produktoch. Tieto informácie budú voľne opätovne použiteľné („otvorené dáta“).
-
-**Viac informácií:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Môžem aj po skončení projektu Tackling Food Packaging stále pridávať údaje o svojich obaloch?
+## What is the Tackling Food Packaging project?
 
-Aj po ukončení projektu je možné pridať údaje o obaloch, pretože polia týkajúce sa obalov zostanú na našej webovej stránke.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
