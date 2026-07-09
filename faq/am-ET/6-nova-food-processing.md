@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / የምግብ ማቀነባበሪያ"
-description: "1 ጥያቄ"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: ጠርሙስ
+icon: flask
 ---
 
-{{< fa "ጠርሙስ" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## ኖቫ ምንድን ነው?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
