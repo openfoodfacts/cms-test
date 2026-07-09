@@ -1,21 +1,21 @@
 ---
-title: "{{< fa lifu-kulayisha usayizi=2x >}} Idatha kulayisha"
-description: "1 umbuto"
-lang: si-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: landza emafu
+icon: cloud-download
 ---
 
-{{< fa "landza emafu" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ungayitfolaphi idatha yelive lelitsite?
+## Where to get the data for a specific country?
 
-Kwanyalo, kute tintfo letitfunyelwa ngaphandle letinikelwe emaveni latsite.
+Currently, there are no exports dedicated to specific countries.
 
-Kunetindlela letinyenti tekusebentisa tintfo tetfu letehlukene letitfunyelwa ngaphandle letihlanganiswe nemathuluzi lehlukene kukhetsa idatha lehambisana nelive lelitsite.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Ungabuka [letinye taletindlela ku-wiki yetfu](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
