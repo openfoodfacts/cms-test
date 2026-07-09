@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} शालेय प्रकल्प"
-description: "२ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: २६
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
+order: 26
 category-level: 1
-icon: फाईल-ओ
+icon: file-o
 ---
 
-{{< fa "फाईल-ओ" size=३x >}}
+{{< fa "file-o" size=3x >}}
 
-## मला एक शाळेचा प्रकल्प करायचा आहे, मला ओपन फूड फॅक्ट्सचा डेटा वापरायचा आहे, मी ते करू शकतो का?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-ओपन फूड फॅक्ट्स, हा एक खुला डेटाबेस आहे, एक खुला प्रकल्प जो ODbL परवान्याअंतर्गत कार्यरत आहे, म्हणून जोपर्यंत तुम्ही ODbL परवान्याच्या आवश्यकतांशी सहमत आहात, तोपर्यंत तुम्ही तुमच्या प्रकल्पांसाठी आमचा डेटा पुन्हा वापरण्यास स्वागत आहे :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## मी माझ्या प्रकल्पांसाठी डेटा कसा मिळवू/संकलित करू शकतो?
+## How can I access/collect data for my projects ?
 
-ओपन फूड फॅक्ट्सच्या मुख्य पृष्ठावर, स्क्रीनच्या वरच्या डाव्या कोपऱ्यात, एक स्क्रोलिंग मेनू आहे. त्याच्या तळाशी, तुम्हाला "प्रगत शोध" पर्याय दिसेल, ज्यावर तुम्ही क्लिक करू शकता. त्यानंतर तुमच्या प्रकल्पासाठी कोणते निकष सर्वात संबंधित आहेत हे ठरवणे तुमच्यावर अवलंबून आहे. एकदा निवडल्यानंतर, तुम्ही पृष्ठाच्या तळाशी स्क्रोल करून आणि "निकाल डाउनलोड करा" वर क्लिक करून प्राप्त झालेले निकाल डाउनलोड करू शकाल.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
