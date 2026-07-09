@@ -1,23 +1,23 @@
 ---
-title: "{{< fa calaamadaynta cabbirka = 2x >}} Calaamadaha"
-description: "2 su'aalood"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: calaamadee
+icon: bookmark
 ---
 
-{{< fa "calaamadee" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Calaamad ahaan, ma muhiim baa in la sameeyo akoon?
+## As a label, is it important to create an account ?
 
-Calaamad ahaan, maadaama aadan ahayn soo-saaraha tooska ah ee badeecadaha, uma baahnid inaad abuurto akoon soo-saare.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Waxaan ahay summad, sidee baan uga qayb qaadan karaa mashruuca?
+## I am a label, how can I participate in the project?
 
-Calaamad ahaan, waxa ugu habboon ee la sameeyo waa inaad nala soo xiriirto **(producers@openfoodfacts.org)** oo aad noo soo dirto liiska alaabta lagu soo bandhigay calaamaddaadu si aan ugu darno xaashiyaha badeecada ee la xiriira.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
