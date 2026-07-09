@@ -1,23 +1,23 @@
 ---
-title: "{{< fa marcadorpa sayaynin=2x >}} Etiquetas"
-description: "2 tapuykuna"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: 23. 23
+order: 23
 category-level: 0
-icon: marcador
+icon: bookmark
 ---
 
-{{< fa "marcador" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Etiqueta hina, ¿importantechu huk yupayta ruway ?
+## As a label, is it important to create an account ?
 
-Etiqueta hina, mana chiqap ruruchiq kasqaykirayku, mana ruruchiqpa yupayninta ruwanaykichu tiyan.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ñuqaqa etiqueta kani, ¿imaynatataq proyectopi participayman?
+## I am a label, how can I participate in the project?
 
-Etiqueta hina aswan tupaq ruwayqa ñuqaykuwan rimanakuymi **(producers@openfoodfacts.org)** chaymanta apachimuwayku lista rurukuna mayqinkunapichus etiquetayki rikuchikun chaymanta chaywan tupaq ruru raphikunapi yapayta atiykuman.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
