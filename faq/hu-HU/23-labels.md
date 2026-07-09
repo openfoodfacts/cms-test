@@ -1,23 +1,23 @@
 ---
-title: "{{< fa könyvjelző mérete=2x >}} Címkék"
-description: "2 kérdés"
-lang: hu-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: könyvjelző
+icon: bookmark
 ---
 
-{{< fa "könyvjelző" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Fontos fiókot létrehozni egy kiadó számára?
+## As a label, is it important to create an account ?
 
-Mivel Ön, mint kiadó, nem közvetlenül a termékek gyártója, nem kell termelői fiókot létrehoznia.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Én egy kiadó vagyok, hogyan vehetek részt a projektben?
+## I am a label, how can I participate in the project?
 
-Címkeként a legfontosabb, hogy felvegye velünk a kapcsolatot a **(producers@openfoodfacts.org)** címen, és elküldje nekünk azoknak a termékeknek a listáját, amelyeken a címkéje megjelenik, hogy felvehessük azokat a kapcsolódó terméklapokra.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
