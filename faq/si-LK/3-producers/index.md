@@ -1,21 +1,21 @@
 ---
-title: "{{< fa කර්මාන්ත ප්‍රමාණය=2x >}} නිෂ්පාදකයින්"
-description: "උපප්‍රවර්ග 6ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: කර්මාන්තය
+icon: industry
 listing:
   contents:
-    - "*.එම්ඩී"
+    - "*.md"
   include:
     category-level: 1
-  type: ජාලකය
+  type: grid
   grid-columns: 4
-  sort: "නියෝගය"
-  fields: [ ශීර්ෂය, description ]
-  page-size: 100 යි
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "කර්මාන්තය" size=3x >}}
+{{< fa "industry" size=3x >}}
 
