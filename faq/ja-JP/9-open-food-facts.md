@@ -1,121 +1,121 @@
 ---
-title: "{{< fa question-circle size=2x >}} 食品情報を開く"
-description: "9つの質問"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: 質問サークル
+icon: question-circle
 ---
 
-{{< fa "質問サークル" size=3倍 >}}
+{{< fa "question-circle" size=3x >}}
 
-## What is the difference with other web sites, services and mobile applications that already allow to view cosmetics products information?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-The main difference is for us a critical one: our data is freely available to all and for all uses. これがオープンデータと呼ばれるものです
+私たちにとって、主な違いは重大なものです。 私たちのデータは、すべての人が、あらゆる用途で自由に利用できます。 これがオープンデータと呼ばれるものです
 
-他のほとんどすべてのサイト、サービス、およびアプリケーションは、他の人がデータを複製および再利用することを禁じています。 Quite to the contrary, the jealously keep it for themselves. ほとんどの場合、利用規約では、非個人的な使用や、データの全部または一部の抽出は明示的に禁止されています。
+他のほとんどすべてのサイト、サービス、およびアプリケーションは、他の人がデータを複製および再利用することを禁じています。 Quite to the contrary, the jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that cosmetics products information is too important and useful to keep it locked in a safe. そのため、2012 年に Open Food Facts プロジェクトとモバイル アプリを開始したとき、私たちはまったく逆のことをしようと決めました。つまり、データベースの使用と再利用を、誰でも、あらゆる用途 (商用を含む) で、無料で許可するだけでなく、それを奨励するのです。
+We consider that cosmetics products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-データを一般公開する（いわゆる「オープンデータ」）ことで、世界中の個人、団体、企業、研究者などが、私たちが決して考えつかなかったようなデータの用途を考え出し、開発できるようになります。
-
----
-
-## 「Open Food Facts の経済モデル」とは何ですか
-
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. （[再利用規約](https://en.openfoodfacts.org/terms-of-use#reuse)を参照）
-
-したがって、誰でも（Open Food Facts の貢献者や作成者を含むがこれに限定されない）データを再配布および/または再利用して、Web サイト、サービス、ソフトウェア、モバイル アプリケーションを構築したり、記事や調査を書いたりすることができます。 They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
-
-We are also strictly independent from the food industry, and all the services and software we build are free. たとえば、私たちのプロデューサー向けプラットフォームは完全に無料です。プロデューサーの製品向上に役立つ可能性があると思うので、私たちはそれをとても嬉しく思っています。
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## メーカーのサイト、ショッピングサイト、その他のサイトの商品写真やデータを追加できますか？
+## What is Open Food Facts' economic model
 
-Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that's actually the reason why we are creating Open Beauty Facts: to make all this data available to all and for all uses.
+貢献者はボランティアです。 彼らの貢献は、誰でもあらゆる用途に使用できるオープン データベースに集められます。 (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. 再利用の条件を尊重する限り、結果として得られた作品を無料で公開したり、販売したり収益化したり（広告など）することも自由です。
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
+
+おそらくそうではない。 Almost all other sites forbid reproduction and reuse of their data and images, and that's actually the reason why we are creating Open Beauty Facts: to make all this data available to all and for all uses.
 
 したがって、法的な問題を回避するために、寄稿者には、自分で撮った写真のみを追加し、製品のパッケージとラベルから取得したデータのみを追加するようお願いします。
 
 ---
 
-## How can I contact the Open Beauty Facts team, ask questions or make suggestions?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-フォーラムで質問や提案をしたり、電子メールで問い合わせることもできます:contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-生産者の方は、[producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)までメールでお問い合わせください。
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-ジャーナリストの方は、[presse@openfoodfacts.org](mailto:presse@openfoodfacts.org)までメールでご連絡ください。
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-注意: [Open Food Facts は食品の共同データベースです](https://world.openfoodfacts.org/discover)。当社は製品を販売しておらず、生産者へのリンクもありません。 For a question or complain about a product, you need to write directly to the producer (address on the product label).
-
----
-
-## 製品に関する情報とデータは検証されていますか?
-
-情報とデータは Open Food Facts の寄稿者によって提供されます。 The contributors also send pictures of the product, its labels, ingredients lists and health and beauty claims. 疑わしい場合は、訪問者が自分で正確さを確認し、誤りがあればその場で修正することができます。
-
-潜在的なエラーをより簡単に検出するために、自動チェックを段階的に追加します。 e.g. たとえば、ある製品の栄養成分表示が同じカテゴリーの製品と大きく異なる場合、エラーである可能性があります。 If the nutriments add up to more than 100%, it's definitely an error.
-
-Finally, many producers send us photos and data about their products using our Platform for Producers. プロデューサーの方は[お問い合わせ](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## I am a cosmetics product manufacturer, can I add my own products?
+## Is the information and data on products verified?
 
-はい はい はい はい はい はい はい はい はい はい はい はい はい 唯一の条件は、データと写真がオープンライセンスの下で利用可能になることを受け入れることです。 （[投稿規約](https://en.openfoodfacts.org/terms-of-use#contribution)を参照）
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and health and beauty claims. 疑わしい場合は、訪問者が自分で正確さを確認し、誤りがあればその場で修正することができます。
 
-当社では、規模に関係なく、商品の写真やデータを簡単にインポートできる無料のプラットフォームを開発しました。 It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. 今後の進め方についてご相談するには、[producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) までご連絡ください。
+潜在的なエラーをより簡単に検出するために、自動チェックを段階的に追加します。 e.g. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. 栄養素の合計が 100% を超える場合、それは間違いなくエラーです。
+
+最後に、多くの生産者が、当社の生産者向けプラットフォームを使用して、自社の製品の写真やデータを当社に送信します。 If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Open Food Facts データは誰が使用するのでしょうか?
+## I am a food product manufacturer, can I add my own products?
 
-Open Food Facts
-プラットフォームに依存しているすべての組織をリストするには、
-時間がかかりすぎます。
+はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい 唯一の条件は、データと写真がオープンライセンスの下で利用可能になることを受け入れることです。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-- 100 を超えるモバイル アプリケーション
-  が、糖尿病 (VeryDiab)、アレルギー、人工知能による食事
-  バランス (FoodVisor)、障害など、さまざまなユーザーのニーズに対応しています。 私たちの
-  データベースでは、Yuka も作成できました。
-- たくさんのウェブサイトがあります: CombienDeSucres.fr、
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. これにより、完全かつ最新のデータとビジュアルを Open Food Facts にインポートし、100 を超える他の栄養アプリで表示できるようになります。 Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
+
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
+
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- データ ジャーナリスト : Les Décodeurs du Monde、BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
 - Researchers in nearly 100 scientific
   articles
-- フードバンクと連帯ストア:
-  Data For Good プロジェクトは、
-  フランス赤十字社が開始したパイロット プロジェクトを継続するもので、小規模な食品
-  協同組合の現金管理に統合されています。
-- 企業: Terraillon は当社のデータ
-  を使用して、接続されたスケールに命を吹き込みます。
-- プログラミング スクール (Simplon、Open
-  Classrooms) では、Open Food Facts を
-  カリキュラムのモチベーションを高めるプロジェクトとして取り入れています。
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Open Food Facts をどのようにサポートできますか?
+## How can I support Open Food Facts?
 
 Open Food
-Facts は 1901 年に設立された非営利団体です。 [プロジェクトに参加](https://fr-en.openfoodfacts.org/contribute)、[寄付](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66%控除可能)で財政的に支援したり、Lilo
-検索エンジンを使用することで、私たちを支援することができます。
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
 **Thank
 you very much!**
 
 ---
 
-## 質問の答えが見つからない
+## I can't find the answer to my question
 
-ご質問に対する回答が見つからない場合は、お気軽に下記までお問い合わせください。
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- 私たちのフォーラム: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
