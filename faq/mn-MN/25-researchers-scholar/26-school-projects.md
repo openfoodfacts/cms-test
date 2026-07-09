@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Сургуулийн төслүүд"
-description: "2 асуулт"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: файл-o
+icon: file-o
 ---
 
-{{< fa "файл-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Надад хийх сургуулийн төсөл байна, би Open Food Facts-ийн өгөгдлийг ашиглахыг хүсэж байна, би ашиглаж болох уу?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Нээлттэй Хүнсний Мэдээлэл нь нээлттэй мэдээллийн сан бөгөөд ODbL лицензийн дагуу үйл ажиллагаа явуулдаг нээлттэй төсөл тул та ODbL лицензийн шаардлагыг зөвшөөрч байгаа тохиолдолд манай өгөгдлийг өөрийн төслүүдэд дахин ашиглах боломжтой :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Би төслүүдийнхээ өгөгдөлд хэрхэн хандах/цуглуулах вэ?
+## How can I access/collect data for my projects ?
 
-Нээлттэй хүнсний мэдээллийн үндсэн хуудсан дээр, дэлгэцийн зүүн дээд буланд гүйлгэх цэс байдаг. Доод талд нь та "дэвшилтэт хайлт" сонголтыг олох бөгөөд та үүнийг дарж болно. Дараа нь таны төсөлд аль шалгуур хамгийн хамааралтай болохыг тодорхойлох нь танаас хамаарна. Сонгосны дараа та хуудасны доод хэсэгт доош гүйлгээд "Үр дүнг татаж авах" дээр дарж олж авсан үр дүнг татаж авах боломжтой.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
