@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartbeat size=2x >}} 뉴트리스코어"
-description: "3개의 질문"
-lang: 영어-영국
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: 심장 박동
+icon: heartbeat
 ---
 
-{{< fa "심장 박동" size=3배 >}}
+{{< fa "heartbeat" size=3x >}}
 
-## 제품의 뉴트리스코어가 정확하지 않으면 어떻게 해야 하나요?
+## What should I do if the Nutri-Score of my products is not correct?
 
-뉴트리스코어에 문제가 발생한 경우, 제품 설명서의 "수정" 탭에서 정보가 정확한지 확인하십시오. 정보가 누락되었거나 잘못된 부분이 있으면 주저하지 말고 **producers@openfoodfacts.org**로 문의해 주세요.
-
----
-
-## 뉴트리스코어를 최대한 정확하게 계산하려면 어떤 정보를 제공해야 하나요?
-
-뉴트리스코어는 제품의 영양성분표를 기준으로 계산됩니다.
-
-계산된 영양점수가 정확하려면 표에 과일, 채소, 견과류의 비율을 포함하는 것을 잊지 마세요.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## 뉴트리스코어는 어디에서 유래된 것인가요?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score는 Santé Publique France에서 관리합니다. 누구나 쉽게 이해할 수 있도록 영양 성분표를 요약한 것입니다. 목표는 모든 사람이 명확하고 이해하기 쉬운 영양 정보를 얻을 수 있도록 하는 것입니다.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
