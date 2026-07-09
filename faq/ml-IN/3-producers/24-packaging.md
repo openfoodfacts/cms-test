@@ -1,49 +1,49 @@
 ---
-title: "{{<fa ക്യൂബ് വലുപ്പം=2x >}} പാക്കേജിംഗ്"
-description: "3 ചോദ്യങ്ങൾ"
-lang: en-gb (ഇംഗ്ലീഷ്)
-order: 24 ദിവസം
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
+order: 24
 category-level: 1
-icon: ക്യൂബ്
+icon: cube
 ---
 
-{{< fa "ക്യൂബ്" size="3x (3x)" >}}
+{{< fa "cube" size=3x >}}
 
-## ഓപ്പൺ ഫുഡ് ഫാക്‌ട്‌സിലേക്ക് എന്റെ പാക്കേജിംഗ് ഡാറ്റ എങ്ങനെ ചേർക്കാം?
+## How can I add my packaging data to Open Food Facts?
 
-ഒരു നിർമ്മാതാവ് എന്ന നിലയിൽ, നിങ്ങളുടെ ഉൽപ്പന്നങ്ങളിലേക്ക് പാക്കേജിംഗ് ഡാറ്റ ചേർക്കുന്നതിനുള്ള ഏറ്റവും കാര്യക്ഷമമായ മാർഗം "AU" എന്ന കോളത്തിൽ നിന്നുള്ള ആവശ്യമായ വിവരങ്ങൾ ഈ [excel സ്പ്രെഡ്ഷീറ്റ്](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) പൂരിപ്പിക്കുക എന്നതാണ്.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-ഓരോ പാക്കേജിംഗ് ഘടകത്തിനും, നിങ്ങൾ നൽകേണ്ടതുണ്ട്:
+For each packaging component, you will need to enter:
 
-- യൂണിറ്റുകളുടെ എണ്ണം (ഉദാ: **4** തൈര് കലങ്ങൾ)
+- The number of units (ex: **4** pots of yogurts)
 
-- ആകൃതി (ഉദാ: **പാത്രം, മൂടി, പെട്ടി, മുതലായവ**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- മെറ്റീരിയൽ (ഉദാ: **പെറ്റ്, പേപ്പർ, ഗ്ലാസ്, മുതലായവ**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- പുനരുപയോഗ നിർദ്ദേശം (ഉദാ: **പുനരുപയോഗം ചെയ്യുക, ഉപേക്ഷിക്കുക, മുതലായവ**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ഒരു ഒഴിഞ്ഞ യൂണിറ്റിന്റെ ഭാരം (ഗ്രാമിൽ)
+- The weight of one empty unit (in gr)
 
-- ഒരു യൂണിറ്റിൽ അടങ്ങിയിരിക്കുന്ന ഉൽപ്പന്നത്തിന്റെ ആകെ അളവ്
+- The net quantity of product contained per unit
 
-ഈ സ്‌പ്രെഡ്‌ഷീറ്റ് പിന്നീട് പ്രൊഫഷണലുകൾക്കായി സമർപ്പിച്ചിരിക്കുന്ന ഞങ്ങളുടെ പ്ലാറ്റ്‌ഫോമിലേക്ക് ഇറക്കുമതി ചെയ്യാൻ കഴിയും.
-
----
-
-## ടാക്കിംഗ് ഫുഡ് പാക്കേജിംഗ് പ്രോജക്റ്റ് എന്താണ്?
-
-"ടാക്ലിംഗ് ഫുഡ് പാക്കേജിംഗ്" പദ്ധതിയിൽ ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന ഉൽപ്പന്നങ്ങളുടെ പാക്കേജിംഗിനെക്കുറിച്ചുള്ള വിശദമായ വിവരങ്ങൾ (ആകൃതി, മെറ്റീരിയൽ, തരംതിരിക്കൽ നിർദ്ദേശങ്ങൾ, ഭാരം, ശേഷി) ശേഖരിക്കുന്നു.
-
-പങ്കാളിത്ത ശാസ്ത്ര സമീപനത്തെ അടിസ്ഥാനമാക്കി, കമ്പനികൾ അവരുടെ പാക്കേജിംഗ് ഡാറ്റ പങ്കിടാനും സുതാര്യതയുടെ കളി കളിക്കാനും സമ്മതിക്കുന്നതിനെയും ഉൽപ്പന്നങ്ങളെക്കുറിച്ചുള്ള വിവരങ്ങൾ ശേഖരിക്കാൻ അനുവദിക്കുന്ന പൗരന്മാരെയും ഇത് ആശ്രയിക്കും. ഈ വിവരങ്ങൾ സ്വതന്ത്രമായി പുനരുപയോഗിക്കാൻ കഴിയും ("ഓപ്പൺ ഡാറ്റ").
-
-**കൂടുതൽ വിവരങ്ങൾക്ക്:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## ടാക്കിംഗ് ഫുഡ് പാക്കേജിംഗ് പ്രോജക്റ്റ് അവസാനിച്ചതിനു ശേഷവും, എനിക്ക് എന്റെ പാക്കേജിംഗ് ഡാറ്റ ചേർക്കാൻ കഴിയുമോ?
+## What is the Tackling Food Packaging project?
 
-പ്രോജക്റ്റ് അവസാനിച്ചതിനു ശേഷവും, പാക്കേജിംഗ് ഫീൽഡുകൾ ഞങ്ങളുടെ വെബ്സൈറ്റിൽ നിലനിൽക്കുമെന്നതിനാൽ, പാക്കേജിംഗ് ഡാറ്റ ചേർക്കാൻ സാധിക്കും.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
