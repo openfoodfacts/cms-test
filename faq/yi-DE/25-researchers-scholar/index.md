@@ -1,21 +1,21 @@
 ---
-title: "{{< fa גראַדואַציע-קאַפּ גרייס=2x >}} פאָרשער/געלערנטער"
-description: "1 אונטערקאַטעגאָריע"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: גראַדואַציע-קאַפּ
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: גריד
+  type: grid
   grid-columns: 4
-  sort: "באַשטעלן"
-  fields: [ טיטל, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "גראַדואַציע-קאַפּ" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
