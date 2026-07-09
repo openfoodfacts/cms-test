@@ -1,31 +1,31 @@
 ---
-title: "{{< دل جي ڌڙڪن جي ماپ=2x >}} غذائي اسڪور"
-description: "3 سوال"
-lang: اين جي بي
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: دل جي ڌڙڪن
+icon: heartbeat
 ---
 
-{{< fa "دل جي ڌڙڪن" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## جيڪڏهن منهنجي شين جو نيوٽري اسڪور صحيح نه هجي ته مون کي ڇا ڪرڻ گهرجي؟
+## What should I do if the Nutri-Score of my products is not correct?
 
-توهان جي نيوٽري-سڪور سان مسئلو ٿيڻ جي صورت ۾، چيڪ ڪريو ته توهان جي معلومات توهان جي پراڊڪٽ شيٽ جي "ترميم ڪريو" ٽيب تي صحيح آهي. جيڪڏهن ڪا به معلومات غائب يا غلط آهي، ته اسان سان رابطو ڪرڻ ۾ سنکوچ نه ڪريو \*\* producers@openfoodfacts.org\*\* تي.
-
----
-
-## مونکي ڪهڙي قسم جي معلومات فراهم ڪرڻ گهرجي ته جيئن نيوٽري اسڪور کي ممڪن حد تائين صحيح طور تي ڳڻيو وڃي؟
-
-غذائي اسڪور جو حساب توهان جي پيداوار جي غذائي جدول سان ڪيو ويندو.
-
-پنهنجي ٽيبل ۾ ميون، ڀاڄين ۽ ميون جو سيڪڙو شامل ڪرڻ نه وساريو، ته جيئن حساب ڪيل غذائي اسڪور غلط نه هجي.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## نيوٽري-سڪور ڪٿان ايندو آهي؟
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-score سانٽي پبلڪ فرانس پاران منظم ڪيو ويو آهي. اهو غذائي قدرن جي جدول جو خلاصو پيش ڪري ٿو ته جيئن هرڪو ان کي سمجهي سگهي. مقصد هر ڪنهن لاءِ واضح ۽ سمجھڻ واري غذائي معلومات تائين رسائي فراهم ڪرڻ آهي.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
