@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Mpikaroka/Manam-pahaizana"
-description: "Sokajy kely 1"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: satroka fizarana diplaoma
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: tambajotra
+  type: grid
   grid-columns: 4
-  sort: "mba"
-  fields: [ Lohateny, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "satroka fizarana diplaoma" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
