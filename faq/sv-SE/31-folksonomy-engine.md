@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Folksonomy-motor"
-description: "1 fråga"
-lang: sv-gb
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: boka
+icon: book
 ---
 
-{{< fa "boka" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Vad är Folksonomy-motorn?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine är ett system som låter användare lägga till anpassade taggar, eller egenskaper, till livsmedelsprodukter i Open Food Facts, världens största öppna livsmedelsdatabas. Detta låter människor kategorisera och beskriva mat på nya sätt, utöver de befintliga fördefinierade egenskaperna.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
