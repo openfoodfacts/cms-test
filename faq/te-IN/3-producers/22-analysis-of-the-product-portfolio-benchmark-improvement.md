@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} ఉత్పత్తి పోర్ట్‌ఫోలియో విశ్లేషణ (బెంచ్‌మార్క్, మెరుగుదల...)"
-description: "1 ప్రశ్న"
-lang: en-gb తెలుగు in లో
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: చార్ట్-బార్
+icon: chart-bar
 ---
 
-{{< fa "చార్ట్-బార్" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## నా ఉత్పత్తుల న్యూట్రి-స్కోర్‌ను మెరుగుపరచడానికి సంస్కరణ సిఫార్సును ఎలా యాక్సెస్ చేయాలి?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-మీరు నిర్మాతల ప్లాట్‌ఫామ్ హోమ్ పేజీలో ఉన్నప్పుడు:
+When you are on the home page of the Producers Platform:
 
-1. పేజీ ఎగువన ఉన్న "→ మెరుగుదల అవకాశాలతో ఉత్పత్తుల సంఖ్య" లింక్‌పై క్లిక్ చేయండి.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. మీ ఉత్పత్తులను మెరుగుపరచడానికి మా సిస్టమ్ గుర్తించిన అన్ని అవకాశాలను మీరు సంప్రదించవచ్చు.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ఒక రకమైన అవకాశంపై క్లిక్ చేయడం వలన మీరు మెరుగుపరచబడే ఉత్పత్తుల జాబితాకు దారి తీస్తుంది.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ని సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
