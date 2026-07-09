@@ -1,21 +1,21 @@
 ---
-title: "{{< cabbirka warshadaha=2x >}} Soosaarayaasha"
-description: "6 qaybood oo hoosaad ah"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: warshadaha
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: shabaq
+  type: grid
   grid-columns: 4
-  sort: "dalab"
-  fields: [ cinwaan, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "warshadaha" size=3x >}}
+{{< fa "industry" size=3x >}}
 
