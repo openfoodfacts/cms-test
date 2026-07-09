@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dolaro grandeco=2x >}} Malfermaj Prezoj"
-description: "3 demandoj"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolaro
+icon: dollar
 ---
 
-{{< fa "dolaro" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Mi estas podetalisto kaj mi volas kontribui prezojn. Kiel mi povas tion fari?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Vi povas kontribui prezojn per [nian API-on](https://prices.openfoodfacts.org/api/docs). Se vi volas kontribui prezojn laŭgrande, bonvolu kontakti nin ĉe [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ĉu vi konsideras skrapi prezojn de la retejoj de podetalistoj?
+## Do you consider scraping prices from retailers’ websites?
 
-Pro juraj kaj teknikaj kialoj, ni ne konsideras la skrapadon de prezoj el la retejoj de podetalistoj kiel validan manieron kontribui al Malfermaj Prezoj. Ni volas certigi, ke la prezoj, kiujn ni kolektas, estas precizaj kaj ĝisdataj, kaj ricevi kopiitajn prezojn de kontribuantoj ne permesas al ni fari tion.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Kial Open Food Facts faras ĉi tion (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Prezinformoj estas de plej alta graveco por kompreni nutraĵsistemojn. Ĝi estas ŝlosila faktoro por kompreni la koston de manĝaĵoj kaj por antaŭenigi pli sanajn dietojn. Malfermaj prezdatumoj estas maniero faciligi por esploristoj, ĵurnalistoj kaj civitanoj pli bonan komprenon pri kiel nutraĵprezoj varias geografie kaj laŭlonge de la tempo.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
