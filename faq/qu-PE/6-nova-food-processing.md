@@ -1,17 +1,17 @@
 ---
-title: "{{< fasco matrazpa sayaynin=2x >}} NOVA / Mikhuy ruway"
-description: "1 tapuy"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: matraz
+icon: flask
 ---
 
-{{< fa "matraz" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## ¿Imataq NOVA ?
+## What is NOVA ?
 
-[https://qu.willakuy:kichasqa mikhuykuna.org/nova](https://fr.openfoodfacts.org/nova)
+[https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
 ---
 
