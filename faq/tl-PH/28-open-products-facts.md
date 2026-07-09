@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Mga Katotohanan Tungkol sa mga Bukas na Produkto"
-description: "3 tanong"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: susi
+icon: key
 ---
 
-{{< fa "susi" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Paano ma-access ang Open Products Facts sa iPhone?
+## How to access Open Products Facts on iPhone ?
 
-Ang Open Products Facts ay makukuha sa loob ng pangunahing Open Food Facts app. Ang integrasyong ito ay nagbibigay-daan sa mga gumagamit ng iPhone na ma-access ang parehong database sa pamamagitan ng iisang maginhawang application.
-
----
-
-## Gusto kong suportahan ang Open Products Facts. Ano ang magagawa ko?
-
-Pakibasa ang aming pahina sa wiki, may mga nakalista kaming paraan para makilahok: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Para suportahan ang Open Products Facts, maaari mong isaalang-alang ang mga sumusunod na opsyon, na bawat isa ay iniayon sa iba't ibang uri ng kontribusyon:
-
--
-
-**Mga Pilantropiko/Sponsor ng Estado para sa Mga Katotohanan Tungkol sa Open Products**:
-Mahalaga ang mga kontribusyong pilantropiko sa pagsasakatuparan ng pangitain ng isang komprehensibong plataporma ng pabilog na datos, pagmamarka ng produkto, at pagsasama-sama ng mga pabilog na solusyon, sa mahigit 20000+ kategorya, na isang pangunahing layunin ng Open Products Facts. Maraming mahahalagang bahagi ng pangitaing ito ang hindi pa napopondohan, at ang iyong suportang pinansyal ay maaaring magkaroon ng malaking epekto. Ang inyong mga donasyon ay makakatulong sa pagpopondo ng mga mahahalagang pagpapaunlad at imprastraktura. Para sa pinansyal na tulong, mangyaring makipag-ugnayan sa contact@openfoodfacts.org
-
--
-
-**Mga Kontribyutor ng Datos Gamit ang Open Products Facts App**:
-Mahalaga ang mga kontribusyon ng datos para sa pagpapalawak ng Open Products Facts. Sa pamamagitan ng paggamit ng Android app upang magdagdag ng bagong impormasyon ng produkto, mag-update ng mga umiiral na entry, o mag-verify ng data, nakakatulong kang palawakin at pinuhin ang database. Ang sama-samang pagsisikap na ito ay nakakatulong sa pagbuo ng isang matibay at maaasahang mapagkukunan para sa lahat.
-
--
-
-**Mga Teknikal na Kontribyutor sa Mga Katotohanan ng Open Products**:
-Kung mayroon kang mga teknikal na kasanayan sa mga larangan tulad ng programming, pagsusuri ng datos, o disenyo ng karanasan ng gumagamit, ang iyong kadalubhasaan ay maaaring makatulong nang malaki sa Mga Katotohanan ng Open Products. Ang paglahok sa pagbuo ng app, pagpapabuti ng functionality nito, o pagpapahusay ng mga user interface ay mahahalagang kontribusyon. Para makilahok, sumali sa #openproductsfacts Slack channel, kung saan nakikipagtulungan ang komunidad ng Open Products Facts. Makakahanap ka ng link papunta sa Slack workspace na ito sa website ng Open Food Facts.
-
-Mahalaga ang bawat uri ng kontribusyon sa paglago at tagumpay ng Open Products Facts, na tumutulong upang lumikha ng isang mas napapanatiling at nakapagbibigay-kaalamang plataporma para sa lahat.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Saan ko mahahanap ang Open Products Facts API?
+## I would like to support Open Products Facts. What can I do ?
 
-Ang Open Products Facts API ay 98% kapareho ng Open Food Facts API kaya kung gagamit ka ng dokumentasyon ng Open Food Facts API, dapat ay malinaw na ang iyong pananaw sa Open Products Facts API. Mayroon din kaming nakalaang tutorial para maipatupad ang universal scan sa iyong app.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
