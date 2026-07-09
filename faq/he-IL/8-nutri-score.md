@@ -1,31 +1,31 @@
 ---
-title: "ציון תזונתי"
-description: "3 שאלות"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: דוֹפֶק
+icon: heartbeat
 ---
 
-{{< fa "דוֹפֶק" size="פי 3" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## מה עליי לעשות אם ה-Nutri-Score של המוצרים שלי אינו נכון?
+## What should I do if the Nutri-Score of my products is not correct?
 
-במקרה של בעיה עם ציון הנוטרי שלך, ודא שהמידע שלך נכון בלשונית "שינוי" בגיליון המוצר שלך. אם מידע כלשהו חסר או שגוי, אל תהססו לפנות אלינו בכתובת \*\* producers@openfoodfacts.org\*\*
-
----
-
-## איזה סוג מידע עליי לספק כדי שה-Nutri-Score יחושב בצורה מדויקת ככל האפשר?
-
-חישוב ה-Nutri-Score יתבצע באמצעות טבלת התזונה של המוצר שלכם.
-
-אל תשכחו לכלול בטבלה את אחוז הפירות, הירקות והאגוזים, כדי שהציון התזונתי המחושב לא יהיה שגוי.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## מאיפה מגיע ציון הנוטרי?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score מנוהל על ידי Santé Publique France. זה מסכם את טבלת הערכים התזונתיים כך שכולם יוכלו להבין אותה. המטרה היא לספק גישה למידע תזונתי ברור ומובן לכולם.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
