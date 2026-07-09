@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Ceny otwarcia"
-description: "3 pytania"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Jestem sprzedawcą detalicznym i chcę mieć wpływ na ceny. Jak mogę to zrobić?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Możesz podać ceny korzystając z [naszego API](https://prices.openfoodfacts.org/api/docs). Jeśli chcesz przyczynić się do ustalania cen na dużą skalę, skontaktuj się z nami pod adresem [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Czy bierzesz pod uwagę pobieranie cen ze stron internetowych sprzedawców detalicznych?
+## Do you consider scraping prices from retailers’ websites?
 
-Z przyczyn prawnych i technicznych nie uważamy, aby pozyskiwanie cen ze stron internetowych sprzedawców detalicznych było właściwym sposobem wniesienia wkładu do Open Prices. Chcemy mieć pewność, że zbierane przez nas ceny są dokładne i aktualne, a pobieranie cen zebranych od innych dostawców uniemożliwia nam spełnienie tego warunku.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Funkcja scrapowania cen jest rozważana w przyszłej wersji Open Prices, ale będzie ona wykonywana przez samą Open Prices, abyśmy mogli uzyskać dowód ceny na podstawie strony HTML.
 
 ---
 
-## Dlaczego Open Food Facts to robi (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informacje o cenach mają kluczowe znaczenie dla zrozumienia systemów żywnościowych. Jest to kluczowy czynnik dla zrozumienia kosztów żywności i promowania zdrowszej diety. Udostępnienie danych o cenach ułatwia badaczom, dziennikarzom i obywatelom lepsze zrozumienie zmian cen żywności w zależności od regionu i czasu.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
