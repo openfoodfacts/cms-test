@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Мәктәп проектлары"
-description: "2 сорау"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: файл-o
+icon: file-o
 ---
 
-{{< fa "файл-o" size=3х >}}
+{{< fa "file-o" size=3x >}}
 
-## Минем мәктәп проектым бар, мин Open Food Facts мәгълүматларын кулланырга телим, мин моны эшли аламмы?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts - ачык мәгълүмат базасы, ODbL лицензиясе буенча эшләүче ачык проект, шуңа күрә сез ODbL лицензиясе таләпләре белән килешкән очракта, безнең мәгълүматларны үз проектларыгыз өчен кабат куллана аласыз :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Проектларым өчен мәгълүматларны ничек алырга/җыярга мөмкин?
+## How can I access/collect data for my projects ?
 
-"Ачык азык-төлек фактлары"ның төп битендә, экранның югары сул почмагында, скроллинг менюсы бар. Аның аскы өлешендә сез "киңәйтелгән эзләү" вариантын табарсыз, аңа басарга мөмкин. Аннары сезнең проект(лар)ыгыз өчен иң мөһим булган критерийларны билгеләү сезнең үзегездән тора. Сайланганнан соң, сез битнең аскы өлешендә аска тәгәрәтеп һәм "Нәтиҗәләрне йөкләү" төймәсенә басып, алынган нәтиҗәләрне йөкли алачаксыз.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
