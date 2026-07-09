@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Pûana Eko"
-description: "5 pirs"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: bikarhêner-zêde
+icon: user-plus
 ---
 
-{{< fa "bikarhêner-zêde" size="3 caran" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Metodolojiya Eco-Score çi ye?
+## What is the Eco-Score methodology?
 
-Eco-Score li ser hesabkirina analîza çerxa jiyanê ya ku ji hêla ADEME (ajansa veguherîna ekolojîk) û INRAE (enstîtuya neteweyî ya lêkolînên agronomîk) ve hatî hilberandin e. Nêzîkî panzdeh pêkhate têne hesibandin û bi hev ve girêdayî ne da ku puana PEF-ê çêbikin.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Bonus û kêmasiyên (awayê hilberînê, jêderka) li vê puana PEFê têne zêdekirin.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-pêkhate, cureyên di bin xetereyê de, pakêt) ji bo hesabkirina Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Ji bo bêtir agahdarî, li rûpela kurteya [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) li ser Open Food Facts û her weha li ser malpera konsorsiyûma Eco-Score binêre. (Pêşkêşkirina Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Ji bo ku Eco-Score bi qasî ku pêkan rast were hesabkirin, divê çi cure agahî were dayîn?
-
-Ji bo ku Eco-Score bi rastî were hesabkirin, divê rêjeya her malzemeyê û eslê wê were diyarkirin.
-
-Eger ev agahî di lîsteya malzemeyan de nehatibe diyarkirin, hûn dikarin stûnek bi vî şêweyê jêrîn lê zêde bikin da ku behsa wê bikin:
-
-Arvanê genim %16 (Fransa)
-
-Çîkolata 8% (Perava Diranfîl, Ekvador)
-
-Her wiha em hewceyê pêkhateyên pakêtê ne bi vî rengî: 1 fîlima plastîk ji bo avêtinê, 1 qutiya kartonê FSC ji bo ji nû ve bikaranînê, 6 şûşeyên plastîk ên şefaf ên PET ên 1.5 L ji bo ji nû ve bikaranînê, 6 qapaxên plastîk ên rengîn ên neşefaf, 12 tenekeyên plastîk ên ji alumînyûmê yên 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Nirxên 15 nîşanan çawa têne hev kirin?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Ji bo têgihîştina çêtir a sîstema PEF, hûn dikarin li ser malpera metodolojîk a Eco-Score bixwînin: şirovekirina puana PEF**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Gelo aliyê herêmî bi cihê çêkirinê ve girêdayî ye, an jî bi cihê jêderka madeyên xav ve?
+## How are the values ​​of the 15 indicators combined?
 
-Aliyê herêmî bi eslê madeyên xav ve girêdayî ye. Ji ber vê yekê girîng e ku rêjeyên wan û her weha eslê wan di navnîşa malzemeyên hilberê de an jî di qada ku ji bo eslê malzemeyan hatiye veqetandin de were nivîsandin.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Meriv çawa eslê malzemeyan ji bo eko-puanê binivîse?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Eger hûn dixwazin agahiyên li ser eslê madeyên xav li ser pelên xwe parve bikin, em we vedixwînin ku hûn wan di navnîşa malzemeyan de bihewînin.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
