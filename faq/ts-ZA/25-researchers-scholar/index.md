@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Valavisisi/Xidyondzi"
-description: "1 xiyengentsongo xa"
-lang: ts-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: graduation-cap ya ku thwasa
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: phatheni
+  type: grid
   grid-columns: 4
-  sort: "xileriso"
-  fields: [ xirhangi, description ]
-  page-size: 100. 100
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "graduation-cap ya ku thwasa" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
