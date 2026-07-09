@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} উৎপাদকসকল"
-description: "৬টা উপশ্ৰেণী"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: উদ্যোগ
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: গ্ৰিড
+  type: grid
   grid-columns: 4
-  sort: "ক্ৰম"
-  fields: [ অলপ, description ]
-  page-size: ১০০
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "উদ্যোগ" size=৩x >}}
+{{< fa "industry" size=3x >}}
 
