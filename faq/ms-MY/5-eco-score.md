@@ -1,55 +1,55 @@
 ---
-title: "{{< fa pengguna-plus saiz=2x >}} Skor Eko"
-description: "5 soalan"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: pengguna-tambah
+icon: user-plus
 ---
 
-{{< fa "pengguna-tambah" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Apakah metodologi Eco-Score?
+## What is the Eco-Score methodology?
 
-Skor Eko adalah berdasarkan pengiraan analisis kitaran hayat yang dihasilkan oleh ADEME (agensi peralihan ekologi) dan INRAE (institut kebangsaan untuk penyelidikan agronomi). Kira-kira lima belas komponen dikira dan dikaitkan untuk menghasilkan skor PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Kepada skor PEF ini ditambah bonus dan malus (cara pengeluaran, asal usul
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-bahan-bahan, spesies terancam, pembungkusan) untuk mengira Skor Eko.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Untuk maklumat lanjut, sila lihat halaman ringkasan [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) mengenai Fakta Makanan Terbuka serta di laman web konsortium Eco-Score. (Pembentangan Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Apakah jenis maklumat yang mesti diberikan agar Skor Eko dikira setepat mungkin?
-
-Agar Skor Eko dikira dengan tepat, peratusan setiap ramuan dan asal usulnya mesti dinyatakan.
-
-Jika maklumat ini belum dinyatakan dalam senarai ramuan, anda boleh menambah lajur untuk menyebutnya, dengan format berikut:
-
-Tepung gandum 16% (Perancis)
-
-Coklat 8% (Pantai Gading, Ecuador)
-
-Kita juga memerlukan komponen pembungkusan dalam bentuk: 1 filem plastik untuk dibuang, 1 kotak kadbod FSC untuk dikitar semula, 6 botol plastik lutsinar PET 1.5 L untuk dikitar semula, 6 penutup plastik berwarna legap, 12 tin plastik aluminium 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Bagaimanakah nilai-nilai 15 penunjuk digabungkan?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Untuk lebih memahami sistem PEF, anda boleh membaca: penjelasan skor PEF di laman metodologi Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Adakah aspek tempatan melibatkan tempat pembuatan atau tempat asal bahan mentah?
+## How are the values ​​of the 15 indicators combined?
 
-**Aspek tempatan melibatkan asal usul bahan mentah.** Inilah sebabnya mengapa penting untuk memasukkan peratusan serta asal usulnya dalam senarai ramuan produk atau dalam medan yang dikhaskan untuk asal usul ramuan.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Bagaimanakah cara untuk memasukkan asal usul bahan untuk skor eko?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Jika anda ingin berkongsi maklumat tentang asal usul bahan mentah pada helaian anda, kami menjemput anda untuk memasukkannya ke dalam senarai ramuan.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
