@@ -1,31 +1,31 @@
 ---
-title: "{{< fa ಹೃದಯ ಬಡಿತದ ಗಾತ್ರ=2x >}} ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್"
-description: "3 ಪ್ರಶ್ನೆಗಳು"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: ಹೃದಯ ಬಡಿತ
+icon: heartbeat
 ---
 
-{{< fa "ಹೃದಯ ಬಡಿತ" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## ನನ್ನ ಉತ್ಪನ್ನಗಳ ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್ ಸರಿಯಾಗಿಲ್ಲದಿದ್ದರೆ ನಾನು ಏನು ಮಾಡಬೇಕು?
+## What should I do if the Nutri-Score of my products is not correct?
 
-ನಿಮ್ಮ ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್‌ನಲ್ಲಿ ಸಮಸ್ಯೆ ಉಂಟಾದರೆ, ನಿಮ್ಮ ಉತ್ಪನ್ನ ಹಾಳೆಯ "ಮಾರ್ಪಡಿಸಿ" ಟ್ಯಾಬ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಮಾಹಿತಿ ಸರಿಯಾಗಿದೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ. ಯಾವುದೇ ಮಾಹಿತಿ ಕಾಣೆಯಾಗಿದ್ದರೆ ಅಥವಾ ತಪ್ಪಾಗಿದ್ದರೆ, ದಯವಿಟ್ಟು \*\* producers@openfoodfacts.org\*\* ನಲ್ಲಿ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಲು ಹಿಂಜರಿಯಬೇಡಿ.
-
----
-
-## ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್ ಅನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ನಿಖರವಾಗಿ ಲೆಕ್ಕಹಾಕಲು ನಾನು ಯಾವ ರೀತಿಯ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಬೇಕು?
-
-ನಿಮ್ಮ ಉತ್ಪನ್ನದ ಪೌಷ್ಟಿಕಾಂಶದ ಕೋಷ್ಟಕದೊಂದಿಗೆ ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್‌ನ ಲೆಕ್ಕಾಚಾರವನ್ನು ಮಾಡಲಾಗುತ್ತದೆ.
-
-ಲೆಕ್ಕ ಹಾಕಿದ ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್ ತಪ್ಪಾಗದಂತೆ, ಹಣ್ಣುಗಳು, ತರಕಾರಿಗಳು ಮತ್ತು ಬೀಜಗಳ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ನಿಮ್ಮ ಕೋಷ್ಟಕದಲ್ಲಿ ಸೇರಿಸಲು ಮರೆಯಬೇಡಿ.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್ ಎಲ್ಲಿಂದ ಬರುತ್ತದೆ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-ನ್ಯೂಟ್ರಿ-ಸ್ಕೋರ್ ಅನ್ನು ಸ್ಯಾಂಟೆ ಪಬ್ಲಿಕ್ ಫ್ರಾನ್ಸ್ ನಿರ್ವಹಿಸುತ್ತದೆ. ಇದು ಪೌಷ್ಟಿಕಾಂಶದ ಮೌಲ್ಯಗಳ ಕೋಷ್ಟಕವನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸುತ್ತದೆ ಇದರಿಂದ ಪ್ರತಿಯೊಬ್ಬರೂ ಅದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬಹುದು. ಎಲ್ಲರಿಗೂ ಸ್ಪಷ್ಟ ಮತ್ತು ಅರ್ಥವಾಗುವ ಪೌಷ್ಟಿಕಾಂಶದ ಮಾಹಿತಿಗೆ ಪ್ರವೇಶವನ್ನು ಒದಗಿಸುವುದು ಗುರಿಯಾಗಿದೆ.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
