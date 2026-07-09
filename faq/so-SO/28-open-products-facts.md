@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Xaqiiqooyinka Badeecadaha Furan"
-description: "3 su'aalood"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: furaha
+icon: key
 ---
 
-{{< fa "furaha" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Sidee loo helaa Xaqiiqooyinka Badeecadaha Furan ee iPhone?
+## How to access Open Products Facts on iPhone ?
 
-Xaqiiqooyinka Badeecadaha Furan (Open Products Facts) waxaa laga heli karaa abka ugu weyn ee Xaqiiqooyinka Cuntada Furan. Is-dhexgalkani wuxuu u oggolaanayaa dadka isticmaala iPhone inay galaan labada xog-ururin iyagoo adeegsanaya hal codsi oo ku habboon.
-
----
-
-## Waxaan jeclaan lahaa inaan taageero Xaqiiqooyinka Badeecadaha Furan. Maxaan sameyn karaa?
-
-Fadlan akhri boggayaga wiki, waxaan soo taxnay siyaabo aad uga qayb qaadan karto: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Si aad u taageerto Xaqiiqooyinka Badeecadaha Furan, waxaad ka fiirsan kartaa xulashooyinka soo socda, mid walbana wuxuu u qaabaysan yahay noocyo kala duwan oo tabarucaad ah:
-
--
-
-**Kafaala-qaadayaasha Samafalka/Dowladda ee Xaqiiqooyinka Badeecadaha Furan**:
-Tabarucaadka samafalka ayaa muhiim u ah xaqiijinta aragtida madal xog wareeg ah oo dhammaystiran, dhibcaha badeecadaha, iyo ururinta xalalka wareegsan, oo ka kooban in ka badan 20000+ qaybood, oo ah yool muhiim ah oo ah Xaqiiqooyinka Badeecadaha Furan. Qaybo badan oo muhiim ah oo ka mid ah aragtidan weli lama maalgelin, taageeradaada lacageedna waxay yeelan kartaa saameyn weyn. Deeqahaagu waxay kaa caawin karaan maalgelinta horumarinta muhiimka ah iyo kaabayaasha dhaqaalaha. Si aad dhaqaale ahaan wax ugu biiriso, fadlan nagala soo xiriir contact@openfoodfacts.org
-
--
-
-**Ka-qaybgalayaasha Xogta iyagoo adeegsanaya Barnaamijka Xaqiiqooyinka Badeecadaha Furan**:
-Tabarucaad xogtu waa muhiim si loo kordhiyo Xaqiiqooyinka Badeecadaha Furan. Adigoo adeegsanaya abka Android si aad ugu darto macluumaad cusub oo ku saabsan badeecada, u cusbooneysiiso diiwaannada jira, ama u xaqiijiso xogta, waxaad gacan ka geysaneysaa ballaarinta iyo hagaajinta xogta. Dadaalkan wadajirka ah wuxuu gacan ka geystaa dhisidda ilo xooggan oo lagu kalsoonaan karo oo qof walba u baahan yahay.
-
--
-
-**Ku-biiriyeyaasha Farsamada ee Xaqiiqooyinka Badeecadaha Furan**:
-Haddii aad leedahay xirfado farsamo oo ku saabsan meelaha sida barnaamijyada, falanqaynta xogta, ama naqshadeynta khibradda isticmaalaha, khibraddaadu waxay si weyn uga faa'iideysan kartaa Xaqiiqooyinka Badeecadaha Furan. Ku lug lahaanshaha horumarinta abka, hagaajinta shaqadiisa, ama kor u qaadida is-dhexgalka isticmaalaha waa tabarucaad qiimo leh. Si aad uga qayb qaadato, ku soo biir kanaalka #openproductsfacts Slack, halkaas oo bulshada Open Products Facts ay iska kaashadaan. Waxaad ka heli kartaa xiriiriye goobta shaqada ee Slack bogga internetka ee Xaqiiqooyinka Cuntada Furan.
-
-Nooc kasta oo wax ku biirin ah ayaa muhiim u ah kobaca iyo guusha Xaqiiqooyinka Badeecadaha Furan, taasoo gacan ka geysaneysa abuurista madal waara oo macluumaad badan leh oo loogu talagalay qof walba.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Xaggee ka heli karaa API-ga Xaqiiqooyinka Badeecadaha Furan?
+## I would like to support Open Products Facts. What can I do ?
 
-API-ga Xaqiiqooyinka Badeecadaha Furan waa 98% la mid ah API-ga Xaqiiqooyinka Cuntada Furan marka haddii aad isticmaasho dukumeentiyada API-ga Xaqiiqooyinka Cuntada Furan waa inaad si cad u aragtaa API-ga Xaqiiqooyinka Badeecadaha Furan. Waxaan sidoo kale haysannaa casharro gaar ah oo kuu oggolaanaya inaad ku hirgeliso sawir-qaadista guud ee abkaaga.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
