@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ಉದ್ಯಮ ಗಾತ್ರ=2x >}} ಉತ್ಪಾದಕರು"
-description: "6 ಉಪವರ್ಗಗಳು"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ಕೈಗಾರಿಕೆ
+icon: industry
 listing:
   contents:
-    - "*.ಎಂಡಿ"
+    - "*.md"
   include:
     category-level: 1
-  type: ಗ್ರಿಡ್
+  type: grid
   grid-columns: 4
-  sort: "ಆದೇಶ"
-  fields: [ ಶೀರ್ಷಿಕೆ, ವಿವರಣೆ ]
-  page-size: 100 (100)
+  sort: "order"
+  fields: [ title, ವಿವರಣೆ ]
+  page-size: 100
 ---
 
-{{< fa "ಕೈಗಾರಿಕೆ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
