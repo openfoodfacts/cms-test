@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} സ്കൂൾ പ്രോജക്ടുകൾ"
-description: "2 ചോദ്യങ്ങൾ"
-lang: en-gb (ഇംഗ്ലീഷ്)
-order: 26. ഔപചാരികത
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
+order: 26
 category-level: 1
-icon: ഫയൽ-ഒ
+icon: file-o
 ---
 
-{{< fa "ഫയൽ-ഒ" size="3x (3x)" >}}
+{{< fa "file-o" size=3x >}}
 
-## എനിക്ക് ഒരു സ്കൂൾ പ്രോജക്റ്റ് ചെയ്യാനുണ്ട്, എനിക്ക് ഓപ്പൺ ഫുഡ് ഫാക്റ്റ്സിന്റെ ഡാറ്റ ഉപയോഗിക്കണം, എനിക്ക് അങ്ങനെ ചെയ്യാൻ കഴിയുമോ?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-ഓപ്പൺ ഫുഡ് ഫാക്ട്സ്, ഒരു ഓപ്പൺ ഡാറ്റാബേസ് ആണ്, ODbL ലൈസൻസിന് കീഴിൽ പ്രവർത്തിക്കുന്ന ഒരു ഓപ്പൺ പ്രോജക്റ്റ് ആണ്, അതിനാൽ ODbL ലൈസൻസിന്റെ ആവശ്യകതകളോട് നിങ്ങൾ യോജിക്കുന്നിടത്തോളം, നിങ്ങളുടെ പ്രോജക്റ്റുകൾക്കായി ഞങ്ങളുടെ ഡാറ്റ വീണ്ടും ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് സ്വാഗതം :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## എന്റെ പ്രോജക്റ്റുകൾക്കായി എനിക്ക് എങ്ങനെ ഡാറ്റ ആക്‌സസ്/ശേഖരിക്കാൻ കഴിയും?
+## How can I access/collect data for my projects ?
 
-ഓപ്പൺ ഫുഡ് ഫാക്‌ട്‌സിന്റെ പ്രധാന പേജിൽ, സ്‌ക്രീനിന്റെ മുകളിൽ ഇടത് മൂലയിൽ, ഒരു സ്ക്രോളിംഗ് മെനു ഉണ്ട്. അതിന്റെ അടിയിൽ, നിങ്ങൾക്ക് "വിപുലമായ തിരയൽ" ഓപ്ഷൻ കാണാം, അതിൽ നിങ്ങൾക്ക് ക്ലിക്ക് ചെയ്യാം. നിങ്ങളുടെ പ്രോജക്റ്റിന് (പ്രൊജക്റ്റുകൾക്ക്) ഏറ്റവും പ്രസക്തമായ മാനദണ്ഡങ്ങൾ ഏതൊക്കെയാണെന്ന് നിർണ്ണയിക്കേണ്ടത് നിങ്ങളാണ്. തിരഞ്ഞെടുത്തുകഴിഞ്ഞാൽ, പേജിന്റെ താഴെയായി സ്ക്രോൾ ചെയ്ത് "ഡൗൺലോഡ് റിസൾട്ട്സ്" ക്ലിക്ക് ചെയ്തുകൊണ്ട് നിങ്ങൾക്ക് ലഭിച്ച ഫലങ്ങൾ ഡൗൺലോഡ് ചെയ്യാൻ കഴിയും.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
