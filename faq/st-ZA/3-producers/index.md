@@ -1,21 +1,21 @@
 ---
-title: "Bahlahisi ba {{< boholo ba indasteri=2x >}}"
-description: "Lihlopha tse 6 tse nyenyane"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: indasteri
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: gridi
+  type: grid
   grid-columns: 4
-  sort: "odara"
-  fields: [ sehlooho, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "indasteri" size=3x >}}
+{{< fa "industry" size=3x >}}
 
