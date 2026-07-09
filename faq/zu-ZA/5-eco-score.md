@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} I-Eco-Score"
-description: "Imibuzo emi-5"
-lang: i-en-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: i-user-plus
+icon: user-plus
 ---
 
-{{< fa "i-user-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Iyini indlela ye-Eco-Score?
+## What is the Eco-Score methodology?
 
-I-Eco-Score isekelwe ekubalweni kokuhlaziywa komjikelezo wokuphila okwenziwe yi-ADEME (i-ejensi yokuguquka kwemvelo) kanye ne-INRAE (isikhungo sikazwelonke socwaningo lwezolimo). Kubalwa futhi kuxhunywe izingxenye ezingaba yishumi nanhlanu ukuze kudalwe amaphuzu e-PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Kuleli phuzu le-PEF kunezelwa amabhonasi kanye nama-maluse (indlela yokukhiqiza, imvelaphi
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-izithako, izinhlobo ezisengozini yokuqothulwa, ukupakishwa) ukuze kubalwe i-Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Ukuze uthole ulwazi olwengeziwe, bheka ikhasi lesifinyezo [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) ku-Open Food Facts kanye nakuwebhusayithi ye-Eco-Score consortium. (Isethulo se-Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Hlobo luni lolwazi okumele lunikezwe ukuze i-Eco-Score ibalwe ngokunembe ngangokunokwenzeka?
-
-Ukuze i-Eco-Score ibalwe kahle, iphesenti lesithako ngasinye kanye nomsuka waso kumele kuchazwe.
-
-Uma lolu lwazi lungakacaciswa ohlwini lwezithako, ungangeza ikholomu ukuze ulukhulume, ngefomethi elandelayo:
-
-Ufulawa kakolweni 16% (eFrance)
-
-Ushokoledi 8% (e-Ivory Coast, e-Ecuador)
-
-Sidinga futhi izingxenye zephakheji ngesimo salokhu okulandelayo: ifilimu yepulasitiki eyodwa yokulahla, ibhokisi lekhadibhodi le-FSC elilodwa lokuphinda lisetshenziswe, amabhodlela epulasitiki ayisithupha e-PET acwebezelayo angu-1.5 L okuphinda lisetshenziswe, izivalo zepulasitiki ezi-6 ezinombala ongacacile, amathini epulasitiki ayi-12 kanye ne-aluminium engama-33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Amanani ezinkomba ezingu-15 ahlanganiswa kanjani?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Ukuze uqonde kangcono uhlelo lwe-PEF, ungafunda: incazelo yesikolo se-PEF kusayithi lezindlela ze-Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Ingabe isici sendawo siphathelene nendawo yokukhiqiza noma indawo okuvela kuyo izinto zokusetshenziswa?
+## How are the values ​​of the 15 indicators combined?
 
-**Isici sendawo siphathelene nomsuka wezinto zokusetshenziswa. Yingakho kubalulekile ukufaka amaphesenti abo kanye nemvelaphi yabo ohlwini lwezithako zomkhiqizo noma ensimini ezinikele ekususeni izithako.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Ungayifaka kanjani imvelaphi yezithako ze-eco-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Uma ufisa ukwabelana ngolwazi mayelana nemvelaphi yezinto zokusetshenziswa ephepheni lakho, sikumema ukuthi uzifake ohlwini lwezithako.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
