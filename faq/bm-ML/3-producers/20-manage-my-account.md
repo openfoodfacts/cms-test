@@ -1,45 +1,45 @@
 ---
-title: "{{< fa user size=2x >}} Ne ka jatebɔsɛbɛn ɲɛnabɔ"
-description: "3 ɲininkaliw"
-lang: bamanankan-gb
-order: 20. Ɲɛjirali dɔw
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
+lang: en-gb
+order: 20
 category-level: 1
 icon: user
 ---
 
 {{< fa "user" size=3x >}}
 
-## Yala Open Food Facts jatebɔsɛbɛn caman bɛ se ka jɛ ni sosiyete kelen ye wa?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Ɔwɔ, aw bɛ se ka bataki ci [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), walasa an ka se ka jatew bɛɛ siri baarakɛda kelen na.
-
----
-
-## Cogo di ka n ka Open Food Facts jatebɔsɛbɛn sɛmɛntiya ka kɛ Pro jatebɔsɛbɛn ye?
-
-I bɛ se ka don [Pro platform](https://world.pro.openfoodfacts.org/) la ni i ka jatebɔsɛbɛn kɔrɔlenw ka seereyaw ye.
-
-Ni i ye baarakɛla ye, i ka kan ka baara kɛ ni i ka baarakɛla ka e-mail ladɛrɛsi ye walasa an ka se k’i ka jatebɔsɛbɛn tiɲɛ.
-
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Ne bɛ se ka sɛbɛnw sɔrɔ min walasa ka ne dɛmɛ ka baara kɛ ni Pro plateforme ye?
+## How to convert my Open Food Facts account into a Pro account?
 
-Nafolo damadɔ bɛ yen minnu bɛ se k’aw dɛmɛ ka nafa caman sɔrɔ Pro plateforme la.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Aw bɛ se ka na:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- an ka [gafe min bɛ baara kɛ ni a ye](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lajɛ - an b’aw wele ka PDF telesarse walasa jɛgɛnsiraw ka se ka digi, o bɛna aw ka taama nɔgɔya sɛbɛn kɔnɔ.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- aw ye an ka [wideyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) lajɛ .
+---
 
-- hakilinaw walima hakilinaw tila ɲɔgɔn na [nin sɛbɛn in] fɛ(https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) .
+## Where can I find documentation to help me use the Pro platform?
 
-- Aw ye weleli boloda ni Manon ye, an ka jɛkuluw ɲɛmɔgɔ, ni ɲininkali wɛrɛw bɛ aw fɛ: [yan](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Aw ye anw sɔrɔ imɛri la: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
