@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Schoulprojeten"
-description: "2 Froen"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
-order: 26 Joer
+order: 26
 category-level: 1
-icon: Datei-o
+icon: file-o
 ---
 
-{{< fa "Datei-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ech hunn e Schoulprojet ze maachen, ech wëll d'Donnéeë vun Open Food Facts benotzen, kann ech dat maachen?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts ass eng oppe Datebank, en oppene Projet, deen ënner enger ODbL-Lizenz funktionéiert. Soulaang Dir mat den Ufuerderunge vun der ODbL-Lizenz averstane sidd, kënnt Dir eis Donnéeën fir Är Projeten nei benotzen :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Wéi kann ech op Daten fir meng Projeten zougräifen/Daten sammelen?
+## How can I access/collect data for my projects ?
 
-Op der Haaptsäit vun Open Food Facts, uewe lénks am Eck vum Écran, gëtt et e Scrollmenü. Ënnen dovunner fannt Dir d'Optioun "Erweidert Sich", op déi Dir klicke kënnt. Et ass dann un Iech ze bestëmmen, wéi eng Critèren am relevantsten fir Är Projeten sinn. Wann Dir ausgewielt hutt, kënnt Dir d'Resultater eroflueden andeems Dir ënnen op der Säit scrollt a op "Resultater eroflueden" klickt.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
