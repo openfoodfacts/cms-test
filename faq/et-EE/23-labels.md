@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Sildid"
-description: "2 küsimust"
-lang: et-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: järjehoidja
+icon: bookmark
 ---
 
-{{< fa "järjehoidja" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Kas plaadifirmana on oluline konto luua?
+## As a label, is it important to create an account ?
 
-Kuna te ei ole kaubamärgina toodete otsene tootja, ei pea te tootjakontot looma.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ma olen silt, kuidas ma saan projektis osaleda?
+## I am a label, how can I participate in the project?
 
-Märgistuse puhul on kõige olulisem meiega ühendust võtta **(producers@openfoodfacts.org)** ja saata meile nimekiri toodetest, millel teie märgis on kuvatud, et saaksime need lisada vastavatele tootelehtedele.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
