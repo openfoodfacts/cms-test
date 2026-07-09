@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} ਸਕੂਲ ਪ੍ਰੋਜੈਕਟ"
-description: "2 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: ਫਾਈਲ-ਓ
+icon: file-o
 ---
 
-{{< fa "ਫਾਈਲ-ਓ" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## ਮੇਰੇ ਕੋਲ ਇੱਕ ਸਕੂਲ ਪ੍ਰੋਜੈਕਟ ਹੈ, ਮੈਂ ਓਪਨ ਫੂਡ ਫੈਕਟਸ ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ, ਕੀ ਮੈਂ ਅਜਿਹਾ ਕਰ ਸਕਦਾ ਹਾਂ?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-ਓਪਨ ਫੂਡ ਫੈਕਟਸ, ਇੱਕ ਓਪਨ ਡੇਟਾਬੇਸ ਹੈ, ਇੱਕ ਓਪਨ ਪ੍ਰੋਜੈਕਟ ਜੋ ਇੱਕ ODbL ਲਾਇਸੈਂਸ ਦੇ ਅਧੀਨ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ, ਇਸ ਲਈ ਜਿੰਨਾ ਚਿਰ ਤੁਸੀਂ ODbL ਲਾਇਸੈਂਸ ਦੀਆਂ ਜ਼ਰੂਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋ, ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਪ੍ਰੋਜੈਕਟਾਂ ਲਈ ਸਾਡੇ ਡੇਟਾ ਦੀ ਦੁਬਾਰਾ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ :)।
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## ਮੈਂ ਆਪਣੇ ਪ੍ਰੋਜੈਕਟਾਂ ਲਈ ਡੇਟਾ ਕਿਵੇਂ ਪ੍ਰਾਪਤ/ਇਕੱਠਾ ਕਰ ਸਕਦਾ/ਸਕਦੀ ਹਾਂ?
+## How can I access/collect data for my projects ?
 
-ਓਪਨ ਫੂਡ ਫੈਕਟਸ ਦੇ ਮੁੱਖ ਪੰਨੇ 'ਤੇ, ਸਕ੍ਰੀਨ ਦੇ ਉੱਪਰ ਖੱਬੇ ਕੋਨੇ 'ਤੇ, ਇੱਕ ਸਕ੍ਰੋਲਿੰਗ ਮੀਨੂ ਹੈ। ਇਸਦੇ ਹੇਠਾਂ, ਤੁਹਾਨੂੰ "ਐਡਵਾਂਸਡ ਸਰਚ" ਵਿਕਲਪ ਮਿਲੇਗਾ, ਜਿਸ 'ਤੇ ਤੁਸੀਂ ਕਲਿੱਕ ਕਰ ਸਕਦੇ ਹੋ। ਫਿਰ ਇਹ ਤੁਹਾਡੇ 'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ ਕਿ ਤੁਹਾਡੇ ਪ੍ਰੋਜੈਕਟ(ਪ੍ਰੋਜੈਕਟਾਂ) ਲਈ ਕਿਹੜੇ ਮਾਪਦੰਡ ਸਭ ਤੋਂ ਵੱਧ ਢੁਕਵੇਂ ਹਨ। ਇੱਕ ਵਾਰ ਚੁਣਨ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਪੰਨੇ ਦੇ ਹੇਠਾਂ ਸਕ੍ਰੌਲ ਕਰਕੇ ਅਤੇ "ਨਤੀਜੇ ਡਾਊਨਲੋਡ ਕਰੋ" 'ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਪ੍ਰਾਪਤ ਨਤੀਜਿਆਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਦੇ ਯੋਗ ਹੋਵੋਗੇ।
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
