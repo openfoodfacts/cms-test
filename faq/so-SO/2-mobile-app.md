@@ -1,52 +1,52 @@
 ---
-title: "{{< fa moobaylka cabbirka=2x >}} Barnaamijka moobaylka"
-description: "4 su'aalood"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: moobayl
+icon: mobile
 ---
 
-{{< fa "moobayl" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Sideen ku ogaan karaa nooca abka aan isticmaalayo?
+## How do I know which version of the app I'm using?
 
-Tag **Profile**,
-ka dibna **FAQ**, ka dibna **Ku saabsan abkan.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Waa inaad
-aragtaa lambar nooc ah sida 3.4.5+662. Ha iloobin inaad noo sheegto nooca iyo nooca taleefanka
-haddii uu khalad samaynayo.
-
----
-
-## Barnaamijku ma sawirayo
-
-Tani waxay noqon kartaa sabab
-
-- dhibaato shabakad
-
-- dhibaato ogolaansho ah
-
-- dhibaato barcode ah
-
-Noo soo dir emayl iyada oo loo marayo Profile >> Nala soo xiriir >> Noo soo dir emayl.
-
-Dhammaan macluumaadka khuseeya waa in lagu lifaaqaa codsigaaga.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Sideen uga caawin karaa hagaajinta abka moobaylka?
+## The app does not scan
 
-Sideen uga caawin karaa hagaajinta abka moobaylka?
+This may be due to
 
-Waxaad [ku samayn kartaa kaydka abka moobaylka](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Xaggee ayaan ka diri karaa jawaab celin ku saabsan abka?
+## How can I help with improving the mobile app ?
 
-Waxaad jawaab celin u diri kartaa mobile@openfoodfacts.org.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
