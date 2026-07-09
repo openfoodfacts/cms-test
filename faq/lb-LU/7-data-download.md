@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Daten eroflueden"
-description: "1 Fro"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: Cloud-Download
+icon: cloud-download
 ---
 
-{{< fa "Cloud-Download" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Wou kann ech d'Donnéeë fir e spezifescht Land kréien?
+## Where to get the data for a specific country?
 
-Aktuell gëtt et keng Exporten, déi op spezifesch Länner konzentréiert sinn.
+Currently, there are no exports dedicated to specific countries.
 
-Et gi vill Méiglechkeeten, eis verschidden Exporten a Kombinatioun mat verschiddenen Tools ze benotzen, fir d'Donnéeën am Zesummenhang mat engem spezifesche Land ze wielen.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Dir kënnt Iech [e puer vun dësen Techniken op eisem Wiki] (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) ukucken.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
