@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Анализ продуктового портфеля (бенчмарк, улучшение...)"
-description: "1 вопрос"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: диаграмма-полоса
+icon: chart-bar
 ---
 
-{{< fa "диаграмма-полоса" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Как получить доступ к рекомендациям по изменению рецептуры для улучшения показателя Nutri-Score моих продуктов?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Когда вы находитесь на главной странице платформы для продюсеров:
+When you are on the home page of the Producers Platform:
 
-1. Нажмите на ссылку "→ Количество товаров, требующих улучшения" в верхней части страницы.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Вы можете ознакомиться со всеми возможностями, выявленными нашей системой, для улучшения вашей продукции.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Нажатие на определенный тип возможностей приведет вас к списку продуктов, которые подлежат улучшению.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Для получения более подробной информации мы предлагаем вам скачать наше [руководство пользователя](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) и/или посмотреть наши [видеоуроки](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
