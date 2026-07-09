@@ -1,55 +1,55 @@
 ---
-title: "{{< bogolo jwa modirisi le tlhakantswe=2x >}} Maduo a Tikologo"
-description: "Dipotso di le 5"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: modirisi-le
+icon: user-plus
 ---
 
-{{< fa "modirisi-le" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Mokgwa wa Eco-Score ke ofe?
+## What is the Eco-Score methodology?
 
-Eco-Score e ikaegile ka palelo ya tshekatsheko ya modikologo wa botshelo e e tlhagisitsweng ke ADEME (setheo sa phetogo ya ikholoji) le INRAE (setheo sa bosetšhaba sa dipatlisiso tsa agronomic). Dikarolo tse ka bang leshome le metso e mehlano di balwa le ho hokahanngwa ho theha dintlha tsa PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Mo maduong ano a PEF go tsenngwa dibonase le diphoso (mokgwa wa tlhagiso, tshimologo ya
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-metswako, mefuta e e mo kotsing ya go nyelela, go phuthelwa) gore go kgonege go bala Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Go bona tshedimosetso e nngwe, leba tsebe ya tshoboko [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://maduo-a-dikumo-tsa-dijo-mo-tikologong) mo Dintlhang tsa Dijo tse di Buletsweng mmogo le mo webosaeteng ya setlhopha sa Eco-Score. (Tlhagiso ya Maduo a Tikologo [https://docs.score-environnemental.com/](https://ditokomane.maduo-a-tikologo.com/))
-
----
-
-## Ke tshedimosetso ya mofuta ofe e e tshwanetseng go neelwa gore Eco-Score e balwe ka nepo ka moo go ka kgonegang ka teng?
-
-Gore Eco-Score e balwe sentle, go tshwanetse ga tlhalosiwa phesente ya motswako mongwe le mongwe le gore o tswa kae.
-
-Fa tshedimosetso eno e ise e tlhalosiwe mo lenaaneng la metswako, o ka tsenya kholomo go e umaka, ka fomete e e latelang:
-
-Bupi jwa korong 16% (Fora)
-
-Tšhokolete 8% (Lebopo la Ditlou, Ecuador)
-
-Re tlhoka gape dikarolo tsa go phuthela ka mokgwa wa: 1 filimi ya polasetiki go latlha, lebokoso la khateboto le le 1 la FSC go dirisiwa gape, mabotlolo a polasetiki a a bonaletsang a PET a le 6 a 1.5 L go dirisiwa gape, dikhurumelo tsa polasetiki tse di mmala di le 6 tse di sa bonaleng, makotikoti a polasetiki a le 12 a aluminiamo ya 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Dipalopalo tsa ditshupo tse 15 di kopanngwa jang?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Go tlhaloganya thulaganyo ya PEF botoka, o ka buisa: tlhaloso ya maduo a PEF mo saeteng ya mokgwa wa Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## A karolo ya selegae e ama lefelo la go dira kgotsa lefelo le didirisiwa tse di tala di tswang kwa go lone?
+## How are the values ​​of the 15 indicators combined?
 
-**Ntlha ya selegae e amana le tshimologo ya didirisiwa tse di tala. Ke ka moo go leng botlhokwa go tsenya diperesente tsa tsona mmogo le tshimologo ya tsona mo lenaaneng la metswako ya setlhagiswa kgotsa mo lefelong le le neetsweng tshimologo ya metswako.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Tsela ya go tsena mo tshimologong ya metswako ya eco-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Fa o eletsa go abelana tshedimosetso ka ga tshimologo ya didirisiwa tse di tala tse di mo dipampiring tsa gago, re go laletsa go di akaretsa mo lenaaneng la metswako.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
