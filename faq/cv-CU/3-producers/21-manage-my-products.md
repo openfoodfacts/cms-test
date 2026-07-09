@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Манӑн продукцие ертсе пыр"
-description: "16 ыйту"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: коробка
+icon: box
 ---
 
-{{< fa "коробка" size=3х >}}
+{{< fa "box" size=3x >}}
 
-## Open Food Facts-ри даннӑйсен пахалӑхне мӗн шантарать?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Даннӑйсен пахалӑхне лайӑхлатма эпир 4 тӗрек ҫине шанатпӑр:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Сообщество ҫине-ҫинех даннӑйсемпе сӑнӳкерчӗксем хушса пырать тата рецензентсен чӑн-чӑн патрулӗ пулса тӑрать.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Эпир продукт лисчӗсем ҫинчи йӑнӑшсене тупса палӑртма логика правилисем лартрӑмӑр.Сӑмахран: енчен те ингредиентсен йывӑрӑшӗн сумми продукцин пӗтӗмӗшле йывӑрӑшӗнчен пысӑкрах пулсан, аномали пулать. Пирӗн тата 50 яхӑн пахалӑх тӗрӗслевӗ пур.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Машинӑллӑ вӗренӳ пулӑшнипе эпир кӗртнӗ йӑнӑшсен хӑрушлӑхне чакаратпӑр. Пирӗн технологи пире ҫыруҫӑсем ӳкернӗ сӑнӳкерчӗксенчен текст даннӑйӗсене кӑларма май парать
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France пулӑшнипе эпир портал хатӗрлерӗмӗр, вӑл производительсене хӑйсен йышлӑн туса кӑларнӑ даннӑйӗсене ярса пама тата ҫапла майпа обществӑн тӳпине тӳрлетме/вӗҫлеме май парать.
-
----
-
-## Продукцие мӗнле хушмалла?
-
-Пирӗн платформӑна продукци хушас тесен, малтан мӗнле ӗҫлемеллине татса памалла. Унта 4 вариант пур:
-
-- **Алӑпа**: енчен те сирӗн продуктсен шучӗ сахал пулсан, Pro платформӑра кашни продукт листне алӑпа тума пулать-ха.
-
-- **Таблица импортӗ урлӑ**: эсир Open Food Facts панӑ [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) таблицӑна скачать тума пултаратӑр е хӑвӑрӑн IT-системӑран тӳрех Pro платформӑна илсе кӗме пултаратӑр.
-
-- **Продукт каталогӗсен ҫыхӑнӑвӗсем урлӑ**. Эсир EQUADIS, AGENA3000 е BAYARD клиент пулсан, Open Food Facts-ра даннӑйсене 1 кликпа ярса пама пултаратӑр. Енчен те эсир урӑх PIM (Продукт информацийӗн управленийӗ) ӗҫлетӗр пулсан, пирӗнпе ҫыхӑнӑр : producers@openfoodfacts.org
-
-- **Сирӗн компанипе Open Food Facts хушшинчи ҫыхӑну урлӑ**. Енчен те эсир хӑвӑрӑн портфельте 1000 ытла продукт шутлатӑр пулсан, эпир даннӑйсене куҫарма ҫӑмӑллатма ятарлӑ коннектор тума май пуррине сӳтсе явма пултаратпӑр.
-
-Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксене](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) илме сӗнетпӗр :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Обществӑлла базӑна продукцие ҫӗнетме автоматизацилемелли май пур-и?
+## How to add products?
 
-Ҫапла, енчен те эсир EQUADIS, AGENA3000 е BAYARD продукт каталогӗсемпе усӑ куратӑр пулсан тата тӗрӗс конфигураци лартатӑр пулсан, импорта автоматла майпа тума пулать, ҫавна май Open Food Facts-ра продукт даннӑйӗсене ҫӗнетме пулать.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Хушнӑ продуктсен шучӗ чакнӑ-и?
+## Is there a way to automate product updates to the public database?
 
-Чикӗ ҫук, эсир пирӗн платформӑна мӗн чухлӗ продукци кирлӗ, ҫавӑн чухлӗ ярса пама пултаратӑр.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Енчен те эсир рынокра текех ҫук продукцие кӑларса пӑрахас тетӗр пулсан, хӑвӑрӑн продукт листине тӳрлетнӗ чухне «ку продукцие текех сутмаҫҫӗ» рамкӑна паллӑ тумалла кӑна.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Енчен те эсир темиҫе продукта кӑларса пӑрахас тетӗр пулсан, эпир сире [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), стр. 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Ыйтусем пулсан пирӗнпе producers@openfoodfacts.org адреспа та ҫыхӑнма пултаратӑр.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Продукцие архивланӑ чухне вӑл Open Food Facts-ра текех курӑнмӗ.Анчах та вӑл пирӗн базӑра юлать, ҫапла вара эпир вӑхӑт хушшинче сутнӑ продукци историне упраса хӑварма пултаратпӑр.
-
----
-
-## Компани информацийӗ платформӑра пур информацирен маларах тӑрать-и?
-
-Производитель хӑйӗн продукцийӗсенчен пӗрне хӑйӗн продюсер счечӗпе интернета вырнаҫтарсан тата продукци лисчӗ пур пулсан, ҫакӑ ӑна вӗҫлет.
-
-Производитель вырнаҫтарнӑ информаци яланах приоритетлӑ пулать, информацие тултарнӑ чухне вӑл ҫеҫ хӑйӗн продукцине улӑштарма пултарать.
-
-Платформа урлӑ янӑ даннӑйсем пайланса кайнӑ пулсан, вӗсене упаковкӑран сообщество хушнӑ информаци тултарма пултарать.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Хамӑн даннӑйсене мӗнле форматпа ярса памалла?
+## Does company information take precedence over information already present on the platform?
 
-[шаблон](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) Open Food Facts панӑ.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Анчах та платформӑра кирек мӗнле таблицӑн форматне те (xlsx, csv) импортлама пулать.  
-Пирӗн алгоритм сирӗн файлри атрибутсене Open Food Facts-ри атрибутсемпе автоматла майпа танлаштарма хатӗрленӗ. Ҫыхӑну тапхӑрне яланах икӗ хутчен тӗрӗслесе тӑрӑр, мӗншӗн тесен вӗсенчен хӑшӗ-пӗрисене алӑпа тӳрлетме тивет.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Енчен те сирӗн информаци темиҫе таблицӑра пайланса кайнӑ пулсан, эсир вӗсене умлӑ-хыҫлӑн импортлама пултаратӑр - формат улшӑнсан танлаштару тума тӑрӑшӑр.
-
-Эсир EQUADIS е AGENA3000 импортӗсӗр пуҫне Excel файла та импортлама пултаратӑр, енчен те даннӑйсем сирӗн информаци тытӑмӗнче ҫук-ха. Ҫакӑн пек чухне интерфейсран обществӑлла базӑна экспортлама ыйтма ан манӑр.
-
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Эсир мӗнле продукт каталогӗсемпе пӗрлешнӗ?
+## In what format should I send my data?
 
-Производительсем халӗ хӑйсен продукцийӗн даннӑйӗсемпе сӑнӳкерчӗкӗсене **Equadis,** **AGENA3000 тата BAYARD consulting** урлӑ Open Food Facts компанине чӑн вӑхӑтра ярса пама пултараҫҫӗ.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Эсир, паллах, ҫӗнӗрен йӗркелеме сӗнӳсемпе тата платформӑн мӗнпур функцийӗсемпе те усӑ курӑр.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Пирӗн блогри ҫыру](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) эсир EQUADIS клиенчӗ пулсан мӗнле утӑмсем тумаллине ӑнлантарса парать.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Эсир AGENA3000 клиенчӗ пулсан (Продукт A3 PIM INDUSTRY), сирӗн продукт лисчӗсене ярса панӑ чухне «Уҫӑ апат-ҫимӗҫ факчӗсем» илекене суйласа илмелле кӑна. [Тӗплӗнрех ҫак блог ҫырӑвӗ ҫинчен](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Енчен те эсир урӑх продукт даннӑйӗсен каталогӗн клиенчӗ пулсан (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks тата ытти те) пире [producers@openfoodfacts.org](mailto:producers@openfoodfacts.orgадреспа пӗлтерӗр)
-
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Pro платформа урлӑ штрих-кодсӑр продукцие мӗнле хушмалла?
+## With which product catalogs are you integrated?
 
-Штрих-кодсӑр продуктсемшӗн, сайтра е производитель платформинче, сулахай енчи колонкӑра «Штрих-кодсӑр продукт» кнопка пур, вӑл вӗсене хушма май парать. Унтан идентификатор автоматла майпа генерациленет.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Эпир косметика, выльӑх апачӗ валли тата ытти продукци валли ятарлӑ проектсем туса хатӗрлерӗмӗр: уҫӑ илемлӗх факчӗсем, уҫӑ чӗрчун апачӗ тата уҫӑ продукци факчӗсем.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Манӑн компани продукцийӗн даннӑйӗсене Open Food Facts сайтра тупма пулать. Ассоциациленӗ производитель шутне хӑй аллине илме май пур-и?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Паллах! Эсир хӑвӑрӑн ӗҫ адресӗпе Open Food Facts аккаунтне туса ҫыхӑннӑ производитель аккаунтне хӑвӑр аллӑрта илме пултаратӑр. Регистрациленнӗ чухне формӑра пур организаци ятне асӑнӑр, ҫапла майпа тивӗҫлӗ производитель уҫлӑхне кӗме пултаратӑр.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Эсир чӑнах та продюсер пулнине ҫирӗплетме кӗске тӗрӗслев утӑмӗ кирлӗ пулать.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Эсир даннӑйсене тултарма, ӳкерчӗксем хушма, Nutri-Score лайӑхлатма автоматла сӗнӳсем илме тата ытти те пултаратӑр. Ку, паллах, йӑлтах тӳлевсӗр. Эсир ҫавӑн пекех EQUADIS , AGENA3000 тата Bayard consulting пек виҫҫӗмӗш енӗн продукт даннӑйӗсене йӗркелесе тӑракан тытӑмне ҫыхӑнтарма пултаратӑр.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
-
----
-
-## Open Food Facts базипе усӑ курса ытти приложенире производитель даннӑйӗсене ҫӗнетме мӗн чухлӗ вӑхӑт кирлӗ?
-
-Ку приложенисенчен килет. Пирӗн API-семпе усӑ куракансемшӗн, ку вӑл ытларахӑшӗ, вӑл ҫийӗнчех.  
-Пирӗн кулленхи экспортпа усӑ куракансемшӗн вӑл D+1, енчен те вӗсем ӑна ҫӗнетеҫҫӗ пулсан.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Продукт записинчен даннӑйсене импортлани ӗлӗкхи продукт записине тултарать-и е ун ҫине ҫырса хурать-и?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Эпир продукцие палӑртма штрих-кодпа усӑ куратпӑр, енчен те эсир штрих-кодпа ҫырнӑ запись импортлатӑр пулсан, информацие пӗрлештереҫҫӗ.
-
-Ингредиентсен списокӗ, апат-ҫимӗҫ хакӗсем (пӗр тӗрӗс хак кӑна пулма пултарать) пек даннӑйсемшӗн производитель платформи урлӑ янӑ даннӑйсем пур даннӑйсене ҫырса хураҫҫӗ.
-
-Ярлыксем/категорисем/брендсем пек даннӑйсемшӗн (темиҫе тӗрӗс хак пулма пултарать) информацие пӗрлештереҫҫӗ. Енчен те даннӑйсем обществӑлла платформӑра тӗрӗс мар пулсан, эсир обществӑлла платформӑри продукт листне тӗрӗс мар хаксене кӑларса пӑрахма улӑштарма пултаратӑр.
-
-→ Тӗплӗнрех пӗлес тесен, эпир сире пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) тата/е пирӗн [видеоуроксемпе](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) скачать тума сӗнетпӗр :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Ингредиентсен йӗрки пӗлтерӗшлӗ-и?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Ингредиентсен йӗрки пӗлтерӗшлӗ: вӑл йӗркене хисеп тӑрӑх кӑтартать.
-Ингредиентсене тултарма чи лайӑх мел — упаковкӑра мӗн ҫырнине тӗп-тӗрӗс пӑхӑнасси. Ҫавӑнпа та ингредиентсен сӑнӳкерчӗкӗсене пичетлесе кӑларни те питӗ кирлӗ.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Эпӗ те AGENA3000 урлӑ ӳкерчӗксем ярса пама пултаратӑп-и?
+## Is the order of ingredients important?
 
-Эсир ӳкерчӗксем ярса пама пултаратӑр, анчах та практикӑра тӗп ӳкерчӗке ҫеҫ автоматла суйласа илӗҫ, ытти ӳкерчӗксене ярса парӗҫ, анчах та ингредиентсем, апат-ҫимӗҫ тата ытти те тӗлӗшпе касса / суйласа илмӗҫ.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Pro платформӑн вӗрентӗвӗсене мӗнле кӗмелле?
+## Can I send images via AGENA3000 too?
 
-Эсир профессионаллӑ платформӑн вӗрентӗвӗсене кӗме пултаратӑр:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Профессионаллӑ платформа урлӑ: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Тӳрех [YouTube] ҫинче(https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Эсир пирӗн [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) та илме пултаратӑр
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
