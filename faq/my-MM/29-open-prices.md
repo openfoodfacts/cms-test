@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} ဖွင့်လှစ်ထားသော ဈေးနှုန်းများ"
-description: "မေးခွန်း ၃ ခု"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
-order: ၂၉
+order: 29
 category-level: 0
-icon: ဒေါ်လာ
+icon: dollar
 ---
 
-{{< fa "ဒေါ်လာ" size="၃ ဆ" >}}
+{{< fa "dollar" size=3x >}}
 
-## ကျွန်တော်က လက်လီရောင်းချသူဖြစ်ပြီး ဈေးနှုန်းတွေကို ထည့်ဝင်ပေးချင်ပါတယ်။ ဘယ်လိုလုပ်ရမလဲ။
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-သင်သည် [ကျွန်ုပ်တို့၏ API](https://prices.openfoodfacts.org/api/docs) ကို အသုံးပြုခြင်းဖြင့် ဈေးနှုန်းများကို ပါဝင်ထည့်သွင်းနိုင်ပါသည်။ ဈေးနှုန်းများကို အတိုင်းအတာတစ်ခုအထိ ပါဝင်လှူဒါန်းလိုပါက [contact@openfoodfacts.org](mailto:contact@openfoodfacts.orgတွင် ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ။
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## လက်လီရောင်းချသူများ၏ ဝဘ်ဆိုက်များမှ ဈေးနှုန်းများကို ခိုးယူရန် စဉ်းစားနေပါသလား။
+## Do you consider scraping prices from retailers’ websites?
 
-ဥပဒေနှင့် နည်းပညာဆိုင်ရာ အကြောင်းပြချက်များကြောင့်၊ လက်လီရောင်းချသူများ၏ ဝဘ်ဆိုက်များမှ ဈေးနှုန်းများကို ခြစ်ယူခြင်းကို Open Prices တွင် ပါဝင်ရန် တရားဝင်နည်းလမ်းတစ်ခုအဖြစ် ကျွန်ုပ်တို့ မယူဆပါ။ ကျွန်ုပ်တို့စုဆောင်းသော ဈေးနှုန်းများသည် တိကျမှန်ကန်ပြီး နောက်ဆုံးပေါ်ဖြစ်ကြောင်း သေချာစေလိုပြီး ပံ့ပိုးကူညီသူများထံမှ ဖြတ်တောက်ထားသော ဈေးနှုန်းများကို ရရှိခြင်းဖြင့် ကျွန်ုပ်တို့ ထိုသို့ပြုလုပ်ခွင့်မရှိပါ။
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Open Food Facts က ဘာလို့ ဒီလိုလုပ်နေတာလဲ (Open Prices)။
+## Why is Open Food Facts doing this (Open Prices)?
 
-အစားအစာစနစ်များကို နားလည်ရန်အတွက် ဈေးနှုန်းအချက်အလက်များသည် အလွန်အရေးကြီးပါသည်။ အစားအစာကုန်ကျစရိတ်ကို နားလည်ရန်နှင့် ကျန်းမာရေးနှင့်ညီညွတ်သော အစားအစာများကို မြှင့်တင်ရန်အတွက် ၎င်းသည် အဓိကအချက်တစ်ခုဖြစ်သည်။ ဈေးနှုန်းဒေတာများကို ဖွင့်လှစ်ခြင်းသည် သုတေသီများ၊ သတင်းထောက်များနှင့် နိုင်ငံသားများအတွက် အစားအစာဈေးနှုန်းများသည် ပထဝီဝင်အနေအထားအရနှင့် အချိန်အလိုက် မည်သို့ကွဲပြားသည်ကို ပိုမိုနားလည်ရန် ပိုမိုလွယ်ကူစေသည့် နည်းလမ်းတစ်ခုဖြစ်သည်။
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
