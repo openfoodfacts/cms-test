@@ -1,37 +1,37 @@
 ---
-title: "{{< fa question-circle size=2x >}} Informações sobre Alimentos Abertos"
-description: "9 perguntas"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: círculo de perguntas
+icon: question-circle
 ---
 
-{{< fa "círculo de perguntas" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
-## Qual é a diferença com outros sites, serviços e aplicativos móveis que já permitem visualizar informações sobre produtos cosméticos?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 A diferença principal para nós é crítica: nossos dados estão disponíveis gratuitamente para todos e para todos os usos. É o que chamamos de dados abertos.
 
-Quase todos os outros sites, serviços e aplicativos proíbem que outros reproduzam e reutilizem seus dados. Muito pelo contrário, o invejosos guardam tudo para si. Em quase todos os casos, seus termos de serviço proíbem explicitamente qualquer uso não pessoal e qualquer extração de todos os dados ou partes dos dados.
+Quase todos os outros sites, serviços e aplicativos proíbem que outros reproduzam e reutilizem seus dados. Muito pelo contrário, o invejosos guardam tudo para si. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Consideramos que a informação sobre produtos cosméticos importante e útil demais para mantê-la trancada em um cofre. Assim, quando iniciamos o projeto Open Food Facts e o aplicativo móvel, em 2012, decidimos fazer exatamente o oposto: não apenas permitimos o uso e a reutilização de nosso banco de dados, gratuitamente e sem custos, para todos e para todos os fins (inclusive comerciais), como também o incentivamos!
+Consideramos que a informação sobre produtos cosméticos importante e útil demais para mantê-la trancada em um cofre. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Tornar os dados publicamente disponíveis (o que é conhecido como _dados abertos_) permite que indivíduos, associações, empresas, pesquisadores etc. de todo o mundo idealizem e desenvolvam aplicações para os dados que certamente nunca teríamos imaginado.
-
----
-
-## O que é o modelo econômico do Open Beauty Facts
-
-Colaboradores são voluntários. Suas contribuições são reunidas num banco de dados aberto que pode ser usado por todos e para todos os usos. (consulte os [Termos de reutilização](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Dessa forma, todos (incluindo, mas não se limitando a, colaboradores e criadores do Open Food Facts) podem redistribuir e/ou reutilizar os dados para criar sites, serviços, softwares, aplicativos móveis ou para escrever artigos e estudos. Eles são livres de disponibilizar livremente o trabalho resultante, ou de o vender ou monetizar (por exemplo, com anúncios), desde que respeitem os termos da reutilização.
-
-Também somos estritamente independentes da indústria alimentícia, e todos os serviços e softwares que criamos são gratuitos. Por exemplo, nossa Plataforma para Produtores é totalmente gratuita, e isso nos deixa ainda mais satisfeitos, pois acreditamos que pode ajudá-los a aprimorar seus produtos.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Eu posso adicionar fotos dos produtos ou dados do site do fabricante, sites de compras ou outros sites?
+## What is Open Food Facts' economic model
+
+Colaboradores são voluntários. Suas contribuições são reunidas num banco de dados aberto que pode ser usado por todos e para todos os usos. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Eles são livres de disponibilizar livremente o trabalho resultante, ou de o vender ou monetizar (por exemplo, com anúncios), desde que respeitem os termos da reutilização.
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 Provavelmente não. Quase todos os outros sites proíbem a reprodução e a reutilização de seus dados e imagens e essa é a razão pela qual estamos criando o Open Beauty Facts: para disponibilizar todos esses dados para todos e para todos os usos.
 
@@ -39,82 +39,83 @@ Para evitar qualquer problema legal, pedimos aos colaboradores que adicionem ape
 
 ---
 
-## Como posso entrar em contato com a equipe do Open Beauty Facts, fazer perguntas ou fazer sugestões?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Você pode fazer perguntas ou dar sugestões no fórum ou entrar em contato conosco por e-mail: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Se você for um produtor, envie um e-mail para [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Se você for jornalista, envie um e-mail para [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Atenção: [Open Food Facts é um banco de dados colaborativo de produtos alimentícios](https://world.openfoodfacts.org/discover), não vendemos nenhum produto e não temos vínculos com seus produtores. Para uma pergunta ou reclamação sobre um produto, deve escrever diretamente para o produtor (endereço no rótulo do produto).
-
----
-
-## A informação e dados nos produtos é verificada?
-
-As informações e os dados são enviados pelos colaboradores do Open Food Facts. Os contribuintes também enviam imagens do produto, seus rótulos, listas de ingredientes e alegações de saúde e beleza. Em caso de dúvida, os visitantes podem verificar a precisão por si mesmos e, se houver um erro, eles poderão corrigi-lo na hora.
-
-Para detectar erros potenciais com mais facilidade, vamos adicionar progressivamente verificações automatizadas. Por exemplo, se as informações nutricionais de um produto forem muito diferentes das de produtos da mesma categoria, pode ser um erro. Se os nutrientes somam mais de 100%, é definitivamente um erro.
-
-Por fim, muitos produtores nos enviam fotos e dados sobre seus produtos usando nossa Plataforma para Produtores. Se você for produtor, por favor [entre em contato conosco](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Sou um fabricante de produtos cosméticos, posso adicionar meus próprios produtos?
+## Is the information and data on products verified?
 
-Sim! A única condição é aceitar que os dados e as imagens sejam disponibilizados sob uma licença aberta. (ver os [Termos de contribuição](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. Os contribuintes também enviam imagens do produto, seus rótulos, listas de ingredientes e alegações de saúde e beleza. Em caso de dúvida, os visitantes podem verificar a precisão por si mesmos e, se houver um erro, eles poderão corrigi-lo na hora.
 
-Desenvolvemos uma plataforma gratuita que lhe permite importar facilmente fotos e dados sobre os seus produtos, independentemente da sua dimensão. Isso permitirá que você importe dados completos e atualizados, e visuais para o Open Food Facts que estarão visíveis em mais de 100 outros aplicativos nutricionais. Adicionalmente, a plataforma fornece sugestões para melhorar o Nutri-Score de seus produtos. Entre em contato conosco para discutirmos como podemos prosseguir: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Para detectar erros potenciais com mais facilidade, vamos adicionar progressivamente verificações automatizadas. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Se os nutrientes somam mais de 100%, é definitivamente um erro.
+
+Por fim, muitos produtores nos enviam fotos e dados sobre seus produtos usando nossa Plataforma para Produtores. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Quem utiliza os dados do Open Food Facts?
+## I am a food product manufacturer, can I add my own products?
+
+Sim! A única condição é aceitar que os dados e as imagens sejam disponibilizados sob uma licença aberta. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Isso permitirá que você importe dados completos e atualizados, e visuais para o Open Food Facts que estarão visíveis em mais de 100 outros aplicativos nutricionais. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- Mais de 100 aplicativos de celular
-  abordam as necessidades de muitos públicos: diabetes (VeryDiab), alergias, alimento
-  equilíbrio via inteligência artificial (Alimentador), deficiências e muito mais. Nosso banco de dados
-  também permitiu a criação de Yuka.
-- Vários sites: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Jornalistas de dados: Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Pesquisadores em quase 100 artigos científicos
-- Bancos de comida e lojas de solidariedade: um
-  projeto bom na continuidade de um projeto piloto iniciado pela
-  Cruz Vermelha Francesa, integração na gestão de caixa de uma pequena cooperativa
-  alimentar.
-- Empresas: A Terraillon usa nossos dados
-  para dar vida às suas balanças conectadas.
-- Escolas de programação (Simplon, Open
-  Salas de aula) integraram o Open Food Facts como projeto de motivação em seu currículo
-  .
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Como posso apoiar o Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts é uma associação sem fins lucrativos de 1901. Você pode nos ajudar [participando do projeto](https://fr-en.openfoodfacts.org/contribute) e nos apoiando financeiramente com suas [doações](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% dedutíveis) e também usando o mecanismo de busca Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
 **Thank
 you very much!**
 
 ---
 
-## Não consigo encontrar a resposta para a minha pergunta.
+## I can't find the answer to my question
 
-Caso não encontre a resposta para sua(s) pergunta(s), não hesite em nos contatar através de:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Nosso Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Nosso fórum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
