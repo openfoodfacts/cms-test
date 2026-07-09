@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dola iwọn=2x >}} Awọn idiyele Ṣiṣi"
-description: "Àwọn ìbéèrè mẹ́ta"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dola
+icon: dollar
 ---
 
-{{< fa "dola" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Oníṣòwò ni mí, mo sì fẹ́ láti fi owó kún un. Báwo ni mo ṣe lè ṣe èyí?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-O le fi awọn idiyele kun nipa lilo [API wa](https://prices.openfoodfacts.org/api/docs). Tí ẹ bá fẹ́ fi owó kún iye owó yín ní ìwọ̀n, ẹ jọ̀wọ́ ẹ kàn sí wa ní [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ṣe o ronu lati yọ awọn idiyele kuro lati awọn oju opo wẹẹbu awọn alatuta?
+## Do you consider scraping prices from retailers’ websites?
 
-Fún àwọn ìdí òfin àti ìmọ̀ ẹ̀rọ, a kò ka yíyọ owó kúrò láti ojú òpó wẹ́ẹ̀bù àwọn olùtajà sí ọ̀nà tó tọ́ láti fi kún àwọn Iye Owó Ṣíṣí. A fẹ́ rí i dájú pé iye owó tí a ń gbà pé ó péye àti pé ó bá ìgbà mu, àti pé gbígbà owó tí a ti gé kúrò lọ́wọ́ àwọn olùrànlọ́wọ́ kò gbà wá láyè láti ṣe bẹ́ẹ̀.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Ṣíṣàn iye owó jẹ́ àṣàyàn tí a gbé kalẹ̀ nínú àtúnṣe Open Prices lọ́jọ́ iwájú, ṣùgbọ́n Open Prices fúnra rẹ̀ ni yóò ṣe é kí a lè ní ẹ̀rí iye owó náà ní ìbámu pẹ̀lú ojú ìwé HTML.
 
 ---
 
-## Kí ló dé tí Open Food Facts fi ń ṣe èyí (Àwọn Iye Owó Ṣíṣí)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Ìwífún nípa iye owó ṣe pàtàkì láti lóye àwọn ètò oúnjẹ. Ó jẹ́ kókó pàtàkì nínú òye iye owó oúnjẹ àti láti gbé oúnjẹ tó dára lárugẹ. Ṣíṣí ìwífún nípa iye owó jẹ́ ọ̀nà láti mú kí ó rọrùn fún àwọn olùwádìí, àwọn oníròyìn, àti àwọn aráàlú láti ní òye tó dára jù nípa bí iye owó oúnjẹ ṣe yàtọ̀ síra ní agbègbè àti ní àkókò.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
