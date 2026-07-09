@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} À propositu di Open Food Facts"
-description: "4 dumande"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
-order: 17 anni
+order: 17
 category-level: 1
-icon: cerchju d'infurmazione
+icon: info-circle
 ---
 
-{{< fa "cerchju d'infurmazione" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Chì tipu d'infurmazione deve esse sparta ?
+## What type of information should be shared?
 
-Ogni infurmazione chì avete hè benvenuta, da l'infurmazioni nutrizionali à l'infurmazioni nantu à l'imballu.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Questu permette di stabilisce un schedariu cumpletu, di calculà tutti i punteggi cun precisione è più in generale una trasparenza apprezzata da i cunsumatori.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Tuttavia, vi cunsigliemu di dà priorità à i seguenti campi:
+However we do recommend you prioritize the following fields:
 
-- Infurmazioni nutrizionali
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Categoria di prudutti (per esempiu, bevande, furmagliu, yogurt, ecc.)
-
-- Nome di u pruduttu
-
-- Allergeni
-
-- è l'ingredienti, stu campu ùn hè micca ubligatoriu ma cunsigliatu per un usu ottimale è a determinazione di i punteggi
-
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Possu scaricà i dati di Open Food Facts?
+## Can I download Open Food Facts data?
 
-Pudete scaricà tutti i dati dispunibili nantu à Open Food Facts. Attenti, questu richiede assai spaziu discu, un urdinatore putente sè vulete aduprà un fogliu di calculu o cunniscenza di R o Python altrimenti.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Pudete ancu scaricà un subset di dati (a vostra marca per esempiu) grazia à a ricerca avanzata.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## L'accessu à a piattaforma Pro è l'impurtazione di dati sò gratuiti?
-
-Assolutamente, è serà per sempre.Tutti i servizii furniti da Open Food Facts sò gratuiti.  
-Simu assai cuntenti chì avete decisu di cuntribuisce i vostri dati di produttu à a trasparenza alimentaria, è vi ringraziemu per questu.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Vogliu suggerisce miglioramenti per a piattaforma prufessiunale, cumu possu fà?
+## Is access to the Pro platform and the import of data free?
 
-Grazie per a vostra vuluntà di participà à a trasparenza alimentaria!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-U megliu modu per sparte feedback hè di cumpilà [stu furmulariu](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Pudete ancu cuntattà ci per fà suggerimenti sia via [u nostru foru](https://forum.openfoodfacts.org/) sia via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Unisciti à u nostru Slack è intra in u canale #pruduttori per entre in cuntattu cun noi.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
