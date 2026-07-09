@@ -1,31 +1,31 @@
 ---
-title: "{{< rahi tāra fa=2x >}} Ngā Utu Tuwhera"
-description: "3 ngā pātai"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: tāra
+icon: dollar
 ---
 
-{{< fa "tāra" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## He kaihokohoko ahau, ā, e hiahia ana ahau ki te tuku i ngā utu. Me pēhea taku mahi i tēnā?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Ka taea e koe te tuku utu mā te whakamahi i [tā mātou API](https://prices.openfoodfacts.org/api/docs). Ki te hiahia koe ki te tuku utu nui, tēnā whakapā mai ki a mātou i [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Kei te whakaaro koe ki te tango utu mai i ngā paetukutuku a ngā kaihokohoko?
+## Do you consider scraping prices from retailers’ websites?
 
-Mō ngā take ture me ngā take hangarau, kāore mātou e whakaaro ana ko te tango utu mai i ngā paetukutuku a ngā kaihokohoko he huarahi tika hei whai wāhi atu ki ngā Utu Tuwhera. E hiahia ana mātou kia tika, kia hou hoki ngā utu e kohia ana e mātou, ā, mā te whiwhi utu kua tangohia mai i ngā kaituku moni, kāore e taea e mātou te mahi pēnā.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## He aha te take e mahi ai a Open Food Facts i tēnei (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-He mea tino nui ngā mōhiohio utu hei mārama ki ngā pūnaha kai. He mea nui tēnei hei mārama ki te utu o te kai, hei whakatairanga hoki i ngā kai hauora. Mā ngā raraunga utu tīmatanga ka māmā ake te mārama o ngā kairangahau, ngā kairīpoata, me ngā tāngata whenua ki te rerekētanga o ngā utu kai i ia rohe me ia wā.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
