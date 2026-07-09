@@ -1,33 +1,33 @@
 ---
-title: "{{< fa su'aal-circle size=2x >}} Xaqiiqooyinka Cuntada Furan"
-description: "9 su'aalood"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: goobaab su'aal
+icon: question-circle
 ---
 
-{{< fa "goobaab su'aal" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Ku dhawaad dhammaan kiisaska, shuruudaha adeeggooda si cad ayay u mamnuucayaan isticmaalka aan shaqsiga ahayn iyo soo saarista dhammaan xogta ama qaybaha xogta.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Markaa markii aan bilownay mashruuca Furan ee Xaqiiqooyinka Cuntada iyo abka moobaylka, sannadkii 2012, waxaan go'aansannay inaan sameyno wax liddi ku ah: kaliya ma aha inaan u oggolaanno isticmaalka iyo dib u isticmaalka xogtayada, si xor ah oo aan lacag lahayn, qof walba iyo dhammaan isticmaalka (oo ay ku jiraan ganacsiga), laakiin sidoo kale waan ku dhiirigelinaynaa!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-In xogta si dadweyne loo heli karo (waxa loo yaqaan _xog furan_) waxay u oggolaanaysaa shakhsiyaadka, ururada, shirkadaha, cilmi-baarayaasha iwm. ee ka kala yimid daafaha adduunka inay ka fikiraan oo ay horumariyaan codsiyada xogta oo aynaan waligeen ka fikiri lahayn.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (fiiri [Shuruudaha dib u isticmaalka](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Qof walba (oo ay ku jiraan laakiin aan ku xaddidnayn kuwa wax ka dhiga iyo abuurayaasha Xaqiiqooyinka Cuntada Furan) sidaas darteed waxay dib u qaybin karaan oo/ama dib u isticmaali karaan xogta si ay u dhisaan mareegaha, adeegyada, barnaamijyada, barnaamijyada moobaylka, ama si ay u qoraan maqaallo iyo daraasado. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Tusaale ahaan, Madalkeena Soo-saareyaasha waa bilaash, waana ku faraxsanahay taas sababtoo ah waxaan u maleyneynaa inay ka caawin karto inay horumariyaan alaabadooda.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Waxaad su'aalo ama talooyin ka bixin kartaa bogga theforumo ama nagala soo xiriir emayl ahaan: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Haddii aad tahay soo-saare, fadlan noogu soo dir emayl cinwaanka [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Haddii aad tahay wariye, fadlan noogu soo dir emayl [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Fadlan ogow: [Furaha Cuntada Furan waa xog ururin wada jir ah oo ku saabsan cuntooyinka](https://world.openfoodfacts.org/discover), wax badeeco ah ma iibino mana hayno xiriiro aan la leenahay soo-saareyaasha. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Macluumaadka iyo xogta waxaa soo gudbiya ka-qaybgalayaasha Xaqiiqooyinka Cuntada Furan. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. Tusaale ahaan haddii xaqiiqooyinka nafaqada ee badeecadu ay aad uga duwan yihiin alaabada isku qaybta ah, waxay noqon kartaa qalad. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Haddii aad tahay soo-saare, fadlan [nala soo xiriir](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (fiiri [Shuruudaha Ka-qaybgalka](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Waxaan samaynay madal bilaash ah si aan kuu oggolaano inaad si fudud u soo dejiso sawirro iyo xog ku saabsan alaabtaada, iyadoon loo eegin cabbirkaaga. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Nala soo xiriir si aad ugala hadasho sida aan u sii wadi karno: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Yaa isticmaala xogta Xaqiiqooyinka Cuntada Furan?
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- In ka badan 100 barnaamij oo moobayl ah
-  ayaa wax ka qabanaya baahiyaha dhagaystayaal badan: sonkorowga (VeryDiab), xasaasiyadda, dheelitirka cuntada
-  iyada oo loo marayo sirdoonka macmalka ah (FoodVisor), naafonimada, iyo waxyaabo kaloo badan. Kaydka xogta
-  ayaa sidoo kale oggolaaday abuurista Yuka.
-- Mareego badan: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Saxafiyiinta xogta: Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Cilmi-baarayaal ku jira ku dhawaad 100 maqaal oo cilmiyeed
-  ah
-- Bangiyada cuntada iyo dukaamada wadajirka ah: mashruuc
-  Data For Good ah oo ku saabsan sii socoshada mashruuc tijaabo ah oo ay bilowday
-  Laanqeyrta Cas ee Faransiiska, isdhexgalka maaraynta lacagta caddaanka ah ee iskaashatada cuntada yar
-  .
-- Shirkadaha: Terraillon waxay isticmaashaa xogtayada
-  si ay u siiso nolol miisaankeeda isku xiran.
-- Dugsiyada barnaamijyada (Simplon, Open
-  Fasallada) waxay ku darsadeen Xaqiiqooyinka Cuntada Furan sidii mashruuc dhiirigelin leh oo ku jira manhajkooda
-  .
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Sideen u taageeri karaa Xaqiiqooyinka Cuntada Furan?
+## How can I support Open Food Facts?
 
-Cuntada Furan
-Xaqiiqadu waa urur aan faa'iido doon ahayn oo la aasaasay 1901. Waxaad naga caawin kartaa [ka qayb qaadashada mashruuca](https://fr-en.openfoodfacts.org/contribute) iyo inaad naga taageerto dhaqaale ahaan [deeqahaaga](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% laga jari karo) iyo sidoo kale adoo adeegsanaya mashiinka raadinta Lilo
-.
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Aad baad u mahadsan tahay
-!**
+**Thank
+you very much!**
 
 ---
 
-## Jawaabta su'aashayda ma heli karo
+## I can't find the answer to my question
 
-Haddii aadan ka heli karin jawaabta su'aalahaaga (su'aalahaaga), ha ka waaban inaad nagala soo xiriirto:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack-keena: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Golahayaga: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
