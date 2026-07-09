@@ -1,33 +1,33 @@
 ---
-title: "{{< fa soalan-bulatan saiz=2x >}} Fakta Makanan Terbuka"
-description: "9 soalan"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: bulatan soalan
+icon: question-circle
 ---
 
-{{< fa "bulatan soalan" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Dalam hampir semua kes, terma perkhidmatan mereka secara jelas melarang sebarang penggunaan bukan peribadi dan sebarang pengekstrakan semua data atau bahagian data tersebut.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Jadi apabila kami memulakan projek dan aplikasi mudah alih Open Food Facts, pada tahun 2012, kami memutuskan untuk melakukan sebaliknya: kami bukan sahaja membenarkan penggunaan dan penggunaan semula pangkalan data kami, secara percuma dan tanpa bayaran, kepada semua orang dan untuk semua kegunaan (termasuk komersial), tetapi kami juga menggalakkannya!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Menjadikan data tersedia secara umum (apa yang dikenali sebagai _data terbuka_) membolehkan individu, persatuan, syarikat, penyelidik dan sebagainya dari seluruh dunia memikirkan dan membangunkan aplikasi untuk data yang pastinya tidak akan pernah kita fikirkan.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (lihat [Syarat penggunaan semula](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Oleh itu, semua orang (termasuk tetapi tidak terhad kepada penyumbang dan pencipta Open Food Facts) boleh mengagihkan semula dan/atau menggunakan semula data untuk membina laman web, perkhidmatan, perisian, aplikasi mudah alih atau untuk menulis artikel dan kajian. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Contohnya, Platform untuk Pengeluar kami adalah percuma sepenuhnya, dan kami lebih berpuas hati dengannya kerana kami fikir ia mungkin dapat membantu mereka menambah baik produk mereka.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,80 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Anda boleh bertanya soalan atau memberi cadangan mengenai forum ini atau hubungi kami melalui e-mel: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Jika anda seorang penerbit, sila emel kami di [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Jika anda seorang wartawan, sila emel kami di [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Sila ambil perhatian: [Open Food Facts ialah pangkalan data kolaboratif produk makanan](https://world.openfoodfacts.org/discover), kami tidak menjual sebarang produk dan kami tidak mempunyai pautan dengan pengeluarnya. Jika ada soalan atau aduan berkenaan sebuah produk, anda hanya perlu menulis terus kepada pengeluar produk tersebut (alamatnya tertera pada label produk).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Maklumat dan data tersebut dikemukakan oleh penyumbang Fakta Makanan Terbuka. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. contohnya jika fakta pemakanan sesuatu produk sangat berbeza daripada produk daripada kategori yang sama, ia mungkin satu ralat. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Jika anda seorang penerbit, sila [hubungi kami](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (lihat [Syarat sumbangan](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Kami telah membangunkan platform percuma untuk membolehkan anda mengimport foto dan data tentang produk anda dengan mudah, tanpa mengira saiz anda. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Hubungi kami untuk membincangkan bagaimana kami boleh meneruskan: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Siapakah yang menggunakan data Fakta Makanan Terbuka?
+## Who uses Open Food Facts data?
 
-Ia akan mengambil masa yang terlalu lama untuk
-menyenaraikan semua organisasi yang bergantung pada platform Open Food Facts
-.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- Lebih daripada 100 aplikasi mudah alih
-  menangani keperluan ramai khalayak: diabetes (VeryDiab), alahan, keseimbangan makanan
-  melalui kecerdasan buatan (FoodVisor), kecacatan dan banyak lagi. Pangkalan data
-  kami juga membenarkan penciptaan Yuka.
-- Banyak laman web: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Wartawan data : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Penyelidik dalam hampir 100 artikel saintifik
-- Bank makanan dan kedai solidariti: projek Data For Good
-  dalam kesinambungan projek perintis yang dimulakan oleh Palang Merah Perancis
-  , integrasi dalam pengurusan tunai koperasi makanan kecil
-  .
-- Syarikat: Terraillon menggunakan data kami
-  untuk menghidupkan skala yang berkaitan.
-- Sekolah pengaturcaraan (Simplon, Bilik Darjah Terbuka
-  ) telah mengintegrasikan Fakta Makanan Terbuka sebagai projek motivasi dalam kurikulum
-  mereka.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Bagaimanakah saya boleh menyokong Fakta Makanan Terbuka?
+## How can I support Open Food Facts?
 
 Open Food
-Facts ialah sebuah persatuan bukan berasaskan keuntungan yang ditubuhkan pada tahun 1901. Anda boleh membantu kami dengan [menyertai projek ini](https://fr-en.openfoodfacts.org/contribute) dan dengan menyokong kami dari segi kewangan dengan [derma](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% potongan) dan juga dengan menggunakan enjin carian Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Terima kasih banyak-banyak kepada
-!**
+**Thank
+you very much!**
 
 ---
 
-## Saya tidak dapat menemui jawapan kepada soalan saya
+## I can't find the answer to my question
 
-Jika anda tidak dapat menemui jawapan kepada soalan anda, jangan teragak-agak untuk menghubungi kami melalui:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack Kami: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Forum kami: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
