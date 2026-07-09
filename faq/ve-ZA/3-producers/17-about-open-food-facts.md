@@ -18,13 +18,9 @@ This makes it possible to establish a complete file, to calculate all the scores
 However we do recommend you prioritize the following fields:
 
 - Nutritional information
-
 - Product category (e.g. drinks, cheese, yogurt, etc.)
-
 - Name of the product
-
 - Allergens
-
 - and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
 → For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
