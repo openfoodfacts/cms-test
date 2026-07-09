@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Ачык продуктлар турында мәгълүмат"
-description: "3 сорау"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: ачкыч
+icon: key
 ---
 
-{{< fa "ачкыч" size=3х >}}
+{{< fa "key" size=3x >}}
 
-## iPhone'да "Ачык продуктлар турында мәгълүмат"ка ничек керергә?
+## How to access Open Products Facts on iPhone ?
 
-Ачык продуктлар турында мәгълүмат төп Ачык азык-төлек турында мәгълүмат кушымтасында бар. Бу интеграция iPhone кулланучыларына ике мәгълүмат базасына да бер уңайлы кушымта аша керү мөмкинлеге бирә.
-
----
-
-## Мин "Ачык продуктлар турында фактлар"ны хупларга телим. Мин нәрсә эшли алам?
-
-Зинһар, безнең вики битен укыгыз, бездә катнашу ысуллары күрсәтелгән: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Ачык продуктлар турындагы фактларны хуплау өчен, сез төрле төр өлешләргә туры китерелгән түбәндәге вариантларны карап чыга аласыз:
-
--
-
-**Ачык продуктлар турында фактлар өчен хәйрия/дәүләт спонсорлары**:
-Хәйрия ярдәме 20000 дән артык категориядә комплекслы әйләнмәле мәгълүмат платформасы, продуктларны бәяләү һәм әйләнмәле чишелешләр агрегациясе күзаллавын гамәлгә ашыруда бик мөһим, бу Ачык продуктлар турында фактларның төп максаты. Бу күзаллауның күп кенә мөһим компонентлары әлегә финансланмаган, һәм сезнең акчалата ярдәмегез зур йогынты ясарга мөмкин. Сезнең иганәләрегез мөһим проектларны һәм инфраструктураны финансларга ярдәм итә ала. Акчалата ярдәм күрсәтү өчен, зинһар, contact@openfoodfacts.org электрон почтасы аша безнең белән элемтәгә керегез.
-
--
-
-**Ачык продуктлар турында мәгълүмат өстәүчеләр**:
-Ачык продуктлар турында мәгълүмат өстәү масштаблау өчен бик мөһим. Яңа продукт турында мәгълүмат өстәү, булган язмаларны яңарту яки мәгълүматларны тикшерү өчен Android кушымтасын кулланып, сез мәгълүмат базасын киңәйтергә һәм камилләштерергә ярдәм итәсез. Бу коллектив тырышлык һәркем өчен ныклы һәм ышанычлы ресурс булдыруга өлеш кертә.
-
--
-
-**Ачык продуктлар турында фактларга техник өлеш кертүчеләр**:
-Әгәр дә сезнең программалаштыру, мәгълүматларны анализлау яки кулланучы тәҗрибәсен эшләү кебек өлкәләрдә техник күнекмәләрегез булса, сезнең белгечлегегез Ачык продуктлар турында фактларга зур файда китерә ала. Кушымта эшләүдә катнашу, аның функциональлеген яхшырту яки кулланучы интерфейсларын яхшырту - кыйммәтле өлеш. Катнашу өчен, #openproductsfacts Slack каналына кушылыгыз, анда Open Products Facts җәмгыяте хезмәттәшлек итә. Сез бу Slack эш урынына сылтаманы Open Food Facts сайтында таба аласыз.
-
-Һәр төр өлеш Open Products Facts үсеше һәм уңышы өчен мөһим, һәркем өчен тотрыклырак һәм мәгълүматлырак платформа булдырырга ярдәм итә.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Ачык продуктлар турында мәгълүмат API'сын кайдан табарга мөмкин?
+## I would like to support Open Products Facts. What can I do ?
 
-Open Products Facts API'сы Open Food Facts API'сы белән 98% бертигез, шуңа күрә сез Open Food Facts API документациясен куллансагыз, сез Open Products Facts API'сын ачык күрерсез. Шулай ук, без сезнең кушымтагызда универсаль сканерлауны гамәлгә ашыру өчен махсус дәрес яздык.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
