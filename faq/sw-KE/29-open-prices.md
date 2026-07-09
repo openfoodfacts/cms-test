@@ -1,31 +1,31 @@
 ---
-title: "Bei Zilizofunguliwa {{< fa dola size=2x >}}"
-description: "Maswali 3"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dola
+icon: dollar
 ---
 
-{{< fa "dola" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Mimi ni muuzaji na ninataka kuchangia bei. Ninawezaje kufanya hivyo?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Unaweza kuchangia bei kwa kutumia [API yetu](https://prices.openfoodfacts.org/api/docs). Ukitaka kuchangia bei kwa kiwango, tafadhali wasiliana nasi kupitia [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Je, unafikiria kuondoa bei kutoka kwa tovuti za wauzaji?
+## Do you consider scraping prices from retailers’ websites?
 
-Kwa sababu za kisheria na kiufundi, hatuzingatii kufuta bei kutoka kwa tovuti za wauzaji kama njia halali ya kuchangia Bei Huria. Tunataka kuhakikisha kwamba bei tunazokusanya ni sahihi na zimesasishwa, na kupokea bei zilizochakaa kutoka kwa wachangiaji hakuturuhusu kufanya hivyo.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Kuondoa bei ni chaguo linalozingatiwa katika toleo la baadaye la Bei Huria, lakini itafanywa na Bei Huria yenyewe ili tuweze kuwa na uthibitisho wa bei kulingana na ukurasa wa HTML.
 
 ---
 
-## Kwa nini Ukweli wa Chakula Huria unafanya hivi (Bei Huria)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Taarifa za bei ni muhimu sana ili kuelewa mifumo ya chakula. Ni jambo muhimu katika kuelewa gharama ya chakula na kukuza lishe bora. Data ya bei ya ufunguzi ni njia ya kurahisisha watafiti, waandishi wa habari, na raia kuelewa vyema jinsi bei za vyakula zinavyotofautiana kijiografia na kwa wakati.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
