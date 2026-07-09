@@ -1,6 +1,6 @@
 ---
-title: "{{< fa file-o size=2x >}} Məktəb layihələri"
-description: "2 sual"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
@@ -9,15 +9,15 @@ icon: file-o
 
 {{< fa "file-o" size=3x >}}
 
-## Məktəb layihəm var, Open Food Facts məlumatlarından istifadə etmək istəyirəm, bunu edə bilərəmmi?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Açıq Qida Faktları, açıq verilənlər bazasıdır, ODbL lisenziyası altında fəaliyyət göstərən açıq layihədir, buna görə də ODbL lisenziyasının tələbləri ilə razılaşdığınız müddətcə, məlumatlarımızı layihələriniz üçün yenidən istifadə edə bilərsiniz :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Layihələrim üçün məlumatlara necə daxil ola/toplaya bilərəm?
+## How can I access/collect data for my projects ?
 
-Açıq Qida Faktları əsas səhifəsində, ekranın yuxarı sol küncündə sürüşdürmə menyusu var. Bunun altında, tıklaya biləcəyiniz "inkişaf etmiş axtarış" seçimini tapacaqsınız. Daha sonra layihəniz(ləriniz) üçün hansı meyarların ən uyğun olduğunu müəyyən etmək sizə qalıb. Seçildikdən sonra, səhifənin altındakı aşağıya fırladıb "Nəticələri yüklə" düyməsini basaraq əldə edilən nəticələri yükləyə biləcəksiniz.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
