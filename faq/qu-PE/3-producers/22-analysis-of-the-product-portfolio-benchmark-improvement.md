@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Rurukuna carteramanta t'aqwiy (benchmark, allinchay...)"
-description: "1 tapuy"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
-order: 22. 22
+order: 22
 category-level: 1
-icon: chart-barra nisqa
+icon: chart-bar
 ---
 
-{{< fa "chart-barra nisqa" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## ¿Imaynatataq chayayta atiyman chay reformulación nisqa kamachikuyman, chaynapi ruruykunaypa Nutri-Score nisqa allin kananpaq?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Plataforma de Productores nisqap qallariy p'anqanpi kachkaptiyki:
+When you are on the home page of the Producers Platform:
 
-1. ñit'iy "→ Hayka rurukuna allinchay atiyniyuq" t'inkipi p'anqap hawanpi.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. llapa oportunidadkunata sistemaykuwan tarisqakunata qhawayta atikunki rurukunayki allinchaypaq
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. huk laya oportunidadta ñit’iyqa allinchaypaq kaq rurukuna listaman pusasunki.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
