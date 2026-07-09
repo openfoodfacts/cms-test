@@ -1,45 +1,45 @@
 ---
-title: "{{< fa user size=2x >}} Quản lý tài khoản của tôi"
-description: "3 câu hỏi"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
 icon: người dùng
 ---
 
-{{< fa "người dùng" size="3 lần" >}}
+{{< fa "người dùng" size=3x >}}
 
-## Có thể liên kết nhiều tài khoản Open Food Facts với cùng một công ty không?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Vâng, vui lòng gửi email tới [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) để chúng tôi có thể liên kết tất cả các tài khoản với cùng một công ty.
-
----
-
-## Làm thế nào để chuyển đổi tài khoản Open Food Facts của tôi thành tài khoản Pro?
-
-Bạn có thể truy cập [Nền tảng Pro](https://world.pro.openfoodfacts.org/) bằng thông tin đăng nhập tài khoản hiện có của mình.
-
-Nếu bạn là người làm việc chuyên nghiệp, bạn cần sử dụng địa chỉ email chuyên nghiệp để chúng tôi có thể xác thực tài khoản của bạn.
-
-→ Để biết thêm chi tiết, chúng tôi mời bạn tải xuống [hướng dẫn sử dụng](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) và/hoặc xem [video hướng dẫn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Tôi có thể tìm tài liệu hướng dẫn sử dụng nền tảng Pro ở đâu?
+## How to convert my Open Food Facts account into a Pro account?
 
-Có một vài nguồn tài liệu giúp bạn tận dụng tối đa nền tảng Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Bạn có thể:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- Hãy xem [hướng dẫn sử dụng](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) của chúng tôi - chúng tôi mời bạn tải xuống tệp PDF để các liên kết có thể nhấp được, giúp bạn dễ dàng điều hướng trong tài liệu.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- Hãy tham khảo [video hướng dẫn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) của chúng tôi
+---
 
-- Chia sẻ phản hồi hoặc đề xuất qua [biểu mẫu này](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Nếu bạn có thêm thắc mắc, hãy lên lịch gọi điện với Manon, quản lý quan hệ đối tác của chúng tôi: [tại đây](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Vui lòng liên hệ với chúng tôi qua email: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
