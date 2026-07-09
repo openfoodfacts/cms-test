@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} 資料下載"
-description: "1 個問題"
-lang: 英語-英國
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: 雲端下載
+icon: cloud-download
 ---
 
-{{< fa "雲端下載" size=3倍 >}}
+{{< fa "cloud-download" size=3x >}}
 
-## 如何取得特定國家的數據？
+## Where to get the data for a specific country?
 
-目前，沒有專門針對特定國家的出口產品。
+Currently, there are no exports dedicated to specific countries.
 
-有許多方法可以將我們不同的匯出功能與不同的工具結合使用，從而選擇與特定國家相關的資料。
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-您可以查看[我們維基上的一些此類技術](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data)。
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
