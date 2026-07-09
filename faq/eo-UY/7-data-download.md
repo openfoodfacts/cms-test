@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Datuma elŝuto"
-description: "1 demando"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: nuba elŝuto
+icon: cloud-download
 ---
 
-{{< fa "nuba elŝuto" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Kie akiri datumojn por specifa lando?
+## Where to get the data for a specific country?
 
-Nuntempe, ne ekzistas eksportaĵoj dediĉitaj al specifaj landoj.
+Currently, there are no exports dedicated to specific countries.
 
-Estas multaj manieroj uzi niajn diversajn eksportaĵojn kombinitajn kun diversaj iloj por elekti la datumojn rilatajn al specifa lando.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Vi povas rigardi [kelkajn el ĉi tiuj teknikoj en nia vikio](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
