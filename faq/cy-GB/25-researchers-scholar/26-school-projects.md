@@ -1,23 +1,23 @@
 ---
-title: "Prosiectau ysgol"
-description: "2 gwestiwn"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: ffeilio
+icon: file-o
 ---
 
-{{< fa "ffeilio" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Mae gen i brosiect ysgol i'w wneud, rydw i eisiau defnyddio data Open Food Facts, alla i wneud hynny?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Mae Ffeithiau Bwyd Agored yn gronfa ddata agored, prosiect agored sy'n gweithredu o dan drwydded ODbL, felly cyn belled â'ch bod yn cytuno â gofynion y drwydded ODbL, mae croeso i chi ailddefnyddio ein data ar gyfer eich prosiectau :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Sut alla i gael mynediad at/casglu data ar gyfer fy mhrosiectau?
+## How can I access/collect data for my projects ?
 
-Ar brif dudalen Open Food Facts, yng nghornel chwith uchaf y sgrin, mae yna ddewislen sgrolio. Ar waelod y dudalen hon, fe welwch yr opsiwn “chwilio uwch”, y gallwch glicio arno. Yna chi sydd i benderfynu pa feini prawf sydd fwyaf perthnasol i'ch prosiect(au). Ar ôl i chi ddewis, byddwch chi’n gallu lawrlwytho’r canlyniadau a gafwyd drwy sgrolio i lawr ar waelod y dudalen a chlicio ar “Lawrlwytho canlyniadau”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
