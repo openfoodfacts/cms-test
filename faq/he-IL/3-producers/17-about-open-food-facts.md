@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} אודות עובדות מזון פתוחות"
-description: "4 שאלות"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: מעגל מידע
+icon: info-circle
 ---
 
-{{< fa "מעגל מידע" size="פי 3" >}}
+{{< fa "info-circle" size=3x >}}
 
-## איזה סוג של מידע יש לשתף?
+## What type of information should be shared?
 
-כל מידע שיש לכם יתקבל בברכה, החל ממידע תזונתי ועד למידע על האריזה.
+Any information you have is welcome, from nutritional information to packaging information.
 
-זה מאפשר ליצור קובץ שלם, לחשב את כל הציונים בדיוק ובאופן כללי יותר, שקיפות המוערכת על ידי הצרכנים.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-עם זאת, אנו ממליצים שתעדפו את התחומים הבאים:
+However we do recommend you prioritize the following fields:
 
-- מידע תזונתי
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- קטגוריית מוצרים (למשל משקאות, גבינה, יוגורט וכו')
-
-- שם המוצר
-
-- אלרגנים
-
-- והמרכיבים, שדה זה אינו חובה אך מומלץ לשימוש אופטימלי וקביעת הציונים
-
-→ לפרטים נוספים, אנו מזמינים אתכם להוריד את [מדריך המשתמש] שלנו (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ו/או להתייעץ עם [סרטוני ההדרכה] שלנו (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## האם ניתן להוריד נתוני Open Food Facts?
+## Can I download Open Food Facts data?
 
-ניתן להוריד את כל הנתונים הזמינים באתר Open Food Facts. היזהרו, זה דורש הרבה מקום בדיסק, מחשב חזק אם אתם רוצים להשתמש בגיליון אלקטרוני או ידע ב-R או Python אחרת.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-ניתן גם להוריד קבוצת נתונים (לדוגמה, המותג שלכם) הודות לחיפוש מתקדם.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ לפרטים נוספים, אנו מזמינים אתכם להוריד את [מדריך המשתמש] שלנו (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ו/או להתייעץ עם [סרטוני ההדרכה] שלנו (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## האם הגישה לפלטפורמת ה-Pro וייבוא הנתונים הם בחינם?
-
-בהחלט, וזה יישאר לנצח.כל השירותים המסופקים על ידי Open Food Facts הינם ללא תשלום.  
-אנו שמחים מאוד שהחלטתם לתרום את נתוני המוצרים שלכם לשקיפות מזון, ואנו מודים לכם על כך.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## אני רוצה להציע שיפורים לפלטפורמה המקצועית, כיצד אוכל לעשות זאת?
+## Is access to the Pro platform and the import of data free?
 
-תודה על נכונותך להשתתף בשקיפות מזון!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-הדרך הטובה ביותר לשתף משוב היא על ידי מילוי [טופס זה](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-ניתן גם ליצור איתנו קשר כדי להציע הצעות דרך [הפורום שלנו](https://forum.openfoodfacts.org/) או דרך [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-הצטרפו לסלאק שלנו והיכנסו לערוץ #מפיקים כדי ליצור איתנו קשר.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
