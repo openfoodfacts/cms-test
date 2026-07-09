@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} মুক্ত খাদ্যৰ তথ্যৰ বিষয়ে"
-description: "৪ টা প্ৰশ্ন"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
-order: ১৭
+order: 17
 category-level: 1
-icon: তথ্য-বৃত্ত
+icon: info-circle
 ---
 
-{{< fa "তথ্য-বৃত্ত" size=৩x >}}
+{{< fa "info-circle" size=3x >}}
 
-## কেনেধৰণৰ তথ্য ভাগ-বতৰা কৰিব লাগে?
+## What type of information should be shared?
 
-আপোনাৰ হাতত থকা যিকোনো তথ্য আদৰণীয়, পুষ্টিৰ তথ্যৰ পৰা আৰম্ভ কৰি পেকেজিঙৰ তথ্যলৈকে।
+Any information you have is welcome, from nutritional information to packaging information.
 
-ইয়াৰ ফলত এটা সম্পূৰ্ণ ফাইল স্থাপন কৰা সম্ভৱ হয়, সকলো স্ক'ৰ নিখুঁতভাৱে আৰু অধিক সাধাৰণভাৱে গ্ৰাহকে প্ৰশংসা কৰা স্বচ্ছতাৰে গণনা কৰা।
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-কিন্তু আমি আপোনাক নিম্নলিখিত ক্ষেত্ৰসমূহক অগ্ৰাধিকাৰ দিবলৈ পৰামৰ্শ দিওঁ:
+However we do recommend you prioritize the following fields:
 
-- পুষ্টিৰ তথ্য
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- পণ্যৰ শ্ৰেণী (যেনে পানীয়, পনিৰ, দৈ আদি)
-
-- পণ্যৰ নাম
-
-- এলাৰ্জেন
-
-- আৰু উপাদানসমূহৰ বিষয়ে, এই ক্ষেত্ৰখন বাধ্যতামূলক নহয় কিন্তু স্ক'ৰৰ অনুকূল ব্যৱহাৰ আৰু নিৰ্ণয়ৰ বাবে পৰামৰ্শ দিয়া হৈছে
-
-→ অধিক বিৱৰণৰ বাবে, আমি আপোনাক আমাৰ [ব্যৱহাৰকাৰী গাইড](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ডাউনলোড কৰিবলৈ আমন্ত্ৰণ জনাইছো আৰু/বা আমাৰ [ভিডিঅ' টিউটোৰিয়েল](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## মই মুক্ত খাদ্য তথ্যৰ তথ্য ডাউনলোড কৰিব পাৰিমনে?
+## Can I download Open Food Facts data?
 
-আপুনি Open Food Facts ত উপলব্ধ সকলো তথ্য ডাউনলোড কৰিব পাৰে। সাৱধান, ইয়াৰ বাবে বহুত ডিষ্ক স্থানৰ প্ৰয়োজন, এটা শক্তিশালী কমপিউটাৰ যদি আপুনি এটা স্প্ৰেডশ্বীট ব্যৱহাৰ কৰিব বিচাৰে বা অন্যথা R বা পাইথনৰ জ্ঞান ।
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-উন্নত সন্ধানৰ বাবে আপুনি তথ্যৰ এটা উপগোট (উদাহৰণস্বৰূপে আপোনাৰ ব্ৰেণ্ড) ডাউনলোড কৰিব পাৰে।
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ অধিক বিৱৰণৰ বাবে, আমি আপোনাক আমাৰ [ব্যৱহাৰকাৰী গাইড](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ডাউনলোড কৰিবলৈ আমন্ত্ৰণ জনাইছো আৰু/বা আমাৰ [ভিডিঅ' টিউটোৰিয়েল](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## প্ৰ’ প্লেটফৰ্মত প্ৰৱেশ আৰু ডাটা আমদানি বিনামূলীয়া নেকি?
-
-একেবাৰেই, আৰু চিৰদিনৰ বাবেই থাকিব।Open Food Facts ৰ দ্বাৰা প্ৰদান কৰা সকলো সেৱা বিনামূলীয়া।  
-আমি অতি আনন্দিত যে আপুনি আপোনাৰ সামগ্ৰীৰ তথ্য খাদ্যৰ স্বচ্ছতাত অৱদান আগবঢ়োৱাৰ সিদ্ধান্ত লৈছে, আৰু ইয়াৰ বাবে আমি আপোনাক ধন্যবাদ জনাইছো।
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## মই পেছাদাৰী মঞ্চৰ বাবে উন্নতিৰ পৰামৰ্শ দিব বিচাৰিছো, মই কেনেকৈ কৰিব পাৰো ?
+## Is access to the Pro platform and the import of data free?
 
-খাদ্য স্বচ্ছতাত অংশগ্ৰহণ কৰিবলৈ ইচ্ছা প্ৰকাশ কৰাৰ বাবে ধন্যবাদ!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-মতামত ভাগ-বতৰা কৰাৰ সৰ্বোত্তম উপায় হ'ল [এই প্ৰপত্ৰখন](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) পূৰণ কৰা।
+---
 
-আপুনি [আমাৰ মঞ্চ](https://forum.openfoodfacts.org/) বা [Slack](https://openfoodfacts.slack.com/ssb/redirect) ৰ জৰিয়তে পৰামৰ্শ দিবলৈ আমাৰ সৈতেও যোগাযোগ কৰিব পাৰে।
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-আমাৰ Slack ত যোগদান কৰক আৰু আমাৰ সৈতে যোগাযোগ কৰিবলৈ চেনেল #producers ত প্ৰৱেশ কৰক।
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
