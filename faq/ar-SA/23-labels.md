@@ -1,23 +1,23 @@
 ---
 title: "{{< fa bookmark size=2x >}} Labels"
-description: "سؤالان"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: إشارة مرجعية
+icon: bookmark
 ---
 
-{{< fa "إشارة مرجعية" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## هل من المهم إنشاء حساب كعلامة تجارية؟
+## As a label, is it important to create an account ?
 
-بصفتك علامة تجارية، ولأنك لست المنتج المباشر للمنتجات، فأنت لست بحاجة إلى إنشاء حساب منتج.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## أنا شركة إنتاج، كيف يمكنني المشاركة في المشروع؟
+## I am a label, how can I participate in the project?
 
-بصفتك صاحب علامة تجارية، فإن أهم شيء يجب فعله هو الاتصال بنا **(producers@openfoodfacts.org)** وإرسال قائمة المنتجات التي تظهر عليها علامتك التجارية حتى نتمكن من إضافتها إلى صفحات المنتجات ذات الصلة.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
