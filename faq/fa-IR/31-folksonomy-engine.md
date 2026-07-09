@@ -1,17 +1,17 @@
 ---
-title: "{{< اندازه کتاب = ۲ برابر >}} موتور فولکسونومی"
-description: "۱ سوال"
-lang: انگلیسی-انگلیسی
-order: ۳۱
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: کتاب
+icon: book
 ---
 
-{{< fa "کتاب" size="۳ برابر" >}}
+{{< fa "book" size=3x >}}
 
-## موتور فولکسونومی چیست؟
+## What is the Folksonomy Engine ?
 
-موتور فولکسونومی سیستمی است که به کاربران اجازه می‌دهد برچسب‌های سفارشی یا ویژگی‌هایی را به محصولات غذایی در Open Food Facts، بزرگترین پایگاه داده غذای آزاد جهان، اضافه کنند. این به افراد اجازه می‌دهد تا غذا را به روش‌های جدیدی، فراتر از ویژگی‌های از پیش تعریف‌شده‌ی موجود، دسته‌بندی و توصیف کنند.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
