@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ဒေတာဒေါင်းလုဒ်လုပ်ခြင်း"
-description: "မေးခွန်း ၁ ခု"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: cloud-ဒေါင်းလုဒ်
+icon: cloud-download
 ---
 
-{{< fa "cloud-ဒေါင်းလုဒ်" size="၃ ဆ" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## နိုင်ငံတစ်နိုင်ငံအတွက် အချက်အလက်များကို မည်သည့်နေရာတွင် ရယူရမည်နည်း။
+## Where to get the data for a specific country?
 
-လက်ရှိတွင် သတ်မှတ်ထားသောနိုင်ငံများသို့ သီးသန့်တင်ပို့မှုများ မရှိပါ။
+Currently, there are no exports dedicated to specific countries.
 
-သတ်မှတ်ထားသောနိုင်ငံနှင့် သက်ဆိုင်သည့်ဒေတာကို ရွေးချယ်ရန် ကျွန်ုပ်တို့၏ မတူညီသော ပို့ကုန်များကို မတူညီသောကိရိယာများနှင့် ပေါင်းစပ်အသုံးပြုရန် နည်းလမ်းများစွာရှိပါသည်။
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-ဤနည်းစနစ်အချို့ကို ကျွန်ုပ်တို့၏ ဝီကီတွင် ကြည့်ရှုနိုင်ပါသည်](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data)။
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
