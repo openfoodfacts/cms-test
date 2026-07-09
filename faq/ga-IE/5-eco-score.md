@@ -1,55 +1,55 @@
 ---
-title: "Scór Éicea {{< fa user-plus size=2x >}}"
-description: "5 cheist"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: úsáideoir-móide
+icon: user-plus
 ---
 
-{{< fa "úsáideoir-móide" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Cad é modheolaíocht an Éicea-Scór?
+## What is the Eco-Score methodology?
 
-Tá an Scór Éicea bunaithe ar ríomh na hanailíse saolré arna dtáirgeadh ag ADEME (an ghníomhaireacht um aistriú éiceolaíoch) agus INRAE (an institiúid náisiúnta um thaighde agranamaíoch). Déantar thart ar chúig chomhpháirt déag a ríomh agus a nascadh chun an scór PEF a chruthú.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Cuirtear bónais agus mí-úsáidí leis an scór PEF seo (modh táirgthe, bunús an
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-comhábhair, speicis i mbaol, pacáistiú) chun an Scór Éicea a ríomh.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Le haghaidh tuilleadh eolais, féach ar an leathanach achoimre [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) ar Open Food Facts chomh maith le suíomh gréasáin chomhghuaillíocht Eco-Score. (Cur i láthair Scór Éicea [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Cén cineál eolais is gá a thabhairt chun an Scór Éicea a ríomh chomh cruinn agus is féidir?
-
-Chun an Scór Éicea a ríomh go cruinn, ní mór céatadán gach comhábhair agus a bhunús a shonrú.
-
-Mura bhfuil an fhaisnéis seo sonraithe cheana féin i liosta na gcomhábhar, is féidir leat colún a chur leis chun í a lua, leis an bhformáid seo a leanas:
-
-Plúr cruithneachta 16% (an Fhrainc)
-
-Seacláid 8% (Cósta Eabhair, Eacuadór)
-
-Teastaíonn comhpháirteanna an phacáistithe uainn freisin i bhfoirm: 1 scannán plaisteach le caitheamh amach, 1 bosca cairtchláir FSC le hathchúrsáil, 6 bhuidéal plaisteacha trédhearcacha PET de 1.5 L le hathchúrsáil, 6 chaipín plaisteacha daite teimhneacha, 12 canna plaisteacha alúmanaim 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Conas a chuirtear luachanna na 15 tháscaire le chéile?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-Chun tuiscint níos fearr a fháil ar chóras PEF, is féidir leat léamh: míniú ar scór PEF ar shuíomh modheolaíochta an Éicea-Scóir\*\*
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## An mbaineann an ghné áitiúil le háit monaraíochta nó le háit thionscnaimh na n-amhábhar?
+## How are the values ​​of the 15 indicators combined?
 
-Baineann an ghné áitiúil le bunús na n-amhábhar. Sin é an fáth go bhfuil sé tábhachtach a gcéatadáin chomh maith lena mbunús a iontráil i liosta chomhábhair an táirge nó sa réimse atá tiomnaithe do bhunús na gcomhábhar.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Conas bunús na gcomhábhar a iontráil don scór éicea?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Más mian leat an fhaisnéis faoi bhunús na n-amhábhar ar do bhileoga a roinnt, tugaimid cuireadh duit iad a chur san áireamh i liosta na gcomhábhar.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
