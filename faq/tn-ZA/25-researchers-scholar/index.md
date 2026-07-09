@@ -1,21 +1,21 @@
 ---
-title: "{{< fa bogolo jwa sekhurumetso sa kalogo=2x >}} Babatlisisi/Moithuti"
-description: "1 setlhotshwana"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: kepisi ya kalogo
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: keriti
+  type: grid
   grid-columns: 4
-  sort: "taelo"
-  fields: [ leina, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "kepisi ya kalogo" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
