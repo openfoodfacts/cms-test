@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Producenci"
-description: "6 podkategorii"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: przemysł
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: siatka
+  type: grid
   grid-columns: 4
-  sort: "zamówienie"
-  fields: [ tytuł, opis ]
+  sort: "order"
+  fields: [ title, opis ]
   page-size: 100
 ---
 
-{{< fa "przemysł" size=3x >}}
+{{< fa "industry" size=3x >}}
 
