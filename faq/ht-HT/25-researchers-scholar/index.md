@@ -1,21 +1,21 @@
 ---
-title: "{{< gwosè bouchon gradyasyon fa=2x >}} Chèchè/Entelektyèl"
-description: "1 sou-kategori"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: chapo gradyasyon
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: griy
+  type: grid
   grid-columns: 4
-  sort: "lòd"
-  fields: [ tit, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "chapo gradyasyon" size="3 fwa" >}}
+{{< fa "graduation-cap" size=3x >}}
 
