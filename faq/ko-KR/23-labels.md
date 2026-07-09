@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} 레이블"
-description: "질문 2개"
-lang: 영어-영국
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: 서표
+icon: bookmark
 ---
 
-{{< fa "서표" size=3배 >}}
+{{< fa "bookmark" size=3x >}}
 
-## 레이블로서 계정을 만드는 것이 중요한가요?
+## As a label, is it important to create an account ?
 
-브랜드로서 직접 제품 생산자가 아니므로 생산자 계정을 만들 필요가 없습니다.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## 저는 레이블인데, 어떻게 프로젝트에 참여할 수 있나요?
+## I am a label, how can I participate in the project?
 
-라벨과 관련하여 가장 중요한 조치는 \*\*(producers@openfoodfacts.org)\*\*로 연락하여 해당 라벨이 부착된 제품 목록을 보내주시면 관련 제품 목록에 추가해 드리겠습니다.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
