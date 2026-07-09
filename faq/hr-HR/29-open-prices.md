@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dolar size=2x >}} Otvorene cijene"
-description: "3 pitanja"
-lang: hr-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ja sam trgovac i želim doprinijeti cijenama. Kako to mogu učiniti?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Cijenama možete doprinijeti korištenjem [našeg API-ja](https://prices.openfoodfacts.org/api/docs). Ako želite doprinijeti cijenama u većem obimu, kontaktirajte nas na [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
-
----
-
-## Razmišljate li o preuzimanju cijena s web stranica trgovaca?
-
-Iz pravnih i tehničkih razloga, ne smatramo preuzimanje cijena s web stranica trgovaca valjanim načinom doprinosa Open Pricesu. Želimo biti sigurni da su cijene koje prikupljamo točne i ažurne, a primanje pribavljenih cijena od suradnika nam to ne dopušta.
-
-Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Zašto Open Food Facts ovo radi (Open Prices)?
+## Do you consider scraping prices from retailers’ websites?
 
-Informacije o cijenama su od najveće važnosti za razumijevanje prehrambenih sustava. To je ključni faktor u razumijevanju cijene hrane i promicanju zdravije prehrane. Podaci o početnim cijenama način su da se istraživačima, novinarima i građanima olakša bolje razumijevanje geografskih i vremenskih promjena cijena hrane.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
+
+Skupljanje podataka o cijenama razmatrana je opcija u budućoj verziji Open Pricesa, ali bi to radio sam Open Prices kako bismo mogli imati dokaz o cijeni na temelju HTML stranice.
+
+---
+
+## Why is Open Food Facts doing this (Open Prices)?
+
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
