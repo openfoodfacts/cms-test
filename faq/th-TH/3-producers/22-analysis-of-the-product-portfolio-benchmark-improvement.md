@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} การวิเคราะห์กลุ่มผลิตภัณฑ์ (เกณฑ์มาตรฐาน การปรับปรุง...)"
-description: "1 คำถาม"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: แผนภูมิแท่ง
+icon: chart-bar
 ---
 
-{{< fa "แผนภูมิแท่ง" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## ฉันจะเข้าถึงคำแนะนำการปรับปรุงสูตรเพื่อเพิ่มคะแนนคุณค่าทางโภชนาการ (Nutri-Score) ของผลิตภัณฑ์ของฉันได้อย่างไร?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-เมื่อคุณอยู่ที่หน้าแรกของแพลตฟอร์มผู้ผลิต:
+When you are on the home page of the Producers Platform:
 
-1. คลิกที่ลิงก์ "→ จำนวนผลิตภัณฑ์ที่มีโอกาสในการปรับปรุง" ที่ด้านบนของหน้า
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. คุณสามารถตรวจสอบโอกาสทั้งหมดที่ระบบของเราตรวจพบเพื่อปรับปรุงผลิตภัณฑ์ของคุณได้
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. การคลิกเลือกประเภทของโอกาสจะนำคุณไปยังรายการผลิตภัณฑ์ที่สามารถปรับปรุงได้
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ สำหรับรายละเอียดเพิ่มเติม เราขอเชิญคุณดาวน์โหลด [คู่มือผู้ใช้](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) และ/หรือดู [วิดีโอสอนการใช้งาน](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
