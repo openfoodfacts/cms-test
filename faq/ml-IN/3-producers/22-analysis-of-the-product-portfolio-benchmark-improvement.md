@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} ഉൽപ്പന്ന പോർട്ട്‌ഫോളിയോയുടെ വിശകലനം (ബെഞ്ച്മാർക്ക്, മെച്ചപ്പെടുത്തൽ...)"
-description: "1 ചോദ്യം"
-lang: en-gb (ഇംഗ്ലീഷ്)
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: ചാർട്ട്-ബാർ
+icon: chart-bar
 ---
 
-{{< fa "ചാർട്ട്-ബാർ" size="3x (3x)" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## എന്റെ ഉൽപ്പന്നങ്ങളുടെ ന്യൂട്രി-സ്കോർ മെച്ചപ്പെടുത്തുന്നതിനുള്ള പരിഷ്കരണ ശുപാർശ എങ്ങനെ ആക്‌സസ് ചെയ്യാം?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-നിങ്ങൾ പ്രൊഡ്യൂസേഴ്‌സ് പ്ലാറ്റ്‌ഫോമിന്റെ ഹോം പേജിൽ ആയിരിക്കുമ്പോൾ:
+When you are on the home page of the Producers Platform:
 
-1. പേജിന്റെ മുകളിലുള്ള "→ മെച്ചപ്പെടുത്തൽ അവസരങ്ങളുള്ള ഉൽപ്പന്നങ്ങളുടെ എണ്ണം" എന്ന ലിങ്കിൽ ക്ലിക്കുചെയ്യുക.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. നിങ്ങളുടെ ഉൽപ്പന്നങ്ങൾ മെച്ചപ്പെടുത്തുന്നതിന് ഞങ്ങളുടെ സിസ്റ്റം കണ്ടെത്തിയ എല്ലാ അവസരങ്ങളും നിങ്ങൾക്ക് പരിശോധിക്കാവുന്നതാണ്.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ഒരു തരത്തിലുള്ള അവസരത്തിൽ ക്ലിക്ക് ചെയ്യുന്നത് നിങ്ങളെ മെച്ചപ്പെടുത്തേണ്ട ഉൽപ്പന്നങ്ങളുടെ പട്ടികയിലേക്ക് നയിക്കും.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ [ഉപയോക്തൃ ഗൈഡ്](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ഡൗൺലോഡ് ചെയ്യാനും/അല്ലെങ്കിൽ ഞങ്ങളുടെ [വീഡിയോ ട്യൂട്ടോറിയലുകൾ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) പരിശോധിക്കാനും ഞങ്ങൾ നിങ്ങളെ ക്ഷണിക്കുന്നു :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
