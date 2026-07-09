@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} ಉತ್ಪನ್ನದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳು"
-description: "1 ಪ್ರಶ್ನೆ"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ
+icon: shopping-basket
 ---
 
-{{< fa "ಶಾಪಿಂಗ್ ಬುಟ್ಟಿ" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## ನನಗೆ ಒಂದು ಉತ್ಪನ್ನದ ಬಗ್ಗೆ ಒಂದು ಪ್ರಶ್ನೆ / ಹಕ್ಕು ಇದೆ.
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) ಎಂಬುದು ಗ್ರಾಹಕರು ರಚಿಸಿದ ಮತ್ತು ಪೋಷಿಸುವ ಸಹಯೋಗಿ ಸೈಟ್ ಆಗಿದ್ದು, ಲೇಬಲ್‌ಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಮತ್ತು ಉತ್ಪನ್ನಗಳನ್ನು ಹೋಲಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-ಉತ್ಪನ್ನ ಅಥವಾ ಹಕ್ಕಿನ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ತಯಾರಕರಿಗೆ ಬರೆಯಿರಿ. ನಮ್ಮಲ್ಲಿ ತಯಾರಕರ ಸಂಪರ್ಕ ಮಾಹಿತಿ ಇಲ್ಲ ಆದರೆ ಅವು ಹೆಚ್ಚಾಗಿ ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿ ಇರುತ್ತವೆ.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-ನಿಮ್ಮಂತಹ ಅಥವಾ ನಮ್ಮಂತಹ ಗ್ರಾಹಕರಿಗೆ ಹೆಚ್ಚಿನ ಪಾರದರ್ಶಕತೆ ತರಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಲು ನೀವು ಬಯಸಿದರೆ, ನೀವು ಉತ್ಪನ್ನಗಳನ್ನು ಸೇರಿಸಲು ನಮ್ಮ iPhone ಅಥವಾ Android ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಬಳಸಬಹುದು: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-ಮತ್ತು ಯೋಜನೆಯ ಬಗ್ಗೆ ಚರ್ಚಿಸಲು, ನೀವು ಫೇಸ್‌ಬುಕ್ ಕೊಡುಗೆದಾರರ ಗುಂಪಿಗೆ ಸೇರಬಹುದು: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ಅಥವಾ ಸ್ಲಾಕ್‌ನಲ್ಲಿ ಇತರ ಕೊಡುಗೆದಾರರೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
