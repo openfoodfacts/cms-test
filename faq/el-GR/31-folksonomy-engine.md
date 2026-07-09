@@ -1,17 +1,17 @@
 ---
-title: "{{< μέγεθος βιβλίου fa=2x >}} Μηχανή Λαϊκής Οικονομίας"
-description: "1 ερώτηση"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: βιβλίο
+icon: book
 ---
 
-{{< fa "βιβλίο" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Τι είναι η Μηχανή Φολκσονομίας;
+## What is the Folksonomy Engine ?
 
-Το Folksonomy Engine είναι ένα σύστημα που επιτρέπει στους χρήστες να προσθέτουν προσαρμοσμένες ετικέτες ή ιδιότητες σε προϊόντα διατροφής στο Open Food Facts, τη μεγαλύτερη βάση δεδομένων ανοιχτών τροφίμων στον κόσμο. Αυτό επιτρέπει στους ανθρώπους να κατηγοριοποιούν και να περιγράφουν τα τρόφιμα με νέους τρόπους, πέρα από τις υπάρχουσες προκαθορισμένες ιδιότητες.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
