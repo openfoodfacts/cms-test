@@ -1,21 +1,21 @@
 ---
-title: "Chercheurs/Érudits"
+title: "{{< fa graduation-cap size=2x >}} Chercheurs/Universitaires"
 description: "1 sous-catégorie"
-lang: en-gb
+lang: fr-fr
 order: 25
 category-level: 0
-icon: chapeau de graduation
+icon: graduation-cap
 listing:
   contents:
-    - "*.Maryland"
+    - "*.md"
   include:
     category-level: 1
   type: grille
   grid-columns: 4
-  sort: "commande"
+  sort: "ordre"
   fields: [ titre, description ]
   page-size: 100
 ---
 
-{{< fa "chapeau de graduation" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
