@@ -1,49 +1,49 @@
 ---
-title: "אריזה"
-description: "3 שאלות"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: קוּבִּיָה
+icon: cube
 ---
 
-{{< fa "קוּבִּיָה" size="פי 3" >}}
+{{< fa "cube" size=3x >}}
 
-## כיצד אוכל להוסיף את נתוני האריזה שלי ל-Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-כיצרן, הדרך היעילה ביותר להוסיף נתוני אריזה למוצרים שלך היא על ידי מילוי [גיליון אקסל](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) המידע הדרוש, מהעמודה "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-עבור כל רכיב אריזה, תצטרכו להזין:
+For each packaging component, you will need to enter:
 
-- מספר היחידות (לדוגמה: **4** כוסות יוגורט)
+- The number of units (ex: **4** pots of yogurts)
 
-- הצורה (לדוגמה: **סיר, מכסה, קופסה וכו'**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- החומר (לדוגמה: **PET, נייר, זכוכית וכו'**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- הוראות המיחזור (לדוגמה: **למחזר, להשליך וכו'**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- משקל של יחידה ריקה אחת (בגרם)
+- The weight of one empty unit (in gr)
 
-- כמות המוצר נטו הכלולה ביחידה
+- The net quantity of product contained per unit
 
-לאחר מכן ניתן לייבא את הגיליון האלקטרוני הזה לפלטפורמה שלנו המיועדת לאנשי מקצוע.
-
----
-
-## מהו פרויקט "התמודדות עם אריזות מזון"?
-
-פרויקט "התמודדות עם אריזות מזון" מורכב מאיסוף מידע מפורט על אריזות המוצרים הנצרכים ביותר (צורה, חומר, הוראות מיון, משקל, קיבולת).
-
-בהתבסס על גישת מדע משתפת, היא תסתמך הן על חברות שיסכימו לשתף את נתוני האריזות שלהן ולשחק את משחק השקיפות, והן על אזרחים שיאפשרו איסוף מידע על מוצרים. מידע זה יהיה ניתן לשימוש חוזר חופשי ("נתונים פתוחים").
-
-**למידע נוסף:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## גם לאחר סיום פרויקט "התמודדות עם אריזות מזון", האם עדיין אוכל להוסיף את נתוני האריזה שלי?
+## What is the Tackling Food Packaging project?
 
-גם לאחר סיום הפרויקט, ניתן להוסיף נתוני אריזה מכיוון ששדות האריזה יישארו באתר האינטרנט שלנו.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
