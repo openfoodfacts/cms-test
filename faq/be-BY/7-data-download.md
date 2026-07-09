@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Загрузка дадзеных"
-description: "1 пытанне"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: загрузка з воблака
+icon: cloud-download
 ---
 
-{{< fa "загрузка з воблака" size="3 разы" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Дзе ўзяць дадзеныя па канкрэтнай краіне?
+## Where to get the data for a specific country?
 
-У цяперашні час экспарт, прысвечаны канкрэтным краінам, адсутнічае.
+Currently, there are no exports dedicated to specific countries.
 
-Існуе мноства спосабаў выкарыстання нашых розных экспартаў у спалучэнні з рознымі інструментамі для выбару дадзеных, якія адносяцца да пэўнай краіны.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Вы можаце азнаёміцца з [некаторымі з гэтых метадаў на нашай вікі] (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
