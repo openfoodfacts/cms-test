@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} 研究人員/學者"
-description: "1 子類別"
-lang: 英語-英國
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: 畢業帽
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: 網格
+  type: grid
   grid-columns: 4
-  sort: "命令"
-  fields: [ 標題, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "畢業帽" size=3倍 >}}
+{{< fa "graduation-cap" size=3x >}}
 
