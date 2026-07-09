@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Analisis portofolio produk (tolok ukur, perbaikan...)"
-description: "1 pitakonan"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: bilah grafik
+icon: chart-bar
 ---
 
-{{< fa "bilah grafik" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Kepriye carane ngakses rekomendasi reformulasi kanggo ningkatake Nutri-Score produkku?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Nalika sampeyan ana ing kaca ngarep Platform Produsen:
+When you are on the home page of the Producers Platform:
 
-1. klik pranala "→ Cacahing produk kanthi kesempatan perbaikan" ing sisih ndhuwur kaca.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. sampeyan bisa takon kabeh kesempatan sing dideteksi dening sistem kita kanggo ningkatake produk sampeyan
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ngeklik jinis kesempatan bakal nggawa sampeyan menyang dhaptar produk sing bisa ditingkatake.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
