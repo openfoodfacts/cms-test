@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user-plus size=2x >}} Ekologické skóre"
-description: "5 otázok"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
@@ -9,47 +9,47 @@ icon: user-plus
 
 {{< fa "user-plus" size=3x >}}
 
-## Čo je metodika Eco-Score?
+## What is the Eco-Score methodology?
 
-Eko-skóre je založené na výpočte analýzy životného cyklu, ktorú vypracovali ADEME (agentúra pre ekologickú transformáciu) a INRAE (národný inštitút pre agronomický výskum). Na vytvorenie skóre PEF sa vypočíta a prepojí približne pätnásť komponentov.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-K tomuto skóre PEF sa pripočítavajú bonusy a malusy (spôsob výroby, pôvod
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-zloženie, ohrozené druhy, obal) s cieľom vypočítať eko-skóre.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Viac informácií nájdete na súhrnnej stránke [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) na Open Food Facts, ako aj na webovej stránke konzorcia Eco-Score. (Prezentácia Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Aký typ informácií je potrebné poskytnúť, aby sa Eco-Score vypočítalo čo najpresnejšie?
-
-Pre presný výpočet Eco-Score je potrebné uviesť percentuálny podiel každej zložky a jej pôvod.
-
-Ak táto informácia ešte nie je uvedená v zozname zložiek, môžete pridať stĺpec, v ktorom ju uvediete, v nasledujúcom formáte:
-
-Pšeničná múka 16 % (Francúzsko)
-
-Čokoláda 8% (Pobrežie Slonoviny, Ekvádor)
-
-Potrebujeme tiež komponenty obalu vo forme: 1 plastovej fólie na vyhodenie, 1 kartónovej krabice FSC na recykláciu, 6 priehľadných plastových fliaš PET s objemom 1,5 l na recykláciu, 6 nepriehľadných farebných plastových uzáverov, 12 plastových plechoviek z hliníka s objemom 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ako sú kombinované hodnoty 15 ukazovateľov?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Pre lepšie pochopenie systému PEF si môžete prečítať: vysvetlenie skóre PEF na metodologickej stránke Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Týka sa lokálny aspekt miesta výroby alebo miesta pôvodu surovín?
+## How are the values ​​of the 15 indicators combined?
 
-**Lokálny aspekt sa týka pôvodu surovín.** Preto je dôležité uviesť ich percentuálne zastúpenie, ako aj ich pôvod v zozname zložiek produktu alebo v poli určenom pre pôvod zložiek.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Ako zadať pôvod zložiek pre eko-skóre?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Ak chcete uviesť informácie o pôvode surovín vo svojich hárkoch, uveďte ich v zozname zložiek.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
