@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Küsimused toote kohta"
-description: "1 küsimus"
-lang: et-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: ostukorv
+icon: shopping-basket
 ---
 
-{{< fa "ostukorv" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Mul on toote kohta küsimus/nõue
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) on tarbijate loodud ja hallatav koostöösait, mis võimaldab neil silte lahti mõtestada ja tooteid võrrelda.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Toote või nõude kohta lisateabe saamiseks kirjutage tootjale. Meil ei ole tootjate kontaktandmeid, aga need on enamasti pakendil kirjas.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Kui soovite aidata meil pakkuda suuremat läbipaistvust sellistele tarbijatele nagu teie või meie, saate toodete lisamiseks kasutada meie iPhone'i või Androidi rakendust: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Ja projekti arutamiseks võite liituda Facebooki kaastööliste grupiga: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) või vestelda teiste kaastöölistega Slackis:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
