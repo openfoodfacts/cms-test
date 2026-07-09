@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Pētnieki/zinātnieki"
-description: "1 apakškategorija"
-lang: lv-lv
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: izlaiduma cepure
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: režģis
+  type: grid
   grid-columns: 4
-  sort: "pasūtījums"
-  fields: [ nosaukums, apraksts ]
+  sort: "order"
+  fields: [ title, apraksts ]
   page-size: 100
 ---
 
-{{< fa "izlaiduma cepure" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
