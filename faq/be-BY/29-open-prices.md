@@ -1,31 +1,31 @@
 ---
-title: "{{< памер fa dollar=2x >}} Адкрытыя цэны"
-description: "3 пытанні"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: долар
+icon: dollar
 ---
 
-{{< fa "долар" size="3 разы" >}}
+{{< fa "dollar" size=3x >}}
 
-## Я рознічны прадавец і хачу ўнесці свой уклад у цэны. Як я магу гэта зрабіць?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Вы можаце ўнесці свой уклад у цэны, выкарыстоўваючы [наш API](https://prices.openfoodfacts.org/api/docs). Калі вы хочаце падзяліцца сваімі маштабнымі цэнамі, звяжыцеся з намі па адрасе [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ці разглядаеце вы магчымасць узяцця цэн з вэб-сайтаў рознічных гандляроў?
+## Do you consider scraping prices from retailers’ websites?
 
-Па юрыдычных і тэхнічных прычынах мы не лічым, што збор цэн з вэб-сайтаў рознічных прадаўцоў з'яўляецца сапраўдным спосабам унясення ўкладу ў Open Prices. Мы хочам пераканацца, што сабраныя намі цэны дакладныя і актуальныя, і атрыманне запазычаных цэн ад удзельнікаў не дазваляе нам гэтага рабіць.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 У будучай версіі Open Prices разглядаецца магчымасць збору дадзеных аб цане, але гэта будзе рабіць сам Open Prices, каб мы маглі атрымаць доказ цаны на аснове HTML-старонкі.
 
 ---
 
-## Чаму Open Food Facts робіць гэта (адкрытыя цэны)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Інфармацыя пра цэны мае першараднае значэнне для разумення харчовых сістэм. Гэта ключавы фактар у разуменні кошту прадуктаў харчавання і прасоўванні больш здаровага харчавання. Пачатковыя дадзеныя аб цэнах — гэта спосаб дапамагчы даследчыкам, журналістам і грамадзянам лепш зразумець, як цэны на прадукты харчавання змяняюцца ў залежнасці ад геаграфічнага становішча і часу.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
