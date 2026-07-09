@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Οικολογική Βαθμολογία"
-description: "5 ερωτήσεις"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: χρήστης-συν
+icon: user-plus
 ---
 
-{{< fa "χρήστης-συν" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Τι είναι η μεθοδολογία Eco-Score;
+## What is the Eco-Score methodology?
 
-Το Eco-Score βασίζεται στον υπολογισμό της ανάλυσης του κύκλου ζωής που παράγεται από τον ADEME (τον οργανισμό οικολογικής μετάβασης) και το INRAE (το εθνικό ινστιτούτο αγρονομικής έρευνας). Περίπου δεκαπέντε στοιχεία υπολογίζονται και συνδέονται για να δημιουργήσουν τη βαθμολογία PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Σε αυτήν τη βαθμολογία PEF προστίθενται μπόνους και ελαττώματα (τρόπος παραγωγής, προέλευση
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-συστατικά, απειλούμενα είδη, συσκευασίες) προκειμένου να υπολογιστεί το Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Για περισσότερες πληροφορίες, ανατρέξτε στη σελίδα περίληψης [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) στο Open Food Facts καθώς και στον ιστότοπο της κοινοπραξίας Eco-Score. (Παρουσίαση Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Τι είδους πληροφορίες πρέπει να παρέχονται για να υπολογιστεί το Eco-Score με την μεγαλύτερη δυνατή ακρίβεια;
-
-Για να υπολογιστεί με ακρίβεια το Eco-Score, πρέπει να προσδιοριστεί το ποσοστό κάθε συστατικού και η προέλευσή του.
-
-Εάν αυτές οι πληροφορίες δεν αναφέρονται ήδη στη λίστα συστατικών, μπορείτε να προσθέσετε μια στήλη για να τις αναφέρετε, με την ακόλουθη μορφή:
-
-Αλεύρι σίτου 16% (Γαλλία)
-
-Σοκολάτα 8% (Ακτή Ελεφαντοστού, Ισημερινός)
-
-Χρειαζόμαστε επίσης τα συστατικά της συσκευασίας με τη μορφή: 1 πλαστική μεμβράνη για απόρριψη, 1 χαρτόκουτο FSC για ανακύκλωση, 6 διαφανή πλαστικά μπουκάλια PET των 1,5 L για ανακύκλωση, 6 αδιαφανή πλαστικά καπάκια χρώματος, 12 πλαστικά δοχεία αλουμινίου των 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Πώς συνδυάζονται οι τιμές των 15 δεικτών;
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Για να κατανοήσετε καλύτερα το σύστημα PEF, μπορείτε να διαβάσετε: επεξήγηση της βαθμολογίας PEF στον ιστότοπο μεθοδολογίας Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Η τοπική πτυχή αφορά τον τόπο κατασκευής ή τον τόπο προέλευσης των πρώτων υλών;
+## How are the values ​​of the 15 indicators combined?
 
-**Η τοπική πτυχή αφορά την προέλευση των πρώτων υλών.** Γι' αυτόν τον λόγο είναι σημαντικό να καταχωρείτε τα ποσοστά τους καθώς και την προέλευσή τους στη λίστα συστατικών του προϊόντος ή στο πεδίο που είναι αφιερωμένο στην προέλευση των συστατικών.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Πώς να εισαγάγω την προέλευση των συστατικών για την οικολογική βαθμολογία;
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Εάν επιθυμείτε να μοιραστείτε τις πληροφορίες σχετικά με την προέλευση των πρώτων υλών στα φύλλα σας, σας προσκαλούμε να τις συμπεριλάβετε στη λίστα συστατικών.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
