@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} จัดการบัญชีของฉัน"
-description: "3 คำถาม"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: ผู้ใช้
 
 {{< fa "ผู้ใช้" size=3x >}}
 
-## สามารถเชื่อมโยงบัญชี Open Food Facts หลายบัญชีเข้ากับบริษัทเดียวได้หรือไม่?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-ใช่ค่ะ กรุณาส่งอีเมลไปที่ [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) เพื่อที่เราจะได้เชื่อมโยงบัญชีทั้งหมดเข้ากับบริษัทเดียวกันค่ะ
-
----
-
-## ฉันจะเปลี่ยนบัญชี Open Food Facts ของฉันให้เป็นบัญชี Pro ได้อย่างไร?
-
-คุณสามารถเข้าถึง [แพลตฟอร์ม Pro](https://world.pro.openfoodfacts.org/) ได้โดยใช้ข้อมูลประจำตัวของบัญชีที่มีอยู่ของคุณ
-
-หากคุณเป็นผู้ประกอบวิชาชีพ คุณจะต้องใช้อีเมลสำหรับทำงานเพื่อให้เราสามารถตรวจสอบบัญชีของคุณได้
-
-→ สำหรับรายละเอียดเพิ่มเติม เราขอเชิญคุณดาวน์โหลด [คู่มือผู้ใช้](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) และ/หรือดู [วิดีโอสอนการใช้งาน](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## ฉันจะหาเอกสารที่จะช่วยฉันใช้งานแพลตฟอร์ม Pro ได้จากที่ไหน?
+## How to convert my Open Food Facts account into a Pro account?
 
-มีแหล่งข้อมูลบางส่วนที่จะช่วยให้คุณใช้แพลตฟอร์ม Pro ได้อย่างเต็มประสิทธิภาพ
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-คุณสามารถเข้าชมได้ที่:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- โปรดตรวจสอบ [คู่มือผู้ใช้](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ของเรา - เราขอเชิญคุณดาวน์โหลดไฟล์ PDF เพื่อให้สามารถคลิกลิงก์ได้ ซึ่งจะช่วยให้คุณใช้งานเอกสารได้ง่ายขึ้น
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- โปรดดู [วิดีโอสอนการใช้งาน](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ของเรา
+---
 
-- ส่งคำติชมหรือข้อเสนอแนะผ่าน [แบบฟอร์มนี้](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- หากคุณมีคำถามเพิ่มเติม โปรดนัดหมายการสนทนากับมานอน ผู้จัดการฝ่ายพันธมิตรของเราได้ที่นี่: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- ติดต่อเราได้ทางอีเมล: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
