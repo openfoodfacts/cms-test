@@ -1,31 +1,31 @@
 ---
-title: "Prisiau Agored {{< maint y ddoler fa=2x >}}"
-description: "3 cwestiwn"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: doler
+icon: dollar
 ---
 
-{{< fa "doler" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Rwy'n fanwerthwr ac rwyf am gyfrannu at brisiau. Sut alla i wneud hynny?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Gallwch gyfrannu prisiau drwy ddefnyddio [ein API](https://prices.openfoodfacts.org/api/docs). Os ydych chi eisiau cyfrannu prisiau ar raddfa fawr, cysylltwch â ni yn [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ydych chi'n ystyried crafu prisiau o wefannau manwerthwyr?
+## Do you consider scraping prices from retailers’ websites?
 
-Am resymau cyfreithiol a thechnegol, nid ydym yn ystyried bod crafu prisiau o wefannau manwerthwyr yn ffordd ddilys o gyfrannu at Brisiau Agored. Rydym am sicrhau bod y prisiau a gasglwn yn gywir ac yn gyfredol, ac nid yw derbyn prisiau wedi'u crafu gan gyfranwyr yn caniatáu inni wneud hynny.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Mae crafu prisiau yn opsiwn a ystyrir mewn fersiwn yn y dyfodol o Open Prices, ond byddai'n cael ei wneud gan Open Prices ei hun fel y gallwn gael prawf o'r pris yn seiliedig ar y dudalen HTML.
 
 ---
 
-## Pam mae Ffeithiau Bwyd Agored yn gwneud hyn (Prisiau Agored)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Mae gwybodaeth am brisiau o'r pwys mwyaf i ddeall systemau bwyd. Mae'n ffactor allweddol wrth ddeall cost bwyd ac i hyrwyddo dietau iachach. Mae agor data prisiau yn ffordd o'i gwneud hi'n haws i ymchwilwyr, newyddiadurwyr a dinasyddion gael gwell dealltwriaeth o sut mae prisiau bwyd yn amrywio'n ddaearyddol ac mewn amser.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
