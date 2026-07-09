@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Datanedlasting"
-description: "1 spørsmål"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: nedlasting i skyen
+icon: cloud-download
 ---
 
-{{< fa "nedlasting i skyen" size="3 ganger" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Hvor finner man data for et bestemt land?
+## Where to get the data for a specific country?
 
-For øyeblikket er det ingen eksport dedikert til spesifikke land.
+Currently, there are no exports dedicated to specific countries.
 
-Det finnes mange måter å bruke våre ulike eksporter kombinert med ulike verktøy for å velge data relatert til et bestemt land.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Du kan ta en titt på [noen av disse teknikkene på wikien vår](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
