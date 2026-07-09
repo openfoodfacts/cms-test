@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Amaphrojekthi esikole"
-description: "Imibuzo emi-2"
-lang: i-en-gb
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: ifayela-o
+icon: file-o
 ---
 
-{{< fa "ifayela-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Nginomsebenzi wesikole okufanele ngiwenze, ngifuna ukusebenzisa idatha ye-Open Food Facts, ngingakwenza lokho?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-I-Open Food Facts, iyisizindalwazi esivulekile, iphrojekthi evulekile esebenza ngaphansi kwelayisensi ye-ODbL, ngakho-ke uma nje uvumelana nezimfuneko zelayisensi ye-ODbL, wamukelekile ukusebenzisa kabusha idatha yethu kumaphrojekthi akho :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Ngingayithola/ngiyiqoqa kanjani idatha yamaphrojekthi ami?
+## How can I access/collect data for my projects ?
 
-Ekhasini eliyinhloko le-Open Food Facts, ekhoneni eliphezulu kwesobunxele kwesikrini, kukhona imenyu yokuskrola. Ngaphansi kwayo, uzothola inketho ethi “ukusesha okuthuthukisiwe”, ongachofoza kuyo. Kukuwe-ke ukuthi unqume ukuthi yiziphi izindlela ezifanele kakhulu kuphrojekthi yakho. Uma usukhethiwe, uzokwazi ukulanda imiphumela etholakele ngokuskrola phansi phansi kwekhasi bese uchofoza ku-“Landa imiphumela”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
