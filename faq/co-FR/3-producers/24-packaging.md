@@ -1,49 +1,49 @@
 ---
-title: "{{< taglia di u cubu fa=2x >}} Imballaggio"
-description: "3 dumande"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: cubu
+icon: cube
 ---
 
-{{< fa "cubu" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Cumu possu aghjunghje i dati di u mo imballaggio à Open Food Facts ?
+## How can I add my packaging data to Open Food Facts?
 
-Cum'è pruduttore, u modu u più efficace per aghjunghje dati d'imballaggio à i vostri prudutti hè di cumpilà in questu [fogliu di calculu excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) l'infurmazioni necessarie, da a colonna "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Per ogni cumpunente di imballaggio, duverete inserisce:
+For each packaging component, you will need to enter:
 
-- U numeru d'unità (es: **4** vasetti di yogurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- A forma (es: **pignatta, coperchio, scatula, ecc.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- U materiale (es: **PET, carta, vetru, ecc.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- L'istruzzioni di riciclaggio (per esempiu: **riciclà, scartà, ecc.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- U pesu di una unità viota (in gr)
+- The weight of one empty unit (in gr)
 
-- A quantità netta di pruduttu cuntenutu per unità
+- The net quantity of product contained per unit
 
-Questa foglia di calculu pò esse tandu impurtata in a nostra piattaforma dedicata à i prufessiunali.
-
----
-
-## Chì ghjè u prughjettu Tackling Food Packaging ?
-
-U prugettu "Tackling Food Packaging" cunsiste à raccoglie informazioni dettagliate nantu à l'imballaggio di i prudutti i più cunsumati (forma, materiale, istruzzioni di classificazione, pesu, capacità).
-
-Basatu annantu à un approcciu scientificu participativu, si baserà sia nantu à l'imprese chì accettanu di sparte i so dati d'imballaggio è di ghjucà u ghjocu di a trasparenza, sia nantu à i citadini chì permettenu a raccolta d'infurmazioni nantu à i prudutti. Questa infurmazione serà riutilizzabile liberamente ("dati aperti").
-
-**Per più infurmazione:** [[https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)\*\*
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ancu dopu à a fine di u prugettu Tackling Food Packaging, possu ancu aghjunghje i mo dati d'imballaggio?
+## What is the Tackling Food Packaging project?
 
-Ancu dopu à a fine di u prugettu, hè pussibule aghjunghje dati d'imballu postu chì i campi d'imballu resteranu nantu à u nostru situ web.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
