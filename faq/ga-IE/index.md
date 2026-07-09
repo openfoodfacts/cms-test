@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Ceisteanna Coitianta - Béarla"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: eangach
+  type: grid
   grid-columns: 4
-  sort: "ordú"
-  fields: [ teideal, tuairisc ]
+  sort: "order"
+  fields: [ title, tuairisc ]
   page-size: 100
 
 # << DO NOT TRANSLATE
