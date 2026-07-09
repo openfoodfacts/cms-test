@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Jatedenw ko la"
-description: "3 ɲininkaliw"
-lang: bamanankan-gb
-order: 19. Ɲɛjirali dɔw
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
+lang: en-gb
+order: 19
 category-level: 1
-icon: chart-line (jatebɔ-yɔrɔ).
+icon: chart-line
 ---
 
-{{< fa "chart-line (jatebɔ-yɔrɔ)." size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Jɔn de ka baara ye ka sennasanbara ni/walima jatebɔ kɛ?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score, NOVA kulu ani Eco-Score jate bɛ kɛ ka da kunnafoniw kan minnu bɛ Open Food Facts kɔnɔ. An ka algorisimuw bɛ tugu o jatebla ninnu ka fɛɛrɛ ofisiyaliw kɔ kosɛbɛ.
-
----
-
-## Danfara jumɛn bɛ Eco-Score, Nutri-Score ani NOVA kulu cɛ?
-
-O taamasiyɛn ninnu kun ye ka kunnafoniw di min faamuyali ka nɔgɔn feerekɛla ma.
-
-[NOVA kulu](https://fr.openfoodfacts.org/nova) bɛ kuma fɛn dilannen jiginni kan, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) n’a nɔfɛkow bɛ sigida lamini na ani [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) ni balofɛnw ye, k’a dɔn ko ni fɛn dilannen dɔ ka jate bɛ surunya A la ka caya, a bɛ kɛ jogoɲumanya ye ka caya.
-
-Jatebla 3 ninnu tɛ kuma fɛn kelenw kan. O la, a tɛ se ka kɛ k’u suma ɲɔgɔn na.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Yala a bɛ se ka kɛ ka n ka fɛn dilannenw ka Eco-Score walima Nutri-Score simulate wa?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Ni i y’i tɔgɔ sɛbɛn fɛn dilannikɛlaw ka yɔrɔ la ani k’i ka fɛn dilannenw kunnafoniw bila, i bɛ se ka Nutri-Score ni Eco-Score jatebɔ minnu bɛ tali kɛ i ka fɛn dilannenw na.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Nka, i ka kan k’a bɔ yen ni simulatigɛ kɛra walasa a kana taa forobaciyɛn na ni fɛnw ye minnu bɛ feere kaban i ka sɛnɛfɛnw na.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
