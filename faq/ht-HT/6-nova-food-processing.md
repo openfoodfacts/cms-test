@@ -1,15 +1,15 @@
 ---
-title: "{{< gwosè flakon fa=2x >}} NOVA / Pwosesis manje"
-description: "1 kesyon"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: flakon
+icon: flask
 ---
 
-{{< fa "flakon" size="3 fwa" >}}
+{{< fa "flask" size=3x >}}
 
-## Kisa NOVA ye?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
