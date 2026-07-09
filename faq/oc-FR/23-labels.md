@@ -1,23 +1,23 @@
 ---
-title: "{{< talha del marcapagina fa=2x >}} Etiquetas"
+title: "{{< fa bookmark size=2x >}} Labels"
 description: "2 questions"
-lang: es-gb
+lang: en-gb
 order: 23
 category-level: 0
-icon: marcapagina
+icon: bookmark
 ---
 
-{{< fa "marcapagina" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Coma etiqueta, es important de crear un compte ?
+## As a label, is it important to create an account ?
 
-Coma etiqueta, coma sètz pas lo productor dirècte dels produches, avètz pas besonh de crear un compte de productor.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Soi un labèl, cossí pòdi participar al projècte?
+## I am a label, how can I participate in the project?
 
-Coma etiqueta la causa mai pertinenta de far es de nos contactar **(producers@openfoodfacts.org)** e de nos mandar la lista dels produches que vòstra etiqueta es afichada per que los poscam apondre suls fuèlhs de produchs ligats.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
