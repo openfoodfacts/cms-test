@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "မကြာခဏမေးလေ့ရှိသောမေးခွန်းများ - အင်္ဂလိပ်"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,11 +10,11 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: ဇယားကွက်
+  type: grid
   grid-columns: 4
-  sort: "မှာယူမှု"
-  fields: [ ခေါင်းစဉ်, description ]
-  page-size: ၁၀၀
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
