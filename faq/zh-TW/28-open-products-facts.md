@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} 公開產品資訊"
-description: "3個問題"
-lang: 英語-英國
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
+lang: en-gb
 order: 28
 category-level: 0
-icon: 鑰匙
+icon: key
 ---
 
-{{< fa "鑰匙" size=3倍 >}}
+{{< fa "key" size=3x >}}
 
-## 如何在 iPhone 上存取 Open Products Facts？
+## How to access Open Products Facts on iPhone ?
 
-Open Products Facts 可在 Open Food Facts 主應用程式中使用。 這項整合使 iPhone 用戶能夠透過一個便捷的應用程式存取這兩個資料庫。
-
----
-
-## 我願意支持開放產品事實組織（Open Products Facts）。 我能做些什麼 ？
-
-請閱讀我們的維基頁面，其中列出了參與方式：[https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-為了支持開放產品事實（Open Products Facts），您可以考慮以下選項，每個選項都針對不同類型的貢獻：
-
--
-
-**開放產品事實的慈善/國家贊助商**：
-慈善捐款對於實現涵蓋 20000 多個類別的綜合循環數據平台、產品評分和循環解決方案聚合的願景至關重要，這是開放產品事實的一個關鍵目標。 這個願景的許多重要組成部分尚未獲得資金支持，您的資金支持可以產生重大影響。 您的捐款可以幫助資助關鍵發展項目和基礎設施建設。 如需捐款，請聯絡 contact@openfoodfacts.org
-
--
-
-**使用 Open Products Facts 應用程式的資料貢獻者**：
-資料貢獻對於擴大 Open Products Facts 的規模至關重要。 透過使用 Android 應用程式新增新的產品資訊、更新現有條目或驗證數據，您可以協助擴展和完善資料庫。 這種集體努力有助於為所有人建立一個強大而可靠的資源。
-
--
-
-**開放產品事實的技術貢獻者**：
-如果您在程式設計、資料分析或使用者體驗設計等領域擁有技術技能，您的專業知識將對開放產品事實大有裨益。 參與應用程式的開發、改進其功能或增強使用者介面都是寶貴的貢獻。 要參與其中，請加入 #openproductsfacts Slack 頻道，Open Products Facts 社群成員會在那裡進行協作。 您可以在 Open Food Facts 網站上找到此 Slack 工作區的連結。
-
-每一種貢獻對於 Open Products Facts 的發展和成功至關重要，有助於為所有人創建一個更永續、更豐富的平台。
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## 我可以在哪裡找到 Open Products Facts API？
+## I would like to support Open Products Facts. What can I do ?
 
-Open Products Facts API 與 Open Food Facts API 有 98% 的相似度，因此，如果您使用 Open Food Facts API 文件，您應該可以對 Open Products Facts API 有一個相當清晰的了解。 我們還編寫了專門的教程，指導您如何在應用程式中實現通用掃描。
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
