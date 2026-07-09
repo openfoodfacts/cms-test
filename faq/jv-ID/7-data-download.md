@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Unduhan data"
-description: "1 pitakonan"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: unduhan maya
+icon: cloud-download
 ---
 
-{{< fa "unduhan maya" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Endi panggonane kanggo njupuk data kanggo negara tartamtu?
+## Where to get the data for a specific country?
 
-Saiki, ora ana ekspor sing dikhususake kanggo negara tartamtu.
+Currently, there are no exports dedicated to specific countries.
 
-Ana akeh cara kanggo nggunakake macem-macem ekspor sing digabungake karo macem-macem alat kanggo milih data sing ana gandhengane karo negara tartamtu.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Sampeyan bisa ndeleng [sawetara teknik iki ing wiki kita](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
