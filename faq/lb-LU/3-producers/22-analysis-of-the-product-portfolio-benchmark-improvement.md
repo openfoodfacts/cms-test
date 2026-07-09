@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Analyse vum Produktportfolio (Benchmark, Verbesserung...)"
-description: "1 Fro"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: Grafikbalk
+icon: chart-bar
 ---
 
-{{< fa "Grafikbalk" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Wéi kréien ech Zougang zu der Reformuléierungsempfehlung fir den Nutri-Score vu menge Produkter ze verbesseren?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Wann Dir op der Homepage vun der Produzenteplattform sidd:
+When you are on the home page of the Producers Platform:
 
-1. klickt op de Link "→ Zuel vun de Produkter mat Verbesserungsméiglechkeeten" uewen op der Säit.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Dir kënnt all Méiglechkeeten, déi vun eisem System entdeckt goufen, fir Är Produkter ze verbesseren, consultéieren
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Wann Dir op eng Zort Méiglechkeet klickt, gitt Dir op d'Lëscht vun de Produkter gefouert, déi Verbesserunge kënnen ënnerleien.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Fir méi Detailer invitéiere mir Iech, eis [Benotzerhandbuch](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) erofzelueden an/oder eis [Video-Tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ze consultéieren :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
