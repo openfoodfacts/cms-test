@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "తరచుగా అడిగే ప్రశ్నలు - తెలుగు"
-lang: "en-gb తెలుగు in లో"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.ఎండీ"
-    - "*/సూచిక.md"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: గ్రిడ్
+  type: grid
   grid-columns: 4
-  sort: "ఆర్డర్"
-  fields: [ శీర్షిక, వివరణ ]
-  page-size: 100 లు
+  sort: "order"
+  fields: [ title, వివరణ ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
