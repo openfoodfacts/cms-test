@@ -1,21 +1,21 @@
 ---
-title: "ผู้ผลิต {{< fa industry size=2x >}}"
-description: "6 หมวดหมู่ย่อย"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: อุตสาหกรรม
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ตาราง
+  type: grid
   grid-columns: 4
-  sort: "คำสั่ง"
-  fields: [ ชื่อ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "อุตสาหกรรม" size=3x >}}
+{{< fa "industry" size=3x >}}
 
