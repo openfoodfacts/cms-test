@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Apie atvirus faktus apie maistą"
-description: "4 klausimai"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: informacijos ratas
+icon: info-circle
 ---
 
-{{< fa "informacijos ratas" size="3 kartus" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Kokio tipo informacija turėtų būti bendrinama?
+## What type of information should be shared?
 
-Laukiama bet kokia informacija, pradedant maistine informacija ir baigiant informacija apie pakuotę.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Tai leidžia sukurti išsamų rinkinį, tiksliai apskaičiuoti visus balus ir apskritai užtikrinti skaidrumą, kurį vertina vartotojai.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Vis dėlto rekomenduojame teikti pirmenybę šiems laukams:
+However we do recommend you prioritize the following fields:
 
-- Mitybos informacija
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Produkto kategorija (pvz., gėrimai, sūris, jogurtas ir kt.)
-
-- Produkto pavadinimas
-
-- Alergenai
-
-- ir ingredientų, šis laukas nėra privalomas, bet rekomenduojamas optimaliam naudojimui ir balų nustatymui
-
-→ Norėdami gauti daugiau informacijos, kviečiame atsisiųsti mūsų [naudotojo vadovą](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ir (arba) peržiūrėti mūsų [vaizdo pamokas](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ar galiu atsisiųsti atvirus maisto faktų duomenis?
+## Can I download Open Food Facts data?
 
-Visus „Open Food Facts“ svetainėje esančius duomenis galite atsisiųsti. Būkite atsargūs, tam reikia daug vietos diske, galingo kompiuterio, jei norite naudoti skaičiuoklę, arba R ar Python žinių.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Taip pat galite atsisiųsti duomenų pogrupį (pavyzdžiui, savo prekės ženklą) naudodami išplėstinę paiešką.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Norėdami gauti daugiau informacijos, kviečiame atsisiųsti mūsų [naudotojo vadovą](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ir (arba) peržiūrėti mūsų [vaizdo pamokas](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ar prieiga prie „Pro“ platformos ir duomenų importavimas yra nemokamas?
-
-Be abejo, ir tai bus amžinai.Visos „Open Food Facts“ teikiamos paslaugos yra nemokamos.  
-Džiaugiamės, kad nusprendėte prisidėti prie maisto skaidrumo didinimo savo produktų duomenimis ir dėkojame jums už tai.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Norėčiau pasiūlyti patobulinimų profesionaliai platformai. Kaip tai padaryti?
+## Is access to the Pro platform and the import of data free?
 
-Dėkojame už Jūsų norą prisidėti prie maisto skaidrumo iniciatyvos!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Geriausias būdas pateikti atsiliepimą yra užpildyti [šią formą](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Taip pat galite susisiekti su mumis ir pateikti pasiūlymų per [mūsų forumą](https://forum.openfoodfacts.org/) arba per [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Prisijunkite prie mūsų „Slack“ ir kanale #producers, kad galėtumėte su mumis susisiekti.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
