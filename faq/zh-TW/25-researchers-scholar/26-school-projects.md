@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} 學校項目"
-description: "2 個問題"
-lang: 英語-英國
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: 文件-o
+icon: file-o
 ---
 
-{{< fa "文件-o" size=3倍 >}}
+{{< fa "file-o" size=3x >}}
 
-## 我有一個學校專案要做，我想使用 Open Food Facts 的數據，可以嗎？
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts 是一個開放資料庫，一個開放項目，它採用 ODbL 許可協議運行。因此，只要您同意 ODbL 授權協議的要求，歡迎您在您的專案中重複使用我們的資料 :)。
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## 我如何取得/收集項目所需的資料？
+## How can I access/collect data for my projects ?
 
-在 Open Food Facts 的主頁上，螢幕左上角有一個滾動選單。 在頁面底部，你會找到「進階搜尋」選項，點擊即可。 接下來，您需要自行確定哪些標準與您的專案最相關。 選擇完成後，您可以透過向下捲動到頁面底部並點擊「下載結果」來下載所獲得的結果。
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
