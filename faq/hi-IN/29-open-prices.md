@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} शुरुआती कीमतें"
-description: "3 प्रश्न"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: डॉलर
+icon: dollar
 ---
 
-{{< fa "डॉलर" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## मैं एक खुदरा विक्रेता हूं और मैं कीमतों में योगदान देना चाहता हूं। मेरे द्वारा ऐसा कैसे किया जा सकता है?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-आप [हमारे एपीआई](https://prices.openfoodfacts.org/api/docs) का उपयोग करके कीमतों का योगदान कर सकते हैं। यदि आप बड़े पैमाने पर कीमतों में योगदान देना चाहते हैं, तो कृपया [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) पर हमसे संपर्क करें।
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## क्या आप खुदरा विक्रेताओं की वेबसाइटों से कीमतों की गणना करने पर विचार कर रहे हैं?
+## Do you consider scraping prices from retailers’ websites?
 
-कानूनी और तकनीकी कारणों से, हम खुदरा विक्रेताओं की वेबसाइटों से कीमतों को स्क्रैप करने को ओपन प्राइस में योगदान देने का एक वैध तरीका नहीं मानते हैं। हम यह सुनिश्चित करना चाहते हैं कि हमारे द्वारा एकत्र की गई कीमतें सटीक और अद्यतन हों, और योगदानकर्ताओं से प्राप्त की गई कीमतों से हम ऐसा नहीं कर पाते हैं।
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 ओपन प्राइस के भावी संस्करण में मूल्य स्क्रैपिंग एक विचारणीय विकल्प है, लेकिन यह ओपन प्राइस द्वारा ही किया जाएगा, ताकि हमें HTML पृष्ठ के आधार पर मूल्य का प्रमाण मिल सके।
 
 ---
 
-## ओपन फूड फैक्ट्स ऐसा क्यों कर रहा है (खुली कीमतें)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-खाद्य प्रणालियों को समझने के लिए मूल्य संबंधी जानकारी अत्यंत महत्वपूर्ण है। यह भोजन की लागत को समझने और स्वस्थ आहार को बढ़ावा देने में एक महत्वपूर्ण कारक है। शुरुआती कीमतों के आंकड़े शोधकर्ताओं, पत्रकारों और नागरिकों के लिए यह समझना आसान बनाने का एक तरीका है कि खाद्य पदार्थों की कीमतें भौगोलिक रूप से और समय के साथ कैसे बदलती हैं।
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
