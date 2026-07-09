@@ -1,31 +1,31 @@
 ---
-title: "Нархҳои кушода {{< fa dollar size=2x >}}"
-description: "3 савол"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: доллар
+icon: dollar
 ---
 
-{{< fa "доллар" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ман фурӯшанда ҳастам ва мехоҳам нархҳоро пешниҳод кунам. Чӣ тавр ман инро карда метавонам?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Шумо метавонед нархҳоро бо истифода аз [API-и мо](https://prices.openfoodfacts.org/api/docs) пешниҳод кунед. Агар шумо хоҳед, ки нархҳоро дар миқёси васеъ пешниҳод кунед, лутфан бо мо тавассути [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) тамос гиред.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Оё шумо дар бораи гирифтани нархҳо аз вебсайтҳои фурӯшандагон фикр мекунед?
+## Do you consider scraping prices from retailers’ websites?
 
-Бо сабабҳои ҳуқуқӣ ва техникӣ, мо гирифтани нархҳоро аз вебсайтҳои фурӯшандагон ҳамчун роҳи дурусти саҳмгузорӣ дар нархҳои кушода баррасӣ намекунем. Мо мехоҳем боварӣ ҳосил кунем, ки нархҳое, ки мо ҷамъ мекунем, дақиқ ва муосир мебошанд ва гирифтани нархҳои нодуруст аз саҳмгузорон ба мо имкон намедиҳад, ки ин корро кунем.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Чаро Open Food Facts ин корро мекунад (нархҳои кушода)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Маълумот дар бораи нархҳо барои фаҳмидани системаҳои хӯрокворӣ аҳамияти аввалиндараҷа дорад. Ин омили калидӣ дар фаҳмидани арзиши хӯрокворӣ ва таблиғи парҳезҳои солим мебошад. Маълумот дар бораи нархҳои ибтидоӣ роҳест барои осонтар кардани фаҳмиши беҳтари муҳаққиқон, рӯзноманигорон ва шаҳрвандон дар бораи он, ки чӣ гуна нархи маҳсулоти хӯрокворӣ аз ҷиҳати ҷуғрофӣ ва дар тӯли замон тағйир меёбад.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
