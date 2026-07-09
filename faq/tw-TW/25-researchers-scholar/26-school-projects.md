@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Sukuu nnwuma"
-description: "2 nsɛmmisa"
-lang: tw-gb
-order: 26. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
+order: 26
 category-level: 1
-icon: fael-o
+icon: file-o
 ---
 
-{{< fa "fael-o" size="3x na ɛyɛ" >}}
+{{< fa "file-o" size=3x >}}
 
-## Mewɔ sukuu adwuma bi a ɛsɛ sɛ meyɛ, mepɛ sɛ mede Open Food Facts’ data di dwuma, metumi ayɛ saa?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, yɛ database a wɔabue, adwuma a ɛbue a ɛreyɛ adwuma wɔ ODbL tumi krataa ase, enti bere tenten a wopene ODbL tumi krataa no ahwehwɛde so no, wowɔ akwaaba sɛ wobɛsan de yɛn data no adi dwuma ama wo nnwuma :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Mɛyɛ dɛn atumi anya/aboaboa data ano ama me nnwuma ?
+## How can I access/collect data for my projects ?
 
-Wɔ Open Food Facts kratafa titiriw no so, wɔ screen no atifi benkum so no, menu bi a ɛkɔ so wɔ hɔ. Wɔ n’ase no, wubehu “advanced search” a wubetumi akliki so. Afei ɛyɛ wo na wobɛkyerɛ gyinapɛn ahorow a ɛfa wo dwumadi (adwuma) no ho kɛse. Sɛ wopaw wie a, wubetumi atwe nea woanya no denam kratafa no ase a wobɛkɔ fam na woakliki “Download results” so.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
