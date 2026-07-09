@@ -1,49 +1,49 @@
 ---
-title: "{{< laki ng kubo ng fa=2x >}} Pagbabalot"
-description: "3 tanong"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kubo
+icon: cube
 ---
 
-{{< fa "kubo" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Paano ko maidaragdag ang datos ng aking packaging sa Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Bilang isang prodyuser, ang pinakamabisang paraan upang magdagdag ng datos ng packaging sa iyong mga produkto ay sa pamamagitan ng pagpuno sa [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) na ito ng kinakailangang impormasyon, mula sa kolum na "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Para sa bawat bahagi ng packaging, kakailanganin mong ilagay ang:
+For each packaging component, you will need to enter:
 
-- Ang bilang ng mga yunit (hal: **4** na lalagyan ng yogurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Ang hugis (hal: **palayok, takip, kahon, atbp**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Ang materyal (hal.: **PET, papel, salamin, atbp**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Ang tagubilin sa pag-recycle (hal.: **i-recycle, itapon, atbp**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Ang bigat ng isang walang laman na yunit (sa gr)
+- The weight of one empty unit (in gr)
 
-- Ang netong dami ng produktong nakapaloob sa bawat yunit
+- The net quantity of product contained per unit
 
-Maaaring i-import ang spreadsheet na ito sa aming platform na nakalaan para sa mga propesyonal.
-
----
-
-## Ano ang proyektong Pagharap sa Pagbabalot ng Pagkain?
-
-Ang proyektong "Pagharap sa Pagbabalot ng Pagkain" ay binubuo ng pagkolekta ng detalyadong impormasyon tungkol sa pagbabalot ng mga produktong pinakamadalas kainin (hugis, materyal, mga tagubilin sa pag-uuri, timbang, kapasidad).
-
-Batay sa isang participatory science approach, aasa ito kapwa sa mga kumpanyang sumasang-ayon na ibahagi ang kanilang datos sa packaging at laruin ang laro ng transparency, at sa mga mamamayan na nagpapahintulot sa pangongolekta ng impormasyon tungkol sa mga produkto. Ang impormasyong ito ay malayang magagamit muli ("bukas na datos").
-
-**Para sa karagdagang impormasyon:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Kahit na natapos na ang proyektong Tackling Food Packaging, maaari ko pa rin bang idagdag ang aking datos sa packaging?
+## What is the Tackling Food Packaging project?
 
-Kahit na matapos ang proyekto, posible pa ring magdagdag ng datos ng packaging dahil mananatili ang mga field ng packaging sa aming website.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
