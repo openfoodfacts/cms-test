@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kuution koko=2x >}} Pakkaus"
-description: "3 kysymystä"
-lang: fi-gb
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: kuutio
+icon: cube
 ---
 
-{{< fa "kuutio" size="3 kertaa" >}}
+{{< fa "cube" size=3x >}}
 
-## Miten voin lisätä pakkaustietoni Open Food Factsiin?
+## How can I add my packaging data to Open Food Facts?
 
-Tuottajana tehokkain tapa lisätä pakkaustietoja tuotteisiisi on täyttää tähän [excel-taulukkoon](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) tarvittavat tiedot sarakkeesta "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Jokaiselle pakkauskomponentille sinun on annettava:
+For each packaging component, you will need to enter:
 
-- Yksiköiden lukumäärä (esim. 4 purkkia jogurtteja)
+- The number of units (ex: **4** pots of yogurts)
 
-- Muoto (esim. **ruukku, kansi, laatikko jne.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materiaali (esim. **PET, paperi, lasi jne.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Kierrätysohjeet (esim. **kierrättää, hävittää jne.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Yhden tyhjän yksikön paino (grammoina)
+- The weight of one empty unit (in gr)
 
-- Tuotteen nettomäärä yksikköä kohden
+- The net quantity of product contained per unit
 
-Tämä laskentataulukko voidaan sitten tuoda ammattilaisille tarkoitetulle alustallemme.
-
----
-
-## Mikä on Elintarvikkeiden pakkaamisen torjunta -projekti?
-
-"Tackling Food Packaging" -hankkeessa kerätään yksityiskohtaista tietoa eniten kulutettujen tuotteiden pakkauksista (muoto, materiaali, lajitteluohjeet, paino, tilavuus).
-
-Osallistavaan tiedelähtöiseen lähestymistapaan perustuen se perustuu sekä yritysten suostumukseen jakaa pakkaustietojaan ja pelata läpinäkyvyyden peliä että kansalaisten suostumukseen tuotetietojen keräämiseen. Tätä tietoa voi käyttää uudelleen vapaasti ("avoin data").
-
-**Lisätietoja:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Voinko lisätä pakkaustietoni vielä Tackling Food Packaging -projektin päättymisen jälkeenkin?
+## What is the Tackling Food Packaging project?
 
-Pakkaustietoja on mahdollista lisätä myös projektin päättymisen jälkeen, koska pakkaustiedot pysyvät verkkosivustollamme.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
