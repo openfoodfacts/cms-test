@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} שול פראיעקטן"
-description: "2 פֿראַגעס"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: טעקע-אָ
+icon: file-o
 ---
 
-{{< fa "טעקע-אָ" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## איך האָב אַ שול־פּראָיעקט צו טאָן, איך וויל נוצן די דאַטן פֿון Open Food Facts, קען איך דאָס טאָן?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts איז אן אפענע דאטנבאזע, אן אפענער פראיעקט וואס אפערירט אונטער אן ODbL ליצענץ, דעריבער, אזוי לאנג ווי איר שטימט צו מיט די באדערפענישן פון דער ODbL ליצענץ, זענט איר באַגריסן צו ווידער-ניצן אונדזערע דאַטן פֿאַר אייערע פראיעקטן :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## ווי קען איך צוקומען צו/זאמלען דאטן פאר מײַנע פראיעקטן?
+## How can I access/collect data for my projects ?
 
-אויף Open Food Facts' הויפּט בלאַט, אין דער אויבערשטער לינקער ווינקל פון דעם עקראַן, איז דאָ אַ סקראָלינג מעניו. אין אונטערשטן טייל דערפון, וועט איר געפֿינען די "אַוואַנסירטע זוכן" אָפּציע, אויף וועלכע איר קענט קליקן. עס איז דעמאָלט אייער אַרבעט צו באַשטימען וועלכע קריטעריאַ זענען די מערסט באַטייַטיק פֿאַר אייער פּראָיעקט(ן). אַמאָל אויסגעקליבן, וועט איר קענען אראָפּלאָדן די באַקומענע רעזולטאַטן דורך סקראָלן אַראָפּ אין די דנאָ פון דער בלאַט און קליקינג אויף "אראָפּלאָדן רעזולטאַטן".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
