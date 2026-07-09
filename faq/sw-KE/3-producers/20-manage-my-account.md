@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} Dhibiti akaunti yangu"
-description: "Maswali 3"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Je, akaunti nyingi za Open Food Facts zinaweza kuunganishwa na kampuni moja?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Ndiyo, tafadhali tuma barua pepe kwa [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), ili tuweze kuunganisha akaunti zote na kampuni moja.
-
----
-
-## Jinsi ya kubadilisha akaunti yangu ya Open Food Facts kuwa akaunti ya Pro?
-
-Unaweza kufikia [Mfumo wa kitaalamu](https://world.pro.openfoodfacts.org/) ukitumia vitambulisho vya akaunti yako iliyopo.
-
-Kama wewe ni mtaalamu, utahitaji kutumia anwani yako ya barua pepe ya kitaalamu ili tuweze kuthibitisha akaunti yako.
-
-→ Kwa maelezo zaidi, tunakualika kupakua [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) na/au angalia [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Ninaweza kupata wapi nyaraka za kunisaidia kutumia mfumo wa Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Kuna rasilimali chache za kukusaidia kufaidika zaidi na jukwaa la Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Unakaribishwa kwa:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- angalia [mwongozo wetu wa mtumiaji](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - tunakualika upakue PDF ili viungo viweze kubofywa, jambo ambalo litarahisisha urambazaji wako kupitia hati.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- wasiliana na [mafunzo yetu ya video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- Shiriki maoni au mapendekezo kupitia [fomu hii](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Panga simu na Manon, meneja wetu wa ushirikiano, ikiwa una maswali zaidi: [hapa](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Wasiliana nasi kupitia barua pepe: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
