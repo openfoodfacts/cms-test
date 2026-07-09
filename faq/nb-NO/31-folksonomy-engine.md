@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Folksonomi-motor"
-description: "1 spørsmål"
-lang: no-no
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: bok
+icon: book
 ---
 
-{{< fa "bok" size="3 x" >}}
+{{< fa "book" size=3x >}}
 
-## Hva er Folksonomi-motoren?
+## What is the Folksonomy Engine ?
 
-Folksonomi-motoren er et system som lar brukere legge til egendefinerte tagger, eller egenskaper, Til matvarer i Open Food Facts, verdens største åpen matdatabase. Dette lar folk kategorisere og beskrive mat på nye måter utenfor de eksisterende forhåndsdefinerte egenskapene.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
