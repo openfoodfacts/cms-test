@@ -1,15 +1,15 @@
 ---
-title: "{{< fa فلاسڪ سائيز=2x >}} NOVA / فوڊ پروسيسنگ"
-description: "1 سوال"
-lang: اين جي بي
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: فلاسڪ
+icon: flask
 ---
 
-{{< fa "فلاسڪ" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## نووا ڇا آهي؟
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
