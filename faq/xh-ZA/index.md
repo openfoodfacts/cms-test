@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Imibuzo Ebuzwa Rhoqo - IsiNgesi"
-lang: "i-en-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: igridi
+  type: grid
   grid-columns: 4
-  sort: "i-odolo"
-  fields: [ isihloko, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
