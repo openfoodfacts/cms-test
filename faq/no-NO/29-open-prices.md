@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Åpne priser"
-description: "3 spørsmål"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
 icon: dollar
 ---
 
-{{< fa "dollar" size="3 ganger" >}}
+{{< fa "dollar" size=3x >}}
 
-## Jeg er en forhandler og jeg ønsker å bidra med priser. Hvordan kan jeg gjøre det?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Du kan bidra med priser ved å bruke [vårt API](https://prices.openfoodfacts.org/api/docs). Hvis du ønsker å bidra med priser i stor skala, kan du ta kontakt med oss på [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Vurderer du å skrape priser fra forhandlernes nettsider?
+## Do you consider scraping prices from retailers’ websites?
 
-Av juridiske og tekniske årsaker anser vi ikke det å hente priser fra forhandlernes nettsteder som en gyldig måte å bidra til åpne priser på. Vi ønsker å sørge for at prisene vi samler inn er nøyaktige og oppdaterte, og det er ikke mulig å motta skrapede priser fra bidragsytere.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Prisskraping er et vurdert alternativ i en fremtidig versjon av Open Prices, men det vil bli gjort av Open Prices selv, slik at vi kan ha et bevis på prisen basert på HTML-siden.
 
 ---
 
-## Hvorfor gjør Open Food Facts dette (Åpne Priser)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Prisinformasjon er av største betydning for å forstå matsystemer. Det er en nøkkelfaktor for å forstå kostnadene ved mat og for å fremme sunnere kosthold. Å åpne prisdata er en måte å gjøre det enklere for forskere, journalister og innbyggere å få en bedre forståelse av hvordan matprisene varierer geografisk og over tid.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
