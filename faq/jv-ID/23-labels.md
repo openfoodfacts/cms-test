@@ -1,23 +1,23 @@
 ---
-title: "Label {{< ukuran tetenger fa=2x >}}"
-description: "2 pitakonan"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: tetenger
+icon: bookmark
 ---
 
-{{< fa "tetenger" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Minangka label, apa penting nggawe akun?
+## As a label, is it important to create an account ?
 
-Minangka label, amarga sampeyan dudu produsen langsung produk kasebut, sampeyan ora perlu nggawe akun produsen.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Aku iki label, kepiye carane aku bisa melu proyek iki?
+## I am a label, how can I participate in the project?
 
-Minangka label, sing paling relevan yaiku ngubungi kita **(producers@openfoodfacts.org)** lan ngirim dhaptar produk sing label sampeyan ditampilake supaya kita bisa nambahake ing lembar produk sing gegandhengan.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
