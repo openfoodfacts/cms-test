@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Investigatores/Eruditati"
-description: "Una subcategoria"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
-order: XXV
+order: 25
 category-level: 0
-icon: pileus graduationis
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: reticulum
+  type: grid
   grid-columns: 4
-  sort: "ordo"
-  fields: [ titulus, description ]
-  page-size: centum
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "pileus graduationis" size=Ter >}}
+{{< fa "graduation-cap" size=3x >}}
 
