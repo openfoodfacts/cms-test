@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} उत्पादकाः"
-description: "६ उपवर्गाः"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: उद्योग
+icon: industry
 listing:
   contents:
-    - "*.मद्"
+    - "*.md"
   include:
     category-level: 1
-  type: गृध्र
+  type: grid
   grid-columns: 4
-  sort: "आदेशः"
-  fields: [ शीर्षक, description ]
-  page-size: १००
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "उद्योग" size=३x >}}
+{{< fa "industry" size=3x >}}
 
