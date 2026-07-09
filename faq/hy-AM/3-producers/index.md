@@ -1,21 +1,21 @@
 ---
-title: "{{< fa արդյունաբերության չափս=2x >}} Արտադրողներ"
-description: "6 ենթակատեգորիա"
-lang: անգլերեն-գբ
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: արդյունաբերություն
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ցանց
+  type: grid
   grid-columns: 4
-  sort: "կարգ"
-  fields: [ վերնագիր, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "արդյունաբերություն" size=3x >}}
+{{< fa "industry" size=3x >}}
 
