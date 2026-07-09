@@ -1,17 +1,17 @@
 ---
-title: "{{< saiz buku fa=2x >}} Enjin Folksonomi"
-description: "1 soalan"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: buku
+icon: book
 ---
 
-{{< fa "buku" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Apakah Enjin Folksonomi itu?
+## What is the Folksonomy Engine ?
 
-Enjin Folksonomy ialah sistem yang membolehkan pengguna menambah teg atau sifat tersuai pada produk makanan dalam Open Food Facts, pangkalan data makanan terbuka terbesar di dunia. Ini membolehkan orang ramai mengkategorikan dan menggambarkan makanan dengan cara baharu, melangkaui sifat-sifat sedia ada yang telah ditetapkan.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
