@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Descărcare date"
-description: "1 întrebare"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: descărcare în cloud
+icon: cloud-download
 ---
 
-{{< fa "descărcare în cloud" size="de 3 ori" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## De unde pot obține datele pentru o anumită țară?
+## Where to get the data for a specific country?
 
-În prezent, nu există exporturi dedicate către țări specifice.
+Currently, there are no exports dedicated to specific countries.
 
-Există multe modalități de a utiliza diferitele noastre exporturi combinate cu diferite instrumente pentru a selecta datele referitoare la o anumită țară.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Puteți arunca o privire la [unele dintre aceste tehnici pe wiki-ul nostru](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
