@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile app"
-description: "4 questions"
-lang: en-gb
+title: "{{< fa mobile size=2x >}} Mobilní aplikace"
+description: "4 otázky"
+lang: cs
 order: 2
 category-level: 0
-icon: mobile
+icon: mobilní
 ---
 
-{{< fa "mobile" size=3x >}}
+{{< fa "mobilní" size=3× >}}
 
-## How do I know which version of the app I'm using?
+## Jak zjistím, jakou verzi aplikace používám?
 
-Go to **Profile**,
-then **FAQ**, then **About this app.**
+Přejděte do sekce **Profil**,
+, poté do sekce **Často kladené otázky** a nakonec do sekce **O této aplikaci**.
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
-
----
-
-## The app does not scan
-
-This may be due to
-
-- a network problem
-
-- a permissions problem
-
-- a barcode problem
-
-Send us an email via Profile >> Contact Us >> Send us an email.
-
-All relevant information should be attached to your request.
+Měli byste
+vidět číslo verze, například 3.4.5+662. Nezapomeňte nám sdělit značku a model
+telefonu, pokud se jedná o ladění.
 
 ---
 
-## How can I help with improving the mobile app ?
+## Aplikace neskenuje
 
-How can I help with improving the mobile app ?
+To může být způsobeno
 
-You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+- problémem se sítí
+
+- problémem s oprávněními
+
+- problémem s čárovým kódem
+
+Pošlete nám e-mail přes Profil >> Kontaktujte nás >> Pošlete nám e-mail.
+
+K vaší žádosti by měly být přiloženy všechny relevantní informace.
 
 ---
 
-## Where can I send feedback about the app ?
+## Jak mohu pomoci s vylepšením mobilní aplikace?
 
-You can send feedback to mobile@openfoodfacts.org
+Jak mohu pomoci s vylepšením mobilní aplikace?
+
+Můžete [tak učinit v repozitáři mobilních aplikací](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Kam mohu poslat zpětnou vazbu k aplikaci?
+
+Zpětnou vazbu můžete zaslat na adresu mobile@openfoodfacts.org
 
 ---
 
