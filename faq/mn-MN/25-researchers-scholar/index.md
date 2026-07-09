@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Судлаачид/Эрдэмтэд"
-description: "1 дэд ангилал"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: төгсөлтийн баярын мэндчилгээ
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: тор
+  type: grid
   grid-columns: 4
-  sort: "захиалга"
-  fields: [ гарчиг, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "төгсөлтийн баярын мэндчилгээ" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
