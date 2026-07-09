@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} Fatti Miftuħa dwar l-Ikel"
-description: "9 mistoqsijiet"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: ċirku tal-mistoqsijiet
+icon: question-circle
 ---
 
-{{< fa "ċirku tal-mistoqsijiet" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Fi kważi l-każijiet kollha, it-termini tas-servizz tagħhom jipprojbixxu espliċitament kwalunkwe użu mhux personali u kwalunkwe estrazzjoni tad-dejta kollha jew partijiet mid-dejta.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Għalhekk, meta bdejna l-proġett Open Food Facts u l-app mobbli, lura fl-2012, iddeċidejna li nagħmlu eżattament l-oppost: mhux biss nippermettu l-użu u l-użu mill-ġdid tad-database tagħna, b'xejn u mingħajr ħlas, lil kulħadd u għall-użi kollha (inklużi dawk kummerċjali), iżda ninkoraġġixxuh ukoll!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Li d-dejta tkun disponibbli pubblikament (dak li hu magħruf bħala _dejta miftuħa_) jippermetti lil individwi, assoċjazzjonijiet, kumpaniji, riċerkaturi eċċ. minn madwar id-dinja kollha jaħsbu u jiżviluppaw applikazzjonijiet għad-dejta li żgur qatt ma konna ħsibna dwarhom.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (ara t-[Termini ta' użu mill-ġdid](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Kulħadd (inklużi iżda mhux limitati għall-kontributuri u l-kreaturi ta' Open Food Facts) jista' għalhekk jiddistribwixxi mill-ġdid u/jew jerġa' juża d-dejta biex jibni websajts, servizzi, softwer, applikazzjonijiet mobbli, jew biex jikteb artikli u studji. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Pereżempju, il-Pjattaforma tagħna għall-Produtturi hija totalment bla ħlas, u aħna aktar kuntenti b'dan għax naħsbu li tista' tgħinhom itejbu l-prodotti tagħhom.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,80 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Tista’ tistaqsi mistoqsijiet jew tagħmel suġġerimenti fuq il-forum jew tikkuntattjana permezz tal-email: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Jekk inti produttur, jekk jogħġbok ibgħatilna email fuq [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Jekk inti ġurnalist, jekk jogħġbok ibgħatilna email fuq [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Jekk jogħġbok innota: [Open Food Facts hija database kollaborattiva ta' prodotti tal-ikel](https://world.openfoodfacts.org/discover), aħna ma nbigħu l-ebda prodott u m'għandniex links mal-produtturi tagħhom. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-L-informazzjoni u d-dejta huma sottomessi mill-kontributuri ta' Open Food Facts. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. eż. jekk il-fatti nutrizzjonali ta' prodott huma differenti ħafna minn prodotti tal-istess kategorija, jista' jkun żball. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Jekk inti produttur, jekk jogħġbok [ikkuntattjana](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (ara t-[Termini tal-kontribuzzjoni](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Żviluppajna pjattaforma bla ħlas biex tkun tista' timporta faċilment ritratti u dejta dwar il-prodotti tiegħek, irrispettivament mid-daqs tiegħek. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Ikkuntattjana biex niddiskutu kif nistgħu nipproċedu: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Min juża d-dejta ta' Open Food Facts?
+## Who uses Open Food Facts data?
 
-Ikun
-twil wisq biex niżżel l-organizzazzjonijiet kollha li jiddependu fuq il-pjattaforma Open Food Facts
-.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- Aktar minn 100 applikazzjoni mobbli
-  jindirizzaw il-bżonnijiet ta’ ħafna udjenzi: dijabete (VeryDiab), allerġiji, bilanċ tal-ikel
-  permezz ta’ intelliġenza artifiċjali (FoodVisor), diżabilitajiet, u aktar. Id-database
-  tagħna ppermettiet ukoll il-ħolqien ta' Yuka.
-- Ħafna websajts: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Data-ġurnalisti : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Riċerkaturi fi kważi 100 artiklu xjentifiku
-- Banek tal-ikel u ħwienet ta’ solidarjetà: proġett
-  Data For Good fil-kontinwità ta’ proġett pilota mibdi mis-
-  Salib l-Aħmar Franċiż, integrazzjoni fil-ġestjoni tal-flus kontanti ta’ kooperattiva żgħira tal-ikel
-  .
-- Kumpaniji: Terraillon juża d-dejta tagħna
-  biex jagħti l-ħajja lill-iskali konnessi tiegħu.
-- L-iskejjel tal-ipprogrammar (Simplon, Open
-  Classrooms) integraw Open Food Facts bħala proġett motivanti fil-kurrikulu
-  tagħhom.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Kif nista' nappoġġja Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts hija assoċjazzjoni mingħajr skop ta' qligħ tal-1901. Tista' tgħinna billi [tipparteċipa fil-proġett](https://fr-en.openfoodfacts.org/contribute) u billi tappoġġjana finanzjarjament bid-[donazzjonijiet] tiegħek(https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(deduċibbli ta' 66%) u wkoll billi tuża l-magna tat-tiftix Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Grazzi ħafna
-!**
+**Thank
+you very much!**
 
 ---
 
-## Ma nistax insib it-tweġiba għall-mistoqsija tiegħi
+## I can't find the answer to my question
 
-Jekk ma tistax issib tweġiba għall-mistoqsija/jiet tiegħek, toqgħodx lura milli tikkuntattjana permezz ta':
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Is-Slack tagħna: [[https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Il-forum tagħna: [[https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
