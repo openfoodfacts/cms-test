@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} தயாரிப்பு போர்ட்ஃபோலியோவின் பகுப்பாய்வு (அளவுகோல், மேம்பாடு...)"
-description: "1 கேள்வி"
-lang: ta-gb (ஆங்கிலம்)
-order: 22 எபிசோடுகள் (10)
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: விளக்கப்படப் பட்டி
+icon: chart-bar
 ---
 
-{{< fa "விளக்கப்படப் பட்டி" size="3x (3x)" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## எனது தயாரிப்புகளின் நியூட்ரி-ஸ்கோரை மேம்படுத்த மறுசீரமைப்பு பரிந்துரையை எவ்வாறு அணுகுவது?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-நீங்கள் தயாரிப்பாளர்கள் தளத்தின் முகப்புப் பக்கத்தில் இருக்கும்போது:
+When you are on the home page of the Producers Platform:
 
-1. பக்கத்தின் மேலே உள்ள "→ மேம்பாட்டு வாய்ப்புகளைக் கொண்ட தயாரிப்புகளின் எண்ணிக்கை" என்ற இணைப்பைக் கிளிக் செய்யவும்.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. உங்கள் தயாரிப்புகளை மேம்படுத்த எங்கள் அமைப்பால் கண்டறியப்பட்ட அனைத்து வாய்ப்புகளையும் நீங்கள் அணுகலாம்.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ஒரு வகையான வாய்ப்பைக் கிளிக் செய்வது, மேம்படுத்தப்பட வேண்டிய தயாரிப்புகளின் பட்டியலுக்கு உங்களை அழைத்துச் செல்லும்.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ மேலும் விவரங்களுக்கு, எங்கள் [பயனர் வழிகாட்டியை](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) பதிவிறக்கம் செய்து/அல்லது எங்கள் [வீடியோ டுடோரியல்களைப்](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) பார்க்கவும் :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
