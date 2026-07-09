@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box størrelse=2x >}} Behandle mine produkter"
-description: "16 spørsmål"
-lang: no-no
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
+lang: en-gb
 order: 21
 category-level: 1
-icon: boks
+icon: box
 ---
 
-{{< fa "boks" size="3 x" >}}
+{{< fa "box" size=3x >}}
 
-## Hva garanterer kvaliteten på dataene i Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-**For å kontinuerlig forbedre kvaliteten på dataene avhenger vi av 4 pillarer:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Nettsamfunnet legger hele tiden til data og bilder og er en rettmessig patrulje av anmeldelser.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Vi har satt logiske regler for å identifisere feil i produktarkene.For eksempel: Hvis summen av ingrediensenes vekt er større enn den totale vekten av produktet, er det avvik i forhold til denne. Vi har rundt 50 andre kvalitetskontroller.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Takk til Machine Learning, vi begrenser risikoen for innspillfeil. Vår teknologi gjør at vi kan hente tekstdata fra bilder som er tatt av bidragsytere
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Takket være støtten til Sante########Publique France, utviklet vi en portal som tillater produsenter å laste opp masseproduserte data og dermed korrekt/fullføre fellesskapets bidrag.
-
----
-
-## Hvordan legge til produkter?
-
-For å legge til produkter i plattformen vår, må du først bestemme hvordan du vil fortsette. Det finnes 4 alternativer:
-
-- **Manuell**: hvis du har et lite antall produkter, er det fortsatt mulig å opprette hvert produktark for hånd på Pro-plattformen.
-
-- **Via et regneark import**: du kan laste ned regneark[template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) gitt av Open Food Facts, eller importer en uttrekk direkte fra ditt IT-system til Pro-plattformen.
-
-- **Via produktkatalogenes tilkoblinger**. Hvis du er klient i EQUADIS, AGENA3000 eller BAYARD, kan du laste opp data i Open Food Facts med 1 klikk. Hvis du arbeider med en annen PIM (Product Information Management), vennligst kontakt oss : produsers@openfoodfacts.org
-
-- \*\*Via en skreddersydd forbindelse \*\* mellom firmaet ditt og Open Food Facts. Hvis du teller mer enn 1000 produkter i porteføljen din, kan vi diskutere muligheten for å bygge en spesifikk kobling for å lette overføringen.
-
-For flere detaljer inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller konsultere våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Er det en måte å automatisere produktoppdateringer til den offentlige databasen?
+## How to add products?
 
-Ja, hvis du bruker EQUADIS, AGENA3000 eller BAYARD produktkataloger, og setter opp riktig konfigurasjon, Importen kan gjøres automatisk og oppdateres derfor produktdata på Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Er antall produkter begrenset?
+## Is there a way to automate product updates to the public database?
 
-Det er ingen begrensning, du kan laste opp antall produkter du vil på vår plattform.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Hvis du vil fjerne et produkt som ikke er lenger tilgjengelig i markedet, du bare må krysse av i boksen "Dette produktet er ikke lenger solgt" når du redigerer produktet ditt.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Hvis du vil fjerne flere produkter, anbefaler vi at du følger prosedyren nevnt i [brukerveiledningen] (https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), på s. 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Du kan også kontakte oss via produsent@openfoodfacts.org hvis du har noen spørsmål.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Når produktet er arkivert, vil det ikke lenger vises i Open Food Facts.Det vil imidlertid være i databasen vår, slik at vi kan beholde historien om solgte produkter over tid.
-
----
-
-## Opplysninger om selskapet går foran i sin daglige framstilling på plattformen?
-
-Når en produsent plasserer ett av hans produkter online med sin produsentkonto, og det finnes allerede et produktark, vil dette fullføre den.
-
-Opplysningene som produsenten vil ha lagt ut, vil alltid ha prioritet og alene, kunne endre produktene sine når de utfylles informasjon.
-
-Hvis dataene som sendes via plattformen er oppstykket, kan informasjonen som lages av samfunnet fra pakningen fullføres.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Hvilket format skal jeg sende mine data?
+## Does company information take precedence over information already present on the platform?
 
-En [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) leveres av Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Alle regnearkformat (xlsx, csv) vil imidlertid være importerbare i plattformen.  
-Algoritmen vår er designet for å automatisk tilsvare attributter fra filen din, med de som er til stede i Open Food Facts. Du må alltid dobbeltsjekke matchingstadiet siden du må justere manuelt noen av dem.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Hvis informasjonen din er fragmentert mellom flere regnearker, kan du importere dem fortløpende – for å sørge for at samsvar stemmer hvis formatet endres.
-
-Du kan også importere en Excel-fil i tillegg til en EQUADIS eller AGENA3000 import, hvis dataene ennå ikke er i informasjonssystemet. I disse sakene, ikke glem å be om en eksport til den offentlige databasen fra grensesnittet.
-
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Hvilke produktkataloger har du integrert?
+## In what format should I send my data?
 
-Produsenter kan nå sende sine produktdata og bilder i sanntid fra **Ekvadis,** **AGENA3000 og BAYARD-konsultering** til Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Du vil selvsagt også dra nytte av reformuleringsforslagene og alle funksjonene til plattformen.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-format@@0 (https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) forklarer trinnene du bør følge hvis du er en EQUADIS-kunde.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Hvis du er en AGENA3000 kunde (produkt A3 PIM INDUSTRY), må du bare velge mottakeren "Open Food Facts" når du sender produktskjemaene dine. [Mer informasjon om dette blogginnlegget](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Hvis du er en kunde av en annen produktdatatalog (Alsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) vennligst gi oss beskjed om fra [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Hvordan legge til produkter uten strekkoder via Pro-plattformen?
+## With which product catalogs are you integrated?
 
-For produkter uten strekkode, på stedet eller på produsenten, Det er en «Produkt uten strekkode» knapp i venstre kolonne som lar deg legge dem til. En identifikator genereres deretter automatisk.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Vi har laget spesifikke prosjekter for kosmetikk, for dyrefôr, samt for andre produkter:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Produktdata fra min bedrift er tilgjengelig på Open Food Facts. Kan man ta kontroll over den tilknyttede produsentkontoen?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ja av kurset! Du kan ta kontroll over den tilknyttede produsentkontoen ved å opprette en Open Food Facts konto på forretningsadressen din. Når du registrerer deg, nevner du navnet på organisasjonen som er til stede på skjemaet for å kunne få tilgang til det aktuelle produsentområdet.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Et kort valideringstrinn vil være nødvendig for å sikre at du er produsent.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Dere vil kunne fullføre dataene, legge til-bilder, få automatisk anbefalinger for forbedring av Nutri-Score, og mye mer. Alt dette er selvsagt helt gratis. Du kan også koble til et tredjeparts produktdatabehandlingssystem som EQUADIS , AGENA3000 og Bayard konsultering.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Hvor lang tid tar det for produsentdata å oppdateres på annen app gjenbruk Open Food Facts database?
-
-Det avhenger av appene. For de som bruker våre APIer, som er det store flertallet, er det umiddelbart.  
-For de som bruker vår daglige eksport, er det D+1 gitt at de oppdaterer den.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Importering av data fra en produktpost er fullført eller overskriv en eksisterende produktpost?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Hvis du importerer en post med samme strekkode som en eksisterende oppføring, bruker vi strekkoden til å identifisere produkter, vil informasjonen bli slått sammen.
-
-For data som ingredienslister, næringsverdier (bare én riktig verdi), vil dataene som sendes via produsentplattformen overskrive eksisterende data.
-
-For data som merker/kategorier/merker (flere riktige verdier mulig), slås informasjonen sammen. Dersom det er feil data på den offentlige plattformen, kan du endre produktarket på den offentlige plattformen for å fjerne de feilaktige verdiene.
-
-→ Hvis du vil ha flere detaljer, inviterer vi deg til å laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eller se i våre [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Er rekkefølgen på ingredienser viktig?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Rekkefølgen til ingrediensene er viktig: den representerer rekkefølgen etter mengde.
-Den beste måten å fylle ingrediensene på, er å følge nøyaktig det som er skrevet på emballasjen. Derfor er det også så viktig å ha bilder av ingrediensene trykket inn.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kan jeg sende bilder også på AGENA3000 ?
+## Is the order of ingredients important?
 
-Du kan sende bilder, men i praksis vil bare hovedbildet bli valgt automatisk, de andre bildene vil bli sendt, men ikke beskjært / valgt til ingredienser, ernæring osv.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Hvordan få tilgang til Pro plattformens veiledninger?
+## Can I send images via AGENA3000 too?
 
-Du kan få tilgang til pro plattformens oppgaver:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Via pro-plattformen selv: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Direkte på [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Du kan også laste ned vår [brukerveiledning] (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
