@@ -1,21 +1,21 @@
 ---
-title: "{{< velikost pole fa=2x >}} Spravovat mé produkty"
+title: "{{< fa box size=2x >}} Správa mých produktů"
 description: "16 otázek"
-lang: en-gb
+lang: cs
 order: 21
 category-level: 1
 icon: krabice
 ---
 
-{{< fa "krabice" size=3x >}}
+{{< fa "krabice" size=3× >}}
 
 ## Co zaručuje kvalitu dat v Open Food Facts?
 
-**Pro neustálé zlepšování kvality dat se opíráme o 4 pilíře:**
+**Pro neustálé zlepšování kvality dat spoléháme na 4 pilíře:**
 
-1. Komunita neustále přidává data a fotografie a je skutečnou hlídkou recenzentů.
+1. Komunita neustále přidává data a fotografie a je skutečnou hlídkou kontrolorů.
 
-2. Nastavili jsme logická pravidla pro identifikaci chyb v produktových listech.Například: pokud je součet hmotností složek větší než celková hmotnost produktu, jedná se o anomálii. Máme dalších přibližně 50 kontrol kvality.
+2. Nastavili jsme logická pravidla pro identifikaci chyb v produktových listech.Například: pokud je součet hmotností složek větší než celková hmotnost produktu, jedná se o anomálii. Máme asi 50 dalších kontrol kvality.
 
 3. Díky strojovému učení omezujeme riziko chyb při zadávání. Naše technologie nám umožňuje extrahovat textová data z fotografií pořízených přispěvateli
 
@@ -29,7 +29,7 @@ Chcete-li přidat produkty na naši platformu, musíte se nejprve rozhodnout, ja
 
 - **Ručně**: pokud máte malý počet produktů, je stále možné vytvořit každý produktový list ručně na platformě Pro.
 
-- **Importem tabulky**: Můžete si stáhnout šablonu tabulky [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) od Open Food Facts nebo importovat výňatek přímo z vašeho IT systému do platformy Pro.
+- **Import tabulky**: Můžete si stáhnout šablonu tabulky [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) od Open Food Facts nebo importovat výňatek přímo z vašeho IT systému do platformy Pro.
 
 - **Prostřednictvím konektorů produktových katalogů**. Pokud jste klientem společností EQUADIS, AGENA3000 nebo BAYARD, můžete nahrát data do Open Food Facts jedním kliknutím. Pokud spolupracujete s jiným PIM (Product Information Management), kontaktujte nás prosím: producers@openfoodfacts.org
 
@@ -65,13 +65,13 @@ Po archivaci se produkt již nebude zobrazovat v Open Food Facts.Zůstane však 
 
 ---
 
-## Mají informace o společnosti přednost před informacemi, které jsou již na platformě k dispozici?
+## Mají informace od společnosti přednost před informacemi, které jsou již na platformě k dispozici?
 
 Když výrobce umístí jeden ze svých produktů online pomocí svého účtu výrobce a produktový list již existuje, tímto se jeho nabídka dokončí.
 
 Informace, které zveřejní výrobce, budou mít vždy přednost a pouze on bude moci po vyplnění těchto informací upravovat své produkty.
 
-Pokud jsou data odesílaná prostřednictvím platformy fragmentovaná, mohou je doplnit informace přidané komunitou z balíčku.
+Pokud jsou data odesílaná prostřednictvím platformy fragmentovaná, mohou je doplnit informace z obalu přidané komunitou.
 
 ---
 
@@ -80,7 +80,7 @@ Pokud jsou data odesílaná prostřednictvím platformy fragmentovaná, mohou je
 Šablonu [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) poskytuje Open Food Facts.
 
 Do platformy však bude možné importovat jakýkoli formát tabulky (xlsx, csv).  
-Náš algoritmus je navržen tak, aby automaticky porovnával atributy z vašeho souboru s atributy uvedenými v Open Food Facts. Vždy si dvakrát zkontrolujte shodu fáze, protože některé z nich budete možná muset ručně upravit.
+Náš algoritmus je navržen tak, aby automaticky porovnával atributy z vašeho souboru s atributy uvedenými v Open Food Facts. Vždy si dvakrát zkontrolujte fázi porovnání dat, protože některé z nich budete možná muset ručně upravit.
 
 Pokud jsou vaše informace fragmentované mezi několika tabulkami, můžete je importovat postupně – nezapomeňte provést porovnání, pokud se formát změní.
 
@@ -92,15 +92,15 @@ Kromě importu z EQUADIS nebo AGENA3000 můžete také importovat soubor Excel, 
 
 ## S jakými produktovými katalogy jste integrováni?
 
-Výrobci nyní mohou odesílat data a fotografie svých produktů v reálném čase ze společností **Equadis**, **AGENA3000 a BAYARD consulting** do Open Food Facts.
+Výrobci nyní mohou odesílat data a fotografie svých produktů v reálném čase z **Equadis**, **AGENA3000 a BAYARD consulting** do Open Food Facts.
 
-Samozřejmě budete mít také prospěch z návrhů na přeformulování a všech funkcí platformy.
+Budete mít samozřejmě také prospěch z návrhů změny formulace a všech funkcí platformy.
 
 [Náš blogový příspěvek](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) vysvětluje kroky, které je třeba dodržet, pokud jste zákazníkem EQUADIS.
 
 Pokud jste zákazníkem AGENA3000 (produkt A3 PIM INDUSTRY), stačí při odesílání produktových listů vybrat příjemce „Open Food Facts“. [Více informací v tomto příspěvku na blogu](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
 
-Pokud jste zákazníkem jiného katalogu produktových dat (Salsify - dříve Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks atd.) Dejte nám prosím vědět na adrese [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Pokud jste zákazníkem jiného katalogu produktových dat (Salsify - dříve Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks atd.) dejte nám prosím vědět na [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 → Pro více informací si prosím stáhněte naši [uživatelskou příručku](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/nebo si prohlédněte naše [video tutoriály](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
@@ -119,11 +119,11 @@ Jsme proto rádi, že můžeme importovat vaše produkty do projektu, který jim
 
 ---
 
-## Údaje o produktech mé společnosti jsou k dispozici na Open Food Facts. Je možné převzít kontrolu nad přidruženým účtem producenta?
+## Údaje o produktech mé společnosti jsou k dispozici na Open Food Facts. Je možné převzít kontrolu nad přidruženým účtem výrobce?
 
-Ano, samozřejmě! Kontrolu nad přidruženým účtem producenta můžete převzít vytvořením účtu Open Food Facts s adresou vaší firmy. Při registraci uveďte ve formuláři název organizace, která je přítomna, abyste měli přístup k odpovídajícímu prostoru pro producenty.
+Ano, samozřejmě! Kontrolu nad přidruženým účtem producenta můžete převzít vytvořením účtu Open Food Facts s adresou vaší firmy. Při registraci uveďte ve formuláři název organizace, která je přítomna, abyste měli přístup k odpovídajícímu prostoru pro výrobce.
 
-Bude nutný krátký krok ověření, abyste se ujistili, že jste skutečně producentem.
+Bude nutný krátký krok ověření, abyste se ujistili, že jste skutečně výrobcem.
 
 Budete moci doplňovat data, přidávat obrázky, získávat automatická doporučení pro zlepšení Nutri-Score a mnoho dalšího. To vše je samozřejmě zcela zdarma. Můžete se také připojit k systému pro správu produktových dat třetích stran, jako například EQUADIS, AGENA3000 a Bayard consulting.
 
@@ -153,7 +153,7 @@ U dat, jako jsou štítky/kategorie/značky (možných je několik správných h
 ## Je pořadí ingrediencí důležité?
 
 Pořadí ingrediencí je důležité: představuje pořadí podle množství.
-Nejlepší způsob, jak naplnit ingredience, je přesně dodržovat to, co je napsáno na obalu. Proto je také tak důležité mít vytištěné fotografie ingrediencí.
+Nejlepší způsob, jak naplnit ingredience, je přesně dodržovat to, co je napsáno na obalu. Proto je také velmi důležité mít vytištěné fotografie ingrediencí.
 
 ---
 
