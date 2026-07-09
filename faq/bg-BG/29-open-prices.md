@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Отворени цени"
-description: "3 въпроса"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: долар
+icon: dollar
 ---
 
-{{< fa "долар" size="3 пъти" >}}
+{{< fa "dollar" size=3x >}}
 
-## Аз съм търговец на дребно и искам да допринеса с цените. Как мога да направя това?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Можете да добавите цени, като използвате [нашия API](https://prices.openfoodfacts.org/api/docs). Ако искате да предоставите цени в голям мащаб, моля, свържете се с нас на [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Обмисляте ли да вземете цени от уебсайтовете на търговците на дребно?
+## Do you consider scraping prices from retailers’ websites?
 
-Поради правни и технически причини, не считаме извличането на цени от уебсайтовете на търговците на дребно за валиден начин за допринасяне за Open Prices. Искаме да се уверим, че цените, които събираме, са точни и актуални, а получаването на извлечени от потребителите цени не ни позволява да правим това.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Извличането на данни от цените е обмисляна опция в бъдеща версия на Open Prices, но това ще се извършва от самия Open Prices, за да можем да имаме доказателство за цената въз основа на HTML страницата.
 
 ---
 
-## Защо Open Food Facts прави това (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Информацията за цените е от първостепенно значение за разбирането на хранителните системи. Това е ключов фактор за разбирането на цената на храната и за насърчаване на по-здравословното хранене. Данните за началните цени са начин да се улесни по-доброто разбиране на изследователите, журналистите и гражданите за това как цените на храните варират географски и във времето.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
