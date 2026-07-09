@@ -1,31 +1,31 @@
 ---
-title: "{{< fa ubukhulu bentliziyo=2x >}} I-Nutri-Score"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: ukubetha kwentliziyo
+icon: heartbeat
 ---
 
-{{< fa "ukubetha kwentliziyo" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Ndingenza ntoni ukuba iNutri-Score yeemveliso zam ayichanekanga?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Ukuba kukho ingxaki ngeNutri-Score yakho, qinisekisa ukuba ulwazi lwakho luchanekile kwithebhu ethi “modify” kwiphepha lemveliso yakho. Ukuba kukho naluphi na ulwazi olungekhoyo okanye olungachanekanga, ungalibali ukuqhagamshelana nathi ku-\*\* producers@openfoodfacts.org\*\*
-
----
-
-## Loluphi uhlobo lolwazi endifanele ndilunike ukuze iNutri-Score ibalwe ngokuchanekileyo kangangoko kunokwenzeka?
-
-Ukubalwa kweNutri-Score kuza kwenziwa ngetafile yesondlo semveliso yakho.
-
-Ungalibali ukufaka ipesenti yeziqhamo, imifuno kunye namandongomane etafileni yakho, ukuze iNutri-Score ebaliweyo ingachaneki.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Ivela phi iNutri-Score?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-I-Nutri-Score ilawulwa yi-Santé Publique France. Ishwankathela itheyibhile yexabiso lesondlo ukuze wonke umntu ayiqonde. Injongo kukubonelela ngokufikelela kulwazi olucacileyo noluqondakalayo lwesondlo kubo bonke abantu.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
