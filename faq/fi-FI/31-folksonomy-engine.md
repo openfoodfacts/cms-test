@@ -1,17 +1,17 @@
 ---
-title: "{{< fa kirjan koko=2x >}} Folksonomia-moottori"
-description: "1 kysymys"
-lang: fi-gb
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: kirja
+icon: book
 ---
 
-{{< fa "kirja" size="3 kertaa" >}}
+{{< fa "book" size=3x >}}
 
-## Mikä on Folksonomia-moottori?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine on järjestelmä, jonka avulla käyttäjät voivat lisätä mukautettuja tunnisteita eli ominaisuuksia elintarvikkeisiin Open Food Factsissa, maailman suurimmassa avoimessa ruokatietokannassa. Tämä antaa ihmisille mahdollisuuden luokitella ja kuvailla ruokaa uusilla tavoilla, olemassa olevien ennalta määriteltyjen ominaisuuksien ulkopuolella.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
