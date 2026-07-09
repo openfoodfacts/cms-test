@@ -1,6 +1,6 @@
 ---
-title: "{{< maint defnyddiwr fa=2x >}} Rheoli fy nghyfrif"
-description: "3 cwestiwn"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## A ellir cysylltu nifer o gyfrifon Open Food Facts ag un cwmni?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Oes, anfonwch e-bost at [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), fel y gallwn gysylltu pob cyfrif â'r un cwmni.
-
----
-
-## Sut i drosi fy nghyfrif Open Food Facts yn gyfrif Pro?
-
-Gallwch gael mynediad i'r [platfform Pro](https://world.pro.openfoodfacts.org/) gyda manylion mewngofnodi eich cyfrif presennol.
-
-Os ydych chi'n weithiwr proffesiynol, bydd angen i chi ddefnyddio'ch cyfeiriad e-bost proffesiynol er mwyn i ni allu dilysu'ch cyfrif.
-
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Ble alla i ddod o hyd i ddogfennaeth i'm helpu i ddefnyddio'r platfform Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Mae yna ychydig o adnoddau i'ch helpu i wneud y gorau o'r platfform Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Mae croeso i chi:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- edrychwch ar ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - rydym yn eich gwahodd i lawrlwytho'r PDF fel bod modd clicio ar y dolenni, a fydd yn hwyluso eich llywio drwy'r ddogfen.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- ymgynghorwch â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- rhannwch adborth neu awgrymiadau drwy [y ffurflen hon](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Trefnwch alwad gyda Manon, ein rheolwr partneriaethau, os oes gennych fwy o gwestiynau: [yma](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Cysylltwch â ni drwy e-bost: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
