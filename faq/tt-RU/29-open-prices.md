@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Ачык бәяләр"
-description: "3 сорау"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: доллар
+icon: dollar
 ---
 
-{{< fa "доллар" size=3х >}}
+{{< fa "dollar" size=3x >}}
 
-## Мин ваклап сатучы һәм бәяләрне өстәргә телим. Моны ничек эшли алам?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Сез бәяләрне [безнең API](https://prices.openfoodfacts.org/api/docs) кулланып урнаштыра аласыз. Әгәр дә сез бәяләрне масштаблы рәвештә күрсәтергә телисез икән, зинһар, безнең белән [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) адресы буенча элемтәгә керегез.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Сез сатучылар сайтларыннан бәяләрне алып ташлау турында уйлыйсызмы?
+## Do you consider scraping prices from retailers’ websites?
 
-Юридик һәм техник сәбәпләр аркасында, без ваклап сатучыларның сайтларыннан бәяләрне алуны Ачык бәяләргә өлеш кертүнең дөрес ысулы дип санамыйбыз. Без җыйган бәяләрнең төгәл һәм актуаль булуын тәэмин итәргә телибез, һәм өлеш кертүчеләрдән алдан язылган бәяләр алу безгә моны эшләргә мөмкинлек бирми.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Ни өчен Open Food Facts моны эшли (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Азык-төлек системаларын аңлау өчен бәяләр турындагы мәгълүмат бик мөһим. Бу азык-төлек бәясен аңлауда һәм сәламәтрәк туклануны алга этәрүдә төп фактор булып тора. Башлангыч бәя мәгълүматлары тикшеренүчеләргә, журналистларга һәм гражданнарга азык-төлек бәяләренең географик яктан һәм вакыт эчендә ничек үзгәрүен яхшырак аңлауны җиңеләйтү ысулы булып тора.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
