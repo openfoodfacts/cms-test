@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartbeat size=2x >}} ຄະແນນໂພຊະນາການ"
-description: "3 ຄຳຖາມ"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: ຫົວໃຈເຕັ້ນ
+icon: heartbeat
 ---
 
-{{< fa "ຫົວໃຈເຕັ້ນ" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## ຂ້ອຍຄວນເຮັດແນວໃດຖ້າ Nutri-Score ຂອງຜະລິດຕະພັນຂອງຂ້ອຍບໍ່ຖືກຕ້ອງ?
+## What should I do if the Nutri-Score of my products is not correct?
 
-ໃນກໍລະນີທີ່ມີບັນຫາກັບ Nutri-Score ຂອງທ່ານ, ໃຫ້ກວດສອບວ່າຂໍ້ມູນຂອງທ່ານຖືກຕ້ອງໃນແຖບ "ແກ້ໄຂ" ຂອງແຜ່ນຜະລິດຕະພັນຂອງທ່ານ. ຖ້າມີຂໍ້ມູນໃດໆຂາດຫາຍໄປ ຫຼື ບໍ່ຖືກຕ້ອງ, ກະລຸນາຢ່າລັງເລທີ່ຈະຕິດຕໍ່ຫາພວກເຮົາໄດ້ທີ່\*\* producers@openfoodfacts.org\*\*
-
----
-
-## ຂ້ອຍຄວນໃຫ້ຂໍ້ມູນປະເພດໃດເພື່ອໃຫ້ Nutri-Score ຖືກຄິດໄລ່ຢ່າງຖືກຕ້ອງທີ່ສຸດ?
-
-ການຄິດໄລ່ Nutri-Score ຈະຖືກເຮັດດ້ວຍຕາຕະລາງໂພຊະນາການຂອງຜະລິດຕະພັນຂອງທ່ານ.
-
-ຢ່າລືມລວມເອົາອັດຕາສ່ວນຂອງໝາກໄມ້, ຜັກ ແລະ ໝາກຖົ່ວໃສ່ໃນຕາຕະລາງຂອງທ່ານ, ເພື່ອວ່າຄະແນນ Nutri-Score ທີ່ຄິດໄລ່ໄດ້ຈະບໍ່ຜິດພາດ.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Nutri-Score ມາຈາກໃສ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-ຄະແນນ Nutri-Score ແມ່ນຄຸ້ມຄອງໂດຍ Santé Publique France. ມັນສະຫຼຸບຕາຕະລາງຄຸນຄ່າທາງໂພຊະນາການເພື່ອໃຫ້ທຸກຄົນສາມາດເຂົ້າໃຈໄດ້. ເປົ້າໝາຍແມ່ນເພື່ອໃຫ້ທຸກຄົນສາມາດເຂົ້າເຖິງຂໍ້ມູນທາງໂພຊະນາການທີ່ຊັດເຈນ ແລະ ເຂົ້າໃຈງ່າຍ.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
