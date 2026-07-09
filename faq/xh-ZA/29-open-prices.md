@@ -1,31 +1,31 @@
 ---
-title: "Amaxabiso avulekileyo avulwa ngu {{< fa dollar size=2x >}}"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: idola
+icon: dollar
 ---
 
-{{< fa "idola" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ndingumthengisi kwaye ndifuna ukufaka amaxabiso. Ndingayenza njani loo nto?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Unganikela ngamaxabiso ngokusebenzisa [i-API yethu](https://prices.openfoodfacts.org/api/docs). Ukuba ufuna ukufaka amaxabiso ngomlinganiselo othile, nceda unxibelelane nathi ku-[contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ngaba ucinga ngokususa amaxabiso kwiwebhusayithi zabathengisi?
+## Do you consider scraping prices from retailers’ websites?
 
-Ngenxa yezizathu zomthetho nezobuchwephesha, asicingi ngokususa amaxabiso kwiwebhusayithi zabathengisi njengendlela efanelekileyo yokufaka isandla kwiAmaxabiso avulekileyo. Sifuna ukuqinisekisa ukuba amaxabiso esiwaqokelelayo achanekile kwaye ahlaziyiwe, kwaye ukufumana amaxabiso akhutshiweyo kubantu abanikelayo akusivumeli ukuba senze loo nto.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Kutheni i-Open Food Facts isenza oku (Amaxabiso Avulekileyo)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Ulwazi lwamaxabiso lubaluleke kakhulu ekuqondeni iinkqubo zokutya. Yinto ebalulekileyo ekuqondeni ixabiso lokutya nokukhuthaza ukutya okunempilo. Idatha yokuvula amaxabiso yindlela yokwenza kube lula kubaphandi, iintatheli, kunye nabemi ukuba baqonde ngcono indlela amaxabiso okutya ahluka ngayo ngokwendawo nangexesha.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
