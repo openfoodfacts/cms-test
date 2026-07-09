@@ -1,31 +1,31 @@
 ---
-title: "Mitengo Yakavhurika ye {{< fa dollar size=2x >}}"
-description: "Mibvunzo mitatu"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dhora
+icon: dollar
 ---
 
-{{< fa "dhora" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ndiri mutengesi uye ndinoda kupa mitengo. Ndingazviita sei izvozvo?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Unogona kupa mitengo uchishandisa [API yedu](https://prices.openfoodfacts.org/api/docs). Kana muchida kupa mitengo yakawanda, ndapota taurai nesu pa [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Unofunga here kubvisa mitengo kubva kumawebhusaiti evatengesi?
+## Do you consider scraping prices from retailers’ websites?
 
-Nekuda kwezvikonzero zvepamutemo uye zvehunyanzvi, hatifungi nezvekupa mitengo kubva kumawebhusaiti evatengesi senzira inoshanda yekupa mupiro kuMitengo Yakavhurika. Tinoda kuva nechokwadi chekuti mitengo yatinounganidza yakarurama uye yakagadziridzwa, uye kugamuchira mitengo yakachekwa kubva kune vanopa mari hakutibvumidze kuita izvozvo.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Sei Open Food Facts iri kuita izvi (Mitengo Yakavhurika)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Ruzivo rwemitengo rwakakosha zvikuru kuti tinzwisise masisitimu ezvekudya. Chinhu chakakosha pakunzwisisa mutengo wechikafu uye kukurudzira kudya zvine hutano. Ruzivo rwekutanga rwemitengo inzira yekuita kuti zvive nyore kune vaongorori, vatori venhau, uye vagari kuti vanzwisise zviri nani kuti mitengo yezvikafu inosiyana sei nenzvimbo uye nenguva.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
