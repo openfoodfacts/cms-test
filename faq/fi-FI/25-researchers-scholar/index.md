@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Tutkijat/Opettaja"
-description: "1 alakategoria"
-lang: fi-gb
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: valmistujaislakki
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ruudukko
+  type: grid
   grid-columns: 4
-  sort: "tilata"
-  fields: [ otsikko, kuvaus ]
+  sort: "order"
+  fields: [ title, kuvaus ]
   page-size: 100
 ---
 
-{{< fa "valmistujaislakki" size="3 kertaa" >}}
+{{< fa "graduation-cap" size=3x >}}
 
