@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eko-ball"
-description: "5 ta savol"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: foydalanuvchi plyusi
+icon: user-plus
 ---
 
-{{< fa "foydalanuvchi plyusi" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Eco-Score metodologiyasi nima?
+## What is the Eco-Score methodology?
 
-Eko-ball ADEME (ekologik o'tish agentligi) va INRAE (milliy agronomik tadqiqotlar instituti) tomonidan ishlab chiqilgan hayot aylanishi tahlilini hisoblashga asoslangan. PEF ballini yaratish uchun taxminan o'n besh komponent hisoblab chiqiladi va bog'lanadi.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ushbu PEF baliga bonuslar va kamchiliklar (ishlab chiqarish usuli, kelib chiqishi) qo'shiladi.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-Eko-ballni hisoblash uchun ingredientlar, yo'qolib ketish xavfi ostida turgan turlar, qadoqlash).
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Qo'shimcha ma'lumot olish uchun Open Food Facts saytidagi [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) qisqacha sahifasiga, shuningdek, Eco-Score konsorsiumi veb-saytiga qarang. (Eko-ball taqdimoti [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Eko-ballni iloji boricha aniq hisoblash uchun qanday ma'lumotlar berilishi kerak?
-
-Eko-ball aniq hisoblanishi uchun har bir ingredientning foizi va uning kelib chiqishi ko'rsatilishi kerak.
-
-Agar bu ma'lumot ingredientlar ro'yxatida allaqachon ko'rsatilmagan bo'lsa, uni eslatib o'tish uchun quyidagi formatdagi ustun qo'shishingiz mumkin:
-
-Bug'doy uni 16% (Fransiya)
-
-Shokolad 8% (Fil Suyagi sohili, Ekvador)
-
-Shuningdek, bizga qadoqlash tarkibiy qismlari quyidagi ko'rinishda kerak bo'ladi: tashlanadigan 1 ta plastik plyonka, qayta ishlash uchun 1 ta FSC karton quti, qayta ishlash uchun 6 ta 1,5 litrli PET shaffof plastik idishlar, 6 ta xira rangli plastik qopqoq, 12 ta 33 cl alyuminiy plastik bankalar.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15 ta ko'rsatkichning qiymatlari qanday birlashtirilgan?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF tizimini yaxshiroq tushunish uchun siz quyidagilarni o'qishingiz mumkin: Eco-Score metodologik saytida PEF ballining izohi**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Mahalliy jihat ishlab chiqarish joyiga yoki xom ashyoning kelib chiqishi joyiga tegishlimi?
+## How are the values ​​of the 15 indicators combined?
 
-Mahalliy jihat xom ashyoning kelib chiqishi bilan bog'liq. Shu sababli, mahsulot tarkibiy qismlari ro'yxatiga yoki tarkibiy qismlarning kelib chiqishiga bag'ishlangan maydonga ularning foizlarini, shuningdek, kelib chiqishini kiritish muhimdir.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Eko-ball uchun ingredientlarning kelib chiqishini qanday kiritish mumkin?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Agar siz varaqlaringizdagi xom ashyoning kelib chiqishi haqidagi ma'lumotlarni baham ko'rmoqchi bo'lsangiz, ularni ingredientlar ro'yxatiga kiritishingizni taklif qilamiz.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
