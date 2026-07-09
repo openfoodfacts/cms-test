@@ -1,52 +1,52 @@
 ---
-title: "{{< fa ሞባይል መጠን=2x >}} የሞባይል መተግበሪያ"
-description: "4 ጥያቄዎች"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: ሞባይል
+icon: mobile
 ---
 
-{{< fa "ሞባይል" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## የትኛውን የመተግበሪያ ስሪት እየተጠቀምኩ እንደሆነ እንዴት አውቃለሁ?
+## How do I know which version of the app I'm using?
 
-ወደ **መገለጫ** ይሂዱ፣
-ከዚያም **ተደጋጋሚ ጥያቄዎች**፣ ከዚያም **ስለዚህ መተግበሪያ** ይሂዱ።
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-እንደ 3.4.5+662 ያለ የስሪት ቁጥር
-ማየት አለብዎት። የስልኩን አሠራርና ሞዴል
-ማረም ካለበት መንገርዎን አይርሱ።
-
----
-
-## መተግበሪያው አይቃኝም
-
-ይህ ሊሆን የሚችለው በ
-
-- የአውታረ መረብ ችግር
-
-- የፈቃድ ችግር
-
-- የባርኮድ ችግር
-
-በመገለጫ በኩል ኢሜይል ይላኩልን >> ያግኙን >> ኢሜይል ይላኩልን።
-
-ሁሉም ተዛማጅ መረጃዎች ከጥያቄዎ ጋር መያያዝ አለባቸው።
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## የሞባይል መተግበሪያን ለማሻሻል እንዴት መርዳት እችላለሁ?
+## The app does not scan
 
-የሞባይል መተግበሪያን ለማሻሻል እንዴት መርዳት እችላለሁ?
+This may be due to
 
-[በሞባይል መተግበሪያ ማከማቻ ላይ ማድረግ ይችላሉ](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## ስለ መተግበሪያው ግብረመልስ የት መላክ እችላለሁ?
+## How can I help with improving the mobile app ?
 
-አስተያየትዎን ወደ mobile@openfoodfacts.org መላክ ይችላሉ።
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
