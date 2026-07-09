@@ -1,6 +1,6 @@
 ---
-title: "{{< ukuran panganggo fa=2x >}} Atur akunku"
-description: "3 pitakonan"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Apa pirang-pirang akun Open Food Facts bisa disambungake menyang siji perusahaan?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Inggih, mangga kirim email dhateng [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), supados kita saged ngubungake sedaya akun dhateng perusahaan ingkang sami.
-
----
-
-## Kepriye carane ngowahi akun Open Food Facts dadi akun Pro?
-
-Sampeyan bisa ngakses [platform Pro](https://world.pro.openfoodfacts.org/) nganggo kredensial akun sampeyan sing wis ana.
-
-Yen panjenengan profesional, panjenengan kedah ngginakaken alamat email profesional supados kita saged ngesahkan akun panjenengan.
-
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Ing ngendi aku bisa nemokake dokumentasi kanggo mbantu aku nggunakake platform Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Ana sawetara sumber daya kanggo mbantu sampeyan ngoptimalake platform Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Panjenengan saged rawuh ing:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- priksani [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - panjenengan diundang kanggo ndownload PDF supaya pranalane bisa diklik, sing bakal nggampangake navigasi panjenengan ing dokumen kasebut.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- delengen [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- Nuduhake masukan utawa saran liwat [formulir iki](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Jadwalake telpon karo Manon, manajer kemitraan kita, yen sampeyan duwe pitakon liyane: [ing kene](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Hubungi kami liwat email: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
