@@ -1,7 +1,7 @@
 ---
-title: "{{< fa book size=2x >}} Folksonomie-engine"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
 description: "1 vraag"
-lang: en-gb
+lang: nl-nl
 order: 31
 category-level: 0
 icon: boek
@@ -9,9 +9,9 @@ icon: boek
 
 {{< fa "boek" size=3x >}}
 
-## Wat is de Folksonomie-engine?
+## What is the Folksonomy Engine ?
 
-De Folksonomy Engine is een systeem waarmee gebruikers aangepaste tags, of eigenschappen, kunnen toevoegen aan voedingsproducten in Open Food Facts, 's werelds grootste open voedingsdatabase. Dit stelt mensen in staat om voedsel op nieuwe manieren te categoriseren en te beschrijven, voorbij de bestaande, vooraf gedefinieerde eigenschappen.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
