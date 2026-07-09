@@ -1,19 +1,19 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Preguntas frecuentes - Inglés"
-lang: "es-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.Maryland"
-    - "*/índice.md"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: red
+  type: grid
   grid-columns: 4
-  sort: "orden"
-  fields: [ título, descripción ]
+  sort: "order"
+  fields: [ title, descripción ]
   page-size: 100
 
 # << DO NOT TRANSLATE
