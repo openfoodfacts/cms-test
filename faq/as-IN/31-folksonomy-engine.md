@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} লোকসত্ত্ব ইঞ্জিন"
-description: "১ টা প্ৰশ্ন"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: ৩১
+order: 31
 category-level: 0
-icon: কিতাপ
+icon: book
 ---
 
-{{< fa "কিতাপ" size=৩x >}}
+{{< fa "book" size=3x >}}
 
-## লোকসঙ্গীত ইঞ্জিন কি ?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine হৈছে এনে এটা ব্যৱস্থা যিয়ে ব্যৱহাৰকাৰীক বিশ্বৰ সৰ্ববৃহৎ মুক্ত খাদ্য ডাটাবেছ Open Food Facts ত খাদ্য সামগ্ৰীত কাষ্টম টেগ বা বৈশিষ্ট্য যোগ কৰিবলৈ অনুমতি দিয়ে। ইয়াৰ দ্বাৰা মানুহে খাদ্যক নতুন ধৰণে শ্ৰেণীভুক্ত আৰু বৰ্ণনা কৰিব পাৰে, বৰ্তমানৰ পূৰ্বনিৰ্ধাৰিত ধৰ্মৰ বাহিৰেও।
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
