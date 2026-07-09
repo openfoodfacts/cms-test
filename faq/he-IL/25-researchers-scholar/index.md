@@ -1,21 +1,21 @@
 ---
-title: "חוקרים/מלומדים {{< fa graduation-cap size=2x >}}"
-description: "תת-קטגוריה אחת"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: כובע סיום לימודים
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: רֶשֶׁת
+  type: grid
   grid-columns: 4
-  sort: "לְהַזמִין"
-  fields: [ כּוֹתֶרֶת, תיאור ]
+  sort: "order"
+  fields: [ title, תיאור ]
   page-size: 100
 ---
 
-{{< fa "כובע סיום לימודים" size="פי 3" >}}
+{{< fa "graduation-cap" size=3x >}}
 
