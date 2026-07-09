@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Greining á vöruúrvalinu (viðmið, úrbætur...)"
-description: "1 spurning"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: grafstika
+icon: chart-bar
 ---
 
-{{< fa "grafstika" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Hvernig fæ ég aðgang að ráðleggingum um endurformúleringu til að bæta næringargildi vara minna?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Þegar þú ert á forsíðu framleiðendapallsins:
+When you are on the home page of the Producers Platform:
 
-1. smelltu á tengilinn „→ Fjöldi vara með tækifæri til úrbóta“ efst á síðunni.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Þú getur skoðað öll tækifæri sem kerfið okkar greinir til að bæta vörur þínar
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Með því að smella á tegund tækifæris færðu lista yfir vörur sem hægt er að bæta.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Fyrir frekari upplýsingar hvetjum við þig til að hlaða niður [notendahandbók](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) og/eða skoða [myndbönd með kennslumyndböndum](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
