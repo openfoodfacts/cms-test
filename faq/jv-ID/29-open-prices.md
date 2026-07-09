@@ -1,31 +1,31 @@
 ---
-title: "{{< ukuran dolar fa=2x >}} Rega Bukak"
-description: "3 pitakonan"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Aku pengecer lan aku pengin menehi kontribusi rega. Kepiye carane aku bisa nindakake kuwi?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Sampeyan bisa nyumbang rega kanthi nggunakake [API kita](https://prices.openfoodfacts.org/api/docs). Menawi panjenengan kepéngin nyumbang rega kanthi skala gedhé, mangga hubungi kita ing [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Apa sampeyan nimbang njupuk rega saka situs web pengecer?
+## Do you consider scraping prices from retailers’ websites?
 
-Amarga alasan hukum lan teknis, kita ora nganggep njupuk rega saka situs web pengecer minangka cara sing valid kanggo nyumbang menyang Rega Terbuka. Kita pengin mesthekake yen rega sing kita kumpulake akurat lan paling anyar, lan nampa rega sing dikorek saka kontributor ora ngidini kita nindakake iku.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Yagene Open Food Facts nindakake iki (Rega Terbuka)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informasi rega iku penting banget kanggo mangerteni sistem pangan. Iku faktor kunci kanggo mangerteni biaya panganan lan kanggo ningkatake pola makan sing luwih sehat. Data rega wiwitan minangka cara kanggo nggampangake para peneliti, wartawan, lan warga supaya luwih ngerti kepiye rega pangan beda-beda sacara geografis lan wektu.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
