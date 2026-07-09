@@ -1,31 +1,31 @@
 ---
-title: "{{< gwosè batman kè fa=2x >}} Nòt Nitrisyon"
-description: "3 kesyon"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: batman kè
+icon: heartbeat
 ---
 
-{{< fa "batman kè" size="3 fwa" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Kisa mwen ta dwe fè si Nutri-Score pwodwi mwen yo pa kòrèk?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Si w gen yon pwoblèm ak Nutri-Score ou a, verifye si enfòmasyon ou yo kòrèk sou onglet "modifye" ki sou fich pwodwi w la. Si gen nenpòt enfòmasyon ki manke oswa ki pa kòrèk, pa ezite kontakte nou nan **producers@openfoodfacts.org**
-
----
-
-## Ki kalite enfòmasyon mwen ta dwe bay pou yo ka kalkile Nutri-Score la avèk otan presizyon ke posib?
-
-Kalkil Nutri-Score a pral fèt ak tablo nitrisyonèl pwodwi ou la.
-
-Pa bliye mete pousantaj fwi, legim ak nwa nan tablo ou a, pou Nutri-Score ki kalkile a pa mal.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Ki kote Nutri-Score la soti?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Se Santé Publique France ki jere Nutri-Score la. Li rezime tablo valè nitrisyonèl yo pou tout moun ka konprann li. Objektif la se bay tout moun aksè a enfòmasyon nitrisyonèl ki klè e konpreyansib.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
