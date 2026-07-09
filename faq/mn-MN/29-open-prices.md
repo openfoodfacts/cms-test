@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Нээлтийн үнэ"
-description: "3 асуулт"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: доллар
+icon: dollar
 ---
 
-{{< fa "доллар" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Би жижиглэн худалдаачин бөгөөд үнийг нь оруулмаар байна. Би үүнийг яаж хийх вэ?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Та [манай API](https://prices.openfoodfacts.org/api/docs) ашиглан үнэ оруулж болно. Хэрэв та үнийг тодорхой хэмжээгээр оруулахыг хүсвэл [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) хаягаар бидэнтэй холбогдоно уу.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Та жижиглэн худалдаачдын вэбсайтаас үнийг хасах талаар бодож байна уу?
+## Do you consider scraping prices from retailers’ websites?
 
-Хууль эрх зүйн болон техникийн шалтгааны улмаас бид жижиглэн худалдаачдын вэбсайтаас үнийг хуулж авахыг Нээлттэй үнэд хувь нэмэр оруулах хүчин төгөлдөр арга гэж үзэхгүй байна. Бид цуглуулсан үнэ нь үнэн зөв, шинэчлэгдсэн эсэхийг шалгахыг хүсч байгаа бөгөөд хувь нэмэр оруулагчдаас хуурамч үнэ хүлээн авах нь бидэнд үүнийг хийх боломжийг олгодоггүй.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Open Food Facts яагаад үүнийг хийж байна вэ (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Хүнсний системийг ойлгоход үнийн мэдээлэл маш чухал юм. Энэ нь хүнсний үнийг ойлгох, эрүүл хооллолтыг дэмжих гол хүчин зүйл юм. Нээлтийн үнийн мэдээлэл нь судлаачид, сэтгүүлчид болон иргэдэд хүнсний үнэ газарзүйн болон цаг хугацааны хувьд хэрхэн өөрчлөгдөж байгааг илүү сайн ойлгоход хялбар болгох арга юм.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
