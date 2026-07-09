@@ -1,17 +1,17 @@
 ---
-title: "ເຄື່ອງຈັກ Folksonomy"
-description: "1 ຄຳຖາມ"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: ປຶ້ມ
+icon: book
 ---
 
-{{< fa "ປຶ້ມ" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ເຄື່ອງຈັກ Folksonomy ແມ່ນຫຍັງ?
+## What is the Folksonomy Engine ?
 
-ເຄື່ອງຈັກ Folksonomy ເປັນລະບົບທີ່ຊ່ວຍໃຫ້ຜູ້ໃຊ້ສາມາດເພີ່ມແທັກ ຫຼື ຄຸນສົມບັດທີ່ກຳນົດເອງໃສ່ຜະລິດຕະພັນອາຫານໃນ Open Food Facts, ເຊິ່ງເປັນຖານຂໍ້ມູນອາຫານເປີດທີ່ໃຫຍ່ທີ່ສຸດໃນໂລກ. ສິ່ງນີ້ຊ່ວຍໃຫ້ຜູ້ຄົນສາມາດຈັດປະເພດ ແລະ ອະທິບາຍອາຫານໃນວິທີການໃໝ່ໆ, ນອກເໜືອໄປຈາກຄຸນສົມບັດທີ່ໄດ້ກຳນົດໄວ້ລ່ວງໜ້າແລ້ວ.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
