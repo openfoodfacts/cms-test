@@ -1,23 +1,23 @@
 ---
-title: "{{< fa బుక్‌మార్క్ పరిమాణం=2x >}} లేబుల్‌లు"
-description: "2 ప్రశ్నలు"
-lang: en-gb తెలుగు in లో
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: బుక్‌మార్క్
+icon: bookmark
 ---
 
-{{< fa "బుక్‌మార్క్" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## లేబుల్‌గా, ఖాతాను సృష్టించడం ముఖ్యమా?
+## As a label, is it important to create an account ?
 
-లేబుల్‌గా, మీరు ఉత్పత్తుల యొక్క ప్రత్యక్ష నిర్మాత కానందున, మీరు నిర్మాత ఖాతాను సృష్టించాల్సిన అవసరం లేదు.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## నేను ఒక లేబుల్ ని, నేను ప్రాజెక్ట్ లో ఎలా పాల్గొనగలను?
+## I am a label, how can I participate in the project?
 
-ఒక లేబుల్‌గా చేయవలసిన అత్యంత సందర్భోచితమైన విషయం ఏమిటంటే, మమ్మల్ని **(producers@openfoodfacts.org)** సంప్రదించి, మీ లేబుల్ ప్రదర్శించబడిన ఉత్పత్తుల జాబితాను మాకు పంపండి, తద్వారా మేము వాటిని సంబంధిత ఉత్పత్తి షీట్‌లలో జోడించగలము.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
