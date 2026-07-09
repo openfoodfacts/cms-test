@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Миний бүтээгдэхүүнийг удирдах"
-description: "16 асуулт"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: хайрцаг
+icon: box
 ---
 
-{{< fa "хайрцаг" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Нээлттэй хүнсний баримтуудын мэдээллийн чанарыг юу баталгаажуулдаг вэ?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Өгөгдлийн чанарыг тасралтгүй сайжруулахын тулд бид 4 тулгуур багана дээр тулгуурладаг:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Тус нийгэмлэг нь байнга мэдээлэл, зураг нэмж байдаг бөгөөд шүүмжлэгчдийн жинхэнэ эргүүл юм.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Бид бүтээгдэхүүний хуудсан дээрх алдааг тодорхойлох логик дүрмийг тогтоосон.Жишээлбэл: хэрэв орц найрлагын жингийн нийлбэр нь бүтээгдэхүүний нийт жингээс их байвал гажиг үүсдэг. Бидэнд 50 орчим чанарын шалгалт байгаа.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Машин сургалтын ачаар бид оролтын алдааны эрсдэлийг хязгаарладаг. Манай технологи нь хувь нэмэр оруулагчдын авсан зургуудаас текстэн өгөгдлийг гаргаж авах боломжийг олгодог
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France-ийн дэмжлэгтэйгээр бид үйлдвэрлэгчдэд өөрсдийн олноор үйлдвэрлэсэн мэдээллээ байршуулж, улмаар олон нийтийн оруулсан хувь нэмрийг засах/бүрэн гүйцээх боломжийг олгодог портал боловсруулсан.
-
----
-
-## Бүтээгдэхүүнийг хэрхэн нэмэх вэ?
-
-Манай платформ дээр бүтээгдэхүүн нэмэхийн тулд та эхлээд хэрхэн үргэлжлүүлэхээ шийдэх хэрэгтэй. 4 сонголт байна:
-
-- **Гараар**: хэрэв танд цөөн тооны бүтээгдэхүүн байгаа бол Pro платформ дээр бүтээгдэхүүний хуудас бүрийг гараар үүсгэх боломжтой хэвээр байна.
-
-- **Хүснэгт импортлох замаар**: та Open Food Facts-аас өгсөн хүснэгтийн [загвар](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl)-г татаж авах эсвэл өөрийн IT системээс Pro платформ руу шууд хандлалт импортлох боломжтой.
-
-- **Бүтээгдэхүүний каталогийн холбогчоор дамжуулан**. Хэрэв та EQUADIS, AGENA3000 эсвэл BAYARD-н үйлчлүүлэгч бол нэг товшилтоор Нээлттэй Хүнсний Мэдээлэлд мэдээлэл байршуулж болно. Хэрэв та өөр PIM (Бүтээгдэхүүний мэдээллийн менежмент)-тэй хамтран ажиллаж байгаа бол producers@openfoodfacts.org хаягаар бидэнтэй холбогдоно уу.
-
-- **Танай компани болон Open Food Facts-ийн хоорондох захиалгат холболтоор**. Хэрэв та портфолиодоо 1000-аас дээш бүтээгдэхүүн тоолж байгаа бол өгөгдөл дамжуулах ажлыг хөнгөвчлөх тусгай холбогч барих боломжийг хэлэлцэж болно.
-
-Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Бүтээгдэхүүний шинэчлэлтийг олон нийтийн мэдээллийн санд автоматжуулах арга бий юу?
+## How to add products?
 
-Тийм ээ, хэрэв та EQUADIS, AGENA3000 эсвэл BAYARD бүтээгдэхүүний каталогийг ашиглаж, зөв тохиргоог тохируулсан бол импортыг автоматаар хийж болох бөгөөд ингэснээр Нээлттэй Хүнсний Мэдээлэл дээрх бүтээгдэхүүний өгөгдлийг шинэчилж болно.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Нэмэгдсэн бүтээгдэхүүний тоо хязгаарлагдмал уу?
+## Is there a way to automate product updates to the public database?
 
-Хязгаарлалт байхгүй, та манай платформ дээр хүссэн бүтээгдэхүүнийхээ тоог байршуулж болно.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Хэрэв та зах зээл дээр байхгүй болсон бүтээгдэхүүнийг устгахыг хүсвэл бүтээгдэхүүний хуудсаа засахдаа "энэ бүтээгдэхүүн цаашид зарагдахгүй" гэсэн нүдийг чагтална уу.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Хэрэв та хэд хэдэн бүтээгдэхүүнийг устгахыг хүсвэл 18-р хуудсан дээрх [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf)-д дурдсан журмыг дагахыг зөвлөж байна.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Хэрэв танд асуулт байвал producers@openfoodfacts.org хаягаар бидэнтэй холбогдож болно.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Бүтээгдэхүүнийг архивлахад энэ нь Нээлттэй Хүнсний Мэдээлэлд харагдахаа болино.Гэсэн хэдий ч энэ нь бидний мэдээллийн санд үлдэх тул бид цаг хугацааны явцад борлуулсан бүтээгдэхүүний түүхийг хадгалах боломжтой.
-
----
-
-## Компанийн мэдээлэл нь платформ дээр аль хэдийн байгаа мэдээллээс давуу эрхтэй юу?
-
-Үйлдвэрлэгч өөрийн бүтээгдэхүүний аль нэгийг үйлдвэрлэгчийн бүртгэлээрээ онлайнаар байршуулсан бөгөөд бүтээгдэхүүний хуудас аль хэдийн байгаа тохиолдолд үүнийг гүйцээнэ.
-
-Үйлдвэрлэгчийн нийтэлсэн мэдээлэл үргэлж тэргүүлэх ач холбогдолтой байх бөгөөд мэдээллийг бөглөсний дараа үйлдвэрлэгч өөрөө бүтээгдэхүүнээ өөрчлөх боломжтой.
-
-Хэрэв платформоор дамжуулан илгээсэн өгөгдөл хэсэгчлэн хуваагдсан бол багцаас нийгэмлэгийн нэмсэн мэдээлэл үүнийг гүйцээж болно.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Би өөрийн өгөгдлийг ямар форматаар илгээх ёстой вэ?
+## Does company information take precedence over information already present on the platform?
 
-Open Food Facts-аас [загвар](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl)-г гаргаж байна.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Гэсэн хэдий ч, ямар ч хүснэгтийн форматыг (xlsx, csv) платформ дээр импортлох боломжтой болно.  
-Манай алгоритм нь таны файлын шинж чанаруудыг Нээлттэй Хүнсний Мэдээлэлд байгаа шинж чанаруудтай автоматаар тохируулахаар бүтээгдсэн. Заримыг нь гараар тохируулах шаардлагатай болж магадгүй тул тохирох үе шатыг үргэлж давхар шалгаж байгаарай.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Хэрэв таны мэдээлэл хэд хэдэн хүснэгтийн хооронд хуваагдсан бол та тэдгээрийг дараалан импортлох боломжтой - хэрэв формат өөрчлөгдвөл тохируулгыг хийхээ мартуузай.
-
-Хэрэв өгөгдөл таны мэдээллийн системд хараахан ороогүй байгаа бол та EQUADIS эсвэл AGENA3000 импортлохоос гадна Excel файлыг импортлох боломжтой. Эдгээр тохиолдолд интерфэйсээс олон нийтийн мэдээллийн сан руу экспортлох хүсэлт гаргахаа бүү мартаарай.
-
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Та ямар бүтээгдэхүүний каталогтой нэгтгэгдсэн бэ?
+## In what format should I send my data?
 
-Үйлдвэрлэгчид одоо бүтээгдэхүүнийхээ мэдээлэл болон зургийг **Equadis**,**AGENA3000 болон BAYARD consulting**-ээс Open Food Facts руу бодит цаг хугацаанд илгээх боломжтой болсон.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Мэдээж та шинэчлэлийн саналууд болон платформын бүх функцуудаас ашиг хүртэх болно.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Манай блог нийтлэл](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) нь хэрэв та EQUADIS-ийн хэрэглэгч бол дагах алхмуудыг тайлбарласан болно.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Хэрэв та AGENA3000 хэрэглэгч бол (A3 PIM INDUSTRY бүтээгдэхүүн), бүтээгдэхүүний хуудсаа илгээхдээ хүлээн авагч "Нээлттэй хүнсний мэдээлэл"-ийг сонгоход л хангалттай. [Энэ блог бичлэгийн талаар дэлгэрэнгүй мэдээлэл](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Хэрэв та өөр бүтээгдэхүүний мэдээллийн каталогийн хэрэглэгч бол (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks гэх мэт) [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) хаягаар бидэнд мэдэгдээрэй.
-
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Pro платформоор дамжуулан баркодгүйгээр бүтээгдэхүүн хэрхэн нэмэх вэ?
+## With which product catalogs are you integrated?
 
-Бар кодгүй бүтээгдэхүүний хувьд, сайт эсвэл үйлдвэрлэгчийн платформ дээр зүүн баганад "Бар кодгүй бүтээгдэхүүн" товчлуур байгаа бөгөөд та тэдгээрийг нэмэх боломжтой. Дараа нь танигч автоматаар үүсгэгддэг.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Бид гоо сайхны бүтээгдэхүүн, малын тэжээл, түүнчлэн бусад бүтээгдэхүүний талаар тодорхой төслүүдийг боловсруулсан: Гоо сайхны талаарх нээлттэй баримтууд, Гэрийн тэжээвэр амьтдын хоолны талаарх нээлттэй баримтууд болон Бүтээгдэхүүний талаарх нээлттэй баримтууд.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Миний компанийн бүтээгдэхүүний мэдээлэл Open Food Facts дээр байгаа. Холбогдох үйлдвэрлэгчийн дансыг хянах боломжтой юу?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Тийм ээ, мэдээж! Та өөрийн бизнесийн хаягаар Нээлттэй Хүнсний Мэдээллийн данс үүсгэснээр холбогдох үйлдвэрлэгчийн дансыг хянах боломжтой. Бүртгүүлэхдээ харгалзах үйлдвэрлэгчийн орон зайд хандахын тулд маягт дээр байгаа байгууллагын нэрийг дурдана уу.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Та үнэхээр үйлдвэрлэгч мөн эсэхийг баталгаажуулахын тулд богино баталгаажуулалтын алхам шаардлагатай болно.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Та өгөгдлийг бөглөх, зураг нэмэх, Nutri-Score-г сайжруулах автомат зөвлөмж авах гэх мэт олон зүйлийг хийх боломжтой болно. Энэ бүхэн мэдээж бүрэн үнэ төлбөргүй. Та мөн EQUADIS, AGENA3000 болон Bayard consulting зэрэг гуравдагч талын бүтээгдэхүүний өгөгдлийн удирдлагын системийг холбож болно.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
-
----
-
-## Нээлттэй хүнсний мэдээллийн санг дахин ашиглаж буй бусад аппликейшнуудын үйлдвэрлэгчийн мэдээллийг шинэчлэхэд хэр хугацаа шаардагдах вэ?
-
-Энэ нь аппликейшнуудаас хамаарна. Манай API-г ашигладаг хүмүүсийн хувьд буюу дийлэнх нь энэ нь шууд юм.  
-Бидний өдөр тутмын экспортыг ашигладаг хүмүүсийн хувьд, хэрэв тэд үүнийг шинэчилсэн бол энэ нь D+1 байна.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Бүтээгдэхүүний бүртгэлээс өгөгдөл импортлох нь одоо байгаа бүтээгдэхүүний бүртгэлийг гүйцээх үү эсвэл дарж бичих үү?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Бид бар код ашиглан бүтээгдэхүүнийг тодорхойлдог бөгөөд хэрэв та одоо байгаа бичлэгтэй ижил бар кодтой бичлэгийг импортловол мэдээллийг нэгтгэх болно.
-
-Орц найрлагын жагсаалт, тэжээллэг чанар (зөвхөн нэг зөв утга байж болно) зэрэг өгөгдлийн хувьд үйлдвэрлэгчийн платформоор дамжуулан илгээсэн өгөгдөл нь одоо байгаа өгөгдлийг дарж бичих болно.
-
-Шошго/ангилал/брэнд гэх мэт өгөгдлийн хувьд (хэд хэдэн зөв утга байж болно) мэдээллийг нэгтгэсэн. Хэрэв өгөгдөл олон нийтийн платформ дээр буруу байвал та буруу утгыг арилгахын тулд олон нийтийн платформ дээрх бүтээгдэхүүний хуудсыг өөрчилж болно.
-
-→ Дэлгэрэнгүй мэдээллийг авахыг хүсвэл манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах болон/эсвэл манай [видео хичээлүүд](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)-г үзэхийг урьж байна :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Орц найрлагын дараалал чухал уу?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Орц найрлагын дараалал чухал: энэ нь тоо хэмжээгээр дарааллыг илэрхийлнэ.
-Орц найрлагыг дүүргэх хамгийн сайн арга бол сав баглаа боодол дээр бичигдсэн зүйлийг яг таг дагаж мөрдөх явдал юм. Тиймээс орц найрлагын зургийг хэвлэх нь маш чухал юм.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Би AGENA3000-аар дамжуулан зураг илгээж болох уу?
+## Is the order of ingredients important?
 
-Та зураг илгээж болно, гэхдээ практик дээр зөвхөн үндсэн зургийг автоматаар сонгох бөгөөд бусад зургийг илгээх боловч орц найрлага, тэжээллэг чанар гэх мэтээр тайрч/сонгохгүй.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Pro платформын хичээлүүдэд хэрхэн хандах вэ?
+## Can I send images via AGENA3000 too?
 
-Та мэргэжлийн платформын хичээлүүдэд хандах боломжтой:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Мэргэжлийн платформоор дамжуулан: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Шууд [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) дээр
+## How to access the Pro platform’s tutorials?
 
-→ Та мөн манай [хэрэглэгчийн гарын авлага](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)-г татаж авах боломжтой.
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
