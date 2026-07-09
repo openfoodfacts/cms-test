@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Упайлар жөнүндө"
-description: "3 суроо"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: диаграмма сызыгы
+icon: chart-line
 ---
 
-{{< fa "диаграмма сызыгы" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Изди жана/же упайын эсептөө үчүн ким жооптуу?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score, NOVA тобу жана Eco-Score Open Food Facts бөлүмүндөгү маалыматтардын негизинде эсептелет. Биздин алгоритмдер ушул упайлардын расмий методологияларын так аткарат.
-
----
-
-## Eco-Score, Nutri-Score жана NOVA тобунун ортосунда кандай айырма бар?
-
-Бул индикаторлордун максаты - керектөөчүгө түшүнүктүү маалымат берүү.
-
-[NOVA тобу](https://fr.openfoodfacts.org/nova) продуктунун трансформациясы менен, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) анын айлана-чөйрөгө тийгизген таасирин жана [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) азыктык элементтери менен алектенет, анткени продуктунун упайлары Ага жакын канчалык көп болсо, ал ошончолук сапаттуу болорун билишет.
-
-3 упай бир эле элементтерди камтыбайт. Ошондуктан, аларды бири-бири менен салыштырууга мүмкүн эмес.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Менин продукцияларымдын Eco-Score же Nutri-Score көрсөткүчтөрүн симуляциялоо мүмкүнбү?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Өндүрүүчүлөрдүн платформасына катталып, өнүмдөрүңүздүн маалыматтарын жүктөө менен, сиз өнүмдөрүңүзгө байланыштуу Nutri-Score жана Eco-Score эсептей аласыз.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Бирок, симуляция жүргүзүлгөндөн кийин, ал сиздин ассортиментиңизде мурунтан эле сатылып жаткан өнүмдөр менен коомдук платформага экспорттолбошу үчүн, аны жок кылышыңыз керек.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Көбүрөөк маалымат алуу үчүн, сизди биздин [колдонуучу колдонмосун](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) жүктөп алууга жана/же биздин [видео окуу куралдарыбызды](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) карап чыгууга чакырабыз :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
