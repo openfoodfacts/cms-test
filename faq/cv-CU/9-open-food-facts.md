@@ -1,33 +1,33 @@
 ---
-title: "{{< fa ыйту-ҫаврашка пысӑкӑшӗ=2x >}} Уҫӑ апат-ҫимӗҫ факчӗсем"
-description: "9 ыйту"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: ыйту-ҫаврашка
+icon: question-circle
 ---
 
-{{< fa "ыйту-ҫаврашка" size=3х >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Пур тӗслӗхре те тенӗ пекех вӗсен ӗҫ условийӗсем ҫынна мар усӑ курма тата мӗнпур даннӑйсене е даннӑйсен пайӗсене кӑларма уҫҫӑнах чараҫҫӗ.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Ҫавӑнпа та эпир 2012 ҫулта Open Food Facts проекта тата мобильлӗ приложение пуҫарса янӑ чухне шӑпах пачах урӑхла тума шутларӑмӑр: эпир хамӑрӑн базӑпа пурне те тата пур ӗҫре те (ҫав шутра коммерци валли те) тӳлевсӗр тата тӳлевсӗр усӑ курма тата тепӗр хут усӑ курма ирӗк паратпӑр кӑна мар, ӑна хавхалантаратпӑр та!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Даннӑйсене пуриншӗн те уҫӑ тӑвасси (_уҫӑ даннӑйсем_ теҫҫӗ) тӗнчери уйрӑм ҫынсене, пӗрлешӳсене, компанисене, тӗпчевҫӗсене тата ыттисене те эпир нихҫан та шухӑшламан даннӑйсем валли приложенисем шухӑшласа кӑларма тата хатӗрлеме май парать.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## What is Open Food Facts' economic model
+## What is Open Food Facts' economic model?
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (см. [Условия повторно использованию](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Ҫапла вара кашниех (ҫав шутра, анчах та ҫакӑнпа кӑна чикӗленмест, Open Food Facts-а хутшӑнакансем тата ҫыракансем) даннӑйсене веб-сайтсем, сервиссем, программӑсем, мобильлӗ приложенисем тума е статьясемпе тӗпчевсем ҫырма ҫӗнӗрен салатма тата/е тепӗр хут усӑ курма пултараҫҫӗ. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Сӑмахран, пирӗн производительсем валли хатӗрленӗ платформа пачах та тӳлевсӗр, эпир ҫакӑнпа тата ытларах кӑмӑллӑ, мӗншӗн тесен вӑл вӗсене хӑйсен продукцине лайӑхлатма пулӑшӗ тесе шутлатпӑр.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,80 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Ыйтусем пама е сӗнӳсем пама пултаратӑр theforumor пирӗнпе e-mail адреспа ҫыхӑнӑр:contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Эсир продюсер пулсан, пире [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) адреспа ҫырӑр.
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Эсир журналист пулсан, пирӗн пата [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org) адреспа ҫырӑр.
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Асӑрхаттаратпӑр: [Open Food Facts — апат-ҫимӗҫ продукчӗсен пӗрлехи бази](https://world.openfoodfacts.org/discover), эпир нимӗнле продукци те сутмастпӑр тата вӗсене туса кӑларакансемпе ҫыхӑну тытмастпӑр. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Информаципе даннӑйсене Open Food Facts ҫыравҫисем тӑратнӑ. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. тӗслӗхрен, енчен те продуктӑн апатлану факчӗсем пӗр категорири продуктсенчен питӗ уйрӑлса тӑраҫҫӗ пулсан, ку йӑнӑш пулма пултарать. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Эсир продюсер пулсан, [пирӗнпе ҫыхӑнӑр](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. ([Вклад условийӗсене](https://en.openfoodfacts.org/terms-of-use#contribution) пӑхӑр)
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Эпир сире хӑвӑрӑн продукци ҫинчен сӑнӳкерчӗксемпе даннӑйсене, сирӗн пысӑкӑшне пӑхмасӑрах, ҫӑмӑллӑнах импортлама май паракан тӳлевсӗр платформа туса хатӗрлерӗмӗр. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Эпир мӗнле ӗҫлемеллине сӳтсе явма пирӗнпе ҫыхӑнӑр: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Open Food Facts даннӑйӗсемпе кам усӑ курать?
+## Who uses Open Food Facts data?
 
-Open Food Facts
-платформӑна шанса тӑракан мӗнпур организацие асӑнса тухма ытла та вӑрах вӑхӑт кирлӗ пулӗччӗ.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- 100 ытла мобильлӗ приложени
-  нумай аудиторин ыйтӑвӗсене тивӗҫтерет: сахӑр диабечӗ (VeryDiab), аллерги, апат-ҫимӗҫ
-  искусственнӑй интеллект урлӑ шайлашу (FoodVisor), сусӑрлӑх тата ытти те. Пирӗн
-  даннӑйсен бази те Юка тума май пачӗ.
-- Нумай сайт: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Дата-журналистсем : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Тӗпчевҫӗсем 100 яхӑн наука
-  статйинче
-- Апат-ҫимӗҫ банкӗсемпе солидарлӑх магазинӗсем:
-  Data For Good проект
-  Францин Хӗрлӗ Хӗресӗ пуҫарса янӑ пилотлӑ проектӑн тӑтӑшлӑхӗнче, пӗчӗк
-  апат-ҫимӗҫ кооперативӗн укҫа-тенкӗпе усӑ курассине интеграцилесси.
-- Компанисем: Terraillon пирӗн
-  даннӑйсемпе усӑ курса хӑйӗн ҫыхӑннӑ масштабӗсене пурнӑҫ парать.
-- Программировани шкулӗсем (Simplon, Open
-  Classrooms) хӑйсен
-  вӗрентӳ программине Open Food Facts программӑна хавхалантаракан проект пек кӗртнӗ.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Уҫӑ апат-ҫимӗҫ факчӗсене мӗнле пулӑшма пулать?
+## How can I support Open Food Facts?
 
 Open Food
-Фактсем — 1901 ҫулта йӗркеленнӗ коммерциллӗ мар пӗрлешӳ. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
 (66% deductible) and also by using the Lilo
 search engine.
 
-**Пысӑк тав
-сире!**
+**Thank
+you very much!**
 
 ---
 
-## Эпӗ хамӑн ыйту ҫине хурав тупаймастӑп
+## I can't find the answer to my question
 
-Енчен те эсир хӑвӑрӑн ыйту(сем) ҫине хурав тупаймасан, пирӗнпе ҫак адреспа ҫыхӑнма ан иккӗленӗр:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Пирӗн Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Пирӗн форум: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
