@@ -1,51 +1,52 @@
 ---
-title: "{{< fa movilpa sayaynin=2x >}} Movilpaq app"
-description: "4 tapuykuna"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: apaykachana
+icon: mobile
 ---
 
-{{< fa "apaykachana" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## ¿Imaynatataq yachayman mayqin versión app llamk'achisqayta?
+## How do I know which version of the app I'm using?
 
-Riy **Perfil**,
-chaymanta **FAQ**, chaymanta **Kay appmanta.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-3.4.5+662 hina laya yupayta qhawanayki tiyan. Ama qunqaychu willawayku marca chaymanta modelo
-telefonomanta sichus pantaykunata allichachkan.
-
----
-
-## Chay aplicacionqa manan escaneanchu
-
-Kayqa kanmanmi chayrayku
-
-- huk llika sasachakuy
-
-- huk permisokuna sasachakuy
-
-- huk código de barras nisqa sasachakuy
-
-Perfil >> Contacto >> Huk correo electrónicota apachimuwayku.
-
-Tukuy tupaq willakuykunatam mañakusqaykiman k’askachinayki.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## ¿Imaynatataq yanapayman celularpaq app allinchaypi ?
+## The app does not scan
 
-¿Imaynatataq yanapayman celularpaq app allinchaypi ?
+This may be due to
 
-[Chaytaqa ruwayta atinki Mobile app waqaychasqapi](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Maypitaq chay appmanta yuyaykunata apachiyman ?
+## How can I help with improving the mobile app ?
 
-Yuyaykunata apachiyta atinki kayman mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
