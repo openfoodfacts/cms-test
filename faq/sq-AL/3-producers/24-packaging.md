@@ -1,49 +1,49 @@
 ---
-title: "Paketimi {{< madhësia e kubit fa=2x >}}"
-description: "3 pyetje"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kub
+icon: cube
 ---
 
-{{< fa "kub" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Si mund t’i shtoj të dhënat e paketimit tim në Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Si prodhues, mënyra më efikase për të shtuar të dhëna paketimi në produktet tuaja është duke plotësuar këtë [spreadsheet excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) informacionin e nevojshëm, nga kolona "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Për secilin përbërës të paketimit, do të duhet të futni:
+For each packaging component, you will need to enter:
 
-- Numri i njësive (p.sh.: **4** enë me kos)
+- The number of units (ex: **4** pots of yogurts)
 
-- Forma (p.sh.: **tenxhere, kapak, kuti, etj.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materiali (p.sh.: **PET, letër, qelq, etj.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Udhëzimi për riciklimin (p.sh.: **të riciklohet, të hidhet, etj.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Pesha e një njësie bosh (në gr)
+- The weight of one empty unit (in gr)
 
-- Sasia neto e produktit të përmbajtur për njësi
+- The net quantity of product contained per unit
 
-Kjo spreadsheet mund të importohet më pas në platformën tonë të dedikuar për profesionistët.
-
----
-
-## Çfarë është projekti "Përballimi i Paketimit të Ushqimit"?
-
-Projekti "Trajtimi i Paketimit të Ushqimit" konsiston në mbledhjen e informacionit të detajuar mbi paketimin e produkteve më të konsumuara (forma, materiali, udhëzimet e renditjes, pesha, kapaciteti).
-
-Bazuar në një qasje shkencore pjesëmarrëse, do të mbështetet si te kompanitë që bien dakord të ndajnë të dhënat e paketimit të tyre dhe të luajnë lojën e transparencës, ashtu edhe te qytetarët që lejojnë mbledhjen e informacionit mbi produktet. Ky informacion do të jetë i ripërdorshëm lirisht ("të dhëna të hapura").
-
-Për më shumë informacion:\*\* [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Edhe pas përfundimit të projektit "Përballimi i Paketimit të Ushqimit", a mund t'i shtoj ende të dhënat e paketimit tim?
+## What is the Tackling Food Packaging project?
 
-Edhe pas përfundimit të projektit, është e mundur të shtohen të dhëna të paketimit pasi fushat e paketimit do të mbeten në faqen tonë të internetit.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
