@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Фолксономи Двигатель"
-description: "1 ыйту"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: кӗнеке
+icon: book
 ---
 
-{{< fa "кӗнеке" size=3х >}}
+{{< fa "book" size=3x >}}
 
-## Фольксономи двигательӗ мӗн вӑл?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine — тӗнчери чи пысӑк уҫӑ апат-ҫимӗҫ бази Open Food Facts-ра апат-ҫимӗҫ продукчӗсем ҫине ятарлӑ тегсем е характеристикӑсем хушма май паракан тытӑм. Ҫакӑ ҫынсене апат-ҫимӗҫе ҫӗнӗ майсемпе, малтанах палӑртса хунӑ пахалӑхсенчен тухса, категорилеме тата ҫырса кӑтартма май парать.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
