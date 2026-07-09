@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} De Apertis Cibis Factis"
-description: "Quattuor quaestiones"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
-order: XVII
+order: 17
 category-level: 1
-icon: circulus informationis
+icon: info-circle
 ---
 
-{{< fa "circulus informationis" size=Ter >}}
+{{< fa "info-circle" size=3x >}}
 
-## Qualis informatio communicanda est?
+## What type of information should be shared?
 
-Quaevis informatio quam habes grata est, ab informatione nutritionis ad informationem de involucris.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Hoc permittit ut fasciculus completus constituatur, omnes notae cum accurate computentur, et generaliter perspicuitas a consumidoribus probata.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Tamen commendamus ut his agris prioritatem tribuas:
+However we do recommend you prioritize the following fields:
 
-- Informationes nutritionales
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Categoria productorum (e.g. potiones, caseus, iogurt, etc.)
-
-- Nomen producti
-
-- Allergena
-
-- et ingredientia, hoc spatium non est necessarium sed commendatur ad usum optimum et determinationem punctorum.
-
-→ Plura cognoscendi causa, te invitamus ut [manuale usoris](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nostrum detrahas et/vel [documenta nostra videalia](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) consulas :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Possumne notitias ex "Open Food Facts" depromere?
+## Can I download Open Food Facts data?
 
-Omnia data ex Open Food Facts praesto depromere potes. Cave, hoc multum spatii in disco requirit, computatrum potentem si tabella uti vis, vel scientiam linguae R vel Python aliter.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Etiam partem datorum (exempli gratia, notam tuam) per inquisitionem provectam detrahere potes.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Plura cognoscendi causa, te invitamus ut [manuale usoris](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nostrum detrahas et/vel [documenta nostra videalia](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) consulas :-)
-
----
-
-## Estne accessus ad suggestum Pro et importatio datorum gratuita?
-
-Plane, et in perpetuum erit.Omnia officia ab Open Food Facts praebita gratuita sunt.  
-Valde gaudemus te decrevisse notitias productorum tuorum ad perspicuitatem ciborum conferre, et tibi gratias agimus pro hoc.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Meliorationes pro suggestu professionali suggerere velim, quomodo id facere possum?
+## Is access to the Pro platform and the import of data free?
 
-Gratias tibi ago pro voluntate tua ad perspicuitatem alimentariam participandam!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Optima ratio ad opiniones communicandas est hoc formulario implendo (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Nobiscum etiam contactum facere potes ut suggestiones facias, sive per [forum nostrum](https://forum.openfoodfacts.org/) sive per [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Slack nostro coniunge et canalem #productores intra ut nobiscum communicare possis.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
