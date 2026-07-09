@@ -1,5 +1,5 @@
 ---
-title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
+title: "{{< fa user-circle size=2x >}} Mon compte Open Food Facts"
 description: "2 questions"
 lang: en-gb
 order: 1
@@ -9,19 +9,19 @@ icon: user-circle
 
 {{< fa "user-circle" size=3x >}}
 
-## I want to delete my account
+## Je souhaite supprimer mon compte
 
-Account deletion now happens directly in your preferences.
+La suppression de compte se fait désormais directement dans vos préférences.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Après vous être connecté sur [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), cliquez sur votre nom d'utilisateur en haut à droite, puis choisissez Paramètres du compte. Cela ouvre votre page de préférences. Allez en bas de la page et utilisez l'action &quot;supprimer l'utilisateur&quot;.
 
-If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
+Si vous ne parvenez pas à vous connecter (ou à réinitialiser votre mot de passe), veuillez contacter dpo - at - [openfoodfacts.org](http://openfoodfacts.org), en utilisant l'adresse e-mail avec laquelle vous avez enregistré votre compte.
 
 ---
 
-## How do I change my username?
+## Comment changer mon nom d'utilisateur ?
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Malheureusement, ce n'est pas possible. Si vous souhaitez vraiment le changer, vous devez supprimer votre compte et en créer un nouveau.
 
 ---
 
