@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ዳታ ምውራድ"
-description: "1 ሕቶ"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: ደበና-ምውራድ
+icon: cloud-download
 ---
 
-{{< fa "ደበና-ምውራድ" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ንሓንቲ ፍልይቲ ሃገር ዝምልከት ዳታ ካበይ ንረክብ?
+## Where to get the data for a specific country?
 
-ኣብዚ ሕዚ እዋን ንፍሉያት ሃገራት ዝተወፈየ ሰደድ የለን።
+Currently, there are no exports dedicated to specific countries.
 
-ዝተፈላለየ ሰደድና ምስ ዝተፈላለዩ መሳርሒታት ተደሚሩ ምስ ሓንቲ ፍልይቲ ሃገር ዝተኣሳሰር ዳታ ንምምራጽ ብዙሕ መንገድታት ኣሎ።
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[ገለ ካብዚ ሜላታት ኣብ ዊኪና](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) ክትዕዘቡ ትኽእሉ ኢኹም።
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
