@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "שאלות נפוצות - אנגלית"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: רֶשֶׁת
+  type: grid
   grid-columns: 4
-  sort: "לְהַזמִין"
-  fields: [ כּוֹתֶרֶת, תיאור ]
+  sort: "order"
+  fields: [ title, תיאור ]
   page-size: 100
 
 # << DO NOT TRANSLATE
