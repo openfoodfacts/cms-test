@@ -1,51 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} ናይ ሞባይል ኣፕ"
-description: "4 ሕቶታት"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: ተንቀሳቓሲ
+icon: mobile
 ---
 
-{{< fa "ተንቀሳቓሲ" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## ኣየናይ ስሪት ናይቲ ኣፕ ከም ዝጥቀም ብኸመይ ይፈልጥ?
+## How do I know which version of the app I'm using?
 
-ናብ **Profile**፡
-ድሕሪኡ **FAQ**፡ ድሕሪኡ **ብዛዕባ እዚ ኣፕ።** ኪድ።
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-ከም 3.4.5+662 ዝኣመሰለ ቁጽሪ ስሪት ክትሪኢ ይግባእ። እታ ስልኪ ዲባግ ትገብር እንተኾይና make and model
-ክትነግረና ኣይትረስዕ።
-
----
-
-## እቲ ኣፕ ስካን ኣይገብርን እዩ።
-
-እዚ ብሰንኪ...
-
-- ናይ ኔትወርክ ጸገም እዩ።
-
-- ናይ ፍቓድ ጸገም እዩ።
-
-- ናይ ባርኮድ ጸገም
-
-ብፕሮፋይል ኢመይል ስደዱልና >> ርኸቡና >> ኢመይል ስደዱልና።
-
-ኩሉ ኣገዳሲ ሓበሬታ ምስ ሕቶኹም ክተሓሓዝ ኣለዎ።
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## ኣብ ምምሕያሽ ናይ ሞባይል ኣፕ ብኸመይ ክሕግዝ ይኽእል ?
+## The app does not scan
 
-ኣብ ምምሕያሽ ናይ ሞባይል ኣፕ ብኸመይ ክሕግዝ ይኽእል ?
+This may be due to
 
-[ኣብ መኽዘን ኣፕ ሞባይል ክትገብሮ ትኽእል ኢኻ](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## ብዛዕባ እቲ ኣፕ ርእይቶ ኣበይ ክሰድድ ይኽእል ?
+## How can I help with improving the mobile app ?
 
-ርእይቶኹም ናብ mobile@openfoodfacts.org ክትሰዱ ትኽእሉ ኢኹም።
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
