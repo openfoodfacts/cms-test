@@ -1,55 +1,55 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "5 mistoqsijiet"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: utent-plus
+icon: user-plus
 ---
 
-{{< fa "utent-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## X'inhi l-metodoloġija tal-Eco-Score?
+## What is the Eco-Score methodology?
 
-L-Eco-Score huwa bbażat fuq il-kalkolu tal-analiżi taċ-ċiklu tal-ħajja prodotta mill-ADEME (l-aġenzija tat-tranżizzjoni ekoloġika) u l-INRAE (l-istitut nazzjonali għar-riċerka agronomika). Madwar ħmistax-il komponent huma kkalkulati u marbuta flimkien biex jinħoloq il-punteġġ tal-PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ma’ dan il-punteġġ tal-PEF jiżdiedu l-bonuses u l-maluses (mod ta’ produzzjoni, oriġini ta’
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingredjenti, speċi fil-periklu, imballaġġ) sabiex jiġi kkalkulat l-Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Għal aktar informazzjoni, ara l-paġna tas-sommarju [[https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) fuq Open Food Facts kif ukoll fuq il-websajt tal-konsorzju Eco-Score. (Preżentazzjoni tal-Eco-Score [[https://docs.score-environnemental.com/](https://docs.score-environmental.com/))
-
----
-
-## X'tip ta' informazzjoni trid tingħata biex l-Eco-Score jiġi kkalkulat bl-aktar mod preċiż possibbli?
-
-Biex l-Eco-Score jiġi kkalkulat eżattament, iridu jiġu speċifikati l-perċentwal ta’ kull ingredjent u l-oriġini tiegħu.
-
-Jekk din l-informazzjoni mhix diġà speċifikata fil-lista tal-ingredjenti, tista' żżid kolonna biex issemmiha, bil-format li ġej:
-
-Dqiq tal-qamħ 16% (Franza)
-
-Ċikkulata 8% (Kosta tal-Avorju, Ekwador)
-
-Neħtieġu wkoll il-komponenti tal-imballaġġ fil-forma ta': film tal-plastik wieħed biex tarmih, kaxxa tal-kartun FSC waħda biex tirriċikla, 6 fliexken tal-plastik trasparenti PET ta' 1.5 L biex tirriċikla, 6 tappijiet tal-plastik ikkuluriti opaki, 12-il landa tal-plastik tal-aluminju ta' 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Kif huma kkombinati l-valuri tal-15-il indikatur?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Biex tifhem aħjar is-sistema tal-PEF, tista' taqra: spjegazzjoni tal-punteġġ tal-PEF fuq is-sit metodoloġiku tal-Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## L-aspett lokali jikkonċerna l-post tal-manifattura jew il-post tal-oriġini tal-materja prima?
+## How are the values ​​of the 15 indicators combined?
 
-L-aspett lokali jikkonċerna l-oriġini tal-materja prima. Huwa għalhekk li huwa importanti li tiddaħħal il-perċentwali tagħhom kif ukoll l-oriġini tagħhom fil-lista tal-ingredjenti tal-prodott jew fil-qasam iddedikat għall-oriġini tal-ingredjenti.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Kif nista' ndaħħal l-oriġini tal-ingredjenti għall-eko-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Jekk tixtieq taqsam l-informazzjoni dwar l-oriġini tal-materja prima fuq il-folji tiegħek, nistednuk tinkludihom fil-lista tal-ingredjenti.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
