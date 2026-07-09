@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Ekologinis balas"
-description: "5 klausimai"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: naudotojas plius
+icon: user-plus
 ---
 
-{{< fa "naudotojas plius" size="3 kartus" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Kas yra „Eco-Score“ metodologija?
+## What is the Eco-Score methodology?
 
-Ekologinis balas pagrįstas ADEME (ekologinio perėjimo agentūros) ir INRAE (Nacionalinio agronominių tyrimų instituto) atliktos gyvavimo ciklo analizės skaičiavimu. PEF balui apskaičiuoti ir susieti apie penkiolika komponentų.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Prie šio PEF balo pridedami premijos ir nuolaidos (gamybos būdas, produkto kilmė).
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-sudedamosios dalys, nykstančios rūšys, pakuotė), siekiant apskaičiuoti ekologinį balą.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Daugiau informacijos rasite santraukos puslapyje [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) „Open Food Facts“ svetainėje ir „Eco-Score“ konsorciumo svetainėje. (Ekologinio balo pristatymas [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Kokio tipo informaciją reikia pateikti, kad ekologinis balas būtų apskaičiuotas kuo tiksliau?
-
-Norint tiksliai apskaičiuoti ekologinį balą, reikia nurodyti kiekvieno ingrediento procentinę dalį ir jo kilmę.
-
-Jei ši informacija dar nenurodyta sudedamųjų dalių sąraše, galite pridėti stulpelį, kuriame ji būtų paminėta tokiu formatu:
-
-Kvietiniai miltai 16% (Prancūzija)
-
-Šokoladas 8% (Dramblio Kaulo Krantas, Ekvadoras)
-
-Taip pat mums reikia šių pakuotės komponentų: 1 plastikinės plėvelės išmetimui, 1 FSC kartoninės dėžės perdirbimui, 6 permatomi PET plastikiniai buteliai po 1,5 l perdirbimui, 6 nepermatomi spalvoti plastikiniai dangteliai, 12 plastikinių skardinių po 33 cl aliuminio.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Kaip sujungiamos 15 rodiklių vertės?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Norėdami geriau suprasti PEF sistemą, galite perskaityti: PEF balo paaiškinimą „Eco-Score“ metodologijos svetainėje**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Ar vietinis aspektas susijęs su gamybos vieta, ar su žaliavų kilmės vieta?
+## How are the values ​​of the 15 indicators combined?
 
-**Vietinis aspektas susijęs su žaliavų kilme.** Štai kodėl svarbu produkto ingredientų sąraše arba ingredientų kilmei skirtame laukelyje įrašyti jų procentus ir kilmę.
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Kaip įvesti ingredientų kilmę ekologiniam balui apskaičiuoti?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Jei norite pasidalinti informacija apie žaliavų kilmę savo lapuose, kviečiame jas įtraukti į ingredientų sąrašą.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
