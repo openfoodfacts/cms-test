@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - Englisch"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: Netz
+  type: grid
   grid-columns: 4
-  sort: "Befehl"
-  fields: [ Titel, Beschreibung ]
+  sort: "order"
+  fields: [ title, Beschreibung ]
   page-size: 100
 
 # << DO NOT TRANSLATE
