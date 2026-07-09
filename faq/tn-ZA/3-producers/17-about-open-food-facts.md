@@ -1,62 +1,58 @@
 ---
-title: "{{< bogolo jwa sediko sa tshedimosetso=2x >}} Ka ga Dintlha tsa Dijo tse di Buletsweng"
-description: "Dipotso di le 4"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: sediko sa tshedimosetso
+icon: info-circle
 ---
 
-{{< fa "sediko sa tshedimosetso" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Ke tshedimosetso ya mofuta ofe e e tshwanetseng go abelanwa?
+## What type of information should be shared?
 
-Tshedimosetso nngwe le nngwe e o nang le yone e amogelesegile, go tswa mo tshedimosetsong ya phepo go ya kwa tshedimosetsong ya go phuthela.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Sena se etsa hore ho khonehe ho theha faele e feletseng, ho bala dintlha tsohle ka nepo le ho feta ka kakaretso ho pepeseha ananelang ke bareki.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Le fa go ntse jalo re akantsha gore o dire gore dikarolo tse di latelang di tle pele:
+However we do recommend you prioritize the following fields:
 
-- Tshedimosetso ya dikotla
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Setlhopha sa dikumo (sekao, dino, tšhisi, yogurt, jj.)
-
-- Leina la kuno
-
-- Dialeji
-
-- le metswako, tšhemo eno ga e gapelediwe mme e kgothalediwa gore e dirisiwe ka tsela e e siameng le go tlhomamisa maduo
-
-→ Go bona dintlha tse dingwe, re go laletsa go laisolola [kaedi ya rona ya modirisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kgotsa go leba [dithuto tsa rona tsa bidio](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## A nka laisolola tshedimosetso ya Dintlha tsa Dijo tse di Buletsweng?
+## Can I download Open Food Facts data?
 
-O ka laisolola tshedimosetso yotlhe e e leng teng mo Dintlhang tsa Dijo tse di Buletsweng. Ela tlhoko, seno se tlhoka sebaka se sentsi mo disekeng, khomphiutha e e maatla fa o batla go dirisa seporeteshiti kgotsa kitso ya R kgotsa Python ka tsela e sele.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Gape o ka laisolola karolwana ya tshedimosetso (letshwaokgwebo la gago ka sekai) ka ntlha ya patlo e e gatetseng pele.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Go bona dintlha tse dingwe, re go laletsa go laisolola [kaedi ya rona ya modirisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kgotsa go leba [dithuto tsa rona tsa bidio](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## A go fitlhelela polatefomo ya Pro le go reka tshedimosetso go tswa kwa ntle ke mahala?
-
-Gotlhelele, mme e tla nna ka bosakhutleng.Ditirelo tsotlhe tse di tlamelwang ke Open Food Facts ga di duelelwe.  
-Re itumelela thata gore o tsere tshwetso ya go tsenya letsogo mo tshedimosetsong ya dikumo tsa gago mo go nneng le ponatshegelo ya dijo, mme re go lebogela seno.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ke rata go tshitshinya ditokafatso tsa polatefomo ya seporofešenale, nka dira jalo jang ?
+## Is access to the Pro platform and the import of data free?
 
-Re lebogela go iketleeletsa ga gago go tsaya karolo mo go nneng le dijo mo pepeneneng!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Tsela e e molemo ya go abelana ditshwaelo ke ka go tlatsa [foromo eno](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Gape o ka ikgolaganya le rona go dira dikakantsho e ka nna ka [foramo ya rona](https://forum.openfoodfacts.org/) kgotsa ka [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Kopanela le Slack ya rona mme o tsene mo kanaleng ya #batlhagisi go ikgolaganya le rona.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
