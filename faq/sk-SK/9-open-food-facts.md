@@ -1,37 +1,37 @@
 ---
-title: "{{< fa question-circle size=2x >}} Otvorené fakty o jedle"
-description: "9 otázok"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: kruh otázok
+icon: question-circle
 ---
 
-{{< fa "kruh otázok" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
-## Aký je rozdiel od iných webových stránok, služieb a mobilných aplikácií, ktoré už umožňujú prezeranie informácií o potravinách?
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 Hlavný rozdiel je pre nás zásadný: naše údaje sú voľne dostupné všetkým a na všetky účely. Tomu sa hovorí otvorené dáta.
 
-Takmer všetky ostatné stránky, služby a aplikácie zakazujú ostatným reprodukovať a opätovne používať ich údaje. Práve naopak, žiarlivo si to nechávajú pre seba. Takmer vo všetkých prípadoch ich podmienky služby výslovne zakazujú akékoľvek neosobné použitie a akúkoľvek extrakciu všetkých údajov alebo ich častí.
+Takmer všetky ostatné stránky, služby a aplikácie zakazujú ostatným reprodukovať a opätovne používať ich údaje. Práve naopak, žiarlivo si to nechávajú pre seba. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Domnievame sa, že informácie o potravinárskych výrobkoch sú príliš dôležité a užitočné na to, aby boli zamknuté v trezore. Takže keď sme v roku 2012 spustili projekt a mobilnú aplikáciu Open Food Facts, rozhodli sme sa urobiť presný opak: nielenže umožňujeme používanie a opätovné použitie našej databázy, voľne a bezplatne, každému a na všetky účely (vrátane komerčného), ale to aj podporujeme!
+Domnievame sa, že informácie o potravinárskych výrobkoch sú príliš dôležité a užitočné na to, aby boli zamknuté v trezore. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Zverejnenie údajov (tzv. _otvorené údaje_) umožňuje jednotlivcom, združeniam, spoločnostiam, výskumníkom atď. z celého sveta vymýšľať a vyvíjať aplikácie pre údaje, o ktorých by sme si určite nikdy nemysleli.
-
----
-
-## Aký je ekonomický model Open Food Facts?
-
-Prispievatelia sú dobrovoľníci. Ich príspevky sa zhromažďujú v otvorenej databáze, ktorú môže použiť každý a na všetky účely. (pozri [Podmienky opätovného použitia](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Každý (vrátane, ale nie výlučne, prispievateľov a tvorcov Open Food Facts) môže teda dáta ďalej distribuovať a/alebo opätovne používať na vytváranie webových stránok, služieb, softvéru, mobilných aplikácií alebo na písanie článkov a štúdií. Môžu voľne sprístupniť výsledné dielo, prípadne ho predať či speňažiť (napr. reklamami), pokiaľ budú rešpektovať podmienky opätovného použitia.
-
-Sme tiež prísne nezávislí od potravinárskeho priemyslu a všetky služby a softvér, ktorý vytvárame, sú bezplatné. Napríklad naša platforma pre výrobcov je úplne bezplatná a sme s tým o to viac spokojní, pretože si myslíme, že by im to mohlo pomôcť zlepšiť ich produkty.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Môžem pridať obrázky produktov alebo údaje zo stránok výrobcu, nákupných stránok alebo iných stránok?
+## What is Open Food Facts' economic model
+
+Prispievatelia sú dobrovoľníci. Ich príspevky sa zhromažďujú v otvorenej databáze, ktorú môže použiť každý a na všetky účely. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Môžu voľne sprístupniť výsledné dielo, prípadne ho predať či speňažiť (napr. reklamami), pokiaľ budú rešpektovať podmienky opätovného použitia.
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 Pravdepodobne nie. Takmer všetky ostatné stránky zakazujú reprodukciu a opätovné použitie ich údajov a obrázkov, a to je vlastne dôvod, prečo sme vytvorili Open Food Facts: aby boli všetky tieto údaje dostupné všetkým a na všetky účely.
 
@@ -39,83 +39,83 @@ Aby sme predišli akémukoľvek právnemu problému, žiadame prispievateľov, a
 
 ---
 
-## Ako môžem kontaktovať tím Open Food Facts, klásť otázky alebo podávať návrhy?
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Môžete klásť otázky alebo dávať návrhy na fóre alebo nás kontaktovať e-mailom: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Ak ste výrobca, pošlite nám e-mail na adresu [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Ak ste novinár, napíšte nám e-mail na adresu [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Upozornenie: [Open Food Facts je spoločná databáza potravinárskych výrobkov](https://world.openfoodfacts.org/discover), nepredávame žiadne produkty a nemáme prepojenia na ich výrobcov. Pre otázku alebo reklamáciu produktu je potrebné napísať priamo výrobcovi (adresa na etikete produktu).
-
----
-
-## Sú informácie a údaje o produktoch overené?
-
-Informácie a údaje predkladajú prispievatelia portálu Open Food Facts. Prispievatelia tiež posielajú obrázky produktu, jeho etikety, zoznamy zložiek a tabuľku výživových údajov. V prípade pochybností si tak môžu návštevníci sami skontrolovať správnosť a v prípade chyby ju môžu na mieste opraviť.
-
-Aby sme mohli ľahšie odhaliť potenciálne chyby, budeme postupne pridávať automatické kontroly. Napr. ak sa nutričné hodnoty produktu veľmi líšia od produktov rovnakej kategórie, môže ísť o chybu. Ak súčet živín predstavuje viac ako 100 %, je to určite chyba.
-
-Nakoniec nám mnohí výrobcovia posielajú fotografie a údaje o svojich produktoch pomocou našej platformy pre výrobcov. Ak ste producent, prosím [kontaktujte nás](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Som výrobca potravinárskych výrobkov, môžem pridať svoje vlastné výrobky?
+## Is the information and data on products verified?
 
-Áno! Jedinou podmienkou je súhlas so sprístupnením údajov a obrázkov pod otvorenou licenciou. (pozri [Podmienky príspevku](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. Prispievatelia tiež posielajú obrázky produktu, jeho etikety, zoznamy zložiek a tabuľku výživových údajov. V prípade pochybností si tak môžu návštevníci sami skontrolovať správnosť a v prípade chyby ju môžu na mieste opraviť.
 
-Vyvinuli sme bezplatnú platformu, ktorá vám umožní jednoducho importovať fotografie a údaje o vašich produktoch bez ohľadu na ich veľkosť. Umožní vám importovať kompletné a aktuálne údaje a vizuály do Open Food Facts, ktoré budú viditeľné vo viac ako 100 ďalších nutričných aplikáciách. Okrem toho platforma poskytuje návrhy na zlepšenie Nutri-Score vašich produktov. Kontaktujte nás a preberte s nami, ako by sme mohli postupovať: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Aby sme mohli ľahšie odhaliť potenciálne chyby, budeme postupne pridávať automatické kontroly. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Ak súčet živín predstavuje viac ako 100 %, je to určite chyba.
+
+Nakoniec nám mnohí výrobcovia posielajú fotografie a údaje o svojich produktoch pomocou našej platformy pre výrobcov. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Kto používa dáta Open Food Facts?
+## I am a food product manufacturer, can I add my own products?
+
+Áno! Jedinou podmienkou je súhlas so sprístupnením údajov a obrázkov pod otvorenou licenciou. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Umožní vám importovať kompletné a aktuálne údaje a vizuály do Open Food Facts, ktoré budú viditeľné vo viac ako 100 ďalších nutričných aplikáciách. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- Viac ako 100 mobilných aplikácií
-  rieši potreby mnohých cieľových skupín: cukrovka (VeryDiab), alergie, potravinová
-  rovnováha prostredníctvom umelej inteligencie (FoodVisor), zdravotné postihnutia a ďalšie. Naša databáza
-  tiež umožnila vytvorenie Yuky.
-- Veľa webových stránok: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Dátoví novinári : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Výskumníci v takmer 100 vedeckých
-  článkoch
-- Potravinové banky a obchody solidarity: projekt
-  Data For Good v rámci pilotného projektu iniciovaného
-  Francúzskym Červeným krížom, integrácia do riadenia hotovosti malého potravinového
-  družstva.
-- Spoločnosti: Terraillon využíva naše údaje
-  na to, aby vdýchol život svojim prepojeným váham.
-- Programátorské školy (Simplon, Open
-  Classrooms) integrovali Open Food Facts ako motivačný projekt do svojich
-  učebných osnov.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Ako môžem podporiť Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts je nezisková organizácia založená v roku 1901. Môžete nám pomôcť [účasťou na projekte](https://fr-en.openfoodfacts.org/contribute) a finančne nás podporiť svojimi [darmi](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66 % odpočítateľná suma) a tiež použitím vyhľadávača Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Ďakujem veľmi pekne
-!**
+**Thank
+you very much!**
 
 ---
 
-## Neviem nájsť odpoveď na svoju otázku
+## I can't find the answer to my question
 
-Ak nenájdete odpoveď na vašu otázku (otázky), neváhajte nás kontaktovať prostredníctvom:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Náš Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Naše fórum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
