@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} నా ఉత్పత్తులను నిర్వహించండి"
-description: "16 ప్రశ్నలు"
-lang: en-gb తెలుగు in లో
-order: 21 తెలుగు
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
+lang: en-gb
+order: 21
 category-level: 1
-icon: పెట్టె
+icon: box
 ---
 
-{{< fa "పెట్టె" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ లోని డేటా నాణ్యతకు ఏది హామీ ఇస్తుంది?
+## What guarantees the quality of the data in Open Food Facts?
 
-**డేటా నాణ్యతను నిరంతరం మెరుగుపరచడానికి మేము 4 స్తంభాలపై ఆధారపడతాము:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. ఈ సంఘం నిరంతరం డేటా మరియు ఫోటోలను జోడిస్తోంది మరియు సమీక్షకుల నిజమైన గస్తీగా ఉంది.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. ఉత్పత్తి షీట్లలో లోపాలను గుర్తించడానికి మేము లాజిక్ నియమాలను సెట్ చేసాము.ఉదాహరణకు: పదార్థాల బరువు మొత్తం ఉత్పత్తి మొత్తం బరువు కంటే ఎక్కువగా ఉంటే, అక్కడ ఒక క్రమరాహిత్యం ఉంటుంది. మా వద్ద దాదాపు 50 ఇతర నాణ్యతా తనిఖీలు ఉన్నాయి.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. మెషిన్ లెర్నింగ్‌కు ధన్యవాదాలు, మేము ఇన్‌పుట్ ఎర్రర్‌ల ప్రమాదాన్ని పరిమితం చేస్తాము. మా సాంకేతికత సహకారులు తీసిన ఫోటోల నుండి టెక్స్ట్ డేటాను సంగ్రహించడానికి అనుమతిస్తుంది.
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. శాంటే పబ్లిక్ ఫ్రాన్స్ మద్దతుతో, నిర్మాతలు తమ భారీ-ఉత్పత్తి డేటాను అప్‌లోడ్ చేయడానికి మరియు తద్వారా సంఘం యొక్క సహకారాలను సరిదిద్దడానికి/పూర్తి చేయడానికి అనుమతించే పోర్టల్‌ను మేము అభివృద్ధి చేసాము.
-
----
-
-## ఉత్పత్తులను ఎలా జోడించాలి?
-
-మా ప్లాట్‌ఫామ్‌కు ఉత్పత్తులను జోడించడానికి, మీరు మొదట ఎలా కొనసాగించాలనుకుంటున్నారో నిర్ణయించుకోవాలి. 4 ఎంపికలు ఉన్నాయి:
-
-- **మాన్యువల్‌గా**: మీకు తక్కువ సంఖ్యలో ఉత్పత్తులు ఉంటే, ప్రో ప్లాట్‌ఫామ్‌లో ప్రతి ఉత్పత్తి షీట్‌ను చేతితో సృష్టించడం ఇప్పటికీ సాధ్యమే.
-
-- **స్ప్రెడ్‌షీట్ దిగుమతి ద్వారా**: మీరు ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ అందించిన స్ప్రెడ్‌షీట్ [టెంప్లేట్](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl)ని డౌన్‌లోడ్ చేసుకోవచ్చు లేదా మీ IT సిస్టమ్ నుండి నేరుగా ప్రో ప్లాట్‌ఫామ్‌లోకి సంగ్రహణను దిగుమతి చేసుకోవచ్చు.
-
-- **ఉత్పత్తి కేటలాగ్‌ల కనెక్టర్ల ద్వారా**. మీరు EQUADIS, AGENA3000 లేదా BAYARDలో క్లయింట్ అయితే, మీరు 1 క్లిక్‌లో ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో డేటాను అప్‌లోడ్ చేయవచ్చు. మీరు మరొక PIM (ఉత్పత్తి సమాచార నిర్వహణ)తో పనిచేస్తుంటే, దయచేసి మమ్మల్ని సంప్రదించండి: producers@openfoodfacts.org
-
-- **మీ కంపెనీ మరియు ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ మధ్య అనుకూలీకరించిన కనెక్షన్ ద్వారా**. మీ పోర్ట్‌ఫోలియోలో 1000 కంటే ఎక్కువ ఉత్పత్తులు ఉంటే, డేటా బదిలీని సులభతరం చేయడానికి ఒక నిర్దిష్ట కనెక్టర్‌ను నిర్మించే అవకాశాన్ని మనం చర్చించవచ్చు.
-
-మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ను డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ను సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## పబ్లిక్ డేటాబేస్‌కు ఉత్పత్తి నవీకరణలను ఆటోమేట్ చేయడానికి ఏదైనా మార్గం ఉందా?
+## How to add products?
 
-అవును, మీరు EQUADIS, AGENA3000 లేదా BAYARD ఉత్పత్తి కేటలాగ్‌లను ఉపయోగించి, సరైన కాన్ఫిగరేషన్‌ను సెటప్ చేస్తే, దిగుమతి స్వయంచాలకంగా చేయబడుతుంది మరియు అందువల్ల ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో ఉత్పత్తి డేటాను నవీకరించవచ్చు.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ని సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## జోడించిన ఉత్పత్తుల సంఖ్య పరిమితంగా ఉందా?
+## Is there a way to automate product updates to the public database?
 
-పరిమితి లేదు, మీరు మా ప్లాట్‌ఫామ్‌లో మీకు కావలసిన ఉత్పత్తుల సంఖ్యను అప్‌లోడ్ చేయవచ్చు.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-మీరు మార్కెట్లో అందుబాటులో లేని ఉత్పత్తిని తీసివేయాలనుకుంటే, మీరు మీ ఉత్పత్తి షీట్‌ను సవరించేటప్పుడు "ఈ ఉత్పత్తి ఇకపై అమ్మబడదు" అనే పెట్టెను ఎంచుకుంటే సరిపోతుంది.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-మీరు అనేక ఉత్పత్తులను తీసివేయాలనుకుంటే, పేజీ 18లోని [యూజర్ గైడ్](>https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf)లో పేర్కొన్న విధానాన్ని అనుసరించమని మేము మీకు సిఫార్సు చేస్తున్నాము.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-మీకు ఏవైనా ప్రశ్నలు ఉంటే, మీరు producers@openfoodfacts.org ద్వారా కూడా మమ్మల్ని సంప్రదించవచ్చు.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-ఉత్పత్తిని ఆర్కైవ్ చేసినప్పుడు, అది ఇకపై ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో కనిపించదు.అయితే, ఇది మా డేటాబేస్‌లో ఉంటుంది, తద్వారా కాలక్రమేణా అమ్ముడైన ఉత్పత్తుల చరిత్రను మేము ఉంచుకోవచ్చు.
-
----
-
-## ప్లాట్‌ఫామ్‌లో ఇప్పటికే ఉన్న సమాచారం కంటే కంపెనీ సమాచారానికి ప్రాధాన్యత ఉంటుందా?
-
-ఒక నిర్మాత తన ఉత్పత్తుల్లో ఒకదాన్ని తన నిర్మాత ఖాతాతో ఆన్‌లైన్‌లో ఉంచినప్పుడు మరియు ఇప్పటికే ఒక ఉత్పత్తి షీట్ ఉంటే, ఇది దాన్ని పూర్తి చేస్తుంది.
-
-నిర్మాత పోస్ట్ చేసే సమాచారానికి ఎల్లప్పుడూ ప్రాధాన్యత ఉంటుంది మరియు సమాచారం నింపబడినప్పుడు అతను మాత్రమే తన ఉత్పత్తులను సవరించగలడు.
-
-ప్లాట్‌ఫామ్ ద్వారా పంపబడిన డేటా విచ్ఛిన్నమైతే, ప్యాకేజింగ్ నుండి కమ్యూనిటీ జోడించిన సమాచారం దానిని పూర్తి చేయవచ్చు.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## నా డేటాను ఏ ఫార్మాట్‌లో పంపాలి?
+## Does company information take precedence over information already present on the platform?
 
-ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ద్వారా [టెంప్లేట్](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) అందించబడింది.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-అయితే, ఏదైనా స్ప్రెడ్‌షీట్ ఫార్మాట్ (xlsx, csv) ప్లాట్‌ఫామ్‌లో దిగుమతి చేసుకోవచ్చు.  
-మా అల్గోరిథం మీ ఫైల్‌లోని లక్షణాలను ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో ఉన్న వాటితో స్వయంచాలకంగా సరిపోల్చడానికి రూపొందించబడింది. మీరు వాటిలో కొన్నింటిని మాన్యువల్‌గా సర్దుబాటు చేయాల్సి రావచ్చు కాబట్టి మ్యాచింగ్ దశను ఎల్లప్పుడూ రెండుసార్లు తనిఖీ చేయడంలో జాగ్రత్త వహించండి.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-మీ సమాచారం అనేక స్ప్రెడ్‌షీట్‌ల మధ్య విభజించబడి ఉంటే, మీరు వాటిని వరుసగా దిగుమతి చేసుకోవచ్చు - ఫార్మాట్ మారితే సరిపోలిక ఉండేలా చూసుకోండి.
-
-మీ సమాచార వ్యవస్థలో డేటా ఇంకా లేకపోతే, మీరు EQUADIS లేదా AGENA3000 దిగుమతితో పాటు ఎక్సెల్ ఫైల్‌ను కూడా దిగుమతి చేసుకోవచ్చు. ఈ సందర్భాలలో, ఇంటర్‌ఫేస్ నుండి పబ్లిక్ డేటాబేస్‌కు ఎగుమతిని అభ్యర్థించడం మర్చిపోవద్దు.
-
-→ మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ని సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## మీరు ఏ ఉత్పత్తి కేటలాగ్‌లతో అనుసంధానించబడ్డారు?
+## In what format should I send my data?
 
-తయారీదారులు ఇప్పుడు తమ ఉత్పత్తి డేటా మరియు ఫోటోలను **ఈక్వాడిస్,** **AGENA3000 మరియు BAYARD కన్సల్టింగ్** నుండి ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌కు నిజ సమయంలో పంపవచ్చు.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-మీరు ఖచ్చితంగా సంస్కరణ సూచనలు మరియు ప్లాట్‌ఫారమ్ యొక్క అన్ని లక్షణాల నుండి కూడా ప్రయోజనం పొందుతారు.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-మీరు EQUADIS కస్టమర్ అయితే అనుసరించాల్సిన దశలను [మా బ్లాగ్ పోస్ట్](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) వివరిస్తుంది.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-మీరు AGENA3000 కస్టమర్ (ఉత్పత్తి A3 PIM INDUSTRY) అయితే, మీ ఉత్పత్తి షీట్‌లను పంపేటప్పుడు మీరు గ్రహీత "ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్" ను ఎంచుకోవాలి. [ఈ బ్లాగ్ పోస్ట్ గురించి మరిన్ని వివరాలు](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-మీరు మరొక ఉత్పత్తి డేటా కేటలాగ్ (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, మొదలైనవి) యొక్క కస్టమర్ అయితే దయచేసి [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) వద్ద మాకు తెలియజేయండి.
-
-→ మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ని సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ప్రో ప్లాట్‌ఫామ్ ద్వారా బార్‌కోడ్‌లు లేకుండా ఉత్పత్తులను ఎలా జోడించాలి?
+## With which product catalogs are you integrated?
 
-సైట్‌లో లేదా ప్రొడ్యూసర్ ప్లాట్‌ఫామ్‌లో బార్‌కోడ్ లేని ఉత్పత్తుల కోసం, ఎడమ కాలమ్‌లో "బార్‌కోడ్ లేని ఉత్పత్తి" బటన్ ఉంటుంది, అది వాటిని జోడించడానికి మిమ్మల్ని అనుమతిస్తుంది. అప్పుడు ఒక ఐడెంటిఫైయర్ స్వయంచాలకంగా ఉత్పత్తి అవుతుంది.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-మేము సౌందర్య సాధనాల కోసం, పశుగ్రాసం కోసం, అలాగే ఇతర ఉత్పత్తుల కోసం నిర్దిష్ట ప్రాజెక్టులను రూపొందించాము: వరుసగా ఓపెన్ బ్యూటీ ఫ్యాక్ట్స్, ఓపెన్ పెట్ ఫుడ్ ఫ్యాక్ట్స్ మరియు ఓపెన్ ప్రొడక్ట్స్ ఫ్యాక్ట్స్.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## నా కంపెనీ నుండి ఉత్పత్తి డేటా ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్‌లో అందుబాటులో ఉంది. అనుబంధ నిర్మాత ఖాతాను నియంత్రించడం సాధ్యమేనా?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-అవును అయితే! మీ వ్యాపార చిరునామాతో ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ఖాతాను సృష్టించడం ద్వారా మీరు అనుబంధ నిర్మాత ఖాతాను నియంత్రించవచ్చు. మీరు నమోదు చేసుకునేటప్పుడు, సంబంధిత నిర్మాత స్థలాన్ని యాక్సెస్ చేయడానికి ఫారమ్‌లో ఉన్న సంస్థ పేరును పేర్కొనండి.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-మీరు నిజంగా నిర్మాత అని నిర్ధారించుకోవడానికి ఒక చిన్న ధ్రువీకరణ దశ అవసరం.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-మీరు డేటాను పూర్తి చేయగలరు, చిత్రాలను జోడించగలరు, న్యూట్రి-స్కోర్‌ను మెరుగుపరచడానికి ఆటోమేటిక్ సిఫార్సులను పొందగలరు మరియు మరిన్ని చేయగలరు. ఇవన్నీ పూర్తిగా ఉచితం. మీరు EQUADIS, AGENA3000 మరియు Bayard కన్సల్టింగ్ వంటి మూడవ పక్ష ఉత్పత్తి డేటా నిర్వహణ వ్యవస్థను కూడా కనెక్ట్ చేయవచ్చు.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ని సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
-
----
-
-## ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ డేటాబేస్‌ను తిరిగి ఉపయోగించే ఇతర యాప్‌లలో నిర్మాత డేటాను నవీకరించడానికి ఎంత సమయం పడుతుంది?
-
-ఇది యాప్‌లపై ఆధారపడి ఉంటుంది. మా API లను ఉపయోగించే వారికి, ఇది అత్యధికులు, ఇది తక్షణమే.  
-మా రోజువారీ ఎగుమతులను ఉపయోగించే వారికి, వారు దానిని నవీకరించినట్లయితే అది D+1 అవుతుంది.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ఉత్పత్తి రికార్డు నుండి డేటాను దిగుమతి చేసుకోవడం వలన ఇప్పటికే ఉన్న ఉత్పత్తి రికార్డు పూర్తవుతుందా లేదా ఓవర్‌రైట్ అవుతుందా?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-ఉత్పత్తులను గుర్తించడానికి మేము బార్‌కోడ్‌ను ఉపయోగిస్తాము, మీరు ఇప్పటికే ఉన్న రికార్డ్ వలె అదే బార్‌కోడ్‌తో రికార్డ్‌ను దిగుమతి చేసుకుంటే, సమాచారం విలీనం చేయబడుతుంది.
-
-పదార్థాల జాబితా, పోషక విలువలు (ఒకే సరైన విలువ సాధ్యమే) వంటి డేటా కోసం, నిర్మాత ప్లాట్‌ఫామ్ ద్వారా పంపబడిన డేటా ఇప్పటికే ఉన్న డేటాను ఓవర్‌రైట్ చేస్తుంది.
-
-లేబుల్‌లు/వర్గాలు/బ్రాండ్‌లు (అనేక సరైన విలువలు సాధ్యమే) వంటి డేటా కోసం, సమాచారం విలీనం చేయబడుతుంది. పబ్లిక్ ప్లాట్‌ఫామ్‌లో డేటా తప్పుగా ఉంటే, తప్పు విలువలను తొలగించడానికి మీరు పబ్లిక్ ప్లాట్‌ఫామ్‌లోని ఉత్పత్తి షీట్‌ను సవరించవచ్చు.
-
-→ మరిన్ని వివరాల కోసం, మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) డౌన్‌లోడ్ చేసుకోమని మరియు/లేదా మా [వీడియో ట్యుటోరియల్స్](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ని సంప్రదించమని మేము మిమ్మల్ని ఆహ్వానిస్తున్నాము :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## పదార్థాల క్రమం ముఖ్యమా?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-పదార్థాల క్రమం ముఖ్యం: ఇది పరిమాణం ప్రకారం క్రమాన్ని సూచిస్తుంది.
-పదార్థాలను నింపడానికి ఉత్తమ మార్గం ప్యాకేజింగ్‌పై వ్రాసిన వాటిని ఖచ్చితంగా పాటించడం. అందుకే పదార్థాల ఫోటోలను ముద్రించడం కూడా చాలా ముఖ్యం.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## నేను AGENA3000 ద్వారా కూడా చిత్రాలను పంపవచ్చా?
+## Is the order of ingredients important?
 
-మీరు చిత్రాలను పంపవచ్చు కానీ ఆచరణలో ప్రధాన చిత్రం మాత్రమే స్వయంచాలకంగా ఎంపిక చేయబడుతుంది, ఇతర చిత్రాలు పంపబడతాయి, కానీ పదార్థాలు, పోషకాహారం మొదలైన వాటి కోసం కత్తిరించబడవు / ఎంపిక చేయబడవు.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## ప్రో ప్లాట్‌ఫామ్ యొక్క ట్యుటోరియల్‌లను ఎలా యాక్సెస్ చేయాలి?
+## Can I send images via AGENA3000 too?
 
-మీరు ప్రో ప్లాట్‌ఫామ్ యొక్క ట్యుటోరియల్‌లను యాక్సెస్ చేయవచ్చు:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- ప్రో ప్లాట్‌ఫామ్ ద్వారానే: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- నేరుగా [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) లో
+## How to access the Pro platform’s tutorials?
 
-→ మీరు మా [యూజర్ గైడ్](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) కూడా డౌన్‌లోడ్ చేసుకోవచ్చు.
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
