@@ -1,23 +1,23 @@
 ---
-title: "{{< mezinahiya nîşankerê fa=2x >}} Etîket"
-description: "2 pirs"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: nîşanek
+icon: bookmark
 ---
 
-{{< fa "nîşanek" size="3 caran" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Wekî etîketekê, gelo çêkirina hesabê girîng e?
+## As a label, is it important to create an account ?
 
-Wek etîketekê, ji ber ku hûn rasterast hilberînerê berheman nînin, hûn ne hewce ne ku hesabê hilberîner biafirînin.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ez labelek im, ez çawa dikarim beşdarî projeyê bibim?
+## I am a label, how can I participate in the project?
 
-Wekî etîketekê, tiştê herî guncaw ev e ku hûn bi me re têkilî daynin **(producers@openfoodfacts.org)** û navnîşa hilberên ku etîketa we li ser wan tê xuyang kirin ji me re bişînin da ku em wan li ser pelên hilberên têkildar zêde bikin.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
