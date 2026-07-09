@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eko-Balı"
-description: "5 sual"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: istifadəçi əlavəsi
+icon: user-plus
 ---
 
-{{< fa "istifadəçi əlavəsi" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Eko-Skor metodologiyası nədir?
+## What is the Eco-Score methodology?
 
-Eko-Balı ADEME (ekoloji keçid agentliyi) və INRAE (milli aqronomiya tədqiqatları institutu) tərəfindən hazırlanmış həyat dövrü təhlilinin hesablanmasına əsaslanır. PEF balını yaratmaq üçün təxminən on beş komponent hesablanır və əlaqələndirilir.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Bu PEF balına bonuslar və çatışmazlıqlar (istehsal üsulu, mənşəyi) əlavə olunur.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-Eko-Balı hesablamaq üçün tərkib hissələri, nəsli kəsilməkdə olan növlər, qablaşdırma)
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Daha ətraflı məlumat üçün Open Food Facts saytında, eləcə də Eco-Score konsorsiumunun veb saytında xülasə səhifəsinə [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) baxın. (Eko-Balı təqdimatı [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Eko-balın mümkün qədər dəqiq hesablanması üçün hansı növ məlumat verilməlidir?
-
-Eko-balın dəqiq hesablanması üçün hər bir inqrediyentin faizi və mənşəyi göstərilməlidir.
-
-Əgər bu məlumat artıq inqrediyentlər siyahısında göstərilməyibsə, onu qeyd etmək üçün aşağıdakı formatda bir sütun əlavə edə bilərsiniz:
-
-Buğda unu 16% (Fransa)
-
-Şokolad 8% (Fil Dişi Sahili, Ekvador)
-
-Həmçinin qablaşdırmanın tərkib hissələri aşağıdakı formada olmalıdır: 1 plastik örtük, təkrar emal üçün 1 FSC karton qutu, təkrar emal üçün 6 ədəd 1,5 litrlik PET şəffaf plastik şüşə, 6 ədəd qeyri-şəffaf rəngli plastik qapaq, 12 ədəd 33 cl alüminium qutu.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## 15 göstəricinin dəyərləri necə birləşdirilir?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF sistemini daha yaxşı başa düşmək üçün aşağıdakıları oxuya bilərsiniz: Eco-Score metodoloji saytında PEF balının izahı**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Yerli aspekt xammalın istehsal yeri ilə, yoxsa mənşə yeri ilə bağlıdırmı?
+## How are the values ​​of the 15 indicators combined?
 
-Yerli aspekt xammalın mənşəyi ilə bağlıdır. Buna görə də məhsul tərkib hissələrinin siyahısına və ya tərkib hissələrinin mənşəyinə həsr olunmuş sahəyə onların faizlərini, eləcə də mənşələrini daxil etmək vacibdir.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Eko-bal üçün inqrediyentlərin mənşəyini necə daxil etmək olar?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Xammalın mənşəyi haqqında məlumatı vərəqlərinizdə paylaşmaq istəyirsinizsə, onları tərkib hissələri siyahısına daxil etməyə dəvət edirik.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
