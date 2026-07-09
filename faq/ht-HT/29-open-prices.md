@@ -1,31 +1,31 @@
 ---
-title: "{{< gwosè dola fa=2x >}} Pri Ouvèti"
-description: "3 kesyon"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dola
+icon: dollar
 ---
 
-{{< fa "dola" size="3 fwa" >}}
+{{< fa "dollar" size=3x >}}
 
-## Mwen se yon détayan e mwen vle kontribye nan pri yo. Kijan m ka fè sa?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Ou ka kontribye pri yo lè w sèvi ak [API nou an](https://prices.openfoodfacts.org/api/docs). Si ou vle kontribye pri an gran kantite, tanpri kontakte nou nan [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Èske w ap konsidere grate pri sou sit entènèt détayan yo?
+## Do you consider scraping prices from retailers’ websites?
 
-Pou rezon legal ak teknik, nou pa konsidere retire pri sou sit entènèt détayan yo kòm yon fason valab pou kontribye nan Open Prices. Nou vle asire nou ke pri nou kolekte yo egzak epi yo ajou, epi resevwa pri ki kopye nan men kontribitè yo pa pèmèt nou fè sa.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Poukisa Open Food Facts ap fè sa (Pri Ouvè)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Enfòmasyon sou pri yo gen yon enpòtans kapital pou konprann sistèm alimantè yo. Li se yon faktè kle pou konprann pri manje epi pou ankouraje rejim alimantè ki pi an sante. Done pri ouvèti a se yon fason pou fè li pi fasil pou chèchè yo, jounalis yo ak sitwayen yo gen yon pi bon konpreyansyon sou kijan pri manje yo varye jewografikman ak nan tan.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
