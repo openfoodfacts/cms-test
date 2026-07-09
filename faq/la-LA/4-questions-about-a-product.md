@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Quaestiones de producto"
-description: "Una quaestio"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: corbis emptionum
+icon: shopping-basket
 ---
 
-{{< fa "corbis emptionum" size=Ter >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Quaestionem/querim de producto habeo.
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) est situs collaborativus a clientibus creatus et nutritus ut inscriptiones interpretari et res comparare possint.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Pro pluribus informationibus de producto vel postulatione, ad fabricatorem scribe. Informationes contactus fabricatorum non habemus, sed saepissime in involucris inveniuntur.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Si nobis auxilium ferre vis ut plus perspicuitatis clientibus, qualis es tu vel nobis, afferamus, applicatione nostra iPhone vel Android uti potes ad res addendas: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Et ut de incepto disseras, coetui contributorum Facebookiano te adiungere potes: [[https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) vel cum aliis contributoribus per Slack colloqui:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
