@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} গৱেষক/পণ্ডিত"
-description: "১ উপশ্ৰেণী"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
-order: ২৫
+order: 25
 category-level: 0
-icon: গ্ৰেজুৱেচন-কেপ
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: গ্ৰিড
+  type: grid
   grid-columns: 4
-  sort: "ক্ৰম"
-  fields: [ অলপ, description ]
-  page-size: ১০০
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "গ্ৰেজুৱেচন-কেপ" size=৩x >}}
+{{< fa "graduation-cap" size=3x >}}
 
