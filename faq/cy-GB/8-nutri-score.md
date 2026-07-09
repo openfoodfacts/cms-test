@@ -1,31 +1,31 @@
 ---
-title: "{{< maint curiad calon fa=2x >}} Sgôr Maeth"
-description: "3 cwestiwn"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: curiad calon
+icon: heartbeat
 ---
 
-{{< fa "curiad calon" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Beth ddylwn i ei wneud os nad yw Sgôr Maeth fy nghynhyrchion yn gywir?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Os bydd problem gyda'ch Sgôr Maeth, gwiriwch fod eich gwybodaeth yn gywir ar y tab "addasu" ar eich taflen gynnyrch. Os oes unrhyw wybodaeth ar goll neu'n anghywir, mae croeso i chi gysylltu â ni yn \*\* producers@openfoodfacts.org\*\*
-
----
-
-## Pa fath o wybodaeth ddylwn i ei darparu fel bod y Sgôr Maeth yn cael ei gyfrifo mor gywir â phosibl?
-
-Bydd cyfrifiad y Sgôr Maeth yn cael ei wneud gyda thabl maethol eich cynnyrch.
-
-Peidiwch ag anghofio cynnwys canran y ffrwythau, llysiau a chnau yn eich tabl, fel nad yw'r Sgôr Maeth a gyfrifwyd yn anghywir.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## O ble mae'r Sgôr Maeth yn dod?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Rheolir y Nutri-Score gan Santé Publique France. Mae'n crynhoi'r tabl o werthoedd maethol fel y gall pawb ei ddeall. Y nod yw darparu mynediad at wybodaeth faethol glir a dealladwy i bawb.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
