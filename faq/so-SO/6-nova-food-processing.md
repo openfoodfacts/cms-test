@@ -1,15 +1,15 @@
 ---
-title: "{{< fa dhalada cabbirka=2x >}} NOVA / Habaynta cuntada"
-description: "1 su'aal"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: dhalo
+icon: flask
 ---
 
-{{< fa "dhalo" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## Waa maxay NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
