@@ -21,7 +21,7 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ---
 
-## What is Open Food Facts' economic model
+## What is Open Food Facts' economic model?
 
 Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
