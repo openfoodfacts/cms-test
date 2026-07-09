@@ -1,17 +1,17 @@
 ---
-title: "{{< laki ng libro ng fa=2x >}} Makina ng Folksonomy"
-description: "1 tanong"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: libro
+icon: book
 ---
 
-{{< fa "libro" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Ano ang Folksonomy Engine?
+## What is the Folksonomy Engine ?
 
-Ang Folksonomy Engine ay isang sistemang nagbibigay-daan sa mga user na magdagdag ng mga custom na tag, o mga katangian, sa mga produktong pagkain sa Open Food Facts, ang pinakamalaking open-food database sa mundo. Nagbibigay-daan ito sa mga tao na ikategorya at ilarawan ang pagkain sa mga bagong paraan, na lampas sa mga umiiral nang paunang natukoy na katangian.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
