@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Sɛgɛsɛgɛli min bɛ kɛ ka ɲɛsin fɛn dilannenw ma (benchmark, improvement...)"
-description: "1 ɲininkali"
-lang: bamanankan-gb
-order: 22. Ɲɛjirali dɔw
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: chart-bar (jatebɔ-sɛbɛn-bara).
+icon: chart-bar
 ---
 
-{{< fa "chart-bar (jatebɔ-sɛbɛn-bara)." size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Cogo di ka se ka reformulation recommandation sɔrɔ walasa ka n ka fɛn dilannenw ka Nutri-Score ɲɛ?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Ni i bɛ Producteurs Plateforme ɲɛ fɔlɔ kan:
+When you are on the home page of the Producers Platform:
 
-1. i ka "→ Fɛn minnu bɛ kɛ ni ɲɛtaa siraw ye" yɔrɔ digi min bɛ ɲɛ sanfɛ.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. aw bɛ se ka cogoyaw bɛɛ lajɛ minnu sɔrɔla an ka sistɛmu fɛ walasa k’aw ka fɛn dilannenw ɲɛ
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ni i ye sababu sugu dɔ digi, o bɛna i bila ka fɛnw lisɛli sɔrɔ minnu bɛ se ka ɲɛtaa sɔrɔ.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
