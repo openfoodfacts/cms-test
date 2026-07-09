@@ -1,17 +1,17 @@
 ---
-title: "{{< taglia di u libru fa=2x >}} Motore di Folksonomia"
-description: "1 dumanda"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: 31 anni
+order: 31
 category-level: 0
-icon: libru
+icon: book
 ---
 
-{{< fa "libru" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Chì ghjè u mutore di folksonomia ?
+## What is the Folksonomy Engine ?
 
-U Motore di Folksonomia hè un sistema chì permette à l'utilizatori d'aghjunghje etichette persunalizate, o proprietà, à i prudutti alimentari in Open Food Facts, a più grande basa di dati di alimenti aperti di u mondu. Questu permette à e persone di categurizà è di discrive l'alimentu in modi novi, al di là di e proprietà predefinite esistenti.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
