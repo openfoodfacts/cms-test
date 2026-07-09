@@ -1,15 +1,15 @@
 ---
 title: "{{< fa chart-line size=2x >}} O skóre"
 description: "3 otázky"
-lang: en-gb
+lang: cs
 order: 19
 category-level: 1
 icon: čárový graf
 ---
 
-{{< fa "čárový graf" size=3x >}}
+{{< fa "čárový graf" size=3× >}}
 
-## Kdo je zodpovědný za výpočet stopy a/nebo skóre?
+## Kdo je zodpovědný za výpočet ekostopy a/nebo skóre?
 
 Nutri-Score, skupina NOVA a Eco-Score se vypočítávají na základě dat uvedených v Open Food Facts. Naše algoritmy striktně dodržují oficiální metodiky pro tyto skóre.
 
@@ -21,7 +21,7 @@ Nutri-Score, skupina NOVA a Eco-Score se vypočítávají na základě dat uvede
 
 Skupina [NOVA](https://fr.openfoodfacts.org/nova) se zabývá transformací produktu, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) jeho dopadem na životní prostředí a [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) nutričními prvky s vědomím, že čím více má produkt skóre blízké A, tím je kvalitnější.
 
-Tyto 3 partitury se nezabývají stejnými prvky. Není tedy možné je vzájemně srovnávat.
+Tyto tři body se nezabývají stejnými prvky. Není tedy možné je vzájemně srovnávat.
 
 ---
 
@@ -31,7 +31,7 @@ Registrací na platformě výrobců a nahráním údajů o vašich produktech m�
 
 
 
-Po provedení simulace jej však musíte smazat, aby nebyl exportován na veřejnou platformu s produkty, které již ve vašem sortimentu prodáváte.
+Po provedení simulace jej však musíte smazat, aby nebyl exportován na veřejnou platformu s produkty, které již ve vašem sortimentu najdete.
 
 → Pro více informací si prosím stáhněte naši [uživatelskou příručku](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/nebo si prohlédněte naše [video tutoriály](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
