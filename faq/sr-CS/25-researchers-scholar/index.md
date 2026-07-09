@@ -1,21 +1,21 @@
 ---
-title: "{{< величина фа дипломирања-капа=2x >}} Истраживачи/Научници"
-description: "1 подкатегорија"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: матурска капа
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: мрежа
+  type: grid
   grid-columns: 4
-  sort: "наручити"
-  fields: [ титула, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "матурска капа" size="3 пута" >}}
+{{< fa "graduation-cap" size=3x >}}
 
