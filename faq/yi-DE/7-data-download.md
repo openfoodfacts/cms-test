@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} דאטן דאונלאוד"
-description: "1 פראגע"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: וואָלקן-דאַונלאָוד
+icon: cloud-download
 ---
 
-{{< fa "וואָלקן-דאַונלאָוד" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## וואו קען מען באַקומען די דאַטן פֿאַר אַ ספּעציפֿיש לאַנד?
+## Where to get the data for a specific country?
 
-איצט זענען נישטא קיין עקספארטן געווידמעט צו ספעציפישע לענדער.
+Currently, there are no exports dedicated to specific countries.
 
-עס זענען דא אסאך וועגן צו ניצן אונדזערע פארשידענע עקספארטן צוזאמען מיט פארשידענע מכשירים צו אויסקלויבן די דאטן שייך צו א ספעציפישן לאנד.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-איר קענט קוקן אויף [עטלעכע פון די טעכניקן אויף אונדזער וויקי](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
