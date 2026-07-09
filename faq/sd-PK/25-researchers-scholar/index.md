@@ -1,21 +1,21 @@
 ---
-title: "{{< fa گريجوئيشن-ڪيپ سائيز=2x >}} محقق/اسڪالر"
-description: "1 ذيلي زمرو"
-lang: اين جي بي
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
 order: 25
 category-level: 0
-icon: گريجوئيشن ٽوپي
+icon: graduation-cap
 listing:
   contents:
-    - "*.ايم ڊي"
+    - "*.md"
   include:
     category-level: 1
-  type: گرڊ
+  type: grid
   grid-columns: 4
-  sort: "حڪم"
-  fields: [ عنوان, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "گريجوئيشن ٽوپي" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
