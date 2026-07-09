@@ -1,21 +1,21 @@
 ---
-title: "{{< fa сәнәгать күләме=2x >}} Җитештерүчеләр"
-description: "6 субкатегория"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: сәнәгать
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: челтәр
+  type: grid
   grid-columns: 4
-  sort: "заказ"
-  fields: [ исем, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "сәнәгать" size=3х >}}
+{{< fa "industry" size=3x >}}
 
