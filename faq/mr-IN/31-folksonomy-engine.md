@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} फोकसोनोमी इंजिन"
-description: "१ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: ३१
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: पुस्तक
+icon: book
 ---
 
-{{< fa "पुस्तक" size=३x >}}
+{{< fa "book" size=3x >}}
 
-## फोकसोनोमी इंजिन म्हणजे काय?
+## What is the Folksonomy Engine ?
 
-फोकसोनोमी इंजिन ही एक अशी प्रणाली आहे जी वापरकर्त्यांना जगातील सर्वात मोठ्या ओपन-फूड डेटाबेस असलेल्या ओपन फूड फॅक्ट्समध्ये अन्न उत्पादनांमध्ये कस्टम टॅग किंवा गुणधर्म जोडण्याची परवानगी देते. यामुळे लोकांना विद्यमान पूर्वनिर्धारित गुणधर्मांच्या पलीकडे जाऊन नवीन पद्धतीने अन्नाचे वर्गीकरण आणि वर्णन करता येते.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
