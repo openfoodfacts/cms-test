@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Tungkol sa Mga Katotohanan Tungkol sa Open Food"
-description: "4 na tanong"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: bilog ng impormasyon
+icon: info-circle
 ---
 
-{{< fa "bilog ng impormasyon" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Anong uri ng impormasyon ang dapat ibahagi?
+## What type of information should be shared?
 
-Malugod na tinatanggap ang anumang impormasyon na mayroon kayo, mula sa impormasyon sa nutrisyon hanggang sa impormasyon sa packaging.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Dahil dito, posible ang pagtatatag ng isang kumpletong talaan, upang kalkulahin ang lahat ng mga marka nang may katumpakan at sa pangkalahatan ay isang transparency na pinahahalagahan ng mga mamimili.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Gayunpaman, inirerekomenda namin na unahin mo ang mga sumusunod na larangan:
+However we do recommend you prioritize the following fields:
 
-- Impormasyon sa nutrisyon
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kategorya ng produkto (hal. inumin, keso, yogurt, atbp.)
-
-- Pangalan ng produkto
-
-- Mga allergen
-
-- at ang mga sangkap, ang patlang na ito ay hindi sapilitan ngunit inirerekomenda para sa pinakamainam na paggamit at pagtukoy ng mga marka
-
-→ Para sa karagdagang detalye, inaanyayahan ka naming i-download ang aming [gabay sa gumagamit](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) at/o sumangguni sa aming [mga video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Maaari ko bang i-download ang datos mula sa Open Food Facts?
+## Can I download Open Food Facts data?
 
-Maaari mong i-download ang lahat ng datos na makukuha sa Open Food Facts. Mag-ingat, nangangailangan ito ng maraming espasyo sa disk, isang malakas na computer kung gusto mong gumamit ng spreadsheet o kaalaman sa R o Python kung hindi man.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Maaari ka ring mag-download ng isang subset ng data (halimbawa, ang iyong brand) salamat sa advanced search.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Para sa karagdagang detalye, inaanyayahan ka naming i-download ang aming [gabay sa gumagamit](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) at/o sumangguni sa aming [mga video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Libre ba ang pag-access sa Pro platform at ang pag-import ng data?
-
-Talagang, at ito ay magpakailanman.Libre ang lahat ng serbisyong ibinibigay ng Open Food Facts.  
-Labis kaming natutuwa na nagpasya kayong mag-ambag ng datos ng inyong produkto para sa transparency ng pagkain, at nagpapasalamat kami para dito.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Gusto kong magmungkahi ng mga pagpapabuti para sa propesyonal na plataporma, paano ko ito magagawa?
+## Is access to the Pro platform and the import of data free?
 
-Maraming salamat sa inyong kahandaang lumahok sa food transparency!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ang pinakamahusay na paraan upang magbahagi ng feedback ay sa pamamagitan ng pagpuno sa [form na ito](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Maaari ka ring makipag-ugnayan sa amin upang magbigay ng mga mungkahi sa pamamagitan ng [aming forum](https://forum.openfoodfacts.org/) o sa pamamagitan ng [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Sumali sa aming Slack at sumali sa channel na #producers para makipag-ugnayan sa amin.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
