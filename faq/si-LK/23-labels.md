@@ -1,23 +1,23 @@
 ---
-title: "{{< fa පිටු සලකුණු ප්‍රමාණය=2x >}} ලේබල"
-description: "ප්‍රශ්න 2ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 23 වන දින
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: පිටු සලකුණ
+icon: bookmark
 ---
 
-{{< fa "පිටු සලකුණ" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ලේබලයක් ලෙස, ගිණුමක් නිර්මාණය කිරීම වැදගත්ද?
+## As a label, is it important to create an account ?
 
-ලේබලයක් ලෙස, ඔබ නිෂ්පාදනවල සෘජු නිෂ්පාදකයා නොවන බැවින්, ඔබට නිෂ්පාදක ගිණුමක් නිර්මාණය කිරීමට අවශ්‍ය නොවේ.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## මම ලේබලයක්, මට ව්‍යාපෘතියට සහභාගී විය හැක්කේ කෙසේද?
+## I am a label, how can I participate in the project?
 
-ලේබලයක් ලෙස කළ යුතු වඩාත්ම අදාළ දෙය නම් **(producers@openfoodfacts.org)** අප හා සම්බන්ධ වී ඔබේ ලේබලය ප්‍රදර්ශනය කර ඇති නිෂ්පාදන ලැයිස්තුව අපට එවීමයි, එවිට අපට ඒවා අදාළ නිෂ්පාදන පත්‍රවල එකතු කළ හැකිය.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
