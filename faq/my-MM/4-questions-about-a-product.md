@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} ထုတ်ကုန်တစ်ခုနှင့်ပတ်သက်သော မေးခွန်းများ"
-description: "မေးခွန်း ၁ ခု"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: ဈေးဝယ်ခြင်းတောင်း
+icon: shopping-basket
 ---
 
-{{< fa "ဈေးဝယ်ခြင်းတောင်း" size="၃ ဆ" >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## ထုတ်ကုန်တစ်ခုနဲ့ ပတ်သက်ပြီး မေးခွန်း/တောင်းဆိုချက်တစ်ခု ရှိပါတယ်
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) သည် အမှတ်တံဆိပ်များကို ခွဲခြားသိရှိနိုင်စေရန်နှင့် ထုတ်ကုန်များကို နှိုင်းယှဉ်နိုင်စေရန်အတွက် စားသုံးသူများက ဖန်တီးပြီး ပံ့ပိုးပေးသော ပူးပေါင်းဆောင်ရွက်သည့် ဝဘ်ဆိုက်တစ်ခုဖြစ်သည်။
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-ထုတ်ကုန် သို့မဟုတ် တောင်းဆိုချက်နှင့်ပတ်သက်သည့် နောက်ထပ်အချက်အလက်များအတွက် ထုတ်လုပ်သူထံ စာရေးပါ။ ထုတ်လုပ်သူများအတွက် ဆက်သွယ်ရန်အချက်အလက် ကျွန်ုပ်တို့တွင် မရှိသော်လည်း ၎င်းတို့ကို ထုပ်ပိုးမှုတွင် အများဆုံးတွေ့ရလေ့ရှိသည်။
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-သင် သို့မဟုတ် ကျွန်ုပ်တို့ကဲ့သို့သော စားသုံးသူများအတွက် ပိုမိုပွင့်လင်းမြင်သာမှုရှိစေရန် ကျွန်ုပ်တို့အား ကူညီလိုပါက၊ ထုတ်ကုန်များထည့်သွင်းရန် ကျွန်ုပ်တို့၏ iPhone သို့မဟုတ် Android အက်ပ်ကို အသုံးပြုနိုင်ပါသည်- [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-ဒီပရောဂျက်အကြောင်း ဆွေးနွေးဖို့အတွက် Facebook မှာ ပါဝင်ရေးသားသူတွေရဲ့ အဖွဲ့ [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ကို ဆက်သွယ်နိုင်သလို Slack မှာလည်း တခြားပါဝင်ရေးသားသူတွေနဲ့ စကားပြောနိုင်ပါတယ်။
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
