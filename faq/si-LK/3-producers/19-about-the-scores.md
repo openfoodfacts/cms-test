@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} ලකුණු ගැන"
-description: "ප්‍රශ්න 3ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 19 ජුලි
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
+lang: en-gb
+order: 19
 category-level: 1
-icon: ප්‍රස්ථාර රේඛාව
+icon: chart-line
 ---
 
-{{< fa "ප්‍රස්ථාර රේඛාව" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## පා සලකුණ සහ/හෝ ලකුණු ගණනය කිරීම සඳහා වගකිව යුත්තේ කවුද?
+## Who is responsible for calculating the footprint and/or score?
 
-විවෘත ආහාර කරුණු වල ඇති දත්ත මත පදනම්ව Nutri-Score, NOVA කාණ්ඩය සහ Eco-Score ගණනය කෙරේ. අපගේ ඇල්ගොරිතම මෙම ලකුණු වල නිල ක්‍රමවේදයන් දැඩි ලෙස අනුගමනය කරයි.
-
----
-
-## Eco-Score, Nutri-Score සහ NOVA කාණ්ඩය අතර වෙනස කුමක්ද?
-
-මෙම දර්ශකවල අරමුණ පාරිභෝගිකයාට පහසුවෙන් තේරුම් ගත හැකි තොරතුරු සැපයීමයි.
-
-[NOVA කාණ්ඩය](https://fr.openfoodfacts.org/nova) නිෂ්පාදනයේ පරිවර්තනය සමඟ කටයුතු කරයි, [පරිසර ලකුණු](https://fr.openfoodfacts.org/ecoscore) එහි පාරිසරික බලපෑම සමඟ සහ [පෝෂක ලකුණු](https://fr.openfoodfacts.org/nutriscore) පෝෂණ මූලද්‍රව්‍ය සමඟ කටයුතු කරයි, නිෂ්පාදනයක A ට ආසන්න ලකුණු වැඩි වන තරමට එය වඩාත් ගුණාත්මක බව දනී.
-
-ලකුණු 3 එකම අංග සමඟ කටයුතු නොකරයි. එබැවින් ඒවා එකිනෙකා සමඟ සංසන්දනය කළ නොහැකිය.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## මගේ නිෂ්පාදනවල Eco-Score හෝ Nutri-Score අනුකරණය කළ හැකිද?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-නිෂ්පාදකයින්ගේ වේදිකාවේ ලියාපදිංචි වී ඔබේ නිෂ්පාදන දත්ත උඩුගත කිරීමෙන්, ඔබට ඔබේ නිෂ්පාදන හා සම්බන්ධ Nutri-Score සහ Eco-Score ගණනය කළ හැකිය.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-කෙසේ වෙතත්, සමාකරණය සිදු කළ පසු ඔබ එය මකා දැමිය යුතුය, එවිට එය ඔබේ පරාසය තුළ දැනටමත් අලෙවි කර ඇති නිෂ්පාදන සමඟ පොදු වේදිකාවට අපනයනය නොකෙරේ.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ වැඩි විස්තර සඳහා, අපගේ [පරිශීලක මාර්ගෝපදේශය](>https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) බාගත කර/හෝ අපගේ [වීඩියෝ නිබන්ධන](>https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) පරිශීලනය කරන ලෙස අපි ඔබට ආරාධනා කරමු :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
