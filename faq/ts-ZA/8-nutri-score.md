@@ -1,31 +1,31 @@
 ---
-title: "{{< fa vukulu bya ku ba ka mbilu=2x >}} Nutri-Score"
-description: "Swivutiso swa 3"
-lang: ts-gb
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: ku ba ka mbilu
+icon: heartbeat
 ---
 
-{{< fa "ku ba ka mbilu" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Xana ndzi fanele ku endla yini loko Nutri-Score ya switirhisiwa swa mina yi nga ri ntiyiso?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Loko ku ri na xiphiqo eka Nutri-Score ya wena, languta leswaku vuxokoxoko bya wena byi lulamile eka thebhu ya “cinca” ya phepha ra wena ra swikumiwa. Loko vuxokoxoko byihi na byihi byi kayivela kumbe byi nga ri ntiyiso, u nga kanakani ku hi tihlanganisa eka\*\* producers@openfoodfacts.org\*\*
-
----
-
-## Xana i muxaka wihi wa mahungu lawa ndzi faneleke ku ma nyika leswaku Nutri-Score yi hlayiwa hi ndlela leyinene hilaha swi nga kotekaka hakona?
-
-Ku hlayiwa ka Nutri-Score swita endliwa hi tafula ra swakudya swa xiendliwa xa wena.
-
-Unga rivali ku katsa tiphesente ta mihandzu, matsavu na matsavu eka tafula ra wena, leswaku Nutri-Score leyi hlayiweke yinga hoxi.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Xana Nutri-Score yi huma kwihi ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score yi lawuriwa hi Santé Publique France. Yi katsakanya tafula ra mimpimo ya swakudya leswaku un’wana na un’wana a ta ri twisisa. Xikongomelo iku nyika mfikelelo eka vuxokoxoko bya swakudya lebyi nga erivaleni na lebyi twisisekaka eka un’wana na un’wana.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
