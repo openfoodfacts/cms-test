@@ -1,23 +1,23 @@
 ---
-title: "{{< maint y fasged siopa fa=2x >}} Cwestiynau am gynnyrch"
-description: "1 cwestiwn"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: basged siopa
+icon: shopping-basket
 ---
 
-{{< fa "basged siopa" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Mae gen i gwestiwn / hawliad am gynnyrch
+## I have a question / claim about a product
 
-Mae [https://world.openfoodfacts.org](https://world.openfoodfacts.org/) yn safle cydweithredol a grëwyd ac a fwydir gan ddefnyddwyr i allu dehongli labeli a chymharu cynhyrchion.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Am ragor o wybodaeth am gynnyrch neu hawliad, ysgrifennwch at y gwneuthurwr. Nid oes gennym wybodaeth gyswllt ar gyfer gweithgynhyrchwyr ond maent fel arfer ar y pecynnu.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Os ydych chi eisiau ein helpu ni i ddod â mwy o dryloywder i ddefnyddwyr fel chi neu ni, gallwch ddefnyddio ein ap iPhone neu Android i ychwanegu cynhyrchion: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Ac i drafod y prosiect, gallwch ymuno â grŵp cyfranwyr Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) neu sgwrsio â'r cyfranwyr eraill ar Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
