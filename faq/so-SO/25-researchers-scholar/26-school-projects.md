@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Mashaariicda dugsiga"
-description: "2 su'aalood"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: fayl-o
+icon: file-o
 ---
 
-{{< fa "fayl-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Waxaan hayaa mashruuc dugsi oo aan sameeyo, waxaan rabaa inaan isticmaalo xogta Furan ee Xaqiiqooyinka Cuntada, ma sameyn karaa sidaas?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Furan Xaqiiqooyinka Cuntada, waa xog kayd ah oo furan, mashruuc furan oo ku shaqeynaya shatiga ODbL, sidaa darteed ilaa inta aad ku raacsan tahay shuruudaha shatiga ODbL, waad ku soo dhaweyneysaa inaad dib u isticmaasho xogtayada mashaariicdaada :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Sideen u heli karaa/u ururin karaa xogta mashaariicdayda?
+## How can I access/collect data for my projects ?
 
-Bogga ugu weyn ee Furan ee Xaqiiqooyinka Cuntada, geeska bidix ee sare ee shaashadda, waxaa ku yaal liiska rogrogmada. Qeybta hoose, waxaad ka heli doontaa ikhtiyaarka "raadinta sare", kaas oo aad gujin karto. Markaas adiga ayay kugu xiran tahay inaad go'aamiso shuruudaha ugu habboon mashruucaaga (mashruucyadaada). Marka aad doorato, waxaad awoodi doontaa inaad soo dejiso natiijooyinka la helay adigoo hoos ugu dhaadhacaya xagga hoose ee bogga oo gujinaya "Soo dejiso natiijooyinka".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
