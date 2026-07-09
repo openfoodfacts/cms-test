@@ -1,23 +1,23 @@
 ---
-title: "{{< bogolo jwa faele ya fa=2x >}} Diporojeke tsa sekolo"
-description: "Dipotso di le 2"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: faele-o
+icon: file-o
 ---
 
-{{< fa "faele-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ke na le porojeke ya sekolo e ke tshwanetseng go e dira, ke batla go dirisa tshedimosetso ya Open Food Facts, a nka dira jalo?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, ke polokelotshedimosetso e e bulegileng, porojeke e e bulegileng e e dirang ka fa tlase ga laesense ya ODbL, ka jalo fa fela o dumalana le ditlhokego tsa laesense ya ODbL, o amogelesegile go dirisa gape tshedimosetso ya rona mo diporojekeng tsa gago :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Nka fitlhelela/kokoanya jang tshedimosetso ya diporojeke tsa me ?
+## How can I access/collect data for my projects ?
 
-Mo tsebeng e kgolo ya Open Food Facts, kwa sekhutlong se se kwa godimo sa molema sa sekerini, go na le menyu o o tsamayang. Kwa tlase ga yone, o tla fitlhela kgetho ya “go batla ka tsela e e tseneletseng,” e o ka tobetsang mo go yone. Go mo go wena go tlhomamisa gore ke dikelo dife tse di maleba thata mo (di)porojekeng tsa gago. Fa o setse o tlhophilwe, o tla kgona go laisolola dipholo tse di bonweng ka go tsamaisetsa kwa tlase kwa tlase mo tsebeng le go tobetsa “Laisolola dipholo”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
