@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} ഓപ്പൺ വിലകൾ"
-description: "3 ചോദ്യങ്ങൾ"
-lang: en-gb (ഇംഗ്ലീഷ്)
-order: 29 ജുമുഅ
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: ഡോളർ
+icon: dollar
 ---
 
-{{< fa "ഡോളർ" size="3x (3x)" >}}
+{{< fa "dollar" size=3x >}}
 
-## ഞാൻ ഒരു ചില്ലറ വ്യാപാരിയാണ്, വിലകൾ സംഭാവന ചെയ്യാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. എനിക്ക് അത് എങ്ങനെ ചെയ്യാൻ കഴിയും?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-[ഞങ്ങളുടെ API](https://prices.openfoodfacts.org/api/docs) ഉപയോഗിച്ച് നിങ്ങൾക്ക് വിലകൾ സംഭാവന ചെയ്യാൻ കഴിയും. നിങ്ങൾക്ക് വലിയ തോതിൽ വിലകൾ സംഭാവന ചെയ്യാൻ താൽപ്പര്യമുണ്ടെങ്കിൽ, ദയവായി [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) എന്ന വിലാസത്തിൽ ഞങ്ങളുമായി ബന്ധപ്പെടുക.
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## ചില്ലറ വ്യാപാരികളുടെ വെബ്‌സൈറ്റുകളിൽ നിന്ന് വില കുറയ്ക്കുന്നതിനെക്കുറിച്ച് നിങ്ങൾ ആലോചിക്കുന്നുണ്ടോ?
+## Do you consider scraping prices from retailers’ websites?
 
-നിയമപരവും സാങ്കേതികവുമായ കാരണങ്ങളാൽ, റീട്ടെയിലർമാരുടെ വെബ്‌സൈറ്റുകളിൽ നിന്ന് വിലകൾ വെട്ടിക്കുറയ്ക്കുന്നത് ഓപ്പൺ പ്രൈസുകളിലേക്ക് സംഭാവന ചെയ്യുന്നതിനുള്ള ഒരു സാധുവായ മാർഗമായി ഞങ്ങൾ പരിഗണിക്കുന്നില്ല. ഞങ്ങൾ ശേഖരിക്കുന്ന വിലകൾ കൃത്യവും കാലികവുമാണെന്ന് ഉറപ്പാക്കാൻ ഞങ്ങൾ ആഗ്രഹിക്കുന്നു, കൂടാതെ സംഭാവകരിൽ നിന്ന് സ്ക്രാപ്പ് ചെയ്ത വിലകൾ ലഭിക്കുന്നത് ഞങ്ങളെ അങ്ങനെ ചെയ്യാൻ അനുവദിക്കുന്നില്ല.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## എന്തുകൊണ്ടാണ് ഓപ്പൺ ഫുഡ് ഫാക്ട്സ് ഇത് ചെയ്യുന്നത് (ഓപ്പൺ പ്രൈസസ്)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ഭക്ഷ്യ സംവിധാനങ്ങൾ മനസ്സിലാക്കുന്നതിന് വില വിവരങ്ങൾക്ക് വളരെയധികം പ്രാധാന്യമുണ്ട്. ഭക്ഷണത്തിന്റെ വില മനസ്സിലാക്കുന്നതിലും ആരോഗ്യകരമായ ഭക്ഷണക്രമം പ്രോത്സാഹിപ്പിക്കുന്നതിലും ഇത് ഒരു പ്രധാന ഘടകമാണ്. ഭൂമിശാസ്ത്രപരമായും കാലാകാലങ്ങളിലും ഭക്ഷ്യവസ്തുക്കളുടെ വിലകൾ എങ്ങനെ വ്യത്യാസപ്പെടുന്നു എന്നതിനെക്കുറിച്ച് ഗവേഷകർക്കും, പത്രപ്രവർത്തകർക്കും, പൗരന്മാർക്കും കൂടുതൽ മനസ്സിലാക്കാൻ വില ഡാറ്റ തുറക്കുന്നത് എളുപ്പമാക്കുന്നു.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
