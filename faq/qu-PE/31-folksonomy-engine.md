@@ -1,17 +1,17 @@
 ---
-title: "{{< fa libropa sayaynin=2x >}} Folksonomía Motor"
-description: "1 tapuy"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
-order: 31. 31
+order: 31
 category-level: 0
-icon: maytu
+icon: book
 ---
 
-{{< fa "maytu" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ¿Imataq Motor Folksonomía nisqa ?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine nisqaqa huk sistemam, chaymi ruwaqkunata yapayta atinku sapanchasqa etiquetakunata, utaq propiedades nisqakunata, mikhuy rurukunaman Open Food Facts nisqapi, pachantinpi aswan hatun kichasqa mikhuy willakuypa qullqisapan. Kayqa runakunamanmi mikhuykunata musuq ruwaykunapi categorizanankupaq hinaspa willanankupaq saqin, kunan kaq ñawpaqmanta riqsisqa propiedades nisqamanta aswan karun.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
