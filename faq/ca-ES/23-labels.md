@@ -1,23 +1,23 @@
 ---
-title: "{{< mida del marcador fa=2x >}} Etiquetes"
-description: "2 preguntes"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: marcador
+icon: bookmark
 ---
 
-{{< fa "marcador" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Com a segell discogràfic, és important crear un compte?
+## As a label, is it important to create an account ?
 
-Com a segell, com que no sou el productor directe dels productes, no cal que creeu un compte de productor.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Soc un segell discogràfic, com puc participar en el projecte?
+## I am a label, how can I participate in the project?
 
-Com a etiqueta, el més rellevant és contactar amb nosaltres **(producers@openfoodfacts.org)** i enviar-nos la llista dels productes on es mostra la vostra etiqueta perquè els puguem afegir a les fitxes de productes relacionats.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
