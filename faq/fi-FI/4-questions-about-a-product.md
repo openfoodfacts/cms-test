@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Kysymyksiä tuotteesta"
-description: "1 kysymys"
-lang: fi-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: ostoskori
+icon: shopping-basket
 ---
 
-{{< fa "ostoskori" size="3 kertaa" >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Minulla on kysymys/vaatimus tuotteesta
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) on kuluttajien luoma ja ylläpitämä yhteistyösivusto, jonka avulla he voivat tulkita tuotemerkintöjä ja vertailla tuotteita.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Saadaksesi lisätietoja tuotteesta tai reklamaatiosta, kirjoita valmistajalle. Meillä ei ole valmistajien yhteystietoja, mutta ne löytyvät useimmiten pakkauksesta.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Jos haluat auttaa meitä lisäämään läpinäkyvyyttä kuluttajille, kuten sinulle tai meille, voit lisätä tuotteita iPhone- tai Android-sovelluksellamme: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Ja keskustellaksesi projektista, voit liittyä Facebookin avustajaryhmään: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) tai keskustella muiden avustajien kanssa Slackissa:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
