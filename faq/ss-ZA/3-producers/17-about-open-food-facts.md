@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Mayelana neMaciniso Ekudla Lokuvulekile"
-description: "4 imibuto"
-lang: si-gb
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: umbuthano welwatiso
+icon: info-circle
 ---
 
-{{< fa "umbuthano welwatiso" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Nguluphi luhlobe lwelwati lokufanele lwabelwane ngalo?
+## What type of information should be shared?
 
-Noma nguyiphi imininingwane lonayo yemukelekile, kusuka kulwati lwekudla kuya kulwati lwekupakisha.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Loku kwenta kutsi kube nekusungulwa kwefayela leliphelele, kubala onkhe emaphuzu ngekuciniseka futsi ngalokujwayelekile kuveta ngalokusebaleni lokubongwa batsengisi.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Noma kunjalo sincoma kutsi ubeke embili letindzawo letilandzelako:
+However we do recommend you prioritize the following fields:
 
-- Lwati lwemsoco
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Sigaba semkhicito (sib. tiphuzo, shizi, iyogathi, njll.)
-
-- Ligama lemkhicito
-
-- Tintfo letigulako
-
-- kanye netitsako, lensimu ayiphoceleleki kepha inconywa kutsi isetjentiswe kahle futsi kuncunywe emaphuzu .
-
-→ Kute utfole imininingwane leyengetiwe, sikumema kutsi ulandze [umhlahlandlela wetfu wemsebentisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kanye/noma ubuke [tifundvo tetfu temavidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ngingayilanda yini idatha yeMaciniso Ekudla Lokuvulekile?
+## Can I download Open Food Facts data?
 
-Ungalanda yonkhe idatha lekhona ku-Open Food Facts. Caphela, loku kudzinga sikhala lesikhulu se-disk, ikhompyutha lenemandla uma ufuna kusebentisa spreadsheet noma lwati lwe-R noma lwe-Python ngenye indlela.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Ungaphindze ulande i-subset yedatha (umkhicito wakho sibonelo) sibonga kusesha lokusezingeni lelisetulu.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Kute utfole imininingwane leyengetiwe, sikumema kutsi ulandze [umhlahlandlela wetfu wemsebentisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kanye/noma ubuke [tifundvo tetfu temavidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ingabe kufinyelela ku-platform ye-Pro kanye nekungeniswa kwemininingwane mahhala?
-
-Nakanjani, futsi kutawuba phakadze naphakadze.Tonkhe tinsita letiniketwa yi-Open Food Facts timahhala.  
-Siyajabula kakhulu kutsi uncume kunikela ngemininingwane yemkhicito wakho ekubekeni tintfo ngalokusebaleni kwekudla, futsi siyakubonga ngaloko.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ngingatsandza kuphakamisa intfutfuko yepulatifomu yebungcweti, ngingakwenta njani loko ?
+## Is access to the Pro platform and the import of data free?
 
-Siyabonga ngekutimisela kwakho kuhlanganyela ekubekeni tintfo ngalokusebaleni kwekudla!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Indlela lencono kakhulu yekwabelana ngemibono kutsi ugcwalise [lelifomu](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Ungaphindze futsi usitsintse kute wente tiphakamiso kungaba nge [inkundla yetfu](https://forum.openfoodfacts.org/) noma nge [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Hlanganyela ne Slack yetfu bese ungena ku #bakhiciti besiteshi kute ukhone kuchumana natsi.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
