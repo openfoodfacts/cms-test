@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiketter"
-description: "2 spørsmål"
-lang: no-no
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: bokmerke
+icon: bookmark
 ---
 
-{{< fa "bokmerke" size="3 x" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Som et merke er det viktig å opprette konto?
+## As a label, is it important to create an account ?
 
-Som merke, slik du ikke er direkte produsent av produktene, trenger du ikke å opprette en leverandørkonto.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Jeg er en merkelapp, hvordan kan jeg delta i prosjektet?
+## I am a label, how can I participate in the project?
 
-Ettersom det mest aktuelle merket er det å kontakte oss **(producers@openfoodfacts. rg)** og send oss listen over produktene som etiketten vises på, slik at vi kan legge dem på de relaterte produktarkene.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
