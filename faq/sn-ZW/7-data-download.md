@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Kudhawunirodha data"
-description: "Mubvunzo 1"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: kudhawunirodha mugore
+icon: cloud-download
 ---
 
-{{< fa "kudhawunirodha mugore" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ndekupi kwaungawana ruzivo rwenyika chaiyo?
+## Where to get the data for a specific country?
 
-Parizvino, hapana zvinhu zvinotengeswa kunze kwenyika zvakatsaurirwa kunyika dzakatarwa.
+Currently, there are no exports dedicated to specific countries.
 
-Kune nzira dzakawanda dzekushandisa zvinhu zvedu zvakasiyana-siyana zvinotumirwa kunze kwenyika pamwe chete nezvishandiso zvakasiyana-siyana kuti tisarudze data rine chekuita nenyika chaiyo.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Unogona kutarisa [mamwe emaitiro aya pa wiki yedu](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
