@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Willayta uraykachiy"
-description: "1 tapuy"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: phuyu-uraykachiy
+icon: cloud-download
 ---
 
-{{< fa "phuyu-uraykachiy" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ¿Maymantataq huk suyupaq willakuykunata hurquna?
+## Where to get the data for a specific country?
 
-Kunanqa manan kanchu hawa llaqtakunaman apachiy, chay suyukunaman dedicasqa.
+Currently, there are no exports dedicated to specific countries.
 
-Askha imaynakuna kanku hukniray hawaman apachisqayku llamk'achinapaq hukniray yanapakuykunawan kuskachasqa huk suyuwan tupaq willayta akllanapaq.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[wikinchikpi wakin kay técnicas](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) nisqapi qhawayta atinki.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
