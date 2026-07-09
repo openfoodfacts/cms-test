@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Termelők"
-description: "6 alkategóriát"
-lang: hu-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: ipar
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: rács
+  type: grid
   grid-columns: 4
-  sort: "rendelés"
-  fields: [ cím, leírás ]
+  sort: "order"
+  fields: [ title, leírás ]
   page-size: 100
 ---
 
-{{< fa "ipar" size=3x >}}
+{{< fa "industry" size=3x >}}
 
