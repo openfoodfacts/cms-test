@@ -1,37 +1,37 @@
 ---
-title: "{{< fa question-circle size=2x >}} Ανοιχτά στοιχεία για τα τρόφιμα"
-description: "9 ερωτήσεις"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: κύκλος ερωτήσεων
+icon: question-circle
 ---
 
-{{< fa "κύκλος ερωτήσεων" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
-## Ποια είναι η διαφορά με άλλους ιστότοπους, υπηρεσίες και εφαρμογές για κινητά που ήδη επιτρέπουν την προβολή πληροφοριών για τα τρόφιμα;
+## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 Η κύρια διαφορά είναι για εμάς μια κρίσιμη: τα δεδομένα μας είναι ελεύθερα διαθέσιμα σε όλους και για όλες τις χρήσεις. Είναι αυτό που λέγεται ανοιχτά δεδομένα.
 
-Σχεδόν όλοι οι άλλοι ιστότοποι, υπηρεσίες και εφαρμογές απαγορεύουν σε άλλους να αναπαράγουν και να επαναχρησιμοποιήσουν τα δεδομένα τους. Αντίθετα, το κρατούν με ζήλια για τον εαυτό τους. Σε όλες σχεδόν τις περιπτώσεις, οι όροι παροχής υπηρεσιών τους απαγορεύουν ρητά οποιαδήποτε μη προσωπική χρήση και οποιαδήποτε εξαγωγή όλων των δεδομένων ή τμημάτων τους.
+Σχεδόν όλοι οι άλλοι ιστότοποι, υπηρεσίες και εφαρμογές απαγορεύουν σε άλλους να αναπαράγουν και να επαναχρησιμοποιήσουν τα δεδομένα τους. Αντίθετα, το κρατούν με ζήλια για τον εαυτό τους. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Θεωρούμε ότι οι πληροφορίες για τα τρόφιμα είναι πολύ σημαντικές και χρήσιμες για να τις κρατάμε κλειδωμένες σε χρηματοκιβώτιο. Έτσι, όταν ξεκινήσαμε το έργο Open Food Facts και την εφαρμογή για κινητά, το 2012, αποφασίσαμε να κάνουμε ακριβώς το αντίθετο: όχι μόνο επιτρέπουμε τη χρήση και την επαναχρησιμοποίηση της βάσης δεδομένων μας, δωρεάν και χωρίς χρέωση, σε όλους και για όλες τις χρήσεις (συμπεριλαμβανομένων των εμπορικών), αλλά την ενθαρρύνουμε και!
+Θεωρούμε ότι οι πληροφορίες για τα τρόφιμα είναι πολύ σημαντικές και χρήσιμες για να τις κρατάμε κλειδωμένες σε χρηματοκιβώτιο. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Η δημόσια διάθεση των δεδομένων (αυτό που είναι γνωστό ως _ανοιχτά δεδομένα_) επιτρέπει σε άτομα, ενώσεις, εταιρείες, ερευνητές κ.λπ. από όλο τον κόσμο να σκεφτούν και να αναπτύξουν εφαρμογές για τα δεδομένα που σίγουρα δεν θα είχαμε σκεφτεί ποτέ.
-
----
-
-## Ποιο είναι το οικονομικό μοντέλο του Open Food Facts
-
-Οι συνεισφέροντες είναι εθελοντές. Οι συνεισφορές τους συγκεντρώνονται σε μια ανοιχτή βάση δεδομένων που μπορεί να χρησιμοποιηθεί από όλους και για όλες τις χρήσεις. (δείτε τους [Όρους επαναχρησιμοποίησης](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Όλοι (συμπεριλαμβανομένων, ενδεικτικά, των συντελεστών και των δημιουργών του Open Food Facts) μπορούν έτσι να αναδιανείμουν ή/και να επαναχρησιμοποιήσουν τα δεδομένα για τη δημιουργία ιστοσελίδων, υπηρεσιών, λογισμικού, εφαρμογών για κινητά ή για τη συγγραφή άρθρων και μελετών. Είναι ελεύθεροι να διαθέσουν ελεύθερα το έργο που προκύπτει ή να το πουλήσουν ή να το δημιουργήσουν έσοδα (πχ. με διαφημίσεις), εφόσον σέβονται τους όρους επαναχρησιμοποίησης.
-
-Είμαστε επίσης αυστηρά ανεξάρτητοι από τη βιομηχανία τροφίμων και όλες οι υπηρεσίες και το λογισμικό που κατασκευάζουμε είναι δωρεάν. Για παράδειγμα, η Πλατφόρμα μας για Παραγωγούς είναι εντελώς δωρεάν και είμαστε ακόμη πιο ευχαριστημένοι με αυτό, επειδή πιστεύουμε ότι μπορεί να τους βοηθήσει να βελτιώσουν τα προϊόντα τους.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Μπορώ να προσθέσω φωτογραφίες προϊόντων ή δεδομένα από τον ιστότοπο του κατασκευαστή, τους ιστότοπους αγορών ή άλλους ιστότοπους;
+## What is Open Food Facts' economic model?
+
+Οι συνεισφέροντες είναι εθελοντές. Οι συνεισφορές τους συγκεντρώνονται σε μια ανοιχτή βάση δεδομένων που μπορεί να χρησιμοποιηθεί από όλους και για όλες τις χρήσεις. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Είναι ελεύθεροι να διαθέσουν ελεύθερα το έργο που προκύπτει ή να το πουλήσουν ή να το δημιουργήσουν έσοδα (πχ. με διαφημίσεις), εφόσον σέβονται τους όρους επαναχρησιμοποίησης.
+
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 Μάλλον όχι. Σχεδόν όλοι οι άλλοι ιστότοποι απαγορεύουν την αναπαραγωγή και επαναχρησιμοποίηση των δεδομένων και των εικόνων τους, και αυτός είναι στην πραγματικότητα ο λόγος για τον οποίο δημιουργήσαμε τα Open Food Facts: για να κάνουμε όλα αυτά τα δεδομένα διαθέσιμα σε όλους και για όλες τις χρήσεις.
 
@@ -39,83 +39,83 @@ icon: κύκλος ερωτήσεων
 
 ---
 
-## Πώς μπορώ να επικοινωνήσω με την ομάδα Open Food Facts, να κάνω ερωτήσεις ή προτάσεις;
+## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Μπορείτε να κάνετε ερωτήσεις ή να κάνετε προτάσεις στο φόρουμ ή να επικοινωνήσετε μαζί μας μέσω email: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Εάν είστε παραγωγός, στείλτε μας email στη διεύθυνση [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Εάν είστε δημοσιογράφος, στείλτε μας email στη διεύθυνση [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Σημείωση: [Το Open Food Facts είναι μια συνεργατική βάση δεδομένων προϊόντων διατροφής](https://world.openfoodfacts.org/discover), δεν πωλούμε κανένα προϊόν και δεν έχουμε συνδέσμους προς τους παραγωγούς τους. Για ερώτηση ή παράπονο σχετικά με ένα προϊόν, πρέπει να γράψετε απευθείας στον παραγωγό (διεύθυνση στην ετικέτα του προϊόντος).
-
----
-
-## Επαληθεύονται οι πληροφορίες και τα δεδομένα για τα προϊόντα;
-
-Οι πληροφορίες και τα δεδομένα υποβάλλονται από τους συντελεστές του Open Food Facts. Οι συνεισφέροντες στέλνουν επίσης φωτογραφίες του προϊόντος, τις ετικέτες του, τις λίστες συστατικών και τον πίνακα διατροφικών στοιχείων. Όταν υπάρχει αμφιβολία, οι επισκέπτες μπορούν έτσι να ελέγξουν την ακρίβεια από μόνοι τους, και αν υπάρχει κάποιο λάθος, μπορούν να το διορθώσουν επί τόπου.
-
-Για να εντοπίσουμε πιο εύκολα πιθανά σφάλματα, θα προσθέτουμε σταδιακά αυτοματοποιημένους ελέγχους. π.χ. εάν τα διατροφικά στοιχεία ενός προϊόντος διαφέρουν πολύ από προϊόντα της ίδιας κατηγορίας, ενδέχεται να πρόκειται για σφάλμα. Εάν τα θρεπτικά συστατικά αθροίζονται πάνω από 100%, είναι σίγουρα λάθος.
-
-Τέλος, πολλοί παραγωγοί μας στέλνουν φωτογραφίες και δεδομένα σχετικά με τα προϊόντα τους χρησιμοποιώντας την Πλατφόρμα μας για Παραγωγούς. Εάν είστε παραγωγός, παρακαλούμε [επικοινωνήστε μαζί μας](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Είμαι κατασκευαστής προϊόντων διατροφής, μπορώ να προσθέσω τα δικά μου προϊόντα;
+## Is the information and data on products verified?
 
-Ναι! Η μόνη προϋπόθεση είναι να αποδεχτείτε ότι τα δεδομένα και οι εικόνες διατίθενται με ανοιχτή άδεια. (βλ. τους [Όρους Συνεισφοράς](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. Οι συνεισφέροντες στέλνουν επίσης φωτογραφίες του προϊόντος, τις ετικέτες του, τις λίστες συστατικών και τον πίνακα διατροφικών στοιχείων. Όταν υπάρχει αμφιβολία, οι επισκέπτες μπορούν έτσι να ελέγξουν την ακρίβεια από μόνοι τους, και αν υπάρχει κάποιο λάθος, μπορούν να το διορθώσουν επί τόπου.
 
-Έχουμε αναπτύξει μια δωρεάν πλατφόρμα που σας επιτρέπει να εισάγετε εύκολα φωτογραφίες και δεδομένα σχετικά με τα προϊόντα σας, ανεξάρτητα από το μέγεθός σας. Θα σας επιτρέψει να εισάγετε πλήρη και ενημερωμένα δεδομένα και εικόνες στο Open Food Facts που θα είναι ορατά σε περισσότερες από 100 άλλες διατροφικές εφαρμογές. Επιπλέον, η πλατφόρμα παρέχει προτάσεις για τη βελτίωση του Nutri-Score των προϊόντων σας. Επικοινωνήστε μαζί μας για να συζητήσουμε πώς θα μπορούσαμε να προχωρήσουμε: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Για να εντοπίσουμε πιο εύκολα πιθανά σφάλματα, θα προσθέτουμε σταδιακά αυτοματοποιημένους ελέγχους. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Εάν τα θρεπτικά συστατικά αθροίζονται πάνω από 100%, είναι σίγουρα λάθος.
+
+Τέλος, πολλοί παραγωγοί μας στέλνουν φωτογραφίες και δεδομένα σχετικά με τα προϊόντα τους χρησιμοποιώντας την Πλατφόρμα μας για Παραγωγούς. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Ποιος χρησιμοποιεί τα δεδομένα του Open Food Facts;
+## I am a food product manufacturer, can I add my own products?
+
+Ναι! Η μόνη προϋπόθεση είναι να αποδεχτείτε ότι τα δεδομένα και οι εικόνες διατίθενται με ανοιχτή άδεια. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Θα σας επιτρέψει να εισάγετε πλήρη και ενημερωμένα δεδομένα και εικόνες στο Open Food Facts που θα είναι ορατά σε περισσότερες από 100 άλλες διατροφικές εφαρμογές. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- Περισσότερες από 100 εφαρμογές για κινητά
-  καλύπτουν τις ανάγκες πολλών κοινών: διαβήτης (VeryDiab), αλλεργίες, διατροφική
-  ισορροπία μέσω τεχνητής νοημοσύνης (FoodVisor), αναπηρίες και άλλα. Η βάση δεδομένων μας
-  επέτρεψε επίσης τη δημιουργία του Yuka.
-- Πολλές ιστοσελίδες: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Δημοσιογράφοι δεδομένων: Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Ερευνητές σε σχεδόν 100 επιστημονικά
-  άρθρα
-- Τράπεζες τροφίμων και καταστήματα αλληλεγγύης: ένα έργο
-  Data For Good στο πλαίσιο της συνέχειας ενός πιλοτικού έργου που ξεκίνησε ο
-  Γαλλικός Ερυθρός Σταυρός, ενσωμάτωση στη διαχείριση μετρητών ενός μικρού συνεταιρισμού τροφίμων
-  .
-- Εταιρείες: Η Terraillon χρησιμοποιεί τα δεδομένα μας
-  για να δώσει ζωή στις συνδεδεμένες κλίμακες της.
-- Οι σχολές προγραμματισμού (Simplon, Open
-  Classrooms) έχουν ενσωματώσει το Open Food Facts ως ένα ενθαρρυντικό έργο στο πρόγραμμα σπουδών τους
-  .
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Πώς μπορώ να υποστηρίξω το Open Food Facts;
+## How can I support Open Food Facts?
 
-Το Open Food
-Facts είναι ένας μη κερδοσκοπικός οργανισμός του 1901. Μπορείτε να μας βοηθήσετε [συμμετέχοντας στο έργο](https://fr-en.openfoodfacts.org/contribute) και στηρίζοντάς μας οικονομικά με τις [δωρεές](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% έκπτωση) και επίσης χρησιμοποιώντας τη μηχανή αναζήτησης Lilo
-.
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Σας ευχαριστώ πολύ
-!**
+**Thank
+you very much!**
 
 ---
 
-## Δεν μπορώ να βρω την απάντηση στην ερώτησή μου
+## I can't find the answer to my question
 
-Εάν δεν μπορείτε να βρείτε απάντηση στην/στις ερώτηση/εις σας, μη διστάσετε να επικοινωνήσετε μαζί μας μέσω:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Το Slack μας: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Το φόρουμ μας: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
