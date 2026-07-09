@@ -1,21 +1,21 @@
 ---
-title: "Lawrlwytho data {{< maint lawrlwytho cwmwl fa=2x >}}"
-description: "1 cwestiwn"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: lawrlwytho cwmwl
+icon: cloud-download
 ---
 
-{{< fa "lawrlwytho cwmwl" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ble i gael y data ar gyfer gwlad benodol?
+## Where to get the data for a specific country?
 
-Ar hyn o bryd, nid oes unrhyw allforion wedi'u neilltuo i wledydd penodol.
+Currently, there are no exports dedicated to specific countries.
 
-Mae yna lawer o ffyrdd o ddefnyddio ein hallforion gwahanol ynghyd â gwahanol offer i ddewis y data sy'n gysylltiedig â gwlad benodol.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Gallwch edrych ar [rhai o'r technegau hyn ar ein wici](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
