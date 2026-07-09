@@ -1,23 +1,23 @@
 ---
-title: "Projeyên dibistanê"
-description: "2 pirs"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: pelê-o
+icon: file-o
 ---
 
-{{< fa "pelê-o" size="3 caran" >}}
+{{< fa "file-o" size=3x >}}
 
-## Projeyek dibistanê min heye ku bikim, ez dixwazim daneyên Open Food Facts bikar bînim, gelo ez dikarim bikim?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, databeseke vekirî ye, projeyek vekirî ye ku di bin lîsansa ODbL de dixebite, ji ber vê yekê heya ku hûn bi şertên lîsansa ODbL razî bin, hûn dikarin daneyên me ji bo projeyên xwe ji nû ve bikar bînin :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Ez çawa dikarim ji bo projeyên xwe bigihîjim/daneyan berhev bikim?
+## How can I access/collect data for my projects ?
 
-Li ser rûpela sereke ya Open Food Facts, li quncikê jorîn ê çepê yê ekranê, menuyek heye ku meriv dikare bizivire. Li binê wê, hûn ê vebijarka "lêgerîna pêşketî" bibînin, ku hûn dikarin li ser bikirtînin. Dûvre ew bi we ve girêdayî ye ku hûn diyar bikin ka kîjan pîvan ji bo projeya(ên) we herî têkildar in. Piştî hilbijartinê, hûn dikarin encaman dakêşin bi gerandina li jêrê rûpelê û bi tikandina "Encamên Dakêşanê" re.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
