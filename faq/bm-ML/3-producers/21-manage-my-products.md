@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Ne ka fɛn dilannenw ɲɛnabɔ"
-description: "16 ɲininkaliw"
-lang: bamanankan-gb
-order: 21. Ɲɛjirali dɔw
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
+lang: en-gb
+order: 21
 category-level: 1
-icon: buwati
+icon: box
 ---
 
-{{< fa "buwati" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Mun bɛ kunnafonidilanw ka ɲumanya sabati Open Food Facts kɔnɔ?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Walisa ka to ka kunnafonidilanw ka ɲɛtaa sabati an bɛ an jigi da pilan 4 kan:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Sigidamɔgɔw bɛ ka kunnafoniw ni fotow fara ɲɔgɔn kan tuma bɛɛ, wa u ye seginnkannikɛlaw ka kɔlɔsili lakika ye.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. An ye hakilinata sariyaw sigi sen kan walasa ka filiw dɔn fɛn dilannenw sɛbɛnw kan.Misali la: ni fɛnw girinya bɛɛ lajɛlen ka ca ni fɛn dilannen girinya bɛɛ ye, anomali bɛ yen. An bɛ ni 50 ɲɔgɔn wɛrɛw ye jogoɲini sɛgɛsɛgɛliw la.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Machine Learning sababu la, an bɛ dan sigi donna filiw farati la. An ka fɛɛrɛbɔ b’a to an bɛ se ka sɛbɛnni kunnafoniw bɔ fotow la minnu tara dɛmɛbagaw fɛ
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France ka dɛmɛ sababu la, an ye dakun dɔ labɛn min b’a to fɛn dilannikɛlaw bɛ se k’u ka kunnafonidilanw bila jamana kɔnɔ, ka sigida ka dɛmɛnw latilen/dafa o cogo la.
-
----
-
-## Fɛnw bɛ fara a kan cogo di?
-
-Walasa ka fɛnw fara an ka plateforme kan, i ka kan ka fɔlɔ k’a latigɛ i b’a fɛ ka taa ɲɛ cogo min na. Sugandili 4 bɛ yen:
-
-- **Bolo la**: ni fɛn damadɔw b’i bolo, hali bi i bɛ se ka fɛn dilannenw sɛbɛn kelen-kelen bɛɛ dilan ni bolo ye Pro Platform kan.
-
-- **Jatebɔsɛbɛn doncogo fɛ**: i bɛ se ka jatebɔsɛbɛn [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) min di Open Food Facts fɛ, o telesarse, walima ka bɔlen dɔ don i ka IT sitɛmu kɔnɔ k’a ɲɛsin Pro plateforme ma.
-
-- **Ka tɛmɛn fɛn dilannenw ka kataloguw ka ɲɔgɔndanw fɛ**. Ni aw ye kiliyan ye EQUADIS, AGENA3000 walima BAYARD la, aw bɛ se ka kunnafoniw bila Open Food Facts kɔnɔ ni digi 1 ye. Ni aw bɛ baara kɛ ni PIM (Product Information Management) wɛrɛ ye, aw bɛ se ka anw sɔrɔ : producers@openfoodfacts.org
-
-- **Jɛɲɔgɔnya min bɛ kɛ ka kɛɲɛ ni mɔgɔw sago ye** i ka sosiyete ni Open Food Facts cɛ. N’i ye fɛn 1000 ni kɔ jate i ka portfolio kɔnɔ, an bɛ se ka baro kɛ sababu kan ka ɲɔgɔndan kɛrɛnkɛrɛnnen dɔ jɔ walasa ka kunnafonidilanw cili nɔgɔya.
-
-Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Yala fɛɛrɛ bɛ yen min bɛ se ka kɛ ka fɛn dilannenw kurayali kɛ otomatiki la ka don foroba kunnafonidilan kɔnɔ wa?
+## How to add products?
 
-Ɔwɔ, n’i bɛ baara kɛ ni EQUADIS, AGENA3000 walima BAYARD ka fɛn dilannenw ka gafew ye, ani ka labɛncogo ɲuman sigi sen kan, donni bɛ se ka kɛ i yɛrɛma, o la, i bɛ fɛn dilannenw kunnafoniw kuraya Open Food Facts kan.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Yala fɛn minnu bɛ fara a kan, olu hakɛ dan ye wa?
+## Is there a way to automate product updates to the public database?
 
-Dan tɛ yen, i b’a fɛ ka fɛn minnu sɔrɔ, i bɛ se k’olu bila an ka plateforme kan.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-N'i b'a fɛ ka fɛn dɔ bɔ yen min tɛ sɔrɔ sugu la tugun, i ka kan ka "nin fɛn in tɛ feere tugun" yɔrɔ lajɛ dɔrɔn n'i bɛ i ka fɛn dilannen sɛbɛn ladilan.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-N’aw b’a fɛ ka fura caman bɔ, an b’a ɲini aw fɛ aw ka taabolo min kofɔlen don [gafe min bɛ baara kɛ ni a ye](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), o la, ɲɛ 10nan na. 18. Ɲɛjirali dɔw.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Aw bɛ se fana ka kuma an fɛ producers@openfoodfacts.org fɛ ni ɲininkali dɔw b’aw fɛ.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Ni fura in maralen don, a tɛna bɔ Open Food Facts kɔnɔ tugun.Nka a bɛna to an ka kunnafonidilan kɔnɔ walasa an ka se ka fɛnw feerelenw tariku mara waati kɔnɔ.
-
----
-
-## Yala sosiyete ka kunnafoniw bɛ bila ɲɛfɛ ka tɛmɛ kunnafoniw kan minnu bɛ plateforme kan kaban wa?
-
-Ni fɛn dilannikɛla dɔ y’a ka fɛn dilannen dɔ bila ɛntɛrinɛti kan n’a ka fɛn dilanni jatebɔsɛbɛn ye ani ni fɛn dilanni sɛbɛn dɔ bɛ yen kaban, o bɛna a dafa.
-
-Kunnafoni minnu bɛna kɛ fɛn dilannikɛla fɛ, olu bɛna kɛ fɔlɔ ye tuma bɛɛ wa ale kelen de bɛna se k’a ka fɛn dilannenw sɛmɛntiya ni kunnafoniw falen don.
-
-Ni kunnafoniw minnu bɛ ci plateforme fɛ, olu tilalen don, kunnafoni minnu farala sigida kan ka bɔ pakew kɔnɔ, olu bɛ se k’u dafa.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Ne ka kan ka n ka kunnafoniw ci cogo jumɛn na?
+## Does company information take precedence over information already present on the platform?
 
-A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) bɛ di Open Food Facts fɛ.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Nka, jatebɔsɛbɛn suguya o suguya (xlsx, csv) bɛna don o la plateforme kɔnɔ.  
-An ka algorisimu dabɔra walasa ka fɛnw bɛn i yɛrɛ ma minnu bɛ bɔ i ka dosiye kɔnɔ, ni minnu bɛ Open Food Facts kɔnɔ. Aw ye aw janto ka bɛnkan taabolo lajɛ siɲɛ fila tuma bɛɛ barisa aw bɛ se ka u dɔw ladilan ni aw bolo ye.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Ni i ka kunnafoniw tilalen don jatebɔsɛbɛn caman cɛ, i bɛ se k’u ladon ka tugu ɲɔgɔn na - k’i jija ka bɛnkan kɛ ni cogoya b’a la ka Changé.
-
-Aw bɛ se fana ka Excel file dɔ ladon ka fara EQUADIS walima AGENA3000 import kan, ni kunnafoniw ma sɔrɔ fɔlɔ aw ka kunnafonidilan kɔnɔ. O cogo la, aw kana ɲinɛ ka bɔli ɲini foroba kunnafonidilan na ka bɔ ɲɔgɔndan na.
-
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Aw bɛ don ɲɔgɔn na ni fɛn dilannenw ka gafe suguya jumɛnw ye?
+## In what format should I send my data?
 
-Sisan, fɛn dilannikɛlaw bɛ se k’u ka fɛn dilannenw kunnafoniw n’u ka fotow ci waati yɛrɛ la ka bɔ **Equadis,** **AGENA3000 ani BAYARD consulting** la ka taa Open Food Facts la.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Siga t’a la, i bɛna nafa sɔrɔ fana labɛncogo kura ladilikanw na ani plateforme in kɔnɔfɛnw bɛɛ la.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[An ka bulɔgu sɛbɛn](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) bɛ fɛɛrɛw ɲɛfɔ minnu ka kan ka tugu n’i ye EQUADIS ka kiliyan ye.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-N'i ye AGENA3000 ka kiliyan ye (Product A3 PIM INDUSTRY), i ka kan ka "Open Food Facts" sɔrɔbaga sugandi dɔrɔn n'i bɛ i ka fɛn dilannenw sɛbɛnw ci. [Kunnafoni wɛrɛw bɛ sɔrɔ nin bulɔgu sɛbɛn in kan](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-N’i ye fɛn dilannenw kunnafonidilan wɛrɛ ka kiliyan ye (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, wdfl) aw k' a fɔ an ye [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Cogo di ka fɛnw fara ɲɔgɔn kan ni barkode tɛ Pro plateforme fɛ?
+## With which product catalogs are you integrated?
 
-Fɛn minnu tɛ ni barɔdi ye, minnu bɛ yɔrɔ la walima minnu bɛ dilanbagaw ka jɔyɔrɔ la, "Fɛn min tɛ barɔdi ye" butɔni dɔ bɛ numanbolo fɛ min b'a To i bɛ Se k'u Fàra ɲɔgɔn kan. O kɔfɛ, dantigɛlikɛlan dɔ bɛ Dabɔ a yɛrɛma.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-An ye porozɛ kɛrɛnkɛrɛnnenw da ɲɛgɛnw kama, baganw balo kama, ka fara fɛn wɛrɛw kan:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## N ka sosiyete ka fɛn dilannenw kunnafoniw bɛ sɔrɔ Open Food Facts kan. Yala a bɛ se ka kɛ ka fanga ta min bɛ tali kɛ fɛn dilannikɛlaw ka jatebɔsɛbɛn na wa?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ɔwɔ kɛ! Aw bɛ se ka a ni fɛn dilanni jatebɔsɛbɛn min bɛ tali kɛ a la, o mara ni aw ye Open Food Facts jatebɔsɛbɛn dɔ dabɔ n’aw ka jagokɛyɔrɔ ladɛrɛsi ye. N’i y’i tɔgɔ sɛbɛn, jɛkulu min bɛ sɛbɛnfura kan, i k’o tɔgɔ fɔ walasa i ka se ka se ka fɛn dilanni yɔrɔ min bɛ bɛn o ma.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Sɛgɛsɛgɛli surun dɔ bɛna kɛ walasa ka a dɔn ko tiɲɛ na i ye a dilabaga ye.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Aw bɛna se ka kunnafoniw dafa, ka jaw fara u kan, ka ladilikanw sɔrɔ otomatiki la walasa ka Nutri-Score ɲɛ ka taa a fɛ, ani fɛn caman wɛrɛw. Nin bɛɛ ye fu ye pewu tiɲɛ na. Aw bɛ se fana ka mɔgɔ sabananw ka fɛn dilannenw kunnafonidilanw ɲɛnabɔ i n’a fɔ EQUADIS , AGENA3000 ani Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## A bɛ waati joli ta walasa fɛn dilannikɛlaw ka kunnafoniw ka ladamu appli wɛrɛw kan minnu bɛ baara kɛ kokura ni Open Food Facts database ye?
-
-A bɛ bɔ porogaramuw de la. Minnu bɛ baara Kɛ n’an ka APIw ye, n’o ye u fanba ye, o bɛ Kɛ teliya la.  
-Minnu bɛ baara Kɛ n’an ka don o don jagokɛlaw ye, o ye D+1 ye n’u y’a kuraya.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Yala kunnafoniw ladonni ka bɔ fɛn dilannen dɔ ka sɛbɛn kɔnɔ, o bɛ fɛn dilannen sɛbɛn min bɛ yen, o dafa walima k’a sɛbɛn a kan wa?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-An bɛ baara kɛ ni barɔdi ye walasa ka fɛnw dɔn, n’i ye sɛbɛn dɔ ladon ni barɔdi kelen ye ni sɛbɛn kɔrɔ ye, kunnafoniw bɛna fara ɲɔgɔn kan.
-
-Donanw kama i n’a fɔ fɛnw lisɛli, balo nafaw (nafa ɲuman kelen dɔrɔn de bɛ se ka kɛ), kunnafonidilan minnu bɛ ci dilanbagaw ka platformu fɛ, olu bɛna kunnafoniw sɛbɛn minnu bɛ yen.
-
-Donanw kama i n’a fɔ labeli/categories/marques (nafa tilennen damadɔ bɛ se ka kɛ), kunnafoniw bɛ fara ɲɔgɔn kan. Ni kunnafoniw ma tiɲɛ foroba kɛnɛ kan, i bɛ se ka fɛn dilannen sɛbɛn sɛmɛntiya foroba kɛnɛ kan walasa ka nafa juguw bɔ yen.
-
-→ Walasa ka kunnafoni wɛrɛw sɔrɔ, an b’aw wele aw ka an ka [gafe min bɛ baara kɛ ni baarakɛminɛnw](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse ani/walima aw ka an ka [videyo kalanw](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Yala fɛnw bɛ kɛ cogo min na, o nafa ka bon wa?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Fɛn minnu bɛ kɛ ka olu sigicogo nafa ka bon: a bɛ sigicogo jira hakɛ fɛ.
-Fɛn minnu bɛ kɛ ka fɛnw fa, olu facogo ɲuman ye ka tugu tigitigi fɛn minnu sɛbɛnnen bɛ foroko kan. O de kama a nafa ka bon kosɛbɛ fana ka fɛnw fotow sɛbɛn.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Yala ne bɛ se ka jaw ci AGENA3000 fɛ fana wa?
+## Is the order of ingredients important?
 
-Aw bɛ se ka jaw ci nka waleyali la ja kunba dɔrɔn de bɛna sugandi a yɛrɛma, ja tɔw bɛna ci, nka u tɛna tigɛ / ka sugandi fɛnw kama, balocogo wdfl.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Cogo di ka se ka Pro platform ka kalanw sɔrɔ?
+## Can I send images via AGENA3000 too?
 
-Aw bɛ se ka pro platform ka kalanw sɔrɔ:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Pro plateforme yɛrɛ sababu fɛ: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Kɛrɛnkɛrɛnnenya la [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) kan .
+## How to access the Pro platform’s tutorials?
 
-→ Aw bɛ se fana ka an ka [gafe min bɛ baara kɛ ni a ye](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) telesarse .
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
