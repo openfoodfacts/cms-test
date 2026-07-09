@@ -1,17 +1,17 @@
 ---
 title: "{{< fa book size=2x >}} Folksonomy Engine"
-description: "1 ጥያቄ"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: መጽሐፍ
+icon: book
 ---
 
-{{< fa "መጽሐፍ" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## የፎልክሶኖሚ ሞተር ምንድን ነው?
+## What is the Folksonomy Engine ?
 
-የፎልክሶኖሚ ሞተር ተጠቃሚዎች በዓለም ላይ ትልቁ የክፍት ምግብ ዳታቤዝ በሆነው ክፍት የምግብ መረጃ መክፈቻ የምግብ ፋክቸሮች (Open Food Facts) ውስጥ ለምግብ ምርቶች ብጁ መለያዎችን ወይም ባህሪያትን እንዲያክሉ የሚያስችል ስርዓት ነው። ይህ ሰዎች ምግብን ከነባር ቀድሞ ከተገለጹት ባህሪያት ባሻገር በአዲስ መንገድ እንዲመድቡና እንዲገልጹ ያስችላቸዋል።
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
