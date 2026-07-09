@@ -1,7 +1,7 @@
 ---
 title: "{{< fa cloud-download size=2x >}} Gegevens downloaden"
 description: "1 vraag"
-lang: en-gb
+lang: nl-nl
 order: 7
 category-level: 0
 icon: cloud-download
@@ -11,11 +11,11 @@ icon: cloud-download
 
 ## Waar vind ik de gegevens voor een specifiek land?
 
-Momenteel zijn er geen exportproducten bestemd voor specifieke landen.
+Currently, there are no exports dedicated to specific countries.
 
-Er zijn veel manieren om onze verschillende exportopties te combineren met diverse tools om de gegevens te selecteren die betrekking hebben op een specifiek land.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
