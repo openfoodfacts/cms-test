@@ -1,21 +1,21 @@
 ---
-title: "{{< fa салбарын хэмжээ=2x >}} Үйлдвэрлэгчид"
-description: "6 дэд ангилал"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: аж үйлдвэр
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: тор
+  type: grid
   grid-columns: 4
-  sort: "захиалга"
-  fields: [ гарчиг, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "аж үйлдвэр" size=3x >}}
+{{< fa "industry" size=3x >}}
 
