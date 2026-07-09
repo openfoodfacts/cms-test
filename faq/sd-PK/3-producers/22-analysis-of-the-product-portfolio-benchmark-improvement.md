@@ -1,25 +1,25 @@
 ---
-title: "{{<fa chart-bar size=2x >}} پراڊڪٽ پورٽ فوليو جو تجزيو (بينچ مارڪ، بهتري...)"
-description: "1 سوال"
-lang: اين جي بي
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: چارٽ بار
+icon: chart-bar
 ---
 
-{{< fa "چارٽ بار" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## منهنجي شين جي نيوٽري اسڪور کي بهتر بڻائڻ لاءِ ريفارموليشن جي سفارش تائين ڪيئن رسائي حاصل ڪجي؟
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-جڏهن توهان پروڊيوسر پليٽ فارم جي هوم پيج تي آهيو:
+When you are on the home page of the Producers Platform:
 
-1. صفحي جي مٿي تي "→ بهتري جي موقعن سان مصنوعات جو تعداد" لنڪ تي ڪلڪ ڪريو.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. توهان پنهنجي شين کي بهتر بڻائڻ لاءِ اسان جي سسٽم پاران ڳوليل سڀني موقعن تي صلاح ڪري سگهو ٿا.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. موقعي جي قسم تي ڪلڪ ڪرڻ سان توهان کي انهن شين جي فهرست ڏانهن وٺي ويندو جيڪي بهتري جي تابع آهن.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ وڌيڪ تفصيلن لاءِ، اسان توهان کي اسان جي [صارف گائيڊ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ڊائون لوڊ ڪرڻ جي دعوت ڏيون ٿا ۽/يا اسان جي [وڊيو سبق](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) سان صلاح ڪريو :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
