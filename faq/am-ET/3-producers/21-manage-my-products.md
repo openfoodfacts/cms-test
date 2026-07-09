@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} ምርቶቼን አስተዳድር"
-description: "16 ጥያቄዎች"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: ሳጥን
+icon: box
 ---
 
-{{< fa "ሳጥን" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## በክፍት የምግብ እውነታዎች ውስጥ ያለውን የውሂብ ጥራት የሚያረጋግጠው ምንድን ነው?
+## What guarantees the quality of the data in Open Food Facts?
 
-**የውሂቡን ጥራት በተከታታይ ለማሻሻል በአራት ምሰሶዎች ላይ እንተማመናለን፡**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. ማህበረሰቡ በየጊዜው መረጃዎችንና ፎቶዎችን እያከለ ሲሆን የገምጋሚዎች እውነተኛ ፓትሮል ነው።
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. በምርት ወረቀቶች ላይ ስህተቶችን ለመለየት የሎጂክ ደንቦችን አዘጋጅተናል።ለምሳሌ፡ የንጥረ ነገሮቹ ክብደት ድምር ከምርቱ አጠቃላይ ክብደት የሚበልጥ ከሆነ፣ ያልተለመደ ሁኔታ አለ። ወደ 50 የሚጠጉ ሌሎች የጥራት ማረጋገጫዎች አሉን።
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. ለማሽን ለርኒንግ ምስጋና ይግባውና የግብዓት ስህተቶችን አደጋ እንገድባለን። ቴክኖሎጂያችን በአስተዋጽዖ አበርካቾች ከተነሱ ፎቶዎች የጽሑፍ መረጃዎችን እንድናወጣ ያስችለናል
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. በሳንቴ ፐብሊክ ፍራንስ ድጋፍ ምክንያት፣ አምራቾች በብዛት የተመረቱ መረጃዎችን እንዲሰቅሉ እና በዚህም የማህበረሰቡን አስተዋጽኦ እንዲያርሙ/እንዲሞሉ የሚያስችል ፖርታል አዘጋጅተናል።
-
----
-
-## ምርቶችን እንዴት ማከል እንደሚቻል?
-
-ምርቶችን ወደ መድረካችን ለማከል፣ በመጀመሪያ እንዴት መቀጠል እንደሚፈልጉ መወሰን ያስፈልግዎታል። አራት አማራጮች አሉ፦
-
-- **በእጅ**፡ አነስተኛ ቁጥር ያላቸው ምርቶች ካሉዎት፣ በፕሮ ፕላትፎርም ላይ እያንዳንዱን የምርት ሉህ በእጅ መፍጠር ይችላሉ።
-
-- **በተመን ሉህ ማስመጣት**፦ በክፍት ፉድ ፋክትስ የቀረበውን የተመን ሉህ [ቴምፕሌት](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ማውረድ ወይም በቀጥታ ከአይቲ ስርዓትዎ ወደ ፕሮ ፕላትፎርም ማስመጣት ይችላሉ።
-
-- **በምርት ካታሎጎች ማገናኛዎች በኩል**። በEQUADIS፣ AGENA3000 ወይም BAYARD ደንበኛ ከሆኑ፣ በ1 ጠቅታ ውስጥ በክፍት የምግብ እውነታዎች ውስጥ ውሂብ መስቀል ይችላሉ። ከሌላ PIM (የምርት መረጃ አስተዳደር) ጋር እየሰሩ ከሆነ፣ እባክዎን ያግኙን፡ producers@openfoodfacts.org
-
-- **በኩባንያዎ እና በክፍት የምግብ እውነታዎች መካከል በተበጀ ግንኙነት**። በፖርትፎሊዮዎ ውስጥ ከ1000 በላይ ምርቶችን ከቆጠሩ፣ የውሂብ ዝውውሩን ለማቃለል የተለየ ማገናኛ የመገንባት እድልን መወያየት እንችላለን።
-
-ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## የምርት ዝማኔዎችን ወደ ይፋዊ የውሂብ ጎታ በራስ-ሰር ለማድረግ የሚያስችል መንገድ አለ?
+## How to add products?
 
-አዎ፣ EQUADIS፣ AGENA3000 ወይም BAYARD የምርት ካታሎጎችን የሚጠቀሙ ከሆነ እና ትክክለኛውን ውቅር ካዘጋጁ፣ ማስመጣቱ በራስ-ሰር ሊከናወን ይችላል እና ስለዚህ የምርት መረጃውን በክፍት የምግብ እውነታዎች ላይ ማዘመን ይቻላል።
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## የተጨመሩ ምርቶች ብዛት የተወሰነ ነው?
+## Is there a way to automate product updates to the public database?
 
-ምንም ገደብ የለም፣ የሚፈልጉትን የምርት ብዛት በፕላትፎርማችን ላይ መስቀል ይችላሉ።
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-በገበያ ላይ የማይገኝ ምርት ማስወገድ ከፈለጉ፣ የምርት ወረቀቱን ሲያርትዑ "ይህ ምርት ከአሁን በኋላ አይሸጥም" የሚለውን ሳጥን ምልክት ማድረግ ብቻ ያስፈልግዎታል።
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-በርካታ ምርቶችን ማስወገድ ከፈለጉ፣ በገጽ 18 ላይ በ[የተጠቃሚ መመሪያ](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf) ላይ የተጠቀሰውን አሰራር እንዲከተሉ እንመክራለን።
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-ማንኛውም ጥያቄ ካለዎት በproducers@openfoodfacts.org በኩል ሊያገኙን ይችላሉ።
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-ምርቱ በማህደር ሲቀመጥ፣ በክፍት የምግብ እውነታዎች ውስጥ አይታይም።ይሁን እንጂ በጊዜ ሂደት የተሸጡ ምርቶችን ታሪክ ማቆየት እንድንችል በመረጃ ቋታችን ውስጥ ይቀራል።
-
----
-
-## የኩባንያው መረጃ በመድረኩ ላይ ካለው መረጃ ቅድሚያ ይሰጣል?
-
-አንድ አምራች ከምርቶቹ አንዱን በአምራቹ መለያው በመስመር ላይ ሲያስቀምጥ እና የምርት ሉህ አስቀድሞ ካለ፣ ይህ ያጠናቅቀዋል።
-
-አምራቹ የለጠፈው መረጃ ሁልጊዜ ቅድሚያ የሚሰጠው ሲሆን መረጃው ሲሞላ ምርቶቹን ማሻሻል የሚችለው እሱ ብቻ ነው።
-
-በመድረኩ በኩል የሚላከው መረጃ የተከፋፈለ ከሆነ፣ ከማሸጊያው የተገኘው ማህበረሰቡ የሚያክለው መረጃ ሊያጠናቅቀው ይችላል።
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## ውሂቤን በምን ቅርጸት መላክ አለብኝ?
+## Does company information take precedence over information already present on the platform?
 
-[አብነት](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) በክፍት ፉድ ፋክትስ የቀረበ ነው።
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-ሆኖም ግን፣ ማንኛውም የተመን ሉህ ቅርጸት (xlsx፣ csv) በመድረኩ ላይ ሊመጣ ይችላል።  
-የእኛ ስልተ ቀመር ከፋይልዎ ውስጥ ካሉት ባህሪያት ጋር በራስ-ሰር እንዲዛመድ የተነደፈ ሲሆን ይህም በክፍት የምግብ እውነታዎች ውስጥ ካሉት ባህሪያት ጋር ይጣጣማል። የማዛመጃ ደረጃውን ሁልጊዜ ደግመው ያረጋግጡ ምክንያቱም አንዳንዶቹን በእጅ ማስተካከል ሊያስፈልግዎ ይችላል።
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-መረጃዎ በበርካታ የተመን ሉሆች መካከል የተከፋፈለ ከሆነ፣ ቅርጸቱ ከተቀየረ ማዛመጃውን በተከታታይ ማስመጣት ይችላሉ።
-
-እንዲሁም መረጃው ገና በመረጃ ስርዓትዎ ውስጥ ከሌለ ከ EQUADIS ወይም AGENA3000 ማስመጣት በተጨማሪ የ Excel ፋይል ማስመጣት ይችላሉ። በእነዚህ አጋጣሚዎች፣ ከበይነገጽ ወደ ይፋዊ የውሂብ ጎታ ለመላክ መጠየቅዎን አይርሱ።
-
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## ከየትኛው የምርት ካታሎጎች ጋር ተዋህደዋል?
+## In what format should I send my data?
 
-አምራቾች አሁን የምርት መረጃዎቻቸውን እና ፎቶዎቻቸውን ከ **Equadis,** **AGENA3000 እና BAYARD consulting** ወደ Open Food Facts በእውነተኛ ጊዜ መላክ ይችላሉ።
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-በእርግጥ ከተሃድሶ ጥቆማዎች እና ከመድረኩ ሁሉም ገጽታዎች ተጠቃሚ ይሆናሉ።
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[የብሎግ ልጥፋችን](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) የEQUADIS ደንበኛ ከሆኑ መከተል ያለብዎትን ደረጃዎች ያብራራል።
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-የAGENA3000 ደንበኛ (የምርት A3 PIM ኢንዱስትሪ) ከሆኑ፣ የምርት ወረቀቶችዎን ሲልኩ ተቀባዩን "ክፍት የምግብ እውነታዎች" መምረጥ ብቻ ያስፈልግዎታል። [በዚህ የብሎግ ልጥፍ ላይ ተጨማሪ መረጃ](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector)።
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-የሌላ የምርት መረጃ ካታሎግ ደንበኛ ከሆኑ (ሳልስፋይ - የቀድሞ አልኬሚክስ፣ ኮንሶትረስት፣ 1worldSync፣ አኬኔኦ፣ PIMWorks፣ ወዘተ.) እባክዎን በ [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) ያሳውቁን
-
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## በፕሮ ፕላትፎርም በኩል ባርኮዶችን ሳይጠቀሙ ምርቶችን እንዴት ማከል ይቻላል?
+## With which product catalogs are you integrated?
 
-ባርኮድ ለሌላቸው ምርቶች፣ በጣቢያው ላይ ወይም በአምራቹ መድረክ ላይ፣ በግራ አምድ ውስጥ "ያለ ባርኮድ ምርት" የሚል አዝራር አለ፣ ይህም እነሱን እንዲያክሏቸው ያስችልዎታል። ከዚያ መለያ በራስ-ሰር ይፈጠራል።
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-ለመዋቢያዎች፣ ለእንስሳት መኖ እንዲሁም ለሌሎች ምርቶች የተወሰኑ ፕሮጀክቶችን ፈጥረናል፤ እነዚህም የውበት እውነታዎች፣ የቤት እንስሳት የምግብ እውነታዎች እና የክፍት ምርቶች እውነታዎች በቅደም ተከተል ናቸው።
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## ከኩባንያዬ የተገኘው የምርት መረጃ በክፍት የምግብ እውነታዎች ላይ ይገኛል። ተያያዥ የሆነውን የአምራች መለያ መቆጣጠር ይቻላል?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-አዎን በእርግጥ! የንግድ አድራሻዎን የያዘ ክፍት የምግብ እውነታዎች መለያ በመፍጠር ተያያዥ የሆነውን የአምራች መለያ መቆጣጠር ይችላሉ። ሲመዘገቡ፣ ተጓዳኝ የአምራች ቦታውን ማግኘት እንዲችሉ በቅጹ ላይ የሚገኘውን ድርጅት ስም ይጥቀሱ።
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-በእርግጥ እርስዎ አምራች መሆንዎን ለማረጋገጥ አጭር የማረጋገጫ እርምጃ ያስፈልጋል።
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-መረጃውን ማጠናቀቅ፣ ምስሎችን ማከል፣ Nutri-Scoreን ለማሻሻል አውቶማቲክ ምክሮችን ማግኘት እና ሌሎችንም ማድረግ ይችላሉ። ይህ ሁሉ በእርግጥ ሙሉ በሙሉ ነፃ ነው። እንዲሁም እንደ EQUADIS፣ AGENA3000 እና የባያርድ ኮንሰልቲንግ ያሉ የሶስተኛ ወገን የምርት መረጃ አስተዳደር ስርዓትን ማገናኘት ይችላሉ።
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
-
----
-
-## የአምራች መረጃ በሌላ መተግበሪያ ላይ ክፍት የምግብ እውነታዎችን እንደገና ጥቅም ላይ ለማዋል ምን ያህል ጊዜ ይወስዳል?
-
-በመተግበሪያዎቹ ላይ የተመሰረተ ነው። አብዛኛዎቹን የኛን ኤፒአይዎች ለሚጠቀሙ ሰዎች፣ ወዲያውኑ ነው።  
-የዕለት ተዕለት የወጪ ምርቶቻችንን ለሚጠቀሙ ሰዎች፣ ቢያዘምኑት D+1 ነው።
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ከምርት መዝገብ ውስጥ ያለውን መረጃ ማስገባት አሁን ያለውን የምርት መዝገብ ያጠናቅቃል ወይስ ይተካዋል?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-ምርቶችን ለመለየት ባርኮዱን እንጠቀማለን፤ ከነባር መዝገብ ጋር ተመሳሳይ ባርኮድ ያለው መዝገብ ካስገቡ መረጃው ይዋሃዳል።
-
-እንደ የንጥረ ነገሮች ዝርዝር፣ የአመጋገብ እሴቶች (አንድ ትክክለኛ እሴት ብቻ ሊሆን ይችላል) ላሉ መረጃዎች፣ በአምራቹ መድረክ በኩል የሚላከው መረጃ አሁን ያለውን ውሂብ ይተካል።
-
-እንደ መለያዎች/ምድቦች/ብራንዶች ላሉ መረጃዎች (በተቻለ መጠን በርካታ ትክክለኛ እሴቶች)፣ መረጃው ይዋሃዳል። መረጃው በይፋዊው መድረክ ላይ የተሳሳተ ከሆነ፣ የተሳሳቱ እሴቶችን ለማስወገድ በሕዝብ መድረክ ላይ ያለውን የምርት ሉህ ማሻሻል ይችላሉ።
-
-→ ለተጨማሪ ዝርዝሮች፣ [የተጠቃሚ መመሪያችንን](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) እንዲያወርዱ እና/ወይም [የቪዲዮ አጋዥ ስልጠናዎቻችንን](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) እንዲያማክሩ እንጋብዝዎታለን :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## የንጥረ ነገሮች ቅደም ተከተል አስፈላጊ ነው?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-የንጥረ ነገሮቹ ቅደም ተከተል አስፈላጊ ነው፡ ትዕዛዙን በቁጥር ይወክላል።
-ንጥረ ነገሮቹን ለመሙላት በጣም ጥሩው መንገድ በማሸጊያው ላይ የተጻፈውን በትክክል መከተል ነው። ለዚህም ነው የንጥረ ነገሮቹን ፎቶዎች ታትመው መቅረባቸው በጣም አስፈላጊ የሆነው።
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ምስሎችን በAGENA3000 በኩል መላክ እችላለሁን?
+## Is the order of ingredients important?
 
-ምስሎችን መላክ ይችላሉ ነገር ግን በተግባር ዋናው ምስል ብቻ በራስ-ሰር ይመረጣል፣ ሌሎቹ ምስሎች ይላካሉ፣ ነገር ግን ለንጥረ ነገሮች፣ ለአመጋገብ ወዘተ አይከረከሙም/አይመረጡም።
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## የፕሮ ፕላትፎርሙን አጋዥ ስልጠናዎች እንዴት ማግኘት ይቻላል?
+## Can I send images via AGENA3000 too?
 
-የፕሮ ፕላትፎርሙን አጋዥ ስልጠናዎች ማግኘት ይችላሉ፡
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- በፕሮ ፕላትፎርሙ ራሱ በኩል፦ [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- በቀጥታ በ[YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ላይ
+## How to access the Pro platform’s tutorials?
 
-→ እንዲሁም የእኛን [የተጠቃሚ መመሪያ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ማውረድ ይችላሉ።
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
