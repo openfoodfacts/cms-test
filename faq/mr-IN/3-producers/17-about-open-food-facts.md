@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} खुल्या अन्नाबद्दलच्या तथ्यांबद्दल"
-description: "४ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: १७
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
+order: 17
 category-level: 1
-icon: माहिती-सर्कल
+icon: info-circle
 ---
 
-{{< fa "माहिती-सर्कल" size=३x >}}
+{{< fa "info-circle" size=3x >}}
 
-## कोणत्या प्रकारची माहिती शेअर करावी?
+## What type of information should be shared?
 
-तुमच्याकडे असलेली कोणतीही माहिती स्वागतार्ह आहे, पौष्टिक माहितीपासून ते पॅकेजिंग माहितीपर्यंत.
+Any information you have is welcome, from nutritional information to packaging information.
 
-यामुळे संपूर्ण फाइल तयार करणे, सर्व गुणांची अचूकतेने गणना करणे आणि सर्वसाधारणपणे ग्राहकांनी कौतुकास्पद पारदर्शकता निर्माण करणे शक्य होते.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-तथापि, आम्ही तुम्हाला खालील क्षेत्रांना प्राधान्य देण्याची शिफारस करतो:
+However we do recommend you prioritize the following fields:
 
-- पौष्टिक माहिती
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- उत्पादन श्रेणी (उदा. पेये, चीज, दही इ.)
-
-- उत्पादनाचे नाव
-
-- ऍलर्जीन
-
-- आणि घटकांनुसार, हे क्षेत्र अनिवार्य नाही परंतु इष्टतम वापरासाठी आणि गुण निश्चित करण्यासाठी शिफारसित आहे.
-
-→ अधिक माहितीसाठी, आम्ही तुम्हाला आमचे [वापरकर्ता मार्गदर्शक](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड करण्यासाठी आणि/किंवा आमचे [व्हिडिओ ट्यूटोरियल](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) पहाण्यासाठी आमंत्रित करतो :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## मी ओपन फूड फॅक्ट्स डेटा डाउनलोड करू शकतो का?
+## Can I download Open Food Facts data?
 
-तुम्ही ओपन फूड फॅक्ट्सवर उपलब्ध असलेला सर्व डेटा डाउनलोड करू शकता. सावधान, यासाठी भरपूर डिस्क स्पेस, स्प्रेडशीट वापरायची असल्यास शक्तिशाली संगणक किंवा अन्यथा R किंवा Python चे ज्ञान आवश्यक आहे.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-प्रगत शोधामुळे तुम्ही डेटाचा एक उपसंच (उदाहरणार्थ तुमचा ब्रँड) देखील डाउनलोड करू शकता.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ अधिक माहितीसाठी, आम्ही तुम्हाला आमचे [वापरकर्ता मार्गदर्शक](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड करण्यासाठी आणि/किंवा आमचे [व्हिडिओ ट्यूटोरियल](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) पहाण्यासाठी आमंत्रित करतो :-)
-
----
-
-## प्रो प्लॅटफॉर्मवर प्रवेश आणि डेटा आयात मोफत आहे का?
-
-नक्कीच, आणि ते कायमचे राहील.ओपन फूड फॅक्ट्स द्वारे प्रदान केलेल्या सर्व सेवा मोफत आहेत.  
-तुम्ही अन्न पारदर्शकतेसाठी तुमचा उत्पादन डेटा योगदान देण्याचा निर्णय घेतल्याबद्दल आम्हाला खूप आनंद झाला आहे आणि त्यासाठी आम्ही तुमचे आभारी आहोत.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## मला व्यावसायिक प्लॅटफॉर्मसाठी सुधारणा सुचवायच्या आहेत, मी ते कसे करू शकतो?
+## Is access to the Pro platform and the import of data free?
 
-अन्न पारदर्शकतेमध्ये सहभागी होण्याच्या तुमच्या इच्छेबद्दल धन्यवाद!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-अभिप्राय शेअर करण्याचा सर्वोत्तम मार्ग म्हणजे [हा फॉर्म](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) भरणे.
+---
 
-तुम्ही आमच्याशी [आमच्या फोरम](https://forum.openfoodfacts.org/) किंवा [स्लॅक](https://openfoodfacts.slack.com/ssb/redirect) द्वारे सूचना देण्यासाठी संपर्क साधू शकता.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-आमच्याशी संपर्क साधण्यासाठी आमच्या स्लॅकमध्ये सामील व्हा आणि #producers चॅनेलमध्ये प्रवेश करा.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
