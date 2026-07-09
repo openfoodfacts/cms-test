@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Agahiyên Berhemên Vekirî"
-description: "3 pirs"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: qûfle
+icon: key
 ---
 
-{{< fa "qûfle" size="3 caran" >}}
+{{< fa "key" size=3x >}}
 
-## Meriv çawa li ser iPhone-ê digihîje Rastiyên Berhemên Vekirî?
+## How to access Open Products Facts on iPhone ?
 
-Rastiyên Berhemên Vekirî di nav sepana sereke ya Rastiyên Xwarinê yên Vekirî de hene. Ev yekbûn rê dide bikarhênerên iPhone-ê ku bi rêya serîlêdanek hêsan bigihîjin her du databasan.
-
----
-
-## Ez dixwazim piştgiriyê bidim Open Products Facts. Ez dikarim çi bikim?
-
-Ji kerema xwe rûpela wîkiya me bixwînin, me rêbazên tevlêbûnê rêz kirine: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Ji bo piştgiriya Rastiyên Berhemên Vekirî, hûn dikarin vebijarkên jêrîn bifikirin, her yek ji wan li gorî celebên cûda yên beşdariyan hatine çêkirin:
-
--
-
-**Sponsorên Xêrxwazî/Dewletî ji bo Rastiyên Berhemên Vekirî**:
-Beşdariyên xêrxwazî di pêkanîna vîzyona platformek daneyên dorhêlî ya berfireh, nirxandina hilberan, û berhevkirina çareseriyên dorhêlî de, li ser zêdetirî 20000+ kategoriyan, ku armancek sereke ya Rastiyên Berhemên Vekirî ye, pir girîng in. Gelek pêkhateyên girîng ên vê vîzyonê hîn nehatine fînansekirin, û piştgiriya we ya darayî dikare bandorek girîng bike. Bexşên we dikarin ji bo fînansekirina pêşkeftin û binesaziyên girîng bibin alîkar. Ji bo beşdarbûna darayî, ji kerema xwe bi navnîşana contact@openfoodfacts.org re têkilî daynin.
-
--
-
-**Beşdarên Daneyan ku Sepana Rastiyên Berhemên Vekirî Bi Kar Tînin**:
-Beşdariyên daneyan ji bo mezinkirina Rastiyên Berhemên Vekirî pir girîng in. Bi karanîna sepana Android-ê ji bo zêdekirina agahdariya hilberên nû, nûvekirina tomarên heyî, an verastkirina daneyan, hûn dibin alîkar ku databasa berfireh û baştir bibe. Ev hewldana kolektîf ji bo her kesî çavkaniyek xurt û pêbawer ava dike.
-
--
-
-**Beşdarên Teknîkî yên ji bo Rastiyên Berhemên Vekirî**:
-Heke hûn di warên wekî bernamekirin, analîzkirina daneyan, an sêwirana ezmûna bikarhêner de xwedî jêhatîyên teknîkî bin, pisporiya we dikare ji Rastiyên Berhemên Vekirî re sûdmend be. Beşdarbûn di pêşvebirina sepanê de, baştirkirina fonksiyoneliyên wê, an jî baştirkirina navrûyên bikarhêner beşdariyên hêja ne. Ji bo beşdarbûnê, beşdarî kanala Slackê ya #openproductsfacts bibin, ku civaka Open Products Facts li wir hevkariyê dike. Hûn dikarin lînka vê qada xebatê ya Slack-ê li ser malpera Open Food Facts bibînin.
-
-Her cure beşdarbûn ji bo mezinbûn û serkeftina Open Products Facts girîng e, û dibe alîkar ku platformek domdartir û agahdartir ji bo her kesî were afirandin.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Ez dikarim API-ya Rastîyên Berhemên Vekirî li ku bibînim?
+## I would like to support Open Products Facts. What can I do ?
 
-API-ya Open Products Facts %98 bi API-ya Open Food Facts re wekhev e, ji ber vê yekê heke hûn belgekirina API-ya Open Food Facts bikar bînin divê dîtinek we ya zelal a API-ya Open Products Facts hebe. Me her weha dersek taybetî nivîsandiye da ku destûrê bide bicîhanîna skankirina gerdûnî di sepana we de.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
