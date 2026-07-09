@@ -1,31 +1,31 @@
 ---
-title: "{{< ଫା ଡଲାର ଆକାର=2x >}} ଖୋଲା ମୂଲ୍ୟ"
-description: "3ଟି ପ୍ରଶ୍ନ"
-lang: ଇଂ-ଜିବି
-order: ୨୯
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: ଡଲାର
+icon: dollar
 ---
 
-{{< fa "ଡଲାର" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## ମୁଁ ଜଣେ ଖୁଚୁରା ବ୍ୟବସାୟୀ ଏବଂ ମୁଁ ମୂଲ୍ୟ ଯୋଗଦାନ କରିବାକୁ ଚାହୁଁଛି। ମୁଁ ତାହା କିପରି କରିପାରିବି?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-ଆପଣ [ଆମର API](https://prices.openfoodfacts.org/api/docs) ବ୍ୟବହାର କରି ମୂଲ୍ୟ ଯୋଗଦାନ କରିପାରିବେ। ଯଦି ଆପଣ ସ୍କେଲରେ ମୂଲ୍ୟ ଯୋଗଦାନ କରିବାକୁ ଚାହାଁନ୍ତି, ଦୟାକରି ଆମ ସହିତ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) ରେ ଯୋଗାଯୋଗ କରନ୍ତୁ।
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## ଆପଣ କ’ଣ ଖୁଚୁରା ବ୍ୟବସାୟୀଙ୍କ ୱେବସାଇଟରୁ ମୂଲ୍ୟ ହ୍ରାସ କରିବାକୁ ଚିନ୍ତା କରୁଛନ୍ତି କି?
+## Do you consider scraping prices from retailers’ websites?
 
-ଆଇନଗତ ଏବଂ ବୈଷୟିକ କାରଣରୁ, ଆମେ ଖୁଚୁରା ବ୍ୟବସାୟୀଙ୍କ ୱେବସାଇଟରୁ ମୂଲ୍ୟ ସ୍କ୍ରାପ୍ କରିବା ଓପନ ପ୍ରାଇସ୍‌ରେ ଅବଦାନ ଦେବାର ଏକ ବୈଧ ଉପାୟ ଭାବରେ ବିଚାର କରୁନାହୁଁ। ଆମେ ନିଶ୍ଚିତ କରିବାକୁ ଚାହୁଁଛୁ ଯେ ଆମେ ସଂଗ୍ରହ କରୁଥିବା ମୂଲ୍ୟ ସଠିକ୍ ଏବଂ ଅଦ୍ୟତନ, ଏବଂ ଅବଦାନକାରୀଙ୍କଠାରୁ ସ୍କ୍ରାପ୍ ମୂଲ୍ୟ ଗ୍ରହଣ କରିବା ଆମକୁ ତାହା କରିବାକୁ ଅନୁମତି ଦିଏ ନାହିଁ।
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## ଓପନ୍ ଫୁଡ୍ ଫ୍ୟାକ୍ଟସ୍ ଏହା କାହିଁକି କରୁଛି (ଓପନ୍ ପ୍ରାଇସ୍)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ଖାଦ୍ୟ ପ୍ରଣାଳୀକୁ ବୁଝିବା ପାଇଁ ମୂଲ୍ୟ ସୂଚନା ଅତ୍ୟନ୍ତ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ। ଖାଦ୍ୟର ମୂଲ୍ୟ ବୁଝିବା ଏବଂ ସୁସ୍ଥ ଖାଦ୍ୟକୁ ପ୍ରୋତ୍ସାହିତ କରିବା ପାଇଁ ଏହା ଏକ ପ୍ରମୁଖ କାରଣ। ମୂଲ୍ୟ ତଥ୍ୟ ଖୋଲିବା ଦ୍ୱାରା ଗବେଷକ, ସାମ୍ବାଦିକ ଏବଂ ନାଗରିକମାନେ ଭୌଗୋଳିକ ଏବଂ ସମୟ ଅନୁସାରେ ଖାଦ୍ୟ ମୂଲ୍ୟ କିପରି ପରିବର୍ତ୍ତନ ହୁଏ ସେ ବିଷୟରେ ଭଲ ଭାବରେ ବୁଝିପାରିବେ।
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
