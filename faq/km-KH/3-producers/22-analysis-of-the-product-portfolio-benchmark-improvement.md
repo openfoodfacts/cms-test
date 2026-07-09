@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} ការវិភាគផលប័ត្រផលិតផល (ស្តង់ដារ ការកែលម្អ...)"
-description: "សំណួរ ១"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ២២
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: របារ​តារាង
+icon: chart-bar
 ---
 
-{{< fa "របារ​តារាង" size=៣ដង >}}
+{{< fa "chart-bar" size=3x >}}
 
-## តើធ្វើដូចម្តេចដើម្បីចូលមើលការណែនាំអំពីការកែច្នៃឡើងវិញ ដើម្បីកែលម្អពិន្ទុ Nutri-Score នៃផលិតផលរបស់ខ្ញុំ?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-នៅពេលអ្នកនៅលើទំព័រដើមនៃវេទិកាអ្នកផលិត៖
+When you are on the home page of the Producers Platform:
 
-1. ចុចលើតំណភ្ជាប់ "→ ចំនួនផលិតផលដែលមានឱកាសកែលម្អ" នៅផ្នែកខាងលើនៃទំព័រ។
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. អ្នកអាចពិគ្រោះជាមួយឱកាសទាំងអស់ដែលរកឃើញដោយប្រព័ន្ធរបស់យើងដើម្បីកែលម្អផលិតផលរបស់អ្នក
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. ការចុចលើប្រភេទឱកាសមួយនឹងនាំអ្នកទៅកាន់បញ្ជីផលិតផលដែលត្រូវកែលម្អ។
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ សម្រាប់ព័ត៌មានលម្អិតបន្ថែម យើងសូមអញ្ជើញអ្នកឱ្យទាញយក [មគ្គុទ្ទេសក៍អ្នកប្រើប្រាស់](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) របស់យើង និង/ឬពិគ្រោះជាមួយ [វីដេអូបង្រៀន](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) របស់យើង :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
