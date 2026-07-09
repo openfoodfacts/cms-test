@@ -1,23 +1,23 @@
 ---
-title: "{{< fa dosiero-o grandeco=2x >}} Lernejaj projektoj"
-description: "2 demandoj"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: dosiero-o
+icon: file-o
 ---
 
-{{< fa "dosiero-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Mi havas lernejan projekton farendan, mi volas uzi la datumojn de Open Food Facts, ĉu mi povas fari tion?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts estas malferma datumbazo, malferma projekto kiu funkcias sub ODbL-licenco, tial kondiĉe ke vi konsentas kun la postuloj de la ODbL-licenco, vi bonvenas reuzi niajn datumojn por viaj projektoj :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Kiel mi povas aliri/kolekti datumojn por miaj projektoj?
+## How can I access/collect data for my projects ?
 
-Sur la ĉefa paĝo de Open Food Facts, ĉe la supra maldekstra angulo de la ekrano, estas rulanta menuo. Ĉe la fundo de ĝi, vi trovos la opcion "altnivela serĉo", kiun vi povas alklaki. Tiam estas al vi decidi, kiuj kriterioj estas la plej gravaj por via(j) projekto(j). Post elekto, vi povos elŝuti la akiritajn rezultojn rulumante malsupren ĉe la fundo de la paĝo kaj alklakante "Elŝuti rezultojn".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
