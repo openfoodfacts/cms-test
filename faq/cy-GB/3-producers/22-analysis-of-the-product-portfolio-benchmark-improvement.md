@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Dadansoddiad o'r portffolio cynnyrch (meincnod, gwelliant...)"
-description: "1 cwestiwn"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: bar-siart
+icon: chart-bar
 ---
 
-{{< fa "bar-siart" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Sut i gael mynediad at yr argymhelliad ailfformiwleiddio i wella Sgôr Maeth fy nghynhyrchion?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Pan fyddwch chi ar dudalen gartref Platfform y Cynhyrchwyr:
+When you are on the home page of the Producers Platform:
 
-1. cliciwch ar y ddolen "→ Nifer y cynhyrchion gyda chyfleoedd gwella" ar frig y dudalen.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. gallwch ymgynghori â'r holl gyfleoedd a ganfuwyd gan ein system i wella eich cynhyrchion
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. bydd clicio ar fath o gyfle yn eich arwain at y rhestr o gynhyrchion sy'n destun gwelliant.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
