@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} การดาวน์โหลดข้อมูล"
-description: "1 คำถาม"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: ดาวน์โหลดจากคลาวด์
+icon: cloud-download
 ---
 
-{{< fa "ดาวน์โหลดจากคลาวด์" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## จะหาข้อมูลสำหรับประเทศใดประเทศหนึ่งได้จากที่ไหน?
+## Where to get the data for a specific country?
 
-ปัจจุบันยังไม่มีการส่งออกสินค้าไปยังประเทศใดประเทศหนึ่งโดยเฉพาะ
+Currently, there are no exports dedicated to specific countries.
 
-มีหลายวิธีในการใช้ข้อมูลส่งออกที่หลากหลายของเรา ร่วมกับเครื่องมือต่างๆ เพื่อเลือกข้อมูลที่เกี่ยวข้องกับประเทศใดประเทศหนึ่งโดยเฉพาะ
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-คุณสามารถดูเทคนิคเหล่านี้บางส่วนได้ในวิกิของเรา (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data)
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
