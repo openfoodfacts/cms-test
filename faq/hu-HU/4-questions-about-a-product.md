@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Termékkel kapcsolatos kérdések"
-description: "1 kérdés"
-lang: hu-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: bevásárlókosár
+icon: shopping-basket
 ---
 
-{{< fa "bevásárlókosár" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Kérdésem/panaszom van egy termékkel kapcsolatban
+## I have a question / claim about a product
 
-A [https://world.openfoodfacts.org](https://world.openfoodfacts.org/) egy közösen létrehozott oldal, amelyet a fogyasztók hoztak létre és töltenek fel, hogy megfejthessék a címkéket és összehasonlíthassák a termékeket.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Ha további információra van szüksége egy termékkel vagy reklamációval kapcsolatban, írjon a gyártónak. Nincsenek elérhetőségeink a gyártókról, de leggyakrabban a csomagoláson találhatók.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Ha szeretnél segíteni nekünk abban, hogy nagyobb átláthatóságot biztosítsunk az olyan fogyasztók számára, mint te vagy mi, használhatod iPhone vagy Android alkalmazásunkat termékek hozzáadásához: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-A projektről való beszélgetéshez csatlakozhatsz a közreműködők Facebook-csoportjához: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) vagy cseveghetsz a többi közreműködővel a Slacken:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
