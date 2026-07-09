@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Diwar-benn Open Food Facts"
-description: "4 goulenn"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: kelc'h-titouroù
+icon: info-circle
 ---
 
-{{< fa "kelc'h-titouroù" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Peseurt titouroù a ranker rannañ ?
+## What type of information should be shared?
 
-Degemeret eo an holl ditouroù ho peus, adalek an titouroù diwar-benn ar boued betek an titouroù diwar-benn an endalc'hadoù.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Gant-se e c'haller sevel ur restr klok, jediñ an holl skoroù gant resisted ha dre vras gant un treuzwelusted priziet gant ar gounezerien.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Koulskoude e kinnigomp deoc'h lakaat ar maeziennoù da-heul da gentañ :
+However we do recommend you prioritize the following fields:
 
-- Titouroù diwar-benn ar boued
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Rummad produioù (da sk. evajoù, keuz, yaourt, h.a.)
-
-- Anv ar produ
-
-- Alergenoù
-
-- hag ar c'hementadoù, n'eo ket ret ar vaezienn-mañ met erbedet eo evit un implij ha termenadur gwellañ eus ar poentoù
-
-→ Evit gouzout hiroc'h e pedomp ac'hanoc'h da bellgargañ hon [titouroù implijer](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ha/pe da welet hon [kentelioù video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ha gallout a ran pellgargañ roadennoù Open Food Facts ?
+## Can I download Open Food Facts data?
 
-Gallout a rit pellgargañ an holl roadennoù a c'haller kaout war Open Food Facts. Diwallit, ezhomm zo eus kalz a blas war ar bladenn, un urzhiataer galloudus ma fell deoc'h implijout ur follenn jediñ pe anaoudegezh eus R pe Python a-hend-all.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Gallout a rit ivez pellgargañ un isstrollad eus ar roadennoù (ho merk da skouer) a-drugarez d'an enklask araokaet.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Evit gouzout hiroc'h e pedomp ac'hanoc'h da bellgargañ hon [titouroù implijer](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ha/pe da welet hon [kentelioù video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ha digoust eo mont war ar bladenn Pro hag enporzhiañ roadennoù ?
-
-Sur a-walc'h, ha bez' e vo da viken.Digoust eo an holl servijoù kinniget gant Open Food Facts.  
-Laouen-bras omp hoc'h eus divizet kinnig ho roadennoù produ evit an treuzwelusterezh boued, ha trugarekaat a reomp ac'hanoc'h evit se.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Fellout a rafe din kinnig gwellaat ar bladenn vicherel, penaos e c'hellan ober ?
+## Is access to the Pro platform and the import of data free?
 
-Trugarez deoc'h evit ho youl da gemer perzh e treuzwelusterezh ar boued !
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-An doare gwellañ da rannañ evezhiadennoù eo leuniañ [ar furmskrid-mañ](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Gallout a rit ivez mont e darempred ganeomp evit reiñ alioù pe dre [hor forom](https://forum.openfoodfacts.org/) pe dre [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Deuit e-barzh hor Slack ha mont e-barzh ar chadenn #producers evit mont e darempred ganeomp.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
