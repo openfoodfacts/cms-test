@@ -1,17 +1,17 @@
 ---
-title: "{{< розмір книги fa=2x >}} Двигун фолксономії"
-description: "1 питання"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: книга
+icon: book
 ---
 
-{{< fa "книга" size="3 рази" >}}
+{{< fa "book" size=3x >}}
 
-## Що таке механізм фолксономії?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine — це система, яка дозволяє користувачам додавати власні теги або властивості до харчових продуктів у Open Food Facts, найбільшій у світі відкритій базі даних про продукти харчування. Це дозволяє людям класифікувати та описувати їжу по-новому, виходячи за рамки існуючих заздалегідь визначених властивостей.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
