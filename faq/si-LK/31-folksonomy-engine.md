@@ -1,17 +1,17 @@
 ---
-title: "{{<fa book size=2x >}} ජනශුන්‍ය යන්ත්‍රය"
-description: "1 ප්‍රශ්නයක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
-order: 31 වන සංස්කරණය
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
+order: 31
 category-level: 0
-icon: පොත
+icon: book
 ---
 
-{{< fa "පොත" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ෆෝක්සොනොමි එන්ජිම යනු කුමක්ද?
+## What is the Folksonomy Engine ?
 
-Folksonomy එන්ජිම යනු ලොව විශාලතම විවෘත ආහාර දත්ත සමුදාය වන Open Food Facts හි ආහාර නිෂ්පාදන සඳහා අභිරුචි ටැග් හෝ ගුණාංග එක් කිරීමට පරිශීලකයින්ට ඉඩ සලසන පද්ධතියකි. මෙය මිනිසුන්ට පවතින පූර්ව නිශ්චිත ගුණාංගවලින් ඔබ්බට නව ආකාරවලින් ආහාර වර්ගීකරණය කිරීමට සහ විස්තර කිරීමට ඉඩ සලසයි.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
