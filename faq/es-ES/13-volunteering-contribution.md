@@ -1,6 +1,6 @@
 ---
-title: "{{< fa edit size=2x >}} Volunteering / Contribution"
-description: "3 questions"
+title: "{{< fa edit size=2x >}} Voluntariado / Contribución"
+description: "3 preguntas"
 lang: en-gb
 order: 13
 category-level: 0
@@ -19,7 +19,7 @@ We also have a new image report API if you're a programmer.
 
 ---
 
-## I'm a designer. How can I help ?
+## Soy diseñador. ¿Cómo puedo ayudar?
 
 We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
