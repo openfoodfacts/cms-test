@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Открыть цены"
-description: "3 вопроса"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: доллар
+icon: dollar
 ---
 
-{{< fa "доллар" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Я являюсь розничным продавцом и хочу внести свой вклад в формирование цен. Как я могу это сделать?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Вы можете вносить изменения в цены, используя [наш API](https://prices.openfoodfacts.org/api/docs). Если вы хотите внести свой вклад в установление цен в больших масштабах, пожалуйста, свяжитесь с нами по адресу [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Вы рассматриваете возможность сбора цен с сайтов розничных продавцов?
+## Do you consider scraping prices from retailers’ websites?
 
-По юридическим и техническим причинам мы не считаем сбор цен с веб-сайтов розничных продавцов допустимым способом внесения вклада в Open Prices. Мы хотим быть уверены в точности и актуальности собираемых нами цен, а получение цен, скопированных от пользователей, не позволяет нам этого сделать.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Возможность извлечения данных о ценах рассматривается в качестве опции в будущей версии Open Prices, но Open Prices будет осуществлять ее самостоятельно, чтобы мы могли получить подтверждение цены на основе HTML-страницы.
 
 ---
 
-## Почему Open Food Facts так поступает (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Информация о ценах имеет первостепенное значение для понимания продовольственных систем. Это ключевой фактор в понимании стоимости продуктов питания и в пропаганде здорового питания. Предоставление данных о ценах на момент начала продаж позволяет исследователям, журналистам и гражданам лучше понимать, как цены на продукты питания меняются в зависимости от региона и времени.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
