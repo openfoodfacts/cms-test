@@ -1,10 +1,10 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Mga Mananaliksik/Iskolar"
-description: "1 subkategorya"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: takip sa pagtatapos
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
@@ -12,10 +12,10 @@ listing:
     category-level: 1
   type: grid
   grid-columns: 4
-  sort: "umorder"
-  fields: [ pamagat, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "takip sa pagtatapos" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
