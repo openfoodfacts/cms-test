@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} পণ্য পৰ্টফলিঅ'ৰ বিশ্লেষণ (বেঞ্চমাৰ্ক, উন্নতি...)"
-description: "১ টা প্ৰশ্ন"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
-order: ২২
+order: 22
 category-level: 1
-icon: চাৰ্ট-বাৰ
+icon: chart-bar
 ---
 
-{{< fa "চাৰ্ট-বাৰ" size=৩x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## মোৰ সামগ্ৰীৰ নিউট্ৰি-স্ক’ৰ উন্নত কৰিবলৈ পুনৰ প্ৰণয়নৰ পৰামৰ্শ কেনেকৈ লাভ কৰিব পাৰি?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-যেতিয়া আপুনি প্ৰযোজক প্লেটফৰ্মৰ হোম পেজত থাকে:
+When you are on the home page of the Producers Platform:
 
-1. পৃষ্ঠাৰ ওপৰত থকা "→ উন্নতিৰ সুযোগ থকা সামগ্ৰীৰ সংখ্যা" লিংকটোত ক্লিক কৰক।
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. আপুনি আপোনাৰ পণ্যসমূহ উন্নত কৰিবলে আমাৰ ব্যৱস্থাপ্ৰণালীয়ে ধৰা পেলোৱা সকলো সুযোগৰ পৰামৰ্শ ল'ব পাৰে
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. এটা ধৰণৰ সুযোগত ক্লিক কৰিলে আপুনি উন্নতিৰ আওতাত থকা সামগ্ৰীসমূহৰ তালিকালৈ লৈ যাব।
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ অধিক বিৱৰণৰ বাবে, আমি আপোনাক আমাৰ [ব্যৱহাৰকাৰী গাইড](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ডাউনলোড কৰিবলৈ আমন্ত্ৰণ জনাইছো আৰু/বা আমাৰ [ভিডিঅ' টিউটোৰিয়েল](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
