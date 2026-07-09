@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Ярлыклар"
-description: "2 сорау"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: кыстыргыч
+icon: bookmark
 ---
 
-{{< fa "кыстыргыч" size=3х >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ярлык буларак, хисап язмасы булдыру мөһимме?
+## As a label, is it important to create an account ?
 
-Лейбл буларак, сез продуктларның турыдан-туры җитештерүчесе булмаганлыктан, сезгә җитештерүче аккаунтын булдырырга кирәк түгел.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Мин лейбл, проектта ничек катнаша алам?
+## I am a label, how can I participate in the project?
 
-Ярлык буларак, иң мөһиме - безнең белән элемтәгә керергә **(producers@openfoodfacts.org)** һәм сезнең ярлык күрсәтелгән продуктлар исемлеген җибәрергә, шулай итеп без аларны тиешле продукт битләренә өсти алабыз.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
