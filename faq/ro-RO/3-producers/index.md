@@ -1,21 +1,21 @@
 ---
-title: "{{< dimensiunea industriei fa=2x >}} Producători"
-description: "6 subcategorii"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industrie
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: grilă
+  type: grid
   grid-columns: 4
-  sort: "comanda"
-  fields: [ titlu, descriere ]
+  sort: "order"
+  fields: [ title, descriere ]
   page-size: 100
 ---
 
-{{< fa "industrie" size="de 3 ori" >}}
+{{< fa "industry" size=3x >}}
 
