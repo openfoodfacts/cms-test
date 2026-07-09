@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dolāra izmērs=2x >}} Atvēršanas cenas"
-description: "3 jautājumi"
-lang: lv-lv
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
 order: 29
 category-level: 0
-icon: dolārs
+icon: dollar
 ---
 
-{{< fa "dolārs" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Esmu mazumtirgotājs un vēlos sniegt savu ieguldījumu cenu veidošanā. Kā es to varu izdarīt?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Jūs varat sniegt informāciju par cenām, izmantojot [mūsu API](https://prices.openfoodfacts.org/api/docs). Ja vēlaties palielināt cenas plašā mērogā, lūdzu, sazinieties ar mums pa e-pastu [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Vai apsverat cenu iegūšanu no mazumtirgotāju tīmekļa vietnēm?
+## Do you consider scraping prices from retailers’ websites?
 
-Juridisku un tehnisku iemeslu dēļ mēs neuzskatām cenu iegūšanu no mazumtirgotāju tīmekļa vietnēm par derīgu veidu, kā ietekmēt atvērto cenu (Open Prices). Mēs vēlamies pārliecināties, ka mūsu apkopotās cenas ir precīzas un aktuālas, un no līdzstrādniekiem saņemtās nokasītās cenas mums to neļauj izdarīt.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Cenu nokasīšana (Cenu skrāpēšana) ir apsvērta iespēja nākotnes Open Prices versijā, taču to veiktu pats Open Prices, lai mēs varētu iegūt cenas pierādījumu, pamatojoties uz HTML lapu.
 
 ---
 
-## Kāpēc Open Food Facts to dara (Atvērtās cenas)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informācija par cenām ir ārkārtīgi svarīga, lai izprastu pārtikas sistēmas. Tas ir galvenais faktors, lai izprastu pārtikas izmaksas un veicinātu veselīgāku uzturu. Sākotnējie cenu dati ir veids, kā atvieglot pētniekiem, žurnālistiem un pilsoņiem labāku izpratni par to, kā pārtikas cenas mainās ģeogrāfiski un laikā.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
