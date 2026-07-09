@@ -1,49 +1,49 @@
 ---
-title: "{{< fa kocka méret=2x >}} Csomagolás"
-description: "3 kérdés"
-lang: hu-gb
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: kocka
+icon: cube
 ---
 
-{{< fa "kocka" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Hogyan adhatom hozzá a csomagolási adataimat az Open Food Facts oldalhoz?
+## How can I add my packaging data to Open Food Facts?
 
-Gyártóként a csomagolási adatok termékeihez való hozzáadásának leghatékonyabb módja, ha kitölti ezt az [excel táblázatot](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) a szükséges információkkal az "AU" oszlopból.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Minden egyes csomagolási összetevőhöz meg kell adnia:
+For each packaging component, you will need to enter:
 
-- Az egységek száma (pl.: **4** pohár joghurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Az alak (pl.: **edény, fedő, doboz stb.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Az anyag (pl.: **PET, papír, üveg stb.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Az újrahasznosítási utasítás (pl.: **újrahasznosítani, eldobni stb.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Egy üres egység súlya (g)
+- The weight of one empty unit (in gr)
 
-- Az egységenkénti nettó termékmennyiség
+- The net quantity of product contained per unit
 
-Ez a táblázat ezután importálható a szakembereknek szánt platformunkba.
-
----
-
-## Mi az Élelmiszer-csomagolás kezelése projekt?
-
-Az „Élelmiszer-csomagolás kezelése” projekt a leggyakrabban fogyasztott termékek csomagolásával kapcsolatos részletes információk gyűjtéséből áll (forma, anyag, válogatási utasítások, súly, űrtartalom).
-
-A részvételen alapuló tudományos megközelítés alapján egyrészt a vállalatok beleegyezésére fog támaszkodni a csomagolási adataik megosztásába és az átláthatóság játékába, másrészt a polgárok hozzájárulására a termékekkel kapcsolatos információk gyűjtéséhez. Ezek az információk szabadon újra felhasználhatók lesznek („nyílt adatok”).
-
-**További információért:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Az Élelmiszer-csomagolás kezelése projekt befejezése után is hozzáadhatom a csomagolási adataimat?
+## What is the Tackling Food Packaging project?
 
-A projekt befejezése után is lehetőség van csomagolási adatok hozzáadására, mivel a csomagolási mezők továbbra is elérhetőek maradnak a weboldalunkon.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
