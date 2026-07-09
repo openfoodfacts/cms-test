@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bokmärkesstorlek=2x >}} Etiketter"
-description: "2 frågor"
-lang: sv-gb
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: bokmärke
+icon: bookmark
 ---
 
-{{< fa "bokmärke" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Är det viktigt att skapa ett konto som skivbolag?
+## As a label, is it important to create an account ?
 
-Som skivbolag behöver du inte skapa ett producentkonto eftersom du inte är den direkta producenten av produkterna.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Jag är ett skivbolag, hur kan jag delta i projektet?
+## I am a label, how can I participate in the project?
 
-Det mest relevanta att kontakta oss för etiketter **(producers@openfoodfacts.org)** och skicka oss en lista över de produkter där er etikett visas så att vi kan lägga till dem på de relaterade produktbladen.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
