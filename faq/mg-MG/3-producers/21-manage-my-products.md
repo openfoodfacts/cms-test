@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Tantano ny vokatra vokariko"
-description: "Fanontaniana 16"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: efajoro
+icon: box
 ---
 
-{{< fa "efajoro" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Inona no miantoka ny kalitaon'ny angon-drakitra ao amin'ny Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Mba hanatsarana hatrany ny kalitaon'ny angon-drakitra dia miankina amin'ny andry 4 izahay:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Manampy angon-drakitra sy sary tsy tapaka ity vondrom-piarahamonina ity ary tena mpanara-maso ireo mpandinika tokoa.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Nametraka fitsipika lojika izahay mba hamantarana ireo lesoka eo amin'ny takelaka vokatra.Ohatra: raha mihoatra ny lanjan'ny vokatra manontolo ny fitambaran'ny lanjan'ny akora, dia misy tsy fetezana. Manana fanamarinana kalitao 50 hafa eo ho eo izahay.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Noho ny Machine Learning, dia mametra ny mety hisian'ny fahadisoana amin'ny fampidirana izahay. Ny teknolojianay dia ahafahantsika maka angon-drakitra an-tsoratra avy amin'ny sary nalain'ireo mpandray anjara
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Noho ny fanohanan'ny Santé Publique France, dia namorona vavahady izahay ahafahan'ireo mpamokatra mampakatra ny angon-drakitra novokariny faobe ary amin'izany dia manitsy/mamita ny fandraisan'anjaran'ny vondrom-piarahamonina.
-
----
-
-## Ahoana ny fomba hanampiana vokatra?
-
-Mba hampidirana vokatra ao amin'ny sehatray dia mila manapa-kevitra aloha ianao hoe ahoana no fomba tianao hampiasana azy. Misy safidy 4:
-
-- **Amin'ny tanana**: raha vitsy ny vokatra anananao dia mbola azo atao ny mamorona ny takelaka vokatra tsirairay amin'ny tanana ao amin'ny Pro Platform.
-
-- **Amin'ny alàlan'ny fanafarana takelaka kajy**: azonao alaina ny takelaka kajy [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) nomen'ny Open Food Facts, na ampidirina mivantana ao amin'ny sehatra Pro ny angona nalaina avy amin'ny rafitra IT-nao.
-
-- **Amin'ny alàlan'ny mpampitohy ao amin'ny katalaogin'ny vokatra**. Raha mpanjifa ao amin'ny EQUADIS, AGENA3000 na BAYARD ianao dia afaka mampiditra angona ao amin'ny Open Food Facts amin'ny tsindry iray monja. Raha miasa amin'ny PIM (Product Information Management) hafa ianao dia mifandraisa aminay amin'ny alalan'ny mailaka: producers@openfoodfacts.org
-
-- **Amin'ny alalan'ny fifandraisana manokana** eo amin'ny orinasanao sy ny Open Food Facts. Raha mihoatra ny 1000 ny vokatra ao amin'ny portfolio-nao, dia afaka miresaka momba ny fahafahana hanangana mpampitohy manokana isika mba hanamorana ny famindrana angona.
-
-Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Misy fomba ve ahafahana manavao ho azy ny vokatra ao amin'ny tahiry angon-drakitra ho an'ny daholobe?
+## How to add products?
 
-Eny, raha mampiasa katalaogin'ny vokatra EQUADIS, AGENA3000 na BAYARD ianao, ary mametraka ny fikirakirana mety, dia azo atao ho azy ny fanafarana ary noho izany dia havaozina ao amin'ny Open Food Facts ny angon-drakitra momba ny vokatra.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Voafetra ve ny isan'ny vokatra fanampiny?
+## Is there a way to automate product updates to the public database?
 
-Tsy misy fetra, azonao atao ny mampiditra ny isan'ny vokatra tianao ao amin'ny sehatray.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Raha te-hanaisotra vokatra izay tsy misy eny an-tsena intsony ianao dia mila manisy marika fotsiny ilay boaty hoe "tsy amidy intsony ity vokatra ity" rehefa manova ny takelaka vokatrao ianao.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Raha te hanala vokatra maromaro ianao dia manoro hevitra anao izahay hanaraka ny fomba fiasa voalaza ao amin'ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), ao amin'ny pejy 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Azonao atao ihany koa ny mifandray aminay amin'ny alàlan'ny producers@openfoodfacts.org raha manana fanontaniana ianao.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Rehefa voatahiry ilay vokatra dia tsy hiseho intsony ao amin'ny Open Food Facts.Na izany aza, hijanona ao amin'ny tahiry angon-drakitray izany mba hahafahanay mitahiry ny tantaran'ny vokatra namidy rehefa mandeha ny fotoana.
-
----
-
-## Ambony kokoa noho ny fampahalalana efa misy ao amin'ny sehatra ve ny mombamomba ny orinasa?
-
-Rehefa mametraka ny iray amin'ireo vokatra vokariny an-tserasera miaraka amin'ny kaontiny mpamokatra ny mpamokatra iray ary efa misy takelaka vokatra, dia ho vita izany.
-
-Ny fampahalalana izay havoakan'ny mpamokatra no ho laharam-pahamehana foana ary izy irery ihany no afaka manova ny vokatra vokariny rehefa fenoina ny fampahalalana.
-
-Raha toa ka miparitaka ny angona alefa amin'ny alàlan'ny sehatra, dia mety ho ny fampahalalana nampidirin'ny vondrom-piarahamonina avy amin'ny fonosana no mameno izany.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Amin'ny endrika inona no tokony handefasako ny angon-drakitrako?
+## Does company information take precedence over information already present on the platform?
 
-Ny Open Food Facts no manome ny [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl).
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Na izany aza, azo ampidirina ao amin'ny sehatra ny endrika takelaka kajy rehetra (xlsx, csv).  
-Natao hampifanaraka ho azy ireo toetra avy amin'ny rakitrao amin'ireo hita ao amin'ny Open Food Facts ny algorithm-nay. Mitandrema mba hanamarina indroa foana ny dingana fampifanarahana satria mety mila amboarinao amin'ny tanana ny sasany amin'izy ireo.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Raha miparitaka eo amin'ny takelaka kajy maromaro ny mombamomba anao dia azonao ampidirina mifanesy izy ireo - ary ataovy izay hampitahana azy raha miova ny endrika.
-
-Azonao atao ihany koa ny mampiditra rakitra Excel ankoatra ny rakitra EQUADIS na AGENA3000, raha mbola tsy ao amin'ny rafi-pampahalalam-baovaonao ny angona. Amin'ireny tranga ireny, aza adino ny mangataka fanondranana any amin'ny tahiry angon-drakitra ho an'ny daholobe avy amin'ny interface.
-
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Inona avy ireo katalaogin'ny vokatra tafiditra ao anatin'izany?
+## In what format should I send my data?
 
-Afaka mandefa ny angon-drakitra momba ny vokatra sy ny sarin'izy ireo amin'ny fotoana tena izy avy amin'ny **Equadis,** **AGENA3000 sy BAYARD consulting** mankany amin'ny Open Food Facts ireo mpanamboatra.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Mazava ho azy fa handray soa avy amin'ireo soso-kevitra momba ny fanavaozana sy ireo endri-javatra rehetra ao amin'ny sehatra ihany koa ianao.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Ny lahatsoratra bilaogy](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) dia manazava ny dingana tokony harahina raha mpanjifa EQUADIS ianao.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Raha mpanjifa AGENA3000 (Product A3 PIM INDUSTRY) ianao dia mila misafidy fotsiny ny mpandray ny "Open Food Facts" rehefa mandefa ny takelaka momba ny vokatrao. [Fampahalalana bebe kokoa momba ity lahatsoratra bilaogy ity](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Raha mpanjifan'ny katalaogy angon-drakitra momba ny vokatra hafa ianao (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, sns.) Azafady mba ampahafantaro anay ao amin'ny [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ahoana ny fomba hanampiana vokatra tsy misy kaody bara amin'ny alàlan'ny sehatra Pro?
+## With which product catalogs are you integrated?
 
-Ho an'ny vokatra tsy misy kaody bara, ao amin'ny tranokala na ao amin'ny sehatra mpamokatra, misy bokotra "Vokatra tsy misy kaody bara" ao amin'ny tsanganana havia izay ahafahanao manampy azy ireo. Avy eo dia misy famantarana noforonina ho azy.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Namorona tetikasa manokana ho an'ny kosmetika, ho an'ny sakafom-biby, ary koa ho an'ny vokatra hafa izahay: Open Beauty Facts, Open Pet Food Facts ary Open Products Facts tsirairay avy.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Azo jerena ao amin'ny Open Food Facts ny angon-drakitra momba ny vokatra avy amin'ny orinasako. Azo atao ve ny mifehy ny kaontin'ny mpamokatra mifandraika amin'izany?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Eny Mazava ho azy! Azonao atao ny mifehy ny kaontin'ny mpamokatra mifandraika amin'izany amin'ny alàlan'ny famoronana kaonty Open Food Facts miaraka amin'ny adiresin'ny orinasanao. Rehefa misoratra anarana ianao dia lazao ny anaran'ny fikambanana hita ao amin'ny taratasy mba hahafahana miditra amin'ny toerana mpamokatra mifandraika amin'izany.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Ilaina ny dingana fanamarinana fohy mba hahazoana antoka fa ianao tokoa no mpamokatra.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Ho afaka hamita ny angon-drakitra ianao, hanampy sary, hahazo tolo-kevitra mandeha ho azy hanatsarana ny Nutri-Score, sy ny maro hafa. Mazava ho azy fa maimaim-poana tanteraka izany rehetra izany. Azonao atao ihany koa ny mampifandray rafitra fitantanana angon-drakitra momba ny vokatra avy amin'ny antoko fahatelo toy ny EQUADIS, AGENA3000 ary Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Hafiriana no ilaina ny fanavaozana ny angon-drakitra momba ny mpamokatra amin'ny fampiharana hafa mampiasa indray ny tahiry Open Food Facts?
-
-Miankina amin'ny fampiharana izany. Ho an'ireo izay mampiasa ny API-nay, izay ny ankamaroany, dia eo no ho eo izany.  
-Ho an'ireo izay mampiasa ny fanondranana isan'andro, dia D+1 izany raha toa ka havaoziny.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ny fanafarana angona avy amin'ny firaketana vokatra ve no mameno sa manoratra indray ny firaketana vokatra efa misy?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Mampiasa ny kaody bara izahay hamantarana ireo vokatra, raha mampiditra firaketana misy kaody bara mitovy amin'ny firaketana efa misy ianao dia hatambatra ny fampahalalana.
-
-Ho an'ny angon-drakitra toy ny lisitry ny akora, ny sandan'ny sakafo (sanda marina iray ihany no azo atao), ny angon-drakitra alefa amin'ny alàlan'ny sehatra mpamokatra dia hanolo ny angon-drakitra efa misy.
-
-Ho an'ny angon-drakitra toy ny marika/sokajy/marika (azo atao ny mampiasa sanda marina maromaro), dia atambatra ny fampahalalana. Raha diso ny angona ao amin'ny sehatra ho an'ny daholobe, dia azonao ovaina ny takelaka vokatra ao amin'ny sehatra ho an'ny daholobe mba hanesorana ireo soatoavina diso.
-
-→ Raha mila fanazavana fanampiny, manasa anao izahay hisintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ary/na hijery ny [horonan-tsary fampianarana](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Zava-dehibe ve ny filaharan'ny akora?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Zava-dehibe ny filaharan'ny akora: maneho ny filaharana araka ny habetsahana izany.
-Ny fomba tsara indrindra hamenoana ireo akora dia ny fanarahana tsara izay voasoratra eo amin'ny fonosana. Izany no antony maha-zava-dehibe ny fanaovana pirinty ny sarin'ireo akora.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Afaka mandefa sary amin'ny alàlan'ny AGENA3000 koa ve aho?
+## Is the order of ingredients important?
 
-Afaka mandefa sary ianao fa raha ny tena izy dia ny sary fototra ihany no hofantenana ho azy, ny sary hafa kosa halefa, fa tsy hotapahina/hofantenana noho ny akora, ny otrikaina sns.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Ahoana no fomba hidirana amin'ireo fampianarana ao amin'ny sehatra Pro?
+## Can I send images via AGENA3000 too?
 
-Azonao jerena ireo fampianarana ao amin'ny sehatra matihanina:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Amin'ny alalan'ny sehatra matihanina mihitsy: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Mivantana ao amin'ny [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Azonao atao ihany koa ny misintona ny [torolàlana ho an'ny mpampiasa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
