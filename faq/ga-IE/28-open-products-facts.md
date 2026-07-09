@@ -1,48 +1,48 @@
 ---
-title: "{{< méid eochair fa=2x >}} Oscail Fíricí faoi Tháirgí"
-description: "3 cheist"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: eochair
+icon: key
 ---
 
-{{< fa "eochair" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Conas rochtain a fháil ar Fhíricí Táirgí Oscailte ar iPhone?
+## How to access Open Products Facts on iPhone ?
 
-Tá Open Products Facts ar fáil laistigh den phríomhaip Open Food Facts. Leis an gcomhtháthú seo, is féidir le húsáideoirí iPhone rochtain a fháil ar an dá bhunachar sonraí trí fheidhmchlár amháin, áisiúil.
-
----
-
-## Ba mhaith liom tacú le Fíricí Táirgí Oscailte. Cad is féidir liom a dhéanamh?
-
-Léigh ár leathanach vicí le do thoil, tá bealaí liostaithe againn chun páirt a ghlacadh: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Chun tacú le Facts Táirgí Oscailte, is féidir leat na roghanna seo a leanas a mheas, gach ceann acu oiriúnaithe do chineálacha éagsúla ranníocaíochtaí:
-
--
-
-**Urraitheoirí Daonchairdiúla/Stáit do Open Products Facts**:
-Tá ranníocaíochtaí daonchairdiúla ríthábhachtach chun fís ardán sonraí ciorclach cuimsitheach, scóráil táirgí, agus comhiomlánú réiteach ciorclach a bhaint amach, thar níos mó ná 20000+ catagóir, príomhsprioc de chuid Open Products Facts. Níl maoiniú faighte fós do go leor comhpháirteanna riachtanacha den fhís seo, agus is féidir le do thacaíocht airgeadais tionchar suntasach a imirt. Is féidir le do shíntiúis cabhrú le forbairtí agus bonneagar ríthábhachtach a mhaoiniú. Chun ranníocaíocht airgeadais a dhéanamh, téigh i dteagmháil le contact@openfoodfacts.org
-
--
-
-**Rannpháirtíthe Sonraí ag Úsáid Aip Open Products Facts**:
-Tá ranníocaíochtaí sonraí ríthábhachtach chun Open Products Facts a scálú. Trí úsáid a bhaint as an aip Android chun faisnéis nua faoi tháirgí a chur leis, iontrálacha atá ann cheana a nuashonrú, nó sonraí a fhíorú, cabhraíonn tú leis an mbunachar sonraí a leathnú agus a bheachtú. Cuireann an iarracht chomhchoiteann seo le hacmhainn láidir agus iontaofa a thógáil do gach duine.
-
--
-
-**Rannpháirtíthe Teicniúla le Open Products Facts**:
-Má tá scileanna teicniúla agat i réimsí cosúil le ríomhchlárú, anailís sonraí, nó dearadh taithí úsáideora, is féidir le do shaineolas leas suntasach a bhaint as Open Products Facts. Is ranníocaíochtaí luachmhara iad páirt a ghlacadh i bhforbairt an aip, a fheidhmiúlacht a fheabhsú, nó comhéadain úsáideora a fheabhsú. Chun páirt a ghlacadh, bí páirteach sa chainéal #openproductsfacts ar Slack, áit a mbíonn pobal Open Products Facts ag comhoibriú. Is féidir leat nasc chuig an spás oibre Slack seo a fháil ar shuíomh gréasáin Open Food Facts.
-
-Tá gach cineál ranníocaíochta tábhachtach do fhás agus rath Open Products Facts, rud a chabhraíonn le hardán níos inbhuanaithe agus níos faisnéiseach a chruthú do gach duine.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Cá bhfaighidh mé API Fíricí Táirgí Oscailte?
+## I would like to support Open Products Facts. What can I do ?
 
-Tá API Fíricí Táirgí Oscailte 98% mar an gcéanna le API Fíricí Bia Oscailte, mar sin má úsáideann tú doiciméadacht API Fíricí Bia Oscailte ba cheart go mbeadh léargas soiléir agat ar API Fíricí Táirgí Oscailte. Tá rang teagaisc tiomnaithe scríofa againn freisin chun go mbeidh tú in ann scanadh uilíoch a chur i bhfeidhm i d’aip.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
