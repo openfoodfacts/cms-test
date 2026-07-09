@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Шкул проекчӗсем"
-description: "2 ыйту"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: файл-о
+icon: file-o
 ---
 
-{{< fa "файл-о" size=3х >}}
+{{< fa "file-o" size=3x >}}
 
-## Манӑн шкулта ӗҫлемелли проект пур, эпӗ Open Food Facts даннӑйӗсемпе усӑ курасшӑн, эпӗ ӑна тума пултаратӑп-и?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts — уҫӑ даннӑйсен бази, ODbL лицензипе ӗҫлекен уҫӑ проект, ҫавӑнпа та эсир ODbL лицензи требованийӗсемпе килӗшетӗр пулсан, пирӗн даннӑйсемпе хӑвӑрӑн проектсем валли тепӗр хут усӑ курма пултаратӑр :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Хамӑн проектсем валли даннӑйсене мӗнле кӗме/пуҫтарма пулать?
+## How can I access/collect data for my projects ?
 
-Open Food Facts тӗп страницинче, экранӑн ҫӳлти сулахай кӗтессинче, ҫаврӑнакан меню пур. Унӑн тӗпӗнче эсир «анлӑ шырав» опцие тупатӑр, ун ҫине пусма пултаратӑр. Унтан сирӗн проект(сем) валли хӑш критерисем ытларах вырӑнлӑ пулнине палӑртмалла. Суйласа илсен, эсир илнӗ результатсене страницӑн аял енче аялалла анса «Результатсене скачать ту» ҫине пусса скачать тума пултаратӑр.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
