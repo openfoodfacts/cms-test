@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} 民間文學引擎"
-description: "1 個問題"
-lang: 英語-英國
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: 書
+icon: book
 ---
 
-{{< fa "書" size=3倍 >}}
+{{< fa "book" size=3x >}}
 
-## 什麼是民間分類引擎？
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine 是一個系統，允許用戶在 Open Food Facts（世界上最大的開放食品資料庫）中為食品添加自訂標籤或屬性。 這使得人們能夠以新的方式對食物進行分類和描述，超越現有的預定義屬性。
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
