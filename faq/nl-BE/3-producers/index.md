@@ -1,7 +1,7 @@
 ---
 title: "{{< fa industry size=2x >}} Producenten"
 description: "6 subcategorieën"
-lang: en-gb
+lang: nl-nl
 order: 3
 category-level: 0
 icon: industrie
@@ -10,7 +10,7 @@ listing:
     - "*.md"
   include:
     category-level: 1
-  type: rooster
+  type: Rooster
   grid-columns: 4
   sort: "volgorde"
   fields: [ titel, beschrijving ]
