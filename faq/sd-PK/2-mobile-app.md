@@ -1,52 +1,52 @@
 ---
-title: "{{< fa موبائل سائيز=2x >}} موبائل ايپ"
-description: "4 سوال"
-lang: اين جي بي
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: موبائل
+icon: mobile
 ---
 
-{{< fa "موبائل" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## مون کي ڪيئن خبر پوي ته مان ايپ جو ڪهڙو ورجن استعمال ڪري رهيو آهيان؟
+## How do I know which version of the app I'm using?
 
-**پروفائل** ڏانهن وڃو،
-پوءِ **FAQ**، پوءِ **هن ايپ بابت**.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-توهان کي
-هڪ ورجن نمبر ڏسڻ گهرجي جيئن 3.4.5+662. جيڪڏهن فون ڊيبگ ٿي رهيو آهي ته اسان کي ان جي ٺاهيندڙ ۽ ماڊل
-بابت ٻڌائڻ نه وساريو.
-
----
-
-## ايپ اسڪين نٿي ٿئي
-
-هي شايد سبب هجي
-
-- نيٽ ورڪ جو مسئلو
-
-- اجازتن جو مسئلو
-
-- بارڪوڊ مسئلو
-
-اسان کي پروفائل ذريعي اي ميل موڪليو >> اسان سان رابطو ڪريو >> اسان کي اي ميل موڪليو.
-
-سڀ لاڳاپيل معلومات توهان جي درخواست سان ڳنڍيل هجڻ گهرجي.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## مان موبائل ايپ کي بهتر بڻائڻ ۾ ڪيئن مدد ڪري سگهان ٿو؟
+## The app does not scan
 
-مان موبائل ايپ کي بهتر بڻائڻ ۾ ڪيئن مدد ڪري سگهان ٿو؟
+This may be due to
 
-توهان [اهو موبائل ايپ ريپوزٽري تي ڪري سگهو ٿا](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## مان ايپ بابت راءِ ڪٿي موڪلي سگهان ٿو؟
+## How can I help with improving the mobile app ?
 
-توهان mobile@openfoodfacts.org تي راءِ موڪلي سگهو ٿا.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
