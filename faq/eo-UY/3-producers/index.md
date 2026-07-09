@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industrio grandeco=2x >}} Produktantoj"
-description: "6 subkategorioj"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industrio
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: krado
+  type: grid
   grid-columns: 4
-  sort: "ordo"
-  fields: [ titolo, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "industrio" size=3x >}}
+{{< fa "industry" size=3x >}}
 
