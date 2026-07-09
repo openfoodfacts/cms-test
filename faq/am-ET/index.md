@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "ተደጋጋሚ ጥያቄዎች - እንግሊዝኛ"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: ፍርግርግ
+  type: grid
   grid-columns: 4
-  sort: "ትዕዛዝ"
-  fields: [ ርዕስ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 
 # << DO NOT TRANSLATE
