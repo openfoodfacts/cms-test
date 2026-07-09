@@ -1,55 +1,55 @@
 ---
-title: "{{< fa ɔdefoɔ-plus kɛseɛ=2x >}} Eco-Score"
-description: "5 nsɛmmisa"
-lang: tw-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: nea ɔde di dwuma-plus
+icon: user-plus
 ---
 
-{{< fa "nea ɔde di dwuma-plus" size="3x na ɛyɛ" >}}
+{{< fa "user-plus" size=3x >}}
 
-## Dɛn ne Eco-Score kwan a wɔfa so yɛ adwuma no?
+## What is the Eco-Score methodology?
 
-Eco-Score no gyina akontabuo a ɛfa asetena mu nhwehwɛmu a ADEME (abɔdeɛ a nkwa wom nsakraeɛ adwumakuo) ne INRAE (ɔman no asoɛeɛ a ɛhwɛ kuayɛ ho nhwehwɛmu) ayɛ so. Wɔbu nneɛma bɛyɛ dunum na wɔde bata ho de yɛ PEF nkontabuo.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Wɔde bonus ne maluses (ɔkwan a wɔfa so yɛ nneɛma, mfiase a
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-nneɛma a wɔde yɛ, mmoa ahorow a wɔn ase reyɛ atɔre, nneɛma a wɔde kyekyere) sɛnea ɛbɛyɛ a wobebu Eco-Score no.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Sɛ wopɛ nsɛm pii a, hwɛ nsɛm tiawa kratafa [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) wɔ Open Food Facts ne Eco-Score consortium wɛbsaet no nso so. (Eco-Score nkyerɛkyerɛmu [https://docs.score-environnemental.com/](https://docs.score-nneɛma a atwa yɛn ho ahyia.com/))
-
----
-
-## Nsɛm bɛn na ɛsɛ sɛ wɔde ma na ama wɔabu Eco-Score no pɛpɛɛpɛ sɛnea ɛbɛyɛ yiye biara?
-
-Sɛ wɔbɛbu Eco-Score no pɛpɛɛpɛ a, ɛsɛ sɛ wɔkyerɛ ɔha biara mu nkyekyɛmu a ɛwɔ nneɛma biara mu ne ne mfitiaseɛ.
-
-Sɛ wɔankyerɛ saa nsɛm yi dedaw wɔ nneɛma a wɔde yɛ aduan no mu a, wubetumi de kɔla bi aka ho de aka ho asɛm, a woayɛ no sɛnea edidi so yi:
-
-Awi esiam 16% (France) .
-
-Chocolate 8% (Ivory Coast, Ecuador) na ɛwɔ hɔ.
-
-Yɛhia nso nneɛma a ɛwɔ nneɛma a wɔde ahyɛ mu no mu wɔ ɔkwan a ɛne: 1 plastic film a yɛbɛtow agu, 1 FSC cardboard adaka a yɛbɛsan de adi dwuma, 6 PET transparent plastic nkotoku a ɛyɛ 1.5 L a yɛde bɛsan de adi dwuma, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ɔkwan bɛn so na wɔka nsɛnkyerɛnnede 15 no gyinapɛn ahorow bom?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Sɛ wopɛ sɛ wote PEF nhyehyɛeɛ no ase yie a, wobɛtumi akenkan: PEF nkontabuo ho nkyerɛkyerɛmu wɔ Eco-Score kwan a wɔfa so yɛ adwuma no beaeɛ**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## So mpɔtam hɔ afã no fa beae a wɔyɛe anaa baabi a nneɛma a wɔde yɛ nneɛma no fi ba no ho?
+## How are the values ​​of the 15 indicators combined?
 
-**Mpɔtam hɔ afã no fa faako a nneɛma a wɔde yɛ nneɛma no fi bae no ho. Eyi nti na ɛho hia sɛ wɔkyerɛw wɔn ɔha biara mu nkyem ne wɔn mfiase nso wɔ nneɛma a wɔde yɛ nneɛma no din mu anaasɛ wɔ afuw a wɔahyira so ama nneɛma a wɔde yɛ no mfiase no mu.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Ɔkwan bɛn so na wɔbɛhyɛn mfiase a nneɛma a wɔde yɛ eco-score no mu?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Sɛ wopɛ sɛ wokyɛ nsɛm a ɛfa faako a nneɛma a wɔde yɛ no fi bae ho wɔ wo nkrataa so a, yɛto nsa frɛ wo sɛ fa ka nneɛma a wɔde yɛ aduan no ho.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
