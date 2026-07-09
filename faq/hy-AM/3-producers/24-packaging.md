@@ -1,49 +1,49 @@
 ---
-title: "{{< fa խորանարդի չափս=2x >}} Փաթեթավորում"
-description: "3 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: խորանարդ
+icon: cube
 ---
 
-{{< fa "խորանարդ" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ինչպե՞ս կարող եմ իմ փաթեթավորման տվյալները ավելացնել «Բաց սննդի փաստեր» բաժնում։
+## How can I add my packaging data to Open Food Facts?
 
-Որպես արտադրող, ձեր արտադրանքին փաթեթավորման տվյալներ ավելացնելու ամենաարդյունավետ միջոցը այս [excel աղյուսակ](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) «AU» սյունակից անհրաժեշտ տեղեկատվությունը լրացնելն է։
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Յուրաքանչյուր փաթեթավորման բաղադրիչի համար անհրաժեշտ է մուտքագրել՝
+For each packaging component, you will need to enter:
 
-- Միավորների քանակը (օրինակ՝ **4** տարա մածուն)
+- The number of units (ex: **4** pots of yogurts)
 
-- Ձևը (օրինակ՝ **աման, կափարիչ, տուփ և այլն**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Նյութը (օրինակ՝ **PET, թուղթ, ապակի և այլն**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Վերամշակման հրահանգը (օրինակ՝ **վերամշակել, դեն նետել և այլն**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Մեկ դատարկ միավորի քաշը (գրամով)
+- The weight of one empty unit (in gr)
 
-- Մեկ միավորի մեջ պարունակվող արտադրանքի զուտ քանակը
+- The net quantity of product contained per unit
 
-Այս աղյուսակը կարող է ներմուծվել մեր մասնագետների համար նախատեսված հարթակ։
-
----
-
-## Ի՞նչ է «Սննդի փաթեթավորման դեմ պայքարի» նախագիծը։
-
-«Սննդի փաթեթավորման դեմ պայքար» նախագիծը բաղկացած է ամենաշատ սպառվող ապրանքների փաթեթավորման վերաբերյալ մանրամասն տեղեկատվության հավաքագրումից (ձև, նյութ, տեսակավորման հրահանգներ, քաշ, տարողություն):
-
-Հիմնված մասնակցային գիտական մոտեցման վրա՝ այն կհիմնվի ինչպես ընկերությունների կողմից իրենց փաթեթավորման տվյալները կիսելու և թափանցիկության խաղը խաղալու համաձայնության, այնպես էլ քաղաքացիների կողմից ապրանքների վերաբերյալ տեղեկատվության հավաքագրման թույլտվության վրա։ Այս տեղեկատվությունը կլինի ազատորեն վերօգտագործելի («բաց տվյալներ»):
-
-Ավելի շատ տեղեկությունների համար՝\*\* [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Նույնիսկ «Սննդի փաթեթավորման դեմ պայքարի» նախագծի ավարտից հետո կարո՞ղ եմ արդյոք ավելացնել իմ փաթեթավորման տվյալները։
+## What is the Tackling Food Packaging project?
 
-Նույնիսկ նախագծի ավարտից հետո հնարավոր է ավելացնել փաթեթավորման տվյալներ, քանի որ փաթեթավորման դաշտերը կմնան մեր կայքում։
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
