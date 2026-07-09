@@ -1,37 +1,37 @@
 ---
-title: "{{< fa galdera-zirkuluaren tamaina=2x >}} Janari Informazio Irekia"
-description: "9 galdera"
-lang: eu-gb
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: galdera-zirkulua
+icon: question-circle
 ---
 
-{{< fa "galdera-zirkulua" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 Ezberdintasun nagusia, guretzat oso beharrezkoa den bat da: gure datuak guztiontzako eta erabilera guztietarako libreki erabilgarri daudela. Honi datu irekiak deritzo.
 
-Beste gune, zerbitzu eta aplikazio ia guztiek, beraien datuak kopiatu eta berrerabiltzea debekatzen dute. Quite to the contrary, they jealously keep it for themselves. Ia kasu guztietan, haien zerbitzu-baldintzek esplizituki debekatzen dute edozein erabilera ez-pertsonala eta datu guztiak edo datuen zatiak erauztea.
+Beste gune, zerbitzu eta aplikazio ia guztiek, beraien datuak kopiatu eta berrerabiltzea debekatzen dute. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Beraz, 2012an Open Food Facts proiektua eta mugikorretarako aplikazioa abiarazi genituenean, guztiz kontrakoa egitea erabaki genuen: ez genuen gure datu-basea doan eta tasarik gabe erabiltzea eta berrerabiltzea baimentzen bakarrik, guztiontzat eta erabilera guztietarako (komertzialak barne), baizik eta sustatzen ere bai!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Datuak publikoki eskuragarri jartzeak (_datu irekiak_ bezala ezagutzen dena) mundu osoko pertsonei, elkarteei, enpresei, ikertzaileei eta abarrek datuetarako aplikazioak pentsatu eta garatzeko aukera ematen die, inoiz pentsatuko ez genituzkeenak.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Laguntzaileak bolondresak dira. Beraien ekarpenak datu-base ireki batean biltzen dira, horrela, edozeinek erabilera guztietarako erabil ditzake. (ikusi [Berrerabiltzeko baldintzak](https://en.openfoodfacts.org/terms-of-use#reuse))
+Laguntzaileak bolondresak dira. Beraien ekarpenak datu-base ireki batean biltzen dira, horrela, edozeinek erabilera guztietarako erabil ditzake. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Horrela, edonork (Open Food Facts-eko kolaboratzaileak eta sortzaileak barne, baina ez horietara mugatuta) datuak birbanatu eta/edo berrerabili ditzake webguneak, zerbitzuak, softwarea, mugikorretarako aplikazioak sortzeko edo artikuluak eta ikerketak idazteko. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Adibidez, gure Ekoizleentzako Plataforma guztiz doakoa da, eta are pozik gaude horrekin, uste baitugu lagun diezaiekeela beren produktuak hobetzen.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
-## Gehi al ditzaket produktuen argazkiak edo datuak fabrikatzailearen web gunetik, erosketa guneetatik edo beste gune batzuetatik?
+## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
 Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
 
@@ -41,47 +41,47 @@ Lege-arazoak ekiditeko, laguntzaileei beraiek egindako argazkiak gehitzeko eskat
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Galderak egin edo iradokizunak egin ditzakezu foroan edo jar zaitez gurekin harremanetan posta elektronikoz: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Ekoizlea bazara, bidali mezu elektroniko bat helbide honetara: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Kazetaria bazara, bidali mezu elektroniko bat helbide honetara: [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Kontuan izan: [Open Food Facts elikagai-produktuen datu-base kolaboratiboa da](https://world.openfoodfacts.org/discover), ez dugu produkturik saltzen eta ez dugu haien ekoizleekin loturarik. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Egiaztatzen al dira produktuei buruzko informazioa eta datuak?
+## Is the information and data on products verified?
 
-Informazioa eta datuak Open Food Facts-eko kolaboratzaileek bidali dituzte. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. Zalantzarik izanez gero, bisitariek beren kabuz egiaztatu dezakete zehaztasuna, eta akatsen bat egonez gero, berehala zuzendu dezakete.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. Zalantzarik izanez gero, bisitariek beren kabuz egiaztatu dezakete zehaztasuna, eta akatsen bat egonez gero, berehala zuzendu dezakete.
 
-Egon daitezkeen akatsak errazago detektatzeko, kontrol automatizatuak gehituko ditugu pixkanaka. Adibidez, produktu baten nutrizio-informazioa kategoria bereko produktuetatik oso desberdina bada, akats bat izan daiteke. If the nutriments add up to more than 100%, it's definitely an error.
+Egon daitezkeen akatsak errazago detektatzeko, kontrol automatizatuak gehituko ditugu pixkanaka. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Ekoizlea bazara, mesedez [jarri gurekin harremanetan](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Bai! Baldintza bakarra, datu zein argazkiak irekia den lizentziapean erabilgarri egongo direla da. (ikusi [Laguntza-baldintzak](https://en.openfoodfacts.org/terms-of-use#contribution))
+Bai! Baldintza bakarra, datu zein argazkiak irekia den lizentziapean erabilgarri egongo direla da. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Doako plataforma bat garatu dugu zure produktuen argazkiak eta datuak erraz inportatzeko, zure tamaina edozein dela ere. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Jarri gurekin harremanetan nola jarraitu dezakegun eztabaidatzeko: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Nork erabiltzen ditu Open Food Facts datuak?
+## Who uses Open Food Facts data?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
 platform.
 
-- 100 mugikorretarako aplikazio baino gehiagok
-  publiko askoren beharrei erantzuten diete: diabetesa (VeryDiab), alergiak, elikagaien
-  oreka adimen artifizialaren bidez (FoodVisor), desgaitasunak eta gehiago. Gure
-  datu-baseak Yuka sortzea ere ahalbidetu zuen.
-- Webgune asko: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Datu-kazetariak : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
 - Researchers in nearly 100 scientific
   articles
@@ -89,31 +89,31 @@ platform.
   Data For Good project in the continuity of a pilot project initiated by the
   French Red Cross, integration in the cash management of a small food
   cooperative.
-- Enpresak: Terraillonek gure datuak
-  erabiltzen ditu bere balantza konektatuei bizia emateko.
-- Programazio eskolek (Simplon, Open
-  Classrooms) Open Food Facts proiektu motibagarri gisa txertatu dute beren
-  curriculumean.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Nola babestu dezaket Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts 1901ean sortutako irabazi-asmorik gabeko elkartea da. Lagundu gaitzakezu [proiektuan parte hartuz](https://fr-en.openfoodfacts.org/contribute) eta ekonomikoki lagunduz zure [dohaintzekin](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(% 66ko kenkaria) eta baita Lilo
-bilatzailea erabiliz ere.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Eskerrik asko
-!**
+**Thank
+you very much!**
 
 ---
 
-## Ezin dut nire galderaren erantzuna aurkitu
+## I can't find the answer to my question
 
-Zure galderari erantzunik aurkitzen ez badiozu, jar zaitez gurekin harremanetan honen bidez:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Gure Slack-a: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
 - Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
