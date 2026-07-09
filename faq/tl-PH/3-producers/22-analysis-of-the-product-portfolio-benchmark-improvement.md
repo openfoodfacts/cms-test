@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Pagsusuri ng portfolio ng produkto (benchmark, pagpapabuti...)"
-description: "1 tanong"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: tsart-bar
+icon: chart-bar
 ---
 
-{{< fa "tsart-bar" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Paano ko makukuha ang rekomendasyon ng reformulation para mapabuti ang Nutri-Score ng aking mga produkto?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Kapag nasa home page ka na ng Producers Platform:
+When you are on the home page of the Producers Platform:
 
-1. i-click ang link na "→ Bilang ng mga produktong may mga pagkakataon sa pagpapabuti" sa itaas ng pahina.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. maaari mong konsultahin ang lahat ng pagkakataong natukoy ng aming sistema upang mapabuti ang iyong mga produkto
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ang pag-click sa isang uri ng pagkakataon ay magdadala sa iyo sa listahan ng mga produktong maaaring pagbutihin.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Para sa karagdagang detalye, inaanyayahan ka naming i-download ang aming [gabay sa gumagamit](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) at/o sumangguni sa aming [mga video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
