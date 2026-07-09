@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} پيڪنگنگ"
-description: "3 سوال"
-lang: اين جي بي
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: ڪيوب
+icon: cube
 ---
 
-{{< fa "ڪيوب" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## مان پنهنجي پيڪنگنگ ڊيٽا کي اوپن فوڊ فيڪٽس ۾ ڪيئن شامل ڪري سگهان ٿو؟
+## How can I add my packaging data to Open Food Facts?
 
-هڪ پيدا ڪندڙ جي حيثيت سان، توهان جي شين ۾ پيڪنگنگ ڊيٽا شامل ڪرڻ جو سڀ کان ڪارآمد طريقو اهو آهي ته هن [ايڪسل اسپريڊ شيٽ] (https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ۾ ضروري معلومات ڀريو وڃي، ڪالم "AU" مان.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-هر پيڪنگنگ جزو لاءِ، توهان کي داخل ڪرڻو پوندو:
+For each packaging component, you will need to enter:
 
-- يونٽن جو تعداد (مثال طور: **4** دہي جا ٿانو)
+- The number of units (ex: **4** pots of yogurts)
 
-- شڪل (مثال طور: \*\* ٿانو، ڍڪ، دٻو، وغيره\*\*)
+- The shape (ex: **pot, lid, box, etc**)
 
-- مواد (مثال طور: **پي اي ٽي، ڪاغذ، شيشو، وغيره**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- ري سائيڪلنگ جي هدايت (مثال طور: **ري سائيڪل ڪرڻ، رد ڪرڻ، وغيره**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- هڪ خالي يونٽ جو وزن (گرام ۾)
+- The weight of one empty unit (in gr)
 
-- في يونٽ ۾ شامل پيداوار جي خالص مقدار
+- The net quantity of product contained per unit
 
-هي اسپريڊ شيٽ پوءِ اسان جي پليٽ فارم ۾ درآمد ڪري سگهجي ٿي جيڪا پيشه ور ماڻهن لاءِ وقف آهي.
-
----
-
-## ٽيڪلنگ فوڊ پيڪنگنگ پروجيڪٽ ڇا آهي؟
-
-"ٽيڪلنگ فوڊ پيڪنگنگ" پروجيڪٽ ۾ سڀ کان وڌيڪ استعمال ٿيندڙ شين جي پيڪنگنگ (شڪل، مواد، ترتيب ڏيڻ جون هدايتون، وزن، گنجائش) بابت تفصيلي معلومات گڏ ڪرڻ شامل آهي.
-
-شرڪت ڪندڙ سائنسي طريقي جي بنياد تي، اهو ٻنهي ڪمپنين تي ڀروسو ڪندو جيڪي پنهنجي پيڪنگنگ ڊيٽا کي شيئر ڪرڻ ۽ شفافيت جي راند کيڏڻ تي متفق ٿين ٿا، ۽ شهرين کي شين تي معلومات گڏ ڪرڻ جي اجازت ڏين ٿا. هي معلومات آزادانه طور تي ٻيهر استعمال لائق هوندي ("کليل ڊيٽا").
-
-**وڌيڪ ڄاڻ لاءِ:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## ڇا مان ٽيڪلنگ فوڊ پيڪنگنگ پروجيڪٽ جي خاتمي کان پوءِ به پنهنجو پيڪنگنگ ڊيٽا شامل ڪري سگهان ٿو؟
+## What is the Tackling Food Packaging project?
 
-منصوبي جي پڄاڻي کان پوءِ به، پيڪنگنگ ڊيٽا شامل ڪرڻ ممڪن آهي ڇو ته پيڪنگنگ فيلڊ اسان جي ويب سائيٽ تي رهندا.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
