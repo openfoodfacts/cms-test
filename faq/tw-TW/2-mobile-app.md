@@ -1,52 +1,52 @@
 ---
 title: "{{< fa mobile size=2x >}} Mobile app"
-description: "4 nsɛmmisa"
-lang: tw-gb
+description: "4 questions"
+lang: en-gb
 order: 2
 category-level: 0
-icon: moobaa
+icon: mobile
 ---
 
-{{< fa "moobaa" size="3x na ɛyɛ" >}}
+{{< fa "mobile" size=3x >}}
 
-## Mɛyɛ dɛn ahu app no fã a mede redi dwuma?
+## How do I know which version of the app I'm using?
 
-Kɔ **Profile**,
-afei **FAQ**, afei **Ɛfa app yi ho.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Ɛsɛ sɛ wo
-hu version nɔma te sɛ 3.4.5+662. Mma wo werɛ mmfi sɛ wobɛka telefon no make ne model
-akyerɛ yɛn sɛ ɛreyɛ debugging a.
-
----
-
-## App no ntumi scan
-
-Ebia eyi fi
-
-- ɔhaw bi a ɛfa netɛw ho
-
-- tumi krataa ho haw bi
-
-- barcode ho haw bi
-
-Fa email so mena yɛn denam Profile >> Contact Us >> Fa email mena yɛn.
-
-Ɛsɛ sɛ wode nsɛm a ɛfa ho nyinaa bata w’abisade no ho.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Mɛyɛ dɛn aboa ma mobile app no atu mpɔn ?
+## The app does not scan
 
-Mɛyɛ dɛn aboa ma mobile app no atu mpɔn ?
+This may be due to
 
-Wubetumi [yɛ saa wɔ Mobile app akorae no so](https://github.com/openfoodfacts/smooth-app) .
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Ɛhe na metumi de nsɛm a ɛfa app no ho amena ?
+## How can I help with improving the mobile app ?
 
-Wubetumi de wo nsusuwii amena mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
