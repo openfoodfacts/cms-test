@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Vanliga frågor - Engelska"
-lang: "sv-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: rutnät
+  type: grid
   grid-columns: 4
-  sort: "beställa"
-  fields: [ titel, beskrivning ]
+  sort: "order"
+  fields: [ title, beskrivning ]
   page-size: 100
 
 # << DO NOT TRANSLATE
