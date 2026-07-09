@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Baarakɛlaw"
-description: "6 ye kulu fitininw ye"
-lang: bamanankan-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: ɛndisiri
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: nɛgɛjuru
+  type: grid
   grid-columns: 4
-  sort: "ci"
-  fields: [ titiri, description ]
-  page-size: 100 ye
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "ɛndisiri" size=3x >}}
+{{< fa "industry" size=3x >}}
 
