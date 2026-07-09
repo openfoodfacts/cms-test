@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} เกี่ยวกับ Open Food Facts"
-description: "4 คำถาม"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: วงข้อมูล
+icon: info-circle
 ---
 
-{{< fa "วงข้อมูล" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## ควรแบ่งปันข้อมูลประเภทใดบ้าง?
+## What type of information should be shared?
 
-เรายินดีรับข้อมูลทุกอย่าง ไม่ว่าจะเป็นข้อมูลโภชนาการหรือข้อมูลบรรจุภัณฑ์
+Any information you have is welcome, from nutritional information to packaging information.
 
-วิธีนี้ทำให้สามารถสร้างไฟล์ที่สมบูรณ์ คำนวณคะแนนทั้งหมดได้อย่างแม่นยำ และโดยทั่วไปแล้วมีความโปร่งใสซึ่งเป็นที่ชื่นชอบของผู้บริโภค
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-อย่างไรก็ตาม เราขอแนะนำให้คุณให้ความสำคัญกับหัวข้อต่อไปนี้:
+However we do recommend you prioritize the following fields:
 
-- ข้อมูลโภชนาการ
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- หมวดหมู่สินค้า (เช่น เครื่องดื่ม ชีส โยเกิร์ต เป็นต้น)
-
-- ชื่อผลิตภัณฑ์
-
-- สารก่อภูมิแพ้
-
-- และส่วนผสมนั้น ช่องนี้ไม่จำเป็นต้องกรอก แต่แนะนำให้กรอกเพื่อการใช้งานที่ดีที่สุดและการกำหนดคะแนนที่เหมาะสม
-
-→ สำหรับรายละเอียดเพิ่มเติม เราขอเชิญคุณดาวน์โหลด [คู่มือผู้ใช้](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) และ/หรือดู [วิดีโอสอนการใช้งาน](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ฉันสามารถดาวน์โหลดข้อมูลจาก Open Food Facts ได้หรือไม่?
+## Can I download Open Food Facts data?
 
-คุณสามารถดาวน์โหลดข้อมูลทั้งหมดที่มีอยู่บน Open Food Facts ได้ โปรดระวัง โปรแกรมนี้ต้องการพื้นที่ดิสก์จำนวนมาก คอมพิวเตอร์ที่มีประสิทธิภาพสูงหากต้องการใช้โปรแกรมสเปรดชีต หรือหากไม่ต้องการใช้โปรแกรมสเปรดชีตก็จำเป็นต้องมีความรู้ด้าน R หรือ Python
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-นอกจากนี้ คุณยังสามารถดาวน์โหลดข้อมูลบางส่วน (เช่น ข้อมูลแบรนด์ของคุณ) ได้ด้วยการค้นหาขั้นสูง
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ สำหรับรายละเอียดเพิ่มเติม เราขอเชิญคุณดาวน์โหลด [คู่มือผู้ใช้](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) และ/หรือดู [วิดีโอสอนการใช้งาน](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## การเข้าใช้งานแพลตฟอร์ม Pro และการนำเข้าข้อมูลนั้นฟรีหรือไม่?
-
-แน่นอน และจะเป็นเช่นนั้นตลอดไปบริการทั้งหมดที่จัดทำโดย Open Food Facts นั้นไม่มีค่าใช้จ่ายใดๆ ทั้งสิ้น  
-เรารู้สึกยินดีเป็นอย่างยิ่งที่คุณตัดสินใจร่วมแบ่งปันข้อมูลผลิตภัณฑ์ของคุณเพื่อส่งเสริมความโปร่งใสในอุตสาหกรรมอาหาร และขอขอบคุณสำหรับความร่วมมือนี้
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ฉันต้องการเสนอแนะการปรับปรุงสำหรับแพลตฟอร์มระดับมืออาชีพ ฉันจะทำได้อย่างไร?
+## Is access to the Pro platform and the import of data free?
 
-ขอบคุณที่ท่านยินดีมีส่วนร่วมในเรื่องความโปร่งใสของข้อมูลด้านอาหาร!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-วิธีที่ดีที่สุดในการส่งข้อเสนอแนะคือการกรอกแบบฟอร์มนี้ (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+---
 
-คุณสามารถติดต่อเราเพื่อเสนอแนะได้ทั้งทาง [ฟอรัมของเรา](https://forum.openfoodfacts.org/) หรือทาง [Slack](https://openfoodfacts.slack.com/ssb/redirect)
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-เข้าร่วมกลุ่ม Slack ของเราและเข้าช่อง #producers เพื่อติดต่อเรา
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
