@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Injini yeFolksonomy"
-description: "Umbuzo o-1"
-lang: i-en-gb
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: incwadi
+icon: book
 ---
 
-{{< fa "incwadi" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Yintoni iFolksonomy Engine?
+## What is the Folksonomy Engine ?
 
-I-Folksonomy Engine yinkqubo evumela abasebenzisi ukuba bongeze iithegi ezenziwe ngokwezifiso, okanye iipropati, kwiimveliso zokutya kwi-Open Food Facts, isiseko sedatha esikhulu kunazo zonke emhlabeni. Oku kuvumela abantu ukuba bahlele baze bachaze ukutya ngeendlela ezintsha, ngaphaya kweempawu ezikhoyo ezichazwe kwangaphambili.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
