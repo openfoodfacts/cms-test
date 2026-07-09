@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "அடிக்கடி கேட்கப்படும் கேள்விகள் - ஆங்கிலம்"
-lang: "ta-gb (ஆங்கிலம்)"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.எம்டி"
-    - "*/குறியீடு.எம்டி"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: கட்டம்
+  type: grid
   grid-columns: 4
-  sort: "உத்தரவு"
-  fields: [ தலைப்பு, description ]
-  page-size: 100 மீ
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
