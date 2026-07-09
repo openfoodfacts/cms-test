@@ -1,21 +1,21 @@
 ---
-title: "ទាញយកទិន្នន័យ {{< fa cloud-download size=2x >}}"
-description: "សំណួរ ១"
-lang: អង់គ្លេស-ជីកាបៃ
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: ទាញយក​តាម​ពពក
+icon: cloud-download
 ---
 
-{{< fa "ទាញយក​តាម​ពពក" size=៣ដង >}}
+{{< fa "cloud-download" size=3x >}}
 
-## កន្លែងដែលត្រូវទទួលបានទិន្នន័យសម្រាប់ប្រទេសជាក់លាក់មួយ?
+## Where to get the data for a specific country?
 
-បច្ចុប្បន្ននេះ មិនមានការនាំចេញដែលឧទ្ទិសដល់ប្រទេសជាក់លាក់ណាមួយឡើយ។
+Currently, there are no exports dedicated to specific countries.
 
-មានវិធីជាច្រើនដើម្បីប្រើប្រាស់ការនាំចេញផ្សេងៗគ្នារបស់យើង រួមផ្សំជាមួយឧបករណ៍ផ្សេងៗគ្នា ដើម្បីជ្រើសរើសទិន្នន័យដែលទាក់ទងនឹងប្រទេសជាក់លាក់មួយ។
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-អ្នកអាចមើល [បច្ចេកទេសមួយចំនួននេះនៅលើវិគីរបស់យើង](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data)។
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
