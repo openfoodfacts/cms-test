@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Упаковка"
-description: "3 сорау"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: куб
+icon: cube
 ---
 
-{{< fa "куб" size=3х >}}
+{{< fa "cube" size=3x >}}
 
-## Open Food Facts сайтына төргәкләү мәгълүматларымны ничек өстәргә мөмкин?
+## How can I add my packaging data to Open Food Facts?
 
-Җитештерүче буларак, продуктларыгызга төрү мәгълүматларын өстәүнең иң нәтиҗәле ысулы - "AU" баганасыннан кирәкле мәгълүматны бу [excel электрон таблицасы](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) эченә тутыру.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Һәрбер упаковка компоненты өчен сезгә түбәндәгеләрне кертергә кирәк булачак:
+For each packaging component, you will need to enter:
 
-- Берәмлекләр саны (мәсәлән: **4** чүлмәк йогурт)
+- The number of units (ex: **4** pots of yogurts)
 
-- Формасы (мәсәлән: **казан, капкач, тартма һ.б.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Материал (мәсәлән: **ПЭТ, кәгазь, пыяла һ.б.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Кайтару күрсәтмәсе (мәсәлән: **кайтарырга, ташларга һ.б.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Бер буш берәмлекнең авырлыгы (гр)
+- The weight of one empty unit (in gr)
 
-- Бер берәмлеккә исәпләнгән продуктның чиста күләме
+- The net quantity of product contained per unit
 
-Бу электрон таблицаны аннары профессионаллар өчен махсуслаштырылган платформабызга импортларга мөмкин.
-
----
-
-## "Тамак-аш төрү белән бәйле мәсьәләләрне хәл итү" проекты нәрсә ул?
-
-"Азык-төлек төрү мәсьәләсен хәл итү" проекты иң күп кулланыла торган продуктларның төрүе (формасы, материалы, сортлау күрсәтмәләре, авырлыгы, сыйдырышлыгы) турында тулы мәгълүмат җыюдан гыйбарәт.
-
-Фәнни яктан катнашу ысулына нигезләнеп, ул компанияләрнең үзләренең төргәкләү мәгълүматлары белән уртаклашырга һәм ачыклык уенын уйнарга ризалашуына, шулай ук гражданнарның продуктлар турында мәгълүмат җыюга рөхсәт итүенә таяначак. Бу мәгълүмат ирекле рәвештә кабат кулланылырга мөмкин булачак ("ачык мәгълүматлар").
-
-**Тулырак мәгълүмат өчен:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## "Тамак-аш төрү эше" проекты тәмамланганнан соң да, мин төрү мәгълүматларымны өсти аламмы?
+## What is the Tackling Food Packaging project?
 
-Проект тәмамланганнан соң да, төргәкләү турында мәгълүмат өстәргә мөмкин, чөнки төргәкләү кырлары безнең сайтта калачак.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
