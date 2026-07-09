@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} أسئلة حول المنتج"
-description: "سؤال واحد"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: سلة التسوق
+icon: shopping-basket
 ---
 
-{{< fa "سلة التسوق" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## لدي سؤال / شكوى بخصوص منتج
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) هو موقع تعاوني تم إنشاؤه وتغذيته من قبل المستهلكين ليكونوا قادرين على فك رموز الملصقات ومقارنة المنتجات.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-للحصول على مزيد من المعلومات حول منتج أو مطالبة، يرجى مراسلة الشركة المصنعة. لا نملك معلومات الاتصال بالشركات المصنعة، ولكنها غالباً ما تكون موجودة على العبوة.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-إذا كنت ترغب في مساعدتنا على تعزيز الشفافية للمستهلكين مثلك ومثلنا، يمكنك استخدام تطبيقنا على أجهزة iPhone أو Android لإضافة المنتجات: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-ولمناقشة المشروع، يمكنك الانضمام إلى مجموعة المساهمين على فيسبوك: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) أو الدردشة مع المساهمين الآخرين على سلاك:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
