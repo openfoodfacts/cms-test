@@ -1,23 +1,23 @@
 ---
-title: "{{< dimensiunea marcajului fa=2x >}} Etichete"
-description: "2 întrebări"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
-order: 23 de ani
+order: 23
 category-level: 0
-icon: semn de carte
+icon: bookmark
 ---
 
-{{< fa "semn de carte" size="de 3 ori" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ca și casă de discuri, este important să-ți creezi un cont?
+## As a label, is it important to create an account ?
 
-Ca marcă, întrucât nu sunteți producătorul direct al produselor, nu este nevoie să creați un cont de producător.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Sunt o casă de discuri, cum pot participa la proiect?
+## I am a label, how can I participate in the project?
 
-Ca etichetă, cel mai relevant lucru de făcut este să ne contactați la **(producers@openfoodfacts.org)** și să ne trimiteți lista produselor pe care este afișată eticheta dvs., astfel încât să le putem adăuga pe fișele de produs aferente.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
