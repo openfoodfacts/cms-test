@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} पैकेजिंग"
-description: "३ प्रश्नाः"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
-order: २४
+order: 24
 category-level: 1
-icon: घन
+icon: cube
 ---
 
-{{< fa "घन" size=३x >}}
+{{< fa "cube" size=3x >}}
 
-## अहं मम पैकेजिंग्-दत्तांशं कथं Open Food Facts इत्यत्र योजयितुं शक्नोमि?
+## How can I add my packaging data to Open Food Facts?
 
-एकः उत्पादकः इति नाम्ना, भवतः उत्पादेषु पैकेजिंग्-दत्तांशं योजयितुं सर्वाधिकं कार्यक्षमः उपायः अस्ति यत् अस्मिन् [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) आवश्यकसूचनाः पूरयित्वा, "AU" स्तम्भात्
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-प्रत्येकं पैकेजिंग् घटकस्य कृते भवद्भिः प्रविष्टव्यं भविष्यति:
+For each packaging component, you will need to enter:
 
-- एककानां संख्या (उदा. **4** दधिघटाः) २.
+- The number of units (ex: **4** pots of yogurts)
 
-- आकारः (उदा. **घटः, ढक्कनं, पेटी इत्यादयः**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- सामग्री (उदाहरणम्: **PET, कागज, काच, इत्यादि**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- पुनःप्रयोगनिर्देशः (उदाहरणम्: **पुनःप्रयोगं कर्तुं, परित्यक्तुं इत्यादि**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- एकस्य रिक्तस्य एककस्य भारः (gr मध्ये) २.
+- The weight of one empty unit (in gr)
 
-- प्रति-एककं निहितस्य उत्पादस्य शुद्धमात्रा
+- The net quantity of product contained per unit
 
-ततः एतत् स्प्रेड्शीट् अस्माकं व्यावसायिकानां कृते समर्पिते मञ्चे आयातयितुं शक्यते।
-
----
-
-## Tackling Food Packaging इति परियोजना का अस्ति ?
-
-"Tackling Food Packaging" परियोजनायां सर्वाधिकं उपभोक्तानाम् उत्पादानाम् (आकारः, सामग्रीः, क्रमणनिर्देशाः, वजनं, क्षमता) पैकेजिंग् विषये विस्तृतसूचनाः एकत्रिताः भवन्ति
-
-सहभागिताविज्ञानदृष्टिकोणस्य आधारेण, एतत् कम्पनीनां स्वस्य पैकेजिंगदत्तांशं साझां कर्तुं पारदर्शितायाः क्रीडां कर्तुं च सहमतौ, उत्पादानाम् सूचनासङ्ग्रहस्य अनुमतिं दत्तवन्तः नागरिकाः च उभयत्र अवलम्बते। एषा सूचना स्वतन्त्रतया पुनः उपयोगी ("मुक्तदत्तांशः") भविष्यति ।
-
-**अधिकसूचनार्थं:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Tackling Food Packaging परियोजनायाः समाप्तेः अनन्तरम् अपि अहं मम packaging data इत्येतत् योजयितुं शक्नोमि वा?
+## What is the Tackling Food Packaging project?
 
-परियोजनायाः समाप्तेः अनन्तरम् अपि पैकेजिंग्-दत्तांशं योजयितुं शक्यते यतः पैकेजिंग्-क्षेत्राणि अस्माकं जालपुटे एव तिष्ठन्ति ।
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
