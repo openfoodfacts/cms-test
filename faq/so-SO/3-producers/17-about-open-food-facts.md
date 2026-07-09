@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Ku saabsan Xaqiiqooyinka Cuntada Furan"
-description: "4 su'aalood"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: goobo macluumaad
+icon: info-circle
 ---
 
-{{< fa "goobo macluumaad" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Noocee macluumaad ah ayaa la wadaagi karaa?
+## What type of information should be shared?
 
-Macluumaad kasta oo aad hayso waa la soo dhaweynayaa, laga bilaabo macluumaadka nafaqada ilaa macluumaadka baakadaha.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Tani waxay suurtogal ka dhigaysaa in la sameeyo fayl dhammaystiran, si loo xisaabiyo dhammaan dhibcaha si sax ah iyo guud ahaan hufnaan ay macaamiishu qiimeeyaan.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Si kastaba ha ahaatee waxaan kugula talineynaa inaad mudnaanta siiso meelaha soo socda:
+However we do recommend you prioritize the following fields:
 
-- Macluumaadka nafaqada
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Qaybta badeecada (tusaale ahaan cabitaannada, jiiska, caano fadhi, iwm.)
-
-- Magaca badeecada
-
-- Xasaasiyadda
-
-- iyo maaddooyinka, goobtan qasab maaha laakiin waxaa lagu talinayaa isticmaalka ugu wanaagsan iyo go'aaminta dhibcaha.
-
-→ Wixii faahfaahin dheeraad ah, waxaan kugu martiqaadeynaa inaad soo dejiso [hagaha isticmaalaha](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) iyo/ama la tasho [casharradeenna fiidiyowga](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ma soo dejisan karaa xogta Xaqiiqooyinka Cuntada Furan?
+## Can I download Open Food Facts data?
 
-Waxaad kala soo bixi kartaa dhammaan xogta laga heli karo Furan Food Facts. Ka digtoonow, tani waxay u baahan tahay meel badan oo disk ah, kombiyuutar awood leh haddii aad rabto inaad isticmaasho xaashida xisaabinta ama aqoonta R ama Python haddii kale.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Waxa kale oo aad soo dejisan kartaa qayb ka mid ah xogta (tusaale ahaan sumaddaada) iyada oo ay ugu wacan tahay raadinta horumarsan.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Wixii faahfaahin dheeraad ah, waxaan kugu martiqaadeynaa inaad soo dejiso [hagaha isticmaalaha](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) iyo/ama la tasho [casharradeenna fiidiyowga](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Helitaanka madal Pro iyo soo dejinta xogta ma bilaash baa?
-
-Hubaal, waana weligeed.Dhammaan adeegyada ay bixiso Open Food Facts waa bilaash.  
-Aad ayaan ugu faraxsanahay inaad go'aansatay inaad xogtaada badeecadaha ku darto hufnaanta cuntada, waanan kaaga mahadcelineynaa tan.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Waxaan jeclaan lahaa inaan soo jeediyo horumarin ku saabsan madal xirfadeed, sidee baan sidaas u samayn karaa?
+## Is access to the Pro platform and the import of data free?
 
-Waad ku mahadsan tahay rabitaankaaga inaad ka qayb qaadato hufnaanta cuntada!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Habka ugu wanaagsan ee lagu wadaagi karo jawaab celinta waa inaad buuxiso [foomkan](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Waxaad sidoo kale nala soo xiriiri kartaa si aad talooyin noogu soo gudbiso adiga oo adeegsanaya [golahayaga](https://forum.openfoodfacts.org/) ama iyada oo loo marayo [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Ku soo biir Slack-keena oo gal kanaalka #soo-saarayaasha si aad noola soo xiriirto.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
