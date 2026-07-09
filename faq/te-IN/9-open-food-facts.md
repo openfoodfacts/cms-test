@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్"
-description: "9 ప్రశ్నలు"
-lang: en-gb తెలుగు in లో
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: ప్రశ్నా వృత్తం
+icon: question-circle
 ---
 
-{{< fa "ప్రశ్నా వృత్తం" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. దాదాపు అన్ని సందర్భాల్లో, వారి సేవా నిబంధనలు ఏదైనా వ్యక్తిగతం కాని వినియోగాన్ని మరియు మొత్తం డేటాను లేదా డేటాలోని భాగాలను సంగ్రహించడాన్ని స్పష్టంగా నిషేధిస్తాయి.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. కాబట్టి మేము 2012లో ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ ప్రాజెక్ట్ మరియు మొబైల్ యాప్‌ను ప్రారంభించినప్పుడు, మేము సరిగ్గా దీనికి విరుద్ధంగా చేయాలని నిర్ణయించుకున్నాము: మేము మా డేటాబేస్‌ను ఉచితంగా మరియు రుసుము లేకుండా అందరికీ మరియు అన్ని ఉపయోగాలకు (వాణిజ్యపరమైన వాటితో సహా) ఉపయోగించడానికి మరియు తిరిగి ఉపయోగించడానికి అనుమతి ఇవ్వడమే కాకుండా, మేము దానిని ప్రోత్సహిస్తాము!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-డేటాను బహిరంగంగా అందుబాటులో ఉంచడం (దీనిని _ఓపెన్ డేటా_ అని పిలుస్తారు) ప్రపంచవ్యాప్తంగా ఉన్న వ్యక్తులు, సంఘాలు, కంపెనీలు, పరిశోధకులు మొదలైనవారు మనం ఎన్నడూ ఆలోచించని డేటా కోసం ఆలోచించి అప్లికేషన్‌లను అభివృద్ధి చేయడానికి అనుమతిస్తుంది.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. ([పునర్వినియోగ నిబంధనలు](https://en.openfoodfacts.org/terms-of-use#reuse) చూడండి)
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-ప్రతి ఒక్కరూ (ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ కంట్రిబ్యూటర్లు మరియు సృష్టికర్తలతో సహా కానీ వారికి మాత్రమే పరిమితం కాకుండా) వెబ్‌సైట్‌లు, సేవలు, సాఫ్ట్‌వేర్, మొబైల్ అప్లికేషన్‌లను నిర్మించడానికి లేదా కథనాలు మరియు అధ్యయనాలను వ్రాయడానికి డేటాను పునఃపంపిణీ చేయవచ్చు మరియు/లేదా తిరిగి ఉపయోగించుకోవచ్చు. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. ఉదాహరణకు, మా నిర్మాతల ప్లాట్‌ఫామ్ పూర్తిగా ఉచితం, మరియు మేము దానితో మరింత సంతోషంగా ఉన్నాము ఎందుకంటే ఇది వారి ఉత్పత్తులను మెరుగుపరచడంలో వారికి సహాయపడుతుందని మేము భావిస్తున్నాము.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-మీరు theforumలో ప్రశ్నలు అడగవచ్చు లేదా సూచనలు చేయవచ్చు లేదా ఈ-మెయిల్ ద్వారా మమ్మల్ని సంప్రదించండి: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-మీరు నిర్మాత అయితే, దయచేసి [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org) కు మాకు ఇమెయిల్ చేయండి.
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-మీరు జర్నలిస్ట్ అయితే, దయచేసి [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org) కు మాకు ఇమెయిల్ చేయండి.
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-దయచేసి గమనించండి: [ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ అనేది ఆహార ఉత్పత్తుల సహకార డేటాబేస్](https://world.openfoodfacts.org/discover), మేము ఏ ఉత్పత్తిని విక్రయించము మరియు వాటి ఉత్పత్తిదారులతో మాకు లింక్‌లు లేవు. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-సమాచారం మరియు డేటాను ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ కంట్రిబ్యూటర్లు సమర్పించారు. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. ఉదాహరణకు, ఒక ఉత్పత్తి యొక్క పోషకాహార వాస్తవాలు అదే వర్గానికి చెందిన ఉత్పత్తుల నుండి చాలా భిన్నంగా ఉంటే, అది లోపం కావచ్చు. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. మీరు నిర్మాత అయితే, దయచేసి [మమ్మల్ని సంప్రదించండి](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. ([సహకార నిబంధనలు](https://en.openfoodfacts.org/terms-of-use#contribution) చూడండి)
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-మీ పరిమాణంతో సంబంధం లేకుండా మీ ఉత్పత్తుల గురించి ఫోటోలు మరియు డేటాను సులభంగా దిగుమతి చేసుకోవడానికి మేము ఒక ఉచిత ప్లాట్‌ఫామ్‌ను అభివృద్ధి చేసాము. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. మేము ఎలా ముందుకు సాగవచ్చో చర్చించడానికి మమ్మల్ని సంప్రదించండి: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ డేటాను ఎవరు ఉపయోగిస్తారు?
+## Who uses Open Food Facts data?
 
-ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్
-ప్లాట్‌ఫామ్‌పై ఆధారపడే అన్ని సంస్థలను జాబితా చేయడానికి
-చాలా సమయం పడుతుంది.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- 100 కంటే ఎక్కువ మొబైల్ అప్లికేషన్లు
-  అనేక మంది ప్రేక్షకుల అవసరాలను తీరుస్తాయి: మధుమేహం (వెరీడయాబ్), అలెర్జీలు, కృత్రిమ మేధస్సు (ఫుడ్‌విజర్) ద్వారా ఆహారం
-  సమతుల్యత, వైకల్యాలు మరియు మరిన్ని. మా
-  డేటాబేస్ కూడా యుకాను సృష్టించడానికి అనుమతించింది.
-- చాలా వెబ్‌సైట్‌లు: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- డేటా-జర్నలిస్టులు : లెస్ డికోడ్యూర్స్ డు మోండే, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- దాదాపు 100 శాస్త్రీయ
-  వ్యాసాలలో పరిశోధకులు
+- Researchers in nearly 100 scientific
+  articles
 - Food banks and solidarity stores: a
   Data For Good project in the continuity of a pilot project initiated by the
   French Red Cross, integration in the cash management of a small food
   cooperative.
-- కంపెనీలు: టెర్రాయిన్ దాని కనెక్ట్ చేయబడిన స్కేల్‌లకు ప్రాణం పోసేందుకు మా డేటాను
-  ఉపయోగిస్తుంది.
-- ప్రోగ్రామింగ్ పాఠశాలలు (సింప్లాన్, ఓపెన్
-  తరగతి గదులు) వారి
-  పాఠ్యాంశాల్లో ఓపెన్ ఫుడ్ ఫ్యాక్ట్‌లను ఒక ప్రేరణాత్మక ప్రాజెక్టుగా అనుసంధానించాయి.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## ఓపెన్ ఫుడ్ ఫ్యాక్ట్స్ కు నేను ఎలా మద్దతు ఇవ్వగలను?
+## How can I support Open Food Facts?
 
-ఓపెన్ ఫుడ్
-ఫ్యాక్ట్స్ అనేది 1901 నాటి లాభాపేక్షలేని సంఘం. మీరు [ప్రాజెక్ట్‌లో](https://fr-en.openfoodfacts.org/contributeపాల్గొనడం ద్వారా మరియు మీ [విరాళాలు](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% మినహాయింపు) తో ఆర్థికంగా మాకు మద్దతు ఇవ్వడం ద్వారా మరియు లిలో
-శోధన ఇంజిన్‌ను ఉపయోగించడం ద్వారా మాకు సహాయం చేయవచ్చు.
+Open Food
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-\*\*
-మీకు చాలా ధన్యవాదాలు!\*\*
+**Thank
+you very much!**
 
 ---
 
-## నా ప్రశ్నకు సమాధానం దొరకలేదు.
+## I can't find the answer to my question
 
-మీ ప్రశ్న(లు) కు మీరు సమాధానం కనుగొనలేకపోతే, మమ్మల్ని దీని ద్వారా సంప్రదించడానికి వెనుకాడకండి:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- మా స్లాక్: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- మా ఫోరమ్: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
