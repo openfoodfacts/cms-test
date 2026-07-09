@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Көп берилүүчү суроолор - Англисче"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: торчо
+  type: grid
   grid-columns: 4
-  sort: "заказ"
-  fields: [ аталыш, баяндоо ]
+  sort: "order"
+  fields: [ title, баяндоо ]
   page-size: 100
 
 # << DO NOT TRANSLATE
