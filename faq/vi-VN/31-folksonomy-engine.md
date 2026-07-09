@@ -1,17 +1,17 @@
 ---
 title: "{{< fa book size=2x >}} Folksonomy Engine"
-description: "1 câu hỏi"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: sách
+icon: book
 ---
 
-{{< fa "sách" size="3 lần" >}}
+{{< fa "book" size=3x >}}
 
-## Folksonomy Engine là gì?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine là một hệ thống cho phép người dùng thêm các thẻ hoặc thuộc tính tùy chỉnh vào các sản phẩm thực phẩm trong Open Food Facts, cơ sở dữ liệu thực phẩm mở lớn nhất thế giới. Điều này cho phép mọi người phân loại và mô tả thực phẩm theo những cách mới, vượt ra ngoài các thuộc tính đã được định sẵn.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
