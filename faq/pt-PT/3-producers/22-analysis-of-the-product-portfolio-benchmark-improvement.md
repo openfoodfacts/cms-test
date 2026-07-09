@@ -1,25 +1,25 @@
 ---
-title: "Análise do portfólio de produtos (benchmark, melhoria...)"
-description: "1 pergunta"
-lang: pt-gb
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: barra de gráfico
+icon: chart-bar
 ---
 
-{{< fa "barra de gráfico" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Como posso aceder à recomendação de reformulação para melhorar o Nutri-Score dos meus produtos?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Quando estiver na página inicial da Plataforma de Produtores:
+When you are on the home page of the Producers Platform:
 
-1. Clique na ligação "→ Número de produtos com oportunidades de melhoria" no topo da página.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Pode consultar todas as oportunidades detectadas pelo nosso sistema para melhorar os seus produtos.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Ao clicar num tipo de oportunidade, será direcionado para a lista de produtos que podem ser melhorados.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Para mais detalhes, convidamo-lo a descarregar o nosso [guia do utilizador](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) e/ou a consultar os nossos [tutoriais em vídeo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
