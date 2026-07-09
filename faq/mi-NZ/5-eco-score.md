@@ -1,55 +1,55 @@
 ---
-title: "{{< fa kaiwhakamahi-rahi-tāpiri=2x >}} Kaute-Taiao"
-description: "5 ngā pātai"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: kaiwhakamahi-tāpiri
+icon: user-plus
 ---
 
-{{< fa "kaiwhakamahi-tāpiri" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## He aha te tikanga Eco-Score?
+## What is the Eco-Score methodology?
 
-Ko te Eco-Score e ahu mai ana i te tatau i te tātari huringa ora i hangaia e ADEME (te tari whakawhiti rauropi) me INRAE (te whare rangahau ahuwhenua ā-motu). E tekau mā rima ngā wāhanga e tatauhia ana, ā, e honoa ana hei hanga i te kaute PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ki tēnei kaute PEF ka tāpirihia ngā painga me ngā ngoikoretanga (te tikanga whakaputa, te takenga mai o
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-(ngā kai, ngā momo tata ngaro, ngā takai) hei tatau i te Kaute-Taiao.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Mō ētahi atu kōrero, tirohia te whārangi whakarāpopototanga [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) mō ngā Open Food Facts me te paetukutuku o te rōpū Eco-Score. (Whakaaturanga Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## He aha te momo mōhiohio me hoatu kia tika ai te tatau i te Eco-Score?
-
-Kia tika ai te tatau i te Kaute-Taiao, me tohu te ōrau o ia kai me tōna pūtake.
-
-Mena kāore anō kia tohua tēnei mōhiohio ki te rārangi o ngā kai, ka taea e koe te tāpiri i tētahi pou hei whakahua i tēnei, me te whakatakotoranga e whai ake nei:
-
-Paraoa witi 16% (Wīwī)
-
-Tiakarete 8% (Te Tai Āporo, Ecuador)
-
-Me whai anō hoki i ngā wāhanga o te takai: 1 kiriata kirihou hei maka atu, 1 pouaka kātene FSC hei hangarua, 6 pounamu kirihou PET mārama 1.5 rita hei hangarua, 6 taupoki kirihou tae mātotoru, 12 kēne kirihou konumohe 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Me pēhea te whakakotahi i ngā uara o ngā tohu 15?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Kia pai ake ai te mārama ki te pūnaha PEF, ka taea e koe te pānui: whakamārama mō te kaute PEF i te pae tikanga Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## E pā ana te āhuatanga ā-rohe ki te wāhi i hangaia ai, ki te wāhi rānei i ahu mai ai ngā rauemi mata?
+## How are the values ​​of the 15 indicators combined?
 
-**Ko te āhuatanga ā-rohe e pā ana ki te pūtake o ngā rauemi mata.** Koia te mea nui kia tāuruhia ō rātou ōrau me ō rātou takenga mai ki te rārangi o ngā kai o te hua, ki te wāhanga rānei e pā ana ki ngā takenga mai o ngā kai.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Me pēhea te whakauru i ngā pūtake o ngā kai mō te kaute-ā-taiao?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Mena kei te hiahia koe ki te whakapuaki i ngā mōhiotanga mō te takenga mai o ngā rauemi mata i runga i ō pepa, me whakauru koe i aua rauemi ki te rārangi o ngā kai.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
