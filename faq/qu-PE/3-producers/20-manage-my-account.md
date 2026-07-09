@@ -1,45 +1,45 @@
 ---
-title: "{{< fa user size=2x >}} Yupayniyta kamachiy"
-description: "3 tapuykuna"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
-order: 20. 20
+order: 20
 category-level: 1
 icon: user
 ---
 
 {{< fa "user" size=3x >}}
 
-## ¿Achka Kichasqa Mikhuy Chiqakuna yupaykuna huklla empresawan tinkisqa kanmanchu?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Arí, ama hina kaspa correo electrónico [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), chaymanta llapa yupaykunata huk empresaman tinkiyta atiyku.
-
----
-
-## ¿Imaynatataq Open Food Facts nisqa yupayniyta Pro yupayman tikrayman?
-
-[Pro plataforma](https://world.pro.openfoodfacts.org/) kaqman yaykuyta atikunki kunan kaq yupayniykip riqsichiyninkunawan.
-
-Sichus profesional kanki, profesional correo electrónico direccionniyki llamk'achinayki tiyan chaymanta yupayniyki chiqaqchayta atiyku.
-
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## ¿Maypitaq tariyman documentacionta yanapawananpaq plataforma Pro nisqawan llamkanaypaq?
+## How to convert my Open Food Facts account into a Pro account?
 
-Kanmi huk pisi yanapakuykuna yanapasunaykipaq aswan allinta ruwayta Pro plataformamanta.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Allin hamusqa kanki:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- qhaway [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - mink'ayku PDF uraykachinaykipaq chaymanta t'inkikuna ñit'inapaq, chaytaq qillqapi puriyniykita pisiyachinqa.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- consulta nuestra [video yachachikuykuna](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) .
+---
 
-- [kay formulario](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) nisqawan yuyaykunata utaq yuyaychaykunata rakina.
+## Where can I find documentation to help me use the Pro platform?
 
-- Manonwan, yanapanakuy kamachiqniykuwan, huk waqyayta programay, sichus aswan tapukuyniyki kan: [kaypi](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Correo electrónico nisqawan rimanakuy: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
