@@ -1,13 +1,13 @@
 ---
-title: "{{< velikost kostky fa=2x >}} Balení"
+title: "{{< fa cube size=2x >}} Obaly"
 description: "3 otázky"
-lang: en-gb
+lang: cs
 order: 24
 category-level: 1
 icon: krychle
 ---
 
-{{< fa "krychle" size=3x >}}
+{{< fa "krychle" size=3× >}}
 
 ## Jak mohu přidat data o svém obalu do Open Food Facts?
 
@@ -17,7 +17,7 @@ Pro každou součást balení budete muset zadat:
 
 - Počet jednotek (např.: **4** kelímky jogurtů)
 
-- Tvar (např.: **hrnec, víko, krabice atd.**)
+- Tvar (např.: **kelímek, víčko, krabice atd.**)
 
 - Materiál (např.: **PET, papír, sklo atd.**)
 
@@ -35,15 +35,15 @@ Tuto tabulku lze poté importovat do naší platformy určené pro profesionály
 
 Projekt „Tackling Food Packaging“ spočívá ve shromažďování podrobných informací o obalech nejkonzumovanějších produktů (tvar, materiál, pokyny pro třídění, hmotnost, kapacita).
 
-Na základě participativního vědeckého přístupu se bude spoléhat jak na to, že se společnosti dohodnou na sdílení svých údajů o obalech a budou hrát hru transparentnosti, tak na to, že občané umožní shromažďování informací o produktech. Tyto informace budou volně opakovaně použitelné („otevřená data“).
+Na základě participativního vědeckého přístupu se bude spoléhat jak na to, že se společnosti dohodnou na sdílení svých údajů o obalech a budou hrát hru transparentnosti, tak i na to, že občané umožní shromažďování informací o produktech. Tyto informace budou volně opakovaně použitelné („otevřená data“).
 
-**Pro více informací:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+**Více informací:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
 
 ---
 
 ## Mohu i po skončení projektu Tackling Food Packaging stále přidávat data o svých obalech?
 
-I po skončení projektu je možné přidat data o balení, protože pole týkající se balení zůstanou na našich webových stránkách.
+I po ukončení projektu je možné přidat údaje o balení, protože balicí pole zůstanou na našich webových stránkách.
 
 ---
 
