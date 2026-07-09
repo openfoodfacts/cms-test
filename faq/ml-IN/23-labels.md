@@ -1,23 +1,23 @@
 ---
-title: "{{< fa ബുക്ക്മാർക്ക് വലുപ്പം=2x >}} ലേബലുകൾ"
-description: "2 ചോദ്യങ്ങൾ"
-lang: en-gb (ഇംഗ്ലീഷ്)
-order: 23-ാം ദിവസം
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: ബുക്ക്മാർക്ക്
+icon: bookmark
 ---
 
-{{< fa "ബുക്ക്മാർക്ക്" size="3x (3x)" >}}
+{{< fa "bookmark" size=3x >}}
 
-## ഒരു ലേബൽ എന്ന നിലയിൽ, ഒരു അക്കൗണ്ട് സൃഷ്ടിക്കേണ്ടത് പ്രധാനമാണോ?
+## As a label, is it important to create an account ?
 
-ഒരു ലേബൽ എന്ന നിലയിൽ, നിങ്ങൾ ഉൽപ്പന്നങ്ങളുടെ നേരിട്ടുള്ള നിർമ്മാതാവ് അല്ലാത്തതിനാൽ, നിങ്ങൾ ഒരു നിർമ്മാതാവിന്റെ അക്കൗണ്ട് സൃഷ്ടിക്കേണ്ടതില്ല.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ഞാൻ ഒരു ലേബൽ ആണ്, എനിക്ക് എങ്ങനെ ഈ പ്രോജക്റ്റിൽ പങ്കെടുക്കാൻ കഴിയും?
+## I am a label, how can I participate in the project?
 
-ഒരു ലേബൽ എന്ന നിലയിൽ ഏറ്റവും പ്രസക്തമായ കാര്യം ഞങ്ങളെ **(producers@openfoodfacts.org)** എന്ന വിലാസത്തിൽ ബന്ധപ്പെടുകയും നിങ്ങളുടെ ലേബൽ പ്രദർശിപ്പിച്ചിരിക്കുന്ന ഉൽപ്പന്നങ്ങളുടെ ലിസ്റ്റ് ഞങ്ങൾക്ക് അയയ്ക്കുകയും ചെയ്യുക എന്നതാണ്. അതുവഴി ഞങ്ങൾക്ക് അവ അനുബന്ധ ഉൽപ്പന്ന ഷീറ്റുകളിൽ ചേർക്കാൻ കഴിയും.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
