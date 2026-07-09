@@ -1,17 +1,17 @@
 ---
-title: "{{< bogolo jwa folaseke ya fa=2x >}} NOVA / Go dira dijo"
-description: "potso e le 1"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: folaseke
+icon: flask
 ---
 
-{{< fa "folaseke" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA ke eng ?
+## What is NOVA ?
 
-(https://fr.openfoodfacts.org/nova)
+[https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
 ---
 
