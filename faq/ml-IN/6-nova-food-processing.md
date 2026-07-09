@@ -1,15 +1,15 @@
 ---
-title: "{{< fa ഫ്ലാസ്ക് വലുപ്പം=2x >}} നോവ / ഭക്ഷ്യ സംസ്കരണം"
-description: "1 ചോദ്യം"
-lang: en-gb (ഇംഗ്ലീഷ്)
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: ഫ്ലാസ്ക്
+icon: flask
 ---
 
-{{< fa "ഫ്ലാസ്ക്" size="3x (3x)" >}}
+{{< fa "flask" size=3x >}}
 
-## എന്താണ് നോവ?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
