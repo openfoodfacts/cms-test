@@ -1,49 +1,49 @@
 ---
-title: "შეფუთვა"
-description: "3 კითხვა"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: კუბი
+icon: cube
 ---
 
-{{< fa "კუბი" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## როგორ შემიძლია ჩემი შეფუთვის მონაცემების დამატება Open Food Facts-ში?
+## How can I add my packaging data to Open Food Facts?
 
-მწარმოებლისთვის, თქვენს პროდუქტებზე შეფუთვის მონაცემების დამატების ყველაზე ეფექტური გზაა ამ [excel ცხრილში](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) საჭირო ინფორმაციის შევსება სვეტიდან "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-თითოეული შეფუთვის კომპონენტისთვის, თქვენ უნდა შეიყვანოთ:
+For each packaging component, you will need to enter:
 
-- ერთეულების რაოდენობა (მაგ.: **4** იოგურტის ქილებში)
+- The number of units (ex: **4** pots of yogurts)
 
-- ფორმა (მაგ.: **ქოთანი, თავსახური, ყუთი და ა.შ.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- მასალა (მაგ.: **PET, ქაღალდი, მინა და ა.შ.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- გადამუშავების ინსტრუქცია (მაგ.: **გადამუშავება, გადაგდება და ა.შ.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- ერთი ცარიელი ერთეულის წონა (გრამებში)
+- The weight of one empty unit (in gr)
 
-- პროდუქტის წმინდა რაოდენობა ერთეულზე
+- The net quantity of product contained per unit
 
-ამ ცხრილის იმპორტირება შემდეგ შესაძლებელია ჩვენს პროფესიონალებისთვის განკუთვნილ პლატფორმაზე.
-
----
-
-## რას წარმოადგენს „საკვების შეფუთვის წინააღმდეგ ბრძოლის“ პროექტი?
-
-პროექტი „საკვების შეფუთვის პრობლემის მოგვარება“ მოიცავს ყველაზე ხშირად მოხმარებული პროდუქტების შეფუთვის შესახებ დეტალური ინფორმაციის შეგროვებას (ფორმა, მასალა, დახარისხების ინსტრუქციები, წონა, ტევადობა).
-
-მონაწილეობითი მეცნიერების მიდგომაზე დაყრდნობით, ის დაეყრდნობა როგორც კომპანიების მიერ შეფუთვის მონაცემების გაზიარებასა და გამჭვირვალობის თამაშზე თანხმობას, ასევე მოქალაქეების მიერ პროდუქტებზე ინფორმაციის შეგროვების ნებართვას. ეს ინფორმაცია თავისუფლად იქნება ხელახლა გამოსაყენებელი („ღია მონაცემები“).
-
-დამატებითი ინფორმაციისთვის:\*\* [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## საკვების შეფუთვის პროექტის „სამართავად კვების პროდუქტების შეფუთვის“ დასრულების შემდეგაც კი, შემიძლია თუ არა ჩემი შეფუთვის მონაცემების დამატება?
+## What is the Tackling Food Packaging project?
 
-პროექტის დასრულების შემდეგაც კი შესაძლებელია შეფუთვის მონაცემების დამატება, რადგან შეფუთვის ველები ჩვენს ვებსაიტზე დარჩება.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
