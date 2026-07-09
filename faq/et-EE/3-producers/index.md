@@ -1,21 +1,21 @@
 ---
-title: "{{< fa tööstusharu suurus=2x >}} Tootjad"
-description: "6 alamkategooriat"
-lang: et-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: tööstus
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ruudustik
+  type: grid
   grid-columns: 4
-  sort: "tellimus"
-  fields: [ pealkiri, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "tööstus" size=3x >}}
+{{< fa "industry" size=3x >}}
 
