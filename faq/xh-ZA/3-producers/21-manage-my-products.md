@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Lawula iimveliso zam"
-description: "Imibuzo eli-16"
-lang: i-en-gb
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
+lang: en-gb
 order: 21
 category-level: 1
-icon: ibhokisi
+icon: box
 ---
 
-{{< fa "ibhokisi" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Yintoni eqinisekisa umgangatho wedatha ekwi-Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Ukuze siqhubeke siphucula umgangatho wedatha, sixhomekeke kwiintsika ezine:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Uluntu luhlala lusongeza idatha kunye neefoto kwaye luliqela elithembekileyo labahloli.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Sibeke imithetho yokuqiqa ukuze sibone iimpazamo kumaphepha emveliso.Umzekelo: ukuba ubunzima bezithako bungaphezulu kobunzima bemveliso iyonke, kukho into engaqhelekanga. Sinezinye iitshekhi zomgangatho ezimalunga nama-50.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Ngenxa yeMachine Learning, sinciphisa umngcipheko weempazamo zokufaka. Itekhnoloji yethu isivumela ukuba sikhuphe idatha yombhalo kwiifoto ezithathwe ngabanikeli
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Ngenxa yenkxaso yeSanté Publique France, senze i-portal evumela abavelisi ukuba balayishe idatha yabo eyenziwe ngobuninzi baze ngaloo ndlela balungise/bagqibezele igalelo loluntu.
-
----
-
-## Ungongeza njani iimveliso?
-
-Ukuze wongeze iimveliso kwiqonga lethu, kufuneka uqale ugqibe ukuba ufuna ukuqhubeka njani. Kukho iindlela ezi-4:
-
-- **Ngesandla**: ukuba unenani elincinci leemveliso, kusenokwenzeka ukuba wenze iphepha ngalinye lemveliso ngesandla kwiPro Platform.
-
-- **Ngokusebenzisa ispredishithi yokungenisa**: ungakhuphela ispredishithi [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ebonelelwe yi-Open Food Facts, okanye ungenise ngokuthe ngqo isicatshulwa kwinkqubo yakho ye-IT kwiqonga le-Pro.
-
-- **Ngezihlanganisi zeekhathalogu zemveliso**. Ukuba ungumthengi kwi-EQUADIS, AGENA3000 okanye kwi-BAYARD, ungalayisha idatha kwi-Open Food Facts ngokucofa kanye. Ukuba usebenza nenye i-PIM (uLawulo loLwazi lweMveliso), nceda unxibelelane nathi ku: producers@openfoodfacts.org
-
-- **Ngokusebenzisa unxibelelwano olulungiselelwe wena** phakathi kwenkampani yakho kunye ne-Open Food Facts. Ukuba ubala iimveliso ezingaphezu kwe-1000 kwipotifoliyo yakho, singaxoxa ngethuba lokwakha isiqhagamsheli esithile ukuze kube lula ukudluliselwa kwedatha.
-
-Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Ngaba ikho indlela yokwenza uhlaziyo lwemveliso lube ngokuzenzekelayo kwindawo yokugcina ulwazi yoluntu?
+## How to add products?
 
-Ewe, ukuba usebenzisa iikhathalogu zemveliso ze-EQUADIS, AGENA3000 okanye ze-BAYARD, kwaye usete uqwalaselo olufanelekileyo, ukungenisa kungenziwa ngokuzenzekelayo kwaye ke ngoko uhlaziye idatha yemveliso kwi-Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ingaba inani leemveliso ezongeziweyo lilinganiselwe?
+## Is there a way to automate product updates to the public database?
 
-Akukho mda, ungalayisha inani leemveliso ozifunayo kwiqonga lethu.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Ukuba ufuna ukususa imveliso engasafumanekiyo kwimarike, kufuneka ujonge ibhokisi ethi "le mveliso ayisathengiswa" xa uhlela iphepha lemveliso yakho.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Ukuba ufuna ukususa iimveliso ezininzi, sicebisa ukuba ulandele inkqubo ekhankanyiweyo kwi [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), kwiphepha le-18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Ungaqhagamshelana nathi nge-producers@openfoodfacts.org ukuba unemibuzo.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Xa imveliso igciniwe, ayisayi kuphinda ivele kwi-Open Food Facts.Nangona kunjalo, iya kuhlala kwisiseko sethu sedatha ukuze sikwazi ukugcina imbali yeemveliso ezithengiswayo ngokuhamba kwexesha.
-
----
-
-## Ngaba ulwazi lwenkampani lubaluleke ngaphezu kolwazi olusele lukhona eqongeni?
-
-Xa umvelisi ebeka enye yeemveliso zakhe kwi-intanethi kwiakhawunti yakhe yomvelisi kwaye iphepha lemveliso sele likhona, oku kuya kuyigqibezela.
-
-Ulwazi oluza kuthunyelwa ngumvelisi luya kuhlala lubalulekile kwaye nguye yedwa oya kukwazi ukutshintsha iimveliso zakhe xa ulwazi luzalisiwe.
-
-Ukuba idatha ethunyelwe ngeqonga iqhekekile, ulwazi olongezwe luluntu oluvela kwiphakheji lungayigqiba.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Ndifanele ndithumele idatha yam ngaluphi uhlobo?
+## Does company information take precedence over information already present on the platform?
 
-I-[template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ibonelelwa yi-Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Nangona kunjalo, nayiphi na ifomathi yespredishithi (xlsx, csv) iya kungeniswa kwiqonga.  
-Indlela yethu yokusebenza yenzelwe ukufanisa ngokuzenzekelayo iimpawu ezivela kwifayile yakho, kunye nezo zikhoyo kwi-Open Food Facts. Lumka ukuba usoloko ujonga kabini inqanaba lokufanisa njengoko kunokufuneka ulungise ezinye zazo ngesandla.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Ukuba ulwazi lwakho lwahlulwe phakathi kweespredishithi ezininzi, ungazingenisa ngokulandelelana - uqinisekisa ukuba uyayifanisa loo nto ukuba ifomathi iyatshintsha.
-
-Ungangenisa kwakhona ifayile ye-Excel ukongeza kwi-EQUADIS okanye kwi-AGENA3000 yokungenisa, ukuba idatha ayikabikho kwinkqubo yakho yolwazi. Kwezi meko, ungalibali ukucela ukuthunyelwa kwi-database kawonke-wonke ukusuka kwi-interface.
-
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Udityaniswe neziphi iikhathalogu zemveliso?
+## In what format should I send my data?
 
-Abavelisi ngoku banokuthumela idatha yemveliso yabo kunye neefoto ngexesha langempela ukusuka kwi-**Equadis,** **AGENA3000 kunye ne-BAYARD consulting** ukuya kwi-Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Ngokuqinisekileyo uya kuzuza nakwiingcebiso zokuhlaziya kunye nazo zonke iimpawu zeqonga.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Iposi yethu yebhlog](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) ichaza amanyathelo ekufuneka uwalandele ukuba ungumthengi we-EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Ukuba ungumthengi we-AGENA3000 (iMveliso ye-A3 PIM INDUSTRY), kufuneka ukhethe umamkeli "Iinkcukacha Zokutya Ezivulekileyo" xa uthumela amaphepha emveliso yakho. [Ulwazi oluthe kratya ngale posi yebhlog](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Ukuba ungumthengi wekhathalogu yedatha yemveliso eyahlukileyo (iSalsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, njl.njl.) nceda usazise ku-[producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ungayongeza njani imveliso ngaphandle kweebhakhowudi ngeqonga lePro?
+## With which product catalogs are you integrated?
 
-Kwiimveliso ezingenayo i-barcode, kwisiza okanye kwiqonga lomvelisi, kukho iqhosha elithi "Imveliso engenayo i-barcode" kwikholamu esekhohlo ekuvumela ukuba uzongeze. Emva koko isazisi senziwa ngokuzenzekelayo.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Senze iiprojekthi ezithile zezinto zokuthambisa, zokutya kwezilwanyana, kunye nezinye iimveliso: Iinyaniso zoBuhle eziVulekileyo, iinyaniso zokutya kwezilwanyana zasekhaya eziVulekileyo kunye neenyaniso zeemveliso eziVulekileyo ngokwahlukeneyo.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Idatha yemveliso evela kwinkampani yam iyafumaneka kwi-Open Food Facts. Ngaba kunokwenzeka ukulawula iakhawunti yomvelisi enxulumene nayo?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ewe kunjalo! Ungalawula iakhawunti yomvelisi enxulumene nayo ngokudala iakhawunti ye-Open Food Facts enedilesi yeshishini lakho. Xa ubhalisa, khankanya igama lombutho okhoyo kwifomu ukuze ukwazi ukufikelela kwindawo efanelekileyo yomvelisi.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Inyathelo elifutshane lokuqinisekisa liya kufuneka ukuqinisekisa ukuba ngokwenene ungumvelisi.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Uya kukwazi ukugqiba idatha, ukongeza imifanekiso, ufumane iingcebiso ezizenzekelayo zokuphucula iNutri-Score, nokunye okuninzi. Konke oku kukhululekile ngokupheleleyo. Ungaqhagamshela nenkqubo yolawulo lwedatha yemveliso yomntu wesithathu efana ne-EQUADIS, i-AGENA3000 kunye ne-Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Kuthatha ixesha elingakanani ukuba idatha yabavelisi ihlaziywe kwezinye ii-app ezisebenzisa kwakhona i-Open Food Facts database?
-
-Kuxhomekeke kwii-apps. Kwabo basebenzisa ii-API zethu, uninzi lwazo, zikhawuleza.  
-Kwabo basebenzisa ukuthunyelwa kwethu kwemihla ngemihla, yi-D+1 ukuba nje bayayihlaziya.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ngaba ukungenisa idatha kwirekhodi yemveliso kuyayigqiba okanye kuyayitshintsha irekhodi yemveliso ekhoyo?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Sisebenzisa ibhakhowudi ukuchonga iimveliso, ukuba ungenisa irekhodi enebhakhowudi efanayo nerekhodi ekhoyo, ulwazi luya kudityaniswa.
-
-Kwidatha efana noluhlu lwezithako, amaxabiso ezondlo (ixabiso elinye elichanekileyo linokwenzeka), idatha ethunyelwe ngeqonga lomvelisi iya kubhala ngaphezulu kwedatha ekhoyo.
-
-Kwidatha efana neelebheli/iindidi/iibhrendi (amaxabiso amaninzi achanekileyo anokwenzeka), ulwazi luyadityaniswa. Ukuba idatha ayichanekanga kwiqonga loluntu, ungayitshintsha ishidi lemveliso kwiqonga loluntu ukuze ususe amaxabiso angachanekanga.
-
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Ingaba ukulandelelana kwezithako kubalulekile?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Ulandelelwano lwezithako lubalulekile: lubonisa ulandelelwano ngobuninzi.
-Eyona ndlela ilungileyo yokuzalisa izithako kukulandela kanye oko kubhalwe kwiphakheji. Kungoko ke kubaluleke kakhulu ukuba kuprintwe iifoto zezithako.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ndingathumela imifanekiso nge-AGENA3000?
+## Is the order of ingredients important?
 
-Ungathumela imifanekiso kodwa ngokwenza njalo kuphela umfanekiso oyintloko oza kukhethwa ngokuzenzekelayo, eminye imifanekiso iya kuthunyelwa, kodwa ayinqunyulwanga/ingakhethwanga izithako, izondlo njl.njl.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Ungafikelela njani kwiimfundiso zeqonga lePro?
+## Can I send images via AGENA3000 too?
 
-Ungafikelela kwiimfundiso zeqonga le-pro:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Ngokusebenzisa iqonga le-pro ngokwalo: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Ngqo kwi [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Ungakhuphela kwakhona [isikhokelo sethu somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
