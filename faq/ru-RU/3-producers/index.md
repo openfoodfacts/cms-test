@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} Производители"
-description: "6 подкатегорий"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: промышленность
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: сетка
+  type: grid
   grid-columns: 4
-  sort: "заказ"
-  fields: [ заголовок, описание ]
+  sort: "order"
+  fields: [ title, описание ]
   page-size: 100
 ---
 
-{{< fa "промышленность" size=3x >}}
+{{< fa "industry" size=3x >}}
 
