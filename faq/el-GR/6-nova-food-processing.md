@@ -1,15 +1,15 @@
 ---
-title: "{{< μέγεθος φιάλης fa=2x >}} NOVA / Επεξεργασία τροφίμων"
-description: "1 ερώτηση"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: φλάσκα
+icon: flask
 ---
 
-{{< fa "φλάσκα" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## Τι είναι η NOVA;
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
