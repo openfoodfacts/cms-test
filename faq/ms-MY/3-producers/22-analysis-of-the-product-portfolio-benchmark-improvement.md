@@ -1,25 +1,25 @@
 ---
-title: "{{< fa carta-bar saiz=2x >}} Analisis portfolio produk (penanda aras, penambahbaikan...)"
-description: "1 soalan"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: bar carta
+icon: chart-bar
 ---
 
-{{< fa "bar carta" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Bagaimanakah cara untuk mendapatkan cadangan penggubalan semula bagi meningkatkan Skor Nutri produk saya?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Apabila anda berada di halaman utama Platform Pengeluar:
+When you are on the home page of the Producers Platform:
 
-1. klik pada pautan "→ Bilangan produk dengan peluang penambahbaikan" di bahagian atas halaman.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. anda boleh merujuk semua peluang yang dikesan oleh sistem kami untuk menambah baik produk anda
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Mengklik pada jenis peluang akan membawa anda ke senarai produk yang tertakluk kepada penambahbaikan.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Untuk maklumat lanjut, kami menjemput anda untuk memuat turun [panduan pengguna](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) dan/atau rujuk [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
