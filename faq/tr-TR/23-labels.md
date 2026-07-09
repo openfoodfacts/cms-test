@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiketler"
-description: "2 soru"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: yer imi
+icon: bookmark
 ---
 
-{{< fa "yer imi" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Bir plak şirketi olarak hesap oluşturmak önemli mi?
+## As a label, is it important to create an account ?
 
-Bir etiket şirketi olarak, ürünlerin doğrudan üreticisi olmadığınız için üretici hesabı oluşturmanıza gerek yoktur.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ben bir plak şirketi temsilcisiyim, projeye nasıl katılabilirim?
+## I am a label, how can I participate in the project?
 
-Etiketinizle ilgili en önemli adım, bizimle **(producers@openfoodfacts.org)** adresinden iletişime geçip, etiketinizin yer aldığı ürünlerin listesini göndermektir; böylece bunları ilgili ürün sayfalarına ekleyebiliriz.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
