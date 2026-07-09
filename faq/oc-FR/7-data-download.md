@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Telecargament de donadas"
+title: "{{< fa cloud-download size=2x >}} Data download"
 description: "1 question"
-lang: es-gb
+lang: en-gb
 order: 7
 category-level: 0
-icon: telecargament en nívol
+icon: cloud-download
 ---
 
-{{< fa "telecargament en nívol" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ont obténer las donadas per un país especific?
+## Where to get the data for a specific country?
 
-Actualament, i a pas d'exportacions consacradas a de païses especifics.
+Currently, there are no exports dedicated to specific countries.
 
-I a fòrça biaisses d'utilizar nòstras diferentas exportacions combinadas amb d'aisinas diferentas per seleccionar las donadas ligadas a un país especific.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Podètz agachar [qualques unas d'aquelas tecnicas sus nòstre wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
