@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Produktu portfeļa analīze (salīdzinājums, uzlabojumi...)"
-description: "1 jautājums"
-lang: lv-lv
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: diagrammas josla
+icon: chart-bar
 ---
 
-{{< fa "diagrammas josla" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Kā piekļūt ieteikumam par pārformulēšanu, lai uzlabotu manu produktu uzturvērtību?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Kad esat Producentu platformas sākumlapā:
+When you are on the home page of the Producers Platform:
 
-1. lapas augšdaļā noklikšķiniet uz saites "→ Produktu skaits ar uzlabošanas iespējām".
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. jūs varat iepazīties ar visām mūsu sistēmas atklātajām iespējām, lai uzlabotu savus produktus
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Noklikšķinot uz iespējas veida, jūs tiksiet novirzīts uz produktu sarakstu, kas ir pakļauti uzlabojumiem.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
