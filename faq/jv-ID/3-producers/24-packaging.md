@@ -1,49 +1,49 @@
 ---
-title: "{{< ukuran kubus fa=2x >}} Kemasan"
-description: "3 pitakonan"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kubus
+icon: cube
 ---
 
-{{< fa "kubus" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Kepiye carane nambahake data kemasan menyang Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Minangka produsen, cara paling efisien kanggo nambahake data kemasan menyang produk sampeyan yaiku kanthi ngisi [spreadsheet excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) informasi sing dibutuhake, saka kolom "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Kanggo saben komponen kemasan, sampeyan kudu ngetik:
+For each packaging component, you will need to enter:
 
-- Cacahing unit (tuladha: **4** pot yogurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Wanguné (tuladha: **panci, tutup, kothak, lsp**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Materi (tuladhane: **PET, kertas, kaca, lsp**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Pandhuan daur ulang (tuladha: **ngolah maneh, mbuwang, lsp**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Bobot siji unit kosong (ing gr)
+- The weight of one empty unit (in gr)
 
-- Jumlah bersih produk sing ana saben unit
+- The net quantity of product contained per unit
 
-Spreadsheet iki banjur bisa diimpor menyang platform kita sing dikhususake kanggo para profesional.
-
----
-
-## Apa kuwi proyek Ngatasi Kemasan Pangan?
-
-Proyèk "Nangani Kemasan Pangan" kasusun saka nglumpukaké informasi rinci babagan kemasan produk sing paling kerep dikonsumsi (bentuk, bahan, pandhuan milah, bobot, kapasitas).
-
-Adhedhasar pendekatan sains partisipatif, iki bakal gumantung marang perusahaan sing setuju kanggo nuduhake data kemasan lan main game transparansi, lan marang warga sing ngidini pangumpulan informasi babagan produk. Informasi iki bakal bisa digunakake maneh kanthi bebas ("data terbuka").
-
-**Kanggo informasi luwih lengkap:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Sanajan proyek Nangani Kemasan Pangan wis rampung, apa aku isih bisa nambah data kemasanku?
+## What is the Tackling Food Packaging project?
 
-Sanajan proyèk wis rampung, data kemasan isih bisa ditambah amarga kolom kemasan bakal tetep ana ing situs web kita.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
