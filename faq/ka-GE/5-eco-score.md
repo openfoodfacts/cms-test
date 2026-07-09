@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} ეკო-ქულა"
-description: "5 კითხვა"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: მომხმარებელი-პლიუსი
+icon: user-plus
 ---
 
-{{< fa "მომხმარებელი-პლიუსი" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## რა არის ეკო-ქულის მეთოდოლოგია?
+## What is the Eco-Score methodology?
 
-ეკო-ქულა ეფუძნება ADEME-ს (ეკოლოგიური გარდამავალი სააგენტო) და INRAE-ს (აგრონომიული კვლევების ეროვნული ინსტიტუტი) მიერ წარმოებული სასიცოცხლო ციკლის ანალიზის გაანგარიშებას. PEF ქულის შესაქმნელად დაახლოებით თხუთმეტი კომპონენტი გამოითვლება და ერთმანეთთან არის დაკავშირებული.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-ამ PEF ქულას ემატება ბონუსები და მავნე ზემოქმედება (წარმოების რეჟიმი, წარმოშობა)
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ინგრედიენტები, გადაშენების პირას მყოფი სახეობები, შეფუთვა) ეკო-ქულის გამოსათვლელად.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-დამატებითი ინფორმაციისთვის იხილეთ შემაჯამებელი გვერდი [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) Open Food Facts-ზე, ასევე Eco-Score კონსორციუმის ვებსაიტზე. (ეკო-ქულების პრეზენტაცია [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## რა ტიპის ინფორმაცია უნდა იყოს მოცემული, რათა ეკო-ქული მაქსიმალურად ზუსტად გამოითვალოს?
-
-ეკო-ქულის ზუსტად გამოსათვლელად, აუცილებელია თითოეული ინგრედიენტის პროცენტული მაჩვენებლისა და მისი წარმოშობის მითითება.
-
-თუ ეს ინფორმაცია ინგრედიენტების სიაში უკვე არ არის მითითებული, შეგიძლიათ დაამატოთ სვეტი მის აღსანიშნავად შემდეგი ფორმატით:
-
-ხორბლის ფქვილი 16% (საფრანგეთი)
-
-შოკოლადი 8% (კოტ-დ’ივუარი, ეკვადორი)
-
-ასევე გვჭირდება შეფუთვის კომპონენტები შემდეგის სახით: 1 გადასაყრელი პლასტიკური აპკი, 1 FSC მუყაოს ყუთი გადასამუშავებლად, 6 PET გამჭვირვალე 1.5 ლიტრიანი პლასტმასის ბოთლი გადასამუშავებლად, 6 გაუმჭვირვალე ფერადი პლასტმასის თავსახური, 12 33 cl ალუმინის პლასტმასის ქილა.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## როგორ არის შერწყმული 15 ინდიკატორის მნიშვნელობები?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF სისტემის უკეთ გასაგებად, შეგიძლიათ წაიკითხოთ: PEF ქულის განმარტება Eco-Score მეთოდოლოგიურ საიტზე**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## ადგილობრივი ასპექტი ნედლეულის წარმოების ადგილს ეხება თუ წარმოშობის ადგილს?
+## How are the values ​​of the 15 indicators combined?
 
-ადგილობრივი ასპექტი ნედლეულის წარმოშობას ეხება. სწორედ ამიტომ არის მნიშვნელოვანი მათი პროცენტული მაჩვენებლებისა და წარმოშობის შესახებ ინფორმაციის მიწოდება პროდუქტის ინგრედიენტების სიაში ან ინგრედიენტების წარმოშობის შესახებ განკუთვნილ ველში.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## როგორ შეიყვანოთ ინგრედიენტების წარმომავლობა ეკო-ქულისთვის?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-თუ გსურთ თქვენს ფურცლებზე ნედლეულის წარმოშობის შესახებ ინფორმაციის გაზიარება, გთხოვთ, ისინი ინგრედიენტების სიაში ჩართოთ.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
