@@ -1,21 +1,21 @@
 ---
-title: "{{< fa өнөр жайынын көлөмү=2x >}} Өндүрүүчүлөр"
-description: "6 субкатегория"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: өнөр жай
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: торчо
+  type: grid
   grid-columns: 4
-  sort: "заказ"
-  fields: [ аталыш, баяндоо ]
+  sort: "order"
+  fields: [ title, баяндоо ]
   page-size: 100
 ---
 
-{{< fa "өнөр жай" size=3x >}}
+{{< fa "industry" size=3x >}}
 
