@@ -1,37 +1,37 @@
 ---
-title: "{{< fa question-circle size=2x >}} Buka Fakta Makanan"
-description: "9 pertanyaan"
-lang: bahasa Inggris
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
+lang: en-gb
 order: 9
 category-level: 0
-icon: lingkaran pertanyaan
+icon: question-circle
 ---
 
-{{< fa "lingkaran pertanyaan" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
-## Apa perbedaan antara situs web ini dengan situs web, layanan dan aplikasi seluler lainnya yang sudah memungkinkan untuk melihat informasi produk - produk makanan?
+## Bedanya apa sama situs, layanan, atau aplikasi lain yang udah bisa nunjukin info produk makanan?
 
 Perbedaan utamanya bersifat penting bagi kami: data kami secara gratis tersedia bagi semua dan untuk semua penggunaan. Itulah yang disebut sebagai data terbuka.
 
-Hampir semua situs web, layanan, dan aplikasi lainnya melarang para pengguna untuk membuat dan menggunakan kembali data mereka. Justru sebaliknya, mereka dengan hati - hati menyimpan datanya untuk diri mereka sendiri. Dalam hampir semua kasus, persyaratan layanan mereka secara eksplisit melarang penggunaan non-pribadi apa pun dan pengambilan seluruh data atau sebagian data.
+Hampir semua situs web, layanan, dan aplikasi lainnya melarang para pengguna untuk membuat dan menggunakan kembali data mereka. Justru sebaliknya, mereka dengan hati - hati menyimpan datanya untuk diri mereka sendiri. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Kami menganggap informasi produk - produk makanan terlalu penting dan berguna untuk disimpan dalam tempat yang aman. Jadi, ketika kami memulai proyek Open Food Facts dan aplikasi selulernya pada tahun 2012, kami memutuskan untuk melakukan hal yang sebaliknya: kami tidak hanya mengizinkan penggunaan dan penggunaan kembali basis data kami, secara gratis dan tanpa biaya, kepada semua orang dan untuk semua penggunaan (termasuk komersial), tetapi kami juga mendorongnya!
+Kami menganggap informasi produk - produk makanan terlalu penting dan berguna untuk disimpan dalam tempat yang aman. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Dengan menyediakan data secara publik (yang dikenal sebagai _data terbuka_), individu, asosiasi, perusahaan, peneliti, dan lain-lain dari seluruh dunia dapat memikirkan dan mengembangkan aplikasi untuk data tersebut yang mungkin tidak pernah kita pikirkan sebelumnya.
-
----
-
-## Apa bentuk model ekonomi Open Food Facts
-
-Para kontributor adalah relawan. Kontribusi mereka dikumpulkan dalam basis data terbuka yang dapat digunakan oleh semua orang dan untuk semua penggunaan. (lihat [Ketentuan penggunaan kembali](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Dengan demikian, semua orang (termasuk tetapi tidak terbatas pada kontributor dan pencipta Open Food Facts) dapat mendistribusikan dan/atau menggunakan kembali data tersebut untuk membangun situs web, layanan, perangkat lunak, aplikasi seluler, atau untuk menulis artikel dan studi. Mereka bebas untuk membuat karya yang dihasilkan tersedia secara gratis atau untuk menjual atau memonetisasinya (contohnya dengan iklan), selama mereka mengikuti persyaratan penggunaan kembali.
-
-Kami juga sangat independen dari industri makanan, dan semua layanan dan perangkat yang kami buat gratis. Sebagai contoh, Platform kami untuk Produsen sepenuhnya gratis, dan kami sangat senang karena kami pikir hal itu dapat membantu mereka meningkatkan produk mereka.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## Bisa saya menambahkan gambar - gambar atau data produk dari situs produsen, perbelanjaan atau situs lainnya?
+## What is Open Food Facts' economic model
+
+Para kontributor adalah relawan. Kontribusi mereka dikumpulkan dalam basis data terbuka yang dapat digunakan oleh semua orang dan untuk semua penggunaan. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Mereka bebas untuk membuat karya yang dihasilkan tersedia secara gratis atau untuk menjual atau memonetisasinya (contohnya dengan iklan), selama mereka mengikuti persyaratan penggunaan kembali.
+
+Kami juga sepenuhnya independen dari industri makanan, dan semua layanan serta perangkat lunak yang kami bangun gratis. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+
+---
+
+## Bisakah saya menambahkan foto produk atau data dari situs produsen, situs belanja, atau situs lainnya?
 
 Mungkin tidak. Hampir semua situs lainnya melarang pembuatan dan penggunaan kembali data dan gambar - gambar mereka, dan itu sebenarnya adalah alasan mengapa kami telah membuat Open Food Facts: untuk membuat semua data ini tersedia bagi semua dan untuk semua jenis penggunaan.
 
@@ -39,82 +39,83 @@ Untuk menghindari masalah hukum, kami dengan demikian meminta para kontributor u
 
 ---
 
-## Bagaimana saya bisa menghubungi tim Open Food Facts, mengajukan pertanyaan atau memberikan saran?
+## Gimana caranya kontak tim Open Food Facts, nanya sesuatu, atau kasih saran?
 
-Anda dapat mengajukan pertanyaan atau memberikan saran di forum atau menghubungi kami melalui email: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Jika Anda adalah produsen, silakan kirim email kepada kami di [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Jika Anda seorang jurnalis, silakan kirim email kepada kami di [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Harap dicatat: [Open Food Facts adalah basis data produk makanan hasil kolaborasi](https://world.openfoodfacts.org/discover), kami tidak menjual produk apa pun dan kami tidak memiliki hubungan dengan produsennya. Untuk pertanyaan atau keluhan terkait dengan suatu produk, Anda perlu menuliskannya langsung ke produsennya (alamat tertera di label produk).
-
----
-
-## Apakah informasi dan data produk telah diverifikasi?
-
-Informasi dan data tersebut dikirimkan oleh para kontributor Open Food Facts. Para kontributor juga mengirim gambar - gambar produk, label, daftar kandungan bahan dan tabel informasi nilai gizinya. Jika ragu, para pengunjung dapat memeriksa keakuratannya sendiri, dan jika ada kesalahan, mereka dapat memperbaikinya langsung di tempat.
-
-Untuk mendeteksi kesalahan potensial dengan lebih mudah, kami akan secara bertahap menambahkan pemeriksaan otomatis. Misalnya, jika informasi nilai gizi suatu produk sangat berbeda dari produk-produk dalam kategori yang sama, itu mungkin merupakan kesalahan. Jika nutrisinya lebih dari 100%, itu pasti adalah kesalahan.
-
-Akhirnya, banyak produsen mengirimkan foto dan data produk mereka menggunakan Platform bagi Para Produsen kami. Jika Anda seorang produser, silakan [hubungi kami](mailto:producers@openfoodfacts.org)
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
-## Saya adalah seorang produsen produk makanan, bisakah saya menambahkan produk saya sendiri?
+## Apakah informasi dan data pada produk sudah diverifikasi?
 
-Ya! Satu - satunya syarat adalah menerima bahwa data dan gambar - gambar yang tersedia di bawah lisensi terbuka. (lihat [Syarat dan Ketentuan Kontribusi](https://en.openfoodfacts.org/terms-of-use#contribution))
+The information and data is submited by the Open Food Facts contributors. Para kontributor juga mengirim gambar - gambar produk, label, daftar kandungan bahan dan tabel informasi nilai gizinya. Jika ragu, para pengunjung dapat memeriksa keakuratannya sendiri, dan jika ada kesalahan, mereka dapat memperbaikinya langsung di tempat.
 
-Kami telah mengembangkan platform gratis yang memungkinkan Anda mengimpor foto dan data tentang produk Anda dengan mudah, terlepas dari ukuran bisnis Anda. Ini akan memungkinkan Anda mengimpor data dan visual yang lengkap dan terkini ke dalam Open Food Facts yang akan terlihat di lebih dari 100 aplikasi nutrisi lainnya. Selain itu, platformnya menyediakan saran untuk meningkatkan Nutri-Score produk Anda. Hubungi kami untuk membahas bagaimana kita dapat melanjutkan: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Untuk mendeteksi kesalahan potensial dengan lebih mudah, kami akan secara bertahap menambahkan pemeriksaan otomatis. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Jika nutrisinya lebih dari 100%, itu pasti adalah kesalahan.
+
+Akhirnya, banyak produsen mengirimkan foto dan data produk mereka menggunakan Platform bagi Para Produsen kami. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Siapa yang menggunakan data Open Food Facts?
+## Saya adalah produsen produk makanan, apakah saya bisa menambahkan produk saya sendiri?
 
-Akan memakan waktu
-terlalu lama untuk mencantumkan semua organisasi yang bergantung pada platform Open Food Facts
-.
+Ya! Satu - satunya syarat adalah menerima bahwa data dan gambar - gambar yang tersedia di bawah lisensi terbuka. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-- Lebih dari 100 aplikasi seluler
-  memenuhi kebutuhan banyak kalangan: diabetes (VeryDiab), alergi, keseimbangan makanan
-  melalui kecerdasan buatan (FoodVisor), disabilitas, dan banyak lagi. Basis data
-  kami juga memungkinkan terciptanya Yuka.
-- Banyak situs web: CombienDeSucres.fr,
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Ini akan memungkinkan Anda mengimpor data dan visual yang lengkap dan terkini ke dalam Open Food Facts yang akan terlihat di lebih dari 100 aplikasi nutrisi lainnya. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Who uses Open Food Facts data?
+
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
+
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Jurnalis data : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Peneliti di hampir 100 artikel ilmiah
-- Bank makanan dan toko solidaritas: sebuah proyek
-  Data For Good yang merupakan kelanjutan dari proyek percontohan yang diprakarsai oleh
-  Palang Merah Prancis, integrasi dalam pengelolaan kas koperasi makanan kecil
-  .
-- Perusahaan: Terraillon menggunakan data kami
-  untuk menghidupkan timbangan terhubungnya.
-- Sekolah pemrograman (Simplon, Open
-  Classrooms) telah mengintegrasikan Open Food Facts sebagai proyek motivasi dalam kurikulum
-  mereka.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Bagaimana saya bisa mendukung Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts adalah sebuah asosiasi nirlaba yang berdiri sejak tahun 1901. Anda dapat membantu kami dengan [berpartisipasi dalam proyek](https://fr-en.openfoodfacts.org/contribute) dan dengan mendukung kami secara finansial melalui [sumbangan](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(diskon 66%) dan juga dengan menggunakan mesin pencari Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
 **Thank
 you very much!**
 
 ---
 
-## Saya tidak dapat menemukan jawaban atas pertanyaan saya.
+## I can't find the answer to my question
 
-Jika Anda tidak menemukan jawaban atas pertanyaan Anda, jangan ragu untuk menghubungi kami melalui:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack kami: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Forum kami: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
