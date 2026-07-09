@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} ኣፍረይቲ"
-description: "6 ንኡሳን ምድባት"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ኢንዱስትሪ
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: መስመር
+  type: grid
   grid-columns: 4
-  sort: "ስርዓት"
-  fields: [ ርእሲ, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ኢንዱስትሪ" size=3x >}}
+{{< fa "industry" size=3x >}}
 
