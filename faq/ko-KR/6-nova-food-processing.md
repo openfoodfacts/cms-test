@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / 식품 가공"
-description: "질문 1개"
-lang: 영어-영국
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: 플라스크
+icon: flask
 ---
 
-{{< fa "플라스크" size=3배 >}}
+{{< fa "flask" size=3x >}}
 
-## NOVA란 무엇인가요?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
