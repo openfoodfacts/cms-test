@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Kichasqa Mikhuy Chiqapkunamanta"
-description: "4 tapuykuna"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
-order: 17. 17
+order: 17
 category-level: 1
-icon: info-muyu
+icon: info-circle
 ---
 
-{{< fa "info-muyu" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## ¿Imayna willakuykunatataq rakinakuna?
+## What type of information should be shared?
 
-Ima willakuypas allin chaskisqa, mikhuymanta willakuymanta embalajemanta willakuykama.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Kayqa atikun huk hunt'asqa archivota churayta, llapa puntuacionkunata yupanapaq precisión kaqwan chaymanta aswan generalmente huk transparencia consumidorkuna chaninchasqa kaqwan.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Ichaqa kay chakrakunata ñawpaqman churanaykipaq yuyaychaykiku:
+However we do recommend you prioritize the following fields:
 
-- Mikhuymanta willakuy
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Producto categoría (p.h. upyanakuna, queso, yogur, hukkunapas)
-
-- Rurukunapa sutin
-
-- Alergenos nisqakuna
-
-- hinallataq ingredientekuna, kay campoqa manan obligatoriochu aswanpas recomendasqa huk allin utilización hinallataq determinación de las puntuaciones
-
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ¿Atiymanchu Open Food Facts nisqamanta willakuykunata uraykachiyta?
+## Can I download Open Food Facts data?
 
-Tukuy willakuykunata Kichasqa Mikhuy Chiqapkunapi kaqta uraykachiyta atinki. Cuidakuy, kayqa achka disco espaciota munan, huk kallpasapa computadora sichus huk hoja de cálculo llamk'achiyta munanki utaq R utaq Python yachayta wakhina.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Chantapas huk huch'uy huñu willayta uraykachiyta atikunki (markayki huk rikch'anapaq) ñawpaq maskanaman gracias nispa.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## ¿Pro plataformaman yaykuy chaymanta datokuna apamuy mana qullqiyuqchu?
-
-Absolutamente, hinaspa wiñaypaq kanqa.Tukuy serviciokuna Open Food Facts nisqapa qusqanqa mana qullqillapaqmi.  
-Ancha kusisqa kayku ruruykimanta willayta mikhuy sut'i kananpaq yanapayta yuyaykusqaykimanta, chaymanta kaymanta agradecekuyku.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Munaymanmi yuyaychayta allinchakuykunata plataforma profesionalpaq, imaynatataq chayta ruwayman ?
+## Is access to the Pro platform and the import of data free?
 
-¡Gracias mikhuy sut’i kaypi participanaykipaq munasqaykimanta!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Aswan allinqa yuyaykunata rakinapaqqa [kay formulario](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) hunt'achiymi.
+---
 
-Hinallataqmi ñuqaykuwan rimanakuy atikunki yuyaychaykunata ruwanaykipaq icha [foroyku](https://forum.openfoodfacts.org/) utaq [Slack](https://openfoodfacts.slack.com/ssb/redirect) nisqawan.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Slack nisqaykuman hukllawakuy hinaspa #productores nisqa canalman yaykuy ñuqaykuwan rimanaykipaq.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
