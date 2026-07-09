@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Bafuputsi/Setsebi"
-description: "Sehlopha se senyenyane se le seng"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: sekwahelo sa kabo ea mangolo
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: gridi
+  type: grid
   grid-columns: 4
-  sort: "odara"
-  fields: [ sehlooho, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "sekwahelo sa kabo ea mangolo" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
