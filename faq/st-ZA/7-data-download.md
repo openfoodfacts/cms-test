@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Khoasolla lintlha"
-description: "Potso e le 'ngoe"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: khoasolla lerung
+icon: cloud-download
 ---
 
-{{< fa "khoasolla lerung" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Lintlha tsa naha e itseng li ka fumanoa hokae?
+## Where to get the data for a specific country?
 
-Hona jwale, ha ho na thepa e romellwang kantle ho naha e inehetseng dinaheng tse itseng.
+Currently, there are no exports dedicated to specific countries.
 
-Ho na le litsela tse ngata tsa ho sebelisa thepa ea rona e fapaneng e romelloang kantle ho naha hammoho le lisebelisoa tse fapaneng ho khetha lintlha tse amanang le naha e itseng.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-O ka sheba [tse ling tsa mekhoa ena ho wiki ea rona](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
