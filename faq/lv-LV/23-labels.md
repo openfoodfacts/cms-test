@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiķetes"
-description: "2 jautājumi"
-lang: lv-lv
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
 order: 23
 category-level: 0
-icon: grāmatzīme
+icon: bookmark
 ---
 
-{{< fa "grāmatzīme" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Vai ierakstu kompānijai ir svarīgi izveidot kontu?
+## As a label, is it important to create an account ?
 
-Kā etiķetei, tā kā jūs neesat tiešais produktu ražotājs, jums nav jāizveido ražotāja konts.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Esmu etiķete, kā es varu piedalīties projektā?
+## I am a label, how can I participate in the project?
 
-Kā etiķetes īpašniekam, vissvarīgākais ir sazināties ar mums **(producers@openfoodfacts.org)** un nosūtīt mums to produktu sarakstu, uz kuriem ir attēlota jūsu etiķete, lai mēs varētu tos pievienot attiecīgajām produktu lapām.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
