@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / Kugadzira chikafu"
-description: "Mubvunzo 1"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: bhodhoro
+icon: flask
 ---
 
-{{< fa "bhodhoro" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## Chii chinonzi NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
