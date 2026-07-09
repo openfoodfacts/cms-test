@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Էկո-գնահատական"
-description: "5 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: օգտատեր-պլյուս
+icon: user-plus
 ---
 
-{{< fa "օգտատեր-պլյուս" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Ի՞նչ է Էկո-Գնահատման մեթոդաբանությունը։
+## What is the Eco-Score methodology?
 
-Էկո-գնահատականը հիմնված է ADEME-ի (էկոլոգիական անցումային գործակալություն) և INRAE-ի (ագրոնոմիական հետազոտությունների ազգային ինստիտուտ) կողմից կատարված կյանքի ցիկլի վերլուծության հաշվարկի վրա։ Մոտ տասնհինգ բաղադրիչ հաշվարկվում և կապվում են PEF գնահատականը ստեղծելու համար։
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Այս PEF գնահատականին գումարվում են բոնուսներ և թերություններ (արտադրության եղանակ, ծագում)
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-բաղադրիչներ, վտանգված տեսակներ, փաթեթավորում)՝ էկո-միավորը հաշվարկելու համար։
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Ավելի շատ տեղեկությունների համար տե՛ս ամփոփման էջը [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) Open Food Facts-ում, ինչպես նաև Eco-Score կոնսորցիումի կայքում։ (Էկո-գնահատականի ներկայացում [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Ի՞նչ տեսակի տեղեկատվություն պետք է տրամադրվի, որպեսզի էկո-միավորը հնարավորինս ճշգրիտ հաշվարկվի։
-
-Որպեսզի էկո-միավորը ճշգրիտ հաշվարկվի, պետք է նշվի յուրաքանչյուր բաղադրիչի տոկոսը և դրա ծագումը։
-
-Եթե այս տեղեկատվությունը բաղադրիչների ցանկում արդեն նշված չէ, կարող եք ավելացնել սյունակ՝ այն նշելու համար՝ հետևյալ ձևաչափով.
-
-Ցորենի ալյուր 16% (Ֆրանսիա)
-
-Շոկոլադ 8% (Կոտ դ'Իվուար, Էկվադոր)
-
-Մեզ անհրաժեշտ են նաև փաթեթավորման բաղադրիչներ՝ հետևյալ տեսքով՝ 1 պլաստիկե թաղանթ՝ դեն նետելու համար, 1 FSC ստվարաթղթե տուփ՝ վերամշակելու համար, 6 1.5 լիտր տարողությամբ PET թափանցիկ պլաստիկե շշեր՝ վերամշակելու համար, 6 անթափանց գունավոր պլաստիկե կափարիչներ, 12 33 սմ տարողությամբ ալյումինե պլաստիկե տարաներ։
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Ինչպե՞ս են համակցվում 15 ցուցանիշների արժեքները։
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF համակարգն ավելի լավ հասկանալու համար կարող եք կարդալ՝ PEF միավորի բացատրությունը Eco-Score մեթոդաբանական կայքում**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Տեղական ասպեկտը վերաբերում է՞ հումքի արտադրության վայրին, թե՞ ծագման վայրին։
+## How are the values ​​of the 15 indicators combined?
 
-Տեղական ասպեկտը վերաբերում է հումքի ծագմանը։ Ահա թե ինչու է կարևոր նշել դրանց տոկոսները, ինչպես նաև ծագումը ապրանքի բաղադրիչների ցանկում կամ բաղադրիչների ծագմանը նվիրված դաշտում։\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Ինչպե՞ս մուտքագրել բաղադրիչների ծագումը էկո-միավորի համար։
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Եթե ցանկանում եք կիսվել ձեր թերթիկներում առկա հումքի ծագման վերաբերյալ տեղեկատվությամբ, մենք ձեզ հրավիրում ենք ներառել դրանք բաղադրիչների ցանկում։
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
