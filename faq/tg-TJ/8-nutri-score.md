@@ -1,31 +1,31 @@
 ---
-title: "{{< fa hearttack size=2x >}} Nutri-Score"
-description: "3 савол"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: дил
+icon: heartbeat
 ---
 
-{{< fa "дил" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Агар Nutri-Score-и маҳсулоти ман дуруст набошад, ман бояд чӣ кор кунам?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Дар сурати мушкилот бо Nutri-Score-и шумо, дурустии маълумоти худро дар ҷадвали "тағйир додан"-и варақаи маҳсулоти худ санҷед. Агар ягон маълумот мавҷуд набошад ё нодуруст бошад, шарм надоред бо мо тавассути суроғаи зерин тамос гиред:**producers@openfoodfacts.org**
-
----
-
-## Барои он ки Nutri-Score то ҳадди имкон дақиқ ҳисоб карда шавад, ман бояд кадом намуди маълумотро пешниҳод кунам?
-
-Ҳисобкунии Nutri-Score бо истифода аз ҷадвали ғизоии маҳсулоти шумо анҷом дода мешавад.
-
-Фаромӯш накунед, ки фоизи меваҳо, сабзавот ва чормағзҳоро дар ҷадвали худ дохил кунед, то ки нишондиҳандаи Nutri-Score-и ҳисобшуда нодуруст набошад.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Нутри-Скор аз куҷо пайдо мешавад?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score аз ҷониби Santé Publique France идора карда мешавад. Он ҷадвали арзишҳои ғизоиро ҷамъбаст мекунад, то ҳама онро фаҳманд. Ҳадаф таъмини дастрасӣ ба маълумоти равшан ва фаҳмо оид ба ғизо барои ҳама мебошад.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
