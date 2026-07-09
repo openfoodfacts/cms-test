@@ -1,17 +1,17 @@
 ---
-title: "محرك التصنيف الشعبي {{< fa book size=2x >}}"
-description: "سؤال واحد"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: كتاب
+icon: book
 ---
 
-{{< fa "كتاب" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ما هو محرك التصنيف الشعبي؟
+## What is the Folksonomy Engine ?
 
-محرك التصنيف الشعبي هو نظام يسمح للمستخدمين بإضافة علامات أو خصائص مخصصة إلى المنتجات الغذائية في Open Food Facts، وهي أكبر قاعدة بيانات مفتوحة للأغذية في العالم. يتيح هذا للأشخاص تصنيف ووصف الطعام بطرق جديدة، تتجاوز الخصائص المحددة مسبقًا.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
