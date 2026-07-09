@@ -1,25 +1,25 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Ɲininkaliw bɛ kɛ fɛn dɔ kan"
-description: "1 ɲininkali"
-lang: bamanankan-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: sannifeere-segi
+icon: shopping-basket
 ---
 
-{{< fa "sannifeere-segi" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## N ye ɲininkali / fɔli kɛ fɛn dɔ kan
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) ye jɛkafɔ yɔrɔ ye min dabɔra ani ka balo feerekɛlaw fɛ walasa ka se ka taamasiyɛnw ɲɛfɔ ani ka fɛnw suma ɲɔgɔn na.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Ni aw b’a fɛ ka kunnafoni wɛrɛw sɔrɔ fɛn dɔ kan walima fɛn dɔ kan, aw bɛ sɛbɛn ci a dilabaga ma. An tɛ kunnafoni sɔrɔ dilanbagaw fɛ nka u ka teli ka kɛ pakew kan.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-N’aw b’a fɛ k’an dɛmɛ ka kɛnɛya caman lase feerekɛlaw ma i n’a fɔ aw walima anw, aw bɛ se ka baara kɛ n’an ka iPhone walima Android app ye walasa ka fɛnw fara a kan: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Wa walasa ka baro kɛ porozɛ in kan, i bɛ se ka fara Facebook dɛmɛbagaw ka kulu kan: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) walima ka baro kɛ ni dɛmɛbaga tɔw ye Slack kan:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
-[https://www.slack.openfoodfacts.org](https://slack.openfoodfacts.org/) Kalanjɛ ni sɛbɛnni: kalanjɛ ni sɛbɛnni gafew
+[https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
 ---
 
