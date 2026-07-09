@@ -1,49 +1,49 @@
 ---
-title: "{{< kích thước khối fa=2x >}} Bao bì"
-description: "3 câu hỏi"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: khối lập phương
+icon: cube
 ---
 
-{{< fa "khối lập phương" size="3 lần" >}}
+{{< fa "cube" size=3x >}}
 
-## Tôi có thể thêm dữ liệu bao bì sản phẩm của mình vào Open Food Facts bằng cách nào?
+## How can I add my packaging data to Open Food Facts?
 
-Với tư cách là nhà sản xuất, cách hiệu quả nhất để thêm dữ liệu đóng gói vào sản phẩm của bạn là điền thông tin cần thiết vào bảng tính [excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl), từ cột "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Đối với mỗi thành phần bao bì, bạn cần nhập:
+For each packaging component, you will need to enter:
 
-- Số lượng đơn vị (ví dụ: **4** hộp sữa chua)
+- The number of units (ex: **4** pots of yogurts)
 
-- Hình dạng (ví dụ: **nồi, nắp, hộp, v.v.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Chất liệu (ví dụ: **PET, giấy, thủy tinh, v.v.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Hướng dẫn tái chế (ví dụ: **để tái chế, để vứt bỏ, v.v.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Trọng lượng của một đơn vị rỗng (tính bằng gam)
+- The weight of one empty unit (in gr)
 
-- Khối lượng tịnh của sản phẩm có trong mỗi đơn vị
+- The net quantity of product contained per unit
 
-Sau đó, bảng tính này có thể được nhập vào nền tảng dành riêng cho các chuyên gia của chúng tôi.
-
----
-
-## Dự án "Giải quyết vấn đề bao bì thực phẩm" là gì?
-
-Dự án "Giải quyết vấn đề bao bì thực phẩm" bao gồm việc thu thập thông tin chi tiết về bao bì của các sản phẩm được tiêu thụ nhiều nhất (hình dạng, chất liệu, hướng dẫn phân loại, trọng lượng, dung tích).
-
-Dựa trên phương pháp khoa học có sự tham gia, dự án sẽ phụ thuộc vào việc các công ty đồng ý chia sẻ dữ liệu về bao bì sản phẩm và tham gia vào hoạt động minh bạch, cũng như việc người dân cho phép thu thập thông tin về sản phẩm. Thông tin này sẽ được sử dụng lại một cách tự do ("dữ liệu mở").
-
-**Để biết thêm thông tin:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ngay cả sau khi dự án Giải quyết vấn đề bao bì thực phẩm kết thúc, tôi vẫn có thể thêm dữ liệu bao bì của mình được không?
+## What is the Tackling Food Packaging project?
 
-Ngay cả sau khi dự án kết thúc, vẫn có thể thêm dữ liệu đóng gói vì các trường thông tin đóng gói sẽ vẫn còn trên trang web của chúng tôi.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
