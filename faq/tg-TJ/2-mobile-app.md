@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Барномаи мобилӣ"
-description: "4 савол"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: мобилӣ
+icon: mobile
 ---
 
-{{< fa "мобилӣ" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## Чӣ тавр ман метавонам донам, ки кадом версияи барномаро истифода мекунам?
+## How do I know which version of the app I'm using?
 
-Ба **Профил**,
-, сипас **Саволҳои зуд-зуд додашаванда** ва баъд **Дар бораи ин барнома** равед.
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-Шумо бояд
-рақами версияро ба монанди 3.4.5+662 бинед. Агар телефон хатогиҳоро ислоҳ карда истода бошад, фаромӯш накунед, ки бренд ва модели
--и онро ба мо хабар диҳед.
-
----
-
-## Барнома скан намекунад
-
-Ин метавонад аз сабаби
-
-- мушкили шабака
-
-- мушкили иҷозатҳо
-
-- мушкилоти рамзи штрих-код
-
-Ба мо тавассути профил паёми электронӣ фиристед >> Бо мо тамос гиред >> Ба мо паёми электронӣ фиристед.
-
-Ҳама маълумоти дахлдор бояд ба дархости шумо замима карда шаванд.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## Чӣ тавр ман метавонам дар беҳтар кардани барномаи мобилӣ кумак кунам?
+## The app does not scan
 
-Чӣ тавр ман метавонам дар беҳтар кардани барномаи мобилӣ кумак кунам?
+This may be due to
 
-Шумо метавонед [инро дар анбори барномаҳои мобилӣ анҷом диҳед](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## Дар куҷо ман метавонам фикру мулоҳизаҳои худро дар бораи барнома фиристам?
+## How can I help with improving the mobile app ?
 
-Шумо метавонед фикру мулоҳизаҳои худро ба суроғаи mobile@openfoodfacts.org фиристед.
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
