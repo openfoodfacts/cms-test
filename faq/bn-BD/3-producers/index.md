@@ -1,21 +1,21 @@
 ---
-title: "{{< fa শিল্পের আকার=2x >}} উৎপাদক"
-description: "৬টি উপবিষয়শ্রেণী"
-lang: en-gb সম্পর্কে
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: শিল্প
+icon: industry
 listing:
   contents:
-    - "*.এমডি"
+    - "*.md"
   include:
     category-level: 1
-  type: গ্রিড
+  type: grid
   grid-columns: 4
-  sort: "অর্ডার"
-  fields: [ শিরোনাম, description ]
-  page-size: ১০০
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "শিল্প" size="3x এর বিবরণ" >}}
+{{< fa "industry" size=3x >}}
 
