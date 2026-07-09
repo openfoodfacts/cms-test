@@ -1,45 +1,45 @@
 ---
-title: "{{< dimensiune utilizator fa=2x >}} Gestionează-mi contul"
-description: "3 întrebări"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
 icon: utilizator
 ---
 
-{{< fa "utilizator" size="de 3 ori" >}}
+{{< fa "utilizator" size=3x >}}
 
-## Pot fi conectate mai multe conturi Open Food Facts la o singură companie?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Da, vă rugăm să trimiteți un e-mail la adresa [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), pentru a putea conecta toate conturile la aceeași companie.
-
----
-
-## Cum îmi transform contul Open Food Facts într-un cont Pro?
-
-Poți accesa platforma [Pro](https://world.pro.openfoodfacts.org/) cu datele de autentificare ale contului tău existent.
-
-Dacă sunteți profesionist, va trebui să utilizați adresa dvs. de e-mail profesională pentru a vă putea valida contul.
-
-→ Pentru mai multe detalii, vă invităm să descărcați [ghidul utilizatorului](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) și/sau să consultați [tutorialele noastre video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Unde pot găsi documentație care să mă ajute să utilizez platforma Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Există câteva resurse care te pot ajuta să profiți la maximum de platforma Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Sunteți bineveniți să:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- Consultați [ghidul utilizatorului](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - vă invităm să descărcați PDF-ul pentru a putea accesa linkurile, ceea ce vă va facilita navigarea prin document.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- consultați [tutorialele noastre video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- distribuiți feedback sau sugestii prin intermediul [acest formular](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Programați un apel cu Manon, managerul nostru de parteneriate, dacă aveți mai multe întrebări: [aici](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Contactați-ne prin e-mail: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
