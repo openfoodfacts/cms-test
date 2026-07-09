@@ -1,48 +1,48 @@
 ---
-title: "{{< fa key size=2x >}} Уҫӑ продуктсен фактӗсем"
-description: "3 ыйту"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: ҫӑраҫҫи
+icon: key
 ---
 
-{{< fa "ҫӑраҫҫи" size=3х >}}
+{{< fa "key" size=3x >}}
 
-## iPhone ҫинче уҫӑ продуктсен фактӗсене мӗнле кӗмелле?
+## How to access Open Products Facts on iPhone ?
 
-Open Products Facts тӗп Open Food Facts приложенийӗнче пур. Ҫак интеграци iPhone-па усӑ куракансене икӗ базӑна та пӗр меллӗ приложени урлӑ кӗме май парать.
-
----
-
-## Эпӗ Open Products Facts ушкӑнне пулӑшасшӑн. Мӗн тӑвас?
-
-Пирӗн вики-страницӑна вуласа тухӑр, эпир унта хутшӑнмалли майсене кӑтартрӑмӑр: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
-
-Open Products Facts-а пулӑшас тесен, эсир ҫак вариантсене шута илме пултаратӑр, вӗсенчен кашниех тӗрлӗ йышши взноссем валли хатӗрленӗ:
-
--
-
-**Уҫӑ продуктсен ыркӑмӑллӑх/патшалӑх спонсорӗсем Фактсем**:
-Ырӑ кӑмӑллӑх тӳпи 20000 ытла категорире ҫаврашка даннӑйсен платформин, продуктсен хаклавӗн тата ҫаврашка решенисен агрегацийӗн курӑмне пурнӑҫлама питӗ кирлӗ, ку вӑл Уҫӑ продуктсен тӗп тӗллевӗ. Ҫак курӑмӑн нумай кирлӗ компоненчӗсене укҫа-тенкӗпе тивӗҫтермен-ха, сирӗн укҫа-тенкӗ пулӑшӑвӗ вара пысӑк витӗм кӳме пултарать. Сирӗн парнесем питӗ кирлӗ аталанӑва тата инфратытӑма укҫа-тенкӗпе тивӗҫтерме пулӑшаҫҫӗ. Укҫа-тенкӗпе пулӑшас тесен, contact@openfoodfacts.org адреспа ҫыхӑнма пултаратӑр
-
--
-
-**Уҫӑ продуктсен факчӗсен приложенийӗпе усӑ куракан даннӑйсен тӳписем**:
-Даннӑйсен тӳписем уҫӑ продуктсен факчӗсене масштаблама питӗ кирлӗ. Android-приложенипе усӑ курса ҫӗнӗ продукт ҫинчен информаци хушма, ӗлӗкхи ҫырусене ҫӗнетме е даннӑйсене тӗрӗслеме усӑ курса эсир даннӑйсен базине сарма тата лайӑхлатма пулӑшатӑр. Ҫак пӗрлехи ӗҫ пуриншӗн те ҫирӗп те шанчӑклӑ ресурс тума пулӑшать.
-
--
-
-**Уҫӑ продуктсен факчӗсене техника енчен пулӑшакансем**:
-Енчен те эсир программӑламалли, даннӑйсене тишкермелли е пользователь опытне хатӗрлемелли енӗпе техника ӑсталӑхӗ пур пулсан, сирӗн ӑсталӑхӑр уҫӑ продуктсен факчӗсене чылай усӑ кӳме пултарать. Приложени хатӗрлес ӗҫе хутшӑнни, унӑн ӗҫне лайӑхлатни е пользователь интерфейсӗсене лайӑхлатни — паха тӳпе. Ҫак ӗҫе хутшӑнас тесен #openproductsfacts Slack канала кӗрӗр, унта Open Products Facts сообществи ӗҫлет. Ҫак Slack ӗҫ вырӑнӗн ссылкине эсир Open Food Facts сайтӗнче тупма пултаратӑр.
-
-Кашни тӗрлӗ тӳпе Open Products Facts ӳсӗмӗпе ӑнӑҫлӑхӗшӗн пӗлтерӗшлӗ, вӑл пурин валли те ҫирӗпрех те информациллӗрех платформа тума пулӑшать.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Ӑҫта тупма пулать Open Products Facts API ?
+## I would like to support Open Products Facts. What can I do ?
 
-Open Products Facts API 98% Open Food Facts API пекех, ҫавӑнпа та эсир Open Food Facts API документацийӗпе усӑ куратӑр пулсан, Open Products Facts API ҫинчен питӗ уҫҫӑн курмалла. Эпир ҫавӑн пекех сирӗн приложенире универсаллӑ сканер пурнӑҫлама май паракан ятарлӑ вӗрентӳ ҫырнӑ.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
+
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
