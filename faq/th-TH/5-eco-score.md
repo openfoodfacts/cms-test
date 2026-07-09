@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} คะแนนด้านสิ่งแวดล้อม"
-description: "5 คำถาม"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: ผู้ใช้พลัส
+icon: user-plus
 ---
 
-{{< fa "ผู้ใช้พลัส" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## วิธีการคำนวณคะแนน Eco-Score คืออะไร?
+## What is the Eco-Score methodology?
 
-คะแนน Eco-Score มาจากการคำนวณการวิเคราะห์วัฏจักรชีวิตที่จัดทำโดย ADEME (หน่วยงานด้านการเปลี่ยนผ่านทางนิเวศวิทยา) และ INRAE (สถาบันวิจัยทางการเกษตรแห่งชาติ) มีการคำนวณและเชื่อมโยงส่วนประกอบประมาณสิบห้าส่วนเพื่อสร้างคะแนน PEF
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-คะแนน PEF นี้จะถูกบวกเพิ่มและหักลด (วิธีการผลิต แหล่งกำเนิด)
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ส่วนผสม สัตว์ใกล้สูญพันธุ์ บรรจุภัณฑ์) เพื่อใช้ในการคำนวณคะแนนด้านสิ่งแวดล้อม (Eco-Score)
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-สำหรับข้อมูลเพิ่มเติม โปรดดูหน้าสรุป [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) บน Open Food Facts รวมถึงบนเว็บไซต์ของกลุ่ม Eco-Score ด้วย (การนำเสนอ Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## ข้อมูลประเภทใดบ้างที่ต้องระบุเพื่อให้สามารถคำนวณคะแนนด้านสิ่งแวดล้อมได้อย่างแม่นยำที่สุด?
-
-เพื่อให้การคำนวณคะแนนด้านสิ่งแวดล้อม (Eco-Score) ถูกต้องแม่นยำ จำเป็นต้องระบุเปอร์เซ็นต์ของส่วนผสมแต่ละชนิดและแหล่งที่มาของส่วนผสมนั้นด้วย
-
-หากข้อมูลนี้ยังไม่ได้ระบุไว้ในรายการส่วนผสม คุณสามารถเพิ่มคอลัมน์เพื่อระบุข้อมูลดังกล่าวได้ โดยใช้รูปแบบดังต่อไปนี้:
-
-แป้งสาลี 16% (ฝรั่งเศส)
-
-ช็อกโกแลต 8% (ไอวอรี่โคสต์, เอกวาดอร์)
-
-นอกจากนี้เรายังต้องการส่วนประกอบของบรรจุภัณฑ์ในรูปแบบดังต่อไปนี้: ฟิล์มพลาสติกสำหรับทิ้ง 1 ชิ้น, กล่องกระดาษแข็ง FSC สำหรับรีไซเคิล 1 กล่อง, ขวดพลาสติก PET ใสขนาด 1.5 ลิตรสำหรับรีไซเคิล 6 ขวด, ฝาพลาสติกสีทึบ 6 ชิ้น, กระป๋องอลูมิเนียมขนาด 33 cl จำนวน 12 ใบ
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## ค่าของตัวชี้วัดทั้ง 15 ตัวนั้นนำมารวมกันได้อย่างไร?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**เพื่อให้เข้าใจระบบ PEF ได้ดียิ่งขึ้น คุณสามารถอ่านคำอธิบายเกี่ยวกับคะแนน PEF ได้ที่เว็บไซต์วิธีการ Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## แง่มุมท้องถิ่นนั้นหมายถึงสถานที่ผลิตหรือแหล่งกำเนิดของวัตถุดิบหรือไม่?
+## How are the values ​​of the 15 indicators combined?
 
-**แง่มุมท้องถิ่นเกี่ยวข้องกับแหล่งที่มาของวัตถุดิบ** ด้วยเหตุนี้จึงเป็นเรื่องสำคัญที่จะต้องระบุเปอร์เซ็นต์และแหล่งที่มาของส่วนผสมเหล่านั้นในรายการส่วนประกอบของผลิตภัณฑ์ หรือในช่องที่ระบุแหล่งที่มาของส่วนผสม\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## จะระบุแหล่งที่มาของส่วนผสมสำหรับคำนวณคะแนนด้านสิ่งแวดล้อมได้อย่างไร?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-หากคุณต้องการแบ่งปันข้อมูลเกี่ยวกับแหล่งที่มาของวัตถุดิบที่ใช้ในการผลิตเอกสารของคุณ โปรดระบุข้อมูลเหล่านั้นในรายการส่วนผสม
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
