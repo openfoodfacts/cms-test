@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Ruruykunata kamachiy"
-description: "16 tapuykuna"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
-order: 21. 21
+order: 21
 category-level: 1
-icon: tawa kuchu
+icon: box
 ---
 
-{{< fa "tawa kuchu" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## ¿Imataq garantizan Hechos de Alimentos Abiertos nisqapi datospa allin kayninta?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Datokunapa allin kayninta sapa kuti allinchanapaqqa 4 pilarkunapim hapipakunchik:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Aylluqa sapa kutinmi datoskunata fotokunatapas yapashan, hinallataqmi cheqaq patrulla revisorkunamanta.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Lógica kamachiykunata churarqayku ruru raphikunapi pantaykunata riqsinaykupaq.Ejemplopaq: sichus chay ingredientekunaq llasayninpa huñusqan aswan hatun kanman llapan llasayninmanta chayqa, anomalía nisqa kan. Ñuqaykuqa yaqa 50 hukkuna calidad verificacionkunayuqmi kayku.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Maquina Yachayman gracias, yaykuy pantay riesgota limitayku. Tecnologíaykuqa yanapakuqkunap fotonkunamanta qillqa willayta hurquyta atichiwanchik
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Santé Publique France yanapayninwanmi huk portal nisqa ruwarqayku, chaywanmi ruruchiqkuna achka ruwasqa willakuyninkuta churanankupaq, chaynapi llaqtapa yanapakuyninkunata allichanankupaq/tukunankupaq.
-
----
-
-## ¿Imaynatataq rurukunata yapasunman?
-
-Plataformaykuman rurukuna yapanaykipaq, ñawpaqta imayna puriyta munanki chayta tanteanayki tiyan. 4 akllanakuna kan:
-
-- **Makiwan**: sichus pisi yupay rurukunayuq kanki, atikunraqmi sapa ruru raphi makiwan ruwayta Pro Plataforma kaqpi.
-
-- **Huk hoja de cálculo apamuyniqta**: hoja de cálculo [plantilla](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) Open Food Facts kaqwan qusqa, utaq chiqamanta huk hurquyta sistema IT kaqmanta Pro plataformaman apamuyta atikunki.
-
-- **Catálogos de productos nisqakunaq t'inkiqninkunawan**. Sichus EQUADIS, AGENA3000 utaq BAYARD kaqpi cliente kanki, 1 ñit’iypi Open Food Facts nisqapi datokunata churayta atinki. Sichus huk PIM (Producto Willay kamachiy) kaqwan llamk'achkanki, ama hina kaspa ñuqaykuwan rimanakuy : producers@openfoodfacts.org
-
-- **Huk ruwasqa conexión nisqawan** empresaykiwan Open Food Facts nisqawan. Sichus 1000 aswan rurukuna carteraykipi yupanki, rimayta atiykuman huk sapanchasqa tinkiq ruwanapaq oportunidadmanta willayta t'inkiyta mana sasachakuspa.
-
-Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## ¿Kanchu huk ñan rurukuna musuqyachiykunata llapa runap willay tantanaman kikillanmanta ruwanapaq?
+## How to add products?
 
-Arí, sichus EQUADIS, AGENA3000 utaq BAYARD rurukuna catálogos kaqwan llamk'achkanki, chaymanta allin ruwayta churanki, hawaman apamuyqa kikillanmanta ruwakunman chaymanta chayrayku rurumanta willayta Kichasqa Mikhuy Chiqakunapi musuqyachiy.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ¿Achka yapasqa rurukuna pisillachu?
+## Is there a way to automate product updates to the public database?
 
-Mana limite kanchu, mayk'a rurukuna munasqaykita plataformaykupi churayta atikunki.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Sichus huk ruruta manaña qhatupi kaqta hurquyta munanki, ruru raphiykita llamk'achkaspa "kay ruru manaña ranqhasqachu" nisqa qututa qhawanayki tiyan.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Sichus achka rurukuna hurquyta munanki, yuyaychaykiku [ruraqpa yanapakuynin](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), p. 18. 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Hinallataqmi producers@openfoodfacts.org nisqawanpas rimanakuyta atinki ima tapukuyniykipas kaptinqa.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Ruru waqaychasqa kaptin, manaña Kichasqa Mikhuy Chiqakunapi rikukunqachu.Ichaqa base de datosniykupi qhipakunqa chaymanta pachawan rantisqa rurukunamanta willayta waqaychayta atiykuman.
-
----
-
-## ¿Empresamanta willakuyqa aswan allinchu kanman plataformapi kaq willakuykunamanta?
-
-Mayk'aq huk ruruchiq huknin rurunkunata internetpi churan ruwaqpa yupayninwan chaymanta huk ruru raphi kaptinña, kayqa hunt'anqa.
-
-Ruwaqpa churasqan willakuyqa ñawpaqpipunim kanqa, sapallanmi willakuy huntasqa kaptin rurunkunata tikrayta atinqa.
-
-Sichus plataforma kaqnintakama apachisqa willaykuna t'aqasqa kanku, ayllumanta yapasqa willakuy paquete kaqmanta hunt'achinman.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## ¿Ima formatopitaq datosniykunata apachinay?
+## Does company information take precedence over information already present on the platform?
 
-Huk [plantilla](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) Kichasqa Mikhuy Chiqapkuna qusqa.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Ichaqa, mayqin hoja de cálculo formatopas (xlsx, csv) plataformapi apamunapaq kanqa.  
-Algoritmoyku ruwasqa kachkan kikinmanta tupachiypaq atributokuna archivoykimanta, chaymanta chaywan Kichasqa Mikhuy Chiqakuna kaqpi. Cuidakuy sapa kuti iskay kutita tupachiy etapa kaqpi qhaway imaraykuchus wakinninkuta makiwan allichayta necesitankiman.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Sichus willakuyniyki achka yupay raphikunapura t'aqasqa kachkan, qatiqmanta hawaman apamuyta atikunki - tupachiyta ruwayta qhaway sichus formato tikrakun.
-
-Huk Excel willañiqitapas EQUADIS utaq AGENA3000 hawamanta apamuyta atikunki, sichus willakuy manaraq willay sistemaykipi kachkanchu. Kayhinakunapi, ama qunqaychu huk hawaman apachiyta mañayta llapa runapaq willay tantanaman interfazmanta.
-
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## ¿Mayqin catálogos de productos nisqawantaq hukllachasqa kanki?
+## In what format should I send my data?
 
-Kunanqa ruwaqkuna rurunkupa willayta chaymanta fotonkuta chiqa pachapi apachiyta atinku **Equadis,** **AGENA3000 chaymanta BAYARD consulting** kaqmanta Open Food Facts kaqman.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Chiqamanta, reformulación yuyaychaykunamanta chanta tukuy plataformap ruwayninkunamanta ima, beneficiakunki.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Blog qillqasqayku](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) sut'inchan imakuna qatipanapaq sichus EQUADIS rantiq kanki.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Sichus huk AGENA3000 rantiq kanki (Producto A3 PIM INDUSTRIA), chaylla akllanayki tiyan chay chaskiq "Kichasqa Mikhuy Chiqakuna" mayk'aqchus ruru raphiykikunata apachinki. [Aswan willakuy kay blog qillqasqapi](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Sichus huk rurukuna willay catálogo kaqmanta rantiq kanki (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, wakkuna) ama hina kaspa willawayku kaypi [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ¿Imaynatataq mana código de barras nisqayuq rurukunata yapasunman plataforma Pro nisqawan?
+## With which product catalogs are you integrated?
 
-Mana código de barrasniyuq rurukunapaq, sitiopi utaq ruwaqpa plataformanpi, huk "Producto mana código de barrasniyuq" ñit'ina paña columnapi kachkan chaymanta yapayta atikunki. Chaymantaqa kikinmantam huk riqsichiq paqarichimun.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Proyectos específicos nisqakunata ruwarqayku cosméticos nisqapaq, uywa mikhuypaq, hinallataq huk rurukunapaqpas:Kichasqa Sumaq kaymanta Chiqakuna,Kichasqa Uywa Mikhuy Chiqakuna hinallataqKichasqa Rurukuna Chiqap kaqmanta.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Empresaymanta rurumanta willakuykunaqa Open Food Facts nisqapi tarikun. ¿Atikunmanchu controlta chay cuenta productor asociada nisqamanta?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Arí, chaynapunim! T'inkisqa ruruchiq yupayta kamachiyta hap'iyta atikunki huk Kichasqa Mikhuy Chiqakuna yupayta ruwaspa negocio direccionniykiwan. Inscribikuspaykiqa, formulariopi kaq organizacionpa sutinta rimay, chaynapi tupaqnin espacio productorman yaykuyta atispayki.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Huk pisi validacion ruwaymi necesario kanqa cheqaqtapuni ruruchiq kasqaykita qhawanaykipaq.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Willayta hunt’ayta atikunki, siq’ikunata yapayta atikunki, Nutri-Score allinchaypaq kikillanmanta yuyaychaykunata tariyta atikunki, chaymanta aswan achkata. Tukuy kayqa, chiqamanta, tukuyninpi mana qullqiyuq. Huk kimsa kaqmanta ruru willay kamachiy sistemata tinkiyta atikunki kayhina EQUADIS , AGENA3000 chaymanta Bayard consultoría.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## ¿Hayk'a pachatataq ruwan ruwaqpa willayninkuna wak app kaqpi musuqchasqa kananpaq Open Food Facts willaypa tiyapuynin kaqmanta llamk'achispa?
-
-Chayqa apps nisqamanta dependen. Pikunachus APIykuta llamk'achinku chaykunapaq, mayqinchus aswan achkha kanku, chaylla.  
-Pikunachus sapa p'unchaw hawa llaqtakunaman apachisqayku llamk'achinku chaykunapaq, D+1 kaqmi chayta musuqyachiptinku.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ¿Huk ruru registromanta willayta apamuyqa hunt'achinchu icha kunan kaq ruru registrotachu qillqan?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Código de barras kaqwan rurukuna riqsichinaykupaq llamk'achiyku, sichus huk registrota kikin código barras kaqwan huk kunan kaq registro kaqwan apamunki, willakuy hukllachasqa kanqa.
-
-Lista de ingredientes, valores nutricionales nisqa hina willakuykunapaq (huk allin valorlla atikuq), plataforma productor nisqawan kachasqa willakuykunaqa kunan kaq willakuykunatam qillqanqa.
-
-Etiquetakuna/categoriakuna/markakuna hina willaykunapaq (achka chiqan chanikuna atikun), willakuyqa hukllachasqa kachkan. Sichus willaykuna pantasqa kanku llapa runapaq plataforma kaqpi, ruru raphita llapa runapaq plataformapi tikrayta atikunki pantasqa chanikuna hurqunapaq.
-
-→ Aswan sut'inchaykunapaq, mink'aykiku [guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqayku uraykachinaykipaq chaymanta/utaq [video yachachiyniyku](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## ¿Ima importantechu ingredientekuna ordenpi churasqa kasqan?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Ingredientekunaq ordenninmi importante: chaymi rikuchin ordenta cantidadman hina.
-Aswan allinqa imakuna hunt’achinapaqqa, embalajepi qelqasqa kaqtapuni qatipaymi. Chayraykun ancha importantepas chay ingredientekunaq fotonkuna imprimisqa kananpaq.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ¿Atiymanchu AGENA3000 nisqawanpas imaymanakunata apachiyta?
+## Is the order of ingredients important?
 
-Siqikunata apachiyta atikunki ichaqa ruwaypiqa hatun siq'illa kikillanmanta akllasqa kanqa, wak siq'ikuna apachisqa kanqa, ichaqa mana kuchusqa / akllasqachu ingredientekuna, mikhuy hukkunapas.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## ¿Imaynatataq Pro plataformapa yachachiyninkunaman yaykuyta atikunman?
+## Can I send images via AGENA3000 too?
 
-Pro plataformapa yachachiyninkunaman yaykuyta atikunki:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Kikin pro plataforma nisqawan: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Chiqan [YouTube] nisqapi(https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ [Guía de usuario](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) nisqaykutapas uraykachiyta atinkim.
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
