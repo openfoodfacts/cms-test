@@ -1,23 +1,23 @@
 ---
-title: "Pyetje rreth një produkti"
-description: "1 pyetje"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: shportë blerjesh
+icon: shopping-basket
 ---
 
-{{< fa "shportë blerjesh" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Kam një pyetje/pretendim në lidhje me një produkt
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) është një faqe bashkëpunuese e krijuar dhe e mbështetur nga konsumatorët për të qenë në gjendje të deshifrojë etiketat dhe të krahasojë produktet.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Për më shumë informacion në lidhje me një produkt ose një pretendim, shkruani prodhuesit. Ne nuk kemi informacione kontakti për prodhuesit, por ato më shpesh janë në paketim.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Nëse doni të na ndihmoni t'u sjellim më shumë transparencë konsumatorëve si ju ose ne, mund të përdorni aplikacionin tonë për iPhone ose Android për të shtuar produkte: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Dhe për të diskutuar rreth projektit, mund të bashkoheni me grupin e kontribuesve në Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) ose të bisedoni me kontribuesit e tjerë në Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
