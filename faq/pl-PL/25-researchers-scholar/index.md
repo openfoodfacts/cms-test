@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduate-cap size=2x >}} Badacze/Naukowcy"
-description: "1 podkategoria"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: czapka absolwenta
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: siatka
+  type: grid
   grid-columns: 4
-  sort: "zamówienie"
-  fields: [ tytuł, opis ]
+  sort: "order"
+  fields: [ title, opis ]
   page-size: 100
 ---
 
-{{< fa "czapka absolwenta" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
