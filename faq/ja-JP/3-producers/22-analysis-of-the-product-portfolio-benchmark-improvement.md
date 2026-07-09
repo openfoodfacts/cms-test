@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} 製品ポートフォリオの分析 (ベンチマーク、改善など)"
-description: "1件の質問"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: チャートバー
+icon: chart-bar
 ---
 
-{{< fa "チャートバー" size=3倍 >}}
+{{< fa "chart-bar" size=3x >}}
 
-## 製品の Nutri-Score を向上させるための配合変更の推奨事項にアクセスするにはどうすればよいでしょうか?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-プロデューサープラットフォームのホームページにアクセスしている場合:
+When you are on the home page of the Producers Platform:
 
-1. ページ上部の「→改善の余地がある製品の数」のリンクをクリックしてください。
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. 当社のシステムが検出したすべての機会を参考にして、製品を改善できます。
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. 機会の種類をクリックすると、改善の対象となる製品のリストが表示されます。
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ 詳細については、[ユーザーガイド](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)をダウンロードするか、[ビデオチュートリアル](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)を参照してください:-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
