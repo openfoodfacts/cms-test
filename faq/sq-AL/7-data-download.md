@@ -1,21 +1,21 @@
 ---
-title: "Shkarkim i të dhënave {{< fa cloud-download size=2x >}}"
-description: "1 pyetje"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: shkarkim në cloud
+icon: cloud-download
 ---
 
-{{< fa "shkarkim në cloud" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Ku mund të gjej të dhënat për një vend specifik?
+## Where to get the data for a specific country?
 
-Aktualisht, nuk ka eksporte të dedikuara për vende specifike.
+Currently, there are no exports dedicated to specific countries.
 
-Ka shumë mënyra për të përdorur eksportet tona të ndryshme të kombinuara me mjete të ndryshme për të zgjedhur të dhënat që lidhen me një vend specifik.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Mund të hidhni një sy në [disa nga këto teknika në wiki-n tonë](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
