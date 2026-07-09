@@ -1,23 +1,23 @@
 ---
-title: "{{< fa розмір кошика для покупок=2x >}} Запитання щодо продукту"
-description: "1 питання"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: кошик для покупок
+icon: shopping-basket
 ---
 
-{{< fa "кошик для покупок" size="3 рази" >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## У мене є питання / претензія щодо продукту
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) – це спільний сайт, створений та оновлений споживачами, щоб мати змогу розшифровувати етикетки та порівнювати продукти.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Щоб отримати додаткову інформацію про продукт або претензію, напишіть виробнику. У нас немає контактної інформації виробників, але найчастіше вона вказана на упаковці.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Якщо ви хочете допомогти нам зробити нашу діяльність більш прозорою для таких споживачів, як ви чи ми, ви можете скористатися нашим додатком для iPhone або Android, щоб додавати продукти: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-А щоб обговорити проєкт, ви можете приєднатися до групи учасників у Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) або поспілкуватися з іншими учасниками у Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
