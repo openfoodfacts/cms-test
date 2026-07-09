@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Ukupakisha"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: ityhubhu
+icon: cube
 ---
 
-{{< fa "ityhubhu" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ndingayongeza njani idatha yam yokupakisha kwi-Open Food Facts?
+## How can I add my packaging data to Open Food Facts?
 
-Njengomvelisi, eyona ndlela isebenzayo yokongeza idatha yokupakisha kwiimveliso zakho kukugcwalisa le [spreadsheet ye-excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ulwazi olufunekayo, oluvela kwikholamu ethi "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Kwinxalenye nganye yokupakisha, kuya kufuneka ufake:
+For each packaging component, you will need to enter:
 
-- Inani leeyunithi (umz.: **4** iimbiza zeyogathi)
+- The number of units (ex: **4** pots of yogurts)
 
-- Imilo (umz.: **imbiza, isiciko, ibhokisi, njl.njl.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Izinto ezisetyenzisiweyo (umz.: **PET, iphepha, iglasi, njl.njl.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Umyalelo wokusebenzisa kwakhona (umz.: **ukuphinda usebenzise, ukulahla, njl.njl.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Ubunzima beyunithi enye engenanto (kwi-gr)
+- The weight of one empty unit (in gr)
 
-- Ubungakanani obupheleleyo bemveliso equlethwe ngeyunithi nganye
+- The net quantity of product contained per unit
 
-Esi spreadsheet singangeniswa kwiqonga lethu elizinikele kwiingcali.
-
----
-
-## Yintoni iprojekthi yokuPakisha ukutya ejongene nokujongana nayo?
-
-Iprojekthi ethi "Ukuhlangabezana Nokupakishwa Kokutya" iquka ukuqokelela ulwazi oluneenkcukacha malunga nokupakishwa kweemveliso ezisetyenziswa kakhulu (imilo, izinto, imiyalelo yokuhlela, ubunzima, umthamo).
-
-Ngokusekelwe kwindlela yesayensi ebandakanya abantu abaninzi, iya kuxhomekeka kwiinkampani ezivumayo ukwabelana ngedatha yazo yokupakisha kunye nokudlala umdlalo wokungafihli nto, kunye nakubemi abavumela ukuqokelelwa kolwazi ngeemveliso. Olu lwazi luza kusetyenziswa kwakhona simahla ("idatha evulekileyo").
-
-**Ukuze ufumane ulwazi oluthe kratya:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Nokuba sele iphelile iprojekthi yeTackling Food Packaging, ndingakwazi ukongeza idatha yam yokupakisha?
+## What is the Tackling Food Packaging project?
 
-Kwanasemva kokuphela kweprojekthi, kunokwenzeka ukongeza idatha yokupakisha njengoko amasimi okupakisha aya kuhlala kwiwebhusayithi yethu.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
