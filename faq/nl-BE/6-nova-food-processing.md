@@ -1,7 +1,7 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / Voedselverwerking"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
 description: "1 vraag"
-lang: en-gb
+lang: nl-nl
 order: 6
 category-level: 0
 icon: fles
