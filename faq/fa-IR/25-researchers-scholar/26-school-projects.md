@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} پروژه‌های مدرسه"
-description: "۲ سوال"
-lang: انگلیسی-انگلیسی
-order: ۲۶
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
+order: 26
 category-level: 1
-icon: فایل-o
+icon: file-o
 ---
 
-{{< fa "فایل-o" size="۳ برابر" >}}
+{{< fa "file-o" size=3x >}}
 
-## من یک پروژه مدرسه دارم، می‌خواهم از داده‌های Open Food Facts استفاده کنم، آیا می‌توانم این کار را انجام دهم؟
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-«حقایق غذای آزاد» یک پایگاه داده باز و یک پروژه باز است که تحت مجوز ODbL فعالیت می‌کند، بنابراین تا زمانی که با الزامات مجوز ODbL موافق باشید، می‌توانید از داده‌های ما برای پروژه‌های خود استفاده مجدد کنید :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## چگونه می‌توانم برای پروژه‌هایم به داده‌ها دسترسی داشته باشم/آنها را جمع‌آوری کنم؟
+## How can I access/collect data for my projects ?
 
-در صفحه اصلی Open Food Facts، در گوشه سمت چپ بالای صفحه، یک منوی پیمایش وجود دارد. در پایین آن، گزینه «جستجوی پیشرفته» را پیدا خواهید کرد که می‌توانید روی آن کلیک کنید. سپس این به شما بستگی دارد که تعیین کنید کدام معیارها بیشترین ارتباط را با پروژه(های) شما دارند. پس از انتخاب، می‌توانید نتایج به‌دست‌آمده را با پیمایش به پایین صفحه و کلیک بر روی «دانلود نتایج» دانلود کنید.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
