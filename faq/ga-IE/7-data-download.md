@@ -1,21 +1,21 @@
 ---
-title: "Íoslódáil sonraí {{< méid íoslódáil scamall fa=2x >}}"
-description: "1 cheist"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: íoslódáil scamall
+icon: cloud-download
 ---
 
-{{< fa "íoslódáil scamall" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Cá háit le fáil na sonraí do thír ar leith?
+## Where to get the data for a specific country?
 
-Faoi láthair, níl aon onnmhairí tiomnaithe do thíortha sonracha.
+Currently, there are no exports dedicated to specific countries.
 
-Tá go leor bealaí ann chun ár n-onnmhairí éagsúla a úsáid i dteannta le huirlisí éagsúla chun na sonraí a bhaineann le tír ar leith a roghnú.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Is féidir leat breathnú ar [chuid de na teicnící seo ar ár vicí](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
