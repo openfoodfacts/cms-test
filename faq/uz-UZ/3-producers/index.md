@@ -1,21 +1,21 @@
 ---
-title: "{{< fa sanoat hajmi=2x >}} Ishlab chiqaruvchilar"
-description: "6 ta kichik kategoriya"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: sanoat
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: panjara
+  type: grid
   grid-columns: 4
-  sort: "buyurtma"
-  fields: [ sarlavha, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "sanoat" size=3x >}}
+{{< fa "industry" size=3x >}}
 
