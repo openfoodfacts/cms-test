@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - Xitsonga"
-lang: "ts-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/xikombo.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: phatheni
+  type: grid
   grid-columns: 4
-  sort: "xileriso"
-  fields: [ xirhangi, description ]
-  page-size: 100. 100
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
