@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Tātaritanga o te kohinga hua (paerewa, whakapainga...)"
-description: "1 pātai"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: pae tūtohi
+icon: chart-bar
 ---
 
-{{< fa "pae tūtohi" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Me pēhea te uru atu ki te taunakitanga whakahou hei whakapai ake i te Nutri-Score o aku hua?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Ina kei te whārangi kāinga koe o te Pūhara Kaihanga:
+When you are on the home page of the Producers Platform:
 
-1. pāwhiritia te hononga "→ Te maha o ngā hua me ngā whai wāhitanga whakapai ake" kei te tihi o te whārangi.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Ka taea e koe te tirotiro i ngā whai wāhitanga katoa kua kitea e tā mātou pūnaha hei whakapai ake i ō hua
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Mā te pāwhiri i tētahi momo whai wāhitanga ka arahina koe ki te rārangi o ngā hua hei whakapai ake.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Mō ētahi atu kōrero, ka tono atu mātou kia tikiake koe i tā mātou [aratohu kaiwhakamahi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) me/ranei tirohia ā mātou [akoranga ataata](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
