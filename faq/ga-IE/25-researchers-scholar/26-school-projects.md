@@ -1,23 +1,23 @@
 ---
-title: "Tionscadail scoile"
-description: "2 cheist"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: comhad-o
+icon: file-o
 ---
 
-{{< fa "comhad-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Tá tionscadal scoile le déanamh agam, ba mhaith liom sonraí Open Food Facts a úsáid, an féidir liom é sin a dhéanamh?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Is bunachar sonraí oscailte é Open Food Facts, tionscadal oscailte atá ag feidhmiú faoi cheadúnas ODbL, dá bhrí sin, fad is a aontaíonn tú le ceanglais an cheadúnais ODbL, tá fáilte romhat ár sonraí a athúsáid do do thionscadail :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Conas is féidir liom rochtain a fháil ar shonraí/sonraí a bhailiú do mo thionscadail?
+## How can I access/collect data for my projects ?
 
-Ar phríomhleathanach Open Food Facts, sa chúinne uachtarach ar chlé den scáileán, tá roghchlár scrollaithe ann. Ag bun an leathanaigh, gheobhaidh tú an rogha “cuardach ardleibhéil”, ar féidir leat cliceáil uirthi. Is fútsa atá sé ansin a chinneadh cé na critéir is ábhartha do do thionscadal(í). Nuair a bheidh tú roghnaithe, beidh tú in ann na torthaí a fuarthas a íoslódáil trí scrollú síos ag bun an leathanaigh agus cliceáil ar “Íoslódáil torthaí”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
