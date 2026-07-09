@@ -1,23 +1,23 @@
 ---
-title: "{{< fa taamasiyɛn hakɛ=2x >}} Labeliw"
-description: "2 ɲininkaliw"
-lang: bamanankan-gb
-order: 23. Ɲɛjirali dɔw
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: gafe taamasiyɛn
+icon: bookmark
 ---
 
-{{< fa "gafe taamasiyɛn" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## I n’a fɔ label, yala a nafa ka bon ka jatebɔsɛbɛn dɔ da wa ?
+## As a label, is it important to create an account ?
 
-I n’a fɔ labeli, ikomi i tɛ fɛn dilannenw dilabaga tilennen ye, i mago t’a la ka fɛn dilannikɛla ka jatebɔsɛbɛn dɔ da.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ne ye labeli ye, ne bɛ se ka n sen don poroze la cogo di?
+## I am a label, how can I participate in the project?
 
-I n’a fɔ labeli min ka kan ka kɛ, o ye ka anw sɔrɔ **(producers@openfoodfacts.org)** ani ka fɛnw lisɛli ci an ma, i ka labeli jiralen bɛ minnu kan walasa an ka se k’u fara fɛnw kan minnu bɛ tali kɛ o la.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
