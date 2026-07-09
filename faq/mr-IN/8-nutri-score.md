@@ -1,31 +1,31 @@
 ---
-title: "{{< हृदयाचा ठोका आकार=२x >}} न्यूट्री-स्कोअर"
-description: "३ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: हृदयाचा ठोका
+icon: heartbeat
 ---
 
-{{< fa "हृदयाचा ठोका" size=३x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## माझ्या उत्पादनांचा न्यूट्री-स्कोअर बरोबर नसल्यास मी काय करावे?
+## What should I do if the Nutri-Score of my products is not correct?
 
-तुमच्या न्यूट्री-स्कोअरमध्ये समस्या असल्यास, तुमच्या उत्पादन पत्रकाच्या "सुधारित करा" टॅबवर तुमची माहिती बरोबर आहे का ते तपासा. जर कोणतीही माहिती गहाळ किंवा चुकीची असेल, तर **producers@openfoodfacts.org** वर आमच्याशी संपर्क साधण्यास अजिबात संकोच करू नका.
-
----
-
-## न्यूट्री-स्कोअर शक्य तितक्या अचूकपणे मोजता यावा म्हणून मी कोणत्या प्रकारची माहिती द्यावी?
-
-न्यूट्री-स्कोअरची गणना तुमच्या उत्पादनाच्या पोषण सारणीनुसार केली जाईल.
-
-तुमच्या टेबलमध्ये फळे, भाज्या आणि काजू यांचे टक्केवारी समाविष्ट करायला विसरू नका, जेणेकरून गणना केलेला न्यूट्री-स्कोअर चुकीचा नसेल.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## न्यूट्री-स्कोअर कुठून येतो?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-न्यूट्री-स्कोअरचे व्यवस्थापन Santé Publique France द्वारे केले जाते. ते पौष्टिक मूल्यांच्या सारणीचा सारांश देते जेणेकरून प्रत्येकाला ते समजेल. प्रत्येकासाठी स्पष्ट आणि समजण्यासारखी पौष्टिक माहिती उपलब्ध करून देणे हे उद्दिष्ट आहे.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
