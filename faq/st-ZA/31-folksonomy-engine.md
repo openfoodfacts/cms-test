@@ -1,17 +1,17 @@
 ---
-title: "{{< fa buka boholo=2x >}} Enjene ea Folksonomy"
-description: "Potso e le 'ngoe"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: buka
+icon: book
 ---
 
-{{< fa "buka" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Enjene ea Folksonomy ke eng?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine ke sistimi e dumellang basebedisi ho eketsa di-tag tse ikgethileng, kapa thepa, ho dihlahiswa tsa dijo ho Open Food Facts, e leng database e kgolo ka ho fetisisa lefatsheng ya dijo tse bulehileng. Sena se dumella batho ho arola le ho hlalosa dijo ka ditsela tse ntjha, ho feta dibopeho tse seng di ntse di hlalositswe esale pele.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
