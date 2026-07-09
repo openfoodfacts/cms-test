@@ -1,15 +1,15 @@
 ---
-title: "{{< stærð flöskunnar = 2x >}} NOVA / Matvælavinnsla"
-description: "1 spurning"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: flösku
+icon: flask
 ---
 
-{{< fa "flösku" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## Hvað er NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
