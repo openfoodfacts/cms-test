@@ -1,31 +1,31 @@
 ---
 title: "{{< fa heartbeat size=2x >}} Nutri-Score"
-description: "Àwọn ìbéèrè mẹ́ta"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: ìlù ọkàn
+icon: heartbeat
 ---
 
-{{< fa "ìlù ọkàn" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Kí ni mo lè ṣe tí Nutri-Score àwọn ọjà mi kò bá tọ́?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Tí ìṣòro bá dé bá ọ pẹ̀lú Nutri-Score rẹ, ṣàyẹ̀wò pé ìwífún rẹ tọ́ lórí tábìlì “àtúnṣe” ti ìwé ọjà rẹ. Tí ìwífún kan bá sọnù tàbí tí kò tọ́, má ṣe ṣiyèméjì láti kàn sí wa ní**producers@openfoodfacts.org**
-
----
-
-## Irú ìwífún wo ni mo gbọ́dọ̀ fún ọ kí a lè ṣírò Nutri-Score dáadáa bí ó ti ṣeé ṣe tó?
-
-A ó ṣe ìṣirò Nutri-Score pẹ̀lú tábìlì oúnjẹ ọjà rẹ.
-
-Má gbàgbé láti fi ìpín ogorun èso, ewébẹ̀ àti èso sí orí tábìlì rẹ, kí Nutri-Score tí a ṣírò má baà jẹ́ àṣìṣe.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Nibo ni Nutri-Score ti wa?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score jẹ iṣakoso nipasẹ Santé Publique France. Ó ṣe àkópọ̀ àtẹ àwọn iye oúnjẹ kí gbogbo ènìyàn lè lóye rẹ̀. Ète náà ni láti fún gbogbo ènìyàn ní àǹfààní láti rí ìwífún nípa oúnjẹ tó ṣe kedere àti tó yéye.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
