@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Բաց սննդի մասին փաստեր"
-description: "4 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: տեղեկատվական շրջանակ
+icon: info-circle
 ---
 
-{{< fa "տեղեկատվական շրջանակ" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Ի՞նչ տեսակի տեղեկատվություն պետք է կիսվի։
+## What type of information should be shared?
 
-Ձեր ունեցած ցանկացած տեղեկատվություն ողջունելի է՝ սկսած սննդային արժեքից մինչև փաթեթավորման մասին տեղեկատվություն։
+Any information you have is welcome, from nutritional information to packaging information.
 
-Սա հնարավորություն է տալիս ստեղծել ամբողջական ֆայլ, ճշգրտությամբ հաշվարկել բոլոր միավորները և, ընդհանուր առմամբ, ապահովել սպառողների կողմից գնահատվող թափանցիկություն։
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Այնուամենայնիվ, խորհուրդ ենք տալիս առաջնահերթություն տալ հետևյալ դաշտերին՝
+However we do recommend you prioritize the following fields:
 
-- Սննդային արժեքի մասին տեղեկատվություն
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Ապրանքի կատեգորիա (օրինակ՝ ըմպելիքներ, պանիր, մածուն և այլն)
-
-- Արտադրանքի անվանումը
-
-- Ալերգեններ
-
-- և բաղադրիչները, այս դաշտը պարտադիր չէ, բայց խորհուրդ է տրվում օպտիմալ օգտագործման և միավորների որոշման համար։
-
-→ Ավելի մանրամասն տեղեկությունների համար հրավիրում ենք ձեզ ներբեռնել մեր [օգտատիրոջ ուղեցույցը](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) և/կամ դիտել մեր [տեսանյութերը](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Կարո՞ղ եմ ներբեռնել Բաց Սննդի Փաստերի տվյալները։
+## Can I download Open Food Facts data?
 
-Դուք կարող եք ներբեռնել Open Food Facts-ում առկա բոլոր տվյալները։ Զգույշ եղեք, սա պահանջում է մեծ սկավառակի տարածք, հզոր համակարգիչ, եթե ցանկանում եք օգտագործել աղյուսակ, կամ R կամ Python լեզուների իմացություն այլ դեպքերում։
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Դուք կարող եք նաև ներբեռնել տվյալների ենթաբազմություն (օրինակ՝ ձեր ապրանքանիշը)՝ շնորհիվ ընդլայնված որոնման։
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Ավելի մանրամասն տեղեկությունների համար հրավիրում ենք ձեզ ներբեռնել մեր [օգտատիրոջ ուղեցույցը](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) և/կամ դիտել մեր [տեսանյութերը](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Pro հարթակին մուտք գործելը և տվյալների ներմուծումը անվճա՞ր է։
-
-Անկասկած, և դա կլինի հավերժ։Open Food Facts-ի կողմից մատուցվող բոլոր ծառայությունները անվճար են։  
-Մենք շատ ուրախ ենք, որ դուք որոշել եք ձեր արտադրանքի տվյալները ներդրում ունենալ սննդի թափանցիկության մեջ, և մենք շնորհակալ ենք դրա համար։
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ես կցանկանայի առաջարկել բարելավումներ մասնագիտական հարթակի համար, ինչպե՞ս կարող եմ դա անել։
+## Is access to the Pro platform and the import of data free?
 
-Շնորհակալություն սննդի թափանցիկությանը մասնակցելու ձեր պատրաստակամության համար։
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Կարծիք հայտնելու լավագույն միջոցը [այս ձևը](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) լրացնելն է։
+---
 
-Կարող եք նաև կապվել մեզ հետ՝ առաջարկություններ անելու համար՝ կամ [մեր ֆորումի](https://forum.openfoodfacts.org/) կամ [Slack](https://openfoodfacts.slack.com/ssb/redirect) միջոցով։
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Միացե՛ք մեր Slack-ին և մտե՛ք #producers ալիք՝ մեզ հետ կապվելու համար։
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
