@@ -1,17 +1,17 @@
 ---
 title: "{{< fa book size=2x >}} Folksonomy Engine"
-description: "1 klausimas"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: knyga
+icon: book
 ---
 
-{{< fa "knyga" size="3 kartus" >}}
+{{< fa "book" size=3x >}}
 
-## Kas yra Folksonomy variklis?
+## What is the Folksonomy Engine ?
 
-„Folksonomy Engine“ yra sistema, leidžianti vartotojams pridėti pasirinktines žymas arba savybes prie maisto produktų „Open Food Facts“ – didžiausioje pasaulyje atvirojo maisto duomenų bazėje. Tai leidžia žmonėms naujai kategorizuoti ir apibūdinti maistą, neapsiribojant jau esamomis iš anksto apibrėžtomis savybėmis.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
