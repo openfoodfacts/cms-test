@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - Bamanankan"
-lang: "bamanankan-gb"
+title: "FAQ - English"
+lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
     - "*.md"
-    - "*/index.md ye"
+    - "*/index.md"
   include:
     category-level: 0
-  type: nɛgɛjuru
+  type: grid
   grid-columns: 4
-  sort: "ci"
-  fields: [ titiri, description ]
-  page-size: 100 ye
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
