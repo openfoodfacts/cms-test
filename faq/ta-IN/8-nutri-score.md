@@ -1,31 +1,31 @@
 ---
-title: "{{<fa இதயத்துடிப்பு அளவு=2x >}} நியூட்ரி-ஸ்கோர்"
-description: "3 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
+lang: en-gb
 order: 8
 category-level: 0
-icon: இதயத்துடிப்பு
+icon: heartbeat
 ---
 
-{{< fa "இதயத்துடிப்பு" size="3x (3x)" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## எனது தயாரிப்புகளின் நியூட்ரி-ஸ்கோர் சரியாக இல்லாவிட்டால் நான் என்ன செய்ய வேண்டும்?
+## What should I do if the Nutri-Score of my products is not correct?
 
-உங்கள் நியூட்ரி-ஸ்கோரில் ஏதேனும் சிக்கல் ஏற்பட்டால், உங்கள் தயாரிப்புத் தாளின் "மாற்றியமை" தாவலில் உங்கள் தகவல் சரியாக உள்ளதா எனச் சரிபார்க்கவும். ஏதேனும் தகவல் விடுபட்டிருந்தாலோ அல்லது தவறாக இருந்தாலோ, தயங்காமல் எங்களை \*\* producers@openfoodfacts.org\*\* என்ற மின்னஞ்சல் முகவரியில் தொடர்பு கொள்ளவும்.
-
----
-
-## நியூட்ரி-ஸ்கோர் முடிந்தவரை துல்லியமாகக் கணக்கிடப்படுவதற்கு நான் என்ன வகையான தகவலை வழங்க வேண்டும்?
-
-உங்கள் தயாரிப்பின் ஊட்டச்சத்து அட்டவணையைப் பயன்படுத்தி ஊட்டச்சத்து-மதிப்பெண்ணைக் கணக்கிடுவோம்.
-
-கணக்கிடப்பட்ட ஊட்டச்சத்து மதிப்பெண் தவறாக இருக்கக்கூடாது என்பதற்காக, பழங்கள், காய்கறிகள் மற்றும் கொட்டைகளின் சதவீதத்தை உங்கள் அட்டவணையில் சேர்க்க மறக்காதீர்கள்.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## நியூட்ரி-ஸ்கோர் எங்கிருந்து வருகிறது?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-நியூட்ரி-ஸ்கோரை சாண்டே பப்ளிக் பிரான்ஸ் நிர்வகிக்கிறது. இது ஊட்டச்சத்து மதிப்புகளின் அட்டவணையை சுருக்கமாகக் கூறுகிறது, இதனால் அனைவரும் அதைப் புரிந்து கொள்ள முடியும். அனைவருக்கும் தெளிவான மற்றும் புரிந்துகொள்ளக்கூடிய ஊட்டச்சத்து தகவல்களை அணுகுவதை உறுதி செய்வதே இதன் குறிக்கோள்.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
