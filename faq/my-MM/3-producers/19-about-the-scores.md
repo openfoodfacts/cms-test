@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} ရမှတ်များအကြောင်း"
-description: "မေးခွန်း ၃ ခု"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
-order: ၁၉
+order: 19
 category-level: 1
-icon: ဇယားလိုင်း
+icon: chart-line
 ---
 
-{{< fa "ဇယားလိုင်း" size="၃ ဆ" >}}
+{{< fa "chart-line" size=3x >}}
 
-## ခြေရာနှင့်/သို့မဟုတ် ရမှတ်ကို တွက်ချက်ရန် မည်သူတာဝန်ရှိသနည်း။
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score၊ NOVA အုပ်စုနှင့် Eco-Score တို့ကို Open Food Facts တွင်ရှိသော အချက်အလက်များအပေါ် အခြေခံ၍ တွက်ချက်ထားသည်။ ကျွန်ုပ်တို့၏ အယ်လဂိုရီသမ်များသည် ဤရမှတ်များ၏ တရားဝင်နည်းလမ်းများကို တင်းကြပ်စွာ လိုက်နာပါသည်။
-
----
-
-## Eco-Score၊ Nutri-Score နှင့် NOVA အုပ်စုတို့၏ ကွာခြားချက်ကား အဘယ်နည်း။
-
-ဤအညွှန်းကိန်းများ၏ ရည်ရွယ်ချက်မှာ စားသုံးသူအတွက် နားလည်ရလွယ်ကူသော အချက်အလက်များကို ပေးရန်ဖြစ်သည်။
-
-[NOVA အုပ်စု](https://fr.openfoodfacts.org/nova) သည် ထုတ်ကုန်၏ အသွင်ပြောင်းလဲမှု၊ ပတ်ဝန်းကျင်ဆိုင်ရာ သက်ရောက်မှုနှင့်အတူ [Eco-Score](https://fr.openfoodfacts.org/ecoscore) နှင့် အာဟာရဒြပ်စင်များနှင့်အတူ [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) တို့ကို ကိုင်တွယ်ဖြေရှင်းပြီး၊ ထုတ်ကုန်တစ်ခုတွင် A နှင့် နီးစပ်သော ရမှတ်များ ပိုများလေ၊ အရည်အသွေး ပိုမိုမြင့်မားလေဖြစ်ကြောင်း သိရှိထားသည်။
-
-ရမှတ် ၃ ခုသည် တူညီသော အစိတ်အပိုင်းများနှင့် မသက်ဆိုင်ပါ။ ထို့ကြောင့် ၎င်းတို့ကို တစ်ခုနှင့်တစ်ခု နှိုင်းယှဉ်ရန် မဖြစ်နိုင်ပါ။
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## ကျွန်ုပ်၏ထုတ်ကုန်များ၏ Eco-Score သို့မဟုတ် Nutri-Score ကို တုပနိုင်ပါသလား။
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-ထုတ်လုပ်သူများ၏ ပလက်ဖောင်းတွင် မှတ်ပုံတင်ပြီး သင့်ထုတ်ကုန်များ၏ အချက်အလက်များကို အပ်လုဒ်လုပ်ခြင်းဖြင့် သင့်ထုတ်ကုန်များနှင့် ဆက်စပ်နေသော Nutri-Score နှင့် Eco-Score တို့ကို တွက်ချက်နိုင်ပါသည်။
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-သို့သော်၊ သင့်ထုတ်ကုန်များကို သင့်အကွာအဝေးတွင် ဈေးကွက်တင်ထားပြီးသား ထုတ်ကုန်များဖြင့် အများပြည်သူသုံးပလက်ဖောင်းသို့ မတင်ပို့စေရန် သရုပ်ဖော်မှုပြုလုပ်ပြီးသည်နှင့် ၎င်းကို ဖျက်ပစ်ရပါမည်။
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
