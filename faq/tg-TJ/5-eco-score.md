@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Эко-Холл"
-description: "5 савол"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: корбар-плюс
+icon: user-plus
 ---
 
-{{< fa "корбар-плюс" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Методологияи Eco-Score чист?
+## What is the Eco-Score methodology?
 
-Эко-Баҳо бар асоси ҳисобкунии таҳлили давраи ҳаёт, ки аз ҷониби ADEME (оҷонсии гузариши экологӣ) ва INRAE (институти миллии тадқиқоти агрономӣ) таҳия шудааст, асос ёфтааст. Барои эҷоди холҳои PEF тақрибан понздаҳ ҷузъ ҳисоб ва пайваст карда шудаанд.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Ба ин холҳои PEF бонусҳо ва камбудиҳо (усули истеҳсолот, пайдоиши) илова карда мешаванд.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-компонентҳо, намудҳои зери хатари нобудшавӣ, бастабандӣ) барои ҳисоб кардани Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Барои маълумоти бештар, ба саҳифаи хулосаи [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) дар Open Food Facts ва инчунин дар вебсайти консорсиуми Eco-Score нигаред. (Презентатсияи Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Барои он ки Eco-Score ҳарчи дақиқтар ҳисоб карда шавад, кадом намуди маълумот бояд пешниҳод карда шавад?
-
-Барои он ки Eco-Score дақиқ ҳисоб карда шавад, фоизи ҳар як компонент ва пайдоиши он бояд муайян карда шавад.
-
-Агар ин маълумот аллакай дар рӯйхати компонентҳо нишон дода нашуда бошад, шумо метавонед сутунеро бо формати зерин барои зикри он илова кунед:
-
-Орди гандум 16% (Фаронса)
-
-Шоколад 8% (Соҳили Оҷ, Эквадор)
-
-Мо инчунин ҷузъҳои бастабандиро дар шакли зерин лозим дорем: 1 плёнкаи пластикӣ барои партофтан, 1 қуттии картонии FSC барои коркарди дубора, 6 шишаи пластикии шаффофи PET бо ҳаҷми 1.5 литр барои коркарди дубора, 6 сарпӯши пластикии рангаи ношаффоф, 12 банкаи пластикӣ бо алюминийи 33 cl.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Арзишҳои 15 нишондиҳанда чӣ гуна якҷоя карда мешаванд?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Барои беҳтар фаҳмидани системаи PEF, шумо метавонед шарҳи холҳои PEF-ро дар сайти методологии Eco-Score хонед**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Оё ҷанбаи маҳаллӣ ба маҳалли истеҳсол ё маҳалли пайдоиши ашёи хом дахл дорад?
+## How are the values ​​of the 15 indicators combined?
 
-Ҷанбаи маҳаллӣ ба пайдоиши ашёи хом дахл дорад. Аз ин рӯ, муҳим аст, ки фоизи онҳо ва инчунин пайдоиши онҳоро дар рӯйхати компонентҳои маҳсулот ё дар майдони махсус барои пайдоиши компонентҳо ворид кунед.\*\*
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Чӣ тавр манбаи компонентҳоро барои эко-балл ворид кардан мумкин аст?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Агар шумо хоҳед, ки маълумотро дар бораи пайдоиши ашёи хом дар варақаҳои худ мубодила кунед, мо шуморо даъват мекунем, ки онҳоро ба рӯйхати компонентҳо дохил кунед.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
