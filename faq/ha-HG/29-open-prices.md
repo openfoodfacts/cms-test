@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Farashi a Buɗe"
-description: "Tambayoyi 3"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dala
+icon: dollar
 ---
 
-{{< fa "dala" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## Ni dillali ne kuma ina son bayar da gudummawar farashi. Ta yaya zan iya yin hakan?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Za ku iya bayar da gudummawar farashi ta amfani da [API ɗinmu](https://prices.openfoodfacts.org/api/docs). Idan kuna son bayar da gudummawar farashi a sikelin, da fatan za ku tuntuɓe mu a [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Shin kuna la'akari da farashin cirewa daga gidajen yanar gizon 'yan kasuwa?
+## Do you consider scraping prices from retailers’ websites?
 
-Saboda dalilai na shari'a da fasaha, ba ma ɗaukar cire farashi daga gidajen yanar gizon dillalai a matsayin hanya mai inganci don bayar da gudummawa ga Farashi na Buɗewa ba. Muna son tabbatar da cewa farashin da muke karɓa daidai ne kuma na zamani, kuma karɓar farashi mai rahusa daga masu ba da gudummawa ba zai ba mu damar yin hakan ba.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Me yasa Open Food Facts ke yin haka (Farashin Buɗewa)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Bayanin farashi yana da matuƙar muhimmanci don fahimtar tsarin abinci. Yana da matukar muhimmanci a fahimci farashin abinci da kuma inganta tsarin cin abinci mai kyau. Buɗe bayanai kan farashi hanya ce ta sauƙaƙa wa masu bincike, 'yan jarida, da 'yan ƙasa fahimtar yadda farashin abinci ke bambanta a yankuna daban-daban da kuma a kan lokaci.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
