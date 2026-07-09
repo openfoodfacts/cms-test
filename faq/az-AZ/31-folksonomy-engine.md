@@ -1,17 +1,17 @@
 ---
 title: "{{< fa book size=2x >}} Folksonomy Engine"
-description: "1 sual"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: kitab
+icon: book
 ---
 
-{{< fa "kitab" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Folksonomy Mühərriki nədir?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine, istifadəçilərə dünyanın ən böyük açıq qida məlumat bazası olan Open Food Facts-da qida məhsullarına xüsusi etiketlər və ya xüsusiyyətlər əlavə etməyə imkan verən bir sistemdir. Bu, insanların qidanı əvvəlcədən müəyyən edilmiş xüsusiyyətlərdən kənara çıxaraq yeni yollarla təsnif etməsinə və təsvir etməsinə imkan verir.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
