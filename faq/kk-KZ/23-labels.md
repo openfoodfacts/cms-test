@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Белгілер"
-description: "2 сұрақ"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: бетбелгі
+icon: bookmark
 ---
 
-{{< fa "бетбелгі" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Белгі ретінде тіркелгі жасау маңызды ма?
+## As a label, is it important to create an account ?
 
-Белгі ретінде, сіз өнімдердің тікелей өндірушісі болмағандықтан, өндірушінің тіркелгісін жасаудың қажеті жоқ.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Мен лейблмін, жобаға қалай қатыса аламын?
+## I am a label, how can I participate in the project?
 
-Затбелгі ретінде ең маңыздысы - бізбен **(producers@openfoodfacts.org)** хабарласып, затбелгіңіз көрсетілген өнімдердің тізімін жіберу, сонда біз оларды тиісті өнім парақтарына қоса аламыз.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
