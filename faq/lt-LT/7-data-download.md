@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Duomenų atsisiuntimas"
-description: "1 klausimas"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: debesies atsisiuntimas
+icon: cloud-download
 ---
 
-{{< fa "debesies atsisiuntimas" size="3 kartus" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Kur gauti duomenis apie konkrečią šalį?
+## Where to get the data for a specific country?
 
-Šiuo metu nėra eksporto, skirto konkrečioms šalims.
+Currently, there are no exports dedicated to specific countries.
 
-Yra daug būdų, kaip naudoti mūsų skirtingus eksportuojamus duomenis kartu su skirtingais įrankiais, norint pasirinkti su konkrečia šalimi susijusius duomenis.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Galite peržiūrėti [kai kurias iš šių technikų mūsų wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
