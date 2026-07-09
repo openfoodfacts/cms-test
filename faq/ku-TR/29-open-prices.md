@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dolar size=2x >}} Bihayên Vekirî"
-description: "3 pirs"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dolar
+icon: dollar
 ---
 
-{{< fa "dolar" size="3 caran" >}}
+{{< fa "dollar" size=3x >}}
 
-## Ez firoşkarek im û ez dixwazim bi buhayên mezin beşdar bibim. Ez çawa dikarim wê bikim?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Hûn dikarin bi karanîna [API-ya me](https://prices.openfoodfacts.org/api/docs) bihayan pêşkêş bikin. Heke hûn dixwazin bihayan bi pîvanek mezin bidin, ji kerema xwe bi me re têkilî daynin li [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ma hûn difikirin ku bihayan ji malperên firoşkaran derxînin?
+## Do you consider scraping prices from retailers’ websites?
 
-Ji ber sedemên yasayî û teknîkî, em berhevkirina bihayan ji malperên firoşkaran wekî rêyek derbasdar ji bo beşdarbûna li Bihayên Vekirî nabînin. Em dixwazin piştrast bin ku nirxên ku em berhev dikin rast û nûjen in, û wergirtina nirxên berhevkirî ji beşdaran rê nade me ku em vê bikin.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Çima Open Food Facts vê yekê dike (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Agahdariya bihayê ji bo têgihîştina pergalên xwarinê pir girîng e. Ew faktorek sereke ye di têgihîştina lêçûna xwarinê û pêşvebirina parêzên tenduristtir de. Vekirina daneyên bihayê rêyek e ku ji bo lêkolîner, rojnamevan û welatiyan hêsantir dike ku têgihîştinek çêtir a ka bihayên xwarinê li gorî erdnîgarî û demê çawa diguherin, bistînin.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
