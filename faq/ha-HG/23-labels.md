@@ -1,23 +1,23 @@
 ---
-title: "{{< fa girman alamar shafi=2x >}} Lakabi"
-description: "Tambayoyi 2"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: alamar shafi
+icon: bookmark
 ---
 
-{{< fa "alamar shafi" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## A matsayin lakabi, shin yana da mahimmanci a ƙirƙiri asusu?
+## As a label, is it important to create an account ?
 
-A matsayinka na lakabi, tunda ba kai ne kai tsaye ke samar da kayayyakin ba, ba kwa buƙatar ƙirƙirar asusun mai samarwa.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Ni lakabi ne, ta yaya zan iya shiga cikin aikin?
+## I am a label, how can I participate in the project?
 
-A matsayin lakabi, abin da ya fi dacewa a yi shi ne a tuntube mu **(producers@openfoodfacts.org)** sannan a aiko mana da jerin samfuran da aka nuna alamar ku domin mu iya ƙara su a kan takardun samfuran da suka shafi.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
