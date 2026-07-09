@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Àwọn ìbéèrè nípa ọjà kan"
-description: "Ìbéèrè kan"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: agbọn riraja
+icon: shopping-basket
 ---
 
-{{< fa "agbọn riraja" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Mo ni ibeere kan / ibeere kan nipa ọja kan
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) jẹ́ ojú-òpó wẹ́ẹ̀bù alájọṣepọ̀ tí àwọn oníbàárà ṣẹ̀dá tí wọ́n sì ń pèsè láti lè lóye àwọn àmì àti láti fi àwọn ọjà wéra.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Fun alaye siwaju sii nipa ọja tabi ẹtọ kan, kọwe si olupese naa. A ko ni alaye olubasọrọ fun awọn olupese ṣugbọn wọn maa n wa lori apoti naa nigbagbogbo.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Tí ẹ bá fẹ́ ràn wá lọ́wọ́ láti mú kí àwọn oníbàárà túbọ̀ mọ̀ nípa ara wọn bíi yín tàbí àwa, ẹ lè lo àpù iPhone tàbí Android wa láti fi àwọn ọjà kún un: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Láti jíròrò nípa iṣẹ́ náà, o lè dara pọ̀ mọ́ ẹgbẹ́ àwọn olùkópa Facebook: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) tàbí kí o bá àwọn olùkópa mìíràn sọ̀rọ̀ lórí Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
