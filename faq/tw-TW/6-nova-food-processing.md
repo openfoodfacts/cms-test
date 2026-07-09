@@ -1,17 +1,17 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / Aduan a wɔde yɛ adwuma"
-description: "1 asɛmmisa"
-lang: tw-gb
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: flask a wɔde ahyɛ mu
+icon: flask
 ---
 
-{{< fa "flask a wɔde ahyɛ mu" size="3x na ɛyɛ" >}}
+{{< fa "flask" size=3x >}}
 
-## Dɛn ne NOVA ?
+## What is NOVA ?
 
-[https://wiase.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova) Ɔkwan a wɔfa so yɛ adwuma no.
+[https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
 ---
 
