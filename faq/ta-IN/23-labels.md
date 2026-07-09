@@ -1,23 +1,23 @@
 ---
-title: "{{< fa புக்மார்க் அளவு=2x >}} லேபிள்கள்"
-description: "2 கேள்விகள்"
-lang: ta-gb (ஆங்கிலம்)
-order: 23 ஆம் வகுப்பு
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: புக்மார்க்
+icon: bookmark
 ---
 
-{{< fa "புக்மார்க்" size="3x (3x)" >}}
+{{< fa "bookmark" size=3x >}}
 
-## ஒரு லேபிளாக, ஒரு கணக்கை உருவாக்குவது முக்கியமா?
+## As a label, is it important to create an account ?
 
-நீங்கள் தயாரிப்புகளின் நேரடி தயாரிப்பாளர் இல்லாததால், ஒரு லேபிளாக, நீங்கள் ஒரு தயாரிப்பாளரின் கணக்கை உருவாக்க வேண்டியதில்லை.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## நான் ஒரு லேபிள், நான் எப்படி திட்டத்தில் பங்கேற்க முடியும்?
+## I am a label, how can I participate in the project?
 
-ஒரு லேபிளாக, செய்ய வேண்டிய மிகவும் பொருத்தமான விஷயம் என்னவென்றால், எங்களை **(producers@openfoodfacts.org)** தொடர்பு கொண்டு, உங்கள் லேபிள் காட்டப்பட்டுள்ள தயாரிப்புகளின் பட்டியலை எங்களுக்கு அனுப்புங்கள், இதன் மூலம் நாங்கள் அவற்றை தொடர்புடைய தயாரிப்புத் தாள்களில் சேர்க்க முடியும்.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
