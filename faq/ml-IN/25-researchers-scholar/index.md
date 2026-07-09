@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ഗ്രാജുവേഷൻ-ക്യാപ് വലുപ്പം=2x >}} ഗവേഷകർ/പണ്ഡിതർ"
-description: "1 ഉപവിഭാഗം"
-lang: en-gb (ഇംഗ്ലീഷ്)
-order: 25 മിനിട്ട്
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
+lang: en-gb
+order: 25
 category-level: 0
-icon: ബിരുദദാന തൊപ്പി
+icon: graduation-cap
 listing:
   contents:
-    - "*.എംഡി"
+    - "*.md"
   include:
     category-level: 1
-  type: ഗ്രിഡ്
+  type: grid
   grid-columns: 4
-  sort: "ഓർഡർ"
-  fields: [ തലക്കെട്ട്, description ]
-  page-size: 100 100 कालिक
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "ബിരുദദാന തൊപ്പി" size="3x (3x)" >}}
+{{< fa "graduation-cap" size=3x >}}
 
