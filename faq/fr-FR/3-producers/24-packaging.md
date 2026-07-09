@@ -1,7 +1,7 @@
 ---
-title: "Emballage {{< fa cube size=2x >}}"
+title: "{{< fa cube size=2x >}} Emballage"
 description: "3 questions"
-lang: en-gb
+lang: fr-fr
 order: 24
 category-level: 1
 icon: cube
@@ -9,41 +9,41 @@ icon: cube
 
 {{< fa "cube" size=3x >}}
 
-## Comment puis-je ajouter mes données d'emballage à Open Food Facts ?
+## Comment puis-je ajouter mes données d'emballage à Open Food Facts ?
 
-En tant que producteur, la manière la plus efficace d'ajouter des données d'emballage à vos produits est de remplir ce [tableur Excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) les informations nécessaires, à partir de la colonne « AU ».
+En tant que producteur, le moyen le plus efficace d'ajouter des données d'emballage à vos produits est de remplir ce [tableur excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) avec les informations nécessaires, à partir de la colonne « AU ».
 
-Pour chaque élément d'emballage, vous devrez saisir :
+Pour chaque composant d'emballage, vous devrez saisir :
 
-- Le nombre d'unités (ex : **4** pots de yaourt)
+- Le nombre d'unités (ex : **4** pots de yaourts)
 
 - La forme (ex : **pot, couvercle, boîte, etc.**)
 
 - Le matériau (ex : **PET, papier, verre, etc.**)
 
-- Les instructions de recyclage (ex : **recycler, jeter, etc.**)
+- La consigne de tri (ex: **à recycler, à jeter, etc**)
 
-- Le poids d'une unité vide (en g)
+- Le poids d'une unité vide (en gr)
 
 - La quantité nette de produit contenue par unité
 
-Cette feuille de calcul peut ensuite être importée dans notre plateforme dédiée aux professionnels.
+Ce tableur peut ensuite être importé sur notre plateforme dédiée aux professionnels.
 
 ---
 
-## Qu’est-ce que le projet « S’attaquer aux emballages alimentaires » ?
+## Qu'est-ce que le projet Tackling Food Packaging ?
 
-Le projet « S’attaquer aux emballages alimentaires » consiste à collecter des informations détaillées sur l’emballage des produits les plus consommés (forme, matériau, instructions de tri, poids, capacité).
+Le projet « Tackling Food Packaging » consiste à collecter des informations détaillées sur les emballages des produits les plus consommés (forme, matériau, consignes de tri, poids, contenance).
 
-S’appuyant sur une approche de science participative, elle reposera à la fois sur l’accord des entreprises pour partager leurs données d’emballage et jouer le jeu de la transparence, et sur l’autorisation des citoyens pour la collecte d’informations sur les produits. Ces informations seront librement réutilisables (« données ouvertes »).
+Basé sur une approche de science participative, il s'appuiera à la fois sur les entreprises acceptant de partager leurs données d'emballage et de jouer le jeu de la transparence, et sur les citoyens permettant la collecte d'informations sur les produits. Ces informations seront librement réutilisables (« open data »).
 
-**Pour plus d'informations :** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+**Pour plus d'infos :** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
 
 ---
 
-## Même après la fin du projet « Lutter contre les emballages alimentaires », puis-je encore ajouter mes données sur les emballages ?
+## Même après la fin du projet Tackling Food Packaging, puis-je toujours ajouter mes données d'emballage ?
 
-Même après la fin du projet, il est possible d'ajouter des données d'emballage car les champs relatifs à l'emballage resteront visibles sur notre site web.
+Même après la fin du projet, il est possible d'ajouter des données d'emballage car les champs relatifs aux emballages resteront sur notre site web.
 
 ---
 
