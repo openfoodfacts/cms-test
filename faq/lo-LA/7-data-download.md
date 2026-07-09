@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ດາວໂຫຼດຂໍ້ມູນ"
-description: "1 ຄຳຖາມ"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: ດາວໂຫຼດຜ່ານຄລາວ
+icon: cloud-download
 ---
 
-{{< fa "ດາວໂຫຼດຜ່ານຄລາວ" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ຈະເອົາຂໍ້ມູນສຳລັບປະເທດໃດໜຶ່ງໄດ້ຢູ່ໃສ?
+## Where to get the data for a specific country?
 
-ປະຈຸບັນ, ບໍ່ມີການສົ່ງອອກທີ່ອຸທິດໃຫ້ແກ່ປະເທດສະເພາະໃດໜຶ່ງ.
+Currently, there are no exports dedicated to specific countries.
 
-ມີຫຼາຍວິທີໃນການໃຊ້ການສົ່ງອອກທີ່ແຕກຕ່າງກັນຂອງພວກເຮົາລວມກັບເຄື່ອງມືທີ່ແຕກຕ່າງກັນເພື່ອເລືອກຂໍ້ມູນທີ່ກ່ຽວຂ້ອງກັບປະເທດສະເພາະ.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-ທ່ານສາມາດເບິ່ງ [ບາງເຕັກນິກເຫຼົ່ານີ້ໄດ້ໃນ wiki ຂອງພວກເຮົາ](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
