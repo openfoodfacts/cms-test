@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} მკვლევარები/მეცნიერი"
-description: "1 ქვეკატეგორია"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: გამოსაშვები ქუდი
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ბადე
+  type: grid
   grid-columns: 4
-  sort: "შეკვეთა"
-  fields: [ სათაური, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "გამოსაშვები ქუდი" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
