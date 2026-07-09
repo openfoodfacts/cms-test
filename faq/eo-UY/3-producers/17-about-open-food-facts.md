@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Pri Malfermaj Manĝaĵoj"
-description: "4 demandoj"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: informcirklo
+icon: info-circle
 ---
 
-{{< fa "informcirklo" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Kiajn informojn oni devus kundividi?
+## What type of information should be shared?
 
-Ĉia ajn informo, kiun vi havas, estas bonvena, de nutraj informoj ĝis pakaj informoj.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Tio ebligas establi kompletan dosieron, kalkuli ĉiujn poentarojn precize kaj pli ĝenerale travideblecon ŝatatan de konsumantoj.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Tamen ni rekomendas, ke vi prioritatigu la jenajn kampojn:
+However we do recommend you prioritize the following fields:
 
-- Nutraj informoj
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Produkta kategorio (ekz. trinkaĵoj, fromaĝo, jogurto, ktp.)
-
-- Nomo de la produkto
-
-- Alergenoj
-
-- kaj la ingrediencoj, ĉi tiu kampo ne estas deviga sed rekomendinda por optimuma uzado kaj determinado de la poentaroj
-
-→ Por pliaj detaloj, ni invitas vin elŝuti nian [uzantmanlibron](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kaj/aŭ konsulti niajn [videolernaĵojn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ĉu mi povas elŝuti datumojn de Open Food Facts?
+## Can I download Open Food Facts data?
 
-Vi povas elŝuti ĉiujn datumojn haveblajn ĉe Open Food Facts. Atentu, ĉi tio postulas multan diskspacon, potencan komputilon se vi volas uzi kalkultabelon aŭ scion pri R aŭ Python alie.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Vi ankaŭ povas elŝuti subaron de la datumoj (ekzemple vian markon) danke al la altnivela serĉo.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Por pliaj detaloj, ni invitas vin elŝuti nian [uzantmanlibron](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kaj/aŭ konsulti niajn [videolernaĵojn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Ĉu la aliro al la Pro-platformo kaj la importado de datumoj estas senpagaj?
-
-Absolute, kaj ĝi estos por ĉiam.Ĉiuj servoj provizitaj de Open Food Facts estas senpagaj.  
-Ni tre ĝojas, ke vi decidis kontribui viajn produktajn datumojn al nutraĵa travidebleco, kaj ni dankas vin pro tio.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Mi ŝatus proponi plibonigojn por la profesia platformo, kiel mi povas fari tion?
+## Is access to the Pro platform and the import of data free?
 
-Dankon pro via volemo partopreni en manĝaĵa travidebleco!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-La plej bona maniero por kunhavigi reagojn estas plenigante [ĉi tiun formularon](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Vi ankaŭ povas kontakti nin por fari sugestojn aŭ per [nia forumo](https://forum.openfoodfacts.org/) aŭ per [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Aliĝu al nia Slack kaj eniru la kanalon #produktantoj por kontakti nin.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
