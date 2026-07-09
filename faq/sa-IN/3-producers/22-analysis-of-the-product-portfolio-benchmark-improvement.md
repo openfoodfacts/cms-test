@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} उत्पादविभागस्य विश्लेषणं (बेन्चमार्क, सुधारः...)"
-description: "१ प्रश्नः"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
-order: २२
+order: 22
 category-level: 1
-icon: चार्ट-बार
+icon: chart-bar
 ---
 
-{{< fa "चार्ट-बार" size=३x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## मम उत्पादानाम् Nutri-Score इत्यस्य उन्नयनार्थं पुनः सूत्रीकरणस्य अनुशंसां कथं प्राप्तुं शक्यते?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-यदा भवान् उत्पादकमञ्चस्य मुखपृष्ठे अस्ति तदा :
+When you are on the home page of the Producers Platform:
 
-1. पृष्ठस्य उपरि "→ सुधारस्य अवसरयुक्तानां उत्पादानाम् संख्या" इति लिङ्क् क्लिक् कुर्वन्तु ।
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. भवान् स्वस्य उत्पादानाम् उन्नयनार्थं अस्माकं प्रणाल्याः ज्ञातानां सर्वेषां अवसरानां परामर्शं कर्तुं शक्नोति
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. कस्यचित् प्रकारस्य अवसरस्य उपरि क्लिक् करणेन भवन्तः तेषां उत्पादानाम् सूचीं प्राप्नुवन्ति येषां सुधारः भवति ।
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ अधिकविवरणार्थं वयं भवन्तं अस्माकं [उपयोक्तृमार्गदर्शिका](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) डाउनलोड् कर्तुं आमन्त्रयामः तथा/वा अस्माकं [वीडियोपाठ्यक्रमाः](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
