@@ -1,33 +1,33 @@
 ---
-title: "{{< fa question-circle size=2x >}} ເປີດຂໍ້ມູນກ່ຽວກັບອາຫານ"
-description: "9 ຄຳຖາມ"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: ວົງມົນຄຳຖາມ
+icon: question-circle
 ---
 
-{{< fa "ວົງມົນຄຳຖາມ" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. ໃນເກືອບທຸກກໍລະນີ, ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງພວກເຂົາຫ້າມຢ່າງຈະແຈ້ງກ່ຽວກັບການນຳໃຊ້ທີ່ບໍ່ແມ່ນສ່ວນຕົວ ແລະ ການສະກັດເອົາຂໍ້ມູນທັງໝົດ ຫຼື ສ່ວນໃດສ່ວນໜຶ່ງຂອງຂໍ້ມູນ.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. ສະນັ້ນ, ເມື່ອພວກເຮົາເລີ່ມຕົ້ນໂຄງການ Open Food Facts ແລະແອັບຯມືຖື, ໃນປີ 2012, ພວກເຮົາໄດ້ຕັດສິນໃຈເຮັດກົງກັນຂ້າມຢ່າງແນ່ນອນ: ພວກເຮົາບໍ່ພຽງແຕ່ອະນຸຍາດໃຫ້ນໍາໃຊ້ແລະນໍາໃຊ້ຖານຂໍ້ມູນຂອງພວກເຮົາຄືນ, ໂດຍບໍ່ເສຍຄ່າແລະບໍ່ມີຄ່າທໍານຽມ, ໃຫ້ກັບທຸກຄົນແລະສໍາລັບການນໍາໃຊ້ທຸກຢ່າງ (ລວມທັງການຄ້າ), ແຕ່ພວກເຮົາຍັງສົ່ງເສີມມັນ!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-ການເຮັດໃຫ້ຂໍ້ມູນສາມາດເປີດເຜີຍຕໍ່ສາທາລະນະ (ເຊິ່ງເອີ້ນວ່າ _ຂໍ້ມູນເປີດ_) ຊ່ວຍໃຫ້ບຸກຄົນ, ສະມາຄົມ, ບໍລິສັດ, ນັກຄົ້ນຄວ້າ ແລະ ອື່ນໆ ຈາກທົ່ວທຸກມຸມໂລກສາມາດຄິດ ແລະ ພັດທະນາແອັບພລິເຄຊັນສຳລັບຂໍ້ມູນທີ່ພວກເຮົາບໍ່ເຄີຍຄິດເຖິງມາກ່ອນ.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (ເບິ່ງ [ເງື່ອນໄຂການນຳໃຊ້ຄືນໃໝ່](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-ທຸກໆຄົນ (ລວມທັງແຕ່ບໍ່ຈຳກັດພຽງແຕ່ຜູ້ປະກອບສ່ວນ ແລະ ຜູ້ສ້າງ Open Food Facts) ສາມາດແຈກຢາຍຄືນ ແລະ/ຫຼື ນຳໃຊ້ຂໍ້ມູນຄືນໃໝ່ເພື່ອສ້າງເວັບໄຊທ໌, ການບໍລິການ, ຊອບແວ, ແອັບພລິເຄຊັນມືຖື ຫຼື ຂຽນບົດຄວາມ ແລະ ການສຶກສາຕ່າງໆ. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. ຕົວຢ່າງ, ແພລດຟອມສຳລັບຜູ້ຜະລິດຂອງພວກເຮົາແມ່ນບໍ່ເສຍຄ່າທັງໝົດ, ແລະພວກເຮົາທຸກຄົນພໍໃຈກັບສິ່ງນັ້ນຫຼາຍຂຶ້ນເພາະວ່າພວກເຮົາຄິດວ່າມັນອາດຈະຊ່ວຍພວກເຂົາປັບປຸງຜະລິດຕະພັນຂອງພວກເຂົາ.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,81 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-ທ່ານສາມາດຖາມຄຳຖາມ ຫຼື ໃຫ້ຄຳແນະນຳໃນເວທີສົນທະນາ ຫຼື ຕິດຕໍ່ພວກເຮົາທາງອີເມວ: contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-ຖ້າທ່ານເປັນຜູ້ຜະລິດ, ກະລຸນາສົ່ງອີເມວຫາພວກເຮົາທີ່ [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-ຖ້າທ່ານເປັນນັກຂ່າວ, ກະລຸນາສົ່ງອີເມວຫາພວກເຮົາທີ່ [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-ກະລຸນາຮັບຊາບ: [Open Food Facts ແມ່ນຖານຂໍ້ມູນຮ່ວມມືຂອງຜະລິດຕະພັນອາຫານ](https://world.openfoodfacts.org/discover), ພວກເຮົາບໍ່ໄດ້ຂາຍຜະລິດຕະພັນໃດໆ ແລະ ພວກເຮົາບໍ່ມີລິ້ງໄປຫາຜູ້ຜະລິດຂອງເຂົາເຈົ້າ. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-ຂໍ້ມູນ ແລະ ຂໍ້ມູນທີ່ສົ່ງມາແມ່ນສົ່ງໂດຍຜູ້ປະກອບສ່ວນຂອງ Open Food Facts. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. ຕົວຢ່າງເຊັ່ນ ຖ້າຂໍ້ມູນໂພຊະນາການຂອງຜະລິດຕະພັນແຕກຕ່າງກັນຫຼາຍຈາກຜະລິດຕະພັນໃນໝວດດຽວກັນ, ມັນອາດເປັນຄວາມຜິດພາດ. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. ຖ້າທ່ານເປັນຜູ້ຜະລິດ, ກະລຸນາ [ຕິດຕໍ່ພວກເຮົາ](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (ເບິ່ງ [ເງື່ອນໄຂການປະກອບສ່ວນ](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-ພວກເຮົາໄດ້ພັດທະນາແພລດຟອມຟຣີເພື່ອໃຫ້ທ່ານສາມາດນຳເຂົ້າຮູບພາບ ແລະ ຂໍ້ມູນກ່ຽວກັບຜະລິດຕະພັນຂອງທ່ານໄດ້ຢ່າງງ່າຍດາຍ, ໂດຍບໍ່ຄຳນຶງເຖິງຂະໜາດຂອງທ່ານ. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. ຕິດຕໍ່ພວກເຮົາເພື່ອປຶກສາຫາລືກ່ຽວກັບວິທີທີ່ພວກເຮົາສາມາດດຳເນີນການຕໍ່ໄປໄດ້: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## ໃຜໃຊ້ຂໍ້ມູນ Open Food Facts?
+## Who uses Open Food Facts data?
 
-ມັນຈະໃຊ້ເວລາດົນເກີນໄປ
-ໃນລາຍຊື່ອົງກອນທັງໝົດທີ່ອາໄສແພລດຟອມ Open Food Facts
-.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- ແອັບພລິເຄຊັນມືຖືຫຼາຍກວ່າ 100 ອັນ
-  ຕອບສະໜອງຄວາມຕ້ອງການຂອງຜູ້ຊົມຫຼາຍຄົນ: ພະຍາດເບົາຫວານ (VeryDiab), ອາການແພ້, ຄວາມສົມດຸນຂອງອາຫານ
-  ຜ່ານປັນຍາປະດິດ (FoodVisor), ຄວາມພິການ, ແລະອື່ນໆ. ຖານຂໍ້ມູນ
-  ຂອງພວກເຮົາຍັງອະນຸຍາດໃຫ້ສ້າງ Yuka ໄດ້.
-- ເວັບໄຊທ໌ຫຼາຍແຫ່ງ: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- ນັກຂ່າວຂໍ້ມູນ : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- ນັກຄົ້ນຄວ້າໃນບົດຄວາມວິທະຍາສາດ
-  ເກືອບ 100 ບົດຄວາມ
-- ທະນາຄານອາຫານ ແລະ ຮ້ານຄ້າສາມັກຄີ: ໂຄງການ
-  Data For Good ໃນຄວາມຕໍ່ເນື່ອງຂອງໂຄງການທົດລອງທີ່ລິເລີ່ມໂດຍສະພາກາແດງຝຣັ່ງ
-  , ການເຊື່ອມໂຍງເຂົ້າໃນການຄຸ້ມຄອງເງິນສົດຂອງສະຫະກອນອາຫານຂະໜາດນ້ອຍ
-  .
-- ບໍລິສັດຕ່າງໆ: Terraillon ໃຊ້ຂໍ້ມູນຂອງພວກເຮົາ
-  ເພື່ອເຮັດໃຫ້ຂະໜາດທີ່ເຊື່ອມຕໍ່ກັນຂອງມັນມີຊີວິດຊີວາ.
-- ໂຮງຮຽນສອນການຂຽນໂປຣແກຣມ (Simplon, ຫ້ອງຮຽນເປີດ
-  ) ໄດ້ລວມເອົາຂໍ້ເທັດຈິງກ່ຽວກັບອາຫານເປີດເປັນໂຄງການທີ່ກະຕຸ້ນໃນຫຼັກສູດ
-  ຂອງເຂົາເຈົ້າ.
+- Researchers in nearly 100 scientific
+  articles
+- Food banks and solidarity stores: a
+  Data For Good project in the continuity of a pilot project initiated by the
+  French Red Cross, integration in the cash management of a small food
+  cooperative.
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## ຂ້ອຍຈະສະໜັບສະໜູນ Open Food Facts ໄດ້ແນວໃດ?
+## How can I support Open Food Facts?
 
 Open Food
-Facts ເປັນສະມາຄົມທີ່ບໍ່ຫວັງຜົນກຳໄລທີ່ສ້າງຕັ້ງຂຶ້ນໃນປີ 1901. ທ່ານສາມາດຊ່ວຍພວກເຮົາໄດ້ໂດຍການ [ເຂົ້າຮ່ວມໃນໂຄງການ](https://fr-en.openfoodfacts.org/contribute) ແລະ ໂດຍການສະໜັບສະໜູນພວກເຮົາທາງດ້ານການເງິນດ້ວຍ [ການບໍລິຈາກ](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(ຫັກຄ່າໃຊ້ຈ່າຍໄດ້ 66%) ແລະ ໂດຍການໃຊ້ເຄື່ອງຈັກຊອກຫາ Lilo
-.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**ຂອບໃຈຫຼາຍໆ
-!**
+**Thank
+you very much!**
 
 ---
 
-## ຂ້ອຍບໍ່ສາມາດຊອກຫາຄຳຕອບຕໍ່ຄຳຖາມຂອງຂ້ອຍໄດ້
+## I can't find the answer to my question
 
-ຖ້າທ່ານບໍ່ສາມາດຊອກຫາຄຳຕອບຕໍ່ຄຳຖາມຂອງທ່ານໄດ້, ກະລຸນາຢ່າລັງເລທີ່ຈະຕິດຕໍ່ຫາພວກເຮົາຜ່ານທາງ:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack ຂອງພວກເຮົາ: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- ເວທີສົນທະນາຂອງພວກເຮົາ: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
