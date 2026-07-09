@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} ราคาเปิด"
-description: "3 คำถาม"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: ดอลลาร์
+icon: dollar
 ---
 
-{{< fa "ดอลลาร์" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## ฉันเป็นผู้ค้าปลีกและต้องการแจ้งราคาสินค้า ฉันจะทำแบบนั้นได้อย่างไร?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-คุณสามารถแจ้งราคาได้โดยใช้ [API ของเรา](https://prices.openfoodfacts.org/api/docs) หากคุณต้องการร่วมให้ข้อมูลราคาในปริมาณมาก โปรดติดต่อเราได้ที่ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org)
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## คุณพิจารณาที่จะดึงข้อมูลราคาจากเว็บไซต์ของผู้ค้าปลีกหรือไม่?
+## Do you consider scraping prices from retailers’ websites?
 
-ด้วยเหตุผลทางกฎหมายและทางเทคนิค เราจึงไม่ถือว่าการคัดลอกราคาจากเว็บไซต์ของผู้ค้าปลีกเป็นวิธีการที่ถูกต้องในการนำข้อมูลมาลงใน Open Prices เราต้องการตรวจสอบให้แน่ใจว่าราคาที่เราเก็บรวบรวมนั้นถูกต้องและเป็นปัจจุบัน และการรับราคาที่ถูกคัดลอกมาจากผู้ร่วมให้ข้อมูลนั้นไม่เอื้ออำนวยให้เราทำเช่นนั้นได้
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 การดึงข้อมูลราคาเป็นหนึ่งในตัวเลือกที่พิจารณาในเวอร์ชันต่อไปของ Open Prices แต่จะดำเนินการโดย Open Prices เอง เพื่อให้เราสามารถมีหลักฐานยืนยันราคาจากหน้าเว็บ HTML ได้
 
 ---
 
-## เหตุใด Open Food Facts จึงทำเช่นนี้ (เปิดเผยราคา)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ข้อมูลด้านราคามีความสำคัญอย่างยิ่งต่อการทำความเข้าใจระบบอาหาร นี่เป็นปัจจัยสำคัญในการทำความเข้าใจต้นทุนอาหารและส่งเสริมการรับประทานอาหารที่ดีต่อสุขภาพ ข้อมูลราคาเปิดตลาดเป็นวิธีที่ช่วยให้นักวิจัย นักข่าว และประชาชนทั่วไปเข้าใจได้ดีขึ้นว่าราคาอาหารเปลี่ยนแปลงไปอย่างไรในแต่ละภูมิภาคและแต่ละช่วงเวลา
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
