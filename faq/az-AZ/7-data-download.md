@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Məlumatların yüklənməsi"
-description: "1 sual"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: bulud yükləməsi
+icon: cloud-download
 ---
 
-{{< fa "bulud yükləməsi" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Müəyyən bir ölkə üçün məlumatları haradan əldə etmək olar?
+## Where to get the data for a specific country?
 
-Hazırda konkret ölkələrə ixrac yoxdur.
+Currently, there are no exports dedicated to specific countries.
 
-Müəyyən bir ölkə ilə əlaqəli məlumatları seçmək üçün müxtəlif ixrac məhsullarımızdan fərqli alətlərlə birlikdə istifadə etməyin bir çox yolu var.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[Bu üsulların bəzilərinə vikidə](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) baxa bilərsiniz.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
