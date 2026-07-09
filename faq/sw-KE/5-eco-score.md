@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} Eco-Alama"
-description: "Maswali 5"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: mtumiaji-plus
+icon: user-plus
 ---
 
-{{< fa "mtumiaji-plus" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Mbinu ya Eco-Score ni ipi?
+## What is the Eco-Score methodology?
 
-Eco-Score inategemea hesabu ya uchambuzi wa mzunguko wa maisha uliotolewa na ADEME (shirika la mpito la ikolojia) na INRAE (taasisi ya kitaifa ya utafiti wa kilimo). Karibu vipengele kumi na tano vimehesabiwa na kuunganishwa ili kuunda alama ya PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Kwenye alama hii ya PEF kuna bonasi na makosa (njia ya uzalishaji, asili ya
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-viungo, spishi zilizo hatarini kutoweka, vifungashio) ili kukokotoa Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Kwa maelezo zaidi, tazama ukurasa wa muhtasari [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) kwenye Open Food Facts na pia kwenye tovuti ya muungano wa Eco-Score. (Uwasilishaji wa Eco-Score [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## Ni aina gani ya taarifa inayopaswa kutolewa ili Eco-Score ihesabiwe kwa usahihi iwezekanavyo?
-
-Ili Eco-Score ihesabiwe kwa usahihi, asilimia ya kila kiungo na asili yake lazima ibainishwe.
-
-Ikiwa taarifa hii haijaainishwa tayari katika orodha ya viungo, unaweza kuongeza safu wima ili kuitaja, ikiwa na umbizo lifuatalo:
-
-Unga wa ngano 16% (Ufaransa)
-
-Chokoleti 8% (Pwani ya Ivory, Ekuado)
-
-Tunahitaji pia vipengele vya kifungashio katika mfumo wa: filamu 1 ya plastiki ya kutupa, sanduku 1 la kadibodi la FSC la kuchakata tena, chupa 6 za plastiki zinazong'aa za PET za lita 1.5 za kuchakata tena, vifuniko 6 vya plastiki vyenye rangi isiyopitisha mwanga, makopo 12 ya plastiki na alumini 33.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Je, thamani za viashiria 15 zinaunganishwaje?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Ili kuelewa vyema mfumo wa PEF, unaweza kusoma: maelezo ya alama ya PEF kwenye tovuti ya mbinu ya Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Je, kipengele cha ndani kinahusu mahali pa utengenezaji au mahali pa asili ya malighafi?
+## How are the values ​​of the 15 indicators combined?
 
-**Kipengele cha ndani kinahusu asili ya malighafi. Hii ndiyo maana ni muhimu kuingiza asilimia zao pamoja na asili yao katika orodha ya viambato vya bidhaa au katika uwanja uliowekwa wakfu kwa asili ya viambato.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Jinsi ya kuingiza asili ya viungo vya alama ya mazingira?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Ukitaka kushiriki taarifa kuhusu asili ya malighafi kwenye karatasi zako, tunakualika uzijumuishe kwenye orodha ya viungo.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
