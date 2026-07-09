@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industriaren tamaina=2x >}} Ekoizleak"
-description: "6 azpikategoria"
-lang: eu-gb
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: industria
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: sareta
+  type: grid
   grid-columns: 4
-  sort: "eskaera"
-  fields: [ titulua, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "industria" size=3x >}}
+{{< fa "industry" size=3x >}}
 
