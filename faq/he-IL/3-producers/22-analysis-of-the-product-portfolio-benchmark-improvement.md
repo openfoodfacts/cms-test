@@ -1,25 +1,25 @@
 ---
-title: "ניתוח תיק המוצרים (בנצ'מרק, שיפור...)"
-description: "שאלה אחת"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: סרגל תרשים
+icon: chart-bar
 ---
 
-{{< fa "סרגל תרשים" size="פי 3" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## כיצד ניתן לגשת להמלצת הניסוח מחדש כדי לשפר את הציון התזונתי של המוצרים שלי?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-כאשר אתם נמצאים בדף הבית של פלטפורמת המפיקים:
+When you are on the home page of the Producers Platform:
 
-1. לחצו על הקישור "→ מספר מוצרים עם הזדמנויות לשיפור" בראש העמוד.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. באפשרותך לעיין בכל ההזדמנויות שזוהו על ידי המערכת שלנו לשיפור המוצרים שלך
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. לחיצה על סוג הזדמנות תוביל אתכם לרשימת המוצרים הכפופים לשיפור.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ לפרטים נוספים, אנו מזמינים אתכם להוריד את [מדריך המשתמש] שלנו (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ו/או להתייעץ עם [סרטוני ההדרכה] שלנו (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
