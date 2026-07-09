@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} ਫੋਕਸੋਨੋਮੀ ਇੰਜਣ"
-description: "1 ਸਵਾਲ"
-lang: ਇੰ-ਜੀਬੀ
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: ਕਿਤਾਬ
+icon: book
 ---
 
-{{< fa "ਕਿਤਾਬ" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ਫੋਕਸੋਨੋਮੀ ਇੰਜਣ ਕੀ ਹੈ?
+## What is the Folksonomy Engine ?
 
-ਫੋਕਸੋਨੋਮੀ ਇੰਜਣ ਇੱਕ ਅਜਿਹਾ ਸਿਸਟਮ ਹੈ ਜੋ ਉਪਭੋਗਤਾਵਾਂ ਨੂੰ ਦੁਨੀਆ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਓਪਨ-ਫੂਡ ਡੇਟਾਬੇਸ, ਓਪਨ ਫੂਡ ਫੈਕਟਸ ਵਿੱਚ ਭੋਜਨ ਉਤਪਾਦਾਂ ਵਿੱਚ ਕਸਟਮ ਟੈਗ, ਜਾਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਜੋੜਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ। ਇਹ ਲੋਕਾਂ ਨੂੰ ਮੌਜੂਦਾ ਪੂਰਵ-ਨਿਰਧਾਰਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੋਂ ਪਰੇ, ਨਵੇਂ ਤਰੀਕਿਆਂ ਨਾਲ ਭੋਜਨ ਨੂੰ ਸ਼੍ਰੇਣੀਬੱਧ ਕਰਨ ਅਤੇ ਵਰਣਨ ਕਰਨ ਦਿੰਦਾ ਹੈ।
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
