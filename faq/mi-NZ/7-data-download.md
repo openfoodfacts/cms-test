@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Tikiake raraunga"
-description: "1 pātai"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: tikiake-kapua
+icon: cloud-download
 ---
 
-{{< fa "tikiake-kapua" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Kei hea te tiki i ngā raraunga mō tētahi whenua motuhake?
+## Where to get the data for a specific country?
 
-I tēnei wā, kāore he kaweake e whakatapua ana ki ētahi whenua motuhake.
+Currently, there are no exports dedicated to specific countries.
 
-He maha ngā huarahi hei whakamahi i ā mātou momo kaweake me ngā taputapu rerekē hei tīpako i ngā raraunga e pā ana ki tētahi whenua motuhake.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Ka taea e koe te tirotiro i [ētahi o ēnei tikanga i runga i tā mātou wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
