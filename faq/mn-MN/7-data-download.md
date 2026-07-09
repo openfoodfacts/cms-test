@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Өгөгдөл татаж авах"
-description: "1 асуулт"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: үүлэн татаж авах
+icon: cloud-download
 ---
 
-{{< fa "үүлэн татаж авах" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Тодорхой улсын мэдээллийг хаанаас авах вэ?
+## Where to get the data for a specific country?
 
-Одоогоор тодорхой улс орнуудад зориулсан экспорт байхгүй байна.
+Currently, there are no exports dedicated to specific countries.
 
-Тодорхой улстай холбоотой өгөгдлийг сонгохын тулд бидний экспортын янз бүрийн бүтээгдэхүүнийг өөр өөр хэрэгслүүдтэй хослуулан ашиглах олон арга бий.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Та [энэ техникүүдийн заримыг манай вики дээрээс](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) үзэж болно.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
