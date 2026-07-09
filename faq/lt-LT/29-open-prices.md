@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} Atidarymo kainos"
-description: "3 klausimai"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: doleris
+icon: dollar
 ---
 
-{{< fa "doleris" size="3 kartus" >}}
+{{< fa "dollar" size=3x >}}
 
-## Esu mažmenininkas ir noriu prisidėti prie kainų. Kaip tai padaryti?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-Kainas galite nurodyti naudodami [mūsų API](https://prices.openfoodfacts.org/api/docs). Jei norite prisidėti prie kainų didinimo dideliu mastu, susisiekite su mumis el. paštu [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Ar svarstote galimybę nuskaityti kainas iš mažmenininkų svetainių?
+## Do you consider scraping prices from retailers’ websites?
 
-Dėl teisinių ir techninių priežasčių kainų nuskaitymo iš mažmenininkų svetainių nelaikome tinkamu būdu prisidėti prie atvirų kainų. Norime užtikrinti, kad mūsų renkamos kainos būtų tikslios ir atnaujintos, o nukopijuotų kainų gavimas iš bendraautorių neleidžia mums to padaryti.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Kainų nuskaitymas yra svarstoma galimybė būsimoje „Open Prices“ versijoje, tačiau tai atliktų pati „Open Prices“, kad galėtume turėti kainos įrodymą pagal HTML puslapį.
 
 ---
 
-## Kodėl „Open Food Facts“ tai daro (atviros kainos)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-Informacija apie kainas yra nepaprastai svarbi norint suprasti maisto sistemas. Tai pagrindinis veiksnys norint suprasti maisto kainą ir skatinti sveikesnę mitybą. Pradiniai kainų duomenys yra būdas padėti tyrėjams, žurnalistams ir piliečiams geriau suprasti, kaip maisto kainos kinta geografiniu požiūriu ir laikui bėgant.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
