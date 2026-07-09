@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Таҳлили портфели маҳсулот (нишондиҳанда, беҳбудӣ...)"
-description: "1 савол"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: диаграмма-бар
+icon: chart-bar
 ---
 
-{{< fa "диаграмма-бар" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Чӣ тавр ба тавсияи ислоҳот барои беҳтар кардани Nutri-Score-и маҳсулоти худ дастрасӣ пайдо кунам?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Вақте ки шумо дар саҳифаи асосии Платформаи Истеҳсолкунандагон ҳастед:
+When you are on the home page of the Producers Platform:
 
-1. дар болои саҳифа истиноди "→ Шумораи маҳсулот бо имкониятҳои такмилдиҳӣ"-ро клик кунед.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. шумо метавонед бо ҳама имкониятҳое, ки системаи мо ошкор кардааст, барои беҳтар кардани маҳсулоти худ машварат кунед
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. клик кардан ба ягон намуди имконият шуморо ба рӯйхати маҳсулоте мебарад, ки бояд такмил дода шаванд.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Барои гирифтани маълумоти бештар, мо шуморо даъват менамоем, ки [дастури корбар]-и моро (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) зеркашӣ кунед ва/ё ба [дастурҳои видеоии] мо (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) муроҷиат кунед :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
