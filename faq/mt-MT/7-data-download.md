@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Tniżżil tad-dejta"
-description: "mistoqsija waħda"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: download tal-cloud
+icon: cloud-download
 ---
 
-{{< fa "download tal-cloud" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Fejn nista' nikseb id-dejta għal pajjiż speċifiku?
+## Where to get the data for a specific country?
 
-Bħalissa, m'hemm l-ebda esportazzjoni ddedikata lejn pajjiżi speċifiċi.
+Currently, there are no exports dedicated to specific countries.
 
-Hemm ħafna modi kif tuża l-esportazzjonijiet differenti tagħna flimkien ma' għodod differenti biex tagħżel id-dejta relatata ma' pajjiż speċifiku.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Tista' tagħti ħarsa lejn [xi wħud minn dawn it-tekniki fuq il-wiki tagħna](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
