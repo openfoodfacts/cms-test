@@ -1,17 +1,17 @@
 ---
-title: "Inneall Folkonomy {{< méid an leabhair fa=2x >}}"
-description: "1 cheist"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: leabhar
+icon: book
 ---
 
-{{< fa "leabhar" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Cad é an tInneall Folkonomy?
+## What is the Folksonomy Engine ?
 
-Is córas é an Folksonomy Engine a ligeann d’úsáideoirí clibeanna saincheaptha, nó airíonna, a chur le táirgí bia in Open Food Facts, an bunachar sonraí bia oscailte is mó ar domhan. Ligeann sé seo do dhaoine bia a chatagóiriú agus a chur síos ar bhealaí nua, thar na hairíonna réamhshainithe atá ann cheana féin.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
