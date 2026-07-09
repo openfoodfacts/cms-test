@@ -1,21 +1,21 @@
 ---
-title: "{{<fa தொழில்துறை அளவு=2x >}} தயாரிப்பாளர்கள்"
-description: "6 துணைப்பிரிவுகள்"
-lang: ta-gb (ஆங்கிலம்)
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: தொழில்
+icon: industry
 listing:
   contents:
-    - "*.எம்டி"
+    - "*.md"
   include:
     category-level: 1
-  type: கட்டம்
+  type: grid
   grid-columns: 4
-  sort: "உத்தரவு"
-  fields: [ தலைப்பு, description ]
-  page-size: 100 மீ
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "தொழில்" size="3x (3x)" >}}
+{{< fa "industry" size=3x >}}
 
