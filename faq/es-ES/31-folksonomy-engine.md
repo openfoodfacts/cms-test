@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Motor de folksonomía"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
 description: "1 pregunta"
-lang: es-gb
+lang: en-gb
 order: 31
 category-level: 0
-icon: libro
+icon: book
 ---
 
-{{< fa "libro" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## ¿Qué es el motor de folksonomía?
+## What is the Folksonomy Engine ?
 
-Folksonomía es un sistema que permite a los usuarios agregar etiquetas personalizadas, o propiedades, a los productos alimenticios en Open Food Facts, la base de datos de alimentos abiertos más grande del mundo. Esto permite a las personas categorizar y describir los alimentos de nuevas maneras, más allá de las propiedades predefinidas existentes.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
