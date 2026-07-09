@@ -1,15 +1,15 @@
 ---
-title: "{{< fa פלעשל גרייס=2x >}} NOVA / עסן פאַראַרבעטונג"
-description: "1 פראגע"
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: פלאַש
+icon: flask
 ---
 
-{{< fa "פלאַש" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## וואָס איז NOVA?
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
