@@ -1,23 +1,23 @@
 ---
-title: "Imibuzo malunga nemveliso ethile"
-description: "Umbuzo o-1"
-lang: i-en-gb
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: ibhaskithi yokuthenga
+icon: shopping-basket
 ---
 
-{{< fa "ibhaskithi yokuthenga" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ndinombuzo/ibango malunga nemveliso
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) yindawo yokusebenzisana eyenziweyo neyondliwa ngabathengi ukuze bakwazi ukuqonda iilebhile nokuthelekisa iimveliso.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Ukuze ufumane ulwazi oluthe kratya malunga nemveliso okanye ibango, bhalela umenzi. Asinazo iinkcukacha zoqhagamshelwano zabavelisi kodwa zihlala zikwiphakheji.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Ukuba ufuna ukusinceda sizise ulwaneliseko olungakumbi kubathengi abafana nawe okanye nathi, ungasebenzisa i-app yethu ye-iPhone okanye ye-Android ukongeza iimveliso: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Kwaye ukuze uxoxe ngale projekthi, ungajoyina iqela le-Facebook labaxhasi: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) okanye uncokole nabanye abaxhasi kwiSlack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
