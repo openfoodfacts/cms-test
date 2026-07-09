@@ -1,55 +1,55 @@
 ---
-title: "{{< fa vukulu bya mutirhisi-ku engetela=2x >}} Eco-Score"
-description: "Swivutiso swa 5"
-lang: ts-gb
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: mutirhisi-ku engetela
+icon: user-plus
 ---
 
-{{< fa "mutirhisi-ku engetela" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## Hi yihi endlelo ra Eco-Score?
+## What is the Eco-Score methodology?
 
-Eco-Score yi sekeriwe eka xibalo xa nxopaxopo wa xirhendzevutani xa vutomi lowu humesiweke hi ADEME (ejensi ya ku cinca ka ikholoji) na INRAE (institute ya rixaka ya ndzavisiso wa agronomic). Kwalomu ka khume ntlhanu wa swiphemu swa hlayeriwa no hlanganisiwa ku tumbuluxa xikoro xa PEF.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Eka xikoro lexi xa PEF ku engeteriwa ti bonus na maluses (mode of production, origin of
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-swiaki, tinxaka leti nga ekhombyeni, ku pakiwa) leswaku ku ta hlayiwa Eco-Score.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Ku kuma vuxokoxoko byo tala, vona tluka ra nkatsakanyo [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) eka Tinhla ta Swakudya leswi Pfulekeke xikan’we na le ka webusayiti ya nhlangano wa Eco-Score. (Nkomiso wa Eco-Score [https://docs.score-environnemental.com/](https://docs.score-mbango.com/))
-
----
-
-## Hi wihi muxaka wa mahungu lama faneleke ku nyikiwa leswaku Eco-Score yi hlayiwa hi ndlela leyinene hilaha swi nga kotekaka hakona?
-
-Leswaku Eco-Score yi hlayiwa kahle, tiphesente ta xiaki xin’wana na xin’wana na masungulo ya xona swifanele ku boxiwile.
-
-Loko rungula leri ri nga si boxiwanga eka nxaxamelo wa swiaki, u nga engetela kholomo leswaku u ri boxa, hi xivumbeko lexi landzelaka:
-
-Vuswa bya koroni 16% (France) .
-
-Chokoleti ya 8% (Ivory Coast, Ecuador) .
-
-Hi lava na swiphemu swa ku pakiwa hi xivumbeko xa: 1 filimi ya pulasitiki ku lahla, 1 bokisi ra khadibodo ra FSC ro tlherisela, 6 wa mabodlhela ya pulasitiki ya PET transparent ya 1.5 L ku tlherisela, 6 wa swikepe swa pulasitiki swa mihlovo leyi nga vonakiki, 12 wa swikotela swa pulasitiki 33 cl aluminium.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## Xana mimpimo ya swikombiso swa 15 yi hlanganisiwa njhani?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Ku twisisa sisiteme ya PEF ku antswa, u nga hlaya: nhlamuselo ya xikoro xa PEF eka sayiti ya maendlelo ya Eco-Score**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## Xana xiphemu xa ndhawu xi khumba ndhawu ya vumaki kumbe ndhawu leyi switirhisiwa leswi nga tirhisiwangiki swi humaka eka yona?
+## How are the values ​​of the 15 indicators combined?
 
-**Xiyenge xa ndhawu xi khumba masungulo ya switirhisiwa swo ka swi nga tirhisiwanga. Leswi hi swona swi endlaka leswaku swiva swa nkoka ku nghenisa tiphesente ta tona xikan’we na masungulo ya tona eka nxaxamelo wa switirhisiwa swa swikumiwa kumbe eka nsimu leyi nyiketeriweke eka masungulo ya switirhisiwa.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## Xana u nga nghenisa njhani masungulo ya swiaki swa eco-score?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Loko u lava ku avelana vuxokoxoko bya masungulo ya switirhisiwa swo ka swi nga tirhisiwanga eka maphepha ya wena, hi ku rhamba ku swi katsa eka nxaxamelo wa swiaki.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
