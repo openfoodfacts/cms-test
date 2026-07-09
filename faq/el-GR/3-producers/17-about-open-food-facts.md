@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Σχετικά με το Open Food Informations"
-description: "4 ερωτήσεις"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: κύκλος πληροφοριών
+icon: info-circle
 ---
 
-{{< fa "κύκλος πληροφοριών" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Τι είδους πληροφορίες θα πρέπει να κοινοποιούνται;
+## What type of information should be shared?
 
-Οποιαδήποτε πληροφορία έχετε είναι ευπρόσδεκτη, από διατροφικές πληροφορίες έως πληροφορίες συσκευασίας.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Αυτό καθιστά δυνατή τη δημιουργία ενός πλήρους αρχείου, τον ακριβή υπολογισμό όλων των βαθμολογιών και, γενικότερα, μια διαφάνεια που εκτιμάται από τους καταναλωτές.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Ωστόσο, σας συνιστούμε να δώσετε προτεραιότητα στα ακόλουθα πεδία:
+However we do recommend you prioritize the following fields:
 
-- Διατροφικές πληροφορίες
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Κατηγορία προϊόντος (π.χ. ποτά, τυρί, γιαούρτι κ.λπ.)
-
-- Όνομα του προϊόντος
-
-- Αλλεργιογόνα
-
-- και τα συστατικά, αυτό το πεδίο δεν είναι υποχρεωτικό αλλά συνιστάται για βέλτιστη χρήση και προσδιορισμό των βαθμολογιών
-
-→ Για περισσότερες λεπτομέρειες, σας προσκαλούμε να κατεβάσετε τον [οδηγό χρήσης](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ή/και να συμβουλευτείτε τα [βίντεο-εκπαιδευτικά βίντεο](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Μπορώ να κατεβάσω δεδομένα Open Food Facts;
+## Can I download Open Food Facts data?
 
-Μπορείτε να κατεβάσετε όλα τα δεδομένα που είναι διαθέσιμα στο Open Food Facts. Προσοχή, αυτό απαιτεί πολύ χώρο στο δίσκο, έναν ισχυρό υπολογιστή αν θέλετε να χρησιμοποιήσετε ένα υπολογιστικό φύλλο ή γνώσεις R ή Python διαφορετικά.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Μπορείτε επίσης να κατεβάσετε ένα υποσύνολο των δεδομένων (για παράδειγμα, την επωνυμία σας) χάρη στην προηγμένη αναζήτηση.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Για περισσότερες λεπτομέρειες, σας προσκαλούμε να κατεβάσετε τον [οδηγό χρήσης](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ή/και να συμβουλευτείτε τα [βίντεο-εκπαιδευτικά βίντεο](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Είναι δωρεάν η πρόσβαση στην πλατφόρμα Pro και η εισαγωγή δεδομένων;
-
-Απολύτως, και θα είναι για πάντα.Όλες οι υπηρεσίες που παρέχονται από το Open Food Facts είναι δωρεάν.  
-Χαιρόμαστε ιδιαίτερα που αποφασίσατε να συνεισφέρετε τα δεδομένα των προϊόντων σας στη διαφάνεια των τροφίμων και σας ευχαριστούμε γι' αυτό.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Θα ήθελα να προτείνω βελτιώσεις για την επαγγελματική πλατφόρμα, πώς μπορώ να το κάνω;
+## Is access to the Pro platform and the import of data free?
 
-Σας ευχαριστούμε για την προθυμία σας να συμμετάσχετε στη διαφάνεια των τροφίμων!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Ο καλύτερος τρόπος για να μοιραστείτε τα σχόλιά σας είναι συμπληρώνοντας [αυτήν τη φόρμα](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Μπορείτε επίσης να επικοινωνήσετε μαζί μας για να κάνετε προτάσεις είτε μέσω του [φόρουμ μας](https://forum.openfoodfacts.org/) είτε μέσω του [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Γίνετε μέλος του Slack μας και μπείτε στο κανάλι #producers για να επικοινωνήσετε μαζί μας.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
