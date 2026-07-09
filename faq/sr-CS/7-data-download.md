@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Преузимање података"
-description: "1 питање"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: преузимање из облака
+icon: cloud-download
 ---
 
-{{< fa "преузимање из облака" size="3 пута" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Где добити податке за одређену земљу?
+## Where to get the data for a specific country?
 
-Тренутно не постоји извоз намењен одређеним земљама.
+Currently, there are no exports dedicated to specific countries.
 
-Постоји много начина да се користе наши различити извози у комбинацији са различитим алатима за одабир података који се односе на одређену земљу.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Можете погледати [неке од ових техника на нашем викију](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
