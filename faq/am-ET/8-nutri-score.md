@@ -1,31 +1,31 @@
 ---
-title: "{{< fa የልብ ምት መጠን=2x >}} Nutri-Score"
-description: "3 ጥያቄዎች"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: የልብ ምት
+icon: heartbeat
 ---
 
-{{< fa "የልብ ምት" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## የምርቶቼ Nutri-Score ትክክል ካልሆነ ምን ማድረግ አለብኝ?
+## What should I do if the Nutri-Score of my products is not correct?
 
-በNutri-Scoreዎ ላይ ችግር ከተፈጠረ፣ በምርት ሉህዎ "ማሻሻያ" ትር ላይ መረጃዎ ትክክል መሆኑን ያረጋግጡ። ማንኛውም መረጃ የጎደለ ወይም የተሳሳተ ከሆነ፣ በ**producers@openfoodfacts.org** ላይ እኛን ለማግኘት አያመንቱ።
-
----
-
-## የኑትሪ-ስኮር (Nutri-Score) በተቻለ መጠን በትክክል እንዲሰላ ምን አይነት መረጃ ማቅረብ አለብኝ?
-
-የNutri-Score ስሌት የሚከናወነው በምርትዎ የአመጋገብ ሰንጠረዥ ነው።
-
-የተሰላው የNutri-Score ስህተት እንዳይሆን የፍራፍሬ፣ የአትክልት እና የለውዝ መቶኛን በጠረጴዛዎ ውስጥ ማካተትዎን አይርሱ።
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## የኑትሪ-ስኮር ውጤት ከየት ነው የሚመጣው?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score የሚተዳደረው በሳንተ ፐብሊክ ፈረንሳይ ነው። የአመጋገብ እሴቶችን ሰንጠረዥ ጠቅለል አድርጎ ያቀርባል፣ ስለዚህ ሁሉም ሰው ሊረዳው ይችላል። ግቡ ለሁሉም ሰው ግልጽ እና ለመረዳት የሚቻል የአመጋገብ መረጃ ማግኘት ነው።
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
