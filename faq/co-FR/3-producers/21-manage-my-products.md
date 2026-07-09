@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Gestisce i mo prudutti"
-description: "16 dumande"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
-order: 21 anni
+order: 21
 category-level: 1
-icon: scatula
+icon: box
 ---
 
-{{< fa "scatula" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Chì garantisce a qualità di i dati in Open Food Facts ?
+## What guarantees the quality of the data in Open Food Facts?
 
-Per migliurà cuntinuamente a qualità di i dati, ci basemu nantu à 4 pilastri:
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. A cumunità aghjusta constantemente dati è foto è hè una vera pattuglia di recensori.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Avemu stabilitu regule logiche per identificà l'errori nantu à e schede di u produttu.Per esempiu: s'è a somma di u pesu di l'ingredienti hè più grande chè u pesu tutale di u pruduttu, ci hè un'anomalia. Avemu circa 50 altri cuntrolli di qualità.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Grazie à l'Apprendimentu Automaticu, limitemu u risicu d'errori d'input. A nostra tecnulugia ci permette di estrae dati testuali da e foto scattate da i cuntributori
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Grazie à u sustegnu di Santé Publique France, avemu sviluppatu un portale chì permette à i pruduttori di caricà i so dati prudutti in massa è cusì curregge/cumplettà i cuntributi di a cumunità.
-
----
-
-## Cumu aghjunghje i prudutti ?
-
-Per aghjunghje prudutti à a nostra piattaforma, avete prima bisognu di decide cumu vulete prucede. Ci sò 4 opzioni:
-
-- **Manualmente**: sè vo avete un picculu numeru di prudutti, hè sempre pussibule di creà ogni scheda di pruduttu à manu nantu à a Piattaforma Pro.
-
-- **Via una importazione di fogliu di calculu**: pudete scaricà u mudellu di fogliu di calculu [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) furnitu da Open Food Facts, o impurtà direttamente un estrattu da u vostru sistema IT in a piattaforma Pro.
-
-- **Via i cunnettori di i cataloghi di prudutti**. Sè vo site cliente in EQUADIS, AGENA3000 o BAYARD, pudete caricà dati in Open Food Facts in 1 clic. Sè vo travagliate cù un altru PIM (Product Information Management), cuntattateci per piacè: producers@openfoodfacts.org
-
-- **Via una cunnessione persunalizata** trà a vostra impresa è Open Food Facts. Sè vo avete più di 1000 prudutti in u vostru portafogliu, pudemu discute l'uppurtunità di custruisce un connettore specificu per facilità u trasferimentu di dati.
-
-Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [tutoriali video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Ci hè un modu per automatizà l'aghjurnamenti di i prudutti à a basa di dati publica?
+## How to add products?
 
-Iè, sè utilizate i cataloghi di prudutti EQUADIS, AGENA3000 o BAYARD, è cunfigurate a cunfigurazione curretta, l'impurtazione pò esse fatta automaticamente è dunque aghjurnà i dati di u pruduttu nantu à Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## U numeru di prudutti aghjunti hè limitatu?
+## Is there a way to automate product updates to the public database?
 
-Ùn ci hè nisun limite, pudete caricare u numeru di prudutti chì vulete nantu à a nostra piattaforma.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Sè vo vulete caccià un pruduttu chì ùn hè più dispunibule nant'à u mercatu, basta à verificà a casella "stu pruduttu ùn hè più vindutu" quandu mudificate a vostra scheda di pruduttu.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Sè vo vulete caccià parechji prudutti, vi cunsigliemu di seguità a prucedura mintuvata in a [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), à a pagina 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Pudete ancu cuntattà ci via producers@openfoodfacts.org sè avete qualchì quistione.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Quandu u pruduttu hè archiviatu, ùn apparirà più in Open Food Facts.Tuttavia, resterà in a nostra basa di dati per pudè tene una storia di i prudutti venduti in u tempu.
-
----
-
-## L'infurmazioni di l'impresa anu a precedenza annantu à l'infurmazioni digià prisenti nantu à a piattaforma?
-
-Quandu un pruduttore mette unu di i so prudutti in linea cù u so contu di pruduttore è una scheda di pruduttu esiste digià, questu a cumpleterà.
-
-L'infurmazioni chì u pruduttore averà publicatu averanu sempre a priorità è ellu solu puderà mudificà i so prudutti quandu l'infurmazioni saranu cumpletate.
-
-Sè i dati mandati via a piattaforma sò frammentati, l'infurmazioni aghjunte da a cumunità da l'imballu puderanu cumplettalli.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## In chì furmatu devu mandà i mo dati ?
+## Does company information take precedence over information already present on the platform?
 
-Un [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) hè furnitu da Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Tuttavia, qualsiasi furmatu di fogliu di calculu (xlsx, csv) serà impurtabile in a piattaforma.  
-U nostru algoritmu hè cuncipitu per abbinà automaticamente l'attributi di u vostru schedariu cù quelli prisenti in Open Food Facts. Attenti à verificà sempre duie volte a tappa currispundente, postu chì pudete avè bisognu di aghjustà manualmente alcune di elle.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Sè a vostra infurmazione hè frammentata trà parechji fogli di calculu, pudete impurtà li cunsecutivamente - assicurenduvi di fà a currispundenza se u furmatu cambia.
-
-Pudete ancu impurtà un schedariu Excel in più di una importazione EQUADIS o AGENA3000, se i dati ùn sò ancu in u vostru sistema d'infurmazione. In questi casi, ùn vi scurdate di dumandà una esportazione versu a basa di dati publica da l'interfaccia.
-
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Cù quali cataloghi di prudutti site integratu ?
+## In what format should I send my data?
 
-I pruduttori ponu avà mandà i so dati di prudutti è e so foto in tempu reale da **Equadis**, **AGENA3000 è BAYARD consulting** à Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Benintesa, prufittarete ancu di i suggerimenti di riformulazione è di tutte e funzionalità di a piattaforma.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-U nostru articulu di bloggu](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) spiega i passi da seguità sè site un cliente EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Sè vo site un cliente AGENA3000 (Prodottu A3 PIM INDUSTRY), basta à selezziunà u destinatariu "Open Food Facts" quandu mandate e vostre schede di produttu. [Più infurmazione nantu à questu articulu di blog](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Sè vo site un cliente di un altru catalogu di dati di prudutti (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, ecc.) per piacè fateci sapè à [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Cumu aghjunghje prudutti senza codici à barre via a piattaforma Pro?
+## With which product catalogs are you integrated?
 
-Per i prudutti senza codice à barre, nant'à u situ o nant'à a piattaforma di u pruduttore, ci hè un buttone "Prodottu senza codice à barre" in a colonna di manca chì vi permette d'aghjunghjeli. Un identificatore hè tandu generatu automaticamente.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Avemu creatu prughjetti specifichi per i cusmetichi, per l'alimentazione animale, è ancu per altri prudutti: Open Beauty Facts, Open Pet Food Facts è Open Products Facts rispettivamente.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## I dati di i prudutti di a mo cumpagnia sò dispunibili nantu à Open Food Facts. Hè pussibule di piglià u cuntrollu di u contu di pruduttore assuciatu?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ié benintesa! Pudete piglià u cuntrollu di u contu di pruduttore assuciatu creendu un contu Open Food Facts cù l'indirizzu di a vostra attività. Quandu vi iscrivite, menziunate u nome di l'urganizazione prisente nant'à u furmulariu per pudè accede à u spaziu di pruduttore currispundente.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Una breve fase di validazione serà necessaria per assicurassi chì site veramente u produttore.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Puderete cumpletà i dati, aghjunghje imagine, ottene raccomandazioni automatiche per migliurà u Nutri-Score, è assai di più. Tuttu què hè benintesa cumpletamente gratuitu. Pudete ancu cunnette un sistema di gestione di dati di prudutti di terze parti cum'è EQUADIS, AGENA3000 è Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Quantu tempu ci vole per chì i dati di u pruduttore sianu aghjurnati nantu à altre app chì riutilizanu a basa di dati Open Food Facts ?
-
-Dipende da l'applicazioni. Per quelli chì utilizanu e nostre API, chì sò a grande maggioranza, hè immediatu.  
-Per quelli chì utilizanu e nostre esportazioni di ogni ghjornu, hè D+1 à cundizione ch'elli l'aghjurninu.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## L'impurtazione di i dati da un registru di pruduttu cumpleta o sovrascrive u registru di pruduttu esistente?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Adupremu u codice à barre per identificà i prudutti, sè impurtate un registru cù u listessu codice à barre cum'è un registru esistente, l'infurmazioni seranu fusi.
-
-Per i dati cum'è a lista di l'ingredienti, i valori nutrizionali (solu un valore currettu pussibule), i dati mandati via a piattaforma di pruduttore sovrascriveranu i dati esistenti.
-
-Per i dati cum'è l'etichette/categorie/marche (parechji valori curretti pussibuli), l'infurmazioni sò fusi. Sè i dati sò sbagliati nantu à a piattaforma publica, pudete mudificà a scheda di u produttu nantu à a piattaforma publica per rimuovere i valori sbagliati.
-
-→ Per più dettagli, vi invitemu à scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) è/o cunsultà i nostri [video tutorial](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## L'ordine di l'ingredienti hè impurtante?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-L'ordine di l'ingredienti hè impurtante: rapprisenta l'ordine per quantità.
-U megliu modu per riempie l'ingredienti hè di seguità esattamente ciò chì hè scrittu nantu à l'imballu. Hè per quessa ch'ellu hè ancu cusì impurtante d'avè stampate e foto di l'ingredienti.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Possu mandà ancu imagine via AGENA3000?
+## Is the order of ingredients important?
 
-Pudete mandà imagine, ma in pratica solu l'imagine principale serà selezziunata automaticamente, l'altre imagine seranu mandate, ma micca ritagliate / selezziunate per ingredienti, nutrizione ecc.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Cumu accede à i tutoriali di a piattaforma Pro?
+## Can I send images via AGENA3000 too?
 
-Pudete accede à i tutoriali di a piattaforma pro:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Via a piattaforma pro stessa: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Direttamente nant'à [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-Pudete ancu scaricà a nostra [guida di l'utente](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
