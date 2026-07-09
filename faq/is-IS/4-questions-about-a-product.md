@@ -1,23 +1,23 @@
 ---
-title: "{{< fa innkaupakörfustærð=2x >}} Spurningar um vöru"
-description: "1 spurning"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: innkaupakörfa
+icon: shopping-basket
 ---
 
-{{< fa "innkaupakörfa" size=3x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## Ég hef spurningu / kröfu varðandi vöru
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) er samstarfsvefur sem neytendur stofna og nota til að greina merkingar og bera saman vörur.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-Fyrir frekari upplýsingar um vöru eða kröfu, skrifið til framleiðandans. Við höfum ekki upplýsingar um hvernig hægt er að hafa samband við framleiðendur en þær eru oftast á umbúðunum.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-Ef þú vilt hjálpa okkur að auka gagnsæi fyrir neytendur eins og þig eða okkur, geturðu notað iPhone eða Android appið okkar til að bæta við vörum: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-Og til að ræða verkefnið er hægt að ganga í Facebook-hópinn fyrir þátttakendur: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) eða spjalla við aðra þátttakendur á Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
