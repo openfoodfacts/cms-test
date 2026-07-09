@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Par atklātajiem pārtikas faktiem"
-description: "4 jautājumi"
-lang: lv-lv
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
+lang: en-gb
 order: 17
 category-level: 1
-icon: informācijas aplis
+icon: info-circle
 ---
 
-{{< fa "informācijas aplis" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Kāda veida informācija būtu jākopīgo?
+## What type of information should be shared?
 
-Jebkura jūsu sniegtā informācija ir laipni gaidīta, sākot no uzturvērtības informācijas līdz informācijai par iepakojumu.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Tas ļauj izveidot pilnīgu failu, precīzi aprēķināt visus vērtējumus un kopumā nodrošināt pārredzamību, ko novērtē patērētāji.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Tomēr mēs iesakām jums piešķirt prioritāti šādiem laukiem:
+However we do recommend you prioritize the following fields:
 
-- Uzturvērtības informācija
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Produkta kategorija (piemēram, dzērieni, siers, jogurts utt.)
-
-- Produkta nosaukums
-
-- Alergēni
-
-- un sastāvdaļas, šis lauks nav obligāts, bet ieteicams optimālai izmantošanai un rezultātu noteikšanai
-
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Vai es varu lejupielādēt Open Food Facts datus?
+## Can I download Open Food Facts data?
 
-Visus pieejamos datus varat lejupielādēt vietnē Open Food Facts. Uzmanību, tas prasa daudz vietas diskā, jaudīgu datoru, ja vēlaties izmantot izklājlapu, vai arī zināšanas par R vai Python.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Pateicoties paplašinātajai meklēšanai, varat arī lejupielādēt datu apakškopu (piemēram, savu zīmolu).
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Vai piekļuve Pro platformai un datu importēšana ir bez maksas?
-
-Noteikti, un tas būs mūžīgi.Visi Open Food Facts sniegtie pakalpojumi ir bez maksas.  
-Mēs esam ļoti priecīgi, ka esat nolēmis sniegt savu produktu datus pārtikas pārredzamības veicināšanai, un mēs jums par to pateicamies.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Es vēlētos ieteikt uzlabojumus profesionālajai platformai, kā es to varu izdarīt?
+## Is access to the Pro platform and the import of data free?
 
-Paldies par jūsu vēlmi piedalīties pārtikas pārredzamības veicināšanā!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Labākais veids, kā sniegt atsauksmes, ir aizpildot [šo veidlapu](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Varat arī sazināties ar mums, lai sniegtu ieteikumus, izmantojot [mūsu forumu](https://forum.openfoodfacts.org/) vai [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Pievienojies mūsu Slack un ieej kanālā #producers, lai sazinātos ar mums.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
