@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} ღია კვების ფაქტების შესახებ"
-description: "4 კითხვა"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: საინფორმაციო წრე
+icon: info-circle
 ---
 
-{{< fa "საინფორმაციო წრე" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## რა ტიპის ინფორმაცია უნდა გაიზიაროს?
+## What type of information should be shared?
 
-მისასალმებელია ნებისმიერი ინფორმაცია, დაწყებული კვებითი ღირებულებიდან, დამთავრებული შეფუთვის ინფორმაციით.
+Any information you have is welcome, from nutritional information to packaging information.
 
-ეს შესაძლებელს ხდის სრული ფაილის შექმნას, ყველა ქულის ზუსტად გამოთვლას და, ზოგადად, მომხმარებლების მიერ დაფასებულ გამჭვირვალობას.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-თუმცა, გირჩევთ, პრიორიტეტი მიანიჭოთ შემდეგ ველებს:
+However we do recommend you prioritize the following fields:
 
-- კვებითი ინფორმაცია
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- პროდუქტის კატეგორია (მაგ. სასმელები, ყველი, იოგურტი და ა.შ.)
-
-- პროდუქტის დასახელება
-
-- ალერგენები
-
-- და ინგრედიენტები, ეს ველი სავალდებულო არ არის, მაგრამ რეკომენდებულია ოპტიმალური გამოყენებისა და ქულების განსაზღვრისთვის.
-
-→ დამატებითი ინფორმაციისთვის, გეპატიჟებით ჩამოტვირთოთ ჩვენი [მომხმარებლის სახელმძღვანელო](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) და/ან გაეცნოთ ჩვენს [ვიდეო გაკვეთილებს](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## შემიძლია ჩამოვტვირთო ღია საკვების ფაქტების მონაცემები?
+## Can I download Open Food Facts data?
 
-თქვენ შეგიძლიათ ჩამოტვირთოთ Open Food Facts-ზე არსებული ყველა მონაცემი. ფრთხილად, ეს მოითხოვს დისკის დიდ ადგილს, ძლიერ კომპიუტერს, თუ გსურთ ცხრილის გამოყენება, ან R-ის ან Python-ის ცოდნას სხვა შემთხვევაში.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-ასევე შეგიძლიათ ჩამოტვირთოთ მონაცემების ქვესიმრავლე (მაგალითად, თქვენი ბრენდი) გაფართოებული ძიების წყალობით.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ დამატებითი ინფორმაციისთვის, გეპატიჟებით ჩამოტვირთოთ ჩვენი [მომხმარებლის სახელმძღვანელო](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) და/ან გაეცნოთ ჩვენს [ვიდეო გაკვეთილებს](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Pro პლატფორმაზე წვდომა და მონაცემების იმპორტი უფასოა?
-
-აბსოლუტურად, და ეს სამუდამოდ ასე იქნება.Open Food Facts-ის მიერ მოწოდებული ყველა მომსახურება უფასოა.  
-ძალიან გვიხარია, რომ გადაწყვიტეთ თქვენი პროდუქტის მონაცემებით წვლილი შეიტანოთ კვების გამჭვირვალობისთვის და ამისთვის მადლობას გიხდით.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## მინდა შემოგთავაზოთ პროფესიული პლატფორმის გაუმჯობესებები, როგორ შემიძლია ამის გაკეთება?
+## Is access to the Pro platform and the import of data free?
 
-გმადლობთ, რომ მზად ხართ მონაწილეობა მიიღოთ კვების გამჭვირვალობის საკითხებში!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-გამოხმაურების გაზიარების საუკეთესო გზაა [ამ ფორმის](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) შევსება.
+---
 
-ასევე შეგიძლიათ დაგვიკავშირდეთ წინადადებების გასაკეთებლად [ჩვენი ფორუმის](https://forum.openfoodfacts.org/) ან [Slack-ის](https://openfoodfacts.slack.com/ssb/redirect) მეშვეობით.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-შემოგვიერთდით Slack-ზე და ეწვიეთ არხ #producers-ს, რომ დაგვიკავშირდეთ.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
