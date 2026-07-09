@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} Silnik folksonomii"
-description: "1 pytanie"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: książka
+icon: book
 ---
 
-{{< fa "książka" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Czym jest Folksonomy Engine?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine to system umożliwiający użytkownikom dodawanie niestandardowych tagów lub właściwości do produktów spożywczych w Open Food Facts, największej na świecie otwartej bazie danych produktów spożywczych. Dzięki temu ludzie mogą kategoryzować i opisywać żywność na nowe sposoby, wykraczające poza dotychczasowe, zdefiniowane właściwości.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
