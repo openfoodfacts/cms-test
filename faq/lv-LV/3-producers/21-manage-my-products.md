@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Pārvaldīt manus produktus"
-description: "16 jautājumi"
-lang: lv-lv
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
+lang: en-gb
 order: 21
 category-level: 1
-icon: kaste
+icon: box
 ---
 
-{{< fa "kaste" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Kas garantē Open Food Facts datu kvalitāti?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Lai nepārtraukti uzlabotu datu kvalitāti, mēs balstāmies uz 4 pīlāriem:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Kopiena pastāvīgi papildina datus un fotoattēlus un ir īsta recenzentu patruļa.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Esam iestatījuši loģikas noteikumus, lai identificētu kļūdas produktu lapās.Piemēram: ja sastāvdaļu svara summa ir lielāka par produkta kopējo svaru, pastāv anomālija. Mums ir aptuveni 50 citas kvalitātes pārbaudes.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Pateicoties mašīnmācībai, mēs ierobežojam ievades kļūdu risku. Mūsu tehnoloģija ļauj mums iegūt teksta datus no līdzstrādnieku uzņemtajām fotogrāfijām.
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Pateicoties Santé Publique France atbalstam, mēs izstrādājām portālu, kas ļauj ražotājiem augšupielādēt savus masveidā ražotos datus un tādējādi labot/papildināt kopienas ieguldījumu.
-
----
-
-## Kā pievienot produktus?
-
-Lai pievienotu produktus mūsu platformai, vispirms jāizlemj, kā vēlaties rīkoties. Ir 4 iespējas:
-
-- **Manuāli**: ja jums ir neliels produktu skaits, joprojām ir iespējams izveidot katru produktu lapu manuāli Pro platformā.
-
-- **Izmantojot izklājlapas importēšanu**: varat lejupielādēt Open Food Facts nodrošināto izklājlapas [veidni](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) vai importēt izvilkumu tieši no savas IT sistēmas Pro platformā.
-
-- **Izmantojot produktu katalogu savienotājus**. Ja esat EQUADIS, AGENA3000 vai BAYARD klients, varat augšupielādēt datus Open Food Facts platformā ar vienu klikšķi. Ja strādājat ar citu PIM (produktu informācijas pārvaldības sistēmu), lūdzu, sazinieties ar mums: producers@openfoodfacts.org
-
-- **Izmantojot pielāgotu savienojumu** starp jūsu uzņēmumu un Open Food Facts. Ja jūsu portfelī ir vairāk nekā 1000 produktu, mēs varam apspriest iespēju izveidot īpašu savienotāju, lai atvieglotu datu pārsūtīšanu.
-
-Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Vai ir veids, kā automatizēt produktu atjauninājumus publiskajā datubāzē?
+## How to add products?
 
-Jā, ja izmantojat EQUADIS, AGENA3000 vai BAYARD produktu katalogus un iestatāt pareizo konfigurāciju, importēšanu var veikt automātiski un tādējādi atjaunināt produktu datus Open Food Facts platformā.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
 
----
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
 
-## Vai pievienoto produktu skaits ir ierobežots?
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
 
-Nav ierobežojumu, mūsu platformā varat augšupielādēt tik produktu, cik vēlaties.
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
 
----
-
-## Is it possible to delete products that are no longer sold?
-
-Ja vēlaties noņemt produktu, kas vairs nav pieejams tirgū, rediģējot produkta lapu, vienkārši atzīmējiet izvēles rūtiņu "šis produkts vairs netiek pārdots".
-
-Ja vēlaties noņemt vairākus produktus, iesakām ievērot procedūru, kas minēta [lietotāja rokasgrāmatā](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), 18. lpp.
-
-Ja jums ir kādi jautājumi, varat sazināties ar mums arī pa e-pastu producers@openfoodfacts.org.
-
-Kad produkts tiks arhivēts, tas vairs netiks rādīts Open Food Facts datubāzē.Tomēr tā paliks mūsu datubāzē, lai mēs varētu saglabāt laika gaitā pārdoto produktu vēsturi.
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Vai uzņēmuma informācijai ir prioritāte salīdzinājumā ar informāciju, kas jau ir pieejama platformā?
+## Is there a way to automate product updates to the public database?
 
-Kad ražotājs ievieto vienu no saviem produktiem tiešsaistē, izmantojot savu ražotāja kontu, un produkta lapa jau pastāv, tas tiks pabeigts.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
 
-Informācijai, ko būs ievietojis ražotājs, vienmēr būs prioritāte, un tikai viņš varēs modificēt savus produktus, kad informācija būs aizpildīta.
-
-Ja platformas ietvaros nosūtītie dati ir fragmentēti, tos var papildināt kopienas pievienotā informācija no iepakojuma.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kādā formātā man jānosūta mani dati?
+## Is the number of added products limited?
 
-[Veidni](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) nodrošina Open Food Facts.
-
-Tomēr platformā varēs importēt jebkuru izklājlapu formātu (xlsx, csv).  
-Mūsu algoritms ir izstrādāts tā, lai automātiski saskaņotu jūsu failā esošos atribūtus ar tiem, kas atrodas Open Food Facts failā. Vienmēr divreiz pārbaudiet saskaņošanas pakāpienu, jo, iespējams, dažas no tām būs jāpielāgo manuāli.
-
-Ja jūsu informācija ir fragmentēta vairākās izklājlapās, varat tās importēt secīgi, pārliecinoties, ka veicat saskaņošanu, ja mainās formāts.
-
-Papildus EQUADIS vai AGENA3000 importam varat importēt arī Excel failu, ja dati vēl nav jūsu informācijas sistēmā. Šādos gadījumos neaizmirstiet pieprasīt eksportu uz publisko datubāzi no saskarnes.
-
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
-## Ar kuriem produktu katalogiem jūs esat integrēti?
+## Vai ir iespējams dzēst preces, kuras vairs netiek pārdotas?
 
-Ražotāji tagad var nosūtīt savu produktu datus un fotoattēlus reāllaikā no **Equadis,** **AGENA3000 un BAYARD consulting** uzņēmumam Open Food Facts.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Protams, jūs gūsiet labumu arī no ieteikumiem par pārformulēšanu un visām platformas funkcijām.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-[Mūsu emuāra ierakstā](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) ir paskaidroti soļi, kas jāveic, ja esat EQUADIS klients.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Ja esat AGENA3000 klients (produkts A3 PIM INDUSTRY), nosūtot produktu lapas, jums tikai jāizvēlas saņēmējs "Open Food Facts". [Vairāk informācijas šajā emuāra ierakstā](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
-
-Ja esat cita produktu datu kataloga klients (Salsify — bij. Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks u. c.) lūdzu, paziņojiet mums pa e-pastu [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Kā pievienot produktus bez svītrkodiem, izmantojot Pro platformu?
+## Does company information take precedence over information already present on the platform?
 
-Produktiem bez svītrkoda vietnē vai ražotāja platformā kreisajā kolonnā ir poga “Produkts bez svītrkoda”, kas ļauj tos pievienot. Pēc tam automātiski tiek ģenerēts identifikators.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
----
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
-
-Esam izveidojuši konkrētus projektus kosmētikai, dzīvnieku barībai, kā arī citiem produktiem: attiecīgi “Atklāti skaistumkopšanas fakti”, “Atklāti mājdzīvnieku barības fakti” un “Atklāti produktu fakti”.
-We are therefore happy to be able to import your products into the project that suits them.
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Mana uzņēmuma produktu dati ir pieejami vietnē Open Food Facts. Vai ir iespējams pārņemt saistītā ražotāja konta kontroli?
+## In what format should I send my data?
 
-Jā, protams! Jūs varat pārņemt saistītā ražotāja konta kontroli, izveidojot Open Food Facts kontu ar sava uzņēmuma adresi. Reģistrējoties, veidlapā norādiet organizācijas nosaukumu, lai varētu piekļūt attiecīgajai producenta telpai.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Lai pārliecinātos, ka jūs patiešām esat ražotājs, būs nepieciešams īss validācijas solis.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-Jūs varēsiet papildināt datus, pievienot attēlus, saņemt automātiskus ieteikumus Nutri-Score uzlabošanai un daudz ko citu. Tas viss, protams, ir pilnīgi bez maksas. Varat arī pieslēgt trešās puses produktu datu pārvaldības sistēmu, piemēram, EQUADIS, AGENA3000 un Bayard consulting.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
----
-
-## Cik ilgs laiks nepieciešams, lai ražotāja dati tiktu atjaunināti citā lietotnē, kas atkārtoti izmanto Open Food Facts datubāzi?
-
-Tas ir atkarīgs no lietotnēm. Tiem, kas izmanto mūsu API, kas ir lielākā daļa, tas ir tūlītēji.  
-Tiem, kas izmanto mūsu ikdienas eksportus, tas ir D+1, ja vien viņi to atjaunina.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Vai datu importēšana no produkta ieraksta pabeidz vai pārraksta esošo produkta ierakstu?
+## With which product catalogs are you integrated?
 
-Mēs izmantojam svītrkodu produktu identificēšanai; ja importējat ierakstu ar tādu pašu svītrkodu kā esošam ierakstam, informācija tiks apvienota.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
 
-Tādiem datiem kā sastāvdaļu saraksts, uzturvērtības (iespējama tikai viena pareiza vērtība), caur ražotāja platformu nosūtītie dati pārrakstīs esošos datus.
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
 
-Tādiem datiem kā etiķetes/kategorijas/zīmoli (iespējamas vairākas pareizas vērtības) informācija tiek apvienota. Ja publiskajā platformā dati ir nepareizi, varat modificēt produkta lapu publiskajā platformā, lai noņemtu nepareizās vērtības.
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
 
-→ Lai iegūtu sīkāku informāciju, aicinām lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) un/vai apskatīt mūsu [video pamācības](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
 
----
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
-## Vai sastāvdaļu secība ir svarīga?
-
-Sastāvdaļu secība ir svarīga: tā atspoguļo secību pēc daudzuma.
-Labākais veids, kā aizpildīt sastāvdaļas, ir precīzi ievērot norādījumus uz iepakojuma. Tāpēc ir tik svarīgi arī izdrukāt sastāvdaļu fotoattēlus.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Vai es varu nosūtīt attēlus arī caur AGENA3000?
+## How to add products without barcodes via the Pro platform?
 
-Varat nosūtīt attēlus, taču praksē automātiski tiks atlasīts tikai galvenais attēls, pārējie attēli tiks nosūtīti, bet netiks apgriezti/atlasīti pēc sastāvdaļām, uzturvērtības utt.
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
-## Kā piekļūt Pro platformas pamācībām?
+## Vai dzīvnieku izcelsmes produktus, nepārtikas produktus, kosmētiku un citus produktus var integrēt Open Food Facts datubāzē?
 
-Jūs varat piekļūt profesionālās platformas pamācībām:
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
+Tāpēc mēs ar prieku varam importēt jūsu produktus projektā, kas tiem ir piemērots.
 
-- Caur pašu profesionālo platformu: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Tieši vietnē [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-→ Varat arī lejupielādēt mūsu [lietotāja rokasgrāmatu](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
+
+A short validation step will be necessary to ensure that you are indeed the producer.
+
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
+
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
+
+---
+
+## Does importing the data from a product record complete or overwrite the existing product record?
+
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the order of ingredients important?
+
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
+
+---
+
+## Can I send images via AGENA3000 too?
+
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
+
+---
+
+## How to access the Pro platform’s tutorials?
+
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
