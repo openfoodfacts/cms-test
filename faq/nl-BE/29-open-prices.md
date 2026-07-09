@@ -1,7 +1,7 @@
 ---
-title: "{{< fa dollar size=2x >}} Openingsprijzen"
+title: "{{< fa dollar size=2x >}} Open Prices"
 description: "3 vragen"
-lang: en-gb
+lang: nl-nl
 order: 29
 category-level: 0
 icon: dollar
@@ -15,9 +15,9 @@ Je kunt prijzen toevoegen door gebruik te maken van [onze API](https://prices.op
 
 ---
 
-## Overweegt u om prijzen van de websites van winkeliers te kopiëren?
+## Overweegt u om prijzen van de websites van detailhandelaren te halen?
 
-Om juridische en technische redenen beschouwen we het scrapen van prijzen van websites van retailers niet als een geldige manier om bij te dragen aan Open Prices. We willen ervoor zorgen dat de prijzen die we verzamelen nauwkeurig en actueel zijn, en het ontvangen van prijzen die door bijdragers worden verzameld, maakt dat onmogelijk.
+Om juridische en technische redenen beschouwen we het scrapen van prijzen van websites van detailhandelaren niet als een geldige manier om bij te dragen aan Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Prijsscraping is een optie die wordt overwogen voor een toekomstige versie van Open Prices, maar dit zou door Open Prices zelf worden gedaan, zodat we een bewijs van de prijs op basis van de HTML-pagina kunnen hebben.
 
@@ -25,7 +25,7 @@ Prijsscraping is een optie die wordt overwogen voor een toekomstige versie van O
 
 ## Waarom doet Open Food Facts dit (Open Prices)?
 
-Prijsinformatie is van het grootste belang voor het begrijpen van voedselsystemen. Het is een belangrijke factor om de kosten van voedsel te begrijpen en gezondere eetgewoonten te bevorderen. Openingsprijsgegevens maken het voor onderzoekers, journalisten en burgers gemakkelijker om beter te begrijpen hoe voedselprijzen geografisch en in de tijd variëren.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
