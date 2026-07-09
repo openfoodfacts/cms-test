@@ -1,50 +1,50 @@
 ---
-title: "{{< bogolo jwa senotlolo sa fa=2x >}} Dintlha tsa Dikumo tse di Butsweng"
-description: "Dipotso di le 3"
+title: "{{< fa key size=2x >}} Open Products Facts"
+description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: senotlolo
+icon: key
 ---
 
-{{< fa "senotlolo" size=3x >}}
+{{< fa "key" size=3x >}}
 
-## Tsela ya go fitlhelela Dintlha tsa Dikumo tse di Buletsweng mo iPhone ?
+## How to access Open Products Facts on iPhone ?
 
-Dintlha tsa Dihlahiswa tse Bulehileng di fumaneha ka hara app e kgolo ya Dintlha tsa Dijo tse Bulehileng. Kopanyo ena e letla basebedisi ba iPhone ho fihlella dipolokelotshedimosetso ka bobedi ka kopo e le nngwe, e loketseng.
-
----
-
-## Ke rata go tshegetsa Dintlha tsa Dikumo tse di Buletsweng. Nka dirang ?
-
-Tsweetswee buisa tsebe ya rona ya wiki, re kwadile ditsela tsa go nna le seabe: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.
-
-Go tshegetsa Dintlha tsa Dikumo tse di Buletsweng, o ka akanyetsa ditlhopho tse di latelang, nngwe le nngwe ya tsone e diretswe mefuta e e farologaneng ya meneelo:
-
--
-
-**Batshegetsi ba Bopelotshweu/Puso ba Dikumo tse di Buletsweng Dintlha**:
-Dikabelo tsa bopelotlhomogi di botlhokwa thata mo go fitlheleleng pono ya polatefomo e e akaretsang ya tshedimosetso e e sediko, go ntsha maduo a dikumo, le go kokoanya ditharabololo tse di sediko, go ralala ditlhopha tse di fetang 20000+ tsa kependuct tsa O. Dikarolo tse ngata tsa bohlokwa tsa pono ena ha di eso tshehetswe ka ditjhelete, mme tshehetso ya hao ya tjhelete e ka ba le tshusumetso e kgolo. Meneelo ya lona e ka thusa go duelela ditlhabololo tse di botlhokwa le mafaratlhatlha. Go ntsha moneelo wa madi, tsweetswee ikgolaganye le rona mo go contact@openfoodfacts.org
-
--
-
-**Batshwaedi ba Tshedimosetso ba Dirisa Tiriswa ya Dintlha tsa Dikumo tse di Buletsweng**:
-Dikabelo tsa tshedimosetso di botlhokwa mo go lekanyetseng Dintlha tsa Dikumo tse di Buletsweng. Ka go dirisa tiriswa Android go tsenya tshedimosetso e ntšha ya sedirwa, go tlhabolola ditsenngwa tse di leng teng, kgotsa go netefatsa tshedimosetso, o thusa go atolosa le go tokafatsa polokelotshedimosetso. Maiteko ano a a kopanetsweng a na le seabe mo go ageng motswedi o o nonofileng le o o ikanyegang wa mongwe le mongwe.
-
--
-
-**Batho ba ba nang le seabe sa setegeniki mo Dintlhang tsa Dikumo tse di Buletsweng**:
-Fa o na le bokgoni jwa setegeniki mo dikarolong tse di jaaka go dira diporokeramo, go sekaseka tshedimosetso, kgotsa go tlhama maitemogelo a modirisi, boitseanape jwa gago bo ka solegela Dintlha tsa Dikumo tse di Buletsweng molemo thata. Go nna le seabe mo go tlhabololeng tiriswa, go tokafatsa go dira ga yone, kgotsa go tokafatsa digokagano tsa badirisi ke meneelo e e botlhokwa. Go nna le seabe, tsenela kanale ya Slack ya #openproductsfacts, moo setšhaba sa Dintlha tsa Dikumo tse di Buletsweng se dirisanang mmogo gone. O ka bona kgokagano ya lefelo leno la tiro la Slack mo webosaeteng ya Open Food Facts.
-
-Mofuta mongwe le mongwe wa seabe o botlhokwa mo kgolong le katlegong ya Dintlha tsa Dikumo tse di Buletsweng, go thusa go tlhama sethala se se tswelelang le se se nang le tshedimosetso sa mongwe le mongwe.
+Open Products Facts is available within the main Open Food Facts app. This integration allows iPhone users to access both databases through a single, convenient application.
 
 ---
 
-## Nka bona kae API ya Dintlha tsa Dikumo tse di Buletsweng ?
+## I would like to support Open Products Facts. What can I do ?
 
-API ya Dintlha tsa Dihlahiswa tse Bulehileng e tshwana ka 98% le API ya Dintlha tsa Dijo tse Bulehileng kahoo haeba o sebedisa ditokomane tsa API ya Dintlha tsa Dijo tse Bulehileng o lokela ho ba le pono e hlakileng ya API ya Dintlha tsa Dihlahiswa tse Bulehileng. Re boetse re ngotse inehetseng thuto ho dumella ho kenya tshebetsong bokahohleng scan ka app ya hao.
+Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
 
-[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https/dintlha tsa dijo tse di bulegileng.github.io/sefara ya dintlha tsa dijo tse di bulegileng/api/ref-v2/)
+To support Open Products Facts, you can consider the following options, each tailored to different types of contributions:
+
+-
+
+**Philanthropic/State Sponsors for Open Products Facts**:
+Philanthropic contributions are crucial in realizing the vision of a comprehensive circular data platform, product scoring, and circular solutions aggregation, across more that 20000+ categories, a key goal of Open Products Facts. Many essential components of this vision are not yet funded, and your monetary support can make a significant impact. Your donations can help fund critical developments and infrastructure. To contribute financially, please get in touch at contact@openfoodfacts.org
+
+-
+
+**Data Contributors Using the Open Products Facts App**:
+Data contributions are vital for scaling Open Products Facts. By using the Android app to add new product information, update existing entries, or verify data, you help expand and refine the database. This collective effort contributes to building a robust and reliable resource for everyone.
+
+-
+
+**Technical Contributors to Open Products Facts**:
+If you have technical skills in areas like programming, data analysis, or user experience design, your expertise can significantly benefit Open Products Facts. Engaging in the development of the app, improving its functionality, or enhancing user interfaces are valuable contributions. To get involved, join the #openproductsfacts Slack channel, where the Open Products Facts community collaborates. You can find a link to this Slack workspace on the Open Food Facts website.
+
+Each type of contribution is important to the growth and success of Open Products Facts, helping to create a more sustainable and informative platform for everyone.
+
+---
+
+## Where can I find the Open Products Facts API ?
+
+Open Products Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Products Facts API. We also have written dedicated tutorial to allow to implement universal scan in your app.
+
+[https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
 ---
 
