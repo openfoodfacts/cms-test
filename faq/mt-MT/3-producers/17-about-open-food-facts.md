@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Dwar Fatti dwar l-Ikel Miftuħ"
-description: "4 mistoqsijiet"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: ċirku tal-informazzjoni
+icon: info-circle
 ---
 
-{{< fa "ċirku tal-informazzjoni" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## X'tip ta' informazzjoni għandha tinqasam?
+## What type of information should be shared?
 
-Kull informazzjoni li għandek hija milqugħa, minn informazzjoni nutrizzjonali għal informazzjoni dwar l-ippakkjar.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Dan jagħmilha possibbli li jiġi stabbilit fajl komplut, li jiġu kkalkulati l-punteġġi kollha bi preċiżjoni u b'mod aktar ġenerali trasparenza apprezzata mill-konsumaturi.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Madankollu nirrakkomandaw li tagħti prijorità lill-oqsma li ġejjin:
+However we do recommend you prioritize the following fields:
 
-- Informazzjoni nutrizzjonali
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kategorija tal-prodott (eż. xorb, ġobon, jogurt, eċċ.)
-
-- Isem tal-prodott
-
-- Allerġeni
-
-- u l-ingredjenti, dan il-qasam mhuwiex obbligatorju iżda rakkomandat għal użu ottimali u d-determinazzjoni tal-punteġġi
-
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Nista' niżżel id-dejta tal-Open Food Facts?
+## Can I download Open Food Facts data?
 
-Tista' tniżżel id-dejta kollha disponibbli fuq Open Food Facts. Oqgħod attent, dan jeħtieġ ħafna spazju fuq id-diska, kompjuter b'saħħtu jekk trid tuża spreadsheet jew għarfien ta' R jew Python mod ieħor.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Tista' wkoll tniżżel sottosett tad-dejta (pereżempju l-marka tiegħek) bis-saħħa tat-tfittxija avvanzata.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## L-aċċess għall-pjattaforma Pro u l-importazzjoni tad-dejta huma bla ħlas?
-
-Assolutament, u se jkun għal dejjem.Is-servizzi kollha pprovduti minn Open Food Facts huma bla ħlas.  
-Aħna kuntenti ħafna li ddeċidejt li tikkontribwixxi d-dejta tal-prodott tiegħek għat-trasparenza tal-ikel, u nirringrazzjawk ta' dan.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Nixtieq nissuġġerixxi titjib għall-pjattaforma professjonali, kif nista' nagħmel dan?
+## Is access to the Pro platform and the import of data free?
 
-Grazzi tal-volontà tiegħek li tipparteċipa fit-trasparenza tal-ikel!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-L-aħjar mod biex taqsam feedback huwa billi timla [din il-formola](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Tista' wkoll tikkuntattjana biex tagħmel suġġerimenti jew permezz tal-[forum tagħna](https://forum.openfoodfacts.org/) jew permezz ta' [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Ingħaqad mas-Slack tagħna u idħol fil-kanal #producers biex tikkuntattjana.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
