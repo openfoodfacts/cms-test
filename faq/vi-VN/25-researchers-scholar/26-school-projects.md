@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Dự án trường học"
-description: "2 câu hỏi"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: tập tin-o
+icon: file-o
 ---
 
-{{< fa "tập tin-o" size="3 lần" >}}
+{{< fa "file-o" size=3x >}}
 
-## Tôi có một dự án ở trường cần làm, tôi muốn sử dụng dữ liệu của Open Food Facts, tôi có được phép làm vậy không?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts là một cơ sở dữ liệu mở, một dự án mở hoạt động theo giấy phép ODbL. Do đó, miễn là bạn đồng ý với các yêu cầu của giấy phép ODbL, bạn được phép sử dụng lại dữ liệu của chúng tôi cho các dự án của mình :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Tôi có thể truy cập/thu thập dữ liệu cho các dự án của mình bằng cách nào?
+## How can I access/collect data for my projects ?
 
-Trên trang chủ của Open Food Facts, ở góc trên bên trái màn hình, có một menu cuộn. Ở cuối trang, bạn sẽ thấy tùy chọn "tìm kiếm nâng cao", bạn có thể nhấp vào đó. Sau đó, bạn sẽ phải tự xác định những tiêu chí nào phù hợp nhất với dự án của mình. Sau khi chọn xong, bạn có thể tải xuống kết quả bằng cách cuộn xuống cuối trang và nhấp vào “Tải xuống kết quả”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
