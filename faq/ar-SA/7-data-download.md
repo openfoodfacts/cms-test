@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} تنزيل البيانات"
-description: "سؤال واحد"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: تنزيل من السحابة
+icon: cloud-download
 ---
 
-{{< fa "تنزيل من السحابة" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## أين يمكن الحصول على البيانات الخاصة بدولة معينة؟
+## Where to get the data for a specific country?
 
-حالياً، لا توجد صادرات مخصصة لبلدان محددة.
+Currently, there are no exports dedicated to specific countries.
 
-هناك العديد من الطرق لاستخدام صادراتنا المختلفة جنبًا إلى جنب مع أدوات مختلفة لاختيار البيانات المتعلقة ببلد معين.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-يمكنك إلقاء نظرة على [بعض هذه التقنيات على موقعنا الإلكتروني](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
