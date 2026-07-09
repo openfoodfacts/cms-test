@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} ডেটা ডাউনলোড"
-description: "১টি প্রশ্ন"
-lang: en-gb সম্পর্কে
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: ক্লাউড-ডাউনলোড
+icon: cloud-download
 ---
 
-{{< fa "ক্লাউড-ডাউনলোড" size="3x এর বিবরণ" >}}
+{{< fa "cloud-download" size=3x >}}
 
-## একটি নির্দিষ্ট দেশের তথ্য কোথা থেকে পাবো?
+## Where to get the data for a specific country?
 
-বর্তমানে, নির্দিষ্ট দেশে কোনও রপ্তানি নিবেদিত নেই।
+Currently, there are no exports dedicated to specific countries.
 
-একটি নির্দিষ্ট দেশের সাথে সম্পর্কিত ডেটা নির্বাচন করার জন্য আমাদের বিভিন্ন রপ্তানি বিভিন্ন সরঞ্জামের সাথে একত্রিত করার অনেক উপায় রয়েছে।
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-আপনি [আমাদের উইকিতে এই কৌশলগুলির কিছু] (https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) দেখতে পারেন।
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
