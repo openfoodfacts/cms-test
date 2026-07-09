@@ -1,6 +1,6 @@
 ---
 title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
-description: "3 questions"
+description: "3 preguntas"
 lang: en-gb
 order: 15
 category-level: 0
