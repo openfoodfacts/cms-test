@@ -1,21 +1,21 @@
 ---
-title: "{{< fa ინდუსტრიის ზომა=2x >}} მწარმოებლები"
-description: "6 ქვეკატეგორია"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: ინდუსტრია
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: ბადე
+  type: grid
   grid-columns: 4
-  sort: "შეკვეთა"
-  fields: [ სათაური, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "ინდუსტრია" size=3x >}}
+{{< fa "industry" size=3x >}}
 
