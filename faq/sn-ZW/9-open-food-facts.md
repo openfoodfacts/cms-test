@@ -1,33 +1,33 @@
 ---
-title: "{{< fa saizi yedenderedzwa remubvunzo=2x >}} Chokwadi Chekudya Chakavhurika"
-description: "Mibvunzo mipfumbamwe"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
+description: "9 questions"
 lang: en-gb
 order: 9
 category-level: 0
-icon: denderedzwa remibvunzo
+icon: question-circle
 ---
 
-{{< fa "denderedzwa remibvunzo" size=3x >}}
+{{< fa "question-circle" size=3x >}}
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
 The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. Muzviitiko zvakawanda, mitemo yavo yebasa inorambidza pachena kushandiswa kwese kusiri kwemunhu uye chero kubviswa kwedata rese kana zvikamu zvedata.
+Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. Saka patakatanga chirongwa cheOpen Food Facts neapp yefoni, muna 2012, takasarudza kuita zvakasiyana: hatibvumiri chete kushandiswa nekushandiswazve kwedatabase yedu, zvakasununguka uye pasina muripo, kune wese munhu uye pakushandiswa kwese (kusanganisira kwekutengeserana), asi tinokukurudzirawo!
+We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
-Kuita kuti ruzivo rwuwanikwe pachena (zvinozivikanwa se _data rakavhurika_) kunobvumira vanhu, masangano, makambani, vaongorori nezvimwewo kubva kumativi ese epasi kuti vafunge nekugadzira mashandisirwo eruzivo rwacho rwatisingambofungi nezvarwo.
+Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
 ## What is Open Food Facts' economic model
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (ona [Mitemo yekushandisazve](https://en.openfoodfacts.org/terms-of-use#reuse))
+Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Munhu wese (kusanganisira asi kwete chete kune vanopa ruzivo nezveOpen Food Facts nevagadziri) vanogona kugovera patsva uye/kana kushandisazve data iri kuvaka mawebhusaiti, masevhisi, software, nharembozha, kana kunyora zvinyorwa nezvidzidzo. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. Semuenzaniso, Platform yedu yeVagadziri haina muripo zvachose, uye tinofara nazvo nekuti tinofunga kuti zvingavabatsira kuvandudza zvigadzirwa zvavo.
+We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -41,80 +41,81 @@ To avoid any legal problem, we therefore ask contributors to only add pictures t
 
 ## How can I contact the Open Food Facts team, ask questions or make suggestions?
 
-Unogona kubvunza mibvunzo kana kupa mazano paforamu kana kutibata nesu ne email:contact@openfoodfacts.org
+You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
-Kana uri mugadziri, ndapota titumirei email pa [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
-Kana uri mutori wenhau, ndapota titumirei email pa [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Ndokumbirawo mucherechedze: [Open Food Facts idhatabhesi yekubatsirana yezvigadzirwa zvekudya](https://world.openfoodfacts.org/discover), hatitengese chero chigadzirwa uye hatina malink evanogadzira chikafu. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
 
 ---
 
 ## Is the information and data on products verified?
 
-Ruzivo nedata zvinotumirwa nevanobatsira paOpen Food Facts. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
-To detect potential errors more easily, we will progressively add automated checks. Semuenzaniso, kana ruzivo rwezvekudya rwechigadzirwa rwakasiyana zvikuru nerwechigadzirwa chemhando imwe chete, chingave chikanganiso. If the nutriments add up to more than 100%, it's definitely an error.
+To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. Kana uri mugadziri, ndapota [taura nesu](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (ona [Mitemo yekupa](https://en.openfoodfacts.org/terms-of-use#contribution))
+Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-Takagadzira puratifomu yemahara yekukubvumidza kupinza mapikicha neruzivo nezvezvigadzirwa zvako zviri nyore, zvisinei nehukuru hwako. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Tibatei kuti tikurukure kuti tingaenderera mberi sei: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
-## Ndiani anoshandisa ruzivo rweOpen Food Facts?
+## Who uses Open Food Facts data?
 
-Zvaizotora nguva yakareba
-kunyora masangano ese anovimba nepuratifomu yeOpen Food Facts
-.
+It would
+take too long to list all the organizations that rely on the Open Food Facts
+platform.
 
-- Mapurogiramu efoni anopfuura zana
-  anogadzirisa zvinodiwa nevateereri vazhinji: chirwere cheshuga (VeryDiab), allergies, chikafu
-  chiyero kuburikidza nenjere dzekugadzira (FoodVisor), kuremara, nezvimwewo. Dhatabhesi redu re
-  rakabvumirawo kugadzirwa kweYuka.
-- Mawebhusaiti akawanda: CombienDeSucres.fr,
+- More than 100 mobile applications
+  address the needs of many audiences: diabetes (VeryDiab), allergies, food
+  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
+  database also allowed the creation of Yuka.
+- Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Vatori venhau : Les Décodeurs du Monde, BFM
+- Data-journalists : Les Décodeurs du Monde, BFM
   TV
-- Vaongorori muzvinyorwa zvesainzi zvinosvika zana
+- Researchers in nearly 100 scientific
+  articles
 - Food banks and solidarity stores: a
   Data For Good project in the continuity of a pilot project initiated by the
   French Red Cross, integration in the cash management of a small food
   cooperative.
-- Makambani: Terraillon inoshandisa data redu
-  kupa hupenyu kune zviyero zvayo zvakabatana.
-- Zvikoro zvekuronga mapurogiramu (Simplon, Open
-  Makirasi) zvakabatanidza Open Food Facts seprojekiti inokurudzira muchirongwa chavo che
-  .
+- Companies: Terraillon uses our data
+  to give life to its connected scales.
+- Programming schools (Simplon, Open
+  Classrooms) have integrated Open Food Facts as a motivating project in their
+  curriculum.
 
 ---
 
-## Ndingatsigira sei Open Food Facts?
+## How can I support Open Food Facts?
 
 Open Food
-Facts isangano risingabatsiri ra1901. Munogona kutibatsira ne [kutora chikamu muchirongwa](https://fr-en.openfoodfacts.org/contribute) uye nekutsigira nemari ne [zvipo](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% deductible) uye zvakare nekushandisa Lilo
-injini yekutsvaga.
+Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66% deductible) and also by using the Lilo
+search engine.
 
-**Ndatenda zvikuru
-!**
+**Thank
+you very much!**
 
 ---
 
-## Handikwanise kuwana mhinduro yemubvunzo wangu
+## I can't find the answer to my question
 
-Kana usingakwanise kuwana mhinduro yemibvunzo yako, usazeza kutibata kuburikidza ne:
+If you can't find an answer to your question(s), don't hesitate to contact us via:
 
-- Slack Yedu: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Forum yedu: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
