@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} Malunga namanqaku"
-description: "Imibuzo emi-3"
-lang: i-en-gb
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
+lang: en-gb
 order: 19
 category-level: 1
-icon: umgca wetshathi
+icon: chart-line
 ---
 
-{{< fa "umgca wetshathi" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Ngubani onoxanduva lokubala umkhondo wento eyenzekileyo kunye/okanye amanqaku?
+## Who is responsible for calculating the footprint and/or score?
 
-Iqela leNutri-Score, iqela leNOVA kunye ne-Eco-Score zibalwa ngokusekelwe kwidatha ekhoyo kwi-Open Food Facts. Ii-algorithms zethu zilandela ngokungqongqo iindlela ezisemthethweni zala manqaku.
-
----
-
-## Yintoni umahluko phakathi kwe-Eco-Score, i-Nutri-Score kunye neqela le-NOVA?
-
-Injongo yezi mpawu kukubonelela ngolwazi oluqondakala lula kumthengi.
-
-Iqela le-[NOVA](https://fr.openfoodfacts.org/nova) lijongene notshintsho lwemveliso, i[Eco-Score](https://fr.openfoodfacts.org/ecoscore) kunye nempembelelo yayo kwindalo esingqongileyo kunye ne-[Nutri-Score](https://fr.openfoodfacts.org/nutriscore) kunye nezinto zesondlo, besazi ukuba okukhona imveliso inamanqaku asondele ku-A, kokukhona iba nomgangatho ophezulu.
-
-Amanqaku amathathu awajongani nezinto ezifanayo. Ngoko ke akunakwenzeka ukuba zithelekiswe.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## Ngaba kunokwenzeka ukuba ndilinganise i-Eco-Score okanye i-Nutri-Score yeemveliso zam?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Ngokubhalisa kwiqonga labavelisi kunye nokulayisha idatha yeemveliso zakho, ungabala iNutri-Score kunye ne-Eco-Score ezinxulumene neemveliso zakho.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Nangona kunjalo, kufuneka uyicime xa sele kwenziwe ukulinganisa ukuze ingathunyelwa kwiqonga likawonke-wonke kunye neemveliso esele zithengiswa kuluhlu lwakho.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Ukuze ufumane iinkcukacha ezithe vetshe, siyakumema ukuba ukhuphele [isikhokelo somsebenzisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kunye/okanye ujonge [iividiyo zethu zokufundisa](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
