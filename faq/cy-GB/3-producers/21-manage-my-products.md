@@ -1,177 +1,177 @@
 ---
-title: "{{< maint y blwch fa=2x >}} Rheoli fy nghynhyrchion"
-description: "16 cwestiwn"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: blwch
+icon: box
 ---
 
-{{< fa "blwch" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Beth sy'n gwarantu ansawdd y data yn Ffeithiau Bwyd Agored?
+## What guarantees the quality of the data in Open Food Facts?
 
-Er mwyn gwella ansawdd y data yn barhaus rydym yn dibynnu ar 4 colofn:
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Mae'r gymuned yn ychwanegu data a lluniau'n gyson ac mae'n batrôl wirioneddol o adolygwyr.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Rydym wedi gosod rheolau rhesymeg i nodi gwallau ar y taflenni cynnyrch.Er enghraifft: os yw cyfanswm pwysau'r cynhwysion yn fwy na chyfanswm pwysau'r cynnyrch, mae anomaledd. Mae gennym tua 50 o wiriadau ansawdd eraill.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Diolch i Ddysgu Peirianyddol, rydym yn cyfyngu ar y risg o wallau mewnbwn. Mae ein technoleg yn caniatáu inni echdynnu data testunol o luniau a dynnwyd gan gyfranwyr
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Diolch i gefnogaeth Santé Publique France, fe wnaethom ddatblygu porth sy'n caniatáu i gynhyrchwyr uwchlwytho eu data a gynhyrchwyd ar raddfa fawr ac felly gywiro/cwblhau cyfraniadau'r gymuned.
-
----
-
-## Sut i ychwanegu cynhyrchion?
-
-I ychwanegu cynhyrchion at ein platfform, mae angen i chi benderfynu yn gyntaf sut rydych chi am fwrw ymlaen. Mae 4 opsiwn:
-
-- **Â llaw**: os oes gennych nifer fach o gynhyrchion, mae'n dal yn bosibl creu pob taflen gynnyrch â llaw ar y Platfform Pro.
-
-- **Trwy fewnforio taenlen**: gallwch lawrlwytho'r daenlen [templed](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) a ddarperir gan Open Food Facts, neu fewnforio darn o'ch system TG yn uniongyrchol i'r platfform Pro.
-
-- **Trwy gysylltwyr catalogau cynnyrch**. Os ydych chi'n gleient yn EQUADIS, AGENA3000 neu BAYARD, gallwch chi uwchlwytho data yn Open Food Facts gydag 1 clic. Os ydych chi'n gweithio gyda PIM (Rheoli Gwybodaeth Cynnyrch) arall, cysylltwch â ni: producers@openfoodfacts.org
-
-- **Trwy gysylltiad wedi'i deilwra** rhwng eich cwmni ac Open Food Facts. Os oes gennych fwy na 1000 o gynhyrchion yn eich portffolio, gallwn drafod y cyfle i adeiladu cysylltydd penodol i hwyluso'r broses o drosglwyddo data.
-
-Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Oes ffordd o awtomeiddio diweddariadau cynnyrch i'r gronfa ddata gyhoeddus?
+## How to add products?
 
-Ydy, os ydych chi'n defnyddio catalogau cynnyrch EQUADIS, AGENA3000 neu BAYARD, ac yn gosod y ffurfweddiad cywir, gellir mewnforio'n awtomatig ac felly diweddaru data'r cynnyrch ar Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## A yw nifer y cynhyrchion ychwanegol yn gyfyngedig?
+## Is there a way to automate product updates to the public database?
 
-Nid oes terfyn, gallwch uwchlwytho nifer y cynhyrchion rydych chi eu heisiau ar ein platfform.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Os ydych chi am gael gwared ar gynnyrch nad yw ar gael ar y farchnad mwyach, does ond rhaid i chi dicio'r blwch "nid yw'r cynnyrch hwn yn cael ei werthu mwyach" pan fyddwch chi'n golygu eich taflen gynnyrch.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Os ydych chi am gael gwared ar sawl cynnyrch, rydym yn argymell eich bod chi'n dilyn y weithdrefn a grybwyllir yn y [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), ar t. 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Gallwch hefyd gysylltu â ni drwy producers@openfoodfacts.org os oes gennych unrhyw gwestiynau.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Pan fydd y cynnyrch wedi'i archifo, ni fydd yn ymddangos yn Open Food Facts mwyach.Fodd bynnag, bydd yn aros yn ein cronfa ddata fel y gallwn gadw hanes o gynhyrchion a werthwyd dros amser.
-
----
-
-## A yw gwybodaeth am y cwmni yn cael blaenoriaeth dros wybodaeth sydd eisoes ar y platfform?
-
-Pan fydd cynhyrchydd yn rhoi un o'i gynhyrchion ar-lein gyda'i gyfrif cynhyrchydd a bod taflen gynnyrch eisoes yn bodoli, bydd hyn yn ei gwblhau.
-
-Bydd y wybodaeth y bydd y cynhyrchydd wedi'i phostio bob amser yn cael blaenoriaeth ac ef yn unig fydd yn gallu addasu ei gynhyrchion pan fydd y wybodaeth wedi'i llenwi.
-
-Os yw'r data a anfonir drwy'r platfform wedi'i ddarnio, gall y wybodaeth a ychwanegir gan y gymuned o'r pecynnu ei gwblhau.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Ym mha fformat ddylwn i anfon fy nata?
+## Does company information take precedence over information already present on the platform?
 
-Darperir [templed](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) gan Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Fodd bynnag, bydd modd mewnforio unrhyw fformat taenlen (xlsx, csv) i'r platfform.  
-Mae ein algorithm wedi'i gynllunio i baru'r priodoleddau o'ch ffeil yn awtomatig, gyda'r rhai sydd i'w cael yn Open Food Facts. Byddwch yn ofalus i wirio'r llwyfan paru ddwywaith bob amser gan y gallai fod angen i chi addasu rhai ohonynt â llaw.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Os yw eich gwybodaeth wedi'i rhannu rhwng sawl taenlen, gallwch eu mewnforio yn olynol - gan wneud yn siŵr eich bod yn gwneud y paru os yw'r fformat yn newid.
-
-Gallwch hefyd fewnforio ffeil Excel yn ogystal â mewnforio EQUADIS neu AGENA3000, os nad yw'r data yn eich system wybodaeth eto. Yn yr achosion hyn, peidiwch ag anghofio gofyn am allforio i'r gronfa ddata gyhoeddus o'r rhyngwyneb.
-
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Gyda pha gatalogau cynnyrch ydych chi wedi'u hintegreiddio?
+## In what format should I send my data?
 
-Gall gweithgynhyrchwyr nawr anfon eu data cynnyrch a'u lluniau mewn amser real o **Equadis,** **AGENA3000 ac ymgynghoriaeth BAYARD** i Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Wrth gwrs, byddwch hefyd yn elwa o'r awgrymiadau ailfformiwleiddio a holl nodweddion y platfform.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-Mae [Ein postiad blog](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) yn egluro'r camau i'w dilyn os ydych chi'n gwsmer EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Os ydych chi'n gwsmer AGENA3000 (Cynnyrch A3 PIM INDUSTRY), does ond rhaid i chi ddewis y derbynnydd "Agor Ffeithiau Bwyd" wrth anfon eich taflenni cynnyrch. [Mwy o wybodaeth ar y cofnod blog hwn](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Os ydych chi'n gwsmer catalog data cynnyrch arall (Salsify - cyn-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, ac ati) rhowch wybod i ni yn [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Sut i ychwanegu cynhyrchion heb godau bar trwy'r platfform Pro?
+## With which product catalogs are you integrated?
 
-Ar gyfer cynhyrchion heb god bar, ar y wefan neu ar blatfform y cynhyrchydd, mae botwm "Cynnyrch heb god bar" yn y golofn chwith sy'n eich galluogi i'w hychwanegu. Yna cynhyrchir dynodwr yn awtomatig.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Rydym wedi creu prosiectau penodol ar gyfer colur, ar gyfer porthiant anifeiliaid, yn ogystal ag ar gyfer cynhyrchion eraill: Ffeithiau Harddwch Agored, Ffeithiau Bwyd Anifeiliaid Anwes Agored a Ffeithiau Cynhyrchion Agored yn y drefn honno.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Mae data cynnyrch gan fy nghwmni ar gael ar Open Food Facts. A yw'n bosibl cymryd rheolaeth o'r cyfrif cynhyrchydd cysylltiedig?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Ie wrth gwrs! Gallwch chi gymryd rheolaeth o'r cyfrif cynhyrchydd cysylltiedig drwy greu cyfrif Ffeithiau Bwyd Agored gyda'ch cyfeiriad busnes. Pan fyddwch chi'n cofrestru, soniwch am enw'r sefydliad sy'n bresennol ar y ffurflen er mwyn gallu cael mynediad at y gofod cynhyrchydd cyfatebol.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Bydd angen cam dilysu byr i sicrhau mai chi yw'r cynhyrchydd mewn gwirionedd.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Byddwch yn gallu cwblhau'r data, ychwanegu delweddau, cael argymhellion awtomatig ar gyfer gwella'r Nutri-Score, a llawer mwy. Mae hyn i gyd yn hollol rhad ac am ddim wrth gwrs. Gallwch hefyd gysylltu system rheoli data cynnyrch trydydd parti fel EQUADIS, AGENA3000 ac ymgynghoriaeth Bayard.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Pa mor hir mae'n ei gymryd i ddata cynhyrchwyr gael eu diweddaru ar ap arall sy'n ailddefnyddio cronfa ddata Ffeithiau Bwyd Agored?
-
-Mae'n dibynnu ar yr apiau. I'r rhai sy'n defnyddio ein APIs, sef y mwyafrif helaeth, mae'n syth.  
-I'r rhai sy'n defnyddio ein hallforion dyddiol, mae'n D+1 ar yr amod eu bod yn ei ddiweddaru.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## A yw mewnforio'r data o gofnod cynnyrch yn cwblhau neu'n disodli'r cofnod cynnyrch presennol?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Rydym yn defnyddio'r cod bar i adnabod cynhyrchion, os byddwch yn mewnforio cofnod gyda'r un cod bar â chofnod sy'n bodoli eisoes, bydd y wybodaeth yn cael ei chyfuno.
-
-Ar gyfer data fel rhestr gynhwysion, gwerthoedd maethol (un gwerth cywir yn unig yn bosibl), bydd y data a anfonir trwy'r platfform cynhyrchydd yn trosysgrifennu'r data presennol.
-
-Ar gyfer data fel labeli/categorïau/brandiau (sawl gwerth cywir yn bosibl), mae'r wybodaeth yn cael ei chyfuno. Os yw'r data'n anghywir ar y platfform cyhoeddus, gallwch addasu'r daflen gynnyrch ar y platfform cyhoeddus i gael gwared ar y gwerthoedd anghywir.
-
-→ Am fwy o fanylion, rydym yn eich gwahodd i lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) a/neu ymgynghori â'n [tiwtorialau fideo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Ydy trefn y cynhwysion yn bwysig?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Mae trefn y cynhwysion yn bwysig: mae'n cynrychioli'r drefn yn ôl maint.
-Y ffordd orau o lenwi'r cynhwysion yw dilyn yn union yr hyn sydd wedi'i ysgrifennu ar y pecynnu. Dyna pam ei bod hi mor bwysig hefyd cael lluniau o'r cynhwysion wedi'u hargraffu.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## A allaf anfon delweddau drwy AGENA3000 hefyd?
+## Is the order of ingredients important?
 
-Gallwch anfon delweddau ond yn ymarferol dim ond y brif ddelwedd fydd yn cael ei dewis yn awtomatig, bydd y delweddau eraill yn cael eu hanfon, ond ni fyddant yn cael eu tocio / eu dewis ar gyfer cynhwysion, maeth ac ati.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Sut i gael mynediad at diwtorialau'r platfform Pro?
+## Can I send images via AGENA3000 too?
 
-Gallwch gael mynediad at diwtorialau'r platfform proffesiynol:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Drwy'r platfform proffesiynol ei hun: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Yn uniongyrchol ar [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Gallwch hefyd lawrlwytho ein [canllaw defnyddiwr](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
