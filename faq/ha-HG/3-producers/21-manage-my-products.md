@@ -1,177 +1,177 @@
 ---
-title: "{{< fa akwatin girman=2x >}} Sarrafa kayayyaki na"
-description: "Tambayoyi 16"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
 order: 21
 category-level: 1
-icon: akwati
+icon: box
 ---
 
-{{< fa "akwati" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## Me ke tabbatar da ingancin bayanai a cikin Buɗaɗɗen Bayanan Abinci?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Domin ci gaba da inganta ingancin bayanai, muna dogara ne akan ginshiƙai guda 4:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Al'umma tana ci gaba da ƙara bayanai da hotuna kuma jami'in bincike ne na gaske.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Mun kafa ƙa'idojin dabaru don gano kurakurai a kan takardun samfurin.Misali: idan jimlar nauyin sinadaran ya fi jimlar nauyin samfurin, akwai rashin daidaituwa. Muna da wasu gwaje-gwajen inganci kusan guda 50.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Godiya ga Na'urar Koyo, muna iyakance haɗarin kurakuran shigarwa. Fasaharmu tana ba mu damar cire bayanan rubutu daga hotunan da masu ba da gudummawa suka ɗauka
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Godiya ga goyon bayan Santé Publique France, mun ƙirƙiri wani shafin yanar gizo wanda ke ba wa masu samarwa damar ɗora bayanan da suka samar da yawa don haka su gyara/cika gudummawar al'umma.
-
----
-
-## Yadda ake ƙara kayayyaki?
-
-Domin ƙara kayayyaki zuwa dandalinmu, da farko kuna buƙatar yanke shawara kan yadda kuke son ci gaba. Akwai zaɓuɓɓuka guda huɗu:
-
-- **Da hannu**: idan kuna da ƙaramin adadin samfura, har yanzu yana yiwuwa a ƙirƙiri kowane takardar samfura da hannu akan Tsarin Pro.
-
-- **Ta hanyar shigar da takardar lissafi**: zaku iya saukar da takardar lissafi [samfuri](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) da Open Food Facts ta bayar, ko kuma shigo da wani abu kai tsaye daga tsarin IT ɗinku zuwa dandamalin Pro.
-
-- **Ta hanyar haɗin kundin samfuran**. Idan kai abokin ciniki ne a EQUADIS, AGENA3000 ko BAYARD, zaka iya loda bayanai a cikin Buɗaɗɗen Bayanan Abinci a cikin dannawa 1. Idan kuna aiki tare da wani PIM (Gudanar da Bayanan Samfura), da fatan za a tuntuɓe mu: producers@openfoodfacts.org
-
-- **Ta hanyar haɗin kai na musamman** tsakanin kamfanin ku da Buɗaɗɗen Abinci. Idan ka ƙidaya sama da samfura 1000 a cikin fayil ɗinka, za mu iya tattauna damar gina takamaiman mahaɗi don sauƙaƙe canja wurin bayanai.
-
-Don ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Akwai wata hanya ta sabunta samfura ta atomatik zuwa rumbun adana bayanai na jama'a?
+## How to add products?
 
-Haka ne, idan kun yi amfani da kasidar samfuran EQUADIS, AGENA3000 ko BAYARD, kuma kun saita saitin da ya dace, ana iya yin shigo da kayayyaki ta atomatik don haka sabunta bayanan samfurin akan Buɗe Bayanan Abinci.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Shin adadin kayayyakin da aka ƙara yana da iyaka?
+## Is there a way to automate product updates to the public database?
 
-Babu iyaka, za ku iya loda adadin samfuran da kuke so akan dandamalinmu.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Idan kana son cire wani samfuri da ba ya samuwa a kasuwa, kawai sai ka yi alama a akwatin "ba a sake sayar da wannan samfurin ba" lokacin da kake gyara takardar samfurinka.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Idan kana son cire samfura da dama, muna ba da shawarar ka bi tsarin da aka ambata a cikin [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), a shafi na 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Haka kuma za ku iya tuntuɓar mu ta hanyar producers@openfoodfacts.org idan kuna da wasu tambayoyi.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Idan aka adana samfurin, ba zai sake bayyana a cikin Buɗaɗɗen Bayanan Abinci ba.Duk da haka zai ci gaba da kasancewa a cikin bayananmu don mu iya adana tarihin kayayyakin da aka sayar akan lokaci.
-
----
-
-## Shin bayanan kamfani sun fi fifiko akan bayanan da aka riga aka gabatar a dandamali?
-
-Idan mai samarwa ya sanya ɗaya daga cikin kayayyakinsa a yanar gizo tare da asusun mai samarwa kuma takardar samfurin ta riga ta kasance, wannan zai kammala shi.
-
-Bayanin da mai shirya zai saka zai kasance mafi muhimmanci a koyaushe kuma shi kaɗai ne zai iya gyara kayayyakinsa idan aka cike bayanan.
-
-Idan bayanan da aka aika ta hanyar dandamali sun rabu, bayanan da al'umma ta ƙara daga cikin marufin na iya kammala shi.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## Ta wane tsari zan aika bayanai na?
+## Does company information take precedence over information already present on the platform?
 
-An bayar da [samfuri](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ta hanyar Open Food Facts.
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Duk da haka, duk wani tsarin maƙunsar bayanai (xlsx, csv) za a iya shigo da shi a cikin dandamali.  
-An tsara tsarin aikinmu don daidaita halayen fayil ɗin ku ta atomatik, tare da waɗanda ke cikin Buɗaɗɗen Bayanan Abinci. A kula da sake duba matakin daidaitawa domin kuna iya buƙatar daidaita wasu daga cikinsu da hannu.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Idan bayananka sun rabu tsakanin maƙunsar bayanai da dama, za ka iya shigo da su a jere - tabbatar da daidaita su idan tsarin ya canza.
-
-Haka kuma za ka iya shigo da fayil ɗin Excel baya ga shigo da EQUADIS ko AGENA3000, idan bayanan ba su cikin tsarin bayananka ba tukuna. A cikin waɗannan yanayi, kar a manta da neman a fitar da bayanai daga rumbun adana bayanai na jama'a.
-
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Da waɗanne kundin bayanai na samfura aka haɗa ku?
+## In what format should I send my data?
 
-Yanzu masana'antun za su iya aika bayanan samfuransu da hotunansu a ainihin lokaci daga **Equadis,** **AGENA3000 da BAYARD consulting** zuwa Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Hakika za ku amfana daga shawarwarin gyara da kuma dukkan fasalulluka na dandamalin.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Rubutun shafin yanar gizon mu](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) ya bayyana matakan da za a bi idan kai abokin ciniki ne na EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Idan kai abokin ciniki ne na AGENA3000 (Kayan A3 PIM INDUSTRY), kawai sai ka zaɓi wanda zai karɓi "Buɗe Bayanan Abinci" lokacin aika takardun kayanka. [Ƙarin bayani game da wannan rubutun shafin yanar gizo](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Idan kai abokin ciniki ne na wani kundin bayanai na samfura (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, da sauransu) Don Allah a sanar da mu a [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Yadda ake ƙara samfura ba tare da barcode ba ta hanyar dandamalin Pro?
+## With which product catalogs are you integrated?
 
-Ga samfuran da ba su da lambar barcode, a shafin yanar gizo ko a dandalin masu samarwa, akwai maɓallin "Samfuri ba tare da lambar barcode ba" a cikin ginshiƙin hagu wanda ke ba ku damar ƙara su. Sannan ana samar da wani mai ganowa ta atomatik.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Mun ƙirƙiri takamaiman ayyuka don kayan kwalliya, don abincin dabbobi, da kuma wasu kayayyaki: Bayanan Kyau na Buɗewa, Bayanan Abincin Dabbobi na Buɗewa da Bayanan Kayayyakin Buɗewa bi da bi.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Bayanan samfura daga kamfanina suna samuwa a kan Buɗaɗɗen Abinci. Shin zai yiwu a karɓi iko da asusun mai samarwa da ke da alaƙa?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Eh ba shakka! Za ka iya karɓar iko kan asusun mai samarwa da ke da alaƙa ta hanyar ƙirƙirar asusun Buɗaɗɗen Abinci tare da adireshin kasuwancinka. Idan ka yi rijista, ka ambaci sunan ƙungiyar da ke kan fom ɗin don samun damar shiga wurin da ya dace da mai samarwa.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Za a buƙaci ɗan gajeren mataki na tabbatarwa don tabbatar da cewa kai ne mai samarwa.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Za ku iya kammala bayanai, ƙara hotuna, samun shawarwari ta atomatik don inganta Nutri-Score, da ƙari mai yawa. Duk wannan ba shakka kyauta ne gaba ɗaya. Hakanan zaka iya haɗa tsarin sarrafa bayanai na samfura na ɓangare na uku kamar EQUADIS, AGENA3000 da kuma Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Har yaushe ake ɗaukar bayanan masu samarwa don sabunta su akan sauran manhajoji da ke sake amfani da bayanan Buɗe Bayanan Abinci?
-
-Ya dogara da aikace-aikacen. Ga waɗanda ke amfani da API ɗinmu, wanda shine mafi rinjaye, yana nan take.  
-Ga waɗanda ke amfani da fitar da kayayyaki na yau da kullun, D+1 ne kawai idan sun sabunta shi.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Shin shigo da bayanai daga bayanan samfura yana kammala ko kuma yana maye gurbin bayanan samfurin da ke akwai?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Muna amfani da lambar barcode don gano samfura, idan kun shigo da rikodin da lambar barcode iri ɗaya da lambar da ke akwai, za a haɗa bayanan.
-
-Ga bayanai kamar jerin sinadaran, ƙimar abinci mai gina jiki (ƙimar da ta dace ɗaya kawai), bayanan da aka aika ta hanyar dandamalin mai samarwa za su maye gurbin bayanan da ke akwai.
-
-Ga bayanai kamar lakabi/rukuni/alamomi (ƙimar da za a iya samu da dama daidai), an haɗa bayanin. Idan bayanai ba daidai ba ne a kan dandamalin jama'a, za ka iya gyara takardar samfurin a kan dandamalin jama'a don cire ƙimar da ba daidai ba.
-
-→ Domin ƙarin bayani, muna gayyatarku da ku sauke [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) da/ko ku duba [koyarwar bidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## Shin tsari na sinadaran yana da mahimmanci?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-Tsarin sinadaran yana da mahimmanci: yana wakiltar tsari bisa ga adadi.
-Hanya mafi kyau ta cika sinadaran ita ce a bi daidai abin da aka rubuta a kan marufin. Shi ya sa yake da matuƙar muhimmanci a buga hotunan sinadaran.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Zan iya aika hotuna ta hanyar AGENA3000 kuma?
+## Is the order of ingredients important?
 
-Za ka iya aika hotuna amma a aikace babban hoton ne kawai za a zaɓa ta atomatik, sauran hotunan za a aika, amma ba a yanke su ba / a zaɓi su don sinadaran, abinci mai gina jiki da sauransu.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Yadda ake samun damar koyaswar dandamalin Pro?
+## Can I send images via AGENA3000 too?
 
-Za ku iya samun damar koyaswar dandamalin ƙwararru:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Ta hanyar dandalin kwararru da kansa: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Kai tsaye a [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Hakanan zaka iya saukar da [jagorar mai amfani](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
