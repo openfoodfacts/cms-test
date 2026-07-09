@@ -1,13 +1,13 @@
 ---
-title: "{{< fa question-circle size=2x >}} Otevřená fakta o jídle"
+title: "{{< fa question-circle size=2x >}} Open Food Facts"
 description: "9 otázek"
-lang: en-gb
+lang: cs
 order: 9
 category-level: 0
 icon: kruh otázek
 ---
 
-{{< fa "kruh otázek" size=3x >}}
+{{< fa "kruh otázek" size=3× >}}
 
 ## Jaký je rozdíl od jiných webových stránek, služeb a mobilních aplikací, které již umožňují prohlížet informace o potravinářských výrobcích?
 
@@ -21,7 +21,7 @@ Zveřejnění dat (tzv. _otevřená data_) umožňuje jednotlivcům, sdružením
 
 ---
 
-## Jaký je ekonomický model Open Food Fact?
+## Jaký je ekonomický model Open Food Facts?
 
 Přispěvatelé jsou dobrovolníci. Jejich příspěvky jsou shromažďovány v otevřené databázi, kterou může používat každý a pro všechny účely. (viz [Podmínky opětovného použití](https://en.openfoodfacts.org/terms-of-use#reuse))
 
@@ -43,11 +43,11 @@ Abychom se vyhnuli právním problémům, žádáme přispěvatele, aby přidáv
 
 Můžete se ptát nebo dávat návrhy na fóru nebo nás kontaktovat e-mailem: contact@openfoodfacts.org
 
-Pokud jste producent, napište nám prosím e-mail na adresu [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+Pokud jste výrobcem, napište nám prosím na [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
 
 Pokud jste novinář, napište nám prosím e-mail na adresu [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
 
-Upozornění: [Open Food Facts je databáze potravinářských výrobků založená na spolupráci](https://world.openfoodfacts.org/discover), neprodáváme žádné produkty a nemáme žádné vazby na jejich výrobce. V případě dotazu nebo stížnosti na produkt musíte napsat přímo výrobci (adresa na štítku produktu).
+Upozornění: [Open Food Facts je databáze potravinářských výrobků založená na spolupráci](https://world.openfoodfacts.org/discover), neprodáváme žádné produkty a nemáme žádné vazby na jejich výrobce. S dotazem nebo stížností na produkt se obracejte přímo na výrobce (adresa uvedená na štítku produktu).
 
 ---
 
@@ -57,7 +57,7 @@ Informace a data poskytují přispěvatelé Open Food Facts. Přispěvatelé tak
 
 Pro snadnější odhalování potenciálních chyb budeme postupně přidávat automatické kontroly. Např. pokud se nutriční hodnoty produktu velmi liší od produktů stejné kategorie, může se jednat o chybu. Pokud součet živin činí více než 100 %, je to určitě chyba.
 
-Konečně nám mnoho výrobců posílá fotografie a data o svých produktech pomocí naší platformy pro producenty. Pokud jste producent, prosím [kontaktujte nás](mailto:producers@openfoodfacts.org)
+Konečně nám mnoho výrobců posílá fotografie a data o svých produktech pomocí naší platformy pro producenty. Pokud jste výrobcem, prosím [kontaktujte nás](mailto:producers@openfoodfacts.org)
 
 ---
 
@@ -75,10 +75,10 @@ bude trvat příliš dlouho, než budou vyjmenovány všechny organizace, které
 .
 
 - Více než 100 mobilních aplikací
-  řeší potřeby mnoha cílových skupin: cukrovka (VeryDiab), alergie, potravinová
-  rovnováha prostřednictvím umělé inteligence (FoodVisor), postižení a další. Naše databáze
+  řeší potřeby mnoha skupin publika: cukrovka (VeryDiab), alergie, vyváženost potravin
+  prostřednictvím umělé inteligence (FoodVisor), postižení a další. Naše databáze
   také umožnila vytvoření Yuky.
-- Spousta webových stránek: CombienDeSucres.fr,
+- Mnoho webových stránek: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
 - Datoví novináři: Les Décodeurs du Monde, BFM
   TV
@@ -91,7 +91,7 @@ bude trvat příliš dlouho, než budou vyjmenovány všechny organizace, které
 - Společnosti: Terraillon využívá naše data
   k provozování svých propojených vah.
 - Programovací školy (Simplon, Open
-  Třídy) integrovaly Open Food Facts jako motivující projekt do svých
+  Classrooms) integrovaly Open Food Facts jako motivační projekt do svých
   osnov.
 
 ---
@@ -103,8 +103,7 @@ Facts je nezisková organizace založená v roce 1901. Můžete nám pomoci [ú�
 (66% odpočitatelnost) a také použitím vyhledávače Lilo
 .
 
-**Mockrát vám
-děkuji!**
+**Děkujeme moc!**
 
 ---
 
@@ -112,7 +111,7 @@ děkuji!**
 
 Pokud nenajdete odpověď na vaši otázku (otázky), neváhejte nás kontaktovat prostřednictvím:
 
-- Náš Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Našeho Slacku: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
 - Naše fórum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
