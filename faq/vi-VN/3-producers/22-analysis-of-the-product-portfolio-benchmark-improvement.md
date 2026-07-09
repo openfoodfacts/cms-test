@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Phân tích danh mục sản phẩm (chuẩn mực, cải tiến...)"
-description: "1 câu hỏi"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: biểu đồ thanh
+icon: chart-bar
 ---
 
-{{< fa "biểu đồ thanh" size="3 lần" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Làm thế nào để truy cập vào khuyến nghị cải tiến công thức nhằm nâng cao điểm Nutri-Score cho sản phẩm của tôi?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Khi bạn đang ở trang chủ của Nền tảng Nhà sản xuất:
+When you are on the home page of the Producers Platform:
 
-1. Nhấp vào liên kết "→ Số lượng sản phẩm có tiềm năng cải tiến" ở đầu trang.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. Bạn có thể tham khảo tất cả các cơ hội mà hệ thống của chúng tôi đã phát hiện để cải thiện sản phẩm của mình.
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. Nhấp chuột vào loại cơ hội sẽ dẫn bạn đến danh sách các sản phẩm có thể được cải tiến.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Để biết thêm chi tiết, chúng tôi mời bạn tải xuống [hướng dẫn sử dụng](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) và/hoặc xem [video hướng dẫn](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
