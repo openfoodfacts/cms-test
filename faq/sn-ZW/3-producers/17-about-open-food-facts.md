@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Nezve Ruzivo Rwezvekudya Rwakavhurika"
-description: "Mibvunzo mina"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: denderedzwa remashoko
+icon: info-circle
 ---
 
-{{< fa "denderedzwa remashoko" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Rudzii rweruzivo runofanira kugoverwa?
+## What type of information should be shared?
 
-Ruzivo rwese rwamuinarwo runogamuchirwa, kubva paruzivo rwezvekudya kusvika paruzivo rwekurongedza.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Izvi zvinoita kuti zvikwanisike kugadzira faira rakakwana, kuverenga mamakisi ese nemazvo uye kazhinji kuve pachena kunoyemurwa nevatengi.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Asi tinokurudzira kuti uise zvinhu zvinotevera pakutanga:
+However we do recommend you prioritize the following fields:
 
-- Ruzivo rwezvekudya
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Rudzi rwechigadzirwa (semuenzaniso zvinwiwa, chizi, yogati, nezvimwewo)
-
-- Zita rechigadzirwa
-
-- Zvirwere zveAllergen
-
-- uye zvinhu zvirimo, nzvimbo iyi haisi yekumanikidzwa asi inokurudzirwa kuti pave nekushandiswa kwakanakisisa uye kusarudzwa kwezvibodzwa.
-
-→ Kuti uwane rumwe ruzivo, tinokukoka kuti udhawunirodhe [guide yedu yekushandisa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) uye/kana kuti utarise [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ndinogona here kudhawunirodha data reOpen Food Facts?
+## Can I download Open Food Facts data?
 
-Unogona kudhawunirodha data rese riripo paOpen Food Facts. Chenjerera, izvi zvinoda nzvimbo yakawanda yedhisiki, komputa ine simba kana uchida kushandisa spreadsheet kana ruzivo rweR kana Python neimwe nzira.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Unogona zvakare kudhawunirodha runyorwa rwedata (semuenzaniso rudzi rwako) nekuda kwekutsvaga kwakadzama.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Kuti uwane rumwe ruzivo, tinokukoka kuti udhawunirodhe [guide yedu yekushandisa](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) uye/kana kuti utarise [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Kupinda mupuratifomu yePro nekupinza data hazvina muripo here?
-
-Zvechokwadi, uye zvichagara zvakadaro nekusingaperi.Mabasa ese anopiwa neOpen Food Facts haabhadharwi.  
-Tinofara zvikuru kuti masarudza kuisa ruzivo rwechigadzirwa chenyu kuti chive pachena, uye tinokutendai neizvi.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ndingada kukurudzira kuvandudzwa kwepuratifomu yehunyanzvi, ndingazviita sei?
+## Is access to the Pro platform and the import of data free?
 
-Tinokutendai nekuda kwenyu kutora chikamu mukujekesa chikafu!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Nzira yakanakisisa yekugovana mhinduro ndeyekuzadza [fomu iri](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Munogonawo kutibata kuti mupe mazano kuburikidza ne [forum yedu](https://forum.openfoodfacts.org/) kana kuburikidza ne [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Joyina Slack yedu wopinda muchiteshi che #producers kuti utibate.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
