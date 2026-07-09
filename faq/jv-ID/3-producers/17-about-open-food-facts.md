@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Babagan Fakta Panganan Terbuka"
-description: "4 pitakonan"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: lingkaran informasi
+icon: info-circle
 ---
 
-{{< fa "lingkaran informasi" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Informasi apa sing kudune dienggo bareng?
+## What type of information should be shared?
 
-Sembarang informasi sing sampeyan duweni ditampa kanthi becik, wiwit saka informasi nutrisi nganti informasi kemasan.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Iki nggampangake nggawe file sing lengkap, ngetung kabeh skor kanthi presisi lan luwih umum transparansi sing diapresiasi dening konsumen.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Nanging, disaranake sampeyan menehi prioritas ing kolom-kolom ing ngisor iki:
+However we do recommend you prioritize the following fields:
 
-- Informasi nutrisi
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kategori produk (kayata ombenan, keju, yogurt, lsp.)
-
-- Jeneng produk
-
-- Alergen
-
-- lan bahan-bahane, kolom iki ora wajib nanging disaranake kanggo panggunaan sing optimal lan nemtokake skor
-
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Apa aku isa ndownload data Open Food Facts?
+## Can I download Open Food Facts data?
 
-Kowé isa ndownload kabèh data sing ana ing Open Food Facts. Ati-ati, iki mbutuhake papan disk sing akeh, komputer sing kuat yen sampeyan pengin nggunakake spreadsheet utawa kawruh babagan R utawa Python.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Sampeyan uga bisa ndownload sebagian data (contone merek sampeyan) liwat telusuran lanjut.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Kanggo katrangan luwih lengkap, sampeyan diundang kanggo ndownload [pandhuan panganggo](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) lan/utawa mriksani [tutorial video](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Apa akses menyang platform Pro lan impor data gratis?
-
-Mesthi, lan bakal selawase.Kabeh layanan sing diwenehake dening Open Food Facts gratis.  
-Kita seneng banget sampeyan wis mutusake kanggo nyumbang data produk sampeyan kanggo transparansi pangan, lan kita ngucapake matur nuwun kanggo iki.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Aku pengin menehi saran kanggo perbaikan platform profesional, kepiye carane?
+## Is access to the Pro platform and the import of data free?
 
-Matur nuwun kanggo kekarepan sampeyan kanggo melu transparansi pangan!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Cara paling apik kanggo nuduhake masukan yaiku kanthi ngisi [formulir iki](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Sampeyan uga bisa ngubungi kita kanggo menehi saran liwat [forum kita](https://forum.openfoodfacts.org/) utawa liwat [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Gabung karo Slack kita lan mlebu saluran #producers kanggo ngubungi kita.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
