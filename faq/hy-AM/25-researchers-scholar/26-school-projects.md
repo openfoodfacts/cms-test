@@ -1,23 +1,23 @@
 ---
-title: "Դպրոցական նախագծեր"
-description: "2 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: ֆայլ-o
+icon: file-o
 ---
 
-{{< fa "ֆայլ-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ես դպրոցական նախագիծ ունեմ անելու, ուզում եմ օգտագործել Open Food Facts-ի տվյալները, կարո՞ղ եմ դա անել։
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Բաց սննդի փաստերը բաց տվյալների բազա է, բաց նախագիծ, որը գործում է ODbL լիցենզիայի ներքո, հետևաբար, եթե դուք համաձայն եք ODbL լիցենզիայի պահանջների հետ, կարող եք վերօգտագործել մեր տվյալները ձեր նախագծերի համար :):
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Ինչպե՞ս կարող եմ մուտք գործել/հավաքել տվյալներ իմ նախագծերի համար։
+## How can I access/collect data for my projects ?
 
-«Բաց սննդի փաստեր»-ի գլխավոր էջում, էկրանի վերին ձախ անկյունում, կա գլորվող ցանկ։ Ներքևի մասում կգտնեք «Ընդլայնված որոնում» տարբերակը, որի վրա կարող եք սեղմել։ Այնուհետև ձեզանից է կախված որոշել, թե որ չափանիշներն են առավել համապատասխան ձեր նախագծին(ներին): Ընտրելուց հետո դուք կկարողանաք ներբեռնել ստացված արդյունքները՝ էջի ներքևի մասում գլորելով ներքև և սեղմելով «Ներբեռնել արդյունքները» կոճակը։
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
