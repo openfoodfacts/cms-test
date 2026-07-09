@@ -1,23 +1,23 @@
 ---
 title: "{{< fa bookmark size=2x >}} Labels"
-description: "Fanontaniana 2"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: Diary
+icon: bookmark
 ---
 
-{{< fa "Diary" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Amin'ny maha-marika azy, zava-dehibe ve ny mamorona kaonty?
+## As a label, is it important to create an account ?
 
-Amin'ny maha-marika anao, satria tsy ianao no mpamokatra mivantana ny vokatra, dia tsy mila mamorona kaontin'ny mpamokatra ianao.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Mpamorona marika aho, ahoana no ahafahako mandray anjara amin'ny tetikasa?
+## I am a label, how can I participate in the project?
 
-Amin'ny maha-etikety azy, ny zavatra tena ilaina indrindra dia ny mifandray aminay **(producers@openfoodfacts.org)** ary mandefa aminay ny lisitry ny vokatra misy ny etikety anao mba hahafahanay manampy azy ireo amin'ny takelaka vokatra mifandraika amin'izany.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
