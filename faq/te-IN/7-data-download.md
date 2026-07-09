@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} డేటా డౌన్‌లోడ్"
-description: "1 ప్రశ్న"
-lang: en-gb తెలుగు in లో
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: క్లౌడ్-డౌన్‌లోడ్
+icon: cloud-download
 ---
 
-{{< fa "క్లౌడ్-డౌన్‌లోడ్" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## ఒక నిర్దిష్ట దేశం కోసం డేటాను ఎక్కడ పొందాలి?
+## Where to get the data for a specific country?
 
-ప్రస్తుతం, నిర్దిష్ట దేశాలకు అంకితమైన ఎగుమతులు లేవు.
+Currently, there are no exports dedicated to specific countries.
 
-ఒక నిర్దిష్ట దేశానికి సంబంధించిన డేటాను ఎంచుకోవడానికి మా విభిన్న ఎగుమతులను వివిధ సాధనాలతో కలిపి ఉపయోగించడానికి అనేక మార్గాలు ఉన్నాయి.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-మీరు [ఈ పద్ధతుల్లో కొన్నింటిని మా వికీలో](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) చూడవచ్చు.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
