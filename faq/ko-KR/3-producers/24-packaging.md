@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} 포장"
-description: "3개의 질문"
-lang: 영어-영국
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: 입방체
+icon: cube
 ---
 
-{{< fa "입방체" size=3배 >}}
+{{< fa "cube" size=3x >}}
 
-## Open Food Facts에 포장 데이터를 추가하려면 어떻게 해야 하나요?
+## How can I add my packaging data to Open Food Facts?
 
-생산자로서 제품에 포장 데이터를 추가하는 가장 효율적인 방법은 이 [엑셀 스프레드시트](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl)의 "AU" 열에서 필요한 정보를 입력하는 것입니다.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-각 포장 구성 요소에 대해 다음 정보를 입력해야 합니다.
+For each packaging component, you will need to enter:
 
-- 단위 수량 (예: 요구르트 4개)
+- The number of units (ex: **4** pots of yogurts)
 
-- 모양 (예: **냄비, 뚜껑, 상자 등**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- 재질 (예: **PET, 종이, 유리 등**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- 재활용 지침 (예: **재활용, 폐기 등**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- 빈 제품 1개의 무게(그램)
+- The weight of one empty unit (in gr)
 
-- 단위당 포함된 제품의 순량
+- The net quantity of product contained per unit
 
-이 스프레드시트는 전문가 전용 플랫폼으로 가져올 수 있습니다.
-
----
-
-## 식품 포장 문제 해결 프로젝트란 무엇인가요?
-
-"식품 포장 문제 해결" 프로젝트는 가장 많이 소비되는 제품의 포장에 대한 상세 정보(모양, 재질, 분리수거 지침, 무게, 용량)를 수집하는 것을 목표로 합니다.
-
-참여형 과학 접근 방식을 기반으로 하는 이 연구는 기업들이 포장 데이터 공유에 동의하고 투명성 확보에 적극적으로 나서는 것과 시민들이 제품 정보 수집을 허용하는 것 모두에 달려 있습니다. 이 정보는 자유롭게 재사용할 수 있습니다("오픈 데이터").
-
-**더 자세한 정보는 다음 링크를 참조하세요:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## 식품 포장 문제 해결 프로젝트가 종료된 후에도 포장 데이터를 추가할 수 있나요?
+## What is the Tackling Food Packaging project?
 
-프로젝트가 종료된 후에도 포장 관련 데이터를 추가할 수 있습니다. 포장 정보는 당사 웹사이트에 계속 남아 있을 예정입니다.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
