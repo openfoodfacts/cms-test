@@ -1,21 +1,21 @@
 ---
-title: "{{< tamaño da industria fa=2x >}} Produtores"
-description: "6 subcategorías"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industria
+icon: industry
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: grella
+  type: grid
   grid-columns: 4
-  sort: "orde"
-  fields: [ título, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "industria" size=3x >}}
+{{< fa "industry" size=3x >}}
 
