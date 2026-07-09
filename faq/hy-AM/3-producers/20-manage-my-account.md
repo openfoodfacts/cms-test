@@ -1,7 +1,7 @@
 ---
-title: "{{< fa user size=2x >}} Կառավարել իմ հաշիվը"
-description: "3 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
+lang: en-gb
 order: 20
 category-level: 1
 icon: user
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Կարո՞ղ են մի քանի «Բաց սննդի փաստեր» հաշիվներ կապված լինել մեկ ընկերության հետ։
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Այո, խնդրում եմ գրել [producers@openfoodfacts.org](mailto:support@openfoodfacts.org) հասցեին, որպեսզի կարողանանք բոլոր հաշիվները կապել նույն ընկերության հետ։
-
----
-
-## Ինչպե՞ս փոխարկել իմ Open Food Facts հաշիվը Pro հաշվի։
-
-Դուք կարող եք մուտք գործել [Pro հարթակ](https://world.pro.openfoodfacts.org/) ձեր առկա հաշվի մուտքային տվյալներով։
-
-Եթե դուք մասնագետ եք, ապա անհրաժեշտ է օգտագործել ձեր մասնագիտական էլեկտրոնային փոստի հասցեն, որպեսզի մենք կարողանանք ստուգել ձեր հաշիվը։
-
-→ Ավելի մանրամասն տեղեկությունների համար հրավիրում ենք ձեզ ներբեռնել մեր [օգտատիրոջ ուղեցույցը](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) և/կամ դիտել մեր [տեսանյութերը](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Որտե՞ղ կարող եմ գտնել փաստաթղթեր, որոնք կօգնեն ինձ օգտագործել Pro հարթակը։
+## How to convert my Open Food Facts account into a Pro account?
 
-Կան մի քանի ռեսուրսներ, որոնք կօգնեն ձեզ առավելագույնս օգտվել Pro հարթակից։
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Դուք կարող եք այցելել՝
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- Ստուգեք մեր [օգտատիրոջ ուղեցույցը](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - մենք ձեզ հրավիրում ենք ներբեռնել PDF ֆայլը, որպեսզի հղումները հնարավոր լինի սեղմել, ինչը կհեշտացնի փաստաթղթում ձեր նավարկությունը։
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- դիտեք մեր [տեսանյութերը](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- կիսվեք ձեր կարծիքով կամ առաջարկներով [այս ձևաթղթի] միջոցով (https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Եթե ունեք լրացուցիչ հարցեր, պլանավորեք զանգ Մանոնի՝ մեր գործընկերային հարաբերությունների մենեջերի հետ՝ [այստեղ](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Կապվեք մեզ հետ էլեկտրոնային փոստով՝ producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
