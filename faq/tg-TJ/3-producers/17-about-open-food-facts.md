@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Дар бораи далелҳои хӯроки кушода"
-description: "4 савол"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: доираи иттилоотӣ
+icon: info-circle
 ---
 
-{{< fa "доираи иттилоотӣ" size=3x >}}
+{{< fa "info-circle" size=3x >}}
 
-## Кадом намуди маълумотро бояд мубодила кард?
+## What type of information should be shared?
 
-Ҳар гуна маълумоте, ки шумо доред, аз маълумоти ғизоӣ то маълумоти бастабандӣ, хуш омадед.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Ин имкон медиҳад, ки як файли пурра тартиб дода шавад, ҳамаи холҳо бо дақиқӣ ва умуман шаффофияте, ки аз ҷониби истеъмолкунандагон қадр карда мешавад, ҳисоб карда шаванд.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Аммо, мо тавсия медиҳем, ки ба шумо афзалиятҳои зеринро диҳед:
+However we do recommend you prioritize the following fields:
 
-- Маълумоти ғизоӣ
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Категорияи маҳсулот (масалан, нӯшокиҳо, панир, йогурт ва ғайра)
-
-- Номи маҳсулот
-
-- Аллергенҳо
-
-- ва компонентҳо, ин майдон ҳатмӣ нест, аммо барои истифода ва муайян кардани холҳо тавсия дода мешавад.
-
-→ Барои гирифтани маълумоти бештар, мо шуморо даъват менамоем, ки [дастури корбар]-и моро (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) зеркашӣ кунед ва/ё ба [дастурҳои видеоии] мо (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) муроҷиат кунед :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Оё ман метавонам маълумоти Open Food Facts-ро зеркашӣ кунам?
+## Can I download Open Food Facts data?
 
-Шумо метавонед ҳамаи маълумоти дастрасро дар Open Food Facts зеркашӣ кунед. Эҳтиёт бошед, ки ин фазои зиёди диск, компютери пуриқтидорро талаб мекунад, агар шумо хоҳед, ки ҷадвали электронӣ истифода баред ё дониши R ё Python-ро дар акси ҳол истифода баред.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Шумо инчунин метавонед як қисми маълумотро (масалан, бренди худро) ба шарофати ҷустуҷӯи пешрафта зеркашӣ кунед.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Барои гирифтани маълумоти бештар, мо шуморо даъват менамоем, ки [дастури корбар]-и моро (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) зеркашӣ кунед ва/ё ба [дастурҳои видеоии] мо (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) муроҷиат кунед :-)
-
----
-
-## Оё дастрасӣ ба платформаи Pro ва воридоти маълумот ройгон аст?
-
-Бешубҳа, ва он то абад хоҳад буд.Ҳамаи хидматҳое, ки аз ҷониби Open Food Facts пешниҳод карда мешаванд, ройгон мебошанд.  
-Мо аз он ки шумо қарор додед, ки маълумоти маҳсулоти худро барои шаффофияти ғизо саҳм гузоред, хеле хурсандем ва барои ин аз шумо ташаккур мегӯем.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Ман мехоҳам барои платформаи касбӣ такмилдиҳиро пешниҳод кунам, чӣ гуна ман метавонам ин корро кунам?
+## Is access to the Pro platform and the import of data free?
 
-Ташаккур барои омодагии шумо барои иштирок дар чорабинии шаффофияти ғизо!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Роҳи беҳтарини мубодилаи фикру мулоҳизаҳо пур кардани [ин варақа](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) аст.
+---
 
-Шумо инчунин метавонед бо мо тамос гиред, то пешниҳодҳоятонро тавассути [форуми мо](https://forum.openfoodfacts.org/) ё тавассути [Slack](https://openfoodfacts.slack.com/ssb/redirect) пешниҳод кунед.
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Барои тамос бо мо ба Slack-и мо ҳамроҳ шавед ва ба канали #producers ворид шавед.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
