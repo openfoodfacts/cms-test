@@ -1,23 +1,23 @@
 ---
-title: "{{< fa legosigno grandeco=2x >}} Etikedoj"
-description: "2 demandoj"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: legosigno
+icon: bookmark
 ---
 
-{{< fa "legosigno" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## Kiel etikedo, ĉu gravas krei konton?
+## As a label, is it important to create an account ?
 
-Kiel etikedo, ĉar vi ne estas la rekta produktanto de la produktoj, vi ne bezonas krei produktanto-konton.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Mi estas muzikeldonejo, kiel mi povas partopreni en la projekto?
+## I am a label, how can I participate in the project?
 
-Kiel etikedo, la plej grava afero farenda estas kontakti nin **(producers@openfoodfacts.org)** kaj sendi al ni la liston de la produktoj, sur kiuj via etikedo estas montrata, por ke ni povu aldoni ilin al la rilataj produktaj folioj.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
