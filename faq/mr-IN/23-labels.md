@@ -1,23 +1,23 @@
 ---
-title: "{{< fa बुकमार्क आकार=2x >}} लेबल्स"
-description: "२ प्रश्न"
-lang: इंग्रजी शब्दकोशातील «eng-gb» ची मूळ व्याख्या पाहण्यासाठी क्लिक करा.
-order: २३
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
+lang: en-gb
+order: 23
 category-level: 0
-icon: बुकमार्क करा
+icon: bookmark
 ---
 
-{{< fa "बुकमार्क करा" size=३x >}}
+{{< fa "bookmark" size=3x >}}
 
-## लेबल म्हणून, खाते तयार करणे महत्त्वाचे आहे का?
+## As a label, is it important to create an account ?
 
-लेबल म्हणून, तुम्ही उत्पादनांचे थेट उत्पादक नसल्यामुळे, तुम्हाला उत्पादकाचे खाते तयार करण्याची आवश्यकता नाही.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## मी एक लेबल आहे, मी या प्रकल्पात कसा सहभागी होऊ शकतो?
+## I am a label, how can I participate in the project?
 
-लेबल म्हणून सर्वात उपयुक्त गोष्ट म्हणजे आमच्याशी **(producers@openfoodfacts.org)** संपर्क साधा आणि तुमचे लेबल ज्या उत्पादनांवर प्रदर्शित केले आहे त्यांची यादी आम्हाला पाठवा जेणेकरून आम्ही ते संबंधित उत्पादन पत्रकांवर जोडू शकू.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
