@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} 产品相关问题"
-description: "1 个问题"
-lang: 英语-英国
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: 购物篮
+icon: shopping-basket
 ---
 
-{{< fa "购物篮" size=3倍 >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## 我有一个关于产品的问题/索赔。
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) 是一个由消费者创建和维护的协作网站，旨在帮助人们解读标签并比较产品。
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-如需了解产品或索赔方面的更多信息，请致函制造商。 我们没有生产商的联系方式，但他们的信息通常会印在包装上。
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-如果您想帮助我们提高消费者（包括您和我们）的透明度，您可以使用我们的 iPhone 或 Android 应用添加产品：[https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-如需讨论该项目，您可以加入 Facebook 贡献者群组：[https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) 或在 Slack 上与其他贡献者交流：
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
