@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Etiketės"
-description: "2 klausimai"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: žymė
+icon: bookmark
 ---
 
-{{< fa "žymė" size="3 kartus" >}}
+{{< fa "bookmark" size=3x >}}
 
-## Ar svarbu susikurti paskyrą kaip įrašų kompanijai?
+## As a label, is it important to create an account ?
 
-Kadangi, kaip etiketė, nesate tiesioginis produktų gamintojas, jums nereikia kurti gamintojo paskyros.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## Aš esu etiketė, kaip galiu dalyvauti projekte?
+## I am a label, how can I participate in the project?
 
-Kadangi tai etiketė, svarbiausia susisiekti su mumis **(producers@openfoodfacts.org)** ir atsiųsti produktų, ant kurių rodoma jūsų etiketė, sąrašą, kad galėtume juos įtraukti į atitinkamus produktų lapus.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
