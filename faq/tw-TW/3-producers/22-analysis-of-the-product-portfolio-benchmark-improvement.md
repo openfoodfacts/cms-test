@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Nhwehwɛmu a wɔyɛe wɔ nneɛma a wɔde yɛ adwuma no ho (benchmark, nkɔso...)"
-description: "1 asɛmmisa"
-lang: tw-gb
-order: 22. Ɔde ne nsa kyerɛɛ ne so
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
+order: 22
 category-level: 1
-icon: chart-bar a wɔde kyerɛw nsɛm
+icon: chart-bar
 ---
 
-{{< fa "chart-bar a wɔde kyerɛw nsɛm" size="3x na ɛyɛ" >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Ɔkwan bɛn so na menya reformulation recommandation no na ama Nutri-Score a ɛwɔ me nneɛma mu no atu mpɔn?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Sɛ wowɔ Producers Platform no home page no so a:
+When you are on the home page of the Producers Platform:
 
-1. klik link "→ Nneɛma dodow a ɛwɔ nkɔso hokwan ahorow" a ɛwɔ kratafa no atifi no so.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. wubetumi ahwehwɛ hokwan ahorow a yɛn nhyehyɛe no ahu nyinaa mu na ama wo nneɛma atu mpɔn
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. sɛ wobɔ hokwan bi so a, ɛbɛma woahu nneɛma a wobetumi atu mpɔn no din.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Sɛ wopɛ nsɛm pii a, yɛto nsa frɛ wo sɛ twe yɛn [ɔdefo akwankyerɛ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ne/anaasɛ hwɛ yɛn [video nkyerɛkyerɛ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
