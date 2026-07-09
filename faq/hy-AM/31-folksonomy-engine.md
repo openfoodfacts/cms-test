@@ -1,17 +1,17 @@
 ---
-title: "{{< գրքի չափս=2x >}} Ֆոլկսոնոմիայի շարժիչ"
-description: "1 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: գիրք
+icon: book
 ---
 
-{{< fa "գիրք" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## Ի՞նչ է Ֆոլկսոնոմիայի շարժիչը։
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine-ը համակարգ է, որը թույլ է տալիս օգտատերերին ավելացնել հատուկ պիտակներ կամ հատկություններ Open Food Facts-ում, որը աշխարհի ամենամեծ բաց սննդի տվյալների բազան է։ Սա թույլ է տալիս մարդկանց դասակարգել և նկարագրել սնունդը նոր ձևերով՝ արդեն իսկ սահմանված հատկություններից դուրս։
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
