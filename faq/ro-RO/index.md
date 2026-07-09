@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "Întrebări frecvente - Engleză"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -10,10 +10,10 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: grilă
+  type: grid
   grid-columns: 4
-  sort: "comanda"
-  fields: [ titlu, descriere ]
+  sort: "order"
+  fields: [ title, descriere ]
   page-size: 100
 
 # << DO NOT TRANSLATE
