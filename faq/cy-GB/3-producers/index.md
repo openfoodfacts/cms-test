@@ -1,10 +1,10 @@
 ---
-title: "Cynhyrchwyr {{< maint y diwydiant fa=2x >}}"
-description: "6 is-gategori"
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: diwydiant
+icon: industry
 listing:
   contents:
     - "*.md"
@@ -12,10 +12,10 @@ listing:
     category-level: 1
   type: grid
   grid-columns: 4
-  sort: "archeb"
-  fields: [ teitl, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "diwydiant" size=3x >}}
+{{< fa "industry" size=3x >}}
 
