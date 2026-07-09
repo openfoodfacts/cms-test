@@ -1,7 +1,7 @@
 ---
-title: "{{< fask flask size=2x >}} NOVA / Ku lulamisiwa ka swakudya"
-description: "1 xivutiso"
-lang: ts-gb
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
 icon: flask
@@ -9,9 +9,9 @@ icon: flask
 
 {{< fa "flask" size=3x >}}
 
-## Xana NOVA i yini ?
+## What is NOVA ?
 
-[https://ku.s://misava.vuhlayiselo bya swakudya.org/nova](https://fr.openfoodfacts.org/nova)
+[https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
 ---
 
