@@ -1,15 +1,15 @@
 ---
-title: "{{< fa velikost nákupního košíku=2x >}} Dotazy k produktu"
+title: "{{< fa shopping-basket size=2x >}} Dotazy k produktu"
 description: "1 otázka"
-lang: en-gb
+lang: cs
 order: 4
 category-level: 0
 icon: nákupní košík
 ---
 
-{{< fa "nákupní košík" size=3x >}}
+{{< fa "nákupní košík" size=3× >}}
 
-## Mám dotaz / reklamaci ohledně produktu
+## Mám dotaz / tvrzení o produktu
 
 [https://world.openfoodfacts.org](https://world.openfoodfacts.org/) je společný web vytvořený a spravovaný spotřebiteli, aby mohli luštit etikety a porovnávat produkty.
 
