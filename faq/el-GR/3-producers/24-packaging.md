@@ -1,49 +1,49 @@
 ---
-title: "Συσκευασία {{< μέγεθος κύβου fa=2x >}}"
-description: "3 ερωτήσεις"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: κύβος
+icon: cube
 ---
 
-{{< fa "κύβος" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Πώς μπορώ να προσθέσω τα δεδομένα συσκευασίας μου στο Open Food Facts;
+## How can I add my packaging data to Open Food Facts?
 
-Ως παραγωγός, ο πιο αποτελεσματικός τρόπος για να προσθέσετε δεδομένα συσκευασίας στα προϊόντα σας είναι συμπληρώνοντας σε αυτό το [υπολογιστικό φύλλο excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) τις απαραίτητες πληροφορίες, από τη στήλη "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Για κάθε στοιχείο συσκευασίας, θα πρέπει να εισαγάγετε:
+For each packaging component, you will need to enter:
 
-- Ο αριθμός των μονάδων (π.χ.: **4** δοχεία γιαουρτιού)
+- The number of units (ex: **4** pots of yogurts)
 
-- Το σχήμα (π.χ.: **γλάστρα, καπάκι, κουτί, κ.λπ.**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Το υλικό (π.χ.: **PET, χαρτί, γυαλί, κ.λπ.**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Η οδηγία ανακύκλωσης (π.χ.: **ανακύκλωση, απόρριψη, κ.λπ.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Το βάρος μιας κενής μονάδας (σε gr)
+- The weight of one empty unit (in gr)
 
-- Η καθαρή ποσότητα του προϊόντος που περιέχεται ανά μονάδα
+- The net quantity of product contained per unit
 
-Αυτό το υπολογιστικό φύλλο μπορεί στη συνέχεια να εισαχθεί στην πλατφόρμα μας που είναι αφιερωμένη στους επαγγελματίες.
-
----
-
-## Τι είναι το έργο Tackling Food Packaging;
-
-Το έργο «Αντιμετώπιση της Συσκευασίας Τροφίμων» συνίσταται στη συλλογή λεπτομερών πληροφοριών σχετικά με τη συσκευασία των προϊόντων που καταναλώνονται περισσότερο (σχήμα, υλικό, οδηγίες διαλογής, βάρος, χωρητικότητα).
-
-Βασισμένο σε μια συμμετοχική επιστημονική προσέγγιση, θα βασίζεται τόσο στη συμφωνία των εταιρειών να κοινοποιούν τα δεδομένα των συσκευασιών τους και να παίζουν το παιχνίδι της διαφάνειας, όσο και στο να επιτρέπουν οι πολίτες τη συλλογή πληροφοριών σχετικά με τα προϊόντα. Αυτές οι πληροφορίες θα είναι ελεύθερα επαναχρησιμοποιήσιμες («ανοιχτά δεδομένα»).
-
-**Για περισσότερες πληροφορίες:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ακόμα και μετά το τέλος του έργου Tackling Food Packaging, μπορώ να προσθέσω τα δεδομένα συσκευασίας μου;
+## What is the Tackling Food Packaging project?
 
-Ακόμα και μετά το τέλος του έργου, είναι δυνατή η προσθήκη δεδομένων συσκευασίας, καθώς τα πεδία συσκευασίας θα παραμείνουν στον ιστότοπό μας.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
