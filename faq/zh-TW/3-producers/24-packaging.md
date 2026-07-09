@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} 包裝"
-description: "3個問題"
-lang: 英語-英國
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
+lang: en-gb
 order: 24
 category-level: 1
-icon: 立方體
+icon: cube
 ---
 
-{{< fa "立方體" size=3倍 >}}
+{{< fa "cube" size=3x >}}
 
-## 我如何將我的包裝資料添加到 Open Food Facts？
+## How can I add my packaging data to Open Food Facts?
 
-作為生產商，將包裝資料新增至產品的最有效方法是，從「AU」列開始，在這個[Excel電子表格](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl中填寫必要的資訊。
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-對於每個包裝組件，您需要輸入：
+For each packaging component, you will need to enter:
 
-- 單位數量（例如：**4** 罐優格）
+- The number of units (ex: **4** pots of yogurts)
 
-- 形狀（例如：**鍋子、蓋子、盒子等**）
+- The shape (ex: **pot, lid, box, etc**)
 
-- 材質（例如：**PET、紙張、玻璃等**）
+- The material (ex: **PET, paper, glass, etc**)
 
-- 回收說明（例如：**可回收、可丟棄等**）
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- 一個空單位的重量（克）
+- The weight of one empty unit (in gr)
 
-- 每單位產品淨含量
+- The net quantity of product contained per unit
 
-然後，您可以將此電子表格匯入到我們專為專業人士打造的平台中。
-
----
-
-## 什麼是「解決食品包裝問題」項目？
-
-「解決食品包裝問題」計畫旨在收集有關消費量最大的產品包裝的詳細資訊（形狀、材料、分類說明、重量、容量）。
-
-基於參與式科學方法，它將依賴企業同意分享其包裝數據並遵守透明度規則，以及公民允許收集產品資訊。 這些資訊將可以自由重複使用（「開放資料」）。
-
-**更多資訊：** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## 即使「解決食品包裝問題」專案已經結束，我還能添加我的包裝數據嗎？
+## What is the Tackling Food Packaging project?
 
-即使項目結束後，仍然可以添加包裝數據，因為包裝欄位將保留在我們的網站上。
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
