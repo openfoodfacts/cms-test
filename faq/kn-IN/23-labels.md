@@ -1,23 +1,23 @@
 ---
-title: "{{< fa ಬುಕ್‌ಮಾರ್ಕ್ ಗಾತ್ರ=2x >}} ಲೇಬಲ್‌ಗಳು"
-description: "2 ಪ್ರಶ್ನೆಗಳು"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: ಬುಕ್‌ಮಾರ್ಕ್
+icon: bookmark
 ---
 
-{{< fa "ಬುಕ್‌ಮಾರ್ಕ್" size=3x >}}
+{{< fa "bookmark" size=3x >}}
 
-## ಲೇಬಲ್ ಆಗಿ, ಖಾತೆಯನ್ನು ರಚಿಸುವುದು ಮುಖ್ಯವೇ?
+## As a label, is it important to create an account ?
 
-ಲೇಬಲ್ ಆಗಿ, ನೀವು ಉತ್ಪನ್ನಗಳ ನೇರ ಉತ್ಪಾದಕರಲ್ಲದ ಕಾರಣ, ನೀವು ಉತ್ಪಾದಕರ ಖಾತೆಯನ್ನು ರಚಿಸುವ ಅಗತ್ಯವಿಲ್ಲ.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## ನಾನು ಒಬ್ಬ ಲೇಬಲ್, ನಾನು ಯೋಜನೆಯಲ್ಲಿ ಹೇಗೆ ಭಾಗವಹಿಸಬಹುದು?
+## I am a label, how can I participate in the project?
 
-ಒಂದು ಲೇಬಲ್ ಆಗಿ ಮಾಡಬೇಕಾದ ಅತ್ಯಂತ ಪ್ರಸ್ತುತವಾದ ಕೆಲಸವೆಂದರೆ ನಮ್ಮನ್ನು **(producers@openfoodfacts.org)** ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಲೇಬಲ್ ಪ್ರದರ್ಶಿಸಲಾದ ಉತ್ಪನ್ನಗಳ ಪಟ್ಟಿಯನ್ನು ನಮಗೆ ಕಳುಹಿಸಿ ಇದರಿಂದ ನಾವು ಅವುಗಳನ್ನು ಸಂಬಂಧಿತ ಉತ್ಪನ್ನ ಹಾಳೆಗಳಲ್ಲಿ ಸೇರಿಸಬಹುದು.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
