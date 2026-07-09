@@ -1,39 +1,39 @@
 ---
-title: "{{< fa bogolo jwa mola wa tšhate=2x >}} Ka ga maduo"
-description: "Dipotso di le 3"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: mola wa tšhate
+icon: chart-line
 ---
 
-{{< fa "mola wa tšhate" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## Ke mang yo o nang le maikarabelo a go bala motlhala le/kgotsa maduo?
+## Who is responsible for calculating the footprint and/or score?
 
-Nutri-Score, setlhopha sa NOVA le Eco-Score di balelwa go ikaegilwe ka tshedimosetso e e leng teng mo Dintlhang tsa Dijo tse di Buletsweng. Dikgatotharabololong tsa rona ka tieo latela mekgwa ya semmuso ya dintlha tsena.
-
----
-
-## Pharologano ke eng fa gare ga Eco-Score, Nutri-Score le setlhopha sa NOVA?
-
-Maikaelelo a ditshupo tse ke go tlamela ka tshedimosetso e e tlhaloganyesegang bonolo go moreki.
-
-[Setlhopha sa NOVA](https://fr.openfoodfacts.org/nova) se samagana le phetogo ya setlhagiswa, [Eco-Score](https://fr.openfoodfacts.org/ecoscore) ka khuetso ya sona mo tikologong le [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) ka dielemente tsa phepo tse di nang le maduo a mantsi, fa setlhagiswa se le gaufi thata.
-
-Maduo a le 3 ga a dirisane le dielemente tse di tshwanang. Ka jalo ga go kgonege go di bapisa le tse dingwe.
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## A go a kgonega go etsisa Eco-Score kgotsa Nutri-Score ya ditlhagiswa tsa me?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-Ka go ikwadisa mo sethaleng sa batlhagisi le go laisa tshedimosetso ya ditlhagiswa tsa gago, o ka bala Nutri-Score le Eco-Score e e amanang le ditlhagiswa tsa gago.
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-Le fa go ntse jalo, o tshwanetse go e phimola fa go etsisa go setse go dirilwe gore e se ka ya romelwa kwa sethaleng sa botlhe ka ditlhagiswa tse di setseng di rekisiwa mo setlhopheng sa gago.
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ Go bona dintlha tse dingwe, re go laletsa go laisolola [kaedi ya rona ya modirisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) le/kgotsa go leba [dithuto tsa rona tsa bidio](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
