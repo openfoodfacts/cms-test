@@ -1,7 +1,7 @@
 ---
 title: "{{< fa graduation-cap size=2x >}} Onderzoekers/Wetenschappers"
 description: "1 subcategorie"
-lang: en-gb
+lang: nl-nl
 order: 25
 category-level: 0
 icon: afstudeerhoed
@@ -10,7 +10,7 @@ listing:
     - "*.md"
   include:
     category-level: 1
-  type: rooster
+  type: Rooster
   grid-columns: 4
   sort: "volgorde"
   fields: [ titel, beschrijving ]
