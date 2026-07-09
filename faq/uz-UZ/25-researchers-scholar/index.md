@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Tadqiqotchilar/Olimlar"
-description: "1 ta kichik kategoriya"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: bitiruv qalpog'i
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: panjara
+  type: grid
   grid-columns: 4
-  sort: "buyurtma"
-  fields: [ sarlavha, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "bitiruv qalpog'i" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
