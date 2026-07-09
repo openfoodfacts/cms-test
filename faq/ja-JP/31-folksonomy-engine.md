@@ -1,17 +1,17 @@
 ---
-title: "{{< fa book size=2x >}} フォークソノミーエンジン"
-description: "1件の質問"
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: 本
+icon: book
 ---
 
-{{< fa "本" size=3倍 >}}
+{{< fa "book" size=3x >}}
 
-## Folksonomy Engineとは何ですか?
+## What is the Folksonomy Engine ?
 
-Folksonomy Engine は、世界最大のオープン食品データベースである Open Food Facts 内の食品にユーザーがカスタム タグやプロパティを追加できるシステムです。 これにより、既存の定義済みプロパティを超えて、新しい方法で食品を分類および説明できるようになります。
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
