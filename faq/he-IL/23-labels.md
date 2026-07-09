@@ -1,23 +1,23 @@
 ---
-title: "תוויות"
-description: "2 שאלות"
+title: "{{< fa bookmark size=2x >}} Labels"
+description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: סימניה
+icon: bookmark
 ---
 
-{{< fa "סימניה" size="פי 3" >}}
+{{< fa "bookmark" size=3x >}}
 
-## כחברת תקליטים, האם חשוב ליצור חשבון?
+## As a label, is it important to create an account ?
 
-כחברת תקליטים, מכיוון שאינך היצרן הישיר של המוצרים, אינך צריך ליצור חשבון יצרן.
+As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
 
 ---
 
-## אני חברת תקליטים, איך אני יכולה להשתתף בפרויקט?
+## I am a label, how can I participate in the project?
 
-כתווית, הדבר הרלוונטי ביותר לעשות הוא ליצור איתנו קשר **(producers@openfoodfacts.org)** ולשלוח לנו את רשימת המוצרים עליהם מוצגת התווית שלכם כדי שנוכל להוסיף אותם לדפי המוצר הרלוונטיים.
+As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
 
 ---
 
