@@ -9,21 +9,21 @@ icon: paw
 
 {{< fa "paw" size=3x >}}
 
-## Why is there no Nutri-Score for animals?
+## Pourquoi n'y a-t-il pas de Nutri-Score pour les animaux ?
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Chaque animal est différent (un serpent n'a pas les mêmes besoins nutritionnels qu'un chat ou un chien)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Même au sein d'un même type d'animal comme les chiens, les besoins nutritionnels varient en fonction du mode de vie sédentaire, d'une éventuelle castration ou de maladies.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Il est donc compliqué de calculer un score pour l'alimentation animale sans impliquer des dizaines de chercheurs et créer des dizaines d'algorithmes différents, ce qui n'a pas été fait à ce jour.
 
 ---
 
-## Where can I find the Open Pet Food Facts API ?
+## Où puis-je trouver l'API Open Pet Food Facts ?
 
-Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
+L'API d'Open Pet Food Facts est identique à 98 % à celle d'Open Food Facts, donc si vous utilisez la documentation d'Open Food Facts, vous devriez avoir une vision assez claire de l'API d'Open Pet Food Facts.
 
-Note that features like the Knowledge Panels, Eco-Score, Nutri-Score are not supported (either due to the topic, or to the old codebase).
+Notez que des fonctionnalités comme les panneaux de connaissances (Knowledge Panels), l'Eco-Score ou le Nutri-Score ne sont pas prises en charge (soit en raison du sujet, soit à cause de l'ancienneté de la base de code).
 
 [https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/](https://openfoodfacts.github.io/openfoodfacts-server/api/ref-v2/)
 
