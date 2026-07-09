@@ -1,23 +1,23 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} उत्पादनको बारेमा प्रश्नहरू"
-description: "१ प्रश्न"
-lang: एनजीबी
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
+lang: en-gb
 order: 4
 category-level: 0
-icon: किनमेल टोकरी
+icon: shopping-basket
 ---
 
-{{< fa "किनमेल टोकरी" size=३x >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## मेरो एउटा उत्पादनको बारेमा प्रश्न / दाबी छ।
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) लेबलहरू बुझ्न र उत्पादनहरूको तुलना गर्न सक्षम हुन उपभोक्ताहरूद्वारा सिर्जना गरिएको र खुवाइएको एक सहयोगी साइट हो।
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-उत्पादन वा दावीको बारेमा थप जानकारीको लागि, निर्मातालाई लेख्नुहोस्। हामीसँग निर्माताहरूको सम्पर्क जानकारी छैन तर तिनीहरू प्रायः प्याकेजिङमा हुन्छन्।
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-यदि तपाईं वा हामी जस्ता उपभोक्ताहरूलाई थप पारदर्शिता ल्याउन मद्दत गर्न चाहनुहुन्छ भने, तपाईंले उत्पादनहरू थप्न हाम्रो आईफोन वा एन्ड्रोइड एप प्रयोग गर्न सक्नुहुन्छ: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-र परियोजनाको बारेमा छलफल गर्न, तपाईं योगदानकर्ताहरूको फेसबुक समूहमा सामेल हुन सक्नुहुन्छ: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) वा Slack मा अन्य योगदानकर्ताहरूसँग कुराकानी गर्न सक्नुहुन्छ:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
