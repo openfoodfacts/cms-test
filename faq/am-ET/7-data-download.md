@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} የውሂብ ማውረድ"
-description: "1 ጥያቄ"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: የደመና-ማውረጃ
+icon: cloud-download
 ---
 
-{{< fa "የደመና-ማውረጃ" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## የአንድ የተወሰነ ሀገር መረጃ የት ማግኘት ይቻላል?
+## Where to get the data for a specific country?
 
-በአሁኑ ጊዜ ለተወሰኑ አገሮች የተመደበ ምንም አይነት ኤክስፖርት የለም።
+Currently, there are no exports dedicated to specific countries.
 
-ከአንድ የተወሰነ ሀገር ጋር የተያያዘውን ውሂብ ለመምረጥ የተለያዩ ኤክስፖርትዎቻችንን ከተለያዩ መሳሪያዎች ጋር በማጣመር የምንጠቀምባቸው ብዙ መንገዶች አሉ።
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[አንዳንድ እነዚህን ቴክኒኮች በዊኪያችን ላይ](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Dataላይ ማየት ይችላሉ።)
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
