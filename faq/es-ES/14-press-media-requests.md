@@ -1,6 +1,6 @@
 ---
 title: "{{< fa newspaper size=2x >}} Press & Media Requests"
-description: "1 question"
+description: "1 pregunta"
 lang: en-gb
 order: 14
 category-level: 0
