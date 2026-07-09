@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} ລາຄາເປີດ"
-description: "3 ຄຳຖາມ"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: ໂດລາ
+icon: dollar
 ---
 
-{{< fa "ໂດລາ" size=3x >}}
+{{< fa "dollar" size=3x >}}
 
-## ຂ້ອຍເປັນຜູ້ຂາຍຍ່ອຍ ແລະ ຂ້ອຍຢາກປະກອບສ່ວນລາຄາ. ຂ້ອຍຈະເຮັດແນວນັ້ນໄດ້ແນວໃດ?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-ທ່ານສາມາດປະກອບສ່ວນລາຄາໄດ້ໂດຍການໃຊ້ [API ຂອງພວກເຮົາ](https://prices.openfoodfacts.org/api/docs). ຖ້າທ່ານຕ້ອງການປະກອບສ່ວນລາຄາໃນລະດັບໃຫຍ່, ກະລຸນາຕິດຕໍ່ພວກເຮົາໄດ້ທີ່ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## ເຈົ້າພິຈາລະນາການຂູດລາຄາຈາກເວັບໄຊທ໌ຂອງຜູ້ຂາຍຍ່ອຍບໍ?
+## Do you consider scraping prices from retailers’ websites?
 
-ດ້ວຍເຫດຜົນທາງດ້ານກົດໝາຍ ແລະ ເຕັກນິກ, ພວກເຮົາບໍ່ພິຈາລະນາການຂູດລາຄາຈາກເວັບໄຊທ໌ຂອງຜູ້ຂາຍຍ່ອຍເປັນວິທີທີ່ຖືກຕ້ອງໃນການປະກອບສ່ວນເຂົ້າໃນ Open Prices. ພວກເຮົາຕ້ອງການຮັບປະກັນວ່າລາຄາທີ່ພວກເຮົາເກັບກຳແມ່ນຖືກຕ້ອງ ແລະ ທັນສະໄໝ, ແລະ ການໄດ້ຮັບລາຄາທີ່ຖືກຕັດອອກຈາກຜູ້ປະກອບສ່ວນບໍ່ໄດ້ອະນຸຍາດໃຫ້ພວກເຮົາເຮັດແບບນັ້ນໄດ້.
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## ເປັນຫຍັງ Open Food Facts ຈຶ່ງເຮັດແບບນີ້ (ລາຄາເປີດ)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ຂໍ້ມູນລາຄາແມ່ນມີຄວາມສຳຄັນທີ່ສຸດເພື່ອເຂົ້າໃຈລະບົບອາຫານ. ມັນເປັນປັດໄຈສຳຄັນໃນການເຂົ້າໃຈລາຄາອາຫານ ແລະ ເພື່ອສົ່ງເສີມອາຫານທີ່ມີສຸຂະພາບດີ. ການເປີດຂໍ້ມູນລາຄາແມ່ນວິທີໜຶ່ງທີ່ຈະເຮັດໃຫ້ນັກຄົ້ນຄວ້າ, ນັກຂ່າວ ແລະ ພົນລະເມືອງມີຄວາມເຂົ້າໃຈດີຂຶ້ນກ່ຽວກັບວ່າລາຄາອາຫານມີການປ່ຽນແປງທາງພູມສາດ ແລະ ຕາມເວລາໄດ້ແນວໃດ.
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
