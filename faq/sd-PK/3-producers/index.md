@@ -1,21 +1,21 @@
 ---
-title: "{{< fa انڊسٽري سائيز=2x >}} پيدا ڪندڙ"
-description: "6 ذيلي زمرا"
-lang: اين جي بي
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: صنعت
+icon: industry
 listing:
   contents:
-    - "*.ايم ڊي"
+    - "*.md"
   include:
     category-level: 1
-  type: گرڊ
+  type: grid
   grid-columns: 4
-  sort: "حڪم"
-  fields: [ عنوان, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "صنعت" size=3x >}}
+{{< fa "industry" size=3x >}}
 
