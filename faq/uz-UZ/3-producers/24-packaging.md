@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Qadoqlash"
-description: "3 ta savol"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kub
+icon: cube
 ---
 
-{{< fa "kub" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Qadoqlash ma'lumotlarimni Open Food Facts’ga qanday qo'shishim mumkin?
+## How can I add my packaging data to Open Food Facts?
 
-Ishlab chiqaruvchi sifatida mahsulotlaringizga qadoqlash ma'lumotlarini qo'shishning eng samarali usuli bu [excel elektron jadvali](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) ga "AU" ustunidan kerakli ma'lumotlarni to'ldirishdir.
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Har bir qadoqlash komponenti uchun siz quyidagilarni kiritishingiz kerak bo'ladi:
+For each packaging component, you will need to enter:
 
-- Birliklar soni (masalan: **4** choynak yogurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Shakli (masalan: **idish, qopqoq, quti va boshqalar**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Material (masalan: **PET, qog'oz, shisha va boshqalar**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Qayta ishlash bo'yicha ko'rsatma (masalan: **qayta ishlash uchun, tashlab yuborish uchun va hokazo**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Bitta bo'sh birlikning og'irligi (gr da)
+- The weight of one empty unit (in gr)
 
-- Bir birlik uchun mavjud bo'lgan mahsulotning sof miqdori
+- The net quantity of product contained per unit
 
-Ushbu elektron jadvalni keyinchalik professionallarga bag'ishlangan platformamizga import qilish mumkin.
-
----
-
-## Oziq-ovqat mahsulotlarini qadoqlash bilan bog'liq muammolarni hal qilish loyihasi nima?
-
-"Oziq-ovqat mahsulotlarini qadoqlash bilan shug'ullanish" loyihasi eng ko'p iste'mol qilinadigan mahsulotlarning qadoqlashi (shakli, materiali, saralash bo'yicha ko'rsatmalari, vazni, sig'imi) haqida batafsil ma'lumot to'plashdan iborat.
-
-Ishtirokchi ilmiy yondashuvga asoslanib, u kompaniyalarning o'zlarining qadoqlash ma'lumotlarini baham ko'rishga va shaffoflik o'yinini o'ynashga rozilik berishiga, shuningdek, fuqarolarning mahsulotlar haqida ma'lumot to'plashga ruxsat berishiga tayanadi. Ushbu ma'lumotlardan erkin qayta foydalanish mumkin ("ochiq ma'lumotlar").
-
-**Qo'shimcha ma'lumot uchun:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Oziq-ovqat mahsulotlarini qadoqlash loyihasi tugaganidan keyin ham, qadoqlash ma'lumotlarimni qo'sha olamanmi?
+## What is the Tackling Food Packaging project?
 
-Loyiha tugaganidan keyin ham, qadoqlash maydonlari veb-saytimizda qolishi sababli, qadoqlash ma'lumotlarini qo'shish mumkin.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
