@@ -1,15 +1,15 @@
 ---
-title: "{{< fa սրվակի չափս=2x >}} NOVA / Սննդի վերամշակում"
-description: "1 հարց"
-lang: անգլերեն-գբ
+title: "{{< fa flask size=2x >}} NOVA / Food processing"
+description: "1 question"
+lang: en-gb
 order: 6
 category-level: 0
-icon: սրվակ
+icon: flask
 ---
 
-{{< fa "սրվակ" size=3x >}}
+{{< fa "flask" size=3x >}}
 
-## Ի՞նչ է NOVA-ն։
+## What is NOVA ?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
