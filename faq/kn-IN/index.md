@@ -1,20 +1,20 @@
 ---
 # To be translated (strings between quotation marks)
-title: "ಪದೇ ಪದೇ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು - ಇಂಗ್ಲಿಷ್"
+title: "FAQ - English"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
 listing:
   contents:
-    - "*.ಎಂಡಿ"
-    - "*/ಸೂಚ್ಯಂಕ.ಎಂಡಿ"
+    - "*.md"
+    - "*/index.md"
   include:
     category-level: 0
-  type: ಗ್ರಿಡ್
+  type: grid
   grid-columns: 4
-  sort: "ಆದೇಶ"
-  fields: [ ಶೀರ್ಷಿಕೆ, ವಿವರಣೆ ]
-  page-size: 100 (100)
+  sort: "order"
+  fields: [ title, ವಿವರಣೆ ]
+  page-size: 100
 
 # << DO NOT TRANSLATE
 ---
