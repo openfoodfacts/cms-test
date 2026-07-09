@@ -1,7 +1,7 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Analyse van het productportfolio (benchmark, verbetering...)"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
 description: "1 vraag"
-lang: en-gb
+lang: nl-nl
 order: 22
 category-level: 1
 icon: grafiekbalk
@@ -9,17 +9,17 @@ icon: grafiekbalk
 
 {{< fa "grafiekbalk" size=3x >}}
 
-## Hoe krijg ik toegang tot de aanbevelingen voor herformulering om de Nutri-Score van mijn producten te verbeteren?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Wanneer u zich op de startpagina van het Producers Platform bevindt:
+When you are on the home page of the Producers Platform:
 
-1. Klik op de link "→ Aantal producten met verbeterpunten" bovenaan de pagina.
+1. klik op de link "→ Aantal producten met verbeterpunten" bovenaan de pagina
 
-2. U kunt alle door ons systeem gedetecteerde mogelijkheden raadplegen om uw producten te verbeteren.
+2. u kunt alle door ons systeem gedetecteerde mogelijkheden raadplegen om uw producten te verbeteren
 
-3. Door op een bepaald type kans te klikken, komt u terecht bij de lijst met producten die voor verbetering vatbaar zijn.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Voor meer informatie nodigen we u uit om onze [gebruikershandleiding](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) te downloaden en/of onze [videotutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) te bekijken :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
