@@ -1,31 +1,31 @@
 ---
-title: "{{< fa hjerteslagsstørrelse=2x >}} Nutri-Score"
-description: "3 spørgsmål"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: hjerteslag
+icon: heartbeat
 ---
 
-{{< fa "hjerteslag" size="3 gange" >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Hvad skal jeg gøre, hvis mine produkters ernæringsscore ikke er korrekt?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Hvis der opstår et problem med din Nutri-Score, skal du kontrollere, at dine oplysninger er korrekte under fanen "ændre" i dit produktblad. Hvis der mangler eller er ukorrekte oplysninger, er du velkommen til at kontakte os på producers@openfoodfacts.org
-
----
-
-## Hvilken type information skal jeg give, så Nutri-Score beregnes så præcist som muligt?
-
-Beregningen af Nutri-Score vil blive udført med ernæringstabellen for dit produkt.
-
-Glem ikke at inkludere procentdelen af frugt, grøntsager og nødder i din tabel, så den beregnede Nutri-Score ikke er forkert.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Hvor kommer Nutri-Score fra?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Nutri-Score administreres af Santé Publique France. Den opsummerer tabellen over næringsværdier, så alle kan forstå den. Målet er at give adgang til klar og forståelig ernæringsinformation for alle.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
