@@ -1,49 +1,49 @@
 ---
-title: "{{< girman cube=2x >}} Marufi"
-description: "Tambayoyi 3"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kubi
+icon: cube
 ---
 
-{{< fa "kubi" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Ta yaya zan iya ƙara bayanan marufi na zuwa Buɗe Bayanan Abinci?
+## How can I add my packaging data to Open Food Facts?
 
-A matsayinka na mai samarwa, hanya mafi inganci don ƙara bayanan marufi zuwa samfuranka ita ce ta hanyar cike wannan [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) bayanan da ake buƙata, daga shafi na "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Ga kowane ɓangaren marufi, za ku buƙaci shigar da:
+For each packaging component, you will need to enter:
 
-- Adadin raka'a (misali: **4** tukwane na yogurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Siffar (misali: **tuku, murfi, akwati, da sauransu**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Kayan (misali: **PET, takarda, gilashi, da sauransu**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Umarnin sake amfani da shi (misali: \*\* sake amfani da shi, zubar da shi, da sauransu\*\*)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Nauyin raka'a ɗaya mara komai (a cikin gr)
+- The weight of one empty unit (in gr)
 
-- Adadin samfurin da ke cikin kowace naúrar
+- The net quantity of product contained per unit
 
-Za a iya shigo da wannan takardar lissafi zuwa dandalinmu da aka keɓe ga ƙwararru.
-
----
-
-## Menene aikin Tackling Food Packaging?
-
-Aikin "Magance Marufin Abinci" ya ƙunshi tattara bayanai dalla-dalla kan marufin kayayyakin da aka fi cinyewa (siffa, kayan aiki, umarnin rarrabawa, nauyi, iyawa).
-
-Dangane da tsarin kimiyya mai haɗin gwiwa, zai dogara ne akan kamfanoni da suka yarda su raba bayanan marufi da kuma yin wasan gaskiya, da kuma akan 'yan ƙasa da ke barin tattara bayanai kan kayayyaki. Za a iya sake amfani da wannan bayanin kyauta ("buɗe bayanai").
-
-**Don ƙarin bayani:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ko bayan kammala aikin Tackling Food Packaging, zan iya ƙara bayanan marufina?
+## What is the Tackling Food Packaging project?
 
-Ko da bayan kammala aikin, yana yiwuwa a ƙara bayanan marufi domin filayen marufi za su ci gaba da kasancewa a gidan yanar gizon mu.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
