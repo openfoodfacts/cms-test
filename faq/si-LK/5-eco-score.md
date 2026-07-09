@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus size=2x >}} පරිසර ලකුණු"
-description: "ප්‍රශ්න 5ක්"
-lang: si-gb (ඉංග්‍රීසි බසින්)
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
+lang: en-gb
 order: 5
 category-level: 0
-icon: පරිශීලක-ප්ලස්
+icon: user-plus
 ---
 
-{{< fa "පරිශීලක-ප්ලස්" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## පරිසර ලකුණු ක්‍රමවේදය යනු කුමක්ද?
+## What is the Eco-Score methodology?
 
-පාරිසරික ලකුණු ගණනය කිරීම පදනම් වී ඇත්තේ ADEME (පාරිසරික සංක්‍රාන්ති ඒජන්සිය) සහ INRAE (කෘෂි විද්‍යාත්මක පර්යේෂණ සඳහා වූ ජාතික ආයතනය) විසින් නිෂ්පාදනය කරන ලද ජීවන චක්‍ර විශ්ලේෂණය ගණනය කිරීම මත ය. PEF අගය නිර්මාණය කිරීම සඳහා සංරචක පහළොවක් පමණ ගණනය කර සම්බන්ධ කර ඇත.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-මෙම PEF ලකුණු වලට බෝනස් සහ අනිසි (නිෂ්පාදන ආකාරය, සම්භවය) එකතු කරනු ලැබේ.
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-(අමුද්‍රව්‍ය, වඳවීමේ තර්ජනයට ලක්ව ඇති විශේෂ, ඇසුරුම්) පරිසර ලකුණු ගණනය කිරීම සඳහා.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-වැඩිදුර තොරතුරු සඳහා, විවෘත ආහාර කරුණු පිළිබඳ සාරාංශ පිටුව [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) මෙන්ම Eco-Score consortium වෙබ් අඩවිය බලන්න. (පරිසර ලකුණු ඉදිරිපත් කිරීම [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
-
----
-
-## පරිසර ලකුණු හැකිතාක් නිවැරදිව ගණනය කිරීම සඳහා කුමන ආකාරයේ තොරතුරු ලබා දිය යුතුද?
-
-පරිසර ලකුණු නිවැරදිව ගණනය කිරීම සඳහා, එක් එක් අමුද්‍රව්‍යයේ ප්‍රතිශතය සහ එහි සම්භවය නිශ්චිතව සඳහන් කළ යුතුය.
-
-මෙම තොරතුරු දැනටමත් අමුද්‍රව්‍ය ලැයිස්තුවේ නිශ්චිතව දක්වා නොමැති නම්, ඔබට එය සඳහන් කිරීමට තීරුවක් එක් කළ හැකිය, පහත ආකෘතියෙන්:
-
-තිරිඟු පිටි 16% (ප්‍රංශය)
-
-චොකලට් 8% (අයිවරි කෝස්ට්, ඉක්වදෝරය)
-
-ඇසුරුම්කරණයේ සංරචක ද අපට අවශ්‍ය වේ: ඉවත දැමීමට ප්ලාස්ටික් පටල 1ක්, ප්‍රතිචක්‍රීකරණය කිරීමට FSC කාඩ්බෝඩ් පෙට්ටියක් 1ක්, ප්‍රතිචක්‍රීකරණය කිරීමට ලීටර් 1.5 ක PET විනිවිද පෙනෙන ප්ලාස්ටික් බෝතල් 6ක්, පාරාන්ධ වර්ණ ප්ලාස්ටික් කැප් 6ක්, ප්ලාස්ටික් කෑන් 12ක් සහ ඇලුමිනියම් 33ක්.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## දර්ශක 15 හි අගයන් ඒකාබද්ධ වන්නේ කෙසේද?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**PEF පද්ධතිය වඩා හොඳින් අවබෝධ කර ගැනීම සඳහා, ඔබට කියවිය හැකිය: Eco-Score ක්‍රමවේද අඩවියේ PEF ලකුණු පිළිබඳ පැහැදිලි කිරීම**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## දේශීය අංශය අමුද්‍රව්‍ය නිෂ්පාදනය කරන ස්ථානය හෝ ප්‍රභව ස්ථානය ගැන සැලකිලිමත් වේද?
+## How are the values ​​of the 15 indicators combined?
 
-**දේශීය පැතිකඩ අමුද්‍රව්‍යවල සම්භවය ගැන සැලකිලිමත් වේ. නිෂ්පාදන අමුද්‍රව්‍ය ලැයිස්තුවේ හෝ අමුද්‍රව්‍යවල මූලාරම්භය සඳහා කැප වූ ක්ෂේත්‍රයේ ඒවායේ ප්‍රතිශත මෙන්ම ඒවායේ මූලාරම්භයද ඇතුළත් කිරීම වැදගත් වන්නේ එබැවිනි.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## පරිසර ලකුණු සඳහා අමුද්‍රව්‍යවල මූලාරම්භය ඇතුළත් කරන්නේ කෙසේද?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-ඔබේ පත්‍රවල ඇති අමුද්‍රව්‍යවල මූලාරම්භය පිළිබඳ තොරතුරු බෙදා ගැනීමට ඔබ කැමති නම්, ඒවා අමුද්‍රව්‍ය ලැයිස්තුවට ඇතුළත් කරන ලෙස අපි ඔබට ආරාධනා කරන්නෙමු.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
