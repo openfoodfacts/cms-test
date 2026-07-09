@@ -1,25 +1,25 @@
 ---
-title: "{{< fa lishadi-ibha size=2x >}} Kuhlatiya iphothifoliyo yemkhicito (silinganiso, kwenta ncono...)"
-description: "1 umbuto"
-lang: si-gb
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
+lang: en-gb
 order: 22
 category-level: 1
-icon: ibha yeshadi
+icon: chart-bar
 ---
 
-{{< fa "ibha yeshadi" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## Indlela yekufinyelela kusincomo sekwakha kabusha kwenta ncono iNutri-Score yemikhicito yami?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-Uma usekhasini lekucala lePlatifomu Yebakhiciti:
+When you are on the home page of the Producers Platform:
 
-1. chafata kusixhumanisi "→ Linani lemikhicito lenematfuba ekutfutfukisa" lesetulu ekhasini.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. ungabonana nawo onkhe ematfuba latfolakala luhlelo lwetfu kwenta ncono imikhicito yakho .
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. kuchafata luhlobo lwetfuba kutawukuholela eluhlwini lwemikhicito lefanele kutsi itfutfukiswe.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ Kute utfole imininingwane leyengetiwe, sikumema kutsi ulandze [umhlahlandlela wetfu wemsebentisi](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) kanye/noma ubuke [tifundvo tetfu temavidiyo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
