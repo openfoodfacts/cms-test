@@ -1,31 +1,31 @@
 ---
-title: "តម្លៃបើក {{< fa dollar size=2x >}}"
-description: "សំណួរចំនួន ៣"
-lang: អង់គ្លេស-ជីកាបៃ
-order: ២៩
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
+lang: en-gb
+order: 29
 category-level: 0
-icon: ដុល្លារ
+icon: dollar
 ---
 
-{{< fa "ដុល្លារ" size=៣ដង >}}
+{{< fa "dollar" size=3x >}}
 
-## ខ្ញុំជាអ្នកលក់រាយ ហើយខ្ញុំចង់ចូលរួមចំណែកតម្លៃ។ តើខ្ញុំអាចធ្វើដូច្នោះដោយរបៀបណា?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-អ្នកអាចចូលរួមចំណែកតម្លៃដោយប្រើ [API របស់យើង](https://prices.openfoodfacts.org/api/docs)។ ប្រសិនបើអ្នកចង់ចូលរួមចំណែកតម្លៃក្នុងទ្រង់ទ្រាយធំ សូមទាក់ទងមកយើងខ្ញុំតាមរយៈ [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org)។
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## តើអ្នកពិចារណា​ពី​ការ​ទារ​តម្លៃ​ពី​គេហទំព័រ​របស់​អ្នក​លក់រាយ​ដែរ​ឬទេ?
+## Do you consider scraping prices from retailers’ websites?
 
-ដោយសារហេតុផលផ្នែកច្បាប់ និងបច្ចេកទេស យើងមិនចាត់ទុកការដកតម្លៃចេញពីគេហទំព័ររបស់អ្នកលក់រាយជាមធ្យោបាយត្រឹមត្រូវមួយដើម្បីចូលរួមចំណែកដល់ Open Prices ទេ។ យើងចង់ធ្វើឱ្យប្រាកដថាតម្លៃដែលយើងប្រមូលបានគឺត្រឹមត្រូវ និងទាន់សម័យ ហើយការទទួលបានតម្លៃដែលមិនបានវាយតម្លៃពីអ្នកចូលរួមមិនអនុញ្ញាតឱ្យយើងធ្វើដូច្នោះទេ។
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 ការកោសតម្លៃគឺជាជម្រើសដែលត្រូវបានពិចារណានៅក្នុងកំណែនាពេលអនាគតរបស់ Open Prices ប៉ុន្តែវានឹងត្រូវបានធ្វើឡើងដោយ Open Prices ខ្លួនឯង ដើម្បីឱ្យយើងអាចមានភស្តុតាងនៃតម្លៃដោយផ្អែកលើទំព័រ HTML។
 
 ---
 
-## ហេតុអ្វីបានជា Open Food Facts ធ្វើបែបនេះ (តម្លៃបើកចំហ)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-ព័ត៌មានតម្លៃគឺមានសារៈសំខាន់បំផុតដើម្បីយល់ពីប្រព័ន្ធម្ហូបអាហារ។ វាជាកត្តាសំខាន់ក្នុងការយល់ដឹងអំពីតម្លៃអាហារ និងដើម្បីលើកកម្ពស់របបអាហារដែលមានសុខភាពល្អ។ ការបើកទិន្នន័យតម្លៃគឺជាមធ្យោបាយមួយដើម្បីធ្វើឱ្យវាកាន់តែងាយស្រួលសម្រាប់អ្នកស្រាវជ្រាវ អ្នកសារព័ត៌មាន និងប្រជាពលរដ្ឋក្នុងការយល់ដឹងកាន់តែច្បាស់អំពីរបៀបដែលតម្លៃម្ហូបអាហារប្រែប្រួលទៅតាមភូមិសាស្ត្រ និងពេលវេលា។
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
