@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user size=2x >}} Maaree akoonkayga"
-description: "3 su'aalood"
+title: "{{< fa user size=2x >}} Manage my account"
+description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
@@ -9,37 +9,37 @@ icon: user
 
 {{< fa "user" size=3x >}}
 
-## Ma la xiriiri karaa akoonno badan oo Furan oo ku saabsan Xaqiiqooyinka Cuntada Furan hal shirkad?
+## Can multiple Open Food Facts accounts be linked to a single company?
 
-Haa, fadlan iimayl u dir [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), si aan dhammaan akoonnada ugu xiri karno isla shirkaddii hore.
-
----
-
-## Sideen ugu beddelaa akoonkayga Furan ee Xaqiiqooyinka Cuntada ah akoon Pro ah?
-
-Waxaad geli kartaa [Pro platform](https://world.pro.openfoodfacts.org/) adoo isticmaalaya aqoonsiga akoonkaaga jira.
-
-Haddii aad tahay xirfadle, waxaad u baahan doontaa inaad isticmaasho cinwaankaaga iimaylka xirfadeed si aan u xaqiijinno akoonkaaga.
-
-→ Wixii faahfaahin dheeraad ah, waxaan kugu martiqaadeynaa inaad soo dejiso [hagaha isticmaalaha](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) iyo/ama la tasho [casharradeenna fiidiyowga](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+Yes, please email [producers@openfoodfacts.org](mailto:support@openfoodfacts.org), so we can link all accounts to the same company.
 
 ---
 
-## Xaggee ka heli karaa dukumentiyo iga caawinaya isticmaalka barnaamijka Pro?
+## How to convert my Open Food Facts account into a Pro account?
 
-Waxaa jira dhowr agab oo kaa caawinaya inaad si fiican uga faa'iidaysato barnaamijka Pro.
+You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with your existing account's credentials.
 
-Waad ku soo dhaweyn kartaa:
+If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-- hubi [hagaha isticmaalaha](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - waxaan kugu martiqaadeynaa inaad soo dejiso PDF-ka si xiriiriyeyaasha loo gujin karo, taasoo sahlaysa inaad dhex marto dukumeentiga.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
-- la tasho [casharradeenna fiidiyowga](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+---
 
-- La wadaag jawaab celinta ama talooyinka adiga oo adeegsanaya [foomkan](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+## Where can I find documentation to help me use the Pro platform?
 
-- Ballan ka qabso wicitaan Manon, maareeyaha iskaashiga, haddii aad qabtid su'aalo dheeraad ah: [halkan](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+There are a few resources to help you make the most out of the Pro platform.
 
-- Nagala soo xiriir iimayl ahaan: producers@openfoodfacts.org
+You are welcome to:
+
+- check our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) - we invite you to download the PDF so that the links are clickable, which will ease your navigation through the document.
+
+- consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+- share feedback or suggestions via [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit)
+
+- Schedule a call with Manon, our partnerships manager, if you have more questions: [here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3b8P2k9anVmeJzYiZ8lN0-lIrZiqfJecw2zB9zl82pzX9oGtt2XAMPnOfGwMj6bVa7dCunhktp)
+
+- Contact us via email: producers@openfoodfacts.org
 
 ---
 
