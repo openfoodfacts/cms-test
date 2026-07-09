@@ -1,49 +1,49 @@
 ---
-title: "{{< ment ar c'houblad fa=2x >}} Pakadur"
-description: "3 goulenn"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kib
+icon: cube
 ---
 
-{{< fa "kib" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Penaos e c'hellan ouzhpennañ ma roadennoù pakañ da Open Food Facts ?
+## How can I add my packaging data to Open Food Facts?
 
 As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Evit pep elfenn pakañ e vo ret deoc'h lakaat :
+For each packaging component, you will need to enter:
 
-- An niver a unanennoù (da skouer: **4** pod yaourt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Ar stumm (da skouer : **pot, golo, boest, hag all**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- An dafar (da skouer : **PET, paper, gwer, hag all**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- An titouroù adkempenn (da skouer : **adkempenn, skarzhañ, h.a.**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Pouez un unanenn goullo (e gr)
+- The weight of one empty unit (in gr)
 
-- Kementad net ar produ endalc'het dre unanenn
+- The net quantity of product contained per unit
 
-Neuze e c'haller enporzhiañ ar follenn jediñ-mañ en hor savenn gouestlet d'an dud a vicher.
-
----
-
-## Petra eo ar raktres Tackling Food Packaging ?
-
-Ar raktres "Tackling Food Packaging" a ya d'ober dastum titouroù resis diwar-benn pakañ ar produioù debret ar muiañ (stumm, danvez, titouroù renkañ, pouez, barregezh).
-
-Diazezet war un doare skiantel kemer perzh e vo diazezet war an embregerezhioù a asant rannañ o roadennoù pakañ ha c'hoari ar c'hoari treuzwelusterezh, hag war an dud a aotre da zastum titouroù diwar-benn ar produioù. Digoust e vo adimplijout an titouroù-mañ ("roadennoù digor").
-
-**Evit gouzout hiroc'h :** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/br/packaging-projet-producers)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Ha goude fin ar raktres Tackling Food Packaging, e c'hellan c'hoazh ouzhpennañ ma roadennoù pakañ ?
+## What is the Tackling Food Packaging project?
 
-Goude fin ar raktres zoken e c'haller ouzhpennañ roadennoù pakañ rak chom a raio ar maeziennoù pakañ war hol lec'hienn.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
