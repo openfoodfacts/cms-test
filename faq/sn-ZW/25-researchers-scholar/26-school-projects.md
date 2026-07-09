@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Mapurojekiti echikoro"
-description: "Mibvunzo miviri"
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
 lang: en-gb
 order: 26
 category-level: 1
-icon: faira-o
+icon: file-o
 ---
 
-{{< fa "faira-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Ndine chirongwa chekuchikoro chekuita, ndinoda kushandisa data reOpen Food Facts, ndingazviita here?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts, idhatabhesi yakavhurika, chirongwa chakavhurika chiri kushanda pasi perezinesi reODbL, saka chero bedzi muchibvumirana nezvinodiwa nerezinesi reODbL, munogamuchirwa kushandisa zvakare data redu kumapurojekiti enyu :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Ndingawana sei/kuunganidza data remapurojekiti angu?
+## How can I access/collect data for my projects ?
 
-Papeji guru reOpen Food Facts, pakona yepamusoro kuruboshwe rwechidzitiro, pane menyu yekuskorora. Pazasi payo, uchawana sarudzo ye "kutsvaga kwakadzama", yaunogona kudzvanya. Zvino zvave kwauri kusarudza kuti ndezvipi zvinodiwa zvakanyanya pabasa rako. Kana wangosarudza, unokwanisa kudhawunirodha zvawanikwa nekuskira pasi pazasi peji wodzvanya pakanzi “Dhawunirodha zvabuda”.
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
