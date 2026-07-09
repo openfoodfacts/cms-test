@@ -1,177 +1,177 @@
 ---
-title: "{{< fa box size=2x >}} Immaniġġja l-prodotti tiegħi"
-description: "16-il mistoqsija"
+title: "{{< fa box size=2x >}} Manage my products"
+description: "16 questions"
 lang: en-gb
-order: 21 sena
+order: 21
 category-level: 1
-icon: kaxxa
+icon: box
 ---
 
-{{< fa "kaxxa" size=3x >}}
+{{< fa "box" size=3x >}}
 
-## X'jiggarantixxi l-kwalità tad-dejta f'Open Food Facts?
+## What guarantees the quality of the data in Open Food Facts?
 
-**Biex intejbu kontinwament il-kwalità tad-dejta niddependu fuq 4 pilastri:**
+**To continuously improve the quality of the data we rely on 4 pillars:**
 
-1. Il-komunità qed iżżid dejta u ritratti kontinwament u hija ronda vera ta’ reviżuri.
+1. The community is constantly adding data and photos and is a veritable patrol of reviewers.
 
-2. Stabbilixxejna regoli loġiċi biex nidentifikaw żbalji fuq il-folji tal-prodott.Pereżempju: jekk is-somma tal-piż tal-ingredjenti hija akbar mill-piż totali tal-prodott, ikun hemm anomalija. Għandna madwar 50 kontroll ieħor tal-kwalità.
+2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Bis-saħħa tat-Tagħlim Awtomatiku, nillimitaw ir-riskju ta' żbalji fl-input. It-teknoloġija tagħna tippermettilna nistrattu dejta testwali minn ritratti meħuda mill-kontributuri
+3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
 
-4. Bis-saħħa tal-appoġġ ta' Santé Publique France, żviluppajna portal li jippermetti lill-produtturi jtellgħu d-dejta prodotta bil-massa tagħhom u b'hekk jikkoreġu/jikkompletaw il-kontribuzzjonijiet tal-komunità.
-
----
-
-## Kif iżżid il-prodotti?
-
-Biex iżżid prodotti mal-pjattaforma tagħna, l-ewwel trid tiddeċiedi kif trid tipproċedi. Hemm 4 għażliet:
-
-- **Manwalment**: jekk għandek numru żgħir ta' prodotti, xorta huwa possibbli li toħloq kull skeda tal-prodott manwalment fuq il-Pjattaforma Pro.
-
-- **Permezz ta' importazzjoni ta' spreadsheet**: tista' tniżżel il-[template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) tal-ispreadsheet ipprovdut minn Open Food Facts, jew timporta direttament estrazzjoni mis-sistema tal-IT tiegħek fil-pjattaforma Pro.
-
-- **Permezz tal-konnetturi tal-katalgi tal-prodotti**. Jekk inti klijent f'EQUADIS, AGENA3000 jew BAYARD, tista' ttella' d-dejta f'Open Food Facts b'klikk waħda. Jekk qed taħdem ma' PIM (Product Information Management) ieħor, jekk jogħġbok ikkuntattjana: producers@openfoodfacts.org
-
-- **Permezz ta' konnessjoni mfassla apposta** bejn il-kumpanija tiegħek u Open Food Facts. Jekk għandek aktar minn 1000 prodott fil-portafoll tiegħek, nistgħu niddiskutu l-opportunità li nibnu konnettur speċifiku biex jiffaċilita t-trasferiment tad-dejta.
-
-Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## Hemm xi mod kif jiġu awtomatizzati l-aġġornamenti tal-prodott fid-database pubblika?
+## How to add products?
 
-Iva, jekk tuża l-katalgi tal-prodotti EQUADIS, AGENA3000 jew BAYARD, u twaqqaf il-konfigurazzjoni t-tajba, l-importazzjoni tista' ssir awtomatikament u għalhekk taġġorna d-dejta tal-prodott fuq Open Food Facts.
+To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
 
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+- **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
+
+- **Via a spreadsheet import**: you can download the spreadsheet [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) provided by Open Food Facts, or import directly an extraction from your IT system into the Pro platform.
+
+- **Via product catalogues' connectors**. If you are client at EQUADIS, AGENA3000 or BAYARD, you can upload data in Open Food Facts in 1 click. If you are working with another PIM (Product Information Management), please contact us : producers@openfoodfacts.org
+
+- **Via a tailored connexion** between your company and Open Food Facts. If you count more than 1000 products in your portfolio, we can discuss the opportunity of build a specific connector to ease the data transfer.
+
+For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## L-għadd ta' prodotti miżjuda huwa limitat?
+## Is there a way to automate product updates to the public database?
 
-M'hemm l-ebda limitu, tista' ttella' n-numru ta' prodotti li trid fuq il-pjattaforma tagħna.
+Yes, if you use EQUADIS, AGENA3000 or BAYARD product catalogues, and set up the right configuration, the import can be done automatically and therefore update the product data on Open Food Facts.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## Is the number of added products limited?
+
+There is no limit, you can upload the number of products you want on our platform.
 
 ---
 
 ## Is it possible to delete products that are no longer sold?
 
-Jekk trid tneħħi prodott li m'għadux disponibbli fis-suq, trid biss timmarka l-kaxxa "dan il-prodott m'għadux jinbiegħ" meta teditja l-iskeda tal-prodott tiegħek.
+If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
-Jekk trid tneħħi diversi prodotti, nirrakkomandaw li ssegwi l-proċedura msemmija fil-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), f'paġna 18.
+If you want to remove several products, we recommend you follow the procedure mentioned in the [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Platform-User-Guide.pdf), on p. 18.
 
-Tista' wkoll tikkuntattjana permezz ta' producers@openfoodfacts.org jekk għandek xi mistoqsijiet.
+You can also contact us via producers@openfoodfacts.org if you have any questions.
 
-Meta l-prodott jiġi arkivjat, ma jibqax jidher f'Open Food Facts.Madankollu se jibqa' fid-database tagħna sabiex inkunu nistgħu nżommu storja tal-prodotti mibjugħa matul iż-żmien.
-
----
-
-## L-informazzjoni tal-kumpanija tieħu preċedenza fuq informazzjoni li diġà tinsab fuq il-pjattaforma?
-
-Meta produttur iqiegħed wieħed mill-prodotti tiegħu online bil-kont tal-produttur tiegħu u diġà teżisti skeda tal-prodott, dan jikkompletaha.
-
-L-informazzjoni li l-produttur ikun ippubblika dejjem se jkollha prijorità u hu biss ikun jista' jimmodifika l-prodotti tiegħu meta l-informazzjoni timtela.
-
-Jekk id-dejta mibgħuta permezz tal-pjattaforma tkun frammentata, l-informazzjoni miżjuda mill-komunità mill-pakkett tista' tikkompletaha.
+When the product is archived, it will no longer appear in Open Food Facts.It will however remain in our database so that we can keep a history of products sold over time.
 
 ---
 
-## F'liema format għandi nibgħat id-dejta tiegħi?
+## Does company information take precedence over information already present on the platform?
 
-Open Food Facts jipprovdi [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl).
+When a producer places one of his products online with his producer account and a product sheet already exists, this will complete it.
 
-Madankollu, kwalunkwe format ta' spreadsheet (xlsx, csv) se jkun jista' jiġi importat fil-pjattaforma.  
-L-algoritmu tagħna huwa ddisinjat biex awtomatikament iqabbel l-attributi mill-fajl tiegħek ma' dawk preżenti f'Open Food Facts. Oqgħod attent li dejjem tiċċekkja darbtejn l-istadju tat-tqabbil għax jista' jkollok bżonn taġġusta xi wħud minnhom manwalment.
+The information that the producer will have posted will always have priority and he alone will be able to modify his products when the information is filled in.
 
-Jekk l-informazzjoni tiegħek hija frammentata bejn diversi spreadsheets, tista' timportahom konsekuttivament - u tiżgura li tagħmel it-tqabbil jekk il-format jinbidel.
-
-Tista' wkoll timporta fajl Excel flimkien ma' importazzjoni EQUADIS jew AGENA3000, jekk id-dejta għadha mhix fis-sistema ta' informazzjoni tiegħek. F'dawn il-każijiet, tinsiex titlob esportazzjoni lejn id-database pubblika mill-interfaċċja.
-
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+If the data sent via the platform is fragmented, the information added by the community from the packaging may complete it.
 
 ---
 
-## Ma' liema katalgi ta' prodotti int integrat?
+## In what format should I send my data?
 
-Il-manifatturi issa jistgħu jibagħtu d-dejta u r-ritratti tal-prodott tagħhom f'ħin reali minn **Equadis,** **AGENA3000 u BAYARD consulting** lil Open Food Facts.
+A [template](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) is provided by Open Food Facts.
 
-Naturalment, inti se tibbenefika wkoll mis-suġġerimenti ta' riformulazzjoni u l-karatteristiċi kollha tal-pjattaforma.
+However, any spreadsheet format (xlsx, csv) will be importable in the platform.  
+Our algorithm is designed to automatically match the attributes from your file, with the ones present in Open Food Facts. Beware to always double-check the matching stage as you may need to adjust manually some of them.
 
-[Il-blog post tagħna](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) jispjega l-passi li għandek issegwi jekk int klijent tal-EQUADIS.
+If your information is fragmented between several spreadsheets, you can import them consecutively - making sure to do the matching if the format changes.
 
-Jekk inti klijent ta' AGENA3000 (Prodott A3 PIM INDUSTRY), kull ma trid tagħmel hu li tagħżel ir-riċevitur "Open Food Facts" meta tibgħat il-folji tal-prodott tiegħek. [Aktar informazzjoni dwar din il-kariga tal-blog](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+You can also import an Excel file in addition to an EQUADIS or AGENA3000 import, if the data is not yet in your information system. In these cases, don't forget to request an export to the public database from the interface.
 
-Jekk inti klijent ta' katalogu ieħor tad-dejta tal-prodott (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, eċċ.) Jekk jogħġbok għarrafna fuq [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
-
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Kif nista' nżid prodotti mingħajr barcodes permezz tal-pjattaforma Pro?
+## With which product catalogs are you integrated?
 
-Għal prodotti mingħajr barcode, fuq is-sit jew fuq il-pjattaforma tal-produttur, hemm buttuna "Prodott mingħajr barcode" fil-kolonna tax-xellug li tippermettilek iżżidhom. Imbagħad jiġi ġġenerat identifikatur awtomatikament.
+Manufacturers can now send their product data and photos in real time from **Equadis,** **AGENA3000 and BAYARD consulting** to Open Food Facts.
+
+You will of course also benefit from the reformulation suggestions and all the features of the platform.
+
+[Our blog post](https://blog.openfoodfacts.org/en/news/real-time-product-data-from-producers-on-open-food-facts-thanks-to-the-new-equadis-integration) explains the steps to follow if you are an EQUADIS customer.
+
+If you are an AGENA3000 customer (Product A3 PIM INDUSTRY), you just have to select the recipient "Open Food Facts" when sending your product sheets. [More information on this blog post](https://blog.openfoodfacts.org/en/news/share-your-product-data-in-1-click-with-the-new-agena3000-connector).
+
+If you are a customer of another product data catalog (Salsify - ex-Alkemics, ConsoTrust, 1worldSync, Akeneo, PIMWorks, etc.) please let us know at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+
+---
+
+## How to add products without barcodes via the Pro platform?
+
+For products without a barcode, on the site or on the producer platform, there is a "Product without barcode" button in the left column which allows you to add them. An identifier is then generated automatically.
 
 ---
 
 ## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
 
-Ħloqna proġetti speċifiċi għall-kożmetiċi, għall-għalf tal-annimali, kif ukoll għal prodotti oħra: Miftuħa Fatti dwar is-Sbuħija, Miftuħa Fatti dwar l-Ikel tal-Annimali Domestiċi u Miftuħa Fatti dwar il-Prodotti rispettivament.
+We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
 We are therefore happy to be able to import your products into the project that suits them.
 
 ---
 
-## Id-dejta tal-prodott mill-kumpanija tiegħi hija disponibbli fuq Open Food Facts. Huwa possibbli li tieħu kontroll tal-kont tal-produttur assoċjat?
+## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Iva ovvjament! Tista' tieħu kontroll tal-kont tal-produttur assoċjat billi toħloq kont Open Food Facts bl-indirizz tan-negozju tiegħek. Meta tirreġistra, semmi l-isem tal-organizzazzjoni preżenti fuq il-formola biex tkun tista' taċċessa l-ispazju tal-produttur korrispondenti.
+Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
-Se jkun meħtieġ pass qasir ta' validazzjoni biex jiġi żgurat li int tassew il-produttur.
+A short validation step will be necessary to ensure that you are indeed the producer.
 
-Int tkun tista' tlesti d-dejta, iżżid immaġnijiet, tikseb rakkomandazzjonijiet awtomatiċi biex ittejjeb in-Nutri-Score, u ħafna aktar. Dan kollu huwa naturalment kompletament b'xejn. Tista' wkoll tqabbad sistema ta' ġestjoni tad-dejta tal-prodott ta' parti terza bħal EQUADIS, AGENA3000 u Bayard consulting.
+You will be able to complete the data, add images, obtain automatic recommendations for improving the Nutri-Score, and much more. All this is of course completely free. You can also connect a third-party product data management system such as EQUADIS , AGENA3000 and Bayard consulting.
 
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Kemm iddum biex id-dejta tal-produttur tiġi aġġornata fuq app oħra li terġa' tuża d-database tal-Open Food Facts?
-
-Jiddependi fuq l-apps. Għal dawk li jużaw l-APIs tagħna, li huma l-maġġoranza l-kbira, huwa immedjat.  
-Għal dawk li jużaw l-esportazzjonijiet tagħna ta' kuljum, huwa D+1 sakemm jaġġornawh.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## L-importazzjoni tad-dejta minn rekord ta' prodott tlesti jew tissostitwixxi r-rekord tal-prodott eżistenti?
+## How long does it take for producer data to be updated on other app reusing Open Food Facts database?
 
-Aħna nużaw il-barcode biex nidentifikaw il-prodotti, jekk timporta rekord bl-istess barcode bħal rekord eżistenti, l-informazzjoni tiġi magħquda.
-
-Għal dejta bħal-lista tal-ingredjenti, il-valuri nutrizzjonali (valur korrett wieħed biss possibbli), id-dejta mibgħuta permezz tal-pjattaforma tal-produttur se tissostitwixxi d-dejta eżistenti.
-
-Għal dejta bħal tikketti/kategoriji/marki (diversi valuri korretti possibbli), l-informazzjoni tingħaqad flimkien. Jekk id-dejta tkun żbaljata fuq il-pjattaforma pubblika, tista' timmodifika l-iskeda tal-prodott fuq il-pjattaforma pubblika biex tneħħi l-valuri żbaljati.
-
-→ Għal aktar dettalji, nistednuk tniżżel il-[gwida għall-utent](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) u/jew tikkonsulta t-[vidjows tutorjali](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+It depends on the apps. For those that use our APIs, which is the vast majority, it is immediate.  
+For the ones that use our daily exports, it's D+1 provided that they update it.
 
 ---
 
-## L-ordni tal-ingredjenti hija importanti?
+## Does importing the data from a product record complete or overwrite the existing product record?
 
-L-ordni tal-ingredjenti hija importanti: tirrappreżenta l-ordni skont il-kwantità.
-L-aħjar mod biex timla l-ingredjenti huwa li ssegwi eżattament dak li hemm miktub fuq l-imballaġġ. Huwa għalhekk li huwa wkoll daqstant importanti li jkollok ritratti tal-ingredjenti stampati.
+We use the barcode to identify products, if you import a record with the same barcode as an existing record, the information will be merged.
+
+For data such as ingredient list, nutritional values (only one correct value possible), the data sent via the producer platform will overwrite the existing data.
+
+For data such as labels/categories/brands (several correct values possible), the information is merged. If data is incorrect on the public platform, you can modify the product sheet on the public platform to remove the incorrect values.
+
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Nista' nibgħat immaġnijiet permezz tal-AGENA3000 ukoll?
+## Is the order of ingredients important?
 
-Tista' tibgħat immaġnijiet iżda fil-prattika l-immaġni prinċipali biss tintgħażel awtomatikament, l-immaġnijiet l-oħra jintbagħtu, iżda mhux maqtugħin / magħżula għall-ingredjenti, in-nutrizzjoni eċċ.
+The order of the ingredientsis important: it represents the order by quantity.
+The best way to fill the ingredients is to follow exactly what is written on the packaging. That's why it is also so important to have photos of the ingredients printed.
 
 ---
 
-## Kif nista' naċċessa t-tutorials tal-pjattaforma Pro?
+## Can I send images via AGENA3000 too?
 
-Tista' taċċessa t-tutorials tal-pjattaforma pro:
+You can send images but in practice only the main image will be selected automatically, the other images will be sent, but not cropped / selected for ingredients, nutrition etc.
 
-- Permezz tal-pjattaforma pro nnifisha: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+---
 
-- Direttament fuq [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+## How to access the Pro platform’s tutorials?
 
-→ Tista' wkoll tniżżel il-[gwida għall-utent] tagħna (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
+You can access the pro platform’s tutorials:
+
+- Via the pro platform itself: [https://world.pro.openfoodfacts.org/](https://world.pro.openfoodfacts.org/)
+
+- Directly on [YouTube](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55)
+
+→ You can also download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)
 
 ---
 
