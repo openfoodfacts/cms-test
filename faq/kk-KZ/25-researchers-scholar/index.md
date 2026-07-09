@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Зерттеушілер/ғалым"
-description: "1 кіші санат"
+title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
+description: "1 subcategory"
 lang: en-gb
 order: 25
 category-level: 0
-icon: бітіру кешіне арналған бас киім
+icon: graduation-cap
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: тор
+  type: grid
   grid-columns: 4
-  sort: "тапсырыс"
-  fields: [ атау, description ]
+  sort: "order"
+  fields: [ title, description ]
   page-size: 100
 ---
 
-{{< fa "бітіру кешіне арналған бас киім" size=3x >}}
+{{< fa "graduation-cap" size=3x >}}
 
