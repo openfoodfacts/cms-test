@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Konsènan Open Food Facts"
-description: "4 kesyon"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
 order: 17
 category-level: 1
-icon: sèk enfòmasyon
+icon: info-circle
 ---
 
-{{< fa "sèk enfòmasyon" size="3 fwa" >}}
+{{< fa "info-circle" size=3x >}}
 
-## Ki kalite enfòmasyon yo ta dwe pataje?
+## What type of information should be shared?
 
-Nenpòt enfòmasyon ou genyen se byenveni, soti nan enfòmasyon sou nitrisyon rive nan enfòmasyon sou anbalaj.
+Any information you have is welcome, from nutritional information to packaging information.
 
-Sa pèmèt etabli yon dosye konplè, kalkile tout nòt yo avèk presizyon epi plis jeneralman yon transparans ke konsomatè yo apresye.
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-Sepandan, nou rekòmande pou ou bay priyorite a domèn sa yo:
+However we do recommend you prioritize the following fields:
 
-- Enfòmasyon nitrisyonèl
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- Kategori pwodwi (pa egzanp bwason, fwomaj, yogout, elatriye)
-
-- Non pwodwi a
-
-- Alèrjèn
-
-- ak engredyan yo, chan sa a pa obligatwa men li rekòmande pou yon itilizasyon optimal ak detèminasyon nòt yo
-
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Èske mwen ka telechaje done Open Food Facts yo?
+## Can I download Open Food Facts data?
 
-Ou ka telechaje tout done ki disponib sou Open Food Facts. Atansyon, sa mande anpil espas sou disk la, yon òdinatè pwisan si ou vle itilize yon spreadsheet oubyen konesans nan R oubyen Python sinon.
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-Ou kapab tou telechaje yon sou-ansanm done yo (mak ou pa egzanp) gras a rechèch avanse a.
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ Pou plis detay, nou envite w telechaje [gid itilizatè] nou an (https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) epi/oswa konsilte [videyo leson patikilye nou yo] (https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
-
----
-
-## Èske aksè a platfòm Pro a ak enpòtasyon done yo gratis?
-
-Absoliman, epi li pral pou tout tan.Tout sèvis Open Food Facts bay yo gratis.  
-Nou kontan anpil ou deside kontribye done pwodwi ou yo nan transparans alimantè, epi nou remèsye w pou sa.
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Mwen ta renmen sijere amelyorasyon pou platfòm pwofesyonèl la, kijan mwen ka fè sa?
+## Is access to the Pro platform and the import of data free?
 
-Mèsi paske ou vle patisipe nan transparans alimantè a!
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-Pi bon fason pou pataje fidbak se ranpli [fòm sa a](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+---
 
-Ou kapab kontakte nou tou pou fè sijesyon swa atravè [fowòm nou an](https://forum.openfoodfacts.org/) oswa atravè [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-Antre sou Slack nou an epi sou chanèl #prodiktè yo pou antre an kontak avèk nou.
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
