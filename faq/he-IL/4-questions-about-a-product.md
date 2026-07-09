@@ -1,23 +1,23 @@
 ---
-title: "שאלות לגבי מוצר"
-description: "שאלה אחת"
+title: "{{< fa shopping-basket size=2x >}} Questions about a product"
+description: "1 question"
 lang: en-gb
 order: 4
 category-level: 0
-icon: סל קניות
+icon: shopping-basket
 ---
 
-{{< fa "סל קניות" size="פי 3" >}}
+{{< fa "shopping-basket" size=3x >}}
 
-## יש לי שאלה/תביעה לגבי מוצר
+## I have a question / claim about a product
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) הוא אתר שיתופי שנוצר ומופעל על ידי צרכנים כדי שיוכלו לפענח תוויות ולהשוות מוצרים.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
-למידע נוסף על מוצר או תביעה, כתבו ליצרן. אין לנו פרטי קשר של יצרנים, אך לרוב הם מופיעים על האריזה.
+For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
 
-אם אתם רוצים לעזור לנו להביא שקיפות רבה יותר לצרכנים כמוכם או כמונו, אתם יכולים להשתמש באפליקציית האייפון או האנדרואיד שלנו כדי להוסיף מוצרים: [https://openfoodfacts.app](https://openfoodfacts.app/)
+If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-וכדי לדון בפרויקט, אתם מוזמנים להצטרף לקבוצת התורמים בפייסבוק: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) או לשוחח עם התורמים האחרים ב-Slack:
+And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
