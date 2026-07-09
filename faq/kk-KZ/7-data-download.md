@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Деректерді жүктеу"
-description: "1 сұрақ"
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
 lang: en-gb
 order: 7
 category-level: 0
-icon: бұлттық жүктеу
+icon: cloud-download
 ---
 
-{{< fa "бұлттық жүктеу" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Белгілі бір ел бойынша деректерді қайдан алуға болады?
+## Where to get the data for a specific country?
 
-Қазіргі уақытта нақты елдерге экспорттау жоқ.
+Currently, there are no exports dedicated to specific countries.
 
-Белгілі бір елге қатысты деректерді таңдау үшін әртүрлі экспорттық өнімдерімізді әртүрлі құралдармен біріктірудің көптеген жолдары бар.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-Сіз [осы әдістердің кейбірін біздің викиден](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data) қарай аласыз.
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
