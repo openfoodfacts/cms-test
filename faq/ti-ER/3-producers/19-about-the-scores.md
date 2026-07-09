@@ -1,39 +1,39 @@
 ---
-title: "{{< fa chart-line size=2x >}} ብዛዕባ ነጥብታት"
-description: "3 ሕቶታት"
+title: "{{< fa chart-line size=2x >}} About the scores"
+description: "3 questions"
 lang: en-gb
 order: 19
 category-level: 1
-icon: ሰንጠረዥ-መስመር
+icon: chart-line
 ---
 
-{{< fa "ሰንጠረዥ-መስመር" size=3x >}}
+{{< fa "chart-line" size=3x >}}
 
-## መን እዩ ናይ ምሕሳብ ኣሰርን/ወይ ነጥብን?
+## Who is responsible for calculating the footprint and/or score?
 
-ኒውትሪ-ስኮር፣ ጉጅለ ኖቫን ኢኮ-ስኮርን ኣብ ክፉት ሓቅታት መግቢ ካብ ዘሎ መረዳእታ መሰረት ብምግባር እዩ ዝሕሰብ። ኣልጎሪዝማትና ወግዓዊ ኣገባባት ናይዞም ነጥብታት ብጥብቂ ይኽተሉ።
-
----
-
-## ኣብ መንጎ ጉጅለ ኢኮ-ስኮር፣ ኒውትሪ-ስኮርን ጉጅለ ኖቫን እንታይ ፍልልይ ኣሎ?
-
-ዕላማ ናይዞም መርኣይታት ንተጠቃሚ ብቐሊሉ ክርድኦ ዝኽእል ሓበሬታ ንምሃብ እዩ።
-
-እቲ [NOVA group](https://fr.openfoodfacts.org/nova) ምስ ለውጢ ናይቲ ፍርያት፣ እቲ[Eco-Score](https://fr.openfoodfacts.org/ecoscore) ምስ ከባብያዊ ጽልዋኡ ከምኡ’ውን እቲ [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) ምስ መኣዛዊ ባእታታት፣ ሓደ ፍርያት ናብ A ዝቐርብ ነጥቢ ብዝበዝሐ መጠን ዝያዳ ዓይነታዊ ምዃኑ ፈሊጡ።
-
-እተን 3 ነጥብታት ምስ ሓደ ዓይነት ባእታታት ኣይኮናን። ስለዚ ኣብ ነንሕድሕዶም ምውድዳር ኣይከኣልን።
+The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
 ---
 
-## ናይ ፍርያተይ ኢኮ-ስኮር ወይ ኒውትሪ-ስኮር ምምሳል ይከኣል ድዩ?
+## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
 
-ኣብ መድረኽ ኣፍረይቲ ብምምዝጋብን ዳታ ፍርያትካ ብምስቃልን ምስ ፍርያትካ ዝተኣሳሰር ኒውትሪ-ስኮርን ኢኮ-ስኮርን ክትሕስብ ትኽእል።
+The purpose of these indicators is to provide easy-to-understand information for the consumer.
+
+The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
+
+The 3 scores do not deal with the same elements. It is therefore not possible to compare them with each other.
+
+---
+
+## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
 
 
 
-ይኹን እምበር፡ እቲ ስሚዩሽን ምስ ተኻየደ ክትድምስሶ ኣለካ፡ ምእንቲ ምስቲ ድሮ ኣብ ዕዳጋ ዝቐረቡ ፍርያት ናብ ህዝባዊ መድረኽ ከይለኣኽ።
+However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ ንዝያዳ ዝርዝር ሓበሬታ፡ [መምርሒ ተጠቃሚ](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf)ን/ወይ ድማ [ናይ ቪድዮ ትምህርትና](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ክትውከሱ ንዕድም :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
