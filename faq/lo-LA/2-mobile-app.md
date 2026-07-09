@@ -1,52 +1,52 @@
 ---
-title: "ແອັບມືຖື {{< fa mobile size=2x >}}"
-description: "4 ຄຳຖາມ"
+title: "{{< fa mobile size=2x >}} Mobile app"
+description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: ມືຖື
+icon: mobile
 ---
 
-{{< fa "ມືຖື" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## ຂ້ອຍຈະຮູ້ໄດ້ແນວໃດວ່າຂ້ອຍກຳລັງໃຊ້ແອັບເວີຊັນໃດ?
+## How do I know which version of the app I'm using?
 
-ໄປທີ່ **ໂປຣໄຟລ໌**,
-ແລ້ວໄປທີ່ **ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆ**, ຈາກນັ້ນໄປທີ່ **ກ່ຽວກັບແອັບນີ້.**
+Go to **Profile**,
+then **FAQ**, then **About this app.**
 
-ທ່ານຄວນ
-ເຫັນໝາຍເລກເວີຊັນ ເຊັ່ນ 3.4.5+662. ຢ່າລືມບອກພວກເຮົາກ່ຽວກັບຍີ່ຫໍ້ ແລະ ຮຸ່ນ
-ຂອງໂທລະສັບຖ້າມັນກຳລັງແກ້ໄຂຂໍ້ຜິດພາດ.
-
----
-
-## ແອັບບໍ່ໄດ້ສະແກນ
-
-ນີ້ອາດຈະເປັນຍ້ອນ
-
-- ບັນຫາເຄືອຂ່າຍ
-
-- ບັນຫາການອະນຸຍາດ
-
-- ບັນຫາບາໂຄດ
-
-ສົ່ງອີເມວຫາພວກເຮົາຜ່ານທາງໂປຣໄຟລ໌ >> ຕິດຕໍ່ພວກເຮົາ >> ສົ່ງອີເມວຫາພວກເຮົາ.
-
-ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງທັງໝົດຄວນຖືກຄັດຕິດມາພ້ອມກັບຄຳຮ້ອງຂໍຂອງທ່ານ.
+You should
+see a version number like 3.4.5+662. Don't forget to tell us the make and model
+of the phone if it's debugging.
 
 ---
 
-## ຂ້ອຍສາມາດຊ່ວຍປັບປຸງແອັບຯມືຖືໄດ້ແນວໃດ?
+## The app does not scan
 
-ຂ້ອຍສາມາດຊ່ວຍປັບປຸງແອັບຯມືຖືໄດ້ແນວໃດ?
+This may be due to
 
-ເຈົ້າສາມາດ [ເຮັດໄດ້ໃນບ່ອນເກັບມ້ຽນແອັບມືຖື](https://github.com/openfoodfacts/smooth-app)
+- a network problem
+
+- a permissions problem
+
+- a barcode problem
+
+Send us an email via Profile >> Contact Us >> Send us an email.
+
+All relevant information should be attached to your request.
 
 ---
 
-## ຂ້ອຍສາມາດສົ່ງຄຳຕິຊົມກ່ຽວກັບແອັບໄດ້ຢູ່ໃສ?
+## How can I help with improving the mobile app ?
 
-ທ່ານສາມາດສົ່ງຄຳຕິຊົມໄປທີ່ mobile@openfoodfacts.org
+How can I help with improving the mobile app ?
+
+You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Where can I send feedback about the app ?
+
+You can send feedback to mobile@openfoodfacts.org
 
 ---
 
