@@ -1,31 +1,31 @@
 ---
-title: "{{< fa dollar size=2x >}} मूल्यानि उद्घाटयन्तु"
-description: "३ प्रश्नाः"
+title: "{{< fa dollar size=2x >}} Open Prices"
+description: "3 questions"
 lang: en-gb
-order: २९
+order: 29
 category-level: 0
-icon: डॉलर
+icon: dollar
 ---
 
-{{< fa "डॉलर" size=३x >}}
+{{< fa "dollar" size=3x >}}
 
-## अहं विक्रेता अस्मि मूल्येषु योगदानं दातुम् इच्छामि। कथं तत् कर्तुं शक्नोमि ?
+## I’m a retailer and I want to contribute prices. How can I do that?
 
-भवान् [अस्माकं एपिआइ](https://prices.openfoodfacts.org/api/docs) इत्यस्य उपयोगेन मूल्येषु योगदानं दातुं शक्नोति । यदि भवान् मूल्येषु स्केल-रूपेण योगदानं दातुम् इच्छति तर्हि कृपया [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org) इत्यत्र अस्माभिः सह सम्पर्कं कुर्वन्तु ।
+You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## किं भवन्तः विक्रेतृणां जालपुटेभ्यः मूल्यानि स्क्रैप् कर्तुं विचारयन्ति?
+## Do you consider scraping prices from retailers’ websites?
 
-कानूनी-तकनीकी-कारणात् वयं विक्रेतृणां वेबसाइट्-तः मूल्यानि स्क्रैप् करणं मुक्तमूल्येषु योगदानं दातुं वैधमार्गं न मन्यामहे । वयं सुनिश्चितं कर्तुम् इच्छामः यत् वयं यत् मूल्यं संग्रहयामः तत् समीचीनानि अद्यतनानि च सन्ति, तथा च योगदातृभ्यः स्क्रेप्ड् मूल्यानि प्राप्य अस्मान् तत् कर्तुं न अनुमन्यते।
+For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
 Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.
 
 ---
 
-## Open Food Facts इत्येतत् किमर्थं करोति (Open Prices)?
+## Why is Open Food Facts doing this (Open Prices)?
 
-खाद्यव्यवस्थानां अवगमनाय मूल्यसूचना सर्वोपरि महत्त्वपूर्णा अस्ति । भोजनस्य मूल्यं अवगन्तुं स्वस्थ आहारस्य प्रचारार्थं च एतत् प्रमुखं कारकम् अस्ति । मूल्यदत्तांशं उद्घाटयितुं शोधकर्तृभ्यः, पत्रकारेभ्यः, नागरिकेभ्यः च भौगोलिकरूपेण कालान्तरे च खाद्यमूल्यानि कथं भिन्नानि इति अधिकाधिकं अवगमनं सुलभं कर्तुं एकः उपायः अस्ति
+Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
 
 ---
 
