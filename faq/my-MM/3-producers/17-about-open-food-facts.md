@@ -1,62 +1,58 @@
 ---
-title: "{{< fa info-circle size=2x >}} Open Food Facts အကြောင်း"
-description: "မေးခွန်း ၄ ခု"
+title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+description: "4 questions"
 lang: en-gb
-order: ၁၇
+order: 17
 category-level: 1
-icon: အချက်အလက်စက်ဝိုင်း
+icon: info-circle
 ---
 
-{{< fa "အချက်အလက်စက်ဝိုင်း" size="၃ ဆ" >}}
+{{< fa "info-circle" size=3x >}}
 
-## ဘယ်လိုအချက်အလက်မျိုး မျှဝေသင့်လဲ။
+## What type of information should be shared?
 
-အာဟာရဆိုင်ရာ အချက်အလက်မှသည် ထုပ်ပိုးမှုဆိုင်ရာ အချက်အလက်အထိ သင်သိသည့် မည်သည့်အချက်အလက်ကိုမဆို ကြိုဆိုပါသည်။
+Any information you have is welcome, from nutritional information to packaging information.
 
-၎င်းက ပြီးပြည့်စုံသောဖိုင်တစ်ခုကို တည်ထောင်နိုင်စေပြီး ရမှတ်အားလုံးကို တိကျစွာတွက်ချက်နိုင်စေကာ ယေဘုယျအားဖြင့် စားသုံးသူများ နှစ်သက်သော ပွင့်လင်းမြင်သာမှုကို ဖြစ်စေပါသည်။
+This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-သို့သော် အောက်ပါနယ်ပယ်များကို ဦးစားပေးရန် ကျွန်ုပ်တို့ အကြံပြုအပ်ပါသည်-
+However we do recommend you prioritize the following fields:
 
-- အာဟာရဆိုင်ရာ အချက်အလက်
+- Nutritional information
+- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Name of the product
+- Allergens
+- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-- ထုတ်ကုန်အမျိုးအစား (ဥပမာ- အဖျော်ယမကာများ၊ ဒိန်ခဲ၊ ဒိန်ချဉ် စသည်)
-
-- ထုတ်ကုန်၏အမည်
-
-- ဓာတ်မတည့်မှုများ
-
-- နှင့် ပါဝင်ပစ္စည်းများ၊ ဤအကွက်သည် မဖြစ်မနေလိုအပ်သည်မဟုတ်သော်လည်း အကောင်းဆုံးအသုံးပြုမှုနှင့် ရမှတ်များကို ဆုံးဖြတ်ရန်အတွက် အကြံပြုထားသည်။
-
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Open Food Facts ဒေတာကို ဒေါင်းလုဒ်လုပ်လို့ရပါသလား။
+## Can I download Open Food Facts data?
 
-Open Food Facts မှာ ရရှိနိုင်တဲ့ အချက်အလက်အားလုံးကို ဒေါင်းလုဒ်လုပ်နိုင်ပါတယ်။ သတိပြုပါ၊ ဒါက disk space အများကြီး လိုအပ်ပါတယ်၊ spreadsheet သုံးချင်ရင် ဒါမှမဟုတ် R ဒါမှမဟုတ် Python အကြောင်း ဗဟုသုတရှိရင် ပါဝါကောင်းတဲ့ ကွန်ပျူတာတစ်လုံး လိုအပ်ပါတယ်။
+You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
-အဆင့်မြင့်ရှာဖွေမှုကြောင့် ဒေတာ၏ အစိတ်အပိုင်းတစ်ခု (ဥပမာ သင့်အမှတ်တံဆိပ်) ကိုလည်း ဒေါင်းလုဒ်လုပ်နိုင်ပါသည်။
+You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
-→ အသေးစိတ်အချက်အလက်များအတွက် ကျွန်ုပ်တို့၏ [အသုံးပြုသူလမ်းညွှန်](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) ကို ဒေါင်းလုဒ်လုပ်ရန်နှင့်/သို့မဟုတ် ကျွန်ုပ်တို့၏ [ဗီဒီယိုသင်ခန်းစာများ](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) ကို ကြည့်ရှုရန် ဖိတ်ခေါ်ပါသည် :-)
-
----
-
-## Pro platform ကို အသုံးပြုခွင့်နဲ့ data import လုပ်တာက အခမဲ့လား။
-
-လုံးဝပါပဲ၊ ပြီးတော့ ဒါဟာ ထာဝရဖြစ်နေမှာပါ။Open Food Facts မှ ပေးအပ်သော ဝန်ဆောင်မှုအားလုံးသည် အခမဲ့ဖြစ်သည်။  
-အစားအသောက် ပွင့်လင်းမြင်သာမှုအတွက် သင့်ထုတ်ကုန်ဒေတာကို ပံ့ပိုးပေးရန် ဆုံးဖြတ်လိုက်သည့်အတွက် ကျွန်ုပ်တို့ အလွန်ဝမ်းမြောက်မိပါသည်၊ ၎င်းအတွက် ကျေးဇူးတင်ပါသည်။
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## ပရော်ဖက်ရှင်နယ်ပလက်ဖောင်းအတွက် တိုးတက်အောင်လုပ်ဖို့ အကြံပြုချင်ပါတယ်၊ ဘယ်လိုလုပ်ရမလဲ။
+## Is access to the Pro platform and the import of data free?
 
-အစားအသောက် ပွင့်လင်းမြင်သာမှုမှာ ပါဝင်ဖို့ ဆန္ဒရှိတဲ့အတွက် ကျေးဇူးတင်ပါတယ်။
+Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
-တုံ့ပြန်ချက်မျှဝေရန် အကောင်းဆုံးနည်းလမ်းမှာ [ဤပုံစံ](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit) ကို ဖြည့်စွက်ခြင်းဖြစ်သည်။
+---
 
-[ကျွန်ုပ်တို့၏ဖိုရမ်](https://forum.openfoodfacts.org/) သို့မဟုတ် [Slack](https://openfoodfacts.slack.com/ssb/redirect) မှတစ်ဆင့် အကြံပြုချက်များပေးရန်လည်း ကျွန်ုပ်တို့ထံ ဆက်သွယ်နိုင်ပါသည်။
+## I would like to suggest improvements for the professional platform, how can I do so ?
 
-ကျွန်ုပ်တို့နှင့် ဆက်သွယ်ရန် ကျွန်ုပ်တို့၏ Slack တွင် ပါဝင်ပြီး #producers ချန်နယ်ကို ရိုက်ထည့်ပါ။
+Thank you for your willingness to participate in food transparency!
+
+The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
+
+You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
+
+Join our Slack and enter the channel #producers to get in touch with us.
 
 ---
 
