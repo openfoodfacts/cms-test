@@ -1,21 +1,21 @@
 ---
-title: "{{< fa industry size=2x >}} നിർമ്മാതാക്കൾ"
-description: "6 ഉപവിഭാഗങ്ങൾ"
-lang: en-gb (ഇംഗ്ലീഷ്)
+title: "{{< fa industry size=2x >}} Producers"
+description: "6 subcategories"
+lang: en-gb
 order: 3
 category-level: 0
-icon: വ്യവസായം
+icon: industry
 listing:
   contents:
-    - "*.എംഡി"
+    - "*.md"
   include:
     category-level: 1
-  type: ഗ്രിഡ്
+  type: grid
   grid-columns: 4
-  sort: "ഓർഡർ"
-  fields: [ തലക്കെട്ട്, description ]
-  page-size: 100 100 कालिक
+  sort: "order"
+  fields: [ title, description ]
+  page-size: 100
 ---
 
-{{< fa "വ്യവസായം" size="3x (3x)" >}}
+{{< fa "industry" size=3x >}}
 
