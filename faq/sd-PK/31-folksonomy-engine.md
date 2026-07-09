@@ -1,17 +1,17 @@
 ---
-title: "{{< fa ڪتاب جي سائيز=2x >}} لوڪ سونامي انجن"
-description: "1 سوال"
-lang: اين جي بي
+title: "{{< fa book size=2x >}} Folksonomy Engine"
+description: "1 question"
+lang: en-gb
 order: 31
 category-level: 0
-icon: ڪتاب
+icon: book
 ---
 
-{{< fa "ڪتاب" size=3x >}}
+{{< fa "book" size=3x >}}
 
-## فولڪسونومي انجن ڇا آهي؟
+## What is the Folksonomy Engine ?
 
-فولڪسونومي انجن هڪ اهڙو نظام آهي جيڪو صارفين کي اوپن فوڊ فيڪٽس ۾ کاڌي جي شين ۾ ڪسٽم ٽيگ، يا خاصيتون شامل ڪرڻ جي اجازت ڏئي ٿو، جيڪو دنيا جو سڀ کان وڏو اوپن فوڊ ڊيٽابيس آهي. هي ماڻهن کي موجوده اڳواٽ بيان ڪيل خاصيتن کان ٻاهر، نئين طريقن سان کاڌي جي درجه بندي ۽ وضاحت ڪرڻ جي اجازت ڏئي ٿو.
+The Folksonomy Engine is a system that allows users to add custom tags, or properties, to food products in Open Food Facts, the world's largest open-food database. This lets people categorize and describe food in new ways, beyond the existing predefined properties.
 
 ---
 
