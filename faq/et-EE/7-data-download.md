@@ -1,21 +1,21 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Andmete allalaadimine"
-description: "1 küsimus"
-lang: et-gb
+title: "{{< fa cloud-download size=2x >}} Data download"
+description: "1 question"
+lang: en-gb
 order: 7
 category-level: 0
-icon: pilve allalaadimine
+icon: cloud-download
 ---
 
-{{< fa "pilve allalaadimine" size=3x >}}
+{{< fa "cloud-download" size=3x >}}
 
-## Kust saada andmeid konkreetse riigi kohta?
+## Where to get the data for a specific country?
 
-Praegu ei ole eksporti suunatud konkreetsetele riikidele.
+Currently, there are no exports dedicated to specific countries.
 
-Meie erinevate eksporditud failide ja tööriistade kasutamiseks on palju võimalusi, et valida konkreetse riigiga seotud andmeid.
+There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
-[Mõnda neist tehnikatest saad vaadata meie wikist](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
