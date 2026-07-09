@@ -1,23 +1,23 @@
 ---
-title: "{{< fa file-o size=2x >}} Skolprojekt"
-description: "2 frågor"
-lang: sv-gb
+title: "{{< fa file-o size=2x >}} School projects"
+description: "2 questions"
+lang: en-gb
 order: 26
 category-level: 1
-icon: fil-o
+icon: file-o
 ---
 
-{{< fa "fil-o" size=3x >}}
+{{< fa "file-o" size=3x >}}
 
-## Jag har ett skolprojekt att göra, jag vill använda Open Food Facts data, kan jag göra det?
+## I have a school project to do, I want to use Open Food Facts’ data, can I do so?
 
-Open Food Facts är en öppen databas, ett öppet projekt som drivs under en ODbL-licens. Så länge du godkänner kraven i ODbL-licensen är du välkommen att återanvända våra data för dina projekt :).
+Open Food Facts, is an open database, an open project which is operating under an ODbL license, therefore as long as you agree with the requirements of the ODbL license, you are welcome to re-use our data for your projects :).
 
 ---
 
-## Hur kan jag komma åt/samla in data för mina projekt?
+## How can I access/collect data for my projects ?
 
-På Open Food Facts huvudsida, längst upp till vänster på skärmen, finns en rullmeny. Längst ner hittar du alternativet "avancerad sökning", som du kan klicka på. Det är sedan upp till dig att avgöra vilka kriterier som är mest relevanta för ditt/dina projekt. När du har valt kan du ladda ner de erhållna resultaten genom att scrolla ner längst ner på sidan och klicka på "Ladda ner resultat".
+On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
 
 ---
 
