@@ -1,25 +1,25 @@
 ---
-title: "{{< fa chart-bar size=2x >}} პროდუქტის პორტფელის ანალიზი (საორიენტაციო მაჩვენებელი, გაუმჯობესება...)"
-description: "1 კითხვა"
+title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
+description: "1 question"
 lang: en-gb
 order: 22
 category-level: 1
-icon: დიაგრამის ზოლი
+icon: chart-bar
 ---
 
-{{< fa "დიაგრამის ზოლი" size=3x >}}
+{{< fa "chart-bar" size=3x >}}
 
-## როგორ მივიღო ხელახალი ფორმულირების რეკომენდაცია ჩემი პროდუქტების Nutri-Score-ის გასაუმჯობესებლად?
+## How to access the reformulation recommandation to improve the Nutri-Score of my products?
 
-როდესაც თქვენ პროდიუსერების პლატფორმის მთავარ გვერდზე ხართ:
+When you are on the home page of the Producers Platform:
 
-1. დააწკაპუნეთ ბმულზე „→ გაუმჯობესების შესაძლებლობების მქონე პროდუქტების რაოდენობა“ გვერდის ზედა ნაწილში.
+1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
 
-2. შეგიძლიათ გაეცნოთ ჩვენი სისტემის მიერ აღმოჩენილ ყველა შესაძლებლობას თქვენი პროდუქტების გასაუმჯობესებლად
+2. you can consult all the opportunities detected by our system to improve your products
 
-3. შესაძლებლობის ტიპზე დაწკაპუნებით თქვენ გადახვალთ იმ პროდუქტების სიაზე, რომლებიც გაუმჯობესებას ექვემდებარება.
+3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ დამატებითი ინფორმაციისთვის, გეპატიჟებით ჩამოტვირთოთ ჩვენი [მომხმარებლის სახელმძღვანელო](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) და/ან გაეცნოთ ჩვენს [ვიდეო გაკვეთილებს](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
