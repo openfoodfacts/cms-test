@@ -1,31 +1,31 @@
 ---
-title: "{{< fa heartbeat size=2x >}} Nutri-core"
-description: "ثلاثة أسئلة"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: نبض القلب
+icon: heartbeat
 ---
 
-{{< fa "نبض القلب" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## ماذا أفعل إذا كانت قيمة Nutri-Score لمنتجاتي غير صحيحة؟
+## What should I do if the Nutri-Score of my products is not correct?
 
-في حالة وجود مشكلة في Nutri-Score الخاص بك، تحقق من صحة معلوماتك في علامة التبويب "تعديل" في صفحة المنتج الخاصة بك. إذا كانت أي معلومات مفقودة أو غير صحيحة، فلا تتردد في الاتصال بنا على البريد الإلكتروني التالي: producers@openfoodfacts.org
-
----
-
-## ما نوع المعلومات التي يجب عليّ تقديمها حتى يتم حساب مؤشر التغذية بأكبر قدر ممكن من الدقة؟
-
-سيتم حساب النتيجة الغذائية باستخدام الجدول الغذائي لمنتجك.
-
-لا تنس تضمين نسبة الفواكه والخضروات والمكسرات في جدولك، حتى لا تكون النتيجة الغذائية المحسوبة غير صحيحة.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## من أين تأتي نقاط التغذية؟
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-تتم إدارة Nutri-Score بواسطة شركة Santé Publique France. يلخص هذا الجدول القيم الغذائية بحيث يمكن للجميع فهمه. الهدف هو توفير معلومات غذائية واضحة ومفهومة للجميع.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
