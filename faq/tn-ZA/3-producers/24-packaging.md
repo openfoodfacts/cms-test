@@ -1,49 +1,49 @@
 ---
-title: "{{< bogolo jwa khube ya fa=2x >}} Go phuthela"
-description: "Dipotso di le 3"
+title: "{{< fa cube size=2x >}} Packaging"
+description: "3 questions"
 lang: en-gb
 order: 24
 category-level: 1
-icon: khube
+icon: cube
 ---
 
-{{< fa "khube" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## Nka tsenya jang tshedimosetso ya me ya go phuthela mo Dintlhang tsa Dijo tse di Buletsweng?
+## How can I add my packaging data to Open Food Facts?
 
-Jaaka motlhagisi, tsela e e nang le matswela thata ya go tsenya tshedimosetso ya go phuthela mo dikumong tsa gago ke ka go tlatsa mo [seporeteshiting sa excel](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) tshedimosetso e e tlhokegang, go tswa mo kholomong ya "AU".
+As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
-Mo karolong nngwe le nngwe ya go phuthela, o tla tlhoka go tsenya:
+For each packaging component, you will need to enter:
 
-- Palo ya diyuniti (sekao: **4** dipitsa tsa di-yogurt)
+- The number of units (ex: **4** pots of yogurts)
 
-- Popego (sekao: **pitsa, sekhurumetso, lebokoso, jj**)
+- The shape (ex: **pot, lid, box, etc**)
 
-- Didirisiwa (sekao: **PET, pampiri, galase, jj**)
+- The material (ex: **PET, paper, glass, etc**)
 
-- Taelo ya go dirisa gape (sekao: **go dirisa gape, go latlha, jj**)
+- The recycling instruction (ex: **to recycle, to discard, etc**)
 
-- Bokete jwa yuniti e le nngwe e e senang sepe (ka gr)
+- The weight of one empty unit (in gr)
 
-- Bokana jo bo feletseng jwa kuno e e mo yuniting nngwe le nngwe
+- The net quantity of product contained per unit
 
-Morago ga moo seporeteshiti seno se ka tsenngwa mo sethaleng sa rona se se diretsweng baitseanape.
-
----
-
-## Porojeke ya go Lebana le go Phuthela Dijo ke eng?
-
-Porojeke ya "Tackling Food Packaging" e na le ho bokella tlhahisoleseding e feletseng ka ho phuthelwa ha dihlahiswa tse sebediswang haholo (sebopeho, thepa, ditaelo tsa ho hlophisa, boima, bokgoni).
-
-Go ikaegilwe ka mokgwa wa saense wa go tsaya karolo, e tla ikaega ka bobedi ka dikhamphani tse di dumelang go abelana tshedimosetso ya tsona ya go phuthela le go tshameka motshameko wa go dira dilo mo pepeneneng, le ka baagi ba ba letlang go kokoanngwa ga tshedimosetso ka ga ditlhagiswa. Tshedimosetso eno e tla dirisiwa gape ka kgololesego ("tshedimosetso e e bulegileng").
-
-**Go bona tshedimosetso e nngwe:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.dintlha tsa dijo tse di bulegileng.org/tn/batlhagisi-ba-porojeke-ya-go-phuthela)
+This spreadsheet can then be imported into our platform dedicated to professionals.
 
 ---
 
-## Le morago ga bokhutlo jwa porojeke ya go Lebana le go Phuthela Dijo, a ke sa ntse nka tsenya tshedimosetso ya me ya go phuthela?
+## What is the Tackling Food Packaging project?
 
-Le morago ga bokhutlo jwa porojeke, go a kgonega go tsenya tshedimosetso ya go phuthela ka gonne masimo a go phuthela a tla nna mo webosaeteng ya rona.
+The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
+
+Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
+
+**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+
+Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
 
 ---
 
