@@ -1,55 +1,55 @@
 ---
-title: "{{< fa user-plus sayay=2x >}} Eco-Puntuación"
-description: "5 tapuykuna"
+title: "{{< fa user-plus size=2x >}} Eco-Score"
+description: "5 questions"
 lang: en-gb
 order: 5
 category-level: 0
-icon: usuario-plus nisqa
+icon: user-plus
 ---
 
-{{< fa "usuario-plus nisqa" size=3x >}}
+{{< fa "user-plus" size=3x >}}
 
-## ¿Imataq Eco-Score nisqa metodología nisqa?
+## What is the Eco-Score methodology?
 
-Chay Eco-Score nisqa, ADEME (agencia de transición ecológica) nisqawan INRAE (instituto nacional de investigación agronómica) nisqapa ruwasqanku anlisis de ciclo de vida nisqa yupaypim ruwakun. Yaqa chunka pichqayuq componentekunam yupasqa, tinkuchisqa ima, PEF nisqapa puntuación nisqa ruwanapaq.
+The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
 
-Kay PEF puntuación nisqamanmi yapakun bonokuna hinallataq maluses (modo de producción, origen de
+To this PEF score are added bonuses and maluses (mode of production, origin of
 
-ingredientes, especies en peligro, envases) nisqakuna Eco-Score nisqa yupanapaq.
+ingredients, endangered species, packaging) in order to calculate the Eco-Score.
 
-Aswan willakuypaq, qhaway resumen p’anqata [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) Kichasqa Mikhuy Chiqakunamanta hinallataq Eco-Score consorcio web nisqapipas. (Eco-Score rikuchiy [https://docs.score-environnemental.com/](https://docs.score-ambiental.com/))
-
----
-
-## ¿Ima laya willaytataq quna tiyan chay Eco-Score nisqa allinta yupasqa kananpaq?
-
-Eco-Score nisqa allinta yupasqa kananpaqqa, sapa ingrediente nisqapa pachakmanta hayka kasqanmanta, maymanta hamusqanmantapas willakunanmi.
-
-Sichus kay willakuy manaraq lista de ingredientes nisqapi nisqachu, huk columnata yapayta atinki chaymanta rimanaykipaq, kay formato nisqawan:
-
-Trigo hak'u 16% (Francia) .
-
-Chukulata 8% (Costa de Marfil, Ikwadur)
-
-Necesitanchiktaqmi componentes de embalaje nisqakunata kayhinata: 1 película plástica wischunapaq, 1 caja de cartón FSC reciclanapaq, 6 botellas de plástico transparente PET 1,5 L nisqamanta reciclanapaq, 6 tapa plástico color opaco, 12 lata plástico 33 cl aluminio.
+For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## ¿Imaynatataq 15 rikuchiqkunapa chaninkuna huñusqa kachkan?
+## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
 
-**Aswan allinta hamut’anapaq sistema PEF nisqamanta, ñawinchayta atinki: PEF nisqapa puntuacionninmanta sut’inchaynin sitio metodológico Eco-Score nisqapi**
+For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
+
+If this information is not already specified in the list of ingredients, you can add a column to mention it, with the following format:
+
+Wheat flour 16% (France)
+
+Chocolate 8% (Ivory Coast, Ecuador)
+
+We need also the components of the packaging in the form of: 1 plastic film to throw away, 1 FSC cardboard box to recycle, 6 PET transparent plastic bottles of 1.5 L to recycle, 6 opaque colored plastic caps, 12 plastic cans 33 cl aluminum.
 
 ---
 
-## ¿Aspecto local nisqamantachu riman maypi ruwasqa kasqanmanta icha maymanta hamun chay materia prima nisqamanta?
+## How are the values ​​of the 15 indicators combined?
 
-**Aspecto local nisqa materia primapa paqarimusqanmantam riman. Kayraykum ancha allin kanman pachakmanta hukninta qillqay chaynallataq maymanta hamusqankutapas lista de ingredientes de producto nisqapi utaq chay campo dedicado nisqapi ingredientekunapa maymanta hamusqanmanta.**
+**To better understand the PEF system, you can read: explanation of the PEF score on the Eco-Score methodological site**
 
 ---
 
-## ¿Imaynatataq eco-puntuación nisqapaq ingredientekunapa paqarimuyninta yaykuchisunman?
+## Does the local aspect concern the place of manufacture or the place of origin of the raw materials?
 
-Sichus raphiykipi materia primakuna maymanta hamusqanmanta willakuykunata willayta munanki chayqa, mink’aykikun chaykunata lista de ingredientes nisqapi churanaykipaq.
+**The local aspect concerns the origin of the raw materials. This is why it is important to enter their percentages as well as their origins in the list of product ingredients or in the field dedicated to the origins of ingredients.**
+
+---
+
+## How to enter the origins of ingredients for the eco-score?
+
+If you wish to share the information on the origin of the raw materials on your sheets, we invite you to include them in the list of ingredients.
 
 ---
 
