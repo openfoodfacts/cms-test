@@ -1,6 +1,6 @@
 ---
 title: "{{< fa paw size=2x >}} Open Pet Food Facts"
-description: "2 questions"
+description: "2 preguntas"
 lang: en-gb
 order: 10
 category-level: 0
@@ -9,7 +9,7 @@ icon: paw
 
 {{< fa "paw" size=3x >}}
 
-## Why is there no Nutri-Score for animals?
+## ¿Por qué no hay Nutri-Score para los animales?
 
 Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
 
