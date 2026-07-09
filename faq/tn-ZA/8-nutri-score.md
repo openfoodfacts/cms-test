@@ -1,31 +1,31 @@
 ---
-title: "{{< fa bogolo jwa go itaya ga pelo=2x >}} Maduo a Dikotla"
-description: "Dipotso di le 3"
+title: "{{< fa heartbeat size=2x >}} Nutri-Score"
+description: "3 questions"
 lang: en-gb
 order: 8
 category-level: 0
-icon: go itaya ga pelo
+icon: heartbeat
 ---
 
-{{< fa "go itaya ga pelo" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## Ke tshwanetse go dira eng fa Nutri-Score ya ditlhagiswa tsa me e sa nepagala?
+## What should I do if the Nutri-Score of my products is not correct?
 
-Fa go ka nna le bothata ka Nutri-Score ya gago, tlhola gore a tshedimosetso ya gago e nepagetse mo thebong ya “fetola” ya pampiri ya setlhagiswa sa gago. Fa tshedimosetso epe e tlhaela kgotsa e sa nepagala, o se ka wa tshaba go ikgolaganya le rona kwa\*\* batlhagisi@openfoodfacts.org\*\*
-
----
-
-## Ke tshedimosetso ya mofuta ofe e ke tshwanetseng go e naya gore Nutri-Score e balwe ka nepo ka moo go ka kgonegang ka teng?
-
-Palelo ya Nutri-Score e tla dirwa ka tafole ya phepo ya setlhagiswa sa gago.
-
-O se ke wa lebala ho kenyelletsa phesente ya ditholwana, meroho le manoko tafoleng ya hao, e le hore Nutri-Score e badilweng e se ke ya fosagetsa.
+In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Maduo a Nutri a tswa kae ?
+## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
 
-Maduo a Nutri a laolwa ke Santé Publique Fora. E sobokanya lenaneo la boleng jwa dikotla gore mongwe le mongwe a kgone go le tlhaloganya. Maikaelelo ke go tlamela ka phitlhelelo ya tshedimosetso e e tlhapileng le e e tlhaloganyesegang ya phepo go mongwe le mongwe.
+The calculation of the Nutri-Score will be done with the nutritional table of your product.
+
+Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+
+---
+
+## Where does the Nutri-Score come from ?
+
+The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
 
 ---
 
