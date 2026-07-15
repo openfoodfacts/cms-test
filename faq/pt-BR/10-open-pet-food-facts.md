@@ -9,17 +9,17 @@ icon: paw
 
 {{< fa "paw" size=3x >}}
 
-## Why is there no Nutri-Score for animals?
+## Por que não existem valores nutricionais para animais?
 
-Each animal is different (a snake does not have the same nutritional needs as a cat or a dog)
+Os animais não são iguais (uma cobra não tem a mesma necessidade nutricional de um gato ou um cachorro)
 
-Even within the same type of animal such as dogs, the nutritional needs vary according to the life of the sedentary lifestyle, a possible castration or diseases.
+Mesmo dentre a mesma espécie de animal como os cachorros, as necessidades nutricionais variam conforme o estilo de vida, seja sedentário, tendo uma possível castração ou tendo doenças.
 
-It is therefore complicated to calculate a score for animal feed without involving dozens of researchers and creating dozens of different algorithms, which has not been done to date.
+Portanto, é complicado calcular um valor para a alimentação sem envolver diversos pesquisadores e desenvolver vários algorítimos, o que até hoje não foi feito.
 
 ---
 
-## Where can I find the Open Pet Food Facts API ?
+## Onde posso encontrar a API do "Open Pet Food Facts"?
 
 Open Pet Food Facts API is 98% the same as Open Food Facts API so if you use Open Food Facts API documentation you should have a pretty clear view of the Open Pet Food Facts API.
 
