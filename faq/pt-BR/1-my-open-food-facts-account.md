@@ -9,19 +9,19 @@ icon: user-circle
 
 {{< fa "user-circle" size=3x >}}
 
-## I want to delete my account
+## Quero excluir minha conta
 
-Account deletion now happens directly in your preferences.
+Agora, a exclusão de conta ocorre diretamente nas preferências.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Após realizar o ‘login’ em [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), clique em nome de usuário no canto superior direito, selecione Definições da conta. Isto abrirá a página de preferências. Vá até o final da página e selecione "excluir usuário".
 
-If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
+Caso não consiga realizar o “login” (ou redefinir sua senha), por favor entre em contato em [openfoodfacts.org](http://openfoodfacts.org), usando o endereço de e-mail usado no registro da sua conta.
 
 ---
 
-## How do I change my username?
+## Como trocar o nome de usuário?
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Infelizmente, não é possível. Caso realmente queira trocar, será necessário excluir sua conta e criar uma conta novamente.
 
 ---
 
