@@ -19,7 +19,7 @@ When you are on the home page of the Producers Platform:
 
 3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
 
-→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ Para mais detalhes, convidamos você a baixar o nosso [guia do usuário](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) e/ou consultar nossos [tutoriais em vídeo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55):-)
 
 ---
 
