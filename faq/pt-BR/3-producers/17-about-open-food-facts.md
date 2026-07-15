@@ -1,5 +1,5 @@
 ---
-title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+title: "{{< fa info-circle size=2x >}} Sobre o Open Food Facts"
 description: "4 questions"
 lang: en-gb
 order: 17
@@ -15,36 +15,36 @@ Any information you have is welcome, from nutritional information to packaging i
 
 This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
 
-However we do recommend you prioritize the following fields:
+No entanto, recomendamos que você priorize os seguintes campos
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
+- Categoria do produto (ex: bebidas, queijo, iogurte, etc.)
 - Name of the product
 - Allergens
 - and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
-→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ Para mais detalhes, convidamos você a baixar o nosso [guia do usuário](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) e/ou consultar nossos [tutoriais em vídeo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55):-)
 
 ---
 
-## Can I download Open Food Facts data?
+## Posso baixar os dados do Open Food Facts?
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+Você pode baixar todos os dados disponíveis no Open Food Facts. Atenção: isso requer muito espaço em disco e um computador potente se você quiser usar uma planilha ou conhecimento de R ou Python.
 
-You can also download a subset of the data (your brand for example) thanks to the advanced search.
+Você também pode baixar um subconjunto de dados (sua marca, por exemplo) utilizando a pesquisa avançada.
 
 → For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Is access to the Pro platform and the import of data free?
+## O acesso à plataforma Pro e a importação de dados são gratuitos?
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
-We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Absolutely, and it will be forever.Todos os serviços prestados pelo Open Food Facts são gratuitos.  
+Estamos muito satisfeitos por ter decidido contribuir com os seus dados sobre os produtos para a transparência alimentar, e agradecemos por isso.
 
 ---
 
-## I would like to suggest improvements for the professional platform, how can I do so ?
+## Eu gostaria de sugerir melhorias para a plataforma profissional. Como posso fazer isso?
 
 Thank you for your willingness to participate in food transparency!
 
@@ -52,7 +52,7 @@ The best way to share feedback is by filling in [this form](https://docs.google.
 
 You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Junte-se ao nosso Slack e entre no canal #producers para entrar em contato conosco.
 
 ---
 
