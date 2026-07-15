@@ -33,7 +33,7 @@ By registering on the producers' platform and upload your products' data, you ca
 
 However, you must delete it once the simulation has been carried out so that it is not exported to the public platform with the products already marketed in your range.
 
-→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ Para mais detalhes, convidamos você a baixar o nosso [guia do usuário](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) e/ou consultar nossos [tutoriais em vídeo](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55):-)
 
 ---
 
