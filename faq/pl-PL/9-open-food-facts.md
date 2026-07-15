@@ -1,6 +1,6 @@
 ---
 title: "{{< fa question-circle size=2x >}} Open Food Facts"
-description: "9 questions"
+description: "9 pytań"
 lang: en-gb
 order: 9
 category-level: 0
@@ -51,7 +51,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ---
 
-## Is the information and data on products verified?
+## Czy informacje i dane o produktach są zweryfikowane?
 
 The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and health and beauty claims. W razie wątpliwości odwiedzający mogą więc samodzielnie sprawdzić dokładność, a jeśli wystąpi błąd, mogą go poprawić na miejscu.
 
@@ -61,7 +61,7 @@ Wreszcie wielu producentów przesyła nam zdjęcia i dane o swoich produktach za
 
 ---
 
-## I am a food product manufacturer, can I add my own products?
+## Jestem producentem produktów spożywczych, czy mogę dodać własne produkty?
 
 Tak! Jedynym warunkiem jest wyrażenie zgody na udostępnianie danych i zdjęć na wolnej licencji. (patrz <a href="https://en.openfoodfacts.org/terms-of-use#contribution">Warunki udziału</a>) (patrz <a href="https://en.openfoodfacts.org/terms-of-use#contribution">Warunki udziału</a>) (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
@@ -69,7 +69,7 @@ We have developped a free platform to let you easily import photos and data abou
 
 ---
 
-## Who uses Open Food Facts data?
+## Kto korzysta z danych Open Food Facts?
 
 It would
 take too long to list all the organizations that rely on the Open Food Facts
@@ -104,18 +104,18 @@ Facts is a 1901 non-profit association. You can help us by [participating in th
 (66% deductible) and also by using the Lilo
 search engine.
 
-**Thank
-you very much!**
+**Dziękujemy
+bardzo!**
 
 ---
 
-## I can't find the answer to my question
+## Nie mogę znaleźć odpowiedzi na moje pytanie
 
-If you can't find an answer to your question(s), don't hesitate to contact us via:
+Jeśli nie możesz znaleźć odpowiedzi na swoje pytanie(a), nie wahaj się skontaktować się z nami przez:
 
 - Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Nasze forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
