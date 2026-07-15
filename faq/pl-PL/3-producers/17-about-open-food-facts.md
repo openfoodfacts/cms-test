@@ -20,14 +20,14 @@ However we do recommend you prioritize the following fields:
 - Nutritional information
 - Product category (e.g. drinks, cheese, yogurt, etc.)
 - Name of the product
-- Allergens
+- Alergeny
 - and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
 → For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
-## Can I download Open Food Facts data?
+## Czy mogę pobrać dane Open Food Facts?
 
 You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
 
