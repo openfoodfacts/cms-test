@@ -31,7 +31,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ---
 
-## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
+## Posso adicionar imagens ou dados do 'website' do fabricante, 'websites' de compras ou outros 'websites'?
 
 Provavelmente não. Quase todos os outros sites proíbem a reprodução e a reutilização dos seus dados e imagens e essa é a razão pela qual estamos a criar o Open Food Facts: para disponibilizar todos estes dados a todos e para todas as utilizações.
 
@@ -39,7 +39,7 @@ Para evitar qualquer problema legal, pedimos aos colaboradores que adicionem ape
 
 ---
 
-## How can I contact the Open Food Facts team, ask questions or make suggestions?
+## Como posso contactar a equipa da "Open Food Facts", fazer perguntas ou sugestões?
 
 You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
@@ -51,7 +51,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ---
 
-## Is the information and data on products verified?
+## A informação e os dados sobre os produtos são verificados?
 
 The information and data is submited by the Open Food Facts contributors. Os colaboradores também enviam fotografias dos produtos, etiquetas, listas de ingredientes e tabela de dados nutricionais. Em caso de dúvida, os visitantes podem verificar a precisão por si mesmos e, se houver um erro, eles poderão corrigi-lo.
 
