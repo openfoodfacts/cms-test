@@ -9,7 +9,7 @@ icon: question-circle
 
 {{< fa "question-circle" size=3x >}}
 
-## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
+## Ποια είναι η διαφορά με άλλες ιστοσελίδες, υπηρεσίες και εφαρμογές για κινητά που ήδη επιτρέπουν να δείτε πληροφορίες για τα προϊόντα διατροφής?
 
 Η κύρια διαφορά είναι για εμάς μια κρίσιμη: τα δεδομένα μας είναι ελεύθερα διαθέσιμα σε όλους και για όλες τις χρήσεις. Είναι αυτό που λέγεται ανοιχτά δεδομένα.
 
@@ -27,11 +27,11 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Είναι ελεύθεροι να διαθέσουν ελεύθερα το έργο που προκύπτει ή να το πουλήσουν ή να το δημιουργήσουν έσοδα (πχ. με διαφημίσεις), εφόσον σέβονται τους όρους επαναχρησιμοποίησης.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+Είμαστε επίσης αυστηρά ανεξάρτητοι από τη βιομηχανία τροφίμων, και όλες οι υπηρεσίες και το λογισμικό που κατασκευάζουμε είναι δωρεάν. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
-## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
+## Μπορώ να προσθέσω εικόνες προϊόντων ή δεδομένα από την ιστοσελίδα του κατασκευαστή, ιστοσελίδες αγορών ή άλλες ιστοσελίδες?
 
 Μάλλον όχι. Σχεδόν όλοι οι άλλοι ιστότοποι απαγορεύουν την αναπαραγωγή και επαναχρησιμοποίηση των δεδομένων και των εικόνων τους, και αυτός είναι στην πραγματικότητα ο λόγος για τον οποίο δημιουργήσαμε τα Open Food Facts: για να κάνουμε όλα αυτά τα δεδομένα διαθέσιμα σε όλους και για όλες τις χρήσεις.
 
@@ -39,7 +39,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ---
 
-## How can I contact the Open Food Facts team, ask questions or make suggestions?
+## Πώς μπορώ να επικοινωνήσω με την ομάδα Open Food Facts, να κάνω ερωτήσεις ή προτάσεις;
 
 You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
@@ -51,7 +51,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ---
 
-## Is the information and data on products verified?
+## Είναι επαληθευμένες οι πληροφορίες και τα δεδομένα σχετικά με τα προϊόντα;
 
 The information and data is submited by the Open Food Facts contributors. Οι συνεισφέροντες στέλνουν επίσης φωτογραφίες του προϊόντος, τις ετικέτες του, τις λίστες συστατικών και τον πίνακα διατροφικών στοιχείων. Όταν υπάρχει αμφιβολία, οι επισκέπτες μπορούν έτσι να ελέγξουν την ακρίβεια από μόνοι τους, και αν υπάρχει κάποιο λάθος, μπορούν να το διορθώσουν επί τόπου.
 
@@ -61,7 +61,7 @@ The information and data is submited by the Open Food Facts contributors. Οι �
 
 ---
 
-## I am a food product manufacturer, can I add my own products?
+## Είμαι κατασκευαστής προϊόντων διατροφής, μπορώ να προσθέσω τα δικά μου προϊόντα;
 
 Ναι! Η μόνη προϋπόθεση είναι να αποδεχτείτε ότι τα δεδομένα και οι εικόνες διατίθενται με ανοιχτή άδεια. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
