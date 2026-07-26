@@ -9,7 +9,7 @@ icon: question-circle
 
 {{< fa "question-circle" size=3x >}}
 
-## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
+## מה ההבדל בינינו לבין אתרים, שירותים ויישומוני ניידים אחרים שכבר מאפשרים לצפות בפרטים על מוצרי מזון?
 
 ההבדל העיקרי הוא קריטי בעינינו: הנתונים שלנו זמינים באופן חופשי לכולם ולכל מטרה שהיא. זה מה שנקרא נתונים פתוחים.
 
@@ -21,7 +21,7 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ---
 
-## What is Open Food Facts' economic model
+## מה המודל הכלכלי של Open Food Facts
 
 תרומה בהתנדבות. התרומות של המתנדבים נאספות במסד נתונים פתוח בו כולם יכולים להשתמש לכל מטרה שהיא. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
@@ -61,7 +61,7 @@ The information and data is submited by the Open Food Facts contributors. המת
 
 ---
 
-## I am a food product manufacturer, can I add my own products?
+## אני יצרן מזון, אוכל להוסיף את המוצרים שלי?
 
 כן! התנאי היחידי הוא לאשר שהנתונים והתמונות יהיו זמינים תחת רישיון פתוח. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
