@@ -1,6 +1,6 @@
 ---
 title: "{{< fa wrench size=2x >}} API & data reuse"
-description: "6 questions"
+description: "6 שאלות"
 lang: en-gb
 order: 12
 category-level: 0
@@ -53,11 +53,11 @@ Open Food Facts contains only information about packaged food. For average value
 
 -
 
-**France** - CIQUAL: [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
+**צרפת** - CIQUAL:‏ [https://www.anses.fr/en/search/site/Table%20ciqual](https://www.anses.fr/en/search/site/Table%20ciqual)
 
 -
 
-**Germany** - Souci-Fachmann-Kraut Online Database: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the official German Database: Bundeslebensmittelschlüssel: [https://blsdb.de/](https://blsdb.de/)
+**גרמניה** - מסד הנתונים המקוון Souci-Fachmann-Kraut‏: [https://www.sfk.online/#/home](https://www.sfk.online/#/home) or the מסד הנתונים הגרמני הרשמי: Bundeslebensmittelschlüssel‏: [https://blsdb.de/](https://blsdb.de/)
 
 -  **Italy** - Banca Dati di Composizione degli Alimenti CREA: [https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati](https://www.crea.gov.it/web/alimenti-e-nutrizione/banche-dati)
 
