@@ -1,6 +1,6 @@
 ---
 title: "{{< fa mobile size=2x >}} Mobile app"
-description: "4 questions"
+description: "4 שאלות"
 lang: en-gb
 order: 2
 category-level: 0
