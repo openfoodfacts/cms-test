@@ -31,7 +31,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ---
 
-## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
+## אפשר להוסיף תמונות או נתונים מאתר היצרן, אתר השיווק או אתרים אחרים?
 
 סביר להניח שלא. כמעט כל האתרים האחרים אוסרים להפיק מחדש או לגזור נתונים ותמונות וזאת למעשה גם הסיבה שבגללה הקמנו את Open Food Facts: להנגיש את כל הנתונים האלו לכולם ולכל מטרה.
 
@@ -39,7 +39,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ---
 
-## How can I contact the Open Food Facts team, ask questions or make suggestions?
+## איך אפשר ליצור קשר עם צוות Open Food Facts כדי לשאול שאלות או להציע הצעות?
 
 You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
 
@@ -51,7 +51,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ---
 
-## Is the information and data on products verified?
+## האם המידע והנתונים על המוצרים עברו אימות?
 
 The information and data is submited by the Open Food Facts contributors. המתנדבים גם שולחים תמונות של המוצר, התוויות שלו, רשימת הרכיבים והטבלה התזונתית שלו. במקרה של ספק, מבקרים יכולים לבדוק את הדיוק בעצמם ואם יש שגיאה, הם יכולים לתקן אותה במקום.
 
