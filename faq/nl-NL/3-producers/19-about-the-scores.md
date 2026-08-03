@@ -1,23 +1,23 @@
 ---
-title: "{{< fa chart-line size=2x >}} About the scores"
+title: "{{< fa chart-line size=2x >}} Over de scores"
 description: "3 vragen"
 lang: nl-nl
 order: 19
 category-level: 1
-icon: chart-line
+icon: grafieklijn
 ---
 
-{{< fa "chart-line" size=3x >}}
+{{< fa "grafieklijn" size=3x >}}
 
-## Who is responsible for calculating the footprint and/or score?
+## Wie is verantwoordelijk voor het berekenen van de ecologische voetafdruk en/of de score?
 
-The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
+De Nutri-Score, NOVA-groep en Ecologische Score worden berekend op basis van de gegevens in Open Food Facts. Onze algoritmes volgen strikt de officiële methodiek van deze scores.
 
 ---
 
-## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
+## Wat is het verschil tussen de Ecologische Score, de Nutri-Score en de NOVA-groep?
 
-The purpose of these indicators is to provide easy-to-understand information for the consumer.
+Het doel van deze indicatoren is om de consument gemakkelijk informatie te bieden dat makkelijk te begrijpen is.
 
 The [NOVA group](https://fr.openfoodfacts.org/nova) deals with the transformation of the product, the[Eco-Score](https://fr.openfoodfacts.org/ecoscore) with its environmental impact and the [Nutri-Score](https://fr.openfoodfacts.org/nutriscore) with the nutritional elements, knowing that the more a product has scores close to A, the more qualitative it is.
 
