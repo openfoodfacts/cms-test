@@ -21,7 +21,7 @@ You can access the [Pro platform](https://world.pro.openfoodfacts.org/) with you
 
 If you are a professional, you will need to use your professional email address so that we can validate your account.
 
-→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ Для получения более подробной информации мы предлагаем вам скачать наш [путеводитель пользователя](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) и/или ознакомиться с [видео уроками](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
