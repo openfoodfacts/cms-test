@@ -1,7 +1,7 @@
 ---
 title: "{{< fa bookmark size=2x >}} Labels"
-description: "2 questions"
-lang: en-gb
+description: "2 ερωτήσεις"
+lang: el-gr
 order: 23
 category-level: 0
 icon: bookmark
