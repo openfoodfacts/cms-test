@@ -1,7 +1,7 @@
 ---
 # To be translated (strings between quotation marks)
 title: "FAQ - English"
-lang: "en-gb"
+lang: "el-gr"
 
 # DO NOT TRANSLATE >>
 listing:
