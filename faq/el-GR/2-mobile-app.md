@@ -1,7 +1,7 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile app"
+title: "{{< fa mobile size=2x >}} Εφαρμογή για κινητά"
 description: "4 questions"
-lang: en-gb
+lang: el-gr
 order: 2
 category-level: 0
 icon: mobile
@@ -9,10 +9,10 @@ icon: mobile
 
 {{< fa "mobile" size=3x >}}
 
-## How do I know which version of the app I'm using?
+## Πώς ξέρω ποια έκδοση της εφαρμογής χρησιμοποιώ;
 
-Go to **Profile**,
-then **FAQ**, then **About this app.**
+Μεταβείτε στο **Προφίλ**,
+έπειτα στις **Συχνές Ερωτήσεις** και στη συνέχεια στις **Σχετικά με την εφαρμογή.**
 
 You should
 see a version number like 3.4.5+662. Don't forget to tell us the make and model
