@@ -1,7 +1,7 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
 description: "5 questions"
-lang: en-gb
+lang: el-gr
 order: 5
 category-level: 0
 icon: user-plus
