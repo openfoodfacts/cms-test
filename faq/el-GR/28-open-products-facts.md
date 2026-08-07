@@ -1,7 +1,7 @@
 ---
 title: "{{< fa key size=2x >}} Open Products Facts"
 description: "3 questions"
-lang: en-gb
+lang: el-gr
 order: 28
 category-level: 0
 icon: key
