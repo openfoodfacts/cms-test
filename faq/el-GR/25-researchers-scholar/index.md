@@ -1,7 +1,7 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
-description: "1 subcategory"
-lang: en-gb
+title: "{{< fa graduation-cap size=2x >}} Ερευνητές/Ακαδημαϊκά"
+description: "1 υποκατηγορία"
+lang: el-gr
 order: 25
 category-level: 0
 icon: graduation-cap
