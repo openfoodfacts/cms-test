@@ -1,7 +1,7 @@
 ---
 title: "{{< fa paw size=2x >}} Open Pet Food Facts"
-description: "2 questions"
-lang: en-gb
+description: "2 ερωτήσεις"
+lang: el-gr
 order: 10
 category-level: 0
 icon: paw
