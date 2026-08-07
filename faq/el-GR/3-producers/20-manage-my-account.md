@@ -1,7 +1,7 @@
 ---
 title: "{{< fa user size=2x >}} Manage my account"
 description: "3 questions"
-lang: en-gb
+lang: el-gr
 order: 20
 category-level: 1
 icon: χρήστης
