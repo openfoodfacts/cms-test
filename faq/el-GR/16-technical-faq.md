@@ -1,7 +1,7 @@
 ---
 title: "{{< fa brands github size=2x >}} Technical FAQ"
 description: "1 question"
-lang: en-gb
+lang: el-gr
 order: 16
 category-level: 0
 icon: brands github
