@@ -1,7 +1,7 @@
 ---
 title: "{{< fa dollar size=2x >}} Open Prices"
 description: "3 questions"
-lang: en-gb
+lang: el-gr
 order: 29
 category-level: 0
 icon: dollar
