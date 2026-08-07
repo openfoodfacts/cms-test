@@ -1,7 +1,7 @@
 ---
 title: "{{< fa heartbeat size=2x >}} Nutri-Score"
 description: "3 questions"
-lang: en-gb
+lang: el-gr
 order: 8
 category-level: 0
 icon: heartbeat
