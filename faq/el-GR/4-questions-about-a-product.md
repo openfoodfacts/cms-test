@@ -1,7 +1,7 @@
 ---
 title: "{{< fa shopping-basket size=2x >}} Questions about a product"
 description: "1 question"
-lang: en-gb
+lang: el-gr
 order: 4
 category-level: 0
 icon: shopping-basket
