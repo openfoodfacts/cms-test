@@ -1,7 +1,7 @@
 ---
 title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
 description: "1 question"
-lang: en-gb
+lang: el-gr
 order: 22
 category-level: 1
 icon: chart-bar
