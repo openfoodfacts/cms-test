@@ -1,7 +1,7 @@
 ---
-title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
-description: "2 questions"
-lang: en-gb
+title: "{{< fa user-circle size=2x >}} Ο Open Food Facts λογαριασμός μου"
+description: "2 ερωτήσεις"
+lang: el-gr
 order: 1
 category-level: 0
 icon: user-circle
@@ -9,19 +9,19 @@ icon: user-circle
 
 {{< fa "user-circle" size=3x >}}
 
-## I want to delete my account
+## Θέλω να διαγράψω τον λογαριασμό μου
 
-Account deletion now happens directly in your preferences.
+Η διαγραφή λογαριασμού γίνεται πλέον απευθείας στις προτιμήσεις σας.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Αφού συνδεθείτε στο [https://world.openfoodfacts.org/](https://gr.openfoodfacts.org/), κάντε κλικ στο όνομα χρήστη στην επάνω δεξιά γωνία και επιλέξτε Παράμετροι λογαριασμού. Ανοίγει τη σελίδα προτιμήσεών σας. Μεταβείτε στο κάτω μέρος της σελίδας και χρησιμοποιήστε την ενέργεια "διαγραφή χρήστη".
 
-If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
+Εάν δεν μπορείτε να συνδεθείτε (ή να επαναφέρετε τον κωδικό πρόσβασής σας), επικοινωνήστε με dpo στη διεύθυνση - [openfoodfacts.org](http://openfoodfacts.org), χρησιμοποιώντας τη διεύθυνση email που χρησιμοποιείτε για την εγγραφή του λογαριασμού.
 
 ---
 
-## How do I change my username?
+## Πώς μπορώ να αλλάξω το όνομα χρήστη μου;
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Δυστυχώς, δεν είναι δυνατό. Αν θέλετε πραγματικά να αλλάξετε, πρέπει να διαγράψετε τον λογαριασμό σας και να δημιουργήσετε έναν νέο.
 
 ---
 
