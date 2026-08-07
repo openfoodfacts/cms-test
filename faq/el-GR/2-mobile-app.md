@@ -14,39 +14,39 @@ icon: mobile
 Μεταβείτε στο **Προφίλ**,
 έπειτα στις **Συχνές Ερωτήσεις** και στη συνέχεια στις **Σχετικά με την εφαρμογή.**
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
+Θα πρέπει να δείτε
+έναν αριθμό έκδοσης όπως 3.4.5+662. Μην ξεχάσετε να μας πείτε τη μάρκα και το μοντέλο
+του τηλεφώνου εάν εκτελείται εντοπισμός σφαλμάτων.
 
 ---
 
-## The app does not scan
+## Η εφαρμογή δεν σαρώνει
 
-This may be due to
+Αυτό μπορεί να οφείλεται σε
 
-- a network problem
+- πρόβλημα δικτύου
 
-- a permissions problem
+- πρόβλημα δικαιωμάτων
 
-- a barcode problem
+- πρόβλημα με γραμμωτό κώδικα
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+Στείλτε μας ένα email μέσω του Προφίλ >> Επικοινωνήστε μαζί μας >> Στείλτε μας ένα email.
 
-All relevant information should be attached to your request.
-
----
-
-## How can I help with improving the mobile app ?
-
-How can I help with improving the mobile app ?
-
-You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+Όλες οι σχετικές πληροφορίες θα πρέπει να επισυνάπτονται στο αίτημά σας.
 
 ---
 
-## Where can I send feedback about the app ?
+## Πώς μπορώ να βοηθήσω στη βελτίωση της εφαρμογής για κινητά;
 
-You can send feedback to mobile@openfoodfacts.org
+Πώς μπορώ να βοηθήσω στη βελτίωση της εφαρμογής για κινητά;
+
+Μπορείτε [να το κάνετε στο αποθετήριο της εφαρμογής για κινητά](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Πού μπορώ να στείλω σχόλια σχετικά με την εφαρμογή;
+
+Μπορείτε να στείλετε σχόλια στο mobile@openfoodfacts.org
 
 ---
 
