@@ -1,7 +1,7 @@
 ---
 title: "{{< fa chart-line size=2x >}} About the scores"
 description: "3 questions"
-lang: en-gb
+lang: el-gr
 order: 19
 category-level: 1
 icon: chart-line
