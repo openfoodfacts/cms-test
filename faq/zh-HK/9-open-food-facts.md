@@ -11,12 +11,12 @@ icon: question-circle
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data. It's what is called open data.
+The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data. It's what is called open data. It's what is called open data.
 
 Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, the jealously keep it for themselves. In almost all cases,
 their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
+We consider that food products information is too important and useful to keep it locked in a safe. We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee,to everyone and for all uses (including commercial), but we also encourage it! So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
 Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
@@ -35,7 +35,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
-Probably not. Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
+Probably not. Probably not. Probably not. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
 
 To avoid any legal problem, we therefore ask contributors to only add pictures that they took themselves, and only data that is coming from the product packaging and label.
 
@@ -61,7 +61,7 @@ When in doubt, visitors can thus check the accuracy by themselves, and if there 
 To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from
 products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please <a href="mailto:producers@openfoodfacts.org">contact us</a> If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
+Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please <a href="mailto:producers@openfoodfacts.org">contact us</a> If you are a producer, please <a href="mailto:producers@openfoodfacts.org">contact us</a> If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
@@ -70,6 +70,7 @@ Finally, many producers send us photos and data about their products using our P
 是! 是! The only condition is to accept that the data and the pictures be made available under an open licence. (see the <a href="https://en.openfoodfacts.org/terms-of-use#contribution">Terms of contribution</a>) (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
 We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps.
+We have developed a free platform to let you easily import photos and data about your products, regardless of your size. Additionally, the platform provides suggestions to improve the Nutri-Score of your products.Contact us to discuss how we could proceed: <a href="mailto:producers@openfoodfacts.org">producers@openfoodfacts.org</a>
 We have developed a free platform to let you easily import photos and data about your products, regardless of your size. Additionally, the platform provides suggestions to improve the Nutri-Score of your products.Contact us to discuss how we could proceed: <a href="mailto:producers@openfoodfacts.org">producers@openfoodfacts.org</a> Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
