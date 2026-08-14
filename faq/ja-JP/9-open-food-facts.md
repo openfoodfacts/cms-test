@@ -63,7 +63,7 @@ The information and data is submited by the Open Food Facts contributors. The co
 
 ## I am a food product manufacturer, can I add my own products?
 
-はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい 唯一の条件は、データと写真がオープンライセンスの下で利用可能になることを受け入れることです。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい 唯一の条件は、データと写真がオープンライセンスの下で利用可能になることを受け入れることです。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
 We have developped a free platform to let you easily import photos and data about your products, regardless of your size. これにより、完全かつ最新のデータとビジュアルを Open Food Facts にインポートし、100 を超える他の栄養アプリで表示できるようになります。 Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
