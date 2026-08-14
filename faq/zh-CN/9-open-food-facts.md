@@ -63,7 +63,7 @@ The information and data is submited by the Open Food Facts contributors. 投稿
 
 ## I am a food product manufacturer, can I add my own products?
 
-是的! 是的! 唯一的条件是接受在开放许可下提供数据和图片。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+是的! 是的! 是的! 唯一的条件是接受在开放许可下提供数据和图片。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
 We have developped a free platform to let you easily import photos and data about your products, regardless of your size. 它将允许您将完整、最新的数据和图像信息导入 Open Food Facts，这些数据和图像信息可在 100 多个其他营养应用程序中查看。 Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
