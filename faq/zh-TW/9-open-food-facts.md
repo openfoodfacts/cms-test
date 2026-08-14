@@ -11,7 +11,7 @@ icon: question-circle
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data.
+The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data. It's what is called open data.
 
 Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases,
 their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data. Quite to the contrary, they jealously keep it for themselves. In almost all cases,
