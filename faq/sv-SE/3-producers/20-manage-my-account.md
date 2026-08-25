@@ -1,6 +1,6 @@
 ---
 title: "{{< fa user size=2x >}} Manage my account"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 20
 category-level: 1
