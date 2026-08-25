@@ -15,7 +15,7 @@ Open Products Facts is available within the main Open Food Facts app. This integ
 
 ---
 
-## I would like to support Open Products Facts. What can I do ?
+## I would like to support Open Products Facts. Vad kan jag göra?
 
 Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
 
