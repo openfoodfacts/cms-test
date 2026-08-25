@@ -1,13 +1,13 @@
 ---
 title: "{{< fa heartbeat size=2x >}} Nutri-Score"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 8
 category-level: 0
-icon: heartbeat
+icon: hjärtslag
 ---
 
-{{< fa "heartbeat" size=3x >}}
+{{< fa "hjärtslag" size=3x >}}
 
 ## What should I do if the Nutri-Score of my products is not correct?
 
