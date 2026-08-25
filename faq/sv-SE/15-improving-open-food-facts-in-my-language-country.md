@@ -1,13 +1,13 @@
 ---
 title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/country"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 15
 category-level: 0
-icon: globe
+icon: glob
 ---
 
-{{< fa "globe" size=3x >}}
+{{< fa "glob" size=3x >}}
 
 ## I would like to add a new logo for labels
 
