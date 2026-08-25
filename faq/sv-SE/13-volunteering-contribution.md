@@ -19,7 +19,7 @@ We also have a new image report API if you're a programmer.
 
 ---
 
-## I'm a designer. How can I help ?
+## I'm a designer. Hur kan jag hjälpa till?
 
 We coordinate all design related activities on [https://github.com/openfoodfacts/openfoodfacts-design](https://github.com/openfoodfacts/openfoodfacts-design) and on a dedicated chat channel. We regularly do team meetings and brainjams on specific challenges.
 
