@@ -121,7 +121,7 @@ We are therefore happy to be able to import your products into the project that 
 
 ## Product data from my company is available on Open Food Facts. Is it possible to take control of the associated producer account?
 
-Yes of course! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
+Ja naturligtvis! You can take control of the associated producer account by creating an Open Food Facts account with your business address. When you register, mention the name of the organization present on the form to be able to access the corresponding producer space.
 
 A short validation step will be necessary to ensure that you are indeed the producer.
 
