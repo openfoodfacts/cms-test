@@ -1,13 +1,13 @@
 ---
 title: "{{< fa wrench size=2x >}} API & data reuse"
-description: "6 questions"
+description: "6 frågor"
 lang: en-gb
 order: 12
 category-level: 0
-icon: wrench
+icon: skiftnyckel
 ---
 
-{{< fa "wrench" size=3x >}}
+{{< fa "skiftnyckel" size=3x >}}
 
 ## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
 
