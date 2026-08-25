@@ -4,10 +4,10 @@ description: "1 question"
 lang: en-gb
 order: 14
 category-level: 0
-icon: newspaper
+icon: tidning
 ---
 
-{{< fa "newspaper" size=3x >}}
+{{< fa "tidning" size=3x >}}
 
 ## How can I get press visuals on Open Food Facts?
 
