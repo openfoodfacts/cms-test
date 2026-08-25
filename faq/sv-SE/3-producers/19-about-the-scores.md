@@ -1,6 +1,6 @@
 ---
 title: "{{< fa chart-line size=2x >}} About the scores"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 19
 category-level: 1
