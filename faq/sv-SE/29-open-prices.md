@@ -1,6 +1,6 @@
 ---
 title: "{{< fa dollar size=2x >}} Open Prices"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 29
 category-level: 0
