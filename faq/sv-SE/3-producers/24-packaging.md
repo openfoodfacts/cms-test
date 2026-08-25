@@ -1,13 +1,13 @@
 ---
 title: "{{< fa cube size=2x >}} Packaging"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 24
 category-level: 1
-icon: cube
+icon: kub
 ---
 
-{{< fa "cube" size=3x >}}
+{{< fa "kub" size=3x >}}
 
 ## How can I add my packaging data to Open Food Facts?
 
