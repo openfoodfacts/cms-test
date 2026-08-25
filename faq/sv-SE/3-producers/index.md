@@ -1,6 +1,6 @@
 ---
 title: "{{< fa industry size=2x >}} Producers"
-description: "6 subcategories"
+description: "6 underkategorier"
 lang: en-gb
 order: 3
 category-level: 0
