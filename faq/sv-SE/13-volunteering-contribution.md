@@ -1,6 +1,6 @@
 ---
 title: "{{< fa edit size=2x >}} Volunteering / Contribution"
-description: "3 questions"
+description: "3 frågor"
 lang: en-gb
 order: 13
 category-level: 0
