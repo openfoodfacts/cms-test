@@ -1,13 +1,13 @@
 ---
 title: "{{< fa tags size=2x >}} Open Beauty Facts"
-description: "4 questions"
+description: "4 frågor"
 lang: en-gb
 order: 11
 category-level: 0
-icon: tags
+icon: taggar
 ---
 
-{{< fa "tags" size=3x >}}
+{{< fa "taggar" size=3x >}}
 
 ## Does Open Beauty Facts have an analysis laboratory?
 
