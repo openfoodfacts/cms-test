@@ -13,7 +13,7 @@ listing:
   type: grid
   grid-columns: 4
   sort: "order"
-  fields: [ title, beskrivning ]
+  fields: [ titel, beskrivning ]
   page-size: 100
 
 # << DO NOT TRANSLATE
