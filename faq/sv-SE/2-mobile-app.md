@@ -1,13 +1,13 @@
 ---
 title: "{{< fa mobile size=2x >}} Mobile app"
-description: "4 questions"
+description: "4 frågor"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobile
+icon: mobil
 ---
 
-{{< fa "mobile" size=3x >}}
+{{< fa "mobil" size=3x >}}
 
 ## How do I know which version of the app I'm using?
 
