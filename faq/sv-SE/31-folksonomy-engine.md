@@ -4,10 +4,10 @@ description: "1 question"
 lang: en-gb
 order: 31
 category-level: 0
-icon: book
+icon: bok
 ---
 
-{{< fa "book" size=3x >}}
+{{< fa "bok" size=3x >}}
 
 ## What is the Folksonomy Engine ?
 
