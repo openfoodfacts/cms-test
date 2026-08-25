@@ -9,7 +9,7 @@ icon: flask
 
 {{< fa "flask" size=3x >}}
 
-## What is NOVA ?
+## Vad är NOVA?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
