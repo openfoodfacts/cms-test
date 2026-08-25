@@ -1,6 +1,6 @@
 ---
 title: "{{< fa box size=2x >}} Manage my products"
-description: "16 questions"
+description: "16 frågor"
 lang: en-gb
 order: 21
 category-level: 1
