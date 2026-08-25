@@ -1,6 +1,6 @@
 ---
 title: "{{< fa info-circle size=2x >}} About Open Food Facts"
-description: "4 questions"
+description: "4 frågor"
 lang: en-gb
 order: 17
 category-level: 1
