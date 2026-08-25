@@ -4,7 +4,7 @@ description: "6 subcategories"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industry
+icon: industri
 listing:
   contents:
     - "*.md"
@@ -13,9 +13,9 @@ listing:
   type: grid
   grid-columns: 4
   sort: "order"
-  fields: [ title, beskrivning ]
+  fields: [ titel, beskrivning ]
   page-size: 100
 ---
 
-{{< fa "industry" size=3x >}}
+{{< fa "industri" size=3x >}}
 
