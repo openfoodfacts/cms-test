@@ -1,6 +1,6 @@
 ---
-title: "{{< fa bookmark size=2x >}} Labels"
-description: "2 questions"
+title: "{{< fa bookmark size=2x >}} Märkningar"
+description: "2 frågor"
 lang: en-gb
 order: 23
 category-level: 0
@@ -9,15 +9,15 @@ icon: bookmark
 
 {{< fa "bookmark" size=3x >}}
 
-## As a label, is it important to create an account ?
+## Behöver den som ansvarar för en märkning skapa ett konto?
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Eftersom du som ansvarig för en märkning inte själv tillverkar produkterna behöver du inget producentkonto.
 
 ---
 
-## I am a label, how can I participate in the project?
+## Jag ansvarar för en märkning. Hur kan jag delta i projektet?
 
-As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Det viktigaste du som ansvarig för en märkning kan göra är att kontakta oss **(producers@openfoodfacts.org)** och skicka en lista över produkterna som bär märkningen, så att vi kan lägga till den på de berörda produktsidorna.
 
 ---
 
