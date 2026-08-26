@@ -1,52 +1,52 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile app"
+title: "{{< fa mobile size=2x >}} Mobilapp"
 description: "4 frågor"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobil
+icon: mobile
 ---
 
-{{< fa "mobil" size=3x >}}
+{{< fa "mobile" size=3x >}}
 
-## How do I know which version of the app I'm using?
+## Hur vet jag vilken version av appen jag använder?
 
-Go to **Profile**,
-then **FAQ**, then **About this app.**
+Gå till **Profil**,
+därefter **FAQ**, sedan **Om denna app.**
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
-
----
-
-## The app does not scan
-
-This may be due to
-
-- a network problem
-
-- a permissions problem
-
-- a barcode problem
-
-Send us an email via Profile >> Contact Us >> Send us an email.
-
-All relevant information should be attached to your request.
+Du bör
+se ett versionsnummer som 3.4.5+662. Glöm inte att uppge telefonens märke och modell
+om det gäller felsökning.
 
 ---
 
-## How can I help with improving the mobile app ?
+## Appen skannar inte
 
-How can I help with improving the mobile app ?
+Detta kan bero på
 
-You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+- ett nätverksproblem
+
+- ett problem med behörigheter
+
+- ett problem med streckkoden
+
+Skicka oss ett e-postmeddelande via Profil >> Kontakta oss >> Skicka oss ett e-postmeddelande.
+
+Alla relevanta uppgifter ska bifogas ditt ärende.
 
 ---
 
-## Where can I send feedback about the app ?
+## Hur kan jag hjälpa till med att förbättra mobilappen?
 
-You can send feedback to mobile@openfoodfacts.org
+Hur kan jag hjälpa till med att förbättra mobilappen?
+
+Du kan [göra det i mobilappens kodförråd](https://github.com/openfoodfacts/smooth-app)
+
+---
+
+## Var kan jag skicka feedback om appen?
+
+Du kan skicka feedback till mobile@openfoodfacts.org
 
 ---
 
