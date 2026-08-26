@@ -1,6 +1,6 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
-description: "1 subcategory"
+title: "{{< fa graduation-cap size=2x >}} Forskare/akademiker"
+description: "1 underkategori"
 lang: en-gb
 order: 25
 category-level: 0
@@ -13,7 +13,7 @@ listing:
   type: grid
   grid-columns: 4
   sort: "order"
-  fields: [ titel, beskrivning ]
+  fields: [ title, beskrivning ]
   page-size: 100
 ---
 
