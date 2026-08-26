@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - English"
+title: "Vanliga frågor – engelska"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
@@ -13,7 +13,7 @@ listing:
   type: grid
   grid-columns: 4
   sort: "order"
-  fields: [ titel, beskrivning ]
+  fields: [ title, beskrivning ]
   page-size: 100
 
 # << DO NOT TRANSLATE
