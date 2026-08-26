@@ -1,6 +1,6 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Questions about a product"
-description: "1 question"
+title: "{{< fa shopping-basket size=2x >}} Frågor om en produkt"
+description: "1 fråga"
 lang: en-gb
 order: 4
 category-level: 0
@@ -9,15 +9,15 @@ icon: shopping-basket
 
 {{< fa "shopping-basket" size=3x >}}
 
-## I have a question / claim about a product
+## Jag har en fråga eller ett påstående om en produkt
 
-[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
+[https://world.openfoodfacts.org](https://world.openfoodfacts.org/) är en gemensamt skapad webbplats där konsumenter bidrar med data för att kunna tolka märkningar och jämföra produkter.
 
-For more information about a product or a claim, write to the manufacturer. We do not have contact information for manufacturers but they are most often on the packaging.
+För mer information om en produkt eller ett påstående, kontakta tillverkaren. Vi har inga kontaktuppgifter till tillverkarna, men de finns oftast på förpackningen.
 
-If you want to help us bring more transparency to consumers like you or us, you can use our iPhone or Android app to add products: [https://openfoodfacts.app](https://openfoodfacts.app/)
+Om du vill hjälpa oss att ge konsumenter som du och vi större insyn kan du använda vår iPhone- eller Android-app för att lägga till produkter: [https://openfoodfacts.app](https://openfoodfacts.app/)
 
-And to discuss about the project, you can join the Facebook group of contributors: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) or chat with the other contributors on Slack:
+Om du vill diskutera projektet kan du gå med i Facebook-gruppen för medverkande: [https://www.facebook.com/groups/openfoodfacts/](https://www.facebook.com/groups/openfoodfacts/) eller chatta med andra medverkande på Slack:
 
 [https://slack.openfoodfacts.org](https://slack.openfoodfacts.org/)
 
