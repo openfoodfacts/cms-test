@@ -1,6 +1,6 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Data download"
-description: "1 question"
+title: "{{< fa cloud-download size=2x >}} Nedladdning av data"
+description: "1 fråga"
 lang: en-gb
 order: 7
 category-level: 0
@@ -9,13 +9,13 @@ icon: cloud-download
 
 {{< fa "cloud-download" size=3x >}}
 
-## Where to get the data for a specific country?
+## Var får man tag på data för ett specifikt land?
 
-Currently, there are no exports dedicated to specific countries.
+För närvarande finns inga exporter som är särskilt avsedda för enskilda länder.
 
-There are many ways to use our different exports combined with different tools to select the data related to a specific country.
+Du kan kombinera våra olika exporter med olika verktyg på många sätt för att välja ut data som rör ett visst land.
 
-You can have a look at [some of this techniques on our wiki](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
+På vår wiki kan du läsa om [några av dessa metoder](https://wiki.openfoodfacts.org/Reusing_Open_Food_Facts_Data).
 
 ---
 
