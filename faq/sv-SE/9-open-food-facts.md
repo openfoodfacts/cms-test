@@ -9,113 +9,113 @@ icon: question-circle
 
 {{< fa "question-circle" size=3x >}}
 
-## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
+## Vilken är skillnaden jämfört med andra webbplatser, tjänster och mobilappar där man redan kan se information om livsmedelsprodukter?
 
-The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
+Den främsta skillnaden är för oss avgörande: vår data är fritt tillgänglig för alla och för alla användningsområden. Det kallas öppna data.
 
-Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
+Nästan alla andra webbplatser, tjänster och appar förbjuder andra att kopiera och återanvända sina data. Tvärtom håller de den noggrant för sig själva. I nästan samtliga fall förbjuder användningsvillkoren uttryckligen all icke-personlig användning och all extrahering av hela eller delar av datamängden.
 
-We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
+Vi anser att information om livsmedelsprodukter är för viktig och användbar för att hållas inlåst i ett kassaskåp. När vi startade Open Food Facts-projektet och mobilappen 2012 bestämde vi oss därför för raka motsatsen: vi tillåter inte bara alla att fritt och kostnadsfritt använda och vidareutnyttja vår databas för alla ändamål (även kommersiella), utan uppmuntrar det också!
 
-Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
-
----
-
-## What is Open Food Facts' economic model
-
-Bidragsgivare är volontärer. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
-
-Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
-
-We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+Genom att göra data offentligt tillgängliga (så kallade _öppna data_) kan privatpersoner, föreningar, företag, forskare med flera från hela världen tänka ut och utveckla användningsområden för dessa data som vi själva aldrig skulle ha kommit på.
 
 ---
 
-## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
+## Vad är Open Food Facts ekonomiska modell
 
-Antagligen inte. Almost all other sites forbid reproduction and reuse of their data and images, and that is actually the reason why we have created Open Food Facts: to make all this data available to all and for all uses.
+Bidragsgivare är volontärer. Deras bidrag samlas i en öppen databas som kan användas av alla och för alla användningsområden. (se [villkoren för återanvändning](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-To avoid any legal problem, we therefore ask contributors to only add pictures that they took themselves, and only data that is coming from the product packaging and label.
+Alla (däribland medverkande och skapare av Open Food Facts) kan därför vidaredistribuera och/eller återanvända data för att skapa webbplatser, tjänster, programvara och mobilappar eller för att skriva artiklar och studier. De får göra resultatet fritt tillgängligt eller sälja eller tjäna pengar på det (t.ex. genom annonser), så länge de följer återanvändningsvillkoren.
 
----
-
-## How can I contact the Open Food Facts team, ask questions or make suggestions?
-
-You can ask questions or make suggestions on theforumor contact us by e-mail:contact@openfoodfacts.org
-
-If you are a producer, please email us at [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
-
-If you are a journalist, please email us at [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
-
-Please note: [Open Food Facts is a collaborative database of food products](https://world.openfoodfacts.org/discover), we do not sell any product and we do not have links to their producers. For a question or complain about a product, you need to write directly to the producer (address on the product label).
+Vi är dessutom helt oberoende av livsmedelsindustrin, och alla tjänster och all programvara vi utvecklar är kostnadsfria. Vår plattform för producenter är helt gratis, och vi är extra glada över det eftersom vi tror att den kan hjälpa dem att förbättra sina produkter.
 
 ---
 
-## Is the information and data on products verified?
+## Kan jag lägga till produktbilder eller data från tillverkarens webbplats, e-handelswebbplatser eller andra webbplatser?
 
-The information and data is submited by the Open Food Facts contributors. The contributors also send pictures of the product, its labels, ingredients lists and nutrition facts table. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+Antagligen inte. Nästan alla andra webbplatser förbjuder att deras data och bilder kopieras och återanvänds. Det är faktiskt därför vi skapade Open Food Facts: för att göra alla dessa data tillgängliga för alla och för alla ändamål.
 
-To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
-
-Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
+För att undvika eventuella juridiska problem ber vi därför medverkande att endast lägga till bilder som de tagit själva, och endast data som kommer från produktförpackningen och etiketten.
 
 ---
 
-## I am a food product manufacturer, can I add my own products?
+## Hur kan jag kontakta teamet bakom Open Food Facts, ställa frågor eller komma med förslag?
 
-Ja! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+Du kan ställa frågor eller komma med förslag på forumet eller kontakta oss via e-post: contact@openfoodfacts.org
 
-We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+Om du är producent kan du mejla oss på [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org).
+
+Om du är journalist kan du mejla oss på [presse@openfoodfacts.org](mailto:presse@openfoodfacts.org).
+
+Observera: [Open Food Facts är en samarbetsbaserad databas över livsmedelsprodukter](https://world.openfoodfacts.org/discover), vi säljer inga produkter och har inga kopplingar till deras producenter. För frågor eller klagomål om en produkt måste du skriva direkt till tillverkaren (adressen finns på produktens etikett).
 
 ---
 
-## Who uses Open Food Facts data?
+## Är informationen och uppgifterna om produkterna verifierade?
 
-It would
-take too long to list all the organizations that rely on the Open Food Facts
-platform.
+Informationen och uppgifterna skickas in av personer som bidrar till Open Food Facts. Medverkande skickar också in bilder på produkten, dess etiketter, ingredienslistor och näringsdeklaration. Vid tveksamheter kan besökarna på så sätt själva kontrollera att uppgifterna stämmer och rätta eventuella fel direkt.
 
-- More than 100 mobile applications
-  address the needs of many audiences: diabetes (VeryDiab), allergies, food
-  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
-  database also allowed the creation of Yuka.
-- Lots of websites: CombienDeSucres.fr,
+För att lättare upptäcka potentiella fel kommer vi successivt att lägga till automatiserade kontroller. t.ex. om en produkts näringsvärden skiljer sig mycket från näringsvärdena hos produkter i samma kategori kan det vara ett fel. Om näringsämnena summerar till mer än 100 % är det definitivt ett fel.
+
+Slutligen skickar många producenter foton och data om sina produkter via vår plattform för producenter. Om du är producent får du gärna [kontakta oss](mailto:producers@openfoodfacts.org)
+
+---
+
+## Jag är livsmedelstillverkare. Kan jag lägga till mina egna produkter?
+
+Ja! Det enda villkoret är att acceptera att datan och bilderna görs tillgängliga under en öppen licens. (se [villkoren för medverkan](https://en.openfoodfacts.org/terms-of-use#contribution))
+
+Vi har utvecklat en gratis plattform där du enkelt kan importera foton och data om dina produkter, oavsett storlek. Med den kan du importera fullständiga och aktuella data samt visuellt material till Open Food Facts, som blir synliga i fler än 100 andra appar med näringsinformation. Dessutom ger plattformen förslag på hur du kan förbättra dina produkters Nutri-Score. Kontakta oss för att diskutera hur vi kan gå vidare: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+
+---
+
+## Vem använder Open Food Facts-data?
+
+Det skulle
+ta för lång tid att lista alla organisationer som förlitar sig på Open Food Facts-
+plattformen.
+
+- Mer än 100 mobilappar
+  tillgodoser behoven hos många målgrupper: diabetes (VeryDiab), allergier, balanserad kost
+  med hjälp av artificiell intelligens (FoodVisor), funktionsnedsättningar med mera. Vår
+  databas möjliggjorde också skapandet av Yuka.
+- Många webbplatser: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
-- Data-journalists : Les Décodeurs du Monde, BFM
+- Datajournalister: Les Décodeurs du Monde, BFM
   TV
-- Researchers in nearly 100 scientific
-  articles
-- Food banks and solidarity stores: a
-  Data For Good project in the continuity of a pilot project initiated by the
-  French Red Cross, integration in the cash management of a small food
-  cooperative.
-- Companies: Terraillon uses our data
-  to give life to its connected scales.
-- Programming schools (Simplon, Open
-  Classrooms) have integrated Open Food Facts as a motivating project in their
-  curriculum.
+- Forskare i nästan 100 vetenskapliga
+  artiklar
+- Matbanker och solidaritetsbutiker: ett
+  Data For Good-projekt som bygger vidare på ett pilotprojekt som initierades av
+  Franska Röda Korset, med integrering i kassasystemet hos ett litet
+  livsmedelskooperativ.
+- Företag: Terraillon använder våra data
+  för att väcka sina uppkopplade vågar till liv.
+- Programmeringsskolor (Simplon, Open
+  Classrooms) har införlivat Open Food Facts som ett motiverande projekt i sina
+  kursplaner.
 
 ---
 
-## How can I support Open Food Facts?
+## Hur kan jag stödja Open Food Facts?
 
 Open Food
-Facts is a 1901 non-profit association. You can help us by [participating in the project](https://fr-en.openfoodfacts.org/contribute) and by supporting us financially with your [donations](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
-(66% deductible) and also by using the Lilo
-search engine.
+Facts är en ideell förening enligt 1901 års lag. Du kan hjälpa oss genom att [delta i projektet](https://fr-en.openfoodfacts.org/contribute) och genom att stödja oss ekonomiskt med [donationer](https://www.helloasso.com/associations/open-food-facts/collectes/aidez-open-food-facts-a-ameliorer-l-alimentation-de-tous)
+(66 % är avdragsgillt) samt genom att använda Lilos
+sökmotor.
 
-**Thank
-you very much!**
+**Tack
+så mycket!**
 
 ---
 
-## I can't find the answer to my question
+## Jag kan inte hitta svaret på min fråga
 
-If you can't find an answer to your question(s), don't hesitate to contact us via:
+Om du inte hittar ett svar på dina frågor, tveka inte att kontakta oss via:
 
-- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- Vår Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- Vårt forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
