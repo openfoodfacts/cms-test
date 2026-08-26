@@ -4,28 +4,28 @@ description: "3 frågor"
 lang: en-gb
 order: 8
 category-level: 0
-icon: hjärtslag
+icon: heartbeat
 ---
 
-{{< fa "hjärtslag" size=3x >}}
+{{< fa "heartbeat" size=3x >}}
 
-## What should I do if the Nutri-Score of my products is not correct?
+## Vad ska jag göra om Nutri-Score för mina produkter inte är korrekt?
 
-In the event of a problem with your Nutri-Score, check that your information is correct on the “modify” tab of your product sheet. If any information is missing or incorrect, do not hesitate to contact us at\*\* producers@openfoodfacts.org\*\*
-
----
-
-## What type of information should I provide so that the Nutri-Score is calculated as accurately as possible?
-
-The calculation of the Nutri-Score will be done with the nutritional table of your product.
-
-Don't forget to include the percentage of fruits, vegetables and nuts in your table, so that the calculated Nutri-Score is not incorrect.
+Om Nutri-Score verkar fel ska du kontrollera att uppgifterna är korrekta på fliken ”ändra” på produktsidan. Om någon uppgift saknas eller är felaktig får du gärna kontakta oss på\*\* producers@openfoodfacts.org\*\*
 
 ---
 
-## Where does the Nutri-Score come from ?
+## Vilka uppgifter ska jag ange för att Nutri-Score ska beräknas så exakt som möjligt?
 
-The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
+Nutri-Score beräknas utifrån produktens näringsdeklaration.
+
+Glöm inte att ange andelen frukt, grönsaker och nötter i näringsdeklarationen, så att det beräknade Nutri-Score inte blir felaktigt.
+
+---
+
+## Varifrån kommer Nutri-Score?
+
+Nutri-Score förvaltas av Santé Publique France. Det sammanfattar tabellen med näringsvärden så att alla kan förstå den. Målet är att ge alla tillgång till tydlig och begriplig näringsinformation.
 
 ---
 
