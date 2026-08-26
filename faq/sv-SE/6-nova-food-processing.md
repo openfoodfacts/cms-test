@@ -1,6 +1,6 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / Food processing"
-description: "1 question"
+title: "{{< fa flask size=2x >}} NOVA/livsmedelsbearbetning"
+description: "1 fråga"
 lang: en-gb
 order: 6
 category-level: 0
