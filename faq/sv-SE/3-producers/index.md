@@ -1,10 +1,10 @@
 ---
-title: "{{< fa industry size=2x >}} Producers"
+title: "{{< fa industry size=2x >}} Producenter"
 description: "6 underkategorier"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industri
+icon: industry
 listing:
   contents:
     - "*.md"
@@ -13,9 +13,9 @@ listing:
   type: grid
   grid-columns: 4
   sort: "order"
-  fields: [ titel, beskrivning ]
+  fields: [ title, beskrivning ]
   page-size: 100
 ---
 
-{{< fa "industri" size=3x >}}
+{{< fa "industry" size=3x >}}
 
