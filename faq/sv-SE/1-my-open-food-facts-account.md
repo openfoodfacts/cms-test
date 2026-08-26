@@ -1,6 +1,6 @@
 ---
-title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
-description: "2 questions"
+title: "{{< fa user-circle size=2x >}} Mitt Open Food Facts-konto"
+description: "2 frågor"
 lang: en-gb
 order: 1
 category-level: 0
@@ -9,19 +9,19 @@ icon: user-circle
 
 {{< fa "user-circle" size=3x >}}
 
-## I want to delete my account
+## Jag vill radera mitt konto
 
-Account deletion now happens directly in your preferences.
+Radering av konto sker nu direkt i dina inställningar.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+När du har loggat in på [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), klickar du på användarnamnet uppe till höger och väljer Kontoinställningar. Då öppnas sidan med dina inställningar. Gå längst ned på sidan och använd åtgärden "radera användare".
 
-If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
+Om du inte kan logga in (eller återställa ditt lösenord), kontakta dpo - at - [openfoodfacts.org](http://openfoodfacts.org) och använd den e-postadress som du använde när du registrerade kontot.
 
 ---
 
-## How do I change my username?
+## Hur ändrar jag mitt användarnamn?
 
-Unfortunately, it's not possible. If you really want to change, you have to delete your account and create a new one.
+Tyvärr är det inte möjligt. Om du verkligen vill ändra användarnamnet måste du radera kontot och skapa ett nytt.
 
 ---
 
