@@ -9,23 +9,23 @@ icon: dollar
 
 {{< fa "dollar" size=3x >}}
 
-## I’m a retailer and I want to contribute prices. How can I do that?
+## Jag är en återförsäljare och vill bidra med priser. Hur gör jag det?
 
-You can contribute prices by using [our API](https://prices.openfoodfacts.org/api/docs). If you want to contribute prices at scale, please get in touch with us at [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
-
----
-
-## Do you consider scraping prices from retailers’ websites?
-
-For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
-
-Prisskrapning är ett övervägt alternativ i en framtida version av Open Prices, men det skulle göras av Open Prices själva så att vi kan ha ett bevis på priset baserat på HTML-sidan.
+Du kan bidra med prisuppgifter via [vårt API](https://prices.openfoodfacts.org/api/docs). Om du vill bidra med prisuppgifter i stor skala, kontakta oss på [contact@openfoodfacts.org](mailto:contact@openfoodfacts.org).
 
 ---
 
-## Why is Open Food Facts doing this (Open Prices)?
+## Överväger ni att skrapa priser från återförsäljarnas webbplatser?
 
-Price information is of paramount importance to understand food systems. It’s a key factor in understanding the cost of food and to promote healthier diets. Opening price data is a way to make it easier for researchers, journalists, and citizens to have a better understanding of how food prices vary geographically and in time.
+Av juridiska och tekniska skäl anser vi inte att skrapning av priser från återförsäljarnas webbplatser är ett giltigt sätt att bidra till Open Prices. Vi vill säkerställa att priserna vi samlar in är korrekta och aktuella, vilket vi inte kan göra när medverkande skickar in skrapade priser.
+
+Prisskrapning är ett alternativ som övervägs för en framtida version av Open Prices, men den skulle i så fall utföras av Open Prices självt så att vi kan få ett prisunderlag baserat på HTML-sidan.
+
+---
+
+## Varför gör Open Food Facts detta (Open Prices)?
+
+Prisinformation är av yttersta vikt för att förstå livsmedelssystem. Det är en nyckelfaktor i att förstå livsmedelskostnader och främja hälsosammare kosthållning. Genom att göra prisdata öppna blir det lättare för forskare, journalister och medborgare att bättre förstå hur livsmedelspriser varierar geografiskt och över tid.
 
 ---
 
