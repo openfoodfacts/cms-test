@@ -1,6 +1,6 @@
 ---
-title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
-description: "1 question"
+title: "{{< fa chart-bar size=2x >}} Analys av produktportföljen (jämförelse, förbättringar ...)"
+description: "1 fråga"
 lang: en-gb
 order: 22
 category-level: 1
@@ -9,17 +9,17 @@ icon: chart-bar
 
 {{< fa "chart-bar" size=3x >}}
 
-## How to access the reformulation recommandation to improve the Nutri-Score of my products?
+## Hur får jag tillgång till rekommendationer om omformulering för att förbättra mina produkters Nutri-Score?
 
-When you are on the home page of the Producers Platform:
+När du är på Pro-plattformens startsida:
 
-1. click on the link "→ Number of products with improvement opportunities" at the top of the page.
+1. klicka på länken "→ Antal produkter med förbättringsmöjligheter" högst upp på sidan.
 
-2. you can consult all the opportunities detected by our system to improve your products
+2. kan du se alla förbättringsmöjligheter för dina produkter som vårt system har identifierat
 
-3. clicking on a type of opportunity will lead you to the list of products that are subject to improvement.
+3. om du klickar på en typ av förbättringsmöjlighet visas en lista över de produkter som kan förbättras.
 
-→ For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
+→ För mer information kan du ladda ner vår [användarhandbok](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) och/eller se våra [instruktionsvideor](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
 ---
 
