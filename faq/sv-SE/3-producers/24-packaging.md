@@ -1,49 +1,49 @@
 ---
-title: "{{< fa cube size=2x >}} Packaging"
+title: "{{< fa cube size=2x >}} Förpackning"
 description: "3 frågor"
 lang: en-gb
 order: 24
 category-level: 1
-icon: kub
+icon: cube
 ---
 
-{{< fa "kub" size=3x >}}
+{{< fa "cube" size=3x >}}
 
-## How can I add my packaging data to Open Food Facts?
+## Hur kan jag lägga till mina förpackningsdata i Open Food Facts?
 
-As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
+Som producent lägger du effektivast till förpackningsdata för dina produkter genom att fylla i nödvändig information i detta [Excel-kalkylblad](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) med början i kolumn "AU".
 
-For each packaging component, you will need to enter:
+För varje förpackningskomponent behöver du ange:
 
-- The number of units (ex: **4** pots of yogurts)
+- Antalet enheter (t.ex. **4** yoghurtburkar)
 
-- The shape (ex: **pot, lid, box, etc**)
+- Formen (t.ex. **burk, lock, låda osv.**)
 
-- The material (ex: **PET, paper, glass, etc**)
+- Materialet (t.ex. **PET, papper, glas osv.**)
 
-- The recycling instruction (ex: **to recycle, to discard, etc**)
+- Sorteringsanvisningen (t.ex. **återvinn, kasta osv.**)
 
-- The weight of one empty unit (in gr)
+- Vikten på en tom enhet (i gram)
 
-- The net quantity of product contained per unit
+- Nettomängden produkt per enhet
 
-This spreadsheet can then be imported into our platform dedicated to professionals.
-
----
-
-## What is the Tackling Food Packaging project?
-
-The "Tackling Food Packaging" project consists of collecting detailed information on the packaging of the most consumed products (shape, material, sorting instructions, weight, capacity).
-
-Based on a participatory science approach, it will rely both on companies agreeing to share their packaging data and to play the game of transparency, and on citizens allowing the collection of information on products. This information will be freely reusable ("open data").
-
-**For more info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+Det här kalkylbladet kan sedan importeras till vår plattform för yrkesverksamma.
 
 ---
 
-## Even after the end of the Tackling Food Packaging project, can I still add my packaging data?
+## Vad är projektet "Tackling Food Packaging"?
 
-Even after the end of the project, it is possible to add packaging data as the packaging fields will remain on our website.
+Projektet "Tackling Food Packaging" går ut på att samla in detaljerad information om förpackningarna för de mest konsumerade produkterna (form, material, sorteringsanvisningar, vikt och kapacitet).
+
+Projektet bygger på medborgarforskning och förlitar sig både på företag som delar sina förpackningsdata och verkar för öppenhet och på medborgare som hjälper till att samla in produktinformation. Dessa uppgifter kommer att vara fritt återanvändbara ("öppna data").
+
+**Mer info:** [https://blog.openfoodfacts.org/en/packaging-projet-producers](https://blog.openfoodfacts.org/en/packaging-projet-producers)
+
+---
+
+## Kan jag fortsätta att lägga till mina förpackningsdata efter att projektet Tackling Food Packaging har avslutats?
+
+Även efter att projektet har avslutats är det möjligt att lägga till förpackningsdata eftersom fälten för förpackning kommer att finnas kvar på vår webbplats.
 
 ---
 
