@@ -19,7 +19,7 @@ You can contribute prices by using [our API](https://prices.openfoodfacts.org/a
 
 For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
-Pengikisan harga merupakan pilihan yang dipertimbangkan dalam versi Harga Terbuka yang akan datang, tetapi ia akan dilakukan oleh Harga Terbuka itu sendiri supaya kita boleh mendapatkan bukti harga berdasarkan halaman HTML.
+Pengikisan harga merupakan pilihan yang dipertimbangkan dalam versi Open Prices yang akan datang, tetapi ia akan dilakukan oleh Open Prices itu sendiri supaya kita boleh mendapatkan bukti harga berdasarkan halaman HTML.
 
 ---
 
