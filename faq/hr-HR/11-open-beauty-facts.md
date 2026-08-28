@@ -3,7 +3,7 @@ title: "{{< fa tags size=2x >}} Open Beauty Facts"
 description: "4 questions"
 lang: en-gb
 order: 11
-category-level: 0
+category-level: nula
 icon: tags
 ---
 
