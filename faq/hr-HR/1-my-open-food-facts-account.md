@@ -3,7 +3,7 @@ title: "{{< fa user-circle size=2x >}} My Open Food Facts account"
 description: "2 questions"
 lang: en-gb
 order: 1
-category-level: 0
+category-level: nula
 icon: user-circle
 ---
 
