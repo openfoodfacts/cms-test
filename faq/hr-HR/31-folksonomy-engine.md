@@ -3,11 +3,11 @@ title: "{{< fa book size=2x >}} Folksonomy Engine"
 description: "1 question"
 lang: en-gb
 order: 31
-category-level: 0
-icon: book
+category-level: nula
+icon: knjiga
 ---
 
-{{< fa "book" size=3x >}}
+{{< fa "knjiga" size=3x >}}
 
 ## What is the Folksonomy Engine ?
 
