@@ -2,8 +2,8 @@
 title: "{{< fa cloud-download size=2x >}} Data download"
 description: "1 question"
 lang: en-gb
-order: 7
-category-level: 0
+order: sedam
+category-level: nula
 icon: cloud-download
 ---
 
