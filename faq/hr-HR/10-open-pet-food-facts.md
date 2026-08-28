@@ -3,7 +3,7 @@ title: "{{< fa paw size=2x >}} Open Pet Food Facts"
 description: "2 questions"
 lang: en-gb
 order: 10
-category-level: 0
+category-level: nula
 icon: paw
 ---
 
