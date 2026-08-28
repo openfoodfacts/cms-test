@@ -3,7 +3,7 @@ title: "{{< fa globe size=2x >}} Improving Open Food Facts in my language/countr
 description: "3 questions"
 lang: en-gb
 order: 15
-category-level: 0
+category-level: nula
 icon: globe
 ---
 
