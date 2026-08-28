@@ -19,7 +19,7 @@ You can contribute prices by using [our API](https://prices.openfoodfacts.org/a
 
 For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
-Açıq Qiymətlərin gələcək versiyasında qiymətlərin hesablanması nəzərdən keçirilən bir seçimdir, lakin HTML səhifəsinə əsaslanan qiymətin sübutuna sahib ola bilməyimiz üçün bu, Açıq Qiymətlərin özü tərəfindən ediləcək.
+Open Prices-in gələcək versiyasında qiymətlərin hesablanması nəzərdən keçirilən bir seçimdir, lakin HTML səhifəsinə əsaslanan qiymətin sübutuna sahib ola bilməyimiz üçün bu, Open Prices-in özü tərəfindən ediləcək.
 
 ---
 
