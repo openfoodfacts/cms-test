@@ -2,8 +2,8 @@
 title: "{{< fa industry size=2x >}} Producers"
 description: "6 subcategories"
 lang: en-gb
-order: 3
-category-level: 0
+order: tri
+category-level: nula
 icon: industry
 listing:
   contents:
@@ -11,9 +11,9 @@ listing:
   include:
     category-level: 1
   type: grid
-  grid-columns: 4
+  grid-columns: četiri
   sort: "order"
-  fields: [ title, description ]
+  fields: [ title, opis ]
   page-size: 100
 ---
 
