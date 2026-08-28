@@ -53,7 +53,7 @@ There is no limit, you can upload the number of products you want on our platfor
 
 ---
 
-## Is it possible to delete products that are no longer sold?
+## Je li moguće izbrisati proizvode koji se više ne prodaju?
 
 If you want to remove a product that is no longer available on the market, you just have to check the box "this product is no longer sold" when you edit your product sheet.
 
@@ -112,10 +112,10 @@ For products without a barcode, on the site or on the producer platform, there i
 
 ---
 
-## Can animal products, non-food products, cosmetics and other products be integrated into Open Food Facts?
+## Mogu li se životinjski proizvodi, neprehrambeni proizvodi, kozmetika i ostali proizvodi integrirati u Open Food Facts?
 
 We have created specific projects for cosmetics, for animal feed, as well as for other products:Open Beauty Facts,Open Pet Food FactsandOpen Products Factsrespectively.
-We are therefore happy to be able to import your products into the project that suits them.
+Stoga smo sretni što možemo uvesti vaše proizvode u projekt koji im najviše odgovara.
 
 ---
 
