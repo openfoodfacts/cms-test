@@ -19,7 +19,7 @@ You can contribute prices by using [our API](https://prices.openfoodfacts.org/a
 
 For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
-Narxlarni qirib tashlash Ochiq narxlarning kelajakdagi versiyasida ko'rib chiqiladigan variant hisoblanadi, ammo bu HTML sahifasiga asoslangan narxning isbotiga ega bo'lishimiz uchun Ochiq narxlarning o'zi tomonidan amalga oshiriladi.
+Narxlarni qirib tashlash Open Pricesning kelajakdagi versiyasida ko'rib chiqiladigan variant hisoblanadi, ammo bu HTML sahifasiga asoslangan narxning isbotiga ega bo'lishimiz uchun Open Pricesning o'zi tomonidan amalga oshiriladi.
 
 ---
 
