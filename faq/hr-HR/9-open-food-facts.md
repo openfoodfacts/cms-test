@@ -2,8 +2,8 @@
 title: "{{< fa question-circle size=2x >}} Open Food Facts"
 description: "9 questions"
 lang: en-gb
-order: 9
-category-level: 0
+order: devet
+category-level: nula
 icon: question-circle
 ---
 
@@ -11,23 +11,23 @@ icon: question-circle
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-The main difference is for us a critical one: our data is freely available to all and for all uses. It's what is called open data.
+Glavna razlika za nas je presudna: naši su podaci slobodno dostupni svima i za sve namjene. To se naziva otvorenim podacima.
 
 Almost all other sites, services and applications forbid others from reproducting and reusing their data. Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-We consider that food products information is too important and useful to keep it locked in a safe. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
+Smatramo da su informacije o prehrambenim proizvodima previše važne i korisne da bi ostale zaključane u sefu. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
 Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
 ---
 
-## What is Open Food Facts' economic model
+## Koji je ekonomski model Open Food Factsa?
 
-Contributors are volunteers. Their contributions are gathered in an open database that can be used by everyone and for all uses. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+Doprinositelji su volonteri. Njihovi doprinosi prikupljeni su u otvorenoj bazi podataka koju svatko može koristiti za sve namjene. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. They are free to make the resulting work freely available, or to sell or monetize it (e.g. with ads), as long as they respect the terms of reuse.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Slobodni su učiniti nastalo djelo slobodno dostupnim, ili ga prodati ili unovčiti (npr. oglasima), sve dok poštuju uvjete ponovne uporabe.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+Također smo strogo neovisni o prehrambenoj industriji, a sve usluge i softver koje razvijamo besplatni su. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -57,15 +57,15 @@ The information and data is submited by the Open Food Facts contributors. The co
 
 To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
-Finally, many producers send us photos and data about their products using our Platform for Producers. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
+Konačno, mnogi proizvođači nam šalju fotografije i podatke o svojim proizvodima koristeći našu Platformu za proizvođače. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## I am a food product manufacturer, can I add my own products?
 
-Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+Da! Jedini uvjet je prihvatiti da podaci i slike budu dostupni pod otvorenom licencom. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-We have developped a free platform to let you easily import photos and data about your products, regardless of your size. It will let you import complete and up-to-date data and visuals into Open Food Facts that will be visible in more than 100 other nutritional apps. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Omogućit će vam uvoz potpunih i ažuriranih podataka i vizuala u Open Food Facts, koji će biti vidljivi u više od 100 drugih aplikacija za prehranu. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
