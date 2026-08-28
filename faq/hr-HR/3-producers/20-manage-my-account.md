@@ -4,10 +4,10 @@ description: "3 questions"
 lang: en-gb
 order: 20
 category-level: 1
-icon: user
+icon: korisnik
 ---
 
-{{< fa "user" size=3x >}}
+{{< fa "korisnik" size=3x >}}
 
 ## Can multiple Open Food Facts accounts be linked to a single company?
 
