@@ -3,7 +3,7 @@ title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
 description: "1 subcategory"
 lang: en-gb
 order: 25
-category-level: 0
+category-level: nula
 icon: graduation-cap
 listing:
   contents:
@@ -11,9 +11,9 @@ listing:
   include:
     category-level: 1
   type: grid
-  grid-columns: 4
+  grid-columns: četiri
   sort: "order"
-  fields: [ title, description ]
+  fields: [ title, opis ]
   page-size: 100
 ---
 
