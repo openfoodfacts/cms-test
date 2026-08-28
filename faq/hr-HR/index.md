@@ -9,11 +9,11 @@ listing:
     - "*.md"
     - "*/index.md"
   include:
-    category-level: 0
+    category-level: nula
   type: grid
-  grid-columns: 4
+  grid-columns: četiri
   sort: "order"
-  fields: [ title, description ]
+  fields: [ title, opis ]
   page-size: 100
 
 # << DO NOT TRANSLATE
