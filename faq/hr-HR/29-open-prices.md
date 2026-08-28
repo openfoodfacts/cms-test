@@ -3,7 +3,7 @@ title: "{{< fa dollar size=2x >}} Open Prices"
 description: "3 questions"
 lang: en-gb
 order: 29
-category-level: 0
+category-level: nula
 icon: dollar
 ---
 
@@ -19,7 +19,7 @@ You can contribute prices by using [our API](https://prices.openfoodfacts.org/a
 
 For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
-Skupljanje podataka o cijenama razmatrana je opcija u budućoj verziji Open Pricesa, ali bi to radio sam Open Prices kako bismo mogli imati dokaz o cijeni na temelju HTML stranice.
+Prikupljanje cijena se razmatra kao opcija u budućoj verziji Open Pricesa, ali bi to radilo sam Open Prices kako bismo mogli dobiti dokaz o cijeni na temelju HTML stranice.
 
 ---
 
