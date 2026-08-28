@@ -19,7 +19,7 @@ You can contribute prices by using [our API](https://prices.openfoodfacts.org/a
 
 For legal and technical reasons, we don’t consider scraping prices from retailers’ websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn’t allow us to do that.
 
-ਓਪਨ ਪ੍ਰਾਈਸ ਦੇ ਭਵਿੱਖ ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਕੀਮਤ ਸਕ੍ਰੈਪਿੰਗ ਇੱਕ ਵਿਚਾਰਯੋਗ ਵਿਕਲਪ ਹੈ, ਪਰ ਇਹ ਓਪਨ ਪ੍ਰਾਈਸ ਦੁਆਰਾ ਖੁਦ ਕੀਤਾ ਜਾਵੇਗਾ ਤਾਂ ਜੋ ਸਾਡੇ ਕੋਲ HTML ਪੰਨੇ ਦੇ ਅਧਾਰ ਤੇ ਕੀਮਤ ਦਾ ਸਬੂਤ ਹੋਵੇ।
+Open Prices ਦੇ ਭਵਿੱਖ ਦੇ ਸੰਸਕਰਣ ਵਿੱਚ ਕੀਮਤ ਸਕ੍ਰੈਪਿੰਗ ਇੱਕ ਵਿਚਾਰਯੋਗ ਵਿਕਲਪ ਹੈ, ਪਰ ਇਹ Open Prices ਦੁਆਰਾ ਖੁਦ ਕੀਤਾ ਜਾਵੇਗਾ ਤਾਂ ਜੋ ਸਾਡੇ ਕੋਲ HTML ਪੰਨੇ ਦੇ ਅਧਾਰ ਤੇ ਕੀਮਤ ਦਾ ਸਬੂਤ ਹੋਵੇ।
 
 ---
 
