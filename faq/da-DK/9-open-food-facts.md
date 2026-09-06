@@ -9,7 +9,7 @@ icon: question-circle
 
 {{< fa "question-circle" size=3x >}}
 
-## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
+## Hvad er forskellen med andre websteder, tjenester og mobile applikationer, der allerede giver mulighed for at se fødevareprodukter information?
 
 Den væsentligste forskel er for os kritisk: Vores data er frit tilgængelige for alle og til alle anvendelsesformål. Det er det, der kaldes åbne data.
 
@@ -31,7 +31,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ---
 
-## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
+## Kan jeg tilføje produkt billeder eller data fra producentens websted, shopping sites eller andre websteder?
 
 Sandsynligvis ikke. Næsten alle andre websteder forbyder reproduktion og brug af deres data og billeder, og det er faktisk grunden til, at vi har skabt Open Food Facts: At gøre alle disse data tilgængelige for alle og til alle anvendelsesformål.
 
@@ -61,7 +61,7 @@ Endelig sender mange fabrikanter fotos og data om deres produkter vha. Platform 
 
 ---
 
-## I am a food product manufacturer, can I add my own products?
+## Jeg er fødevareproducent, kan jeg tilføje mine egne produkter?
 
 Ja! Den eneste betingelse er accepten af, at dataene og fotoene stilles til rådighed under en åben licens. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
