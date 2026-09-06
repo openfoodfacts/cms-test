@@ -1,0 +1,9 @@
+---
+title: "Apa kuwi NOVA?"
+order: 41
+lang: en-gb
+category: 6-nova-pangolahan-pangan
+breadcrumbs: [ '/en-gb/', '/en-gb/6-nova-pangolahan-pangan/' ]
+---
+
+https://world-jv.openfoodfacts.org/nova

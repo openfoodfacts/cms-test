@@ -1,0 +1,23 @@
+---
+# To be translated (strings between quotation marks)
+title: "Vanliga frågor – engelska"
+lang: "en-gb"
+
+# DO NOT TRANSLATE >>
+listing:
+  contents:
+    - "*.md"
+    - "*/index.md"
+  include:
+    category-level: 0
+  type: grid
+  grid-columns: 4
+  sort: "order"
+  fields: [ title, beskrivning ]
+  page-size: 100
+
+# << DO NOT TRANSLATE
+---
+
+# Vanliga frågor (FAQ)
+
