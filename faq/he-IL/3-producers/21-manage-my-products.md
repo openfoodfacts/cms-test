@@ -1,5 +1,5 @@
 ---
-title: "{{< fa box size=2x >}} Manage my products"
+title: "{{< fa box size=2x >}} ניהול המוצרים שלי"
 description: "16 questions"
 lang: en-gb
 order: 21
@@ -17,15 +17,15 @@ icon: box
 
 2. We have set logic rules to identify errors on the product sheets.For example: if the sum of the weight of the ingredients is greater than the total weight of the product, there is an anomaly. We have around 50 others quality checks.
 
-3. Thanks to Machine Learning, we limit the risk of input errors. Our technology allows us to extract textual data from photos taken by contributors
+3. Thanks to Machine Learning, we limit the risk of input errors. הטכנולוגיה שלנו מאפשרת לנו לחלץ נתונים מילוליים מתמונות שמצלמים המתנדבים
 
 4. Thanks to the support of Santé Publique France, we developed a portal allowing producers to upload their mass-produced data and thus correct/complete the community's contributions.
 
 ---
 
-## How to add products?
+## איך להוסיף מוצרים?
 
-To add products to our platform, you first need to decide how you want to proceed. There are 4 options:
+כדי להוסיף מוצרים לפלטפורמה שלנו, ראשית יש להחליט כיצד להמשיך. יש 4 אפשרויות:
 
 - **Manually**: if you have a small number of products, it is still possible to create each product sheet by hand on the Pro Platform.
 
