@@ -1,6 +1,6 @@
 ---
 title: "{{< fa question-circle size=2x >}} Open Food Facts"
-description: "9 questions"
+description: "9 שאלות"
 lang: en-gb
 order: 9
 category-level: 0
@@ -27,7 +27,7 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. כולם רשאים ליצור עבודות בין אם בחינם או לצרכים מסחריים או לייצור רווחים (למשל: עם פרסומות) כל עוד תנאי הגזירה נאכפים.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+אנחנו גם עצמאיים לחלוטין מתעשיית המזון וכל השירותים והתכנה שאנו בונים הם חופשיים. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -69,16 +69,13 @@ We have developped a free platform to let you easily import photos and data abou
 
 ---
 
-## Who uses Open Food Facts data?
+## מי משתמש בנתונים של Open Food Facts?
 
-It would
-take too long to list all the organizations that rely on the Open Food Facts
-platform.
+ייקח זמן רב להציג את כל הארגונים שסומכים על פלטפורמת Open Food Facts.
 
 - More than 100 mobile applications
   address the needs of many audiences: diabetes (VeryDiab), allergies, food
-  balance via artificial intelligence (FoodVisor), disabilities, and more. Our
-  database also allowed the creation of Yuka.
+  balance via artificial intelligence (FoodVisor), disabilities, and more. מסד הנתונים שלנו סיפק את התשתית ליצור את Yuka.
 - Lots of websites: CombienDeSucres.fr,
   CestEmballePresDeChezVous.fr...
 - Data-journalists : Les Décodeurs du Monde, BFM
