@@ -1,5 +1,5 @@
 ---
-title: "{{< fa user size=2x >}} Manage my account"
+title: "ניהול החשבון שלי"
 description: "3 questions"
 lang: en-gb
 order: 20
