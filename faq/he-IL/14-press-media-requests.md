@@ -1,13 +1,13 @@
 ---
 title: "{{< fa newspaper size=2x >}} Press & Media Requests"
-description: "1 question"
+description: "שאלה אחת"
 lang: en-gb
 order: 14
 category-level: 0
-icon: newspaper
+icon: עיתון
 ---
 
-{{< fa "newspaper" size=3x >}}
+{{< fa "עיתון" size=3x >}}
 
 ## How can I get press visuals on Open Food Facts?
 
