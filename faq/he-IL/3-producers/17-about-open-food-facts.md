@@ -1,5 +1,5 @@
 ---
-title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+title: "{{< fa info-circle size=2x >}} על Open Food Facts"
 description: "4 שאלות"
 lang: en-gb
 order: 17
@@ -18,9 +18,9 @@ This makes it possible to establish a complete file, to calculate all the scores
 However we do recommend you prioritize the following fields:
 
 - Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
-- Allergens
+- קטגוריית מוצר (למשל: משקאות, גבינה, יוגורט וכו׳)
+- שם המוצר
+- אלרגנים
 - and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
 
 → For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
