@@ -9,9 +9,9 @@ icon: globe
 
 {{< fa "globe" size=3x >}}
 
-## I would like to add a new logo for labels
+## אני רוצה להוסיף לוגו חדשים לתוויות
 
-Here is the process:
+זה התהליך:
 
 - find the **canonical name** of the label in the [labels' taxonomy](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/taxonomies/labels.txt) (it's the first item in the list of the labels' synonyms, eg. en:100% vegetable)
 -
