@@ -1,6 +1,6 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
-description: "1 subcategory"
+title: "{{< fa graduation-cap size=2x >}} חוקרים/סטודנטים"
+description: "תת־קטגוריה אחת"
 lang: en-gb
 order: 25
 category-level: 0
@@ -10,10 +10,10 @@ listing:
     - "*.md"
   include:
     category-level: 1
-  type: grid
+  type: רשת
   grid-columns: 4
-  sort: "order"
-  fields: [ title, תיאור ]
+  sort: "סדר"
+  fields: [ כותרת, תיאור ]
   page-size: 100
 ---
 
