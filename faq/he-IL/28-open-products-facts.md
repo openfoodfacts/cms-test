@@ -4,10 +4,10 @@ description: "3 questions"
 lang: en-gb
 order: 28
 category-level: 0
-icon: key
+icon: מפתח
 ---
 
-{{< fa "key" size=3x >}}
+{{< fa "מפתח" size=3x >}}
 
 ## How to access Open Products Facts on iPhone ?
 
@@ -15,7 +15,7 @@ Open Products Facts is available within the main Open Food Facts app. This integ
 
 ---
 
-## I would like to support Open Products Facts. What can I do ?
+## I would like to support Open Products Facts. מה אפשר לעשות?
 
 Please read our wiki page, we have listed ways to get involved: [https://wiki.openfoodfacts.org/Open_Products_Facts](https://wiki.openfoodfacts.org/Open_Products_Facts)
 
