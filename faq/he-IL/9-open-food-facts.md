@@ -76,12 +76,11 @@ We have developped a free platform to let you easily import photos and data abou
 - More than 100 mobile applications
   address the needs of many audiences: diabetes (VeryDiab), allergies, food
   balance via artificial intelligence (FoodVisor), disabilities, and more. מסד הנתונים שלנו סיפק את התשתית ליצור את Yuka.
-- Lots of websites: CombienDeSucres.fr,
+- מגוון רחב של אתרים: CombienDeSucres.fr,‏
   CestEmballePresDeChezVous.fr...
-- Data-journalists : Les Décodeurs du Monde, BFM
+- עתונאי נתונים : Les Décodeurs du Monde,‏ BFM
   TV
-- Researchers in nearly 100 scientific
-  articles
+- חוקרים בכמעט 100 מאמרים מדעיים
 - Food banks and solidarity stores: a
   Data For Good project in the continuity of a pilot project initiated by the
   French Red Cross, integration in the cash management of a small food
@@ -106,13 +105,13 @@ you very much!**
 
 ---
 
-## I can't find the answer to my question
+## לא מצאתי תשובה לשאלה שלי
 
-If you can't find an answer to your question(s), don't hesitate to contact us via:
+אם לא מצאת תשובות לשאלות שלך, אפשר ליצור איתנו קשר דרך:
 
-- Our Slack: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
+- ה־Slack שלנו: [https://slack.openfoodfacts.org/](https://slack.openfoodfacts.org/)
 
-- Our forum: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
+- הפורום שלנו: [https://forum.openfoodfacts.org/](https://forum.openfoodfacts.org/)
 
 ---
 
