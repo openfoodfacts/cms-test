@@ -25,7 +25,7 @@ Don't forget to include the percentage of fruits, vegetables and nuts in your ta
 
 ## Where does the Nutri-Score come from ?
 
-The Nutri-Score is managed by Santé Publique France. It summarizes the table of nutritional values ​​so that everyone can understand it. The goal is to provide access to clear and understandable nutritional information for everyone.
+The Nutri-Score is managed by Santé Publique France. מסכם את טבלת הערכים התזונתיים כדי שכולם יוכלו להבין אותה. המטרה היא לספק גישה למידע תזונתי ברור ומובן לכולם.
 
 ---
 
