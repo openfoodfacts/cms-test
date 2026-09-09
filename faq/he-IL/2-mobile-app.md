@@ -1,13 +1,13 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile app"
+title: "{{< fa mobile size=2x >}} היישומון לניידים"
 description: "4 שאלות"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobile
+icon: נייד
 ---
 
-{{< fa "mobile" size=3x >}}
+{{< fa "נייד" size=3x >}}
 
 ## How do I know which version of the app I'm using?
 
@@ -20,33 +20,33 @@ of the phone if it's debugging.
 
 ---
 
-## The app does not scan
+## היישומון לא סורק
 
-This may be due to
+זאת יכולה להיות
 
-- a network problem
+- בעיית רשת
 
-- a permissions problem
+- בעיית הרשאות
 
-- a barcode problem
+- בעיית ברקוד
 
-Send us an email via Profile >> Contact Us >> Send us an email.
+אפשר לשלוח לנו הודעה דרך פרופיל >> יצירת קשר >> לשלוח לנו הודעה בדוא״ל.
 
-All relevant information should be attached to your request.
+יש לצרף את כל הפרטים הנחוצים לבקשה שלך.
 
 ---
 
-## How can I help with improving the mobile app ?
+## איך אפשר לסייע בשיפור היישומון לניידים?
 
-How can I help with improving the mobile app ?
+איך אפשר לסייע בשיפור היישומון לניידים?
 
 You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
 
 ---
 
-## Where can I send feedback about the app ?
+## איפה ניתן לשלוח משוב על היישומון?
 
-You can send feedback to mobile@openfoodfacts.org
+אפשר לשלוח משוב ל־mobile@openfoodfacts.org
 
 ---
 
