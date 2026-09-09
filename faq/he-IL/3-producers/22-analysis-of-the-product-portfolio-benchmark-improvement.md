@@ -1,6 +1,6 @@
 ---
 title: "{{< fa chart-bar size=2x >}} Analysis of the product portfolio (benchmark, improvement...)"
-description: "1 question"
+description: "שאלה אחת"
 lang: en-gb
 order: 22
 category-level: 1
