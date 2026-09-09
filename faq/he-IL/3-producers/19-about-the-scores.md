@@ -1,5 +1,5 @@
 ---
-title: "{{< fa chart-line size=2x >}} About the scores"
+title: "{{< fa chart-line size=2x >}} לגבי הציונים"
 description: "3 questions"
 lang: en-gb
 order: 19
@@ -9,7 +9,7 @@ icon: chart-line
 
 {{< fa "chart-line" size=3x >}}
 
-## Who is responsible for calculating the footprint and/or score?
+## מי אחראי לחישוב טביעת הרגל ו/או הניקוד?
 
 The Nutri-Score, NOVA group and Eco-Score are calculated based on the data present in Open Food Facts. Our algorithms strictly follow the official methodologies of these scores.
 
