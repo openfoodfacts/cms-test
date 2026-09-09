@@ -1,6 +1,6 @@
 ---
-title: "{{< fa cloud-download size=2x >}} Data download"
-description: "1 question"
+title: "{{< fa cloud-download size=2x >}} הורדת נתונים"
+description: "שאלה אחת"
 lang: en-gb
 order: 7
 category-level: 0
@@ -9,9 +9,9 @@ icon: cloud-download
 
 {{< fa "cloud-download" size=3x >}}
 
-## Where to get the data for a specific country?
+## איפה לקבל את הנתונים למדינה מסוימת?
 
-Currently, there are no exports dedicated to specific countries.
+אין כרגע היטלי ייצוא שמייחדים מדינות מסוימות.
 
 There are many ways to use our different exports combined with different tools to select the data related to a specific country.
 
