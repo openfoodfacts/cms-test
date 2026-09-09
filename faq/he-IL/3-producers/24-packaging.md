@@ -1,5 +1,5 @@
 ---
-title: "{{< fa cube size=2x >}} Packaging"
+title: "{{< fa cube size=2x >}} אריזה"
 description: "3 questions"
 lang: en-gb
 order: 24
@@ -9,21 +9,21 @@ icon: cube
 
 {{< fa "cube" size=3x >}}
 
-## How can I add my packaging data to Open Food Facts?
+## איך אפשר להוסיף את נתוני האריזה שלי ל־Open Food Facts?
 
 As a producer, the most efficient way to add packaging data to your products is by filling in this [excel spreadsheet](https://world.pro.openfoodfacts.org/cgi/generate_sample_import_file.pl) the necessary information, from column "AU".
 
 For each packaging component, you will need to enter:
 
-- The number of units (ex: **4** pots of yogurts)
+- מספר היחידות (למשל: **4** גביעי יוגורט)
 
-- The shape (ex: **pot, lid, box, etc**)
+- הצורה (למשל: **כד, מכסה, קופסה ועוד**)
 
-- The material (ex: **PET, paper, glass, etc**)
+- החומר (למשל: **פוליאתילן, נייר, זכוכית ועוד**)
 
-- The recycling instruction (ex: **to recycle, to discard, etc**)
+- הנחיות המיחזור (למשל: **למחזר, להשליך ועוד**)
 
-- The weight of one empty unit (in gr)
+- המשקל של יחידה ריקה אחת (בגרם)
 
 - The net quantity of product contained per unit
 
