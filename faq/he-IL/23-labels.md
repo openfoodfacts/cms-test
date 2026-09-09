@@ -1,5 +1,5 @@
 ---
-title: "{{< fa bookmark size=2x >}} Labels"
+title: "תוויות"
 description: "2 questions"
 lang: en-gb
 order: 23
