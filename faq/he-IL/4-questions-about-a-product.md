@@ -1,6 +1,6 @@
 ---
-title: "{{< fa shopping-basket size=2x >}} Questions about a product"
-description: "1 question"
+title: "{{< fa shopping-basket size=2x >}} שאלות לגבי מוצר"
+description: "שאלה אחת"
 lang: en-gb
 order: 4
 category-level: 0
@@ -9,7 +9,7 @@ icon: shopping-basket
 
 {{< fa "shopping-basket" size=3x >}}
 
-## I have a question / claim about a product
+## יש לי שאלה/דרישה לגבי מוצר
 
 [https://world.openfoodfacts.org](https://world.openfoodfacts.org/) is a collaborative site created and fed by consumers to be able to decipher labels and compare products.
 
