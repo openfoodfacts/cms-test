@@ -4,10 +4,10 @@ description: "3 questions"
 lang: en-gb
 order: 29
 category-level: 0
-icon: dollar
+icon: דולר
 ---
 
-{{< fa "dollar" size=3x >}}
+{{< fa "דולר" size=3x >}}
 
 ## I’m a retailer and I want to contribute prices. How can I do that?
 
