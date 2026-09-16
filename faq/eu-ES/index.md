@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Ohiko galderak
+# Frequently Asked Questions
 
