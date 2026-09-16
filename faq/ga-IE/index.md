@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Ceisteanna Coitianta
+# Frequently Asked Questions
 
