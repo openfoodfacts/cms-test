@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# अक्सर पूछे जाने वाले सवाल
+# Frequently Asked Questions
 
