@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Často kladené otázky
+# Frequently Asked Questions
 
