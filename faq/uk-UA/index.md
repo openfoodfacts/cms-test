@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Часті Питання
+# Frequently Asked Questions
 
