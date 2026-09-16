@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# 常見問答
+# Frequently Asked Questions
 
