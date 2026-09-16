@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Gyakran Ismételt Kérdések
+# Frequently Asked Questions
 
