@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Ofte stillede spørgsmål
+# Frequently Asked Questions
 
