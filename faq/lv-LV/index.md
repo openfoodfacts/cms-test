@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Bieži uzdotie jautājumi
+# Frequently Asked Questions
 
