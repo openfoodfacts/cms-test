@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Συχνές Ερωτήσεις
+# Frequently Asked Questions
 
