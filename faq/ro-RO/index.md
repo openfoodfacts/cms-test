@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Întrebări Frecvente
+# Frequently Asked Questions
 
