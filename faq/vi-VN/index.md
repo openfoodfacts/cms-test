@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Câu hỏi thường gặp
+# Frequently Asked Questions
 
