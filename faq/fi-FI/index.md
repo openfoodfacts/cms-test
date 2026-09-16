@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Usein Kysytyt Kysymykset
+# Frequently Asked Questions
 
