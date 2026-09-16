@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Pertanyaan Umum
+# Frequently Asked Questions
 
