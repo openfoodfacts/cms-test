@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Sıkça Sorulan Sorular
+# Frequently Asked Questions
 
