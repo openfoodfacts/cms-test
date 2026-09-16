@@ -19,5 +19,5 @@ listing:
 # << DO NOT TRANSLATE
 ---
 
-# Foire Aux Questions
+# Frequently Asked Questions
 
