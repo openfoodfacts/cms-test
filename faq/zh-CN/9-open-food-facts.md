@@ -11,7 +11,7 @@ icon: question-circle
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-对我们来说，主要的区别是至关重要的：我们的数据可供所有人免费使用。 这就是所谓的开放数据。
+对我们来说，主要的区别是至关重要的：我们的数据可供所有人免费使用。这就是所谓的开放数据。
 
 几乎所有其他网站、服务和应用程序都禁止他人复制和重用其数据。 Quite to the contrary, they jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
@@ -23,7 +23,7 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ## What is Open Food Facts' economic model
 
-贡献者都是志愿者。 他们的贡献被收集在一个开放的数据库中，每个人都可以使用，并可用于各种用途。 (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+贡献者都是志愿者。他们的贡献被收集在一个开放的数据库中，每个人都可以使用，并可用于各种用途。 (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
 Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. 只要遵循复用条款，他们可以自由提供所产生的作品，或出售或货币化（例如广告）。
 
@@ -33,7 +33,7 @@ We are also strictly independent from the food industry, and all the services an
 
 ## Can I add product pictures or data from the manufacturer's site, shopping sites or other sites?
 
-大概不行。 几乎所有的网站都禁止复制和使用他们的数据和图片，这就是我们为什么建立 Open Food Facts 的原因: 让所有人都可以使用它的数据。
+大概不行。几乎所有的网站都禁止复制和使用他们的数据和图片，这就是我们为什么建立 Open Food Facts 的原因: 让所有人都可以使用它的数据。
 
 因此，为了避免法律问题，我们要求投稿者只添加自己拍摄的图片，只添加来自产品包装和标签的数据。
 
@@ -53,7 +53,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ## Is the information and data on products verified?
 
-The information and data is submited by the Open Food Facts contributors. 投稿者还发送了产品图片、标签、成分列表和营养成分表。 这样一来，访客在有疑问时，可以自行核对，如有错误，可以当场更正。
+The information and data is submited by the Open Food Facts contributors. 投稿者还发送了产品图片、标签、成分列表和营养成分表。这样一来，访客在有疑问时，可以自行核对，如有错误，可以当场更正。
 
 为了更容易发现潜在的错误，我们将逐步增加自动检查。 e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. 如果营养素加起来超过100%，那肯定是错误的。
 
