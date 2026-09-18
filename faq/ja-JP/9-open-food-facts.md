@@ -11,7 +11,7 @@ icon: question-circle
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-私たちにとって、主な違いは重大なものです。 私たちのデータは、すべての人が、あらゆる用途で自由に利用できます。 これがオープンデータと呼ばれるものです
+私たちにとって、主な違いは重大なものです。 私たちのデータは、すべての人が、あらゆる用途で自由に利用できます。これがオープンデータと呼ばれるものです
 
 他のほとんどすべてのサイト、サービス、およびアプリケーションは、他の人がデータを複製および再利用することを禁じています。 Quite to the contrary, the jealously keep it for themselves. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
@@ -23,7 +23,7 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ## What is Open Food Facts' economic model
 
-貢献者はボランティアです。 彼らの貢献は、誰でもあらゆる用途に使用できるオープン データベースに集められます。 (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+貢献者はボランティアです。彼らの貢献は、誰でもあらゆる用途に使用できるオープン データベースに集められます。 (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
 Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. 再利用の条件を尊重する限り、結果として得られた作品を無料で公開したり、販売したり収益化したり（広告など）することも自由です。
 
@@ -63,7 +63,7 @@ The information and data is submited by the Open Food Facts contributors. The co
 
 ## I am a food product manufacturer, can I add my own products?
 
-はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい 唯一の条件は、データと写真がオープンライセンスの下で利用可能になることを受け入れることです。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+はいはい はい はい はい はい はい はい はい はい はい はい はい はい はい はい はい 唯一の条件は、データと写真がオープンライセンスの下で利用可能になることを受け入れることです。 (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
 We have developped a free platform to let you easily import photos and data about your products, regardless of your size. これにより、完全かつ最新のデータとビジュアルを Open Food Facts にインポートし、100 を超える他の栄養アプリで表示できるようになります。 Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
