@@ -10,10 +10,10 @@ listing:
     - "*.md"
   include:
     category-level: 1
-  type: grid
+  type: сітка
   grid-columns: 4
-  sort: "order"
-  fields: [ title, опис ]
+  sort: "замовлення"
+  fields: [ заголовок, опис ]
   page-size: 100
 ---
 
