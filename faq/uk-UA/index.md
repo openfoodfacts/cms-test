@@ -1,6 +1,6 @@
 ---
 # To be translated (strings between quotation marks)
-title: "FAQ - English"
+title: "FAQ - Англійська"
 lang: "en-gb"
 
 # DO NOT TRANSLATE >>
