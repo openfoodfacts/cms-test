@@ -1,15 +1,15 @@
 ---
-title: "{{< fa flask size=2x >}} NOVA / Food processing"
+title: "{{< fa flask size=2x >}} NOVA / Харчова промисловість"
 description: "1 question"
 lang: en-gb
 order: 6
 category-level: 0
-icon: flask
+icon: колба
 ---
 
-{{< fa "flask" size=3x >}}
+{{< fa "колба" size=3x >}}
 
-## What is NOVA ?
+## Що таке NOVA?
 
 [https://world.openfoodfacts.org/nova](https://fr.openfoodfacts.org/nova)
 
