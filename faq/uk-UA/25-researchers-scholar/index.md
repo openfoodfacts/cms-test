@@ -1,21 +1,21 @@
 ---
-title: "{{< fa graduation-cap size=2x >}} Researchers/Scholar"
-description: "1 subcategory"
+title: "{{< fa graduation-cap size=2x >}} Дослідники/Вчені"
+description: "1 підкатегорія"
 lang: en-gb
 order: 25
 category-level: 0
-icon: graduation-cap
+icon: випускний ковпак
 listing:
   contents:
     - "*.md"
   include:
     category-level: 1
-  type: grid
+  type: сітка
   grid-columns: 4
-  sort: "order"
-  fields: [ title, опис ]
+  sort: "замовлення"
+  fields: [ заголовок, опис ]
   page-size: 100
 ---
 
-{{< fa "graduation-cap" size=3x >}}
+{{< fa "випускний ковпак" size=3x >}}
 
