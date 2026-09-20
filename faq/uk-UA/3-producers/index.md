@@ -1,10 +1,10 @@
 ---
-title: "{{< fa industry size=2x >}} Producers"
-description: "6 subcategories"
+title: "{{< fa industry size=2x >}} Виробники"
+description: "6 підкатегорій"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industry
+icon: промисловість
 listing:
   contents:
     - "*.md"
@@ -17,5 +17,5 @@ listing:
   page-size: 100
 ---
 
-{{< fa "industry" size=3x >}}
+{{< fa "промисловість" size=3x >}}
 
