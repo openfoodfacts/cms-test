@@ -10,14 +10,14 @@ listing:
     - "*/index.md"
   include:
     category-level: 0
-  type: grid
+  type: сітка
   grid-columns: 4
-  sort: "order"
-  fields: [ title, опис ]
+  sort: "замовлення"
+  fields: [ заголовок, опис ]
   page-size: 100
 
 # << DO NOT TRANSLATE
 ---
 
-# Frequently Asked Questions
+# Найчастіші питання
 
