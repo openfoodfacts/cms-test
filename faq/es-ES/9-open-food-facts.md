@@ -11,11 +11,11 @@ icon: question-circle
 
 ## What is the difference with other web sites, services and mobile applications that already allow to view food products information?
 
-La principal diferencia para nosotros es crítica: nuestros datos son abiertos, a disposición de todos y para cualquier uso. Es lo que se llama datos abiertos.
+Para nosotros, la principal diferencia es crucial: nuestros datos están a libre disposición de cualquiera y para cualquier fin. Esto es lo que llamamos datos abiertos.
 
-Casi todos los demás sitios, servicios y aplicaciones prohíben a otros reproducir y reutilizar sus datos. Además, los guardan celosamente para sí mismos. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
+Casi todos los demás sitios, servicios y aplicaciones prohíben a otros reproducir y reutilizar sus datos. Por el contrario, los celosos se los reservan para sí mismos. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Nosotros consideramos que la información sobre los productos alimenticios es demasiado importante y útil como para mantenerla encerrada en una caja fuerte. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
+Consideramos que la información sobre productos alimentarios es demasiado importante y útil para guardarla en una caja fuerte. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
 Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
@@ -23,11 +23,11 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ## What is Open Food Facts' economic model?
 
-Los colaboradores son voluntarios. Sus contribuciones se recopilan en una base de datos abierta que puede ser utilizada por todos y para todos los usos. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+Los contribuyentes son voluntarios. Sus contribuciones se recogen en una base de datos abierta que cualquiera puede utilizar para cualquier fin. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Son libres de hacer que el trabajo resultante esté libremente disponible, o venderlo o monetizarlo (por ejemplo, con anuncios), siempre que respeten los términos de la reutilización.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Son libres de poner el trabajo resultante a libre disposición, o de venderlo o monetizarlo (por ejemplo, con publicidad), siempre que cumplan las condiciones de reutilización.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+También somos estrictamente independientes de la industria alimentaria, y todos los servicios y programas informáticos que producimos son gratuitos. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
@@ -35,7 +35,7 @@ We are also strictly independent from the food industry, and all the services an
 
 Probablemente no. Casi todos los demás sitios prohíben la reproducción y reutilización de sus datos e imágenes, y esa es en realidad la razón por la que hemos creado Open Food Facts: disponer de todos estos datos a disposición de todos y para todos los usos.
 
-Para evitar cualquier problema legal, pedimos a los colaboradores que solo agreguen las imágenes que tomen ellos mismos, y solo los datos que provienen del envase y la etiqueta del producto.
+Por lo tanto, para evitar cualquier problema legal, pedimos a los contribuyentes que solo agreguen imágenes que hayan tomado ellos mismos y solo datos del empaque y la etiqueta del producto.
 
 ---
 
@@ -53,9 +53,9 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ## Is the information and data on products verified?
 
-The information and data is submited by the Open Food Facts contributors. Los colaboradores también envían imágenes del producto, sus etiquetas, listas de ingredientes y tabla de información nutricional. En caso de duda, los visitantes pueden verificar la precisión por sí mismos, y si hay un error, pueden corregirlo en el acto.
+The information and data is submited by the Open Food Facts contributors. Los colaboradores también envían fotos del producto, sus etiquetas, la lista de ingredientes y la tabla de datos nutricionales. En caso de duda, los visitantes pueden comprobar la exactitud por sí mismos y, si hay un error, pueden corregirlo en el acto.
 
-Para detectar errores potenciales con mayor facilidad, agregaremos controles automáticos progresivamente. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Si los nutrientes suman más de un 100 %, definitivamente es un error.
+Para detectar más fácilmente los posibles errores, iremos añadiendo gradualmente comprobaciones automatizadas. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Si los nutrientes suman más de un 100 %, definitivamente es un error.
 
 Por último, muchos productores nos envían fotos y datos sobre sus productos utilizando nuestra Plataforma de Productores. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
@@ -63,9 +63,9 @@ Por último, muchos productores nos envían fotos y datos sobre sus productos ut
 
 ## I am a food product manufacturer, can I add my own products?
 
-¡Sí! ¡Sí! ¡Sí! ¡Sí! ¡Sí! ¡Sí! ¡Sí! ¡Sí! ¡Sí! La única condición es aceptar que los datos y las imágenes estén disponibles bajo una licencia abierta. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+¡Sí! Sí, la única condición es que acepte que los datos y las imágenes estén disponibles bajo una licencia abierta. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Hemos desarrollado una plataforma gratuita para permitirte importar fácilmente fotografías y datos de sus productos, independientemente de su tamaño. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Podrá importar datos y gráficos completos y actualizados a Open Food Facts. Esta información será visible en más de otras 100 aplicaciones nutricionales. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
