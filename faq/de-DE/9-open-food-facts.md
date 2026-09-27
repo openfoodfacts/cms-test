@@ -11,11 +11,11 @@ icon: question-circle
 
 ## Was ist der Unterschied zu anderen Websites, Diensten und mobilen Anwendungen, die es bereits ermöglichen, Informationen über Lebensmittel anzuzeigen?
 
-Der Hauptunterschied ist für uns ein kritischer: Unsere Daten sind für alle und für alle Anwendungen frei verfügbar. Es ist das, was man unter „offene Daten” versteht.
+Der Hauptunterschied ist für uns ein entscheidender: Unsere Daten sind für alle frei zugänglich und für alle Zwecke nutzbar. Das ist es, was man offene Daten nennt.
 
 Fast alle anderen Websites, Dienste und Anwendungen verbieten es anderen, ihre Daten zu vervielfältigen und weiterzuverwenden. Ganz im Gegenteil, sie behalten es eifersüchtig für sich. In almost all cases, their terms of service explicitly forbid any non-personal use and any extraction of all the data or parts of the data.
 
-Wir sind der Meinung, dass Informationen über Kosmetika zu wichtig und nützlich sind, um sie in einem Panzerschrank zu verstecken. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
+Wir sind der Meinung, dass die Informationen über Lebensmittel zu wichtig und nützlich sind, um sie in einem Safe zu verwahren. So when we started the Open Food Facts project and mobile app, back in 2012, we decided to do exactly the opposite: not only we allow use and reuse of our database, freely and without fee, to everyone and for all uses (including commercial), but we also encourage it!
 
 Making the data publicly available (what is known as _open data_) allows individuals, associations, companies, researchers etc. from all around the world to think up and develop applications for the data that we certainly would never have thought about.
 
@@ -23,19 +23,19 @@ Making the data publicly available (what is known as _open data_) allows indivi
 
 ## Wie sieht das Wirtschaftsmodell von Open Beauty Facts aus
 
-Die Mitwirkenden sind Freiwillige. Ihre Beiträge werden in einer offenen Datenbank gesammelt, die von allen genutzt werden können. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
+Die Mitwirkenden sind Freiwillige. Ihre Beiträge werden in einer offenen Datenbank gesammelt, die von allen und für alle Zwecke genutzt werden kann. (see the [Terms of reuse](https://en.openfoodfacts.org/terms-of-use#reuse))
 
-Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Es steht ihnen frei, das entstandene Werk frei zur Verfügung zu stellen, zu verkaufen oder zu monetarisieren (z.B. mit Anzeigen), sofern sie die Bedingungen der Wiederverwendung einhalten.
+Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. Es steht ihnen frei, das daraus resultierende Werk frei zur Verfügung zu stellen oder es zu verkaufen oder zu vermarkten (z. B. mit Werbung), solange sie die Bedingungen für die Wiederverwendung einhalten.
 
-Wir sind zudem strikt unabhängig von der Lebensmittelindustrie, und alle von uns entwickelten Dienstleistungen und Software sind kostenlos. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+Außerdem sind wir streng unabhängig von der Lebensmittelindustrie, und alle von uns entwickelten Dienste und Software sind kostenlos. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
 ## Ist es erlaubt, Produktfotos oder Daten von der Herstellerseite, Einkaufsseite oder anderen Seiten hinzuzufügen?
 
-Wahrscheinlich nicht. Fast alle anderen Seiten verbieten die Reproduktion und Wiederverwendung ihrer Daten und Bilder, und das ist der eigentliche Grund, warum wir Open Beauty Facts erschaffen haben: um all diese Daten allen und für alle Zwecke zur Verfügung zu stellen.
+Wahrscheinlich nicht. Fast alle anderen Websites verbieten die Vervielfältigung und Wiederverwendung ihrer Daten und Bilder, und das ist tatsächlich der Grund, warum wir Open Food Facts erstellt haben: um all diese Daten für alle und für alle Zwecke verfügbar zu machen.
 
-Um rechtliche Probleme zu vermeiden, bitten wir die Mitwirkenden daher, nur Fotos hinzuzufügen, die sie selbst gemacht haben, und nur Daten, die von der Produktverpackung und dem Etikett stammen.
+Um rechtliche Probleme zu vermeiden, bitten wir die Mitwirkenden daher, nur Bilder hinzuzufügen, die sie selbst aufgenommen haben, und nur Daten von der Produktverpackung und dem Etikett.
 
 ---
 
@@ -53,19 +53,19 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ## Sind die Informationen und Daten zu den Produkten auf Richtigkeit geprüft?
 
-The information and data is submited by the Open Food Facts contributors. Die Mitwirkenden senden außerdem Produktfotos, Etiketten, Listen der Inhaltsstoffe und Gesundheits- und Schönheitsaussagen. Im Zweifelsfall kann der Besucher so die Genauigkeit selbst überprüfen und im Fehlerfall direkt vor Ort korrigieren.
+The information and data is submited by the Open Food Facts contributors. Die Mitwirkenden übermitteln auch Bilder der Produkte, ihre Etiketten, Zutatenlisten und Nährwerttabellen. Im Zweifelsfall können die Besucher so die Richtigkeit selbst überprüfen und im Falle eines Fehlers diesen an Ort und Stelle korrigieren.
 
-Um mögliche Fehler leichter zu erkennen, werden wir nach und nach automatisierte Prüfungen durchführen. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Wenn sich die Nährstoffe zu mehr als 100% addieren, ist es definitiv ein Fehler.
+Um potenzielle Fehler leichter zu erkennen, werden wir nach und nach automatisierte Kontrollen einbauen. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. Wenn sich die Nährwerte zu mehr als 100 % addieren, handelt es sich definitiv um einen Fehler.
 
-Schließlich senden uns viele Produzenten Fotos und Daten über ihre Produkte über unsere Plattform für Produzenten. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
+Schließlich schicken uns viele Hersteller Fotos und Daten über ihre Produkte über unsere Plattform für Hersteller. If you are a producer, please [contact us](mailto:producers@openfoodfacts.org)
 
 ---
 
 ## Ich bin ein Lebensmittelhersteller, darf ich meine eigenen Produkte hinzufügen?
 
-Ja, selbstverständlich! Einzige Bedingung ist, dass die Daten und Bilder unter einer offenen Lizenz zur Verfügung gestellt werden. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+Ja! Die einzige Bedingung ist, dass Sie akzeptieren, dass die Daten und Bilder unter einer offenen Lizenz zur Verfügung gestellt werden. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Wir haben eine kostenlose Plattform entwickelt, mit der Sie ganz einfach Fotos und Daten zu Ihren Produkten importieren können, unabhängig von der Größe Ihres Unternehmens. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. Damit können Sie vollständige und aktuelle Daten und Bilder in Open Food Facts importieren, die dann in mehr als 100 anderen Ernährungs-Apps sichtbar sind. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
