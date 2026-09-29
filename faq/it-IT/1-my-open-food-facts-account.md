@@ -13,7 +13,7 @@ icon: user-circle
 
 Account deletion now happens directly in your preferences.
 
-After login on [https://world.openfoodfacts.org/](https://world.openfoodfacts.org/), click on user name on top right corner, choose Account Parameters. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
+Dopo aver effettuato l'accesso su [https://it.openfoodfacts.org/](https://it.openfoodfacts.org/), clicca sul nome utente nell'angolo in alto a destra e scegli Parametri dell'account. It opens your preferences page. Go to the bottom of the page and use the "delete user" action.
 
 If you are unable to login (or reset your password), please contact dpo - at - [openfoodfacts.org](http://openfoodfacts.org), using the email address you use to register account.
 
