@@ -1,52 +1,51 @@
 ---
-title: "{{< fa mobile size=2x >}} Mobile app"
+title: "{{< fa mobile size=2x >}} 应用程序"
 description: "4 questions"
 lang: en-gb
 order: 2
 category-level: 0
-icon: mobile
+icon: 移动的
 ---
 
-{{< fa "mobile" size=3x >}}
+{{< fa "移动的" size=3x >}}
 
-## How do I know which version of the app I'm using?
+## 如何知道我正在使用的应用程序版本？
 
-Go to **Profile**,
-then **FAQ**, then **About this app.**
+转到**Profile**，
+然后**FAQ**，然后**关于这个应用程序**
 
-You should
-see a version number like 3.4.5+662. Don't forget to tell us the make and model
-of the phone if it's debugging.
-
----
-
-## The app does not scan
-
-This may be due to
-
-- a network problem
-
-- a permissions problem
-
-- a barcode problem
-
-Send us an email via Profile >> Contact Us >> Send us an email.
-
-All relevant information should be attached to your request.
+您应该
+看到一个版本号，比如3.4.5+662。如果正在进行调试，请务必告诉我们手机的品牌和型号。
 
 ---
 
-## How can I help with improving the mobile app ?
+## 该应用程序未扫描
 
-How can I help with improving the mobile app ?
+这可能是因为
 
-You can [do so on the Mobile app repository](https://github.com/openfoodfacts/smooth-app)
+- 网络问题
+
+- 权限问题
+
+- 条形码问题
+
+请通过“个人资料”>>“联系我们”>>“发送电子邮件”的方式给我们发送电子邮件。
+
+请将所有相关信息附在您的申请中。
 
 ---
 
-## Where can I send feedback about the app ?
+## 我如何才能帮助改进这款移动应用程序？
 
-You can send feedback to mobile@openfoodfacts.org
+我如何才能帮助改进这款移动应用程序？
+
+你可以在移动应用程序仓库上[这样做]（https://github.com/openfoodfacts/smooth-app）
+
+---
+
+## 我可以在哪里发送关于该应用程序的反馈意见？
+
+您可以将反馈发送至 mobile@openfoodfacts.org
 
 ---
 
