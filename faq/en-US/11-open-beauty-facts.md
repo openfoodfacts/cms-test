@@ -1,5 +1,5 @@
 ---
-title: "{{< fa tags size=2x >}} Open Beauty Facts"
+title: "C"
 description: "4 questions"
 lang: en-gb
 order: 11
