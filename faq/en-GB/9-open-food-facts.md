@@ -53,7 +53,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ## Is the information and data on products verified?
 
-The information and data is submitted by the Open Food Facts contributors. The contributors also submit product photos and labels, ingredients lists, and health and beauty claims. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
+The information and data is submited by the Open Food Facts contributors. The contributors also submit product photos and labels, ingredients lists, and health and beauty claims. When in doubt, visitors can thus check the accuracy by themselves, and if there is an error, they can correct it on the spot.
 
 To detect potential errors more easily, we will progressively add automated checks. e.g. if the nutrition facts of a product are very different from products of the same category, it may be an error. If the nutriments add up to more than 100%, it's definitely an error.
 
@@ -65,7 +65,7 @@ Finally, many producers send us photos and data about their products using our P
 
 Yes! The only condition is to accept that the data and the pictures be made available under an open licence. (see the [Terms of contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
-We have developed a free platform to let you easily import photos and data about your products, regardless of your size. We have developed a free platform to let you easily import photos and data about your products, regardless of your size. Additionally, the platform provides suggestions to improve the Nutri-score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
+We have developped a free platform to let you easily import photos and data about your products, regardless of your size. We have developed a free platform to let you easily import photos and data about your products, regardless of your size. Additionaly, the platform provides suggestions to improve the Nutri-Score of your products. Contact-us to discuss how we could proceed: [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
 ---
 
