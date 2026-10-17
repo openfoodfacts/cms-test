@@ -15,7 +15,7 @@ The Nutri-Score, NOVA group and Eco-Score are calculated based on the data pres
 
 ---
 
-## What is the difference between the Eco-Score, the Nutri-Score and the NOVA group?
+## What is the difference between the Eco-Score, the Nutri-score and the NOVA group?
 
 The purpose of these indicators is to provide easy-to-understand information for the consumer.
 
@@ -25,9 +25,9 @@ The 3 scores do not deal with the same elements. It is therefore not possible to
 
 ---
 
-## Is it possible to simulate the Eco-Score or Nutri-Score of my products?
+## Is it possible to simulate the Eco-Score or Nutri-score of my products?
 
-By registering on the producers' platform and upload your products' data, you can compute the Nutri-Score and Eco-Score associated with your products.
+By registering on the producers' platform and upload your products' data, you can compute the Nutri-score and Eco-Score associated with your products.
 
 
 
