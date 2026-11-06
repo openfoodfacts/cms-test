@@ -1,5 +1,5 @@
 ---
-title: "{{< fa info-circle size=2x >}} About Open Food Facts"
+title: "{{< fa info-circle size=2x >}} Om Open Food Facts"
 description: "4 questions"
 lang: en-gb
 order: 17
@@ -27,9 +27,9 @@ However we do recommend you prioritize the following fields:
 
 ---
 
-## Can I download Open Food Facts data?
+## Kan jeg downloade data fra Open Food Facts?
 
-You can download all the data available on Open Food Facts. Beware, this requires a lot of disk space, a powerful computer if you want to use a spreadsheet or knowledge of R or Python otherwise.
+Du kan downloade alle tilgængelige data på Open Food Facts. Pas på, dette kræver en masse diskplads, en kraftig computer, hvis du vil bruge et regneark, eller kendskab til R eller Python.
 
 You can also download a subset of the data (your brand for example) thanks to the advanced search.
 
@@ -39,7 +39,7 @@ You can also download a subset of the data (your brand for example) thanks to th
 
 ## Is access to the Pro platform and the import of data free?
 
-Absolutely, and it will be forever.All services provided by Open Food Facts are free of charge.  
+Absolutely, and it will be forever.Alle tjenester leveret af Open Food Facts er gratis.  
 We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
 
 ---
