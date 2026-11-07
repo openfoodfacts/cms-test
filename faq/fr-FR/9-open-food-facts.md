@@ -63,7 +63,7 @@ Enfin, de nombreux producteurs nous envoient des photos et des données sur leur
 
 ## Je suis un fabricant de produits alimentaires, puis-je ajouter mes propres produits ?
 
-Oui ! La seule condition est d'accepter que les données et les images soient disponibles sous licence ouverte. (voir les [Conditions de contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
+Oui&nbsp;! La seule condition est d'accepter que les données et les images soient disponibles sous licence ouverte. (voir les [Conditions de contribution](https://en.openfoodfacts.org/terms-of-use#contribution))
 
 Nous avons développé une plateforme gratuite pour vous permettre d'importer facilement des photos et des données sur vos produits, quelle que soit votre taille. Vous pourrez importer des données et graphiques exhaustifs et à jour dans Open Food Facts. Ces informations seront visibles dans plus de 100 autres applis nutritionnelles. De plus, la plateforme fournit des suggestions pour améliorer le Nutri-Score de vos produits. Contactez-nous pour discuter de la marche à suivre : [producers@openfoodfacts.org](mailto:producers@openfoodfacts.org)
 
