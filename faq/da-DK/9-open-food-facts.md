@@ -27,7 +27,7 @@ Bidragydere er frivillige. Deres bidrag er samlet i en åben database, der kan b
 
 Everyone (including but not limited to Open Food Facts contributors and creators) can thus redistribute and/or reuse the data to build web sites, services, software, mobile applications, or to write articles and studies. De er frit stillet mht. at gøre det resulterende arbejde frit tilgængeligt, sælge eller tjene penge på det (f.eks. via annoncer), så længe de respekterer betingelserne for genbrug.
 
-We are also strictly independent from the food industry, and all the services and software we build are free. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
+Vi er også strengt uafhængige af fødevareindustrien, og alle de tjenester og den software, vi udvikler, er gratis. For example, our Platform for Producers is totally free, and we are all the more pleased with that because we think it might help them improve their products.
 
 ---
 
