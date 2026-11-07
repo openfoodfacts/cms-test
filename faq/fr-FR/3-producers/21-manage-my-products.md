@@ -53,7 +53,7 @@ Il n'y a aucune limite, vous pouvez télécharger le nombre de produits que vous
 
 ---
 
-## Est-il possible de supprimer des produits qui ne sont plus vendus ?
+## Est-il possible de supprimer des produits qui ne sont plus vendus&nbsp;?
 
 Si vous souhaitez supprimer un produit qui n'est plus disponible sur le marché, il vous suffit de cocher la case "ce produit n'est plus commercialisé" lors de l'édition de votre fiche produit.
 
@@ -112,7 +112,7 @@ Pour les produits sans code-barres, sur le site ou sur la plateforme producteur,
 
 ---
 
-## Les produits d'origine animale, les produits non alimentaires, les cosmétiques et d'autres produits peuvent-ils être intégrés dans Open Food Facts ?
+## Les produits d'origine animale, les produits non alimentaires, les cosmétiques et d'autres produits peuvent-ils être intégrés dans Open Food Facts&nbsp;?
 
 Nous avons créé des projets spécifiques pour les cosmétiques, pour l'alimentation animale, ainsi que pour d'autres produits : Open Beauty Facts, Open Pet Food Facts et Open Products Facts respectivement.
 Nous sommes donc heureux de pouvoir importer vos produits dans le projet qui leur convient.
