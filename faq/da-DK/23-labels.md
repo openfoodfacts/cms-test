@@ -1,23 +1,23 @@
 ---
-title: "{{< fa bookmark size=2x >}} Labels"
+title: "{{< fa bookmark size=2x >}} Etiketter"
 description: "2 questions"
 lang: en-gb
 order: 23
 category-level: 0
-icon: bookmark
+icon: bogmærke
 ---
 
-{{< fa "bookmark" size=3x >}}
+{{< fa "bogmærke" size=3x >}}
 
-## As a label, is it important to create an account ?
+## Er det vigtigt at oprette en konto som mærke?
 
-As a label, as you are not the direct producer of the products, you do not need to create a producer’s account.
+Da du som mærke ikke er den direkte producent af produkterne, behøver du ikke at oprette en producentkonto.
 
 ---
 
-## I am a label, how can I participate in the project?
+## Jeg er et mærke, hvordan kan jeg deltage i projektet?
 
-As a label the most relevant thing to do is to contact us **(producers@openfoodfacts.org)** and send us the list of the products on which your label is displayed so that we can add them on the related product sheets.
+Som mærke er det mest relevante at kontakte os **(producers@openfoodfacts.org)** og sende os en liste over de produkter, hvor dit mærke vises, så vi kan tilføje dem på de relaterede produktblade.
 
 ---
 
