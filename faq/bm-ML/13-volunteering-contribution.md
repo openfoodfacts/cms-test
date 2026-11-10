@@ -4,10 +4,10 @@ description: "3 questions"
 lang: en-gb
 order: 13
 category-level: 0
-icon: edit
+icon: ladilan
 ---
 
-{{< fa "edit" size=3x >}}
+{{< fa "ladilan" size=3x >}}
 
 ## Is there a way to remove uploaded images for products?
 
