@@ -1,10 +1,10 @@
 ---
-title: "{{< fa industry size=2x >}} Producers"
-description: "6 subcategories"
+title: "{< حجم الصناعة 2x >}} منتجون"
+description: "6 فئات فرعية"
 lang: en-gb
 order: 3
 category-level: 0
-icon: industry
+icon: صناعة
 listing:
   contents:
     - "*.md"
@@ -17,5 +17,5 @@ listing:
   page-size: 100
 ---
 
-{{< fa "industry" size=3x >}}
+{{< fa "صناعة" size=3x >}}
 
