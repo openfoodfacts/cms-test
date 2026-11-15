@@ -17,7 +17,7 @@ Open Food Facts, is an open database, an open project which is operating under a
 
 ## How can I access/collect data for my projects ?
 
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
+På Open Food Facts' hovedside er der en rullemenu i øverste venstre hjørne af skærmen. Nederst finder du muligheden "avanceret søgning", som du kan klikke på. Det er derefter op til dig at afgøre, hvilke kriterier der er mest relevante for dig. Når du har valgt, kan du downloade de opnåede resultater ved at scrolle ned i bunden af siden og klikke på "Download resultater".
 
 ---
 
