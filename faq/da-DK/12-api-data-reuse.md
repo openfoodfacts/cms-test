@@ -1,25 +1,25 @@
 ---
-title: "{{< fa wrench size=2x >}} API & data reuse"
-description: "6 questions"
+title: "{{< fa wrench size=2x >}} API og datagenbrug"
+description: "6 spørgsmål"
 lang: en-gb
 order: 12
 category-level: 0
-icon: wrench
+icon: skruenøgle
 ---
 
-{{< fa "wrench" size=3x >}}
+{{< fa "skruenøgle" size=3x >}}
 
-## Are there recommendations anywhere in the documentation on what would be a good size for uploaded photos?
+## Er der anbefalinger et sted i dokumentationen til, hvad der ville være en god størrelse til uploadede billeder?
 
-That may depend on countries, if network is slow or expensive. anything above 5000 pixels in weight or height is probably not very useful. and if you can somehow detect that network is slow, then even a 2000 pixels image would be great (certainly better than not having an image!)
+Det kan afhænge af landet, om netværket er langsomt eller dyrt. alt over 5000 pixels i vægt eller højde er sandsynligvis ikke særlig nyttigt. og hvis du på en eller anden måde kan registrere, at netværket er langsomt, så ville selv et billede på 2000 pixels være fantastisk (helt sikkert bedre end ikke at have et billede!).
 
 ---
 
-## What about food without barcodes ?
+## Hvad med fødevarer uden stregkoder?
 
-Open Food Facts contains only information about packaged food. For average values of produce (for example, tomatoes or bananas) and other food products, you can use one of the official national nutrition databases instead.
+Open Food Facts indeholder kun information om emballerede fødevarer. For gennemsnitsværdier af frugt og grønt (f.eks. tomater eller bananer) og andre fødevarer kan du i stedet bruge en af de officielle nationale ernæringsdatabaser.
 
-**Note:** The list below contains some of the most important national food databases. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
+**Bemærk:** Listen herunder indeholder nogle af de vigtigste nationale fødevaredatabaser. If you think some other database should be included in the list, please contact us at: [https://world.openfoodfacts.org/contact](https://world.openfoodfacts.org/contact)
 
 **List of National Food Databases**
 
@@ -41,7 +41,7 @@ Open Food Facts contains only information about packaged food. For average value
 
 -
 
-**Denmark** - Danish Food Composition Databank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
+**Danmark** - Dansk Fødevaredatabank: [https://frida.fooddata.dk/?lang=en](https://frida.fooddata.dk/?lang=en)
 
 -
 
@@ -91,33 +91,33 @@ Open Food Facts contains only information about packaged food. For average value
 
 ---
 
-## Can I search a precise product name with the API?
+## Kan jeg søge efter et præcist produktnavn med API'en?
 
-Unfortunately it's not yet possible to easily search on product name only and precisely through the API.
+Desværre er det endnu ikke muligt nemt at søge udelukkende på produktnavn og præcist via API'en.
 
-Using a filter on category might help you make your search more precise though.
-
----
-
-## How can I access/collect data for my projects?
-
-On Open Food Facts’ main page, at the top left corner of the screen, there’s a scrolling menu. At the bottom of it, you’ll find the “advanced search” option, on which you can click. It is then up to you to determine which criteria are the most relevant to your project(s). Once chosen, you’ll be able to download the obtained results by scrolling down at the bottom of the page and clicking on “Download results”.
-
-You can also consult:
-
-- Our API documentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
-- Open Food Facts' Terms of Use:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
-- On our data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+Brug af et filter på kategori kan dog hjælpe dig med at gøre din søgning mere præcis.
 
 ---
 
-## Are there conditions to use the API?
+## Hvordan kan jeg tilgå og indsamle data til mine projekter?
 
-All the documentation about API usage can be found on the [API documentation page](https://openfoodfacts.github.io/openfoodfacts-server/api/), but here is a quick summary:
+På Open Food Facts' hovedside er der en rullemenu i øverste venstre hjørne af skærmen. Nederst finder du muligheden "avanceret søgning", som du kan klikke på. Det er derefter op til dig at afgøre, hvilke kriterier der er mest relevante for dig. Når du har valgt, kan du downloade de opnåede resultater ved at scrolle ned i bunden af siden og klikke på "Download resultater".
 
-- The Open Food Facts database is available as open data under the Open Database License (ODbL), see [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for the legal details. The two conditions are attribution and share-alike. If you combine data from Open Food Facts with other databases, then the ODbL requires that the resulting database must be released as open data as well. It also means that you can combine the data only with sources that would allow such redistribution.
+Du kan også besøge:
 
-- You must **always** use a custom User-Agent when performing API calls to identify your app.
+- Vores API-dokumentation:[ https://openfoodfacts.github.io/api-documentation/](https://openfoodfacts.github.io/api-documentation/)
+- Open Food Facts' brugsbetingelser:[ ](https://world.openfoodfacts.org/terms-of-use)[https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use)
+- På vores data:[ https://world.openfoodfacts.org/data](https://world.openfoodfacts.org/data)
+
+---
+
+## Er der betingelser for at bruge API'en?
+
+Al dokumentation om API-brug kan findes på [API-dokumentationssiden](https://openfoodfacts.github.io/openfoodfacts-server/api/), men her er en hurtig opsummering:
+
+- Open Food Facts-databasen er tilgængelig som åbne data under Open Database License (ODbL). Se [https://world.openfoodfacts.org/terms-of-use](https://world.openfoodfacts.org/terms-of-use) for juridiske detaljer. De to betingelser er tilskrivning og deling på samme vilkår. Hvis du kombinerer data fra Open Food Facts med andre databaser, derefter ODbL kræver, at den resulterende database også frigives som åbne data. Det betyder også, at du kun kan kombinere data med kilder, der giver mulighed for en sådan omfordeling.
+
+- Du skal **altid** bruge en brugerdefineret brugeragent, når du udfører API-kald for at identificere din app.
 
 - Rate-limits are enforced for each API endpoint.
 
