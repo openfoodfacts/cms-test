@@ -51,7 +51,7 @@ Please note: [Open Food Facts is a collaborative database of food products](htt
 
 ---
 
-## Is the information and data on products verified?
+## Er oplysningerne og dataene på produkterne verificeret?
 
 The information and data is submited by the Open Food Facts contributors. Bidragyderne indsender også produktfotos- og -etiketter, ingredienslister samt næringsindholdsoversigt. Hvis i tvivl, kan besøgende således selv kontrollere nøjagtigheden, og foreliggerder en fejl, kan de korrigere den på stedet.
 
