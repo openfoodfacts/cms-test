@@ -4,24 +4,24 @@ description: "4 spørgsmål"
 lang: en-gb
 order: 17
 category-level: 1
-icon: info-circle
+icon: infocirkel
 ---
 
-{{< fa "info-circle" size=3x >}}
+{{< fa "infocirkel" size=3x >}}
 
-## What type of information should be shared?
+## Hvilken type information skal deles?
 
-Any information you have is welcome, from nutritional information to packaging information.
+Enhver information, du har, er velkommen, lige fra næringsoplysninger til emballageoplysninger.
 
-This makes it possible to establish a complete file, to calculate all the scores with precision and more generally a transparency appreciated by consumers.
+Dette gør det muligt at etablere en komplet fil, at beregne alle scorer med præcision og mere generelt en gennemsigtighed, som forbrugerne værdsætter.
 
-However we do recommend you prioritize the following fields:
+Vi anbefaler dog, at du prioriterer følgende felter:
 
-- Nutritional information
-- Product category (e.g. drinks, cheese, yogurt, etc.)
-- Name of the product
-- Allergens
-- and the ingredients, this field is not mandatory but recommended for an optimal usage and determination of the scores
+- Næringsinformation
+- Produktkategori (f.eks. drikkevarer, ost, yoghurt osv.)
+- Produktets navn
+- Allergener
+- og ingredienserne. Dette felt er ikke obligatorisk, men anbefales for optimal brug og bestemmelse af scorerne.
 
 → For more details, we invite you to download our [user guide](https://blog.openfoodfacts.org/en/EN-Pro-Plateform-User-Guide.pdf) and/or consult our [video tutorials](https://www.youtube.com/playlist?list=PLjAH-USadsF3xgSVfUUBS4we3XBr-1r55) :-)
 
@@ -37,22 +37,22 @@ You can also download a subset of the data (your brand for example) thanks to th
 
 ---
 
-## Is access to the Pro platform and the import of data free?
+## Er adgang til Pro-platformen og import af data gratis?
 
-Absolutely, and it will be forever.Alle tjenester leveret af Open Food Facts er gratis.  
-We are very pleased that you have decided to contribute your product data to food transparency, and we thank you for this.
+Absolut, og det vil det være for evigt.Alle tjenester leveret af Open Food Facts er gratis.  
+Vi er meget glade for, at du har besluttet at bidrage med dine produktdata til fødevaretransparens, og vi takker dig for dette.
 
 ---
 
-## I would like to suggest improvements for the professional platform, how can I do so ?
+## Jeg vil gerne foreslå forbedringer til den professionelle platform, hvordan kan jeg gøre det?
 
-Thank you for your willingness to participate in food transparency!
+Tak for din villighed til at deltage i arbejdet med gennemsigtighed i fødevarer!
 
 The best way to share feedback is by filling in [this form](https://docs.google.com/forms/d/1QSZ_v50Ueoe8JPCqivvcyEdv8AnsuUbrbKQQofSAMFc/edit).
 
 You can also contact us to make suggestions either via [our forum](https://forum.openfoodfacts.org/) or via [Slack](https://openfoodfacts.slack.com/ssb/redirect).
 
-Join our Slack and enter the channel #producers to get in touch with us.
+Deltag i vores Slack og indtaste kanalen #producers til at komme i kontakt med os.
 
 ---
 
