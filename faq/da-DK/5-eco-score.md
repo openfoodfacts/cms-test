@@ -1,6 +1,6 @@
 ---
 title: "{{< fa user-plus size=2x >}} Eco-Score"
-description: "5 questions"
+description: "5 spørgsmål"
 lang: en-gb
 order: 5
 category-level: 0
@@ -9,19 +9,19 @@ icon: user-plus
 
 {{< fa "user-plus" size=3x >}}
 
-## What is the Eco-Score methodology?
+## Hvad er Eco-Score-metoden?
 
-The Eco-Score is based on the calculation of the life cycle analysis produced by ADEME (the ecological transition agency) and INRAE (the national institute for agronomic research). About fifteen components are calculated and linked to create the PEF score.
+Eco-Score er baseret på beregningen af livscyklusanalysen udarbejdet af ADEME (det franske agentur for økologisk overgang) og INRAE (det franske nationale institut for agronomisk forskning). Omkring femten komponenter beregnes og forbindes for at danne PEF-scoren.
 
-To this PEF score are added bonuses and maluses (mode of production, origin of
+Til denne PEF-score lægges bonusser og fejl (produktionsmetode, oprindelse af
 
-ingredients, endangered species, packaging) in order to calculate the Eco-Score.
+ingredienser, truede arter, emballage) for at beregne Eco-scoren.
 
 For more information, see the summary page [https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products](https://world.openfoodfacts.org/eco-score-the-environmental-impact-of-food-products) on Open Food Facts as well as on the Eco-Score consortium website. (Eco-Score presentation [https://docs.score-environnemental.com/](https://docs.score-environnemental.com/))
 
 ---
 
-## What type of information must be given for the Eco-Score to be calculated as accurately as possible?
+## Hvilken type information skal gives for at Eco-scoren kan beregnes så præcist som muligt?
 
 For the Eco-Score to be calculated exactly, the percentage of each ingredient and its origin must be specified.
 
